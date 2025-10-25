@@ -1,22 +1,53 @@
-/* ====== إعداد مصدر البيانات ====== */
-/* مهم: ده رابط الـ RAW الصحيح لملف الأخبار في ريبوك */
+/* ====== مصدر البيانات من الريبو (RAW) ====== */
 const NEWS_API_URL =
   "https://raw.githubusercontent.com/Aazhary/azhary-cyber-news/main/news.json";
 
-/* حجم الدُفعة المبدئيّة للعرض */
+/* إعدادات عرض */
 const PAGE_SIZE = 12;
 
-/* حالة محليّة */
-let ALL = [];          // كل الأخبار بعد التطبيع
-let FILTERED = [];     // نتيجة البحث الحالي
+/* حالة */
+let ALL = [];
+let FILTERED = [];
 let visibleCount = PAGE_SIZE;
 
-/* أدوات مساعدة */
+/* أدوات */
 const $ = (id) => document.getElementById(id);
 const escapeHTML = (s='') => s.replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-/* تطبيع الحقول لضمان وجود المفاتيح */
+/* بديل SVG عند فشل الصور */
+const FALLBACK_SVG =
+  'data:image/svg+xml;charset=UTF-8,' +
+  encodeURIComponent(`
+  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="420">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+        <stop stop-color="#0a2a33" offset="0"/>
+        <stop stop-color="#113b46" offset="1"/>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#g)"/>
+    <g fill="#6ff" font-family="Segoe UI,Roboto,Arial" font-size="28">
+      <text x="32" y="70">Cybersecurity</text>
+      <text x="32" y="112">news.azhary</text>
+    </g>
+  </svg>`);
+
+/* اختيار صورة مناسبة */
+function pickThumb(it){
+  if (it.img && typeof it.img === 'string') return it.img;
+
+  try{
+    if (it.link){
+      const host = new URL(it.link).hostname;
+      // Google Favicons يرجع PNG ويشتغل كويس في InPrivate
+      return `https://www.google.com/s2/favicons?domain=${host}&sz=256`;
+    }
+  }catch(e){/* ignore */}
+  return FALLBACK_SVG;
+}
+
+/* تطبيع */
 function normalizeNews(arr) {
   if (!Array.isArray(arr)) return [];
   return arr.map((x, i) => ({
@@ -35,11 +66,10 @@ function normalizeNews(arr) {
   }));
 }
 
-/* تحميل الأخبار من GitHub + منع الكاش */
+/* تحميل الأخبار */
 async function loadNews() {
   try {
-    const url = `${NEWS_API_URL}?_=${Date.now()}`;   // cache-busting
-    const res = await fetch(url, { cache: 'no-store' });
+    const res = await fetch(`${NEWS_API_URL}?_=${Date.now()}`, { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
@@ -57,7 +87,7 @@ async function loadNews() {
   }
 }
 
-/* تهيئة الواجهة: بحث + تحميل المزيد + إغلاق النافذة */
+/* تهيئة الواجهة */
 function initUI() {
   const search = $('searchInput');
   const loadMore = $('loadMoreBtn');
@@ -95,7 +125,7 @@ function initUI() {
   render();
 }
 
-/* رسم البطاقات */
+/* رسم */
 function render() {
   const grid = $('newsGrid');
   grid.innerHTML = '';
@@ -107,17 +137,28 @@ function render() {
     (FILTERED.length > visibleCount) ? 'block' : 'none';
 }
 
-/* بطاقة الخبر */
+/* بطاقة */
 function card(it) {
   const el = document.createElement('article');
   el.className = 'news-card';
-  el.innerHTML = `
-    <div class="thumb" style="${it.img ? `background-image:url('${escapeHTML(it.img)}')` : ''}"></div>
-    <div class="body">
-      <div class="meta"><span>${escapeHTML(it.source)}</span> – <time>${escapeHTML(it.published)}</time></div>
-      <h3>${escapeHTML(it.title)}</h3>
-      ${it.category ? `<span class="badge">${escapeHTML(it.category)}</span>` : ''}
-    </div>`;
+
+  const img = document.createElement('img');
+  img.className = 'thumb';
+  img.loading = 'lazy';
+  img.referrerPolicy = 'no-referrer';
+  img.src = pickThumb(it);
+  img.onerror = () => { img.src = FALLBACK_SVG; };
+
+  const body = document.createElement('div');
+  body.className = 'body';
+  body.innerHTML = `
+    <div class="meta"><span>${escapeHTML(it.source)}</span> – <time>${escapeHTML(it.published)}</time></div>
+    <h3>${escapeHTML(it.title)}</h3>
+    ${it.category ? `<span class="badge">${escapeHTML(it.category)}</span>` : ''}
+  `;
+
+  el.appendChild(img);
+  el.appendChild(body);
   el.addEventListener('click', () => openModal(it));
   return el;
 }
