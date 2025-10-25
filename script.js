@@ -1,7 +1,7 @@
 /* ====== إعداد مصدر البيانات ====== */
 /* عدّل السطر التالي باسم حسابك والريبو */
 const NEWS_API_URL =
-  'https://raw.githubusercontent.com/<username>/<repo>/main/news.json';
+  'https://raw.githubusercontent.com/Aazhary/azhary-cyber-news/main/news.json';
 
 /* حجم الدُفعة المبدئيّة للعرض */
 const PAGE_SIZE = 12;
