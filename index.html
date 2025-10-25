@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+  Home page for Ahmed Azhary’s dynamic cyber news site.
+  This page focuses exclusively on cybersecurity news.  Only the news section is
+  bilingual.  Other content such as the biography, experience and projects lives
+  on a separate About page (about.html).  Use the language toggle to switch
+  between Arabic and English summaries for each news article.
+-->
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ahmed Azhary – Cybersecurity News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Navigation bar with link to About page and language toggle for news -->
+  <nav class="navbar">
+    <div class="logo">Azhary</div>
+    <ul class="nav-links">
+      <li><a href="about.html">About</a></li>
+    </ul>
+    <button id="lang-toggle" class="lang-btn">العربية</button>
+  </nav>
+
+  <!-- Hero section dedicated to news.  Displays latest cybersecurity stories. -->
+  <section id="hero-news" class="hero-news">
+    <div class="hero-news-header">
+      <h1 data-lang="en">Latest Cybersecurity News</h1>
+      <h1 data-lang="ar">أحدث أخبار الأمن السيبراني</h1>
+      <p data-lang="en">Stay informed with the latest security developments.</p>
+      <p data-lang="ar">ابقَ على اطلاع بأحدث التطورات الأمنية.</p>
+    </div>
+    <!-- Search input to filter news items -->
+    <div class="news-search-container">
+      <input id="news-search" class="news-search" type="text" placeholder="Search news..." />
+    </div>
+    <!-- Container for the news grid -->
+    <div id="news-container" class="news-grid"></div>
+    <!-- Button to load more news -->
+    <button id="load-more-btn" class="btn load-more-btn" style="display: none;">Load more</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>

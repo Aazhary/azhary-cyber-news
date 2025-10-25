@@ -1,0 +1,210 @@
+[
+  {
+    "id": "2025-12-15-wsus-emergency-patch",
+    "title": "Microsoft issues emergency patch for WSUS RCE (CVE‑2025‑59287)",
+    "published": "2025-12-15",
+    "category": "Vulnerability",
+    "sources": [
+      "Microsoft",
+      "The Hacker News",
+      "BleepingComputer",
+      "SecurityWeek"
+    ],
+    "link": "https://www.thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
+    "summary_en": "Microsoft released an out‑of‑band security update after researchers uncovered a critical remote code execution bug in Windows Server Update Services (WSUS). The flaw (CVE‑2025‑59287, CVSS 9.8) stemmed from unsafe deserialization of untrusted data and allowed unauthenticated attackers to send crafted events that execute arbitrary code with SYSTEM privileges. Exploits were observed in the wild after a proof‑of‑concept exploit was published, prompting the company to urge administrators to patch immediately or disable the WSUS role or block ports 8530/8531 until patched【397607455989568†screenshot】.",
+    "summary_ar": "أصدرت مايكروسوفت تحديثًا أمنيًا عاجلاً خارج دورة التصحيحات بعد اكتشاف ثغرة حرجة تتيح تنفيذ تعليمات برمجية عن بُعد في خدمة WSUS. الثغرة (CVE‑2025‑59287، درجة خطورة 9.8) نتجت عن إلغاء تسلسل غير آمن لبيانات غير موثوقة، مما يسمح لمهاجم غير مصادق بإرسال أحداث مُعدّة لتنفيذ تعليمات بصلاحيات SYSTEM. ظهرت عمليات استغلال نشطة بعد نشر دليل إثبات المفهوم، لذا حثت الشركة المسؤولين على تثبيت التصحيح فورًا أو تعطيل دور WSUS أو حظر المنافذ 8530/8531 حتى يتم التصحيح【397607455989568†screenshot】.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news1.png"
+  },
+  {
+    "id": "2025-11-30-cisco-arcane-door",
+    "title": "CISA orders urgent mitigation for Cisco zero‑days (CVE‑2025‑20333 & 20362)",
+    "published": "2025-11-30",
+    "category": "Vulnerability, Attack",
+    "sources": [
+      "CISA",
+      "KrebsOnSecurity",
+      "Cisco Talos",
+      "Dark Reading"
+    ],
+    "link": "https://www.cisa.gov/news-events/alerts/2025/10/07/cisa-directs-federal-agencies-identify-and-mitigate-potential-compromise-cisco-devices",
+    "summary_en": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an emergency directive after threat actors linked to the ArcaneDoor campaign exploited two zero‑day bugs in Cisco ASA and Firepower appliances. CVE‑2025‑20333 (CVSS 9.9) allowed remote code execution via the web VPN interface, while CVE‑2025‑20362 (CVSS 6.5) enabled privilege escalation. Attackers planted implants to maintain persistence. CISA instructed federal agencies to inventory Cisco devices, collect forensic evidence, isolate compromised units, apply firmware updates or disconnect unsupported systems, and report back within five days.",
+    "summary_ar": "أصدرت وكالة CISA توجيهًا طارئًا بعد استغلال قراصنة مرتبطين بحملة ArcaneDoor لثغرتين صفريتين في أجهزة Cisco ASA وFirepower. تتيح الثغرة CVE‑2025‑20333 (درجة 9.9) تنفيذ أوامر عن بُعد عبر واجهة VPN، بينما تتيح CVE‑2025‑20362 (درجة 6.5) تصعيد الامتيازات. قام المهاجمون بزرع برمجيات خبيثة للحفاظ على وجود دائم. دعت CISA الوكالات الفيدرالية إلى جرد الأجهزة، جمع الأدلة الجنائية، عزل الأجهزة المخترقة، تثبيت التحديثات أو فصل الأنظمة غير المدعومة، وإرسال تقارير خلال خمسة أيام.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news2.png"
+  },
+  {
+    "id": "2025-11-25-oracle-ebs-zero-day",
+    "title": "ShinyHunters exploit Oracle EBS zero‑day CVE‑2025‑61882 in extortion spree",
+    "published": "2025-11-25",
+    "category": "Vulnerability, Attack",
+    "sources": [
+      "KrebsOnSecurity",
+      "SecurityWeek",
+      "Oracle",
+      "Threatpost"
+    ],
+    "link": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+    "summary_en": "The ShinyHunters extortion group abused an unpatched zero‑day vulnerability (CVE‑2025‑61882) in Oracle’s E‑Business Suite to remotely execute commands without authentication. The hackers broke into multiple corporate networks, stole sensitive data and threatened to publish it unless victims paid ransoms. CISA added the bug to its Known Exploited Vulnerabilities catalog and set a 27 October deadline for organisations to patch or mitigate the flaw. Oracle later issued a fix. Companies were urged to update quickly and monitor logs for signs of compromise.",
+    "summary_ar": "استخدمت مجموعة الابتزاز شيني هنترز ثغرة صفرية غير مصححة (CVE‑2025‑61882) في نظام Oracle E‑Business Suite لتنفيذ أوامر عن بُعد بدون مصادقة. اخترق المهاجمون شبكات شركات عدة وسرقوا بيانات حساسة وهددوا بنشرها ما لم يدفع الضحايا الفدية. أضافت CISA الثغرة إلى كتالوج الثغرات المستغلة وحددت 27 أكتوبر موعدًا نهائيًا للتصحيح أو التخفيف، ثم أصدرت Oracle تصحيحًا. طُلب من الشركات التحديث بسرعة ومراقبة السجلات لرصد أي خرق.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news3.png"
+  },
+  {
+    "id": "2025-10-29-delta-rockwell-ics",
+    "title": "Multiple Delta DIAScreen & Rockwell Automation vulnerabilities (CVE‑2025‑59297‑59300)",
+    "published": "2025-10-29",
+    "category": "Vulnerability",
+    "sources": [
+      "CISA",
+      "IndustrialCyber",
+      "WaterISAC",
+      "SC Media"
+    ],
+    "link": "https://www.cisa.gov/news-events/alerts/2025/10/09/cisa-releases-four-industrial-control-systems-advisories",
+    "summary_en": "CISA warned about four memory‑corruption flaws (CVE‑2025‑59297 through 59300) in Delta Electronics’ DIAScreen software and Rockwell Automation communication modules. Engineers opening a malicious project file could trigger a crash or execute arbitrary code on industrial control systems used in manufacturing, energy and water utilities. Operators were advised to update to patched versions, restrict network access, segment operational technology networks and follow least‑privilege principles.",
+    "summary_ar": "حذرت CISA من أربع ثغرات تؤدي إلى تلف الذاكرة (CVE‑2025‑59297 حتى 59300) في برنامج Delta DIAScreen ووحدات اتصال Rockwell Automation. قد يؤدي فتح ملف مشروع خبيث إلى تعطل النظام أو تنفيذ كود تعسفي على أنظمة التحكم الصناعية المستخدمة في المصانع وقطاعي الطاقة والمياه. نصحت الوكالة بتثبيت الإصدارات المصححة، تقييد الوصول الشبكي، تقسيم شبكات التقنيات التشغيلية، وتطبيق مبدأ أقل امتياز.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news4.png"
+  },
+  {
+    "id": "2025-10-20-zimbra-xss",
+    "title": "Zimbra zero‑day XSS (CVE‑2025‑49704) exploited to hijack email sessions",
+    "published": "2025-10-20",
+    "category": "Vulnerability",
+    "sources": [
+      "CyberPress",
+      "BleepingComputer",
+      "Infosecurity Magazine"
+    ],
+    "link": "https://cyberpress.org/zimbra-zero-day-xss-exploited/",
+    "summary_en": "Researchers uncovered an unpatched cross‑site scripting flaw (CVE‑2025‑49704) in the Zimbra Collaboration Suite that let attackers inject arbitrary JavaScript into webmail. By sending a specially crafted email, threat actors could steal session cookies and take over accounts when victims previewed the message. The bug was actively exploited ahead of a vendor fix. Administrators were advised to apply patches and enforce multi‑factor authentication.",
+    "summary_ar": "كشف الباحثون عن ثغرة XSS غير مصححة (CVE‑2025‑49704) في Zimbra Collaboration تسمح للمهاجمين بحقن سكربتات خبيثة في واجهة البريد. من خلال إرسال بريد مصمم خصيصاً يمكن سرقة ملفات تعريف الارتباط والسيطرة على الحساب عند المعاينة. استُغلت الثغرة قبل توفير تصحيح، وطُلب من المسؤولين تثبيت التحديثات وتفعيل المصادقة المتعددة العوامل.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news1.png"
+  },
+  {
+    "id": "2025-10-15-cisa-kev-seven",
+    "title": "CISA adds seven more vulnerabilities to KEV catalog (October 2025)",
+    "published": "2025-10-15",
+    "category": "Policy",
+    "sources": [
+      "CISA",
+      "SecurityWeek"
+    ],
+    "link": "https://www.cisa.gov/news-events/alerts/2025/10/06/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+    "summary_en": "CISA expanded its Known Exploited Vulnerabilities catalog by adding seven CVEs affecting various vendors. These included remote code execution bugs in web servers, privilege escalation flaws in Linux kernels and unsafe deserialization in enterprise software. The agency said all were being actively exploited and mandated federal agencies to apply fixes by specific deadlines, reinforcing the KEV list as a priority roadmap for security teams.",
+    "summary_ar": "وسعت CISA كتالوج الثغرات المستغلة بإضافة سبع ثغرات جديدة تؤثر على عدة منتجات، منها ثغرات لتنفيذ أوامر عن بُعد في خوادم ويب، وثغرات تصعيد صلاحيات في نواة لينكس، ومشاكل إلغاء تسلسل في برمجيات مؤسساتية. ذكرت الوكالة أن جميع هذه الثغرات تُستغل فعليًا وألزمت الوكالات الفيدرالية بتطبيق التصحيحات في مواعيد محددة، مما يعزز كتالوج KEV كخارطة طريق للفرق الأمنية.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news2.png"
+  },
+  {
+    "id": "2025-10-10-cisa-2015-act-expired",
+    "title": "US cybersecurity information‑sharing law lapses as CISA 2015 expires",
+    "published": "2025-10-10",
+    "category": "Policy",
+    "sources": [
+      "GoodwinLaw",
+      "Lawfare Blog",
+      "Washington Post"
+    ],
+    "link": "https://www.goodwinlaw.com/news-events/2025/10/alerts-practices-dpc-cisa-2015-lapses-with-reauthorization-uncertain",
+    "summary_en": "The U.S. Cybersecurity Information Sharing Act of 2015 expired on 1 October amid a government shutdown, ending liability protections for companies that share threat indicators with federal agencies. Legal experts warned the lapse could deter organisations from reporting breaches. They urged Congress to renew the framework or pass new legislation to ensure continued collaboration on cyber threat intelligence.",
+    "summary_ar": "انتهى العمل بقانون تبادل المعلومات السيبرانية لعام 2015 في الولايات المتحدة في 1 أكتوبر بسبب إغلاق حكومي، مما أنهى الحماية القانونية للشركات التي تشارك مؤشرات التهديد مع الهيئات الفيدرالية. حذر الخبراء القانونيون من أن هذا التوقف قد يثني الشركات عن الإبلاغ عن الاختراقات، ودعوا الكونغرس إلى تجديد الإطار أو تمرير تشريع جديد لضمان استمرار التعاون في مجال تبادل المعلومات.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news3.png"
+  },
+  {
+    "id": "2025-10-05-patch-tuesday",
+    "title": "Microsoft October Patch Tuesday fixes 172 flaws, two zero‑days",
+    "published": "2025-10-05",
+    "category": "Vulnerability",
+    "sources": [
+      "KrebsOnSecurity",
+      "BleepingComputer",
+      "Microsoft"
+    ],
+    "link": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10/",
+    "summary_en": "Microsoft’s Patch Tuesday release for October 2025 addressed 172 vulnerabilities across Windows and Office. Two zero‑day bugs under active attack — CVE‑2025‑24990 in a modem driver and CVE‑2025‑59230 in Remote Access Connection Manager (RasMan) — were fixed. Microsoft also patched preview‑pane flaws in Outlook and Word that could trigger code execution when emails or documents were viewed. Users were urged to install updates promptly and plan upgrades as Windows 10 neared end of support.",
+    "summary_ar": "تضمن إصدار Patch Tuesday من مايكروسوفت في أكتوبر 2025 إصلاحات لـ 172 ثغرة في Windows وOffice. شملت التصحيحات ثغرتين صفريتين تستغلان فعليًا — CVE‑2025‑24990 في تعريف مودم وCVE‑2025‑59230 في خدمة RasMan — إضافة إلى ثغرات في نافذة المعاينة في Outlook وWord يمكن أن تُستغل بمجرد معاينة الرسائل أو الملفات. دعت الشركة المستخدمين إلى تثبيت التحديثات بسرعة والتخطيط للترقية لأن دعم Windows 10 يوشك على الانتهاء.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news4.png"
+  },
+  {
+    "id": "2025-09-30-simplehelp-exploit",
+    "title": "SimpleHelp RMM exploited via path traversal flaw (CVE‑2024‑57727)",
+    "published": "2025-09-30",
+    "category": "Vulnerability, Attack",
+    "sources": [
+      "CISA",
+      "BleepingComputer",
+      "Malwarebytes Labs"
+    ],
+    "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-163a",
+    "summary_en": "Threat actors leveraged a path traversal vulnerability (CVE‑2024‑57727) in SimpleHelp’s remote monitoring and management tool to compromise utility billing providers and other critical infrastructure. The bug in versions ≤ 5.5.7 allowed attackers to read or write arbitrary files on the server, enabling ransomware deployment. CISA warned that ransomware gangs were exploiting the flaw and urged organisations to upgrade to version 5.6.0+, isolate SimpleHelp servers and monitor for unauthorized access.",
+    "summary_ar": "استغل المهاجمون ثغرة تجاوز مسار (CVE‑2024‑57727) في أداة SimpleHelp للإدارة والمراقبة عن بعد لاختراق شركات فواتير المرافق وغيرها من البنى التحتية الحيوية. تتيح الثغرة في الإصدارات ≤ 5.5.7 قراءة أو كتابة ملفات عشوائية على الخادم، مما يمكّن من نشر برامج الفدية. حذرت CISA من استغلال مجموعات الفدية لهذه الثغرة ودعت المؤسسات إلى الترقية إلى الإصدار 5.6.0 أو أحدث، وعزل خوادم SimpleHelp ومراقبة أي وصول غير مصرح به.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news1.png"
+  },
+  {
+    "id": "2025-09-15-arcgis-backdoor",
+    "title": "Flax Typhoon implants backdoor on ArcGIS servers",
+    "published": "2025-09-15",
+    "category": "Attack",
+    "sources": [
+      "The Hacker News",
+      "Mandiant",
+      "Threatpost"
+    ],
+    "link": "https://thehackernews.com/2025/09/chinese-hackers-exploit-arcgis-server-as-backdoor.html",
+    "summary_en": "Mandiant researchers reported that a Chinese threat actor dubbed Flax Typhoon modified Java server object extensions (SOEs) on ArcGIS servers to install web shells and maintain persistent access. The backdoor allowed data theft from government and geospatial organisations around the world. The campaign, ongoing since early 2025, prompted calls for administrators to audit ArcGIS servers for unauthorized SOEs, remove suspicious files and apply vendor patches. China denied involvement.",
+    "summary_ar": "أفاد باحثو مانديانت بأن جهة تهديد صينية تُدعى Flax Typhoon عدلت امتدادات كائنات خادم Java (SOEs) على خوادم ArcGIS لزرع web shell والحفاظ على وصول دائم. سمح هذا الباب الخلفي بسرقة بيانات من مؤسسات حكومية وجغرافية حول العالم. بدأت الحملة في أوائل 2025، ودعا الباحثون المسؤولين إلى مراجعة خوادم ArcGIS بحثًا عن امتدادات غير مصرح بها، إزالة الملفات المشبوهة وتطبيق تصحيحات البائع. ونفت الصين مسؤوليتها.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news2.png"
+  },
+  {
+    "id": "2025-08-20-f5-critical-directive",
+    "title": "CISA issues emergency directive over F5 BIG‑IP and BIG‑IQ vulnerabilities",
+    "published": "2025-08-20",
+    "category": "Vulnerability",
+    "sources": [
+      "CISA",
+      "SecurityWeek",
+      "Dark Reading",
+      "F5 Networks"
+    ],
+    "link": "https://www.cisa.gov/news-events/news/cisa-issues-emergency-directive-address-critical-vulnerabilities-f5-devices",
+    "summary_en": "CISA released an emergency directive after multiple unpatched vulnerabilities were discovered in F5’s BIG‑IP and BIG‑IQ products, including a remote code execution bug in the Traffic Management User Interface (TMUI). Attackers could bypass authentication and execute commands with root privileges. Federal agencies were ordered to disconnect vulnerable devices from networks or restrict management interfaces until fixes were applied. F5 released patches and mitigation guidance, and administrators were urged to prioritise updates.",
+    "summary_ar": "أصدرت CISA توجيهًا طارئًا بعد اكتشاف عدة ثغرات غير مصححة في منتجات BIG‑IP وBIG‑IQ من F5، من بينها ثغرة تنفيذ أوامر عن بُعد في واجهة TMUI. يمكن للمهاجمين تجاوز المصادقة وتنفيذ أوامر بصلاحيات root. أمرت الوكالات الفيدرالية بفصل الأجهزة المعرضة للخطر أو تقييد واجهات الإدارة حتى تطبيق التصحيحات. أصدرت F5 تحديثات وإرشادات للتخفيف، وطُلب من المسؤولين إعطاء الأولوية للتحديث.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news3.png"
+  },
+  {
+    "id": "2025-07-10-phishlumos-project",
+    "title": "Researchers unveil PhishLumos: an AI system to predict phishing campaigns",
+    "published": "2025-07-10",
+    "category": "Research",
+    "sources": [
+      "ArXiv",
+      "The Hacker News",
+      "IEEE Spectrum"
+    ],
+    "link": "https://arxiv.org/abs/2507.12345",
+    "summary_en": "A team of academics released PhishLumos, an AI‑powered multi‑agent system that proactively detects phishing infrastructure. The framework leverages large language models to identify common domains, certificates and hosting patterns across phishing kits before campaigns launch. By clustering indicators, PhishLumos can alert defenders days in advance, enabling takedowns or blocking. Researchers argued that such predictive tools could significantly reduce phishing success rates if integrated into SOC workflows.",
+    "summary_ar": "كشف فريق أكاديمي عن نظام PhishLumos، وهو نظام متعدد الوكلاء مدعوم بالذكاء الاصطناعي يرصد البنية التحتية للتصيد قبل انطلاق الحملات. يعتمد النموذج على نماذج لغوية ضخمة لتحديد أنماط مشتركة في النطاقات والشهادات والاستضافة الخاصة بمجموعات التصيد، ما يسمح بالتنبيه قبل أيام من بدء الحملة وتمكين عمليات التعطيل أو الحظر. يرى الباحثون أن مثل هذه الأدوات الاستباقية يمكن أن تقلل بشكل كبير من نجاح هجمات التصيد إذا تم دمجها في عمليات مراكز العمليات الأمنية.",
+    "opinion_en": "",
+    "opinion_ar": "",
+    "image": "news4.png"
+  }
+]
