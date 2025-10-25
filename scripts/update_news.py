@@ -1,3 +1,46 @@
+# أعلى الملف
+import re, urllib.parse, requests
+from bs4 import BeautifulSoup
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/127.0 Safari/537.36"
+}
+
+def find_og_image(url: str) -> str | None:
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code != 200 or "text/html" not in r.headers.get("Content-Type",""):
+            return None
+        soup = BeautifulSoup(r.text, "lxml")
+
+        # 1) Open Graph / Twitter
+        for sel, attr in [
+            ('meta[property="og:image"]', "content"),
+            ('meta[name="twitter:image"]', "content"),
+            ('link[rel="image_src"]', "href"),
+        ]:
+            tag = soup.select_one(sel)
+            if tag and tag.get(attr):
+                return urllib.parse.urljoin(url, tag.get(attr).strip())
+
+        # 2) أول صورة داخل المقال
+        article = soup.find("article") or soup
+        img = article.find("img", src=True)
+        if img:
+            return urllib.parse.urljoin(url, img["src"].strip())
+    except Exception:
+        return None
+    return None
+
+def to_proxy(img_url: str | None) -> str | None:
+    if not img_url:
+        return None
+    # بعض المواقع تمنع الـ hotlink. استخدم وسيط خفيف (weserv)
+    # احذف البروتوكول عشان الوسيط يشتغل
+    clean = re.sub(r"^https?://", "", img_url)
+    return f"https://images.weserv.nl/?url={urllib.parse.quote(clean, safe='')}&w=800&h=450&fit=cover"
+
 # scripts/update_news.py
 import json, re, time, hashlib, html
 from datetime import datetime, timedelta, timezone
