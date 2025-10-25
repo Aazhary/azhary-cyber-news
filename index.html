@@ -1,46 +1,71 @@
 <!DOCTYPE html>
-<!--
-  Home page for Ahmed Azhary’s dynamic cyber news site.
-  This page focuses exclusively on cybersecurity news.  Only the news section is
-  bilingual.  Other content such as the biography, experience and projects lives
-  on a separate About page (about.html).  Use the language toggle to switch
-  between Arabic and English summaries for each news article.
--->
-<html lang="en" dir="ltr">
+<html lang="ar" dir="rtl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Ahmed Azhary – Cybersecurity News</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Azhary | Latest Cybersecurity News</title>
   <link rel="stylesheet" href="style.css" />
+
+  <!-- إصلاحات سريعة للـ hero والبحث والطبقات -->
+  <style>
+    .hero { position: relative; min-height: 280px; display: grid; place-items: center; }
+    .hero::after { content: ""; position: absolute; inset: 0;
+      background: rgba(0,0,0,.45); backdrop-filter: blur(2px); pointer-events: none; }
+    .hero .hero-content { position: relative; z-index: 10; text-align: center; }
+    .search-wrap { position: relative; z-index: 20; width: min(720px, 92vw); margin: 12px auto 0; }
+    #searchInput { width: 100%; padding: 12px 14px; border-radius: 10px; border: 1px solid #0aa; background:#0b1b22; color:#e7ffff; }
+    #newsGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px,1fr)); gap: 18px; padding: 18px; }
+    .news-card { background:#0e1a21; color:#eafcff; border-radius: 16px; border:1px solid #09353b; overflow: hidden; box-shadow: 0 2px 14px rgba(0,0,0,.25); cursor: pointer; }
+    .news-card .thumb { height: 160px; background:#042b30 url('hero-bg.png') center/cover no-repeat; }
+    .news-card .body { padding: 14px 16px; }
+    .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:.78rem; background:#0b3f45; color:#8ff; margin-top:6px; }
+    .meta { font-size: .8rem; opacity:.85; margin-top:6px }
+    #loadMoreBtn { display:block; margin: 8px auto 36px; padding: 10px 16px; border: 1px solid #0aa; background:#06262b; color:#9ff; border-radius: 10px; cursor:pointer; }
+    /* نافذة التفاصيل */
+    .modal-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.55); display:none; align-items:center; justify-content:center; z-index: 1000; }
+    .modal { width: min(860px, 94vw); max-height: 88vh; overflow:auto; background:#0e1a21; color:#dff; border:1px solid #0a3a3f; border-radius: 16px; padding: 18px; }
+    .modal h3 { margin: 0 0 8px; }
+    .modal .srcs a { color:#7fe; text-decoration: underline; }
+    .error { padding:16px; background:#3b0f12; border:1px solid #c33; color:#fee; border-radius: 10px; }
+  </style>
 </head>
 <body>
-  <!-- Navigation bar with link to About page and language toggle for news -->
-  <nav class="navbar">
-    <div class="logo">Azhary</div>
-    <ul class="nav-links">
-      <li><a href="about.html">About</a></li>
-    </ul>
-    <button id="lang-toggle" class="lang-btn">العربية</button>
-  </nav>
+  <header class="topbar" style="display:flex;justify-content:space-between;align-items:center;padding:10px 16px;background:#07171c;border-bottom:1px solid #0a2f34;">
+    <div style="color:#7ff; font-weight:700">Azhary</div>
+    <nav><a href="about.html" style="color:#aef">About</a></nav>
+  </header>
 
-  <!-- Hero section dedicated to news.  Displays latest cybersecurity stories. -->
-  <section id="hero-news" class="hero-news">
-    <div class="hero-news-header">
-      <h1 data-lang="en">Latest Cybersecurity News</h1>
-      <h1 data-lang="ar">أحدث أخبار الأمن السيبراني</h1>
-      <p data-lang="en">Stay informed with the latest security developments.</p>
-      <p data-lang="ar">ابقَ على اطلاع بأحدث التطورات الأمنية.</p>
+  <section class="hero" style="background:url('hero-bg.jpg') center/cover no-repeat;">
+    <div class="hero-content">
+      <h1 style="margin:0;color:#7ff;">أحدث أخبار الأمن السيبراني</h1>
+      <p style="margin:6px 0 0;color:#d6ffffb0">ابقَ على اطلاع بآخر التطورات</p>
+      <div class="search-wrap">
+        <input id="searchInput" type="search" placeholder="ابحث باسم CVE، منتج، أو كلمة..." autocomplete="off" />
+      </div>
     </div>
-    <!-- Search input to filter news items -->
-    <div class="news-search-container">
-      <input id="news-search" class="news-search" type="text" placeholder="Search news..." />
-    </div>
-    <!-- Container for the news grid -->
-    <div id="news-container" class="news-grid"></div>
-    <!-- Button to load more news -->
-    <button id="load-more-btn" class="btn load-more-btn" style="display: none;">Load more</button>
   </section>
 
-  <script src="script.js"></script>
+  <main>
+    <div id="newsGrid"></div>
+    <button id="loadMoreBtn" type="button">Load more</button>
+  </main>
+
+  <!-- نافذة التفاصيل -->
+  <div id="modalWrap" class="modal-backdrop">
+    <div class="modal">
+      <div style="display:flex;justify-content:space-between;gap:12px;">
+        <h3 id="mTitle"></h3>
+        <button id="mClose" style="background:#13353a;color:#9ff;border:1px solid #0aa;border-radius:10px;padding:6px 10px;cursor:pointer">إغلاق</button>
+      </div>
+      <div class="meta" id="mMeta"></div>
+      <h4 style="margin:14px 0 6px">الملخص بالعربية</h4>
+      <p id="mAR"></p>
+      <h4 style="margin:14px 0 6px">English Summary</h4>
+      <p id="mEN"></p>
+      <div class="srcs" id="mSrc"></div>
+    </div>
+  </div>
+
+  <script defer src="script.js"></script>
 </body>
 </html>
