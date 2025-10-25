@@ -1,5 +1,19 @@
 [
   {
+    "id": "f237e6a7ad9d60de",
+    "title": "New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot",
+    "link": "https://www.bleepingcomputer.com/news/security/new-cophish-technique-wraps-oauth-phishing-in-microsoft-copilot/",
+    "published": "2025-10-25T16:16:00+00:00",
+    "source": "www.bleepingcomputer.com",
+    "summary_en": "New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot: A new phishing technique dubbed 'CoPhish' weaponizes Microsoft Copilot Studio agents to deliver fraudulent OAuth consent requests via legitimate and trusted Microsoft domains. [...]",
+    "summary_ar": "New 'CoPhish' technique wraps OAuth phishing in Microsoft Copilot — ملخص: A new phishing technique dubbed 'CoPhish' weaponizes Microsoft Copilot Studio agents to deliver fraudulent OAuth consent requests via legitimate and trusted Microsoft domains. [...]",
+    "cves": [],
+    "category": "Threat/Attack",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-cophish-technique-wraps-oauth-phishing-in-microsoft-copilot/"
+    ]
+  },
+  {
     "id": "d8e64fa67b6f4fb4",
     "title": "$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal",
     "link": "https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/",
@@ -407,34 +421,6 @@
     "category": "General",
     "sources": [
       "https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/"
-    ]
-  },
-  {
-    "id": "fc92a7600b0cda9d",
-    "title": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/",
-    "published": "2025-10-23T16:24:06+00:00",
-    "source": "www.bleepingcomputer.com",
-    "summary_en": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks: The Cybersecurity & Infrastructure Security Agency (CISA) is warning that hackers are exploiting a critical vulnerability in the Motex Landscope Endpoint Manager. [...]",
-    "summary_ar": "CISA warns of Lanscope Endpoint Manager flaw exploited in attacks — ملخص: The Cybersecurity & Infrastructure Security Agency (CISA) is warning that hackers are exploiting a critical vulnerability in the Motex Landscope Endpoint Manager. [...]",
-    "cves": [],
-    "category": "Vulnerability",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-lanscope-endpoint-manager-flaw-exploited-in-attacks/"
-    ]
-  },
-  {
-    "id": "6704e90f9ae87e5d",
-    "title": "Microsoft disables File Explorer preview for downloads to block attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/",
-    "published": "2025-10-23T15:57:41+00:00",
-    "source": "www.bleepingcomputer.com",
-    "summary_en": "Microsoft disables File Explorer preview for downloads to block attacks: Microsoft says that the File Explorer (formerly Windows Explorer) now automatically blocks previews for files downloaded from the Internet to block credential theft attacks via malicious documents. [...]",
-    "summary_ar": "Microsoft disables File Explorer preview for downloads to block attacks — ملخص: Microsoft says that the File Explorer (formerly Windows Explorer) now automatically blocks previews for files downloaded from the Internet to block credential theft attacks via malicious documents. [...]",
-    "cves": [],
-    "category": "General",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-preview-pane-for-downloads-to-block-ntlm-theft-attacks/"
     ]
   },
   {
