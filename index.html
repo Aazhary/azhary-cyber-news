@@ -4,41 +4,59 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Azhary | Latest Cybersecurity News</title>
+
+  <!-- لو عندك style.css خاصتك اتركه كما هو.
+       الأسطر الداخلية أدناه تُصلّح الـ hero والبحث والطبقات. -->
   <link rel="stylesheet" href="style.css" />
 
-  <!-- إصلاحات سريعة للـ hero والبحث والطبقات -->
   <style>
-    .hero { position: relative; min-height: 280px; display: grid; place-items: center; }
-    .hero::after { content: ""; position: absolute; inset: 0;
-      background: rgba(0,0,0,.45); backdrop-filter: blur(2px); pointer-events: none; }
-    .hero .hero-content { position: relative; z-index: 10; text-align: center; }
-    .search-wrap { position: relative; z-index: 20; width: min(720px, 92vw); margin: 12px auto 0; }
-    #searchInput { width: 100%; padding: 12px 14px; border-radius: 10px; border: 1px solid #0aa; background:#0b1b22; color:#e7ffff; }
-    #newsGrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px,1fr)); gap: 18px; padding: 18px; }
-    .news-card { background:#0e1a21; color:#eafcff; border-radius: 16px; border:1px solid #09353b; overflow: hidden; box-shadow: 0 2px 14px rgba(0,0,0,.25); cursor: pointer; }
-    .news-card .thumb { height: 160px; background:#042b30 url('hero-bg.png') center/cover no-repeat; }
-    .news-card .body { padding: 14px 16px; }
+    :root { --teal:#0aa; --ink:#0e1a21; --ink2:#07171c; --text:#eafcff; --muted:#d6ffffb0; }
+    body { background:#061319; color:var(--text); margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto; }
+    header.topbar { display:flex;justify-content:space-between;align-items:center;padding:10px 16px;background:var(--ink2);border-bottom:1px solid #0a2f34; position:sticky; top:0; z-index:50; }
+    header .brand { color:#7ff; font-weight:700; letter-spacing:.3px; }
+    header a { color:#aef; text-decoration:none; }
+
+    .hero { position:relative; min-height:280px; display:grid; place-items:center; background:url('hero-bg.jpg') center/cover no-repeat; }
+    .hero::after { content:""; position:absolute; inset:0; background:rgba(0,0,0,.45); backdrop-filter:blur(2px); pointer-events:none; }
+    .hero .hero-content { position:relative; z-index:10; text-align:center; }
+    .hero h1 { margin:0; color:#7ff; }
+    .hero p { margin:6px 0 0; color:var(--muted); }
+
+    .search-wrap { position:relative; z-index:20; width:min(720px,92vw); margin:12px auto 0; }
+    #searchInput { width:100%; padding:12px 14px; border-radius:10px; border:1px solid var(--teal); background:#0b1b22; color:#e7ffff; outline:none; }
+
+    #newsGrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:18px; padding:18px; }
+    .news-card { background:#0e1a21; color:#eafcff; border-radius:16px; border:1px solid #09353b; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.25); cursor:pointer; transition:transform .12s ease; }
+    .news-card:hover { transform:translateY(-2px); }
+    .news-card .thumb { height:160px; background:#042b30 url('hero-bg.png') center/cover no-repeat; }
+    .news-card .body { padding:14px 16px; }
+    .news-card h3 { margin:6px 0 4px; font-size:1.05rem; color:#85f; }
+    .meta { font-size:.8rem; opacity:.85; margin-top:6px }
     .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:.78rem; background:#0b3f45; color:#8ff; margin-top:6px; }
-    .meta { font-size: .8rem; opacity:.85; margin-top:6px }
-    #loadMoreBtn { display:block; margin: 8px auto 36px; padding: 10px 16px; border: 1px solid #0aa; background:#06262b; color:#9ff; border-radius: 10px; cursor:pointer; }
+
+    #loadMoreBtn { display:block; margin:8px auto 36px; padding:10px 16px; border:1px solid var(--teal); background:#06262b; color:#9ff; border-radius:10px; cursor:pointer; }
+
+    .error { padding:16px; background:#3b0f12; border:1px solid #c33; color:#fee; border-radius:10px; margin:18px; }
+
     /* نافذة التفاصيل */
-    .modal-backdrop { position: fixed; inset: 0; background: rgba(0,0,0,.55); display:none; align-items:center; justify-content:center; z-index: 1000; }
-    .modal { width: min(860px, 94vw); max-height: 88vh; overflow:auto; background:#0e1a21; color:#dff; border:1px solid #0a3a3f; border-radius: 16px; padding: 18px; }
-    .modal h3 { margin: 0 0 8px; }
-    .modal .srcs a { color:#7fe; text-decoration: underline; }
-    .error { padding:16px; background:#3b0f12; border:1px solid #c33; color:#fee; border-radius: 10px; }
+    .modal-backdrop { position:fixed; inset:0; background:rgba(0,0,0,.55); display:none; align-items:center; justify-content:center; z-index:1000; }
+    .modal { width:min(860px,94vw); max-height:88vh; overflow:auto; background:#0e1a21; color:#dff; border:1px solid #0a3a3f; border-radius:16px; padding:18px; }
+    .modal h3 { margin:0 0 8px; }
+    .modal .srcs a { color:#7fe; text-decoration:underline; }
+    .modal .row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+    @media (max-width:720px){ .modal .row{ grid-template-columns:1fr; } }
   </style>
 </head>
 <body>
-  <header class="topbar" style="display:flex;justify-content:space-between;align-items:center;padding:10px 16px;background:#07171c;border-bottom:1px solid #0a2f34;">
-    <div style="color:#7ff; font-weight:700">Azhary</div>
-    <nav><a href="about.html" style="color:#aef">About</a></nav>
+  <header class="topbar">
+    <div class="brand">Azhary</div>
+    <nav><a href="about.html">About</a></nav>
   </header>
 
-  <section class="hero" style="background:url('hero-bg.jpg') center/cover no-repeat;">
+  <section class="hero">
     <div class="hero-content">
-      <h1 style="margin:0;color:#7ff;">أحدث أخبار الأمن السيبراني</h1>
-      <p style="margin:6px 0 0;color:#d6ffffb0">ابقَ على اطلاع بآخر التطورات</p>
+      <h1>أحدث أخبار الأمن السيبراني</h1>
+      <p>ابقَ على اطلاع بآخر التطورات</p>
       <div class="search-wrap">
         <input id="searchInput" type="search" placeholder="ابحث باسم CVE، منتج، أو كلمة..." autocomplete="off" />
       </div>
@@ -58,14 +76,21 @@
         <button id="mClose" style="background:#13353a;color:#9ff;border:1px solid #0aa;border-radius:10px;padding:6px 10px;cursor:pointer">إغلاق</button>
       </div>
       <div class="meta" id="mMeta"></div>
-      <h4 style="margin:14px 0 6px">الملخص بالعربية</h4>
-      <p id="mAR"></p>
-      <h4 style="margin:14px 0 6px">English Summary</h4>
-      <p id="mEN"></p>
-      <div class="srcs" id="mSrc"></div>
+      <div class="row">
+        <div>
+          <h4 style="margin:14px 0 6px">الملخص بالعربية</h4>
+          <p id="mAR"></p>
+        </div>
+        <div>
+          <h4 style="margin:14px 0 6px">English Summary</h4>
+          <p id="mEN"></p>
+        </div>
+      </div>
+      <div class="srcs" id="mSrc" style="margin-top:10px"></div>
     </div>
   </div>
 
-  <script defer src="script.v2.js?v=1"></script>
+  <!-- استخدم اسم جديد للملف لكسر الكاش -->
+  <script defer src="script.v2.js?v=3"></script>
 </body>
 </html>
