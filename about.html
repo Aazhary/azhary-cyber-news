@@ -1,99 +1,85 @@
-<!DOCTYPE html>
-<!--
-  About page for Ahmed Azhary.  This page highlights his role as a seasoned
-  security leader, summarises his accomplishments and projects, offers a
-  downloadable CV and provides a simple contact form.  It uses the same dark
-  neon aesthetic as the home page.  All text is in English.
--->
-<html lang="en">
+<!doctype html>
+<html lang="en" dir="ltr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>About – Ahmed Azhary</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="./style.css?v=7" />
 </head>
 <body>
-  <nav class="navbar">
-    <div class="logo">Azhary</div>
-    <ul class="nav-links">
-      <li><a href="index.html">News</a></li>
-    </ul>
-  </nav>
-  <main>
-    <!-- Hero section with a personal photo as background to set the tone -->
-    <section class="hero-about" style="background-image: url('06E80D33-A879-4668-88F7-A75205D7976A.png');">
-      <div class="hero-overlay">
-        <h1>About Me</h1>
-        <p>
-          I'm Ahmed Azhary, a cybersecurity leader with over a decade of hands‑on
-          experience defending banks, telecom operators and global enterprises.  As
-          the Head of SOC at NBK Egypt, I architected and ran regional security
-          operations centres across multiple countries, aligning strategy with
-          business objectives and regulation.  My passion lies in building
-          high‑performing teams and delivering resilient security at scale.
-        </p>
+  <header class="topbar">
+    <nav class="nav">
+      <a class="brand" href="./">Azhary</a>
+      <div class="nav-links">
+        <a href="./index.html">News</a>
+        <a href="./about.html">About</a>
       </div>
+    </nav>
+  </header>
+
+  <div class="hero-about"></div>
+
+  <main class="about-wrap">
+    <section class="section">
+      <h2>About Me</h2>
+      <p>I'm Ahmed Azhary, a cybersecurity leader with over a decade of hands-on experience…</p>
     </section>
+
     <section class="section">
       <h2>Experience</h2>
-      <p>
-        Throughout my career I have led incident response programmes, threat
-        hunting and defence initiatives for banking, telecom and Fortune 500
-        organisations.  As a senior leader I combine strategic vision with
-        deep technical expertise to deliver transformative security
-        outcomes.  I have built world‑class SOC teams, unified complex
-        security platforms and reduced response times through automation.
-      </p>
-      <p>
-        Currently, as Head of SOC at NBK Egypt, I oversee regional security
-        strategy, manage cross‑country operations and guide our organisation’s
-        cyber resilience.  My work is backed by 10+ years of experience
-        covering network security, incident management, governance and
-        compliance.
-      </p>
+      <p>Currently, as Head of SOC at NBK Egypt, I oversee regional security strategy…</p>
     </section>
+
     <section class="section">
       <h2>Key Projects</h2>
       <ul>
-        <li>Directed multi‑country SOC transformation programmes, integrating SIEM, EDR and SOAR platforms for unified visibility and faster response.</li>
-        <li>Pioneered automated threat hunting and playbook frameworks that reduced detection and response times dramatically.</li>
-        <li>Led enterprise‑wide security migrations and upgrades across firewalls, endpoints and cloud services to strengthen defences.</li>
-        <li>Championed cloud security and compliance initiatives, ensuring adherence to stringent banking regulations and industry standards.</li>
+        <li>Directed multi-country SOC transformation programmes…</li>
+        <li>Pioneered automated threat hunting and playbook frameworks…</li>
+        <li>Led enterprise-wide security migrations and upgrades…</li>
+        <li>Championed cloud security and compliance initiatives…</li>
       </ul>
     </section>
+
     <section class="section">
       <h2>Download CV</h2>
-      <p>
-        For a full history of my professional journey, certifications and
-        detailed achievements, feel free to download my CV.
-      </p>
-      <a href="Ahmed_Azhary_CV.pdf" class="btn" download>Download CV</a>
+      <p><a class="btn" href="./Ahmed_Azhary_CV.pdf" download>Download CV</a></p>
     </section>
+
     <section class="section">
       <h2>Contact Me</h2>
-      <p>
-        If you’d like to collaborate, discuss a project or just say hello, please send
-        me a message using the form below. Your message will appear on screen to
-        confirm it was received. For urgent enquiries, include your email address.
-      </p>
-      <form id="contact-form" class="contact-form">
-        <label for="name">Name</label>
-        <input id="name" type="text" name="name" placeholder="Your Name" required />
-        <label for="email">Email</label>
-        <input id="email" type="email" name="email" placeholder="Your Email" required />
-        <label for="message">Message</label>
-        <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
-        <button type="submit">Send Message</button>
+      <form class="contact-form" id="contactForm">
+        <div>
+          <label for="name">Name</label>
+          <input id="name" name="name" class="input" required />
+        </div>
+        <div>
+          <label for="email">Email</label>
+          <input id="email" name="email" type="email" class="input" required />
+        </div>
+        <div class="full">
+          <label for="msg">Message</label>
+          <textarea id="msg" name="message" class="textarea" required></textarea>
+        </div>
+        <div class="full">
+          <button class="btn" type="submit">Send Message</button>
+        </div>
       </form>
-      <div id="form-status" style="margin-top: 0.75rem; font-style: italic; color: var(--accent-color);"></div>
-      <p style="margin-top: 1rem;">
-        Prefer not to use the form? You can email me directly at
-        <strong>alazhary.ahmed@gmail.com</strong> (copy and paste into your mail client)
-        or connect with me on
-        <a href="http://linkedin.com/in/ahmed-azhary-a1999270" target="_blank">LinkedIn</a>.
-      </p>
+      <p class="muted">Prefer email? <a href="mailto:alazhary.ahmed@gmail.com">alazhary.ahmed@gmail.com</a></p>
     </section>
   </main>
+
+  <script>
+    // إرسال بسيط عبر mailto مع تأكيد بصري
+    document.getElementById('contactForm').addEventListener('submit', (e)=>{
+      e.preventDefault();
+      const n = encodeURIComponent(document.getElementById('name').value);
+      const m = encodeURIComponent(document.getElementById('msg').value);
+      const em = 'alazhary.ahmed@gmail.com';
+      const subject = encodeURIComponent('[Portfolio] Message from ' + n);
+      const body = encodeURIComponent(m + '\n\nFrom: ' + document.getElementById('email').value);
+      window.location.href = `mailto:${em}?subject=${subject}&body=${body}`;
+      alert('تم تحضير الرسالة في عميل البريد لديك. لو لم يُفتح عميل البريد، انسخ الإيميل وأرسل يدويًا.');
+    });
+  </script>
 </body>
-<script src="script.js"></script>
 </html>
