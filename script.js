@@ -155,7 +155,7 @@ let searchQuery = '';
 // When hosted on a server, you can set NEWS_API_URL to a path such
 // as '/news.json' or an external API.  The data should follow the
 // same structure as embeddedNews.
-const NEWS_API_URL = 'https://raw.githubusercontent.com/aazhary/azhary-cyber-news/main/news.json';
+const NEWS_API_URL = 'https://raw.githubusercontent.com/Aazhary/azhary-cyber-news/main/news.json';
 
 // Toggle button
 const langButton = document.getElementById('lang-toggle');
