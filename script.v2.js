@@ -1,7 +1,7 @@
 /* ====== إعداد مصدر البيانات ====== */
-/* عدّل السطر التالي باسم حسابك والريبو */
+/* مهم: ده رابط الـ RAW الصحيح لملف الأخبار في ريبوك */
 const NEWS_API_URL =
-  'https://raw.githubusercontent.com/Aazhary/azhary-cyber-news/main/news.json';
+  "https://raw.githubusercontent.com/Aazhary/azhary-cyber-news/main/news.json";
 
 /* حجم الدُفعة المبدئيّة للعرض */
 const PAGE_SIZE = 12;
@@ -11,12 +11,12 @@ let ALL = [];          // كل الأخبار بعد التطبيع
 let FILTERED = [];     // نتيجة البحث الحالي
 let visibleCount = PAGE_SIZE;
 
-/* مساعدات */
+/* أدوات مساعدة */
 const $ = (id) => document.getElementById(id);
 const escapeHTML = (s='') => s.replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-/* تطبيع الحقول لضمان وجود كل المفاتيح */
+/* تطبيع الحقول لضمان وجود المفاتيح */
 function normalizeNews(arr) {
   if (!Array.isArray(arr)) return [];
   return arr.map((x, i) => ({
@@ -35,20 +35,25 @@ function normalizeNews(arr) {
   }));
 }
 
-/* تحميل الأخبار من GitHub بدون كاش */
+/* تحميل الأخبار من GitHub + منع الكاش */
 async function loadNews() {
   try {
     const url = `${NEWS_API_URL}?_=${Date.now()}`;   // cache-busting
-    const res = await fetch(`${NEWS_API_URL}?_=${Date.now()}`, { cache: "no-store" });
+    const res = await fetch(url, { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    ALL = normalizeNews(data).sort((a,b) => String(b.published).localeCompare(String(a.published)));
+
+    ALL = normalizeNews(data).sort((a,b) =>
+      String(b.published).localeCompare(String(a.published))
+    );
     FILTERED = ALL.slice();
+
     initUI();
+    console.log('NEWS items loaded:', ALL.length);
   } catch (e) {
     console.error('[news load failed]', e);
     $('newsGrid').innerHTML =
-      '<div class="error">تعذر تحميل الأخبار من <b>news.json</b>. تحقق من الرابط في <b>script.js</b>.</div>';
+      '<div class="error">تعذر تحميل الأخبار من <b>news.json</b>. تأكد من الرابط داخل <b>script.v2.js</b>.</div>';
   }
 }
 
@@ -56,19 +61,20 @@ async function loadNews() {
 function initUI() {
   const search = $('searchInput');
   const loadMore = $('loadMoreBtn');
+
   search.removeAttribute('disabled');
 
   search.addEventListener('input', () => {
     const q = search.value.trim().toLowerCase();
     visibleCount = PAGE_SIZE;
+
     if (!q) {
       FILTERED = ALL.slice();
     } else {
       FILTERED = ALL.filter(it => {
         const hay = [
-          it.title, it.summary_ar, it.summary_en,
-          it.category, ...(it.categories||[]),
-          ...(it.cves||[]), ...(it.sources||[])
+          it.title, it.summary_ar, it.summary_en, it.category,
+          ...(it.categories||[]), ...(it.cves||[]), ...(it.sources||[])
         ].join(' ').toLowerCase();
         return hay.includes(q);
       });
@@ -81,7 +87,6 @@ function initUI() {
     render();
   });
 
-  // modal close
   $('mClose').addEventListener('click', closeModal);
   $('modalWrap').addEventListener('click', (e) => {
     if (e.target.id === 'modalWrap') closeModal();
@@ -96,48 +101,51 @@ function render() {
   grid.innerHTML = '';
 
   const slice = FILTERED.slice(0, visibleCount);
-  for (const it of slice) {
-    grid.appendChild(card(it));
-  }
+  slice.forEach(it => grid.appendChild(card(it)));
 
   $('loadMoreBtn').style.display =
     (FILTERED.length > visibleCount) ? 'block' : 'none';
 }
 
-/* إنشاء بطاقة خبر */
+/* بطاقة الخبر */
 function card(it) {
   const el = document.createElement('article');
   el.className = 'news-card';
   el.innerHTML = `
     <div class="thumb" style="${it.img ? `background-image:url('${escapeHTML(it.img)}')` : ''}"></div>
     <div class="body">
-      <div class="meta">
-        <span>${escapeHTML(it.source)}</span> – <time>${escapeHTML(it.published)}</time>
-      </div>
-      <h3 style="margin:6px 0 4px;font-size:1.05rem;color:#85f">${escapeHTML(it.title)}</h3>
+      <div class="meta"><span>${escapeHTML(it.source)}</span> – <time>${escapeHTML(it.published)}</time></div>
+      <h3>${escapeHTML(it.title)}</h3>
       ${it.category ? `<span class="badge">${escapeHTML(it.category)}</span>` : ''}
     </div>`;
   el.addEventListener('click', () => openModal(it));
   return el;
 }
 
-/* فتح نافذة التفاصيل: عربي + English + مصادر */
+/* نافذة التفاصيل */
 function openModal(it) {
   $('mTitle').textContent = it.title;
-  $('mMeta').textContent = `${(it.cves||[]).join(' · ')} ${it.published ? '— '+it.published : ''}`;
+  const metaBits = [];
+  if (it.cves?.length) metaBits.push(it.cves.join(' · '));
+  if (it.published) metaBits.push(it.published);
+  $('mMeta').textContent = metaBits.join(' — ');
+
   $('mAR').textContent = it.summary_ar || '—';
   $('mEN').textContent = it.summary_en || '—';
 
-  const srcHtml = (it.sources && it.sources.length)
-    ? `<p>المصادر: ${
-        it.sources.map(s => `<a href="${s}" target="_blank" rel="noopener">المصدر</a>`).join(' · ')
-      }</p>`
-    : (it.link ? `<p><a href="${it.link}" target="_blank" rel="noopener">Read full story</a></p>` : '');
-
+  let srcHtml = '';
+  if (it.sources?.length) {
+    srcHtml = `<p>المصادر: ${
+      it.sources.map(s => `<a href="${s}" target="_blank" rel="noopener">المصدر</a>`).join(' · ')
+    }</p>`;
+  } else if (it.link) {
+    srcHtml = `<p><a href="${it.link}" target="_blank" rel="noopener">Read full story</a></p>`;
+  }
   $('mSrc').innerHTML = srcHtml;
+
   $('modalWrap').style.display = 'flex';
 }
 function closeModal(){ $('modalWrap').style.display = 'none'; }
 
-/* ابدأ التحميل */
+/* ابدأ */
 document.addEventListener('DOMContentLoaded', loadNews);
