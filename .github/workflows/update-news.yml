@@ -2,42 +2,74 @@ name: Update News
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # كل 5 دقائق
-  workflow_dispatch: {}     # تشغيل يدوي عند الحاجة
+    - cron: '*/5 * * * *'   # تشغيل كل 5 دقائق
+  workflow_dispatch:        # تشغيل يدوي عند الحاجة
 
 permissions:
-  contents: write
+  contents: write           # السماح بالكتابة (push) للريبو
+
+concurrency:
+  group: update-news
+  cancel-in-progress: true  # منع تداخل تشغيلات متزامنة
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: Africa/Cairo
+      DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}  # عادةً main
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # نحتاج التاريخ كامل علشان rebase/push
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install feedparser beautifulsoup4 requests
-
-      - name: Fetch and summarise news
-        run: python scripts/update_news.py
-        
-      - name: Commit updated news.json
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "News Bot"
-            git config user.email "bot@example.com"
-            git add news.json
-            git commit -m "Update news feed"
-            git push
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
           else
-            echo "No changes to commit."
+            pip install feedparser beautifulsoup4 requests lxml
           fi
+
+      # سكربت التجميع والتلخيص يجب أن يحدّث ملف news.json
+      - name: Fetch and summarise news
+        run: |
+          python scripts/update_news.py
+
+      # التعامل الصحيح مع rebase ثم push لتفادي رفض التحديثات
+      - name: Commit updated news.json
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config --global user.email "bot@users.noreply.github.com"
+          git config --global user.name  "Azhary News Bot"
+          git config --global pull.rebase true
+
+          # تأكد أننا على الفرع الافتراضي (main غالبًا)
+          git fetch origin $DEFAULT_BRANCH
+          git checkout $DEFAULT_BRANCH
+
+          # أضف التغييرات (لو فيه)
+          git add news.json
+
+          # لو مفيش تغييرات، اخرج بهدوء
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # أنشئ الكومِت
+          git commit -m "chore(news): auto-update feed [skip ci]"
+
+          # اسحب أي تحديثات جديدة مع rebase ثم ادفع التغييرات
+          git pull --rebase origin $DEFAULT_BRANCH
+          git push origin HEAD:$DEFAULT_BRANCH
