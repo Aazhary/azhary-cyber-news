@@ -3,56 +3,67 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Azhary | Latest Cybersecurity News</title>
-  <link rel="stylesheet" href="./style.css?v=3">
+  <title>أحدث أخبار الأمن السيبراني | Azhary</title>
+
+  <!-- مهم: اسم الملف "style.css" وليس "styles.css" -->
+  <link rel="stylesheet" href="./style.css?v=7" />
 </head>
 <body>
-
-  <header>
-    <div class="wrap">
-      <div class="hero">
-        <h1>أحدث أخبار الأمن السيبراني</h1>
-        <div class="muted">ابقَ مطلعًا على آخر التطورات الأمنية.</div>
-
-        <div class="search-wrap">
-          <input id="searchInput" type="search" placeholder="ابحث… CVE أو كلمة…" />
-        </div>
-
-        <div id="cats"></div>
+  <header class="topbar">
+    <nav class="nav">
+      <a class="brand" href="./">Azhary</a>
+      <div class="nav-links">
+        <a href="./about.html">About</a>
+        <a href="./index.html">News</a>
       </div>
-    </div>
+    </nav>
+
+    <section class="hero">
+      <h1>أحدث أخبار الأمن السيبراني</h1>
+      <p class="muted">ابقَ مطّلعًا على آخر التطورات الأمنية.</p>
+
+      <div class="search-wrap">
+        <input id="searchBox" class="search" type="search" placeholder="ابحث… باسم CVE أو كلمة…" aria-label="بحث" />
+      </div>
+
+      <div id="filters" class="filters"></div>
+    </section>
   </header>
 
-  <main class="wrap">
-    <section id="newsGrid" class="grid"></section>
-    <div class="load-wrap">
-      <button id="loadMoreBtn">عرض المزيد</button>
+  <main class="container">
+    <section id="newsGrid" class="grid" aria-live="polite"></section>
+
+    <div class="actions">
+      <button id="loadMoreBtn" class="btn" type="button">المزيد</button>
     </div>
   </main>
 
-  <dialog id="newsModal">
-    <div class="modal-head">
-      <h3 id="mTitle" class="modal-title"></h3>
-      <button class="close" id="mClose">إغلاق</button>
-    </div>
-    <div id="mMeta" class="modal-meta"></div>
-    <div class="modal-body">
-      <div class="cols">
-        <div>
-          <h4 style="margin-top:0">English Summary</h4>
-          <div id="mEn"></div>
+  <!-- نافذة الملخص -->
+  <div id="newsModal" class="modal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-dialog" role="document">
+      <button id="modalClose" class="close" type="button" aria-label="إغلاق">إغلاق</button>
+      <h2 id="modalTitle" class="modal-title"></h2>
+      <div id="modalMeta" class="modal-meta"></div>
+
+      <div class="modal-cols">
+        <div class="col">
+          <h3>الملخص بالعربية</h3>
+          <p id="modalAr" class="modal-text"></p>
         </div>
-        <div>
-          <h4 style="margin-top:0">الملخص بالعربية</h4>
-          <div id="mAr"></div>
+        <div class="col">
+          <h3>English Summary</h3>
+          <p id="modalEn" class="modal-text"></p>
         </div>
       </div>
-      <div id="mCv" class="cv-line"></div>
-      <div id="mAction" class="cv-line"></div>
-      <div id="mSources" class="srcs"></div>
-    </div>
-  </dialog>
 
-  <script defer src="script.v2.js?v=10"></script>
+      <div class="modal-sources">
+        <span>المصادر:</span>
+        <span id="modalSrc"></span>
+      </div>
+    </div>
+  </div>
+
+  <!-- السكربت الموحد -->
+  <script src="./script.v2.js?v=3" defer></script>
 </body>
 </html>
