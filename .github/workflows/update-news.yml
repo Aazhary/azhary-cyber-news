@@ -27,7 +27,7 @@ jobs:
 
       - name: Fetch and summarise news
         run: python scripts/update_news.py
-
+        
       - name: Commit updated news.json
         run: |
           if [ -n "$(git status --porcelain)" ]; then
