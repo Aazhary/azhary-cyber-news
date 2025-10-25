@@ -39,7 +39,7 @@ function normalizeNews(arr) {
 async function loadNews() {
   try {
     const url = `${NEWS_API_URL}?_=${Date.now()}`;   // cache-busting
-    const res = await fetch(url, { cache: 'no-store' });
+    const res = await fetch(`${NEWS_API_URL}?_=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     ALL = normalizeNews(data).sort((a,b) => String(b.published).localeCompare(String(a.published)));
