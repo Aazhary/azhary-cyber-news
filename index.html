@@ -5,8 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Azhary | Latest Cybersecurity News</title>
 
-  <!-- لو عندك style.css خاصتك اتركه كما هو.
-       الأسطر الداخلية أدناه تُصلّح الـ hero والبحث والطبقات. -->
   <link rel="stylesheet" href="style.css" />
 
   <style>
@@ -16,8 +14,12 @@
     header .brand { color:#7ff; font-weight:700; letter-spacing:.3px; }
     header a { color:#aef; text-decoration:none; }
 
-    .hero { position:relative; min-height:280px; display:grid; place-items:center; background:url('hero-bg.jpg') center/cover no-repeat; }
-    .hero::after { content:""; position:absolute; inset:0; background:rgba(0,0,0,.45); backdrop-filter:blur(2px); pointer-events:none; }
+    .hero { position:relative; min-height:240px; display:grid; place-items:center;
+      background:
+        radial-gradient(1200px 380px at 50% -10%, rgba(0,180,200,.25), transparent 60%),
+        linear-gradient(#08161b, #0a1e24);
+    }
+    .hero::after { content:""; position:absolute; inset:0; background:rgba(0,0,0,.15); pointer-events:none; }
     .hero .hero-content { position:relative; z-index:10; text-align:center; }
     .hero h1 { margin:0; color:#7ff; }
     .hero p { margin:6px 0 0; color:var(--muted); }
@@ -26,16 +28,24 @@
     #searchInput { width:100%; padding:12px 14px; border-radius:10px; border:1px solid var(--teal); background:#0b1b22; color:#e7ffff; outline:none; }
 
     #newsGrid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:18px; padding:18px; }
+
+    /* صورة الخبر كـ <img> وليس خلفية ثابتة */
+    .news-card .thumb{
+      width:100%;
+      height:180px;
+      object-fit:cover;
+      display:block;
+      background:#0b1b22;
+    }
+
     .news-card { background:#0e1a21; color:#eafcff; border-radius:16px; border:1px solid #09353b; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.25); cursor:pointer; transition:transform .12s ease; }
     .news-card:hover { transform:translateY(-2px); }
-    .news-card .thumb { height:160px; background:#042b30 url('hero-bg.png') center/cover no-repeat; }
     .news-card .body { padding:14px 16px; }
     .news-card h3 { margin:6px 0 4px; font-size:1.05rem; color:#85f; }
     .meta { font-size:.8rem; opacity:.85; margin-top:6px }
     .badge { display:inline-block; padding:2px 8px; border-radius:999px; font-size:.78rem; background:#0b3f45; color:#8ff; margin-top:6px; }
 
     #loadMoreBtn { display:block; margin:8px auto 36px; padding:10px 16px; border:1px solid var(--teal); background:#06262b; color:#9ff; border-radius:10px; cursor:pointer; }
-
     .error { padding:16px; background:#3b0f12; border:1px solid #c33; color:#fee; border-radius:10px; margin:18px; }
 
     /* نافذة التفاصيل */
@@ -90,7 +100,6 @@
     </div>
   </div>
 
-  <!-- استخدم اسم جديد للملف لكسر الكاش -->
-  <script defer src="script.v2.js?v=3"></script>
+  <script defer src="script.v2.js?v=7"></script>
 </body>
 </html>
