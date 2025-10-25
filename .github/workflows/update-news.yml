@@ -1,60 +1,82 @@
-name: Update News
+# ===== Summarization & Classification helpers =====
+import re, datetime as dt
+from bs4 import BeautifulSoup
+import requests
 
-on:
-  schedule:
-    - cron: "*/5 * * * *"  # runs every 5 minutes
-  workflow_dispatch:
+def extract_text_for_summary(html_or_text: str) -> str:
+    # لو وصل HTML
+    if "<" in html_or_text and "</" in html_or_text:
+        soup = BeautifulSoup(html_or_text, "html.parser")
+        # شيل العناصر غير المهمة
+        for t in soup(["script","style","noscript"]): t.decompose()
+        txt = " ".join(soup.get_text(" ").split())
+        return txt[:5000]
+    return " ".join(html_or_text.split())[:5000]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+def classify_category(text: str) -> str:
+    t = text.lower()
+    if any(k in t for k in ["patch", "update", "kb", "security update", "out-of-band"]):
+        return "Patch/Update"
+    if any(k in t for k in ["breach", "leak", "data exposed", "ransomware"]):
+        return "Data Breach"
+    if any(k in t for k in ["cve-", "zero-day", "vulnerability", "rce", "privilege escalation"]):
+        return "Vulnerability"
+    if any(k in t for k in ["campaign", "apt", "malware", "backdoor", "botnet", "phishing"]):
+        return "Threat/Attack"
+    if any(k in t for k in ["advisory", "directive", "alert"]):
+        return "Policy/Advisory"
+    return "General"
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+def extract_og_image(url: str) -> str | None:
+    try:
+        r = requests.get(url, timeout=10, headers={"User-Agent":"Mozilla/5.0"})
+        if r.status_code != 200: return None
+        s = BeautifulSoup(r.text, "html.parser")
+        og = s.find("meta", attrs={"property":"og:image"}) or s.find("meta", attrs={"name":"og:image"})
+        if og and og.get("content"): return og["content"]
+    except Exception:
+        pass
+    return None
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
+def _first(sentence_list):
+    return sentence_list[0] if sentence_list else ""
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r scripts/requirements.txt || true
+def build_summaries(title:str, text:str, source:str, link:str, published_iso:str):
+    """يرجع: summary_en, summary_ar, category, action_line"""
+    txt = extract_text_for_summary(text or title)
+    sentences = re.split(r'(?<=[.!?])\s+', txt)
+    who = _first([s for s in sentences if re.search(r"(microsoft|google|cisa|cisco|oracle|apple|meta|nsx|fortinet|palo alto|github|openai|cloudflare|aws|azure|google)", s, re.I)])
+    what = _first([s for s in sentences if re.search(r"(released|patched|disclosed|reported|warned|issued|exploited|exploiting|detected|announced|fix|mitigat)", s, re.I)])
+    how  = _first([s for s in sentences if re.search(r"(via|through|using|because|due to|caused by|stemming from)", s, re.I)])
+    when = published_iso or ""
+    # إجراءات مقترحة
+    action = ""
+    if re.search(r"(cve-\d{4}-\d+|zero-day|rce|privilege escalation|deserializ)", txt, re.I):
+        action = "حدّث الأنظمة فورًا، وفعِّل (IPS/IDS) وراقب سجلات الاستغلال."
+    elif re.search(r"(breach|leak|exposed|ransom)", txt, re.I):
+        action = "اعزل الأجهزة المتأثرة، فعِّل الاستجابة للحوادث، وأخطر الفرق القانونية."
+    elif re.search(r"(phishing|malware|campaign)", txt, re.I):
+        action = "حدِّث التواقيع، فعِّل الحظر بالمجالات/الـIOC، وطبّق توعية للمستخدمين."
 
-      - name: Fetch and summarise news
-        run: |
-          echo "----------------------------"
-          echo "Fetching latest cybersecurity news..."
-          python scripts/update_news.py || echo "⚠️ Python script finished with warnings."
-          echo "----------------------------"
+    # تصنيف
+    category = classify_category(txt + " " + title)
 
-      - name: Prepare clean working tree
-        run: |
-          git config user.name "news-bot"
-          git config user.email "bot@users.noreply.github.com"
-          git fetch origin main
-          git reset --hard origin/main
+    # EN summary (مختصر واضح)
+    summary_en = (
+        f"Who: {who or title}. "
+        f"What: {what or title}. "
+        f"When: {when}. "
+        f"How: {how or 'Details in the source.'} "
+        f"Action: {action or 'Apply vendor guidance and monitor indicators.'}"
+    )
 
-      - name: Commit updated news.json
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            echo "Changes detected — committing updates..."
-            git add news.json
-            git commit -m "chore: auto-update news feed"
-            git push origin HEAD:main
-            echo "✅ News successfully updated and pushed."
-          else
-            echo "ℹ️ No new updates to commit."
-          fi
+    # AR summary (صيغة منسقة)
+    summary_ar = (
+        f"من: {(who or title)}. "
+        f"ماذا حدث: {(what or title)}. "
+        f"متى: {when}. "
+        f"كيف: {(how or 'تفاصيل إضافية في المصدر')}. "
+        f"الإجراء الموصى به: {(action or 'اتّبع إرشادات الجهة الموردة وراقب المؤشرات') }."
+    )
 
-      - name: Cleanup
-        if: always()
-        run: |
-          echo "Cleaning up workflow..."
-          git status
+    return summary_en, summary_ar, category, action
