@@ -1,5 +1,26 @@
 [
   {
+    "id": "488053d61a32ed9abc29ec41",
+    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild",
+    "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
+    "published": "2025-10-27T19:45:54+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild appeared first on Unit 42 .. When: 2025-10-27T19:45:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
+    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild appeared first on Unit 42 .. متى: 2025-10-27T19:45:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-59287",
+      "cve-2025-59287"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/"
+    ]
+  },
+  {
     "id": "0d45d8e304726e2fe13f51a2",
     "title": "X: Re-enroll 2FA security keys by November 10 or get locked out",
     "link": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
@@ -15,6 +36,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/07/23/dYdX.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/"
+    ]
+  },
+  {
+    "id": "cef84a7ea3778f0c8dd5d8f2",
+    "title": "CISOs Finally Get a Seat at the Board's Table — But There's a Catch",
+    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table",
+    "published": "2025-10-27T19:30:08+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: CISOs Finally Get a Seat at the Board's Table — But There's a Catch. What: CISOs Finally Get a Seat at the Board's Table — But There's a Catch. When: 2025-10-27T19:30:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISOs Finally Get a Seat at the Board's Table — But There's a Catch. ماذا: CISOs Finally Get a Seat at the Board's Table — But There's a Catch. متى: 2025-10-27T19:30:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table"
     ]
   },
   {
