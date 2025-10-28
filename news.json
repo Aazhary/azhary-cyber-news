@@ -1,5 +1,59 @@
 [
   {
+    "id": "390fc5c091058060bcd20bd9",
+    "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
+    "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
+    "published": "2025-10-28T19:11:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Qilin ransomware abuses WSL to run Linux encryptors in Windows. What: Qilin ransomware abuses WSL to run Linux encryptors in Windows. When: 2025-10-28T19:11:33+00:00. How: The Qilin ransomware operation was spotted executing Linux encryptors in Windows using Windows Subsystem for Linux (WSL) to evade detection by traditional security tools. Action: See Arabic action below.",
+    "summary_ar": "من: Qilin ransomware abuses WSL to run Linux encryptors in Windows. ماذا: Qilin ransomware abuses WSL to run Linux encryptors in Windows. متى: 2025-10-28T19:11:33+00:00. كيف: The Qilin ransomware operation was spotted executing Linux encryptors in Windows using Windows Subsystem for Linux (WSL) to evade detection by traditional security tools.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/"
+    ]
+  },
+  {
+    "id": "2b75c10c14880757297f556d",
+    "title": "Can these ChatGPT updates make the chatbot safer for mental health?",
+    "link": "https://www.zdnet.com/article/can-these-chatgpt-updates-make-the-chatbot-safer-for-mental-health/",
+    "published": "2025-10-28T19:01:38+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: OpenAI said its latest GPT-5 improvements reduced undesirable behavior from chatbots by 65%.. What: Can these ChatGPT updates make the chatbot safer for mental health?. When: 2025-10-28T19:01:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI said its latest GPT-5 improvements reduced undesirable behavior from chatbots by 65%.. ماذا: Can these ChatGPT updates make the chatbot safer for mental health?. متى: 2025-10-28T19:01:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/621125bda18d2b6ee40d4893e4ea9f0ed5d3d7cc/2025/10/28/5a6e1d35-5f3a-4017-8eea-4f7032b28b45/gettyimages-2201255686.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/can-these-chatgpt-updates-make-the-chatbot-safer-for-mental-health/"
+    ]
+  },
+  {
+    "id": "d5d7c7eff24025a502c4f424",
+    "title": "CISA warns of two more actively exploited Dassault vulnerabilities",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/",
+    "published": "2025-10-28T18:59:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The Cybersecurity & Infrastructure Security Agency (CISA) warned today that attackers are actively exploiting two vulnerabilities in Dassault Systèmes' DELMIA Apriso, a manufacturing operations management (MOM) and execution (MES) solution.. What: The Cybersecurity & Infrastructure Security Agency (CISA) warned today that attackers are actively exploiting two vulnerabilities in Dassault Systèmes' DELMIA Apriso, a manufacturing operations management (MOM) and execution (MES) solution.. When: 2025-10-28T18:59:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Cybersecurity & Infrastructure Security Agency (CISA) warned today that attackers are actively exploiting two vulnerabilities in Dassault Systèmes' DELMIA Apriso, a manufacturing operations management (MOM) and execution (MES) solution.. ماذا: The Cybersecurity & Infrastructure Security Agency (CISA) warned today that attackers are actively exploiting two vulnerabilities in Dassault Systèmes' DELMIA Apriso, a manufacturing operations management (MOM) and execution (MES) solution.. متى: 2025-10-28T18:59:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/"
+    ]
+  },
+  {
     "id": "543f6d7ef01a2a711cae9ada",
     "title": "This 2-in-1 Windows laptop just redefined my expectations for this price point",
     "link": "https://www.zdnet.com/article/this-2-in-1-windows-laptop-just-redefined-my-expectations-for-this-price-point/",
