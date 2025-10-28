@@ -1,5 +1,23 @@
 [
   {
+    "id": "2d02fbf512efdc69b3740d9e",
+    "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+    "link": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+    "published": "2025-10-28T19:16:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves. What: New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves. When: 2025-10-28T19:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves. ماذا: New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves. متى: 2025-10-28T19:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WEENR9AjQZ-WdyQPD5itMbQHGgQu79Ykq0IYfq-vThOrYHX14a_kPBXDW39gvSaT8qQpGHJ9Xb73eCO18CfNSPLOHmnp40IAZ3HDHeCmgMLxaB7sGt8w37KQkuXoFelF4letd03UWYWcFfPYtfA6g-0P7z_qAMbQjI-2Mg4htAyB71nfu7CKlqVVw2Q2/s790-rw-e365/tee.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html"
+    ]
+  },
+  {
     "id": "390fc5c091058060bcd20bd9",
     "title": "Qilin ransomware abuses WSL to run Linux encryptors in Windows",
     "link": "https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/",
@@ -213,6 +231,24 @@
     "image": "https://www.zdnet.com/a/img/resize/da131f63505eddf38100a65f05d86d1af8857d04/2025/10/28/2e7d3b56-b4da-4ca9-9b06-3c164a018a0f/gettyimages-2162499608.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/create-your-dream-presentation-with-geminis-latest-update-heres-how/"
+    ]
+  },
+  {
+    "id": "494c125fd26188127b69797e",
+    "title": "HTTPS by default",
+    "link": "http://security.googleblog.com/2025/10/https-by-default.html",
+    "published": "2025-10-28T17:01:00.001000+00:00",
+    "source": "googleblog.com",
+    "summary_en": "Who: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. What: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. When: 2025-10-28T17:01:00.001000+00:00. How: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks. Action: See Arabic action below.",
+    "summary_ar": "من: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. ماذا: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. متى: 2025-10-28T17:01:00.001000+00:00. كيف: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYIUyQJtaAY06QUHFJwNJq_G2-GyovxH4kqwBEFS_WweUghi5Qkid_Mrt9Qa65XBQ254P_EMWHpRQWIV17U_oQgEyStBSHWel9v8hHlWeP4ncr9BBtfD6QUhjhPlcISln2jWWNWgf2Ol-P/s1600/googlelogo_color_200x200.png",
+    "sources": [
+      "http://security.googleblog.com/2025/10/https-by-default.html"
     ]
   },
   {
