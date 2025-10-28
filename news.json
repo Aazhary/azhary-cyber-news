@@ -1,5 +1,41 @@
 [
   {
+    "id": "2a24c81422fa5def6b09a7bb",
+    "title": "Google Play users are starting to see age verification checks - here's how it works",
+    "link": "https://www.zdnet.com/article/google-play-users-are-starting-to-see-age-verification-checks-heres-how-it-works/",
+    "published": "2025-10-28T23:10:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Several months after AI-powered age verification rolled out to YouTube, age checks are hitting another Google service.. What: Google Play users are starting to see age verification checks - here's how it works. When: 2025-10-28T23:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Several months after AI-powered age verification rolled out to YouTube, age checks are hitting another Google service.. ماذا: Google Play users are starting to see age verification checks - here's how it works. متى: 2025-10-28T23:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/b0b9675daf43a90a5ee07a83371f7dfb0ba095d9/2025/10/08/3d29fbee-6564-4aa6-9058-da9ae3c5b05a/dsc07915.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/google-play-users-are-starting-to-see-age-verification-checks-heres-how-it-works/"
+    ]
+  },
+  {
+    "id": "8959db68913a2ab6008f506e",
+    "title": "Bots, Bread and the Battle for the Web",
+    "link": "https://unit42.paloaltonetworks.com/malicious-seo-and-ai/",
+    "published": "2025-10-28T23:00:05+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Bots, Bread and the Battle for the Web. What: Bots, Bread and the Battle for the Web. When: 2025-10-28T23:00:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bots, Bread and the Battle for the Web. ماذا: Bots, Bread and the Battle for the Web. متى: 2025-10-28T23:00:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/07_Opinion_Category_1505x922.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/malicious-seo-and-ai/"
+    ]
+  },
+  {
     "id": "8142e62858cf0dbcd7f551a2",
     "title": "Python rejects $1.5M grant from U.S. govt. fearing ethical compromise",
     "link": "https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/",
@@ -403,10 +439,10 @@
     "id": "494c125fd26188127b69797e",
     "title": "HTTPS by default",
     "link": "http://security.googleblog.com/2025/10/https-by-default.html",
-    "published": "2025-10-28T17:01:00.001000+00:00",
+    "published": "2025-10-28T17:01:00.002000+00:00",
     "source": "googleblog.com",
-    "summary_en": "Who: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. What: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. When: 2025-10-28T17:01:00.001000+00:00. How: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks. Action: See Arabic action below.",
-    "summary_ar": "من: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. ماذا: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. متى: 2025-10-28T17:01:00.001000+00:00. كيف: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. What: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. When: 2025-10-28T17:01:00.002000+00:00. How: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks. Action: See Arabic action below.",
+    "summary_ar": "من: For more than a decade, Google has published the HTTPS transparency report , which tracks the percentage of navigations in Chrome that use HTTPS.. ماذا: This level of adoption is what makes it possible to consider stronger mitigations against the remaining insecure HTTP.. متى: 2025-10-28T17:01:00.002000+00:00. كيف: When links don't use HTTPS, an attacker can hijack the navigation and force Chrome users to load arbitrary, attacker-controlled resources, and expose the user to malware, targeted exploitation, or social engineering attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
