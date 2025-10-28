@@ -1,5 +1,23 @@
 [
   {
+    "id": "7480d1074f6e15469c0f943d",
+    "title": "Crypto wasted: BlueNoroff’s ghost mirage of funding and jobs",
+    "link": "https://securelist.com/bluenoroff-apt-campaigns-ghostcall-and-ghosthire/117842/",
+    "published": "2025-10-28T03:00:11+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: GhostCall campaign attack flow In the GhostHire campaign, BlueNoroff approaches Web3 developers and tricks them into downloading and executing a GitHub repository containing malware under the guise of a skill assessment during a recruitment process.. What: The infection scheme observed in GhostHire shares structural similarities of infection chains with the GhostCall campaign, and identical malware was detected in both.. When: 2025-10-28T03:00:11+00:00. How: GhostCall heavily targets the macOS devices of executives at tech companies and in the venture capital sector by directly approaching targets via platforms like Telegram, and inviting potential victims to investment-related meetings linked to Zoom-like phishing websites. Action: See Arabic action below.",
+    "summary_ar": "من: GhostCall campaign attack flow In the GhostHire campaign, BlueNoroff approaches Web3 developers and tricks them into downloading and executing a GitHub repository containing malware under the guise of a skill assessment during a recruitment process.. ماذا: The infection scheme observed in GhostHire shares structural similarities of infection chains with the GhostCall campaign, and identical malware was detected in both.. متى: 2025-10-28T03:00:11+00:00. كيف: GhostCall heavily targets the macOS devices of executives at tech companies and in the venture capital sector by directly approaching targets via platforms like Telegram, and inviting potential victims to investment-related meetings linked to Zoom-like phishing websites.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/10/24081845/bluenoroff-ghostcall-featured-image.jpg",
+    "sources": [
+      "https://securelist.com/bluenoroff-apt-campaigns-ghostcall-and-ghosthire/117842/"
+    ]
+  },
+  {
     "id": "75cb78caf52c30f818d240f6",
     "title": "I found 3 AI content detectors that identify AI text 100% of the time - and an even better option",
     "link": "https://www.zdnet.com/article/i-found-3-ai-content-detectors-that-identify-ai-text-100-of-the-time-and-an-even-better-option/",
