@@ -1,5 +1,23 @@
 [
   {
+    "id": "30ab9c9798823106e0a035eb",
+    "title": "Advertising giant Dentsu reports data breach at subsidiary Merkle",
+    "link": "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/",
+    "published": "2025-10-28T21:16:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Advertising giant Dentsu reports data breach at subsidiary Merkle. What: Japanese advertising giant Dentsu has disclosed that its U.S.-based subsidiary Merkle suffered a cybersecurity incident that exposed staff and client data.. When: 2025-10-28T21:16:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Advertising giant Dentsu reports data breach at subsidiary Merkle. ماذا: Japanese advertising giant Dentsu has disclosed that its U.S.-based subsidiary Merkle suffered a cybersecurity incident that exposed staff and client data.. متى: 2025-10-28T21:16:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/28/logo.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/"
+    ]
+  },
+  {
     "id": "a69b740928f0b23aacbc57da",
     "title": "You can save $250 on a Samsung Galaxy Watch 8 Classic at Best Buy - here's how",
     "link": "https://www.zdnet.com/article/you-can-save-250-on-a-samsung-galaxy-watch-8-classic-at-best-buy-heres-how/",
@@ -33,6 +51,24 @@
     "image": "https://www.zdnet.com/a/img/resize/84d013b5b8e77e463e7002160cd9d7b33181aac5/2025/10/28/90176f62-722e-49ba-8589-af615ffd439e/gettyimages-942607134.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/no-one-pays-ransomware-demands-anymore-so-attackers-have-a-new-goal/"
+    ]
+  },
+  {
+    "id": "ab85f078c1000129bb1dfcbf",
+    "title": "From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership",
+    "link": "https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership",
+    "published": "2025-10-28T20:51:11+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership. What: From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership. When: 2025-10-28T20:51:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership. ماذا: From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership. متى: 2025-10-28T20:51:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership"
     ]
   },
   {
@@ -1385,13 +1421,13 @@
   },
   {
     "id": "488053d61a32ed9abc29ec41",
-    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild",
+    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)",
     "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
     "published": "2025-10-27T19:45:54+00:00",
     "source": "paloaltonetworks.com",
-    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild appeared first on Unit 42 .. When: 2025-10-27T19:45:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
-    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild appeared first on Unit 42 .. متى: 2025-10-27T19:45:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
+    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. When: 2025-10-27T19:45:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
+    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. متى: 2025-10-27T19:45:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
       "CVE-2025-59287",
