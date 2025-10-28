@@ -1,5 +1,23 @@
 [
   {
+    "id": "28ba76ea02c99d94c0ebf4d4",
+    "title": "Windows 11 KB5067036 update rolls out Administrator Protection feature",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/",
+    "published": "2025-10-28T23:31:28+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu.. What: ​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu.. When: 2025-10-28T23:31:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu.. ماذا: ​​Microsoft has released the KB5067036 preview cumulative update for Windows 11 24H2 and 25H2, which begins the rollout of the Administrator Protection cybersecurity feature and an updated Start Menu.. متى: 2025-10-28T23:31:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/"
+    ]
+  },
+  {
     "id": "2a24c81422fa5def6b09a7bb",
     "title": "Google Play users are starting to see age verification checks - here's how it works",
     "link": "https://www.zdnet.com/article/google-play-users-are-starting-to-see-age-verification-checks-heres-how-it-works/",
@@ -33,6 +51,27 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/07_Opinion_Category_1505x922.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/malicious-seo-and-ai/"
+    ]
+  },
+  {
+    "id": "488053d61a32ed9abc29ec41",
+    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)",
+    "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
+    "published": "2025-10-28T22:30:54+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. When: 2025-10-28T22:30:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
+    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. متى: 2025-10-28T22:30:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-59287",
+      "cve-2025-59287"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/"
     ]
   },
   {
@@ -1471,27 +1510,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8369f707d74cea4fed8d0d918eaf034764ed4887/2025/10/27/bb8c4404-1e6b-4600-910f-f5045c8cc8a5/gettyimages-2211086269.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/the-most-popular-ai-image-and-video-generator-might-surprise-you-heres-why-people-use-it/"
-    ]
-  },
-  {
-    "id": "488053d61a32ed9abc29ec41",
-    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)",
-    "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
-    "published": "2025-10-27T19:45:54+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. When: 2025-10-27T19:45:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
-    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. متى: 2025-10-27T19:45:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-59287",
-      "cve-2025-59287"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/"
     ]
   },
   {
