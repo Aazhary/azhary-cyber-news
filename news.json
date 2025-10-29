@@ -1,5 +1,23 @@
 [
   {
+    "id": "d54226b8d16ad87cc907a751",
+    "title": "CISA Warns of Exploited DELMIA Factory Software Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/",
+    "published": "2025-10-29T08:24:31+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.. What: The post CISA Warns of Exploited DELMIA Factory Software Vulnerabilities appeared first on SecurityWeek .. When: 2025-10-29T08:24:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.. ماذا: The post CISA Warns of Exploited DELMIA Factory Software Vulnerabilities appeared first on SecurityWeek .. متى: 2025-10-29T08:24:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/"
+    ]
+  },
+  {
     "id": "0abe1c1920bc8c6f248ee80f",
     "title": "9 in 10 Exchange servers in Germany still running out-of-support software",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/germany_exchange_support/",
@@ -33,6 +51,26 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/"
+    ]
+  },
+  {
+    "id": "d2a0e00dc193723e578c5ecd",
+    "title": "Active Exploits Hit Dassault and XWiki — CISA Confirms Critical Flaws Under Attack",
+    "link": "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html",
+    "published": "2025-10-29T07:44:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S.. What: Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S.. When: 2025-10-29T07:44:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S.. ماذا: Threat actors are actively exploiting multiple security flaws impacting Dassault Systèmes DELMIA Apriso and XWiki, according to alerts issued by the U.S.. متى: 2025-10-29T07:44:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-6204"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijMgE8RpqcNAqAa9qfKbwHkmy-9REaXva31VDPCO8YNMfV9_W6CsD23kAev_GhqEmVzZ5a7RJABDQpfMWftbT729ZF7hoi5rJQfnQUPyEOSOQXQPXJnwwcG3Fk6j7wVU-oz44u1_GW4CLw7Dbf4N5dpE7vrZWM9O7ODxt-7LQcfFHWEh5zbIJ1Bz3EZl5T/s790-rw-e365/cisa.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/10/active-exploits-hit-dassault-and-xwiki.html"
     ]
   },
   {
