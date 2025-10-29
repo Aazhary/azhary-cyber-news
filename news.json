@@ -1,5 +1,23 @@
 [
   {
+    "id": "076ee3b58c064bda5100c409",
+    "title": "PhantomRaven attack floods npm with credential-stealing packages",
+    "link": "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/",
+    "published": "2025-10-29T16:26:38+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: An active campaign named 'PhantomRaven' is targeting developers with dozens of malicious npm packages that steal authentication tokens, CI/CD secrets, and GitHub credentials.. What: PhantomRaven attack floods npm with credential-stealing packages. When: 2025-10-29T16:26:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: An active campaign named 'PhantomRaven' is targeting developers with dozens of malicious npm packages that steal authentication tokens, CI/CD secrets, and GitHub credentials.. ماذا: PhantomRaven attack floods npm with credential-stealing packages. متى: 2025-10-29T16:26:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/29/package-container.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/"
+    ]
+  },
+  {
     "id": "1fd2093c0d579efbb6a07706",
     "title": "EY exposes 4TB+ SQL database to open internet for who knows how long",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ey_exposes_4tb_sql_database/",
