@@ -1,5 +1,23 @@
 [
   {
+    "id": "8b080381fded559f71e7478c",
+    "title": "WordPress security plugin exposes private data to site subscribers",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/",
+    "published": "2025-10-29T20:44:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: WordPress security plugin exposes private data to site subscribers. What: WordPress security plugin exposes private data to site subscribers. When: 2025-10-29T20:44:00+00:00. How: The Anti-Malware Security and Brute-Force Firewall plugin for WordPress, installed on over 100,000 sites, has a vulnerability that allows subscribers to read any file on the server, potentially exposing private information. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress security plugin exposes private data to site subscribers. ماذا: WordPress security plugin exposes private data to site subscribers. متى: 2025-10-29T20:44:00+00:00. كيف: The Anti-Malware Security and Brute-Force Firewall plugin for WordPress, installed on over 100,000 sites, has a vulnerability that allows subscribers to read any file on the server, potentially exposing private information.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/"
+    ]
+  },
+  {
     "id": "be9e2f1ca4b7b09f40a9dff1",
     "title": "Dentsu Subsidiary Breached, Employee Data Stolen",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/dentsu-subsidiary-breached-employee-data-stolen",
