@@ -1,5 +1,23 @@
 [
   {
+    "id": "f15528e67be4affb59e37656",
+    "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
+    "link": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/",
+    "published": "2025-10-29T21:04:45+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: NPM flooded with malicious packages downloaded more than 86,000 times. What: Koi said a campaign it tracks as PhantomRaven has exploited NPM’s use of “Remote Dynamic Dependences” to flood NPM with 126 malicious packages that have been downloaded more than 86,000 times.. When: 2025-10-29T21:04:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NPM flooded with malicious packages downloaded more than 86,000 times. ماذا: Koi said a campaign it tracks as PhantomRaven has exploited NPM’s use of “Remote Dynamic Dependences” to flood NPM with 126 malicious packages that have been downloaded more than 86,000 times.. متى: 2025-10-29T21:04:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "sources": [
+      "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
+    ]
+  },
+  {
     "id": "8b080381fded559f71e7478c",
     "title": "WordPress security plugin exposes private data to site subscribers",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/",
