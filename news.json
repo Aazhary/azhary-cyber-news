@@ -1,5 +1,41 @@
 [
   {
+    "id": "9bcb49b895a038fc785fe5dc",
+    "title": "Why password controls still matter in cybersecurity",
+    "link": "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/",
+    "published": "2025-10-31T14:02:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Why password controls still matter in cybersecurity. What: Why password controls still matter in cybersecurity. When: 2025-10-31T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why password controls still matter in cybersecurity. ماذا: Why password controls still matter in cybersecurity. متى: 2025-10-31T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2025/10/30/specops-password.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/"
+    ]
+  },
+  {
+    "id": "b3446cb0ec647874ac349db9",
+    "title": "China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats",
+    "link": "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html",
+    "published": "2025-10-31T13:57:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats. What: A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.. When: 2025-10-31T13:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: China-Linked Hackers Exploit Windows Shortcut Flaw to Target European Diplomats. ماذا: A China-affiliated threat actor known as UNC6384 has been linked to a fresh set of attacks exploiting an unpatched Windows shortcut vulnerability to target European diplomatic and government entities between September and October 2025.. متى: 2025-10-31T13:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuCnrmqvnmeQpjFHXNewBANRdjg6GRkj6K7cEMmTmw-qmLNdssAgQ-6Lll7hmLZ4lX7R2mUneq6t0fpl-SOf_UT-WKd7PdL9wmSrhsZngchMDjYc2E8jlWOZimaV9tHQCUBmRrOMCj-K-xOaFkPYPSNtG6RBaLDPG2XgEDNQbSr71r0U2znlvR0iUCXNBn/s790-rw-e365/shortcut.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/10/china-linked-hackers-exploit-windows.html"
+    ]
+  },
+  {
     "id": "21d03d6bfa0d2882e7d42a33",
     "title": "Attackers dig up $11M in Garden Finance crypto exploit",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/attackers_dig_up_11m_in/",
@@ -33,6 +69,26 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/03/22/russian.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/"
+    ]
+  },
+  {
+    "id": "415545e9beeb342e5d2dadee",
+    "title": "China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems",
+    "link": "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html",
+    "published": "2025-10-31T13:26:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems. What: The exploitation of a recently disclosed critical security flaw in Motex Lanscope Endpoint Manager has been attributed to a cyber espionage group known as Tick.. When: 2025-10-31T13:26:00+00:00. How: JPCERT/CC, in an alert issued this month, said that it China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems Action: See Arabic action below.",
+    "summary_ar": "من: China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems. ماذا: The exploitation of a recently disclosed critical security flaw in Motex Lanscope Endpoint Manager has been attributed to a cyber espionage group known as Tick.. متى: 2025-10-31T13:26:00+00:00. كيف: JPCERT/CC, in an alert issued this month, said that it China-Linked Tick Group Exploits Lanscope Zero-Day to Hijack Corporate Systems. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-61932"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZykRt-Qg6PRjnYyI3lt6G0Ygf-Pp1Ww03EXTB5nUqaXMBaS1x4f5BxGKAnizBh7wk8gGff5SgLd0j70vJ0-bOdH60rmTctKnWfppbSTWOrdIkTIhga2CReBdSHSeGnPZoIjaZ66GV0hE-6dWnbAIHdM6VukGqhiqPTnrPV5nHpLLNqKE_UKy9xyyw0du7/s790-rw-e365/warning.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/10/china-linked-tick-group-exploits.html"
     ]
   },
   {
