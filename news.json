@@ -1,5 +1,78 @@
 [
   {
+    "id": "eea82e9daf39d8540afa3948",
+    "title": "Windows 11 users hit with bizarre Task Manager duplication bug - here's how to avoid it",
+    "link": "https://www.zdnet.com/article/windows-11-users-hit-with-bizarre-task-manager-duplication-bug-heres-how-to-avoid-it/",
+    "published": "2025-10-31T13:24:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Windows 11 users hit with bizarre Task Manager duplication bug - here's how to avoid it. What: Windows 11 users hit with bizarre Task Manager duplication bug - here's how to avoid it. When: 2025-10-31T13:24:00+00:00. How: Closing and reopening Task Manager now spawns extra copies, quickly eating up your system's memory and resources. Action: See Arabic action below.",
+    "summary_ar": "من: Windows 11 users hit with bizarre Task Manager duplication bug - here's how to avoid it. ماذا: Windows 11 users hit with bizarre Task Manager duplication bug - here's how to avoid it. متى: 2025-10-31T13:24:00+00:00. كيف: Closing and reopening Task Manager now spawns extra copies, quickly eating up your system's memory and resources.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/365a501f10298c6610b2a115c4bc437bf225d15d/2025/10/31/2ed3ce99-9789-4193-8098-5dcf3ed89f5b/windows-11-task-manager-bug.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/windows-11-users-hit-with-bizarre-task-manager-duplication-bug-heres-how-to-avoid-it/"
+    ]
+  },
+  {
+    "id": "4d1a643cf035fa39916be933",
+    "title": "Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges",
+    "link": "https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/",
+    "published": "2025-10-31T13:20:42+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges. What: Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges. When: 2025-10-31T13:20:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges. ماذا: Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges. متى: 2025-10-31T13:20:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/"
+    ]
+  },
+  {
+    "id": "32b041345f23b56ef3de94f1",
+    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 44",
+    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+    "published": "2025-10-31T13:11:31+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Source: GitHub The Brash exploit occurs in three phases.. What: The Bad | New “Brash” Flaw Crashes Chromium Browsers with Timed Attacks Security researcher Jose Pino has disclosed a severe vulnerability in Chromium’s Blink rendering engine that allows attackers to crash Chromium-based browsers within seconds .. When: 2025-10-31T13:11:31+00:00. How: While the court reports did not name the broker, prior reporting suggests it may be Operation Zero, a Russian platform known for buying and reselling zero-day exploits, often rewarding developers with large cryptocurrency payouts. Action: See Arabic action below.",
+    "summary_ar": "من: Source: GitHub The Brash exploit occurs in three phases.. ماذا: The Bad | New “Brash” Flaw Crashes Chromium Browsers with Timed Attacks Security researcher Jose Pino has disclosed a severe vulnerability in Chromium’s Blink rendering engine that allows attackers to crash Chromium-based browsers within seconds .. متى: 2025-10-31T13:11:31+00:00. كيف: While the court reports did not name the broker, prior reporting suggests it may be Operation Zero, a Russian platform known for buying and reselling zero-day exploits, often rewarding developers with large cryptocurrency payouts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.sentinelone.com/wp-content/uploads/2025/10/GBU_week44.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
+    ]
+  },
+  {
+    "id": "2e164cbad46ff03f5304a67a",
+    "title": "CISA: High-severity Linux flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "2025-10-31T13:05:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks.. What: CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks.. When: 2025-10-31T13:05:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks.. ماذا: CISA confirmed on Thursday that a high-severity privilege escalation flaw in the Linux kernel is now being exploited in ransomware attacks.. متى: 2025-10-31T13:05:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/31/Linux.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/"
+    ]
+  },
+  {
     "id": "24201c082d6568616a614f2a",
     "title": "I finally tried Roku's free live TV channels - and it feels like the cable I grew up with",
     "link": "https://www.zdnet.com/article/i-finally-tried-rokus-free-live-tv-channels-and-it-feels-like-the-cable-i-grew-up-with/",
@@ -2128,6 +2201,24 @@
     "image": "https://www.zdnet.com/a/img/resize/9c73520f4b6972d125372a3a4c11d5c6c3394e90/2025/10/29/93f9107b-20f3-4385-b38f-a2c22cf0695f/gettyimages-2191007168.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/paypals-new-service-is-built-for-the-ai-shopping-future-security-included/"
+    ]
+  },
+  {
+    "id": "6f6754ec7ee2cabe4f81cca6",
+    "title": "Data Security Posture Management — What Does 'Best in Class' Look Like?",
+    "link": "https://www.darkreading.com/cybersecurity-operations/data-security-posture-management-what-best-in-class-looks-like",
+    "published": "2025-10-29T23:32:41+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The emergence of Data Security Posture Management (DSPM) in early 2023, followed by major acquisitions by companies like IBM, Thales, and Palo Alto Networks, demonstrates industry recognition of the need for a more holistic approach to data protection.. What: Data Security Posture Management — What Does 'Best in Class' Look Like?. When: 2025-10-29T23:32:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The emergence of Data Security Posture Management (DSPM) in early 2023, followed by major acquisitions by companies like IBM, Thales, and Palo Alto Networks, demonstrates industry recognition of the need for a more holistic approach to data protection.. ماذا: Data Security Posture Management — What Does 'Best in Class' Look Like?. متى: 2025-10-29T23:32:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/data-security-posture-management-what-best-in-class-looks-like"
     ]
   },
   {
@@ -6903,24 +6994,6 @@
     "image": "https://www.zdnet.com/a/img/resize/ebc9b6b51461cce09b5de27d5e5a07febeb57fb2/2023/11/07/3e5d7128-8a4d-42c9-ae10-d3ecb0729a64/surfshark-vpn-mobile.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/get-surfshark-vpn-and-antivirus-for-2-19-a-month-with-this-early-black-friday-deal/"
-    ]
-  },
-  {
-    "id": "f0b3193dea4e677638587840",
-    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 43",
-    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/",
-    "published": "2025-10-24T16:04:31+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: Active since at least 2021, the group targets retail and consumer services organizations through phishing and smishing campaigns designed to steal Microsoft 365 credentials.. What: There, a fake Cloudflare CAPTCHA lured users into copying and pasting malicious PowerShell commands – a ClickFix technique designed to bypass traditional endpoint controls by tricking victims into executing the malware themselves.. When: 2025-10-24T16:04:31+00:00. How: These were then used to create 49 million fraudulent online accounts for crimes including phishing , investment fraud, extortion , impersonation , and migrant smuggling. Action: See Arabic action below.",
-    "summary_ar": "من: Active since at least 2021, the group targets retail and consumer services organizations through phishing and smishing campaigns designed to steal Microsoft 365 credentials.. ماذا: There, a fake Cloudflare CAPTCHA lured users into copying and pasting malicious PowerShell commands – a ClickFix technique designed to bypass traditional endpoint controls by tricking victims into executing the malware themselves.. متى: 2025-10-24T16:04:31+00:00. كيف: These were then used to create 49 million fraudulent online accounts for crimes including phishing , investment fraud, extortion , impersonation , and migrant smuggling.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2025/10/GBU_week43.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
     ]
   },
   {
