@@ -1,5 +1,61 @@
 [
   {
+    "id": "a113114caf3ef7951f799f91",
+    "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
+    "link": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/",
+    "published": "2025-10-31T21:03:56+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Two Windows vulnerabilities—one a zero-day that has been known to attackers since 2017 and the other a critical flaw that Microsoft initially tried and failed to patch recently—are under active exploitation in widespread attacks targeting a swath of the Internet, researchers say.. What: A large-scale, coordinated operation Seven months later, Microsoft still hasn’t patched the vulnerability, which stems from a bug in the Windows Shortcut binary format.. When: 2025-10-31T21:03:56+00:00. How: Two Windows vulnerabilities—one a zero-day that has been known to attackers since 2017 and the other a critical flaw that Microsoft initially tried and failed to patch recently—are under active exploitation in widespread attacks targeting a swath of the Internet, researchers say. Action: See Arabic action below.",
+    "summary_ar": "من: Two Windows vulnerabilities—one a zero-day that has been known to attackers since 2017 and the other a critical flaw that Microsoft initially tried and failed to patch recently—are under active exploitation in widespread attacks targeting a swath of the Internet, researchers say.. ماذا: A large-scale, coordinated operation Seven months later, Microsoft still hasn’t patched the vulnerability, which stems from a bug in the Windows Shortcut binary format.. متى: 2025-10-31T21:03:56+00:00. كيف: Two Windows vulnerabilities—one a zero-day that has been known to attackers since 2017 and the other a critical flaw that Microsoft initially tried and failed to patch recently—are under active exploitation in widespread attacks targeting a swath of the Internet, researchers say.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-9491"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/"
+    ]
+  },
+  {
+    "id": "bdb728d406fe5987e8442f92",
+    "title": "Windows 11 tests shared Bluetooth audio support, but only for AI PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/",
+    "published": "2025-10-31T20:59:02+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Windows 11 tests shared Bluetooth audio support, but only for AI PCs. What: Windows 11 tests shared Bluetooth audio support, but only for AI PCs. When: 2025-10-31T20:59:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Windows 11 tests shared Bluetooth audio support, but only for AI PCs. ماذا: Windows 11 tests shared Bluetooth audio support, but only for AI PCs. متى: 2025-10-31T20:59:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/Windows_11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/"
+    ]
+  },
+  {
+    "id": "2c7fcfdd118c10d1aecb6567",
+    "title": "FCC to rescind ruling that said ISPs are required to secure their networks",
+    "link": "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/",
+    "published": "2025-10-31T20:44:19+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: FCC to rescind ruling that said ISPs are required to secure their networks. What: FCC to rescind ruling that said ISPs are required to secure their networks. When: 2025-10-31T20:44:19+00:00. How: The Biden-era FCC found that the Communications Assistance for Law Enforcement Act (CALEA), a 1994 law, “affirmatively requires telecommunications carriers to secure their networks from unlawful access or interception of communications.” Read full article Comments FCC to rescind ruling that said ISPs are required to secure their networks Action: See Arabic action below.",
+    "summary_ar": "من: FCC to rescind ruling that said ISPs are required to secure their networks. ماذا: FCC to rescind ruling that said ISPs are required to secure their networks. متى: 2025-10-31T20:44:19+00:00. كيف: The Biden-era FCC found that the Communications Assistance for Law Enforcement Act (CALEA), a 1994 law, “affirmatively requires telecommunications carriers to secure their networks from unlawful access or interception of communications.” Read full article Comments FCC to rescind ruling that said ISPs are required to secure their networks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/padlock-network-security-1152x648-1761942097.jpg",
+    "sources": [
+      "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/"
+    ]
+  },
+  {
     "id": "2c7fcfdd118c10d1aecb6567",
     "title": "FCC dumps plan for telecom security rules that Internet providers don’t like",
     "link": "https://arstechnica.com/tech-policy/2025/10/fcc-dumps-plan-for-telecom-security-rules-that-internet-providers-dont-like/",
