@@ -1,5 +1,23 @@
 [
   {
+    "id": "682c96f049f9e81533433def",
+    "title": "Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/",
+    "published": "2025-11-03T18:35:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel.. What: Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks. When: 2025-11-03T18:35:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft security researchers have discovered a new backdoor malware that uses the OpenAI Assistants API as a covert command-and-control channel.. ماذا: Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks. متى: 2025-11-03T18:35:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/05/malware-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/"
+    ]
+  },
+  {
     "id": "2c2b671cd36f9b49403da19a",
     "title": "Which cloud storage service is most worth your money in 2025? I did the math, and here are 3 recs",
     "link": "https://www.zdnet.com/article/which-cloud-storage-service-is-most-worth-your-money-in-2025-i-did-the-math-and-here-are-3-recs/",
@@ -33,6 +51,24 @@
     "image": "https://www.zdnet.com/a/img/resize/d02e70f8e4ee12c07c39951b02512c3bc52599e8/2025/08/12/bb623ee6-3f93-4dd3-bb3b-d87130ddc49e/app-2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/my-cheap-and-simple-solution-to-loose-airpods-and-how-they-made-them-ideal-for-workouts/"
+    ]
+  },
+  {
+    "id": "9bac8c4f83cddf40e7eb3960",
+    "title": "Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive",
+    "link": "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html",
+    "published": "2025-11-03T18:08:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive. What: Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive. When: 2025-11-03T18:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive. ماذا: Malicious VSX Extension \"SleepyDuck\" Uses Ethereum to Keep Its Command Server Alive. متى: 2025-11-03T18:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsNAYBUN0RQ2z5BWnN5wrHTjB-XMx0nYPvJ5PMwCjxNk6CVExZCv401_jX_vaktwnLz8B3owRjupOCNIH7s2lbATDXkpMWwounrKb1OaiINgihVNcp_Mc17Wt7y2-LJBiEOk04hyphenhyphen6WlNKg76W5-f3fx2SDPtSSHQSO5gPu0E4V5RmzDEH0WcdpmAzXG0iB/s790-rw-e365/soladity.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/malicious-vsx-extension-sleepyduck-uses.html"
     ]
   },
   {
