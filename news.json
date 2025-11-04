@@ -198,6 +198,24 @@
     ]
   },
   {
+    "id": "5818fa76d99fb59875b65f97",
+    "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
+    "link": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
+    "published": "2025-11-04T14:24:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks. What: Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.. When: 2025-11-04T14:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks. ماذا: Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.. متى: 2025-11-04T14:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNjN6vslUO_G4CduAbYSiA-CSV2SWczVdx8dOAdaWXrulZW9P3iJ6fkO1bN_PlrN1g7pExIbB5QdeO9h7yNQE2yVdSzg2OfbL1N6_K-bNhsguE9GHUilLuEuzpfybL2So0N9yP9J3UiTjjZhyphenhyphen571M1PCgZc4nv-woAH4Ja7q8rl8GZ3rQr4I7tPDhQu4p/s2600/code.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html"
+    ]
+  },
+  {
     "id": "8a8bc44e7be38f1e81f143cf",
     "title": "Scattered Spider, ShinyHunters and LAPSUS$ Form Unified Collective",
     "link": "https://www.infosecurity-magazine.com/news/scattered-spider-shinyhunters/",
