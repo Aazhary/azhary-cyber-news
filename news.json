@@ -1,5 +1,43 @@
 [
   {
+    "id": "f7c935ad2b2c301811513854",
+    "title": "Google’s AI ‘Big Sleep’ Finds 5 New Vulnerabilities in Apple’s Safari WebKit",
+    "link": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+    "published": "2025-11-04T08:10:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.. What: Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.. When: 2025-11-04T08:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.. ماذا: Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.. متى: 2025-11-04T08:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-43429"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO90ZGqS1o8oXuQSYe44zmCBkNPE4eZDZy-NJhnRyFZ_ePcN4Tv-OOIuBKoi5Dnp0bN_HpCcxpAgMNYs6t0rCntWspx1JNRJSBbMsvzxDnSXewOvLDls6VU47KVeRxxDO4fHBO7_Ow6P9T3crzMpcwQxBofwQLcX0WKBIQYsHY64MDoazdGW_9ehXK7sXv/s790-rw-e365/safari-flaw-ai.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html"
+    ]
+  },
+  {
+    "id": "0fa8f436a831276c866f53af",
+    "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
+    "link": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+    "published": "2025-11-04T07:45:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks. What: U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks. When: 2025-11-04T07:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks. ماذا: U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks. متى: 2025-11-04T07:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mH0dvGWLCUJm63XD3luQR8ZpHCGiO_stcfyerR37pGHWLvFLC_CiXJ7j6TTTyxIJFx30P0YP2oXxFtMgAZTSfbNd7vL6Vy0lQ6ZR7wAfZIXZbND_xLM5yeejoG_uf-jhr_Wi9UZaSEvhR7XQ0ZcgZRxLQMRT1e8fvt5eVLMkX1l71OHc0jUwiDr1EnhZ/s790-rw-e365/insider-ransomware.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html"
+    ]
+  },
+  {
     "id": "db6468440c032397e9afe77d",
     "title": "China's president Xi Jinping jokes about backdoors in Xiaomi smartphones",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/chinas_president_xi_jinping_jokes/",
