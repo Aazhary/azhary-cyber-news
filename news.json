@@ -1,5 +1,23 @@
 [
   {
+    "id": "b6df571a84c372fbc36ce93f",
+    "title": "OpenAI API moonlights as malware HQ in Microsoft’s latest discovery",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
+    "published": "2025-11-04T12:08:12+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.… OpenAI API moonlights as malware HQ in Microsoft’s latest discovery. What: OpenAI API moonlights as malware HQ in Microsoft’s latest discovery. When: 2025-11-04T12:08:12+00:00. How: Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.… OpenAI API moonlights as malware HQ in Microsoft’s latest discovery Action: See Arabic action below.",
+    "summary_ar": "من: Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.… OpenAI API moonlights as malware HQ in Microsoft’s latest discovery. ماذا: OpenAI API moonlights as malware HQ in Microsoft’s latest discovery. متى: 2025-11-04T12:08:12+00:00. كيف: Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel Hackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.… OpenAI API moonlights as malware HQ in Microsoft’s latest discovery. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2022/02/23/backdoor_shutterstock.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/"
+    ]
+  },
+  {
     "id": "89f0c7a916d9d33298fe05b7",
     "title": "Apple Patches 19 WebKit Vulnerabilities",
     "link": "https://www.securityweek.com/apple-patches-19-webkit-vulnerabilities/",
@@ -18,6 +36,24 @@
     ]
   },
   {
+    "id": "58c16556d6a4660cb34081bb",
+    "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+    "link": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+    "published": "2025-11-04T11:06:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Ransomware Defense Using the Wazuh Open Source Platform. What: Ransomware Defense Using the Wazuh Open Source Platform. When: 2025-11-04T11:06:00+00:00. How: A ransomware attack typically begins when the malware infiltrates a system through various vectors such as Ransomware Defense Using the Wazuh Open Source Platform Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware Defense Using the Wazuh Open Source Platform. ماذا: Ransomware Defense Using the Wazuh Open Source Platform. متى: 2025-11-04T11:06:00+00:00. كيف: A ransomware attack typically begins when the malware infiltrates a system through various vectors such as Ransomware Defense Using the Wazuh Open Source Platform. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzDGtHe9Q6e_Oawv8H4Le3i69OhWMTiJwqvdjqsp8o8oZ8gpy7R6cbsTzjncXVNJjI59pr2NENW0IycFha_hD92mziRlVuh_QhAeVo4mtyyz3iwUzD-e5UH6heYCAZGY3pwMJoWctM63QCiZAQe02F0r8KLU0_AkeGS4zxi9g-N5qiT4f5v15nJTMvFk/s790-rw-e365/wazuh.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html"
+    ]
+  },
+  {
     "id": "99722a4c23591b7da2e3c0e4",
     "title": "The top 10 products readers bought in October (no. 1 is under $20)",
     "link": "https://www.zdnet.com/article/the-10-most-popular-products-zdnet-readers-bought-last-month-october-2025/",
@@ -33,6 +69,24 @@
     "image": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/the-10-most-popular-products-zdnet-readers-bought-last-month-october-2025/"
+    ]
+  },
+  {
+    "id": "330e974da0bfee68f2f76e78",
+    "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+    "link": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+    "published": "2025-11-04T10:49:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors. What: Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors. When: 2025-11-04T10:49:00+00:00. How: Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus. Action: See Arabic action below.",
+    "summary_ar": "من: Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors. ماذا: Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors. متى: 2025-11-04T10:49:00+00:00. كيف: Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ok6aAygeqft712J7YEd_aBpjlL3SNlIraKZ2za1SW5EEy9HaK6k9fvrr-9WQVO3mbummfoqwbXUg-gbcXAYakGZTCjG3B1q6ur-9JEDP-krL8iq2nv53HY-DTSWSQEdQf1VO2S0msbO2Jj5ict0EjSES6j7nPpgX1Qz5nnN540Gy5EAiwBxidEff3gWe/s790-rw-e365/russian.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html"
     ]
   },
   {
