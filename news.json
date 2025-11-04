@@ -1227,6 +1227,27 @@
     ]
   },
   {
+    "id": "488053d61a32ed9abc29ec41",
+    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3)",
+    "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
+    "published": "2025-11-03T12:45:54+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3) appeared first on Unit 42 .. When: 2025-11-03T12:45:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
+    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated November 3) appeared first on Unit 42 .. متى: 2025-11-03T12:45:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-59287",
+      "cve-2025-59287"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/"
+    ]
+  },
+  {
     "id": "a327d9cb2299b48103188474",
     "title": "Cybersecurity M&A Roundup: 45 Deals Announced in October 2025",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-45-deals-announced-in-october-2025/",
@@ -6431,27 +6452,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/insider-threats/inside-the-data-on-insider-threats-what-1000-real-cases-reveal-about-hidden-risk"
-    ]
-  },
-  {
-    "id": "488053d61a32ed9abc29ec41",
-    "title": "Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28)",
-    "link": "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/",
-    "published": "2025-10-28T22:30:54+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. What: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. When: 2025-10-28T22:30:54+00:00. How: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS. Action: See Arabic action below.",
-    "summary_ar": "من: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. ماذا: The post Microsoft WSUS Remote Code Execution (CVE-2025-59287) Actively Exploited in the Wild (Updated October 28) appeared first on Unit 42 .. متى: 2025-10-28T22:30:54+00:00. كيف: CVE-2025-59287 is a critical RCE vulnerability identified in Microsoft’s WSUS.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-59287",
-      "cve-2025-59287"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/10/08_DNS_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/microsoft-cve-2025-59287/"
     ]
   },
   {
