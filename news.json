@@ -1,5 +1,59 @@
 [
   {
+    "id": "c586ed6dccd9a720acf8ea22",
+    "title": "My favorite Bluetooth tracker for Android and iOS just got a useful design upgrade",
+    "link": "https://www.zdnet.com/article/my-favorite-bluetooth-tracker-for-android-and-ios-just-got-a-useful-design-upgrade/",
+    "published": "2025-11-05T16:12:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple AirTags are great, but they have their limitations.. What: My favorite Bluetooth tracker for Android and iOS just got a useful design upgrade. When: 2025-11-05T16:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple AirTags are great, but they have their limitations.. ماذا: My favorite Bluetooth tracker for Android and iOS just got a useful design upgrade. متى: 2025-11-05T16:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/0b872bdeeef19ff504e172ad24c652223eb0b9af/2025/11/04/da4617d4-f111-4da8-b48b-33d5635cf912/img-0448.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/my-favorite-bluetooth-tracker-for-android-and-ios-just-got-a-useful-design-upgrade/"
+    ]
+  },
+  {
+    "id": "2fb980c7cd2c84f991920fb8",
+    "title": "University of Pennsylvania confirms data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/",
+    "published": "2025-11-05T16:04:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: University of Pennsylvania confirms data stolen in cyberattack. What: University of Pennsylvania confirms data stolen in cyberattack. When: 2025-11-05T16:04:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: University of Pennsylvania confirms data stolen in cyberattack. ماذا: University of Pennsylvania confirms data stolen in cyberattack. متى: 2025-11-05T16:04:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/31/university-of-pennsylvania.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/"
+    ]
+  },
+  {
+    "id": "7bf1096a5d86e89d0cf32750",
+    "title": "UNK_SmudgedSerpent Targets Academics With Political Lures",
+    "link": "https://www.infosecurity-magazine.com/news/unksmudgedserpent-targets-academics/",
+    "published": "2025-11-05T16:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: UNK_SmudgedSerpent Targets Academics With Political Lures. What: UNK_SmudgedSerpent Targets Academics With Political Lures. When: 2025-11-05T16:00:00+00:00. How: A previously unknown cyber actor UNK_SmudgedSerpent has been observed targeting academics with phishing and malware, merging techniques from Iranian groups UNK_SmudgedSerpent Targets Academics With Political Lures Action: See Arabic action below.",
+    "summary_ar": "من: UNK_SmudgedSerpent Targets Academics With Political Lures. ماذا: UNK_SmudgedSerpent Targets Academics With Political Lures. متى: 2025-11-05T16:00:00+00:00. كيف: A previously unknown cyber actor UNK_SmudgedSerpent has been observed targeting academics with phishing and malware, merging techniques from Iranian groups UNK_SmudgedSerpent Targets Academics With Political Lures. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/58665a34-6c47-497b-b3d9-536cc9965580.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/unksmudgedserpent-targets-academics/"
+    ]
+  },
+  {
     "id": "18bb86de14b4444526158597",
     "title": "Operational Technology Security Poses Inherent Risks for Manufacturers",
     "link": "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers",
@@ -15,6 +69,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers"
+    ]
+  },
+  {
+    "id": "384b0ff98fed3297d9c6c8eb",
+    "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
+    "link": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
+    "published": "2025-11-05T15:33:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.. What: Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly. When: 2025-11-05T15:33:00+00:00. How: Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion. Action: See Arabic action below.",
+    "summary_ar": "من: Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.. ماذا: Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly. متى: 2025-11-05T15:33:00+00:00. كيف: Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv38bGYR4EsJddvrYIBdRlGLM4tSJFssQPifDWhLZFtuM0QGkNOR0HbuqK-3IkkBjlJhR0vhrxGOGMIqZYbT790fs70gtCQnNhDI5bwiozuLoj8-onQQrotBV-IVVCNmHFFBWWfJMpCQEtnYCli4lyGz9bRpMfr6T3aFHRMOrNfpuGaPihD-D3LdLn3yO_/s790-rw-e365/malware-code.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html"
     ]
   },
   {
@@ -307,24 +379,6 @@
     ]
   },
   {
-    "id": "60de91dbaffa2ebfa57d7cdb",
-    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
-    ]
-  },
-  {
     "id": "ce7e8a52be9792c7a83d8fac",
     "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
     "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -340,6 +394,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
+    ]
+  },
+  {
+    "id": "60de91dbaffa2ebfa57d7cdb",
+    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
     ]
   },
   {
