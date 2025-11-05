@@ -1,5 +1,25 @@
 [
   {
+    "id": "7d8ffccbd43eb16e97050815",
+    "title": "CISA Warns of CWP Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/cisa-warns-of-cwp-vulnerability-exploited-in-the-wild/",
+    "published": "2025-11-05T07:24:19+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post CISA Warns of CWP Vulnerability Exploited in the Wild appeared first on SecurityWeek .. What: The post CISA Warns of CWP Vulnerability Exploited in the Wild appeared first on SecurityWeek .. When: 2025-11-05T07:24:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post CISA Warns of CWP Vulnerability Exploited in the Wild appeared first on SecurityWeek .. ماذا: The post CISA Warns of CWP Vulnerability Exploited in the Wild appeared first on SecurityWeek .. متى: 2025-11-05T07:24:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-48703"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/cisa-warns-of-cwp-vulnerability-exploited-in-the-wild/"
+    ]
+  },
+  {
     "id": "0250a195efd4d697571426c6",
     "title": "CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence",
     "link": "https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html",
@@ -2570,24 +2590,6 @@
     ]
   },
   {
-    "id": "c575ec3e0239af0f903c9ab9",
-    "title": "How Software Development Teams Can Securely and Ethically Deploy AI Tools",
-    "link": "https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/",
-    "published": "2025-11-03T16:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: How Software Development Teams Can Securely and Ethically Deploy AI Tools. What: How Software Development Teams Can Securely and Ethically Deploy AI Tools. When: 2025-11-03T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How Software Development Teams Can Securely and Ethically Deploy AI Tools. ماذا: How Software Development Teams Can Securely and Ethically Deploy AI Tools. متى: 2025-11-03T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/"
-    ]
-  },
-  {
     "id": "414e239b929b36e9be8ea045",
     "title": "New GDI Flaws Could Enable Remote Code Execution in Windows",
     "link": "https://www.infosecurity-magazine.com/news/gdi-flaws-enable-rce-windows/",
@@ -2603,6 +2605,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/bf3a4d55-0815-4c74-8c4a-b19e0e489e6e.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/gdi-flaws-enable-rce-windows/"
+    ]
+  },
+  {
+    "id": "c575ec3e0239af0f903c9ab9",
+    "title": "How Software Development Teams Can Securely and Ethically Deploy AI Tools",
+    "link": "https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/",
+    "published": "2025-11-03T16:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: How Software Development Teams Can Securely and Ethically Deploy AI Tools. What: How Software Development Teams Can Securely and Ethically Deploy AI Tools. When: 2025-11-03T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How Software Development Teams Can Securely and Ethically Deploy AI Tools. ماذا: How Software Development Teams Can Securely and Ethically Deploy AI Tools. متى: 2025-11-03T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/how-software-development-teams-can-securely-and-ethically-deploy-ai-tools/"
     ]
   },
   {
