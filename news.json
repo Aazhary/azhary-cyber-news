@@ -1,5 +1,23 @@
 [
   {
+    "id": "b0aa13c70ab294cdecdf1d5f",
+    "title": "AI-generated malware poses little real-world threat, contrary to hype",
+    "link": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/",
+    "published": "2025-11-05T23:00:46+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Google on Wednesday revealed five recent malware samples that were built using generative AI.. What: One of the samples, for instance, tracked under the name PromptLock, was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle.” The researchers, however, reported the malware had “clear limitations: it omits persistence, lateral movement, and advanced evasion tactics” and served as little more than a demonstration of the feasibility of AI for such purposes.. When: 2025-11-05T23:00:46+00:00. How: Google on Wednesday revealed five recent malware samples that were built using generative AI. Action: See Arabic action below.",
+    "summary_ar": "من: Google on Wednesday revealed five recent malware samples that were built using generative AI.. ماذا: One of the samples, for instance, tracked under the name PromptLock, was part of an academic study analyzing how effective the use of large language models can be “to autonomously plan, adapt, and execute the ransomware attack lifecycle.” The researchers, however, reported the malware had “clear limitations: it omits persistence, lateral movement, and advanced evasion tactics” and served as little more than a demonstration of the feasibility of AI for such purposes.. متى: 2025-11-05T23:00:46+00:00. كيف: Google on Wednesday revealed five recent malware samples that were built using generative AI.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/"
+    ]
+  },
+  {
     "id": "f07cb2c32159227164fdc24a",
     "title": "Waze vs. Google Maps: I compared two of the top navigation apps, and this one easily wins",
     "link": "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-one-easily-wins/",
