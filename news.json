@@ -1,5 +1,23 @@
 [
   {
+    "id": "0d433bebbaf9b9c28c3845f4",
+    "title": "Critical Cisco UCCX flaw lets attackers run commands as root",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/",
+    "published": "2025-11-06T13:31:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable attackers to execute commands with root privileges.. What: Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable attackers to execute commands with root privileges.. When: 2025-11-06T13:31:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable attackers to execute commands with root privileges.. ماذا: Cisco has released security updates to patch a critical vulnerability in the Unified Contact Center Express (UCCX) software, which could enable attackers to execute commands with root privileges.. متى: 2025-11-06T13:31:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/"
+    ]
+  },
+  {
     "id": "cbc92741950968d18dce27e5",
     "title": "Logging in as root on Linux? Here's why that disaster waiting to happen",
     "link": "https://www.zdnet.com/article/logging-in-as-root-on-linux-heres-why-that-disaster-waiting-to-happen/",
