@@ -1,5 +1,43 @@
 [
   {
+    "id": "617b1c2d5302199b8cf25a24",
+    "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+    "link": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+    "published": "2025-11-06T02:04:36+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon , Apple , Google and Microsoft in Cloudflare’s public ranking of the most frequently requested websites.. What: “We’re fixing the ranking to make it smarter.. When: 2025-11-06T02:04:36+00:00. How: The chief executive at Cloudflare says Aisuru’s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company’s domain name system (DNS) service. Action: See Arabic action below.",
+    "summary_ar": "من: For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon , Apple , Google and Microsoft in Cloudflare’s public ranking of the most frequently requested websites.. ماذا: “We’re fixing the ranking to make it smarter.. متى: 2025-11-06T02:04:36+00:00. كيف: The chief executive at Cloudflare says Aisuru’s overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company’s domain name system (DNS) service.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/"
+    ]
+  },
+  {
+    "id": "9a00ddf3b9b7a06874a9de78",
+    "title": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs",
+    "link": "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan",
+    "published": "2025-11-06T02:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs. What: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs. When: 2025-11-06T02:00:00+00:00. How: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs Action: See Arabic action below.",
+    "summary_ar": "من: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs. ماذا: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs. متى: 2025-11-06T02:00:00+00:00. كيف: APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-61932"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan"
+    ]
+  },
+  {
     "id": "d39af3918f0d31edef5f0f9d",
     "title": "Musk and Trump both went to Penn—now hacked by someone sympathetic to their cause",
     "link": "https://arstechnica.com/security/2025/11/musk-and-trump-both-went-to-penn-now-hacked-by-someone-sympathetic-to-their-cause/",
