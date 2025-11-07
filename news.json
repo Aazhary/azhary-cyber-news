@@ -1,5 +1,23 @@
 [
   {
+    "id": "cc7d222591a4b848a6fc756f",
+    "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
+    "published": "2025-11-07T21:38:35+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Previously unknown Landfall spyware used in 0-day attacks on Samsung phones. What: 'Precision espionage campaign' began months before the flaw was fixed A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.… Previously unknown Landfall spyware used in 0-day attacks on Samsung phones. When: 2025-11-07T21:38:35+00:00. How: 'Precision espionage campaign' began months before the flaw was fixed A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.… Previously unknown Landfall spyware used in 0-day attacks on Samsung phones Action: See Arabic action below.",
+    "summary_ar": "من: Previously unknown Landfall spyware used in 0-day attacks on Samsung phones. ماذا: 'Precision espionage campaign' began months before the flaw was fixed A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.… Previously unknown Landfall spyware used in 0-day attacks on Samsung phones. متى: 2025-11-07T21:38:35+00:00. كيف: 'Precision espionage campaign' began months before the flaw was fixed A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.… Previously unknown Landfall spyware used in 0-day attacks on Samsung phones. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2021/07/19/shutterstock_spyware.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/"
+    ]
+  },
+  {
     "id": "50c294be980d2a5de59579f0",
     "title": "'Landfall' Malware Targeted Samsung Galaxy Users",
     "link": "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users",
@@ -3892,24 +3910,6 @@
     ]
   },
   {
-    "id": "60de91dbaffa2ebfa57d7cdb",
-    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
-    ]
-  },
-  {
     "id": "ce7e8a52be9792c7a83d8fac",
     "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
     "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -3925,6 +3925,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
+    ]
+  },
+  {
+    "id": "60de91dbaffa2ebfa57d7cdb",
+    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
     ]
   },
   {
