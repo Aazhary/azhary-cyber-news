@@ -1,5 +1,23 @@
 [
   {
+    "id": "bd6488185e52e7ef10d06b19",
+    "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+    "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+    "published": "2025-11-09T18:14:40+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Check Point said while it only found the malicious firmware on TP-Link devices, “the firmware-agnostic nature of the implanted components indicates that a wide range of devices and vendors may be at risk.” In a report published in October 2024, Microsoft said it was tracking a network of compromised TP-Link small office and home office routers that has been abused by multiple distinct Chinese state-sponsored hacking groups since 2021.. What: government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems , a tech company that currently enjoys an estimated 50% market share among home users and small businesses.. When: 2025-11-09T18:14:40+00:00. How: Experts say while the proposed ban may have more to do with TP-Link’s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box. Action: See Arabic action below.",
+    "summary_ar": "من: Check Point said while it only found the malicious firmware on TP-Link devices, “the firmware-agnostic nature of the implanted components indicates that a wide range of devices and vendors may be at risk.” In a report published in October 2024, Microsoft said it was tracking a network of compromised TP-Link small office and home office routers that has been abused by multiple distinct Chinese state-sponsored hacking groups since 2021.. ماذا: government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems , a tech company that currently enjoys an estimated 50% market share among home users and small businesses.. متى: 2025-11-09T18:14:40+00:00. كيف: Experts say while the proposed ban may have more to do with TP-Link’s ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/"
+    ]
+  },
+  {
     "id": "55381bea8e1ef52dfd7cc14e",
     "title": "NAKIVO Introduces v11.1 with Upgraded Disaster Recovery and MSP Features",
     "link": "https://www.bleepingcomputer.com/news/security/nakivo-introduces-v111-with-upgraded-disaster-recovery-and-msp-features/",
@@ -4363,24 +4381,6 @@
     ]
   },
   {
-    "id": "60de91dbaffa2ebfa57d7cdb",
-    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
-    ]
-  },
-  {
     "id": "ce7e8a52be9792c7a83d8fac",
     "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
     "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -4396,6 +4396,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
+    ]
+  },
+  {
+    "id": "60de91dbaffa2ebfa57d7cdb",
+    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
     ]
   },
   {
