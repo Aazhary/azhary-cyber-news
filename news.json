@@ -1,5 +1,59 @@
 [
   {
+    "id": "476fbca847962796ec75e8a5",
+    "title": "Phishers try to lure 5K Facebook advertisers with fake business pages",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/",
+    "published": "2025-11-10T18:34:46+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Phishers try to lure 5K Facebook advertisers with fake business pages. What: Phishers try to lure 5K Facebook advertisers with fake business pages. When: 2025-11-10T18:34:46+00:00. How: One company alone was hit with more than 4,200 emails More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.… Phishers try to lure 5K Facebook advertisers with fake business pages Action: See Arabic action below.",
+    "summary_ar": "من: Phishers try to lure 5K Facebook advertisers with fake business pages. ماذا: Phishers try to lure 5K Facebook advertisers with fake business pages. متى: 2025-11-10T18:34:46+00:00. كيف: One company alone was hit with more than 4,200 emails More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.… Phishers try to lure 5K Facebook advertisers with fake business pages. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2023/11/03/shutterstock_phishing.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/"
+    ]
+  },
+  {
+    "id": "2ca619b432ef39956903996e",
+    "title": "Popular JavaScript library expr-eval vulnerable to RCE flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/",
+    "published": "2025-11-10T18:32:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Popular JavaScript library expr-eval vulnerable to RCE flaw. What: A critical vulnerability in the popular expr-eval JavaScript library, with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input.. When: 2025-11-10T18:32:29+00:00. How: A critical vulnerability in the popular expr-eval JavaScript library, with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input. Action: See Arabic action below.",
+    "summary_ar": "من: Popular JavaScript library expr-eval vulnerable to RCE flaw. ماذا: A critical vulnerability in the popular expr-eval JavaScript library, with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input.. متى: 2025-11-10T18:32:29+00:00. كيف: A critical vulnerability in the popular expr-eval JavaScript library, with over 800,000 weekly downloads on NPM, can be exploited to execute code remotely through maliciously crafted input.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/07/05/NPM_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/popular-javascript-library-expr-eval-vulnerable-to-rce-flaw/"
+    ]
+  },
+  {
+    "id": "cb4df1c7ab2803c8f032a6d5",
+    "title": "T-Mobile will give you 4 free iPhone 17s right now - here's how it works",
+    "link": "https://www.zdnet.com/article/t-mobile-will-give-you-4-free-iphone-17s-right-now-heres-how-it-works/",
+    "published": "2025-11-10T18:21:23+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: T-Mobile will give you 4 free iPhone 17s right now - here's how it works. What: T-Mobile will give you 4 free iPhone 17s right now - here's how it works. When: 2025-11-10T18:21:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: T-Mobile will give you 4 free iPhone 17s right now - here's how it works. ماذا: T-Mobile will give you 4 free iPhone 17s right now - here's how it works. متى: 2025-11-10T18:21:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/82d6d5f2fc7e253dcbc11a4cc4fa41c1f89f15e8/2025/09/30/0bb30159-d0c5-499a-9916-38705146becb/dsc02888.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/t-mobile-will-give-you-4-free-iphone-17s-right-now-heres-how-it-works/"
+    ]
+  },
+  {
     "id": "c50b8e362c727aa044e3c0b8",
     "title": "iPhone full of unknown texts? 4 ways to filter them out in iOS 26",
     "link": "https://www.zdnet.com/article/iphone-full-of-unknown-texts-4-ways-to-filter-them-out-in-ios-26/",
