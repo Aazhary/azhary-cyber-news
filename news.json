@@ -1,5 +1,61 @@
 [
   {
+    "id": "1484042a331995c5578d5396",
+    "title": "Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/",
+    "published": "2025-11-10T21:29:03+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A new phishing automation platform named Quantum Route Redirect is using around 1,000 domains to steal Microsoft 365 users' credentials.. What: Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide. When: 2025-11-10T21:29:03+00:00. How: A new phishing automation platform named Quantum Route Redirect is using around 1,000 domains to steal Microsoft 365 users' credentials. Action: See Arabic action below.",
+    "summary_ar": "من: A new phishing automation platform named Quantum Route Redirect is using around 1,000 domains to steal Microsoft 365 users' credentials.. ماذا: Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide. متى: 2025-11-10T21:29:03+00:00. كيف: A new phishing automation platform named Quantum Route Redirect is using around 1,000 domains to steal Microsoft 365 users' credentials.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/07/25/Microsoft-365.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/"
+    ]
+  },
+  {
+    "id": "08f9f41d507107a992f15f0f",
+    "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
+    "link": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
+    "published": "2025-11-10T20:49:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.. What: Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.. When: 2025-11-10T20:49:00+00:00. How: The critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp; The Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature Action: See Arabic action below.",
+    "summary_ar": "من: Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.. ماذا: Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.. متى: 2025-11-10T20:49:00+00:00. كيف: The critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp; The Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-12480"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8M2fayypp4tc7l9XXHjTnXQnhElB2WNkkdqTieUwFXlwEx60oLFnbxhHJQDW3kk7TrkYf5s3WrZEjoaRhTEfVhkehsPEgFQQTIs_KH9FgqGP_ozimhhEazGWZCDR7p5CVEyCo5cf-V5_8HlzJCIl0lGMTdArM6v9-U-BPKd5vbkaINt60uHPrqNSidg7j/s790-rw-e365/hackers.png",
+    "sources": [
+      "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html"
+    ]
+  },
+  {
+    "id": "a782d1e22822e09837f0b083",
+    "title": "Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon",
+    "link": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
+    "published": "2025-11-10T20:29:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon. What: Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon. When: 2025-11-10T20:29:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: \"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon. ماذا: Konni Hackers Turn Google’s Find Hub into a Remote Data-Wiping Weapon. متى: 2025-11-10T20:29:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpCQ5f-ly7CHt6FDz9ULaJDLRDxJIrT9-GScn1vGk8jXp6zSXDDAMGMMZ-LY2bolu8-7HPoW0BNzFEyouKuyHNukvjbtUF16MiYto_WUV9Ve3x7ZJZYoE0J54qzT0VPtdZ_Bs54xIN53ifzW_Kqrd5QLPAEDEjUgfpUkcLLngM1_KrJaUi44JLAcg5m-f/s2600/hub.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html"
+    ]
+  },
+  {
     "id": "18bbbd2edd21b921be5f572e",
     "title": "Best early Black Friday deals 2025: 35+ sales out early",
     "link": "https://www.zdnet.com/article/best-early-black-friday-deals-2025/",
@@ -5518,24 +5574,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -5551,6 +5589,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
