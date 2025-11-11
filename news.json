@@ -1,5 +1,41 @@
 [
   {
+    "id": "40eb0e64da827989f975f049",
+    "title": "APT37 hackers abuse Google Find Hub in Android data-wiping attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/",
+    "published": "2025-11-11T00:46:40+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices.. What: APT37 hackers abuse Google Find Hub in Android data-wiping attacks. When: 2025-11-11T00:46:40+00:00. How: North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices. Action: See Arabic action below.",
+    "summary_ar": "من: North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices.. ماذا: APT37 hackers abuse Google Find Hub in Android data-wiping attacks. متى: 2025-11-11T00:46:40+00:00. كيف: North Korean hackers from the KONNI activity cluster are abusing Google's Find Hub tool to track their targets' GPS positions and trigger remote factory resets of Android devices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/10/North_Korean_hackers_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/"
+    ]
+  },
+  {
+    "id": "5fd6abf6ab9dfae44544a56c",
+    "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
+    "published": "2025-11-11T00:09:48+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Encryption protects content, not context Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers.. What: They told The Register that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.… LLM side-channel attack could allow snoops to guess what you're talking about. When: 2025-11-11T00:09:48+00:00. How: Encryption protects content, not context Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. Action: See Arabic action below.",
+    "summary_ar": "من: Encryption protects content, not context Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers.. ماذا: They told The Register that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.… LLM side-channel attack could allow snoops to guess what you're talking about. متى: 2025-11-11T00:09:48+00:00. كيف: Encryption protects content, not context Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/"
+    ]
+  },
+  {
     "id": "00a938ad8d21ce201b9b0488",
     "title": "Have an old Starlink dish lying around? Update it this week - or it'll never work again",
     "link": "https://www.zdnet.com/article/have-an-old-starlink-dish-lying-around-update-it-this-week-or-itll-never-work-again/",
@@ -5664,24 +5700,6 @@
     ]
   },
   {
-    "id": "60de91dbaffa2ebfa57d7cdb",
-    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
-    ]
-  },
-  {
     "id": "ce7e8a52be9792c7a83d8fac",
     "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
     "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -5697,6 +5715,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
+    ]
+  },
+  {
+    "id": "60de91dbaffa2ebfa57d7cdb",
+    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
     ]
   },
   {
