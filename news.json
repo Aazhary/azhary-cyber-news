@@ -1,5 +1,41 @@
 [
   {
+    "id": "da74be151e0f3595b1a1c38d",
+    "title": "Google Sues Chinese Cybercriminals Behind ‘Lighthouse’ Phishing Kit",
+    "link": "https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/",
+    "published": "2025-11-12T12:59:33+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Google is targeting the threat group known as Smishing Triad, which used over 194,000 malicious domains in a campaign.. What: Google Sues Chinese Cybercriminals Behind ‘Lighthouse’ Phishing Kit. When: 2025-11-12T12:59:33+00:00. How: The post Google Sues Chinese Cybercriminals Behind ‘Lighthouse’ Phishing Kit appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Google is targeting the threat group known as Smishing Triad, which used over 194,000 malicious domains in a campaign.. ماذا: Google Sues Chinese Cybercriminals Behind ‘Lighthouse’ Phishing Kit. متى: 2025-11-12T12:59:33+00:00. كيف: The post Google Sues Chinese Cybercriminals Behind ‘Lighthouse’ Phishing Kit appeared first on SecurityWeek .. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/google-sues-chinese-cybercriminals-behind-lighthouse-phishing-kit/"
+    ]
+  },
+  {
+    "id": "1f405bc42624166b747c64ee",
+    "title": "Synnovis notifies of data breach after 2024 ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/",
+    "published": "2025-11-12T12:28:42+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Synnovis notifies of data breach after 2024 ransomware attack. What: Synnovis notifies of data breach after 2024 ransomware attack. When: 2025-11-12T12:28:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Synnovis notifies of data breach after 2024 ransomware attack. ماذا: Synnovis notifies of data breach after 2024 ransomware attack. متى: 2025-11-12T12:28:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/12/Synnovis.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/"
+    ]
+  },
+  {
     "id": "8f80cbca01a13d00e0561412",
     "title": "High-Severity Vulnerabilities Patched by Ivanti and Zoom",
     "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-by-ivanti-and-zoom/",
@@ -7955,24 +7991,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -7988,6 +8006,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
