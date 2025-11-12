@@ -1,5 +1,26 @@
 [
   {
+    "id": "6a99d82eb00b358bf02a8db0",
+    "title": "'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-cisco-zero-day-bugs",
+    "published": "2025-11-12T22:30:39+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.. What: 'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug. When: 2025-11-12T22:30:39+00:00. How: 'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug Action: See Arabic action below.",
+    "summary_ar": "من: The same APT hammered critical bugs in Citrix NetScaler (CVE-2025-5777) and the Cisco Identity Service Engine (CVE-2025-20337) in a sign of growing adversary interest in identity and access management systems.. ماذا: 'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug. متى: 2025-11-12T22:30:39+00:00. كيف: 'CitrixBleed 2' Wreaks Havoc as Zero-Day Bug. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-20337",
+      "CVE-2025-5777"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-cisco-zero-day-bugs"
+    ]
+  },
+  {
     "id": "0697702a2ed06d61df8617bb",
     "title": "Google sues 25 China-based scammers behind Lighthouse 'phishing for dummies' kit",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_sues_25_chinabased_scammers/",
@@ -459,8 +480,8 @@
     "link": "https://www.darkreading.com/cyber-risk/microsoft-exchange-under-imminent-threat-act-now",
     "published": "2025-11-12T17:24:08+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take.. What: Microsoft Exchange 'Under Imminent Threat,' Act Now. When: 2025-11-12T17:24:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take.. ماذا: Microsoft Exchange 'Under Imminent Threat,' Act Now. متى: 2025-11-12T17:24:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take to limit them.. What: Microsoft Exchange 'Under Imminent Threat,' Act Now. When: 2025-11-12T17:24:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threats against Microsoft Exchange continue to mount, but there are steps both organizations and Microsoft can take to limit them.. ماذا: Microsoft Exchange 'Under Imminent Threat,' Act Now. متى: 2025-11-12T17:24:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -9134,24 +9155,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -9167,6 +9170,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
