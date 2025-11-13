@@ -1,5 +1,25 @@
 [
   {
+    "id": "ead199b854711dc443d75d9d",
+    "title": "CISA Flags Critical WatchGuard Fireware Flaw Exposing 54,000 Fireboxes to No-Login Attacks",
+    "link": "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html",
+    "published": "2025-11-13T07:23:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. When: 2025-11-13T07:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting WatchGuard Fireware to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. متى: 2025-11-13T07:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-9242"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj6dtQtZKcXl4TjnJfg2t7WniTYLkQ1NLwaQzVB6A-EXj3b3kn6ZGSrAi4AkjkI2HcbdmEGePORP5d1Z7b2awdGjIQD9TCCOPr0YLUUjU4Bazi9LsKY3f0XNvp343duOjEucfDaZaOlkV3tMntsNHp5ilw6Uef2D6_tt2nl3pgbVkQXwH6edgVhUuD8SQ/s790-rw-e365/firewall1.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/cisa-flags-critical-watchguard-fireware.html"
+    ]
+  },
+  {
     "id": "3d57326eae091cc931c286f7",
     "title": "Kenya Kicks Off 'Code Nation' With a Nod to Cybersecurity",
     "link": "https://www.darkreading.com/cybersecurity-operations/kenya-kicks-off-code-nation-nod-cybersecurity",
