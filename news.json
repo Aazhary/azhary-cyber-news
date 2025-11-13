@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "50d253e4cf1201f7572865d3",
+    "title": "RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk",
+    "link": "https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/",
+    "published": "2025-11-13T19:04:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk. What: The ImunifyAV malware scanner for Linux server, used by tens of millions of websites, is vulnerable to a remote code execution vulnerability that could be exploited to compromise the hosting environment.. When: 2025-11-13T19:04:01+00:00. How: [...] RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk Action: See Arabic action below.",
+    "summary_ar": "من: RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk. ماذا: The ImunifyAV malware scanner for Linux server, used by tens of millions of websites, is vulnerable to a remote code execution vulnerability that could be exploited to compromise the hosting environment.. متى: 2025-11-13T19:04:01+00:00. كيف: [...] RCE flaw in ImunifyAV puts millions of Linux-hosted sites at risk. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/05/Credit-card-hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rce-flaw-in-imunifyav-puts-millions-of-linux-hosted-sites-at-risk/"
+    ]
+  },
+  {
     "id": "3a173bac61ae762854ab2f17",
     "title": "How to store a passport in your iPhone Wallet (and all the ways you can use it)",
     "link": "https://www.zdnet.com/article/how-to-store-a-passport-in-your-iphone-wallet-and-all-the-ways-you-can-use-it/",
@@ -215,6 +233,26 @@
     "image": "https://www.zdnet.com/a/img/resize/f2fabff709900dc1276b99a85ffcf2e9f99d9d9c/2025/11/13/621a2f04-3ecb-4bb4-a709-12e4e5b9aa17/notebooklm.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/notebooklms-powerful-deep-research-upgrade-lets-it-search-the-web-and-create-a-full-report-heres-how/"
+    ]
+  },
+  {
+    "id": "50bfd2b302a5b309276a2709",
+    "title": "Rust in Android: move fast and fix things",
+    "link": "http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+    "published": "2025-11-13T16:59:00.001000+00:00",
+    "source": "googleblog.com",
+    "summary_en": "Who: This chart focuses on first-party (Google-developed) code (unlike the previous chart that included all first-party and third-party code in Android.) We only include systems languages, C/C++ (which is primarily C++), and Rust.. What: This year we look at how this approach isn’t just fixing things, but helping us move faster .. When: 2025-11-13T16:59:00.001000+00:00. How: This data covers first-party and third-party (open source) code changes to the Android platform across C, C++, Java, Kotlin, and Rust. Action: See Arabic action below.",
+    "summary_ar": "من: This chart focuses on first-party (Google-developed) code (unlike the previous chart that included all first-party and third-party code in Android.) We only include systems languages, C/C++ (which is primarily C++), and Rust.. ماذا: This year we look at how this approach isn’t just fixing things, but helping us move faster .. متى: 2025-11-13T16:59:00.001000+00:00. كيف: This data covers first-party and third-party (open source) code changes to the Android platform across C, C++, Java, Kotlin, and Rust.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-48530"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYIUyQJtaAY06QUHFJwNJq_G2-GyovxH4kqwBEFS_WweUghi5Qkid_Mrt9Qa65XBQ254P_EMWHpRQWIV17U_oQgEyStBSHWel9v8hHlWeP4ncr9BBtfD6QUhjhPlcISln2jWWNWgf2Ol-P/s1600/googlelogo_color_200x200.png",
+    "sources": [
+      "http://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
     ]
   },
   {
