@@ -18,6 +18,68 @@
     ]
   },
   {
+    "id": "181e42d21209e63197d23b0f",
+    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 46",
+    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
+    "published": "2025-11-14T14:00:09+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Source: Google Threat Intelligence Group The payload then launches a PowerShell downloader to retrieve a Zoho UEMS installer, which subsequently deploys Zoho Assist and AnyDesk on the compromised host for remote access and lateral movement .. What: The Bad | UNC6485 Exploits Triofox Vulnerability for Remote Code Execution Threat actors have exploited a critical vulnerability in Gladinet’s Triofox file sharing and remote access platform, chaining it with the product’s built-in antivirus scanner to gain SYSTEM-level remote code execution (RCE) .. When: 2025-11-14T14:00:09+00:00. How: Using aliases like “chubaka.kor” and “nets”, Volkov sold access to the ransomware group after breaching his victim’s corporate networks and demanding ransoms from $300,000 to $15 million in Bitcoin. Action: See Arabic action below.",
+    "summary_ar": "من: Source: Google Threat Intelligence Group The payload then launches a PowerShell downloader to retrieve a Zoho UEMS installer, which subsequently deploys Zoho Assist and AnyDesk on the compromised host for remote access and lateral movement .. ماذا: The Bad | UNC6485 Exploits Triofox Vulnerability for Remote Code Execution Threat actors have exploited a critical vulnerability in Gladinet’s Triofox file sharing and remote access platform, chaining it with the product’s built-in antivirus scanner to gain SYSTEM-level remote code execution (RCE) .. متى: 2025-11-14T14:00:09+00:00. كيف: Using aliases like “chubaka.kor” and “nets”, Volkov sold access to the ransomware group after breaching his victim’s corporate networks and demanding ransoms from $300,000 to $15 million in Bitcoin.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-12480",
+      "CVE-2025-61884",
+      "cve-2025-12480",
+      "cve-2025-61884"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.sentinelone.com/wp-content/uploads/2025/11/GBU_week46.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
+    ]
+  },
+  {
+    "id": "b206aae5e8230b0ad606e5f7",
+    "title": "I've tested every Garmin smartwatch in 2025 - this is the model I recommend to most people",
+    "link": "https://www.zdnet.com/article/ive-tested-every-garmin-smartwatch-in-2025-this-is-the-model-i-recommend-to-most-people/",
+    "published": "2025-11-14T13:58:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I've tested every Garmin smartwatch in 2025 - this is the model I recommend to most people. What: I've tested every Garmin smartwatch in 2025 - this is the model I recommend to most people. When: 2025-11-14T13:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I've tested every Garmin smartwatch in 2025 - this is the model I recommend to most people. ماذا: I've tested every Garmin smartwatch in 2025 - this is the model I recommend to most people. متى: 2025-11-14T13:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/6b0d2bf06834010bf67e3c1b61f46f6d91623cd5/2025/06/22/bb1d397e-a393-4a13-b69a-9e7b8843714b/garmin-venu-x16.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/ive-tested-every-garmin-smartwatch-in-2025-this-is-the-model-i-recommend-to-most-people/"
+    ]
+  },
+  {
+    "id": "c782f19709df2f251d77c8f9",
+    "title": "After testing this Garmin sleep tracker for weeks, I might put my smartwatch away for good",
+    "link": "https://www.zdnet.com/article/after-testing-this-garmin-sleep-tracker-for-weeks-i-might-put-my-smartwatch-away-for-good/",
+    "published": "2025-11-14T13:57:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: After testing this Garmin sleep tracker for weeks, I might put my smartwatch away for good. What: After testing this Garmin sleep tracker for weeks, I might put my smartwatch away for good. When: 2025-11-14T13:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: After testing this Garmin sleep tracker for weeks, I might put my smartwatch away for good. ماذا: After testing this Garmin sleep tracker for weeks, I might put my smartwatch away for good. متى: 2025-11-14T13:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/e20e788cec063ebbeea7b53578c2f768e02a8108/2025/08/18/9805bc17-2e24-4f02-bac8-9f6396fd948c/garmin-sleep-monitor-msm2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/after-testing-this-garmin-sleep-tracker-for-weeks-i-might-put-my-smartwatch-away-for-good/"
+    ]
+  },
+  {
     "id": "da468cc4bb92bbaf505b2865",
     "title": "If your Windows PC crashed, consult my 6 reliable solutions (including for BSOD)",
     "link": "https://www.zdnet.com/article/if-your-windows-pc-crashed-consult-my-6-reliable-solutions-including-for-bsod/",
@@ -8610,26 +8672,6 @@
     "image": "https://www.zdnet.com/a/img/resize/210fa338a7b03c9e6f24e55bb9c3b3ad5d1bb328/2025/11/07/c85c5913-868d-4bbf-96bb-78121ef4b23d/gettyimages-2210115059.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/beware-the-hi-how-are-you-text-its-a-scam-heres-how-it-works/"
-    ]
-  },
-  {
-    "id": "b6f11a851756be76f97749db",
-    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 45",
-    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
-    "published": "2025-11-07T14:00:07+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: The targeted victims, over 20 U.S.-based experts on Iran-related policy, were enticed to open malicious meeting documents and login pages designed to harvest their Microsoft account credentials .. What: The Good, the Bad and the Ugly in Cybersecurity – Week 45. When: 2025-11-07T14:00:07+00:00. How: Treasury sanctioned two North Korean financial institutions and eight individuals for laundering cryptocurrency stolen via fraudulent IT worker schemes . Action: See Arabic action below.",
-    "summary_ar": "من: The targeted victims, over 20 U.S.-based experts on Iran-related policy, were enticed to open malicious meeting documents and login pages designed to harvest their Microsoft account credentials .. ماذا: The Good, the Bad and the Ugly in Cybersecurity – Week 45. متى: 2025-11-07T14:00:07+00:00. كيف: Treasury sanctioned two North Korean financial institutions and eight individuals for laundering cryptocurrency stolen via fraudulent IT worker schemes .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2025/10/GBU_week45.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
     ]
   },
   {
