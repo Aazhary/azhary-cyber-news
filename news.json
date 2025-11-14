@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "09bf51675a4f9e840e99b929",
+    "title": "Fortinet FortiWeb flaw with public PoC exploited to create admin users",
+    "link": "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/",
+    "published": "2025-11-14T02:41:28+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...] Fortinet FortiWeb flaw with public PoC exploited to create admin users. What: A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...] Fortinet FortiWeb flaw with public PoC exploited to create admin users. When: 2025-11-14T02:41:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...] Fortinet FortiWeb flaw with public PoC exploited to create admin users. ماذا: A Fortinet FortiWeb path traversal vulnerability is being actively exploited to create new administrative users on exposed devices without requiring authentication [...] Fortinet FortiWeb flaw with public PoC exploited to create admin users. متى: 2025-11-14T02:41:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/10/14/Fortinet.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/"
+    ]
+  },
+  {
+    "id": "0396a6134a682caec4566cbb",
+    "title": "This $50 gadget bricked my iPhone and altered my relationship with it (for the better)",
+    "link": "https://www.zdnet.com/article/this-50-gadget-bricked-my-iphone-and-altered-my-relationship-with-it-for-the-better/",
+    "published": "2025-11-14T02:30:30+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This $50 gadget bricked my iPhone and altered my relationship with it (for the better). What: This $50 gadget bricked my iPhone and altered my relationship with it (for the better). When: 2025-11-14T02:30:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: This $50 gadget bricked my iPhone and altered my relationship with it (for the better). ماذا: This $50 gadget bricked my iPhone and altered my relationship with it (for the better). متى: 2025-11-14T02:30:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/a37d409c135b78861f6493587743fb6ead249b3c/2025/11/13/747da7cf-5986-435e-979f-229d521fad5f/img-1357.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/this-50-gadget-bricked-my-iphone-and-altered-my-relationship-with-it-for-the-better/"
+    ]
+  },
+  {
+    "id": "1e268fc7b5e424fc83f0e6cf",
+    "title": "Kubernetes overlords decide Ingress NGINX isn’t worth saving",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nginx_retirement/",
+    "published": "2025-11-14T01:12:45+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Maintenance to end next year after ‘helpful options’ became ‘serious security flaws’ Kubernetes maintainers have decided it’s not worth trying to save Ingress NGINX and will instead stop work on the project and retire it in March 2026.… Kubernetes overlords decide Ingress NGINX isn’t worth saving. What: Kubernetes overlords decide Ingress NGINX isn’t worth saving. When: 2025-11-14T01:12:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Maintenance to end next year after ‘helpful options’ became ‘serious security flaws’ Kubernetes maintainers have decided it’s not worth trying to save Ingress NGINX and will instead stop work on the project and retire it in March 2026.… Kubernetes overlords decide Ingress NGINX isn’t worth saving. ماذا: Kubernetes overlords decide Ingress NGINX isn’t worth saving. متى: 2025-11-14T01:12:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2022/07/01/shutterstock_kubernetes_bicycle.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nginx_retirement/"
+    ]
+  },
+  {
     "id": "6c139210d329c86b4ab49ddc",
     "title": "Chinese spies told Claude to break into about 30 critical orgs. Some attacks succeeded",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/chinese_spies_claude_attacks/",
@@ -33,6 +87,24 @@
     "image": "https://regmedia.co.uk/2023/02/20/shutterstock_400106332.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2025/11/13/chinese_spies_claude_attacks/"
+    ]
+  },
+  {
+    "id": "59a80fb59c97137480bc343e",
+    "title": "Kraken ransomware benchmarks systems for optimal encryption choice",
+    "link": "https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/",
+    "published": "2025-11-13T22:53:45+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Kraken ransomware benchmarks systems for optimal encryption choice. What: Kraken ransomware benchmarks systems for optimal encryption choice. When: 2025-11-13T22:53:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Kraken ransomware benchmarks systems for optimal encryption choice. ماذا: Kraken ransomware benchmarks systems for optimal encryption choice. متى: 2025-11-13T22:53:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/02/12/ransomware-3.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/"
     ]
   },
   {
@@ -10989,24 +11061,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -11022,6 +11076,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
