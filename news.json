@@ -18,6 +18,37 @@
     ]
   },
   {
+    "id": "516f12d3c41293e1c1c7570a",
+    "title": "Microsoft Patch Tuesday, November 2025 Edition",
+    "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+    "published": "2025-11-16T21:47:14+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited.. What: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited.. When: 2025-11-16T21:47:14+00:00. How: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited.. ماذا: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited.. متى: 2025-11-16T21:47:14+00:00. كيف: Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-38352",
+      "CVE-2025-43300",
+      "CVE-2025-48543",
+      "CVE-2025-54916",
+      "CVE-2025-54918",
+      "CVE-2025-55177",
+      "CVE-2025-55234",
+      "CVE-2025-60274",
+      "CVE-2025-60724",
+      "CVE-2025-62199",
+      "CVE-2025-62215"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/"
+    ]
+  },
+  {
     "id": "0ea6eac28869af865f4a1eb0",
     "title": "Best Buy just cut prices on dozens of Black Friday deals - I've hand-picked early discounts live now up to $800 off",
     "link": "https://www.zdnet.com/article/best-early-black-friday-best-buy-deals-2025/",
@@ -12969,24 +13000,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -13002,6 +13015,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
@@ -29245,32 +29276,6 @@
     "category": "General",
     "sources": [
       "https://www.cisa.gov/news-events/news/cisa-presents-vision-common-vulnerabilities-and-exposures-cve-program"
-    ]
-  },
-  {
-    "id": "a1bf3103c5825bde5f179aa8",
-    "title": "Microsoft Patch Tuesday, September 2025 Edition",
-    "link": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
-    "published": "2025-09-09T21:21:14+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: Microsoft Corp.. What: today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software.. When: 2025-09-09T21:21:14+00:00. How: There are no known “zero-day” or actively exploited vulnerabilities in this month’s bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft’s most-dire “critical” label. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft Corp.. ماذا: today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software.. متى: 2025-09-09T21:21:14+00:00. كيف: There are no known “zero-day” or actively exploited vulnerabilities in this month’s bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Microsoft’s most-dire “critical” label.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-38352",
-      "CVE-2025-43300",
-      "CVE-2025-48543",
-      "CVE-2025-54916",
-      "CVE-2025-54918",
-      "CVE-2025-55177",
-      "CVE-2025-55234"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/"
     ]
   },
   {
