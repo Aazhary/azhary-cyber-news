@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "5dbdcdd68d1ad46413b55f68",
+    "title": "'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/",
+    "published": "2025-11-17T21:54:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Aisuru botnet strikes again, bigger and badder Azure was hit by the \"largest-ever\" cloud-based distributed denial of service (DDoS) attack, originating from the Aisuru botnet and measuring 15.72 terabits per second (Tbps), according to Microsoft.… 'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second. What: 'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second. When: 2025-11-17T21:54:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Aisuru botnet strikes again, bigger and badder Azure was hit by the \"largest-ever\" cloud-based distributed denial of service (DDoS) attack, originating from the Aisuru botnet and measuring 15.72 terabits per second (Tbps), according to Microsoft.… 'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second. ماذا: 'Largest-ever' cloud DDoS attack pummels Azure with 3.64B packets per second. متى: 2025-11-17T21:54:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2021/05/04/ddos.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/17/biggest_cloud_ddos_attack_azure/"
+    ]
+  },
+  {
     "id": "599d30afa3a03f8836e5bcd8",
     "title": "Google Gemini 3 spotted on AI Studio ahead of imminent release",
     "link": "https://www.bleepingcomputer.com/news/google/google-gemini-3-spotted-on-ai-studio-ahead-of-imminent-release/",
@@ -14467,24 +14485,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -14500,6 +14500,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
