@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "6b6bfea47f7ca4056a63164d",
+    "title": "Microsoft Mitigates Record 5.72 Tbps DDoS Attack Driven by AISURU Botnet",
+    "link": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
+    "published": "2025-11-18T08:17:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).. What: Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).. When: 2025-11-18T08:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).. ماذا: Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 5.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).. متى: 2025-11-18T08:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s790-rw-e365/ddos.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html"
+    ]
+  },
+  {
     "id": "4c723e319449580db6925ba4",
     "title": "Chrome 142 Update Patches Exploited Zero-Day",
     "link": "https://www.securityweek.com/chrome-142-update-patches-exploited-zero-day/",
@@ -14723,24 +14741,6 @@
     ]
   },
   {
-    "id": "60de91dbaffa2ebfa57d7cdb",
-    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
-    ]
-  },
-  {
     "id": "ce7e8a52be9792c7a83d8fac",
     "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
     "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -14756,6 +14756,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
+    ]
+  },
+  {
+    "id": "60de91dbaffa2ebfa57d7cdb",
+    "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+    "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. What: The potential consequences are staggering, but there's an easy fix.. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool. ماذا: The potential consequences are staggering, but there's an easy fix.. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
     ]
   },
   {
