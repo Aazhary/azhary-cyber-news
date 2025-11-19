@@ -18,6 +18,48 @@
     ]
   },
   {
+    "id": "4b812dd4ce6f12ad703497e0",
+    "title": "IT threat evolution in Q3 2025. Mobile statistics",
+    "link": "https://securelist.com/malware-report-q3-2025-mobile-statistics/118013/",
+    "published": "2025-11-19T10:00:34+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Non-mobile statistics The quarter at a glance In the third quarter of 2025, we updated the methodology for calculating statistical indicators based on the Kaspersky Security Network.. What: In this way, fraudsters exploited the user’s device to artificially inflate ad views.. When: 2025-11-19T10:00:34+00:00. How: However, data for the previous quarter may differ slightly from previously published figures due to a retrospective review of certain verdicts. Action: See Arabic action below.",
+    "summary_ar": "من: Non-mobile statistics The quarter at a glance In the third quarter of 2025, we updated the methodology for calculating statistical indicators based on the Kaspersky Security Network.. ماذا: In this way, fraudsters exploited the user’s device to artificially inflate ad views.. متى: 2025-11-19T10:00:34+00:00. كيف: However, data for the previous quarter may differ slightly from previously published figures due to a retrospective review of certain verdicts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2024-40766",
+      "cve-2025-49704",
+      "cve-2025-49706",
+      "cve-2025-53770"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/11/19094017/SL-Q3-malware-report-featured.jpg",
+    "sources": [
+      "https://securelist.com/malware-report-q3-2025-mobile-statistics/118013/",
+      "https://securelist.com/malware-report-q3-2025-pc-iot-statistics/118020/"
+    ]
+  },
+  {
+    "id": "f3d86686e6aadb1cd14b792f",
+    "title": "‘PlushDaemon’ hackers hijack software updates in supply-chain attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/",
+    "published": "2025-11-19T10:00:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ‘PlushDaemon’ hackers hijack software updates in supply-chain attacks. What: ‘PlushDaemon’ hackers hijack software updates in supply-chain attacks. When: 2025-11-19T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ‘PlushDaemon’ hackers hijack software updates in supply-chain attacks. ماذا: ‘PlushDaemon’ hackers hijack software updates in supply-chain attacks. متى: 2025-11-19T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/28/China.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/"
+    ]
+  },
+  {
     "id": "fafe8499aa51f28b4e677a77",
     "title": "Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week",
     "link": "https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/",
@@ -1664,12 +1706,12 @@
   },
   {
     "id": "2b53f6c54c4fa2a6f0a1831b",
-    "title": "Cloudflare hit by outage affecting global network services",
+    "title": "Cloudflare hit by outage affecting Global Network services",
     "link": "https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/",
     "published": "2025-11-18T12:24:59+00:00",
     "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms.. What: Cloudflare hit by outage affecting global network services. When: 2025-11-18T12:24:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms.. ماذا: Cloudflare hit by outage affecting global network services. متى: 2025-11-18T12:24:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms.. What: Cloudflare hit by outage affecting Global Network services. When: 2025-11-18T12:24:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cloudflare is investigating an outage affecting its global network services, with users encountering \"internal server error\" messages when attempting to access affected websites and online platforms.. ماذا: Cloudflare hit by outage affecting Global Network services. متى: 2025-11-18T12:24:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
