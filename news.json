@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "afff00cf74a6411a8bcb1b7c",
+    "title": "Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign",
+    "link": "https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/",
+    "published": "2025-11-19T13:23:41+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign. What: Ray clusters can be deployed into the cloud to scale workloads, and should be secured and isolated […] The post Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign appeared first on SecurityWeek .. When: 2025-11-19T13:23:41+00:00. How: Maintained by Anyscale, Ray is an open source framework for scaling Python-based AI and ML applications. Action: See Arabic action below.",
+    "summary_ar": "من: Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign. ماذا: Ray clusters can be deployed into the cloud to scale workloads, and should be secured and isolated […] The post Two-Year-Old Ray AI Framework Flaw Exploited in Ongoing Campaign appeared first on SecurityWeek .. متى: 2025-11-19T13:23:41+00:00. كيف: Maintained by Anyscale, Ray is an open source framework for scaling Python-based AI and ML applications.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.securityweek.com/two-year-old-ray-ai-framework-flaw-exploited-in-ongoing-campaign/"
+    ]
+  },
+  {
+    "id": "071ae203c8aa003b58162d50",
+    "title": "Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/whatsapp_enumeration_flaw/",
+    "published": "2025-11-19T13:16:07+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw. What: Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw. When: 2025-11-19T13:16:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw. ماذا: Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw. متى: 2025-11-19T13:16:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2021/09/01/shutterstock_whatsapp.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/19/whatsapp_enumeration_flaw/"
+    ]
+  },
+  {
     "id": "0a0cbc1957eb05b47eebdcbf",
     "title": "Best MagSafe wallets 2025: I tested the best options to store your cash and cards",
     "link": "https://www.zdnet.com/article/best-magsafe-wallets/",
@@ -34,6 +70,24 @@
     "sources": [
       "https://www.zdnet.com/article/best-magsafe-wallets/",
       "https://www.zdnet.com/article/best-airtag-wallet/"
+    ]
+  },
+  {
+    "id": "d043c624600a3821e93f0692",
+    "title": "WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide",
+    "link": "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html",
+    "published": "2025-11-19T13:00:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Southeast Asia and European countries are some of the other regions where infections have WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide. What: WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide. When: 2025-11-19T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Southeast Asia and European countries are some of the other regions where infections have WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide. ماذا: WrtHug Exploits Six ASUS WRT Flaws to Hijack Tens of Thousands of EoL Routers Worldwide. متى: 2025-11-19T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhobMT02o23BS6CE-40CnDYj3IQVSqv3apTkF3HtqYDFynC2mjFp18in8p28QxQA438jGQLHzCVPfw7tyDXTZXBTljbTwdCYBu5YnaFD1PSBfNdQFTtCgRgpqKy3ejAQjIJAJdVzBNriwb1YYvz7X6zOyXbWQ4h1lC3k6YjJgj_4rjdJ5UmKc8U17rnpE7g/s790-rw-e365/asus.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/wrthug-exploits-six-asus-wrt-flaws-to.html"
     ]
   },
   {
@@ -16667,24 +16721,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -16700,6 +16736,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
