@@ -18,6 +18,44 @@
     ]
   },
   {
+    "id": "faf733598b911b98bc405de2",
+    "title": "Russian bulletproof hosting provider sanctioned over ransomware ties",
+    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/",
+    "published": "2025-11-19T16:43:46+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Russian bulletproof hosting provider sanctioned over ransomware ties. What: Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations.. When: 2025-11-19T16:43:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian bulletproof hosting provider sanctioned over ransomware ties. ماذا: Today, the United States, the United Kingdom, and Australia announced sanctions targeting Russian bulletproof hosting (BPH) providers that have supported ransomware gangs and other cybercrime operations.. متى: 2025-11-19T16:43:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/04/Hacker_datacenter.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/"
+    ]
+  },
+  {
+    "id": "092c20c2c6151a3dc2cc263a",
+    "title": "Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001)",
+    "link": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
+    "published": "2025-11-19T16:27:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001). What: A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K.. When: 2025-11-19T16:27:00+00:00. How: \"The specific flaw exists Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001) Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001). ماذا: A recently disclosed security flaw impacting 7-Zip has come under active exploitation in the wild, according to an advisory issued by the U.K.. متى: 2025-11-19T16:27:00+00:00. كيف: \"The specific flaw exists Hackers Actively Exploiting 7-Zip Symbolic Link–Based RCE Vulnerability (CVE-2025-11001). الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-11001"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivVWRvZll-uPUxEGctC2P333iOd2Fe1IQRsAAs_g4oiJVzgnqb6OQuk2UyD8yBGFxJuuwGgN8QeUluWfvr9nC6GwY6eMqB5xQCBGSu8FP8zrZjdd4yTtytllh4W8NqDAmMCUBet7I1gq1HfFSRgC5oBJGy3x_po-TzYKM3FgGu9Hcjr4WFt5nPRsY5oKMf/s790-rw-e365/7-zip-exploit.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html"
+    ]
+  },
+  {
     "id": "df66b0e42fa83aedab83dcc1",
     "title": "How to clear your MacBook cache (and why you shouldn't wait to do it)",
     "link": "https://www.zdnet.com/article/how-to-clear-your-macbook-cache-and-why-you-shouldnt-wait-to-do-it/",
@@ -196,7 +234,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3ba09043468d9d7ab775f7f3714e28be9c371da4/2025/07/24/d9dfb6b6-f2d7-4574-816e-c2435a8a2a79/dell-premium-16-image-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "image": "https://www.zdnet.com/a/img/resize/a523435c4771dfde5a4c4e84d3800695c330d867/2024/08/26/09e8085a-2acf-4a29-b143-58ecb6d62465/dell-xps-13-1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-dell-laptops/",
       "https://www.zdnet.com/article/best-laptop-under-1000/",
@@ -17161,24 +17199,6 @@
     ]
   },
   {
-    "id": "ce7e8a52be9792c7a83d8fac",
-    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-    "published": "2025-11-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
-    ]
-  },
-  {
     "id": "60de91dbaffa2ebfa57d7cdb",
     "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
     "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -17194,6 +17214,24 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update"
+    ]
+  },
+  {
+    "id": "ce7e8a52be9792c7a83d8fac",
+    "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+    "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+    "published": "2025-11-05T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. What: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. When: 2025-11-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. ماذا: Closing the AI Execution Gap in Cybersecurity — A CISO Framework. متى: 2025-11-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework"
     ]
   },
   {
