@@ -18,6 +18,69 @@
     ]
   },
   {
+    "id": "282169ac2bb6de440dcd9de9",
+    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 47",
+    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
+    "published": "2025-11-21T14:00:42+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Learn more https://t.co/cGQpuLpBPP pic.twitter.com/tM55acfuQv — CISA Cyber (@CISACyber) November 19, 2025 The founders of Samourai Wallet, a cryptocurrency mixing service, have been sentenced to prison for laundering over $237 million .. What: In the U.S., U.K., and Australia, authorities have issued a coordinated sanction against Russian bulletproof hosting (BPH) providers that enable ransomware groups by leasing servers to support malware delivery, phishing attacks, and illicit content hosting.. When: 2025-11-21T14:00:42+00:00. How: jobs using false or stolen identities, generating over $2.2 million while impacting 136 companies . Action: See Arabic action below.",
+    "summary_ar": "من: Learn more https://t.co/cGQpuLpBPP pic.twitter.com/tM55acfuQv — CISA Cyber (@CISACyber) November 19, 2025 The founders of Samourai Wallet, a cryptocurrency mixing service, have been sentenced to prison for laundering over $237 million .. ماذا: In the U.S., U.K., and Australia, authorities have issued a coordinated sanction against Russian bulletproof hosting (BPH) providers that enable ransomware groups by leasing servers to support malware delivery, phishing attacks, and illicit content hosting.. متى: 2025-11-21T14:00:42+00:00. كيف: jobs using false or stolen identities, generating over $2.2 million while impacting 136 companies .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-12480",
+      "CVE-2025-61884",
+      "cve-2025-12480",
+      "cve-2025-61884"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.sentinelone.com/wp-content/uploads/2025/11/GBU_week47-1.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
+    ]
+  },
+  {
+    "id": "8098ec4984a201773440be35",
+    "title": "Switching to Offense: US Makes Cyber Strategy Changes",
+    "link": "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes",
+    "published": "2025-11-21T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Switching to Offense: US Makes Cyber Strategy Changes. What: Switching to Offense: US Makes Cyber Strategy Changes. When: 2025-11-21T14:00:00+00:00. How: The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response. Action: See Arabic action below.",
+    "summary_ar": "من: Switching to Offense: US Makes Cyber Strategy Changes. ماذا: Switching to Offense: US Makes Cyber Strategy Changes. متى: 2025-11-21T14:00:00+00:00. كيف: The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes"
+    ]
+  },
+  {
+    "id": "a097cb1338cd4d1549de4030",
+    "title": "Four charged over alleged plot to smuggle Nvidia AI chips into China",
+    "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/",
+    "published": "2025-11-21T13:58:55+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Four charged over alleged plot to smuggle Nvidia AI chips into China. What: Four charged over alleged plot to smuggle Nvidia AI chips into China. When: 2025-11-21T13:58:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Four charged over alleged plot to smuggle Nvidia AI chips into China. ماذا: Four charged over alleged plot to smuggle Nvidia AI chips into China. متى: 2025-11-21T13:58:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://regmedia.co.uk/2023/08/21/shutterstock_greatwallofchina.jpg",
+    "sources": [
+      "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/"
+    ]
+  },
+  {
     "id": "798be5dd9c495fd47c42583c",
     "title": "Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day",
     "link": "https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/",
@@ -9357,32 +9420,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1d6bf73ef3fa385e320d50690aecc43bcecb5699/2025/11/14/a5bbe067-de49-44bf-baf7-cf28383d1dbb/ookla.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/slow-wi-fi-how-to-run-a-speed-test-decode-the-numbers-and-fix-your-internet-fast/"
-    ]
-  },
-  {
-    "id": "181e42d21209e63197d23b0f",
-    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 46",
-    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
-    "published": "2025-11-14T14:00:09+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: Source: Google Threat Intelligence Group The payload then launches a PowerShell downloader to retrieve a Zoho UEMS installer, which subsequently deploys Zoho Assist and AnyDesk on the compromised host for remote access and lateral movement .. What: The Bad | UNC6485 Exploits Triofox Vulnerability for Remote Code Execution Threat actors have exploited a critical vulnerability in Gladinet’s Triofox file sharing and remote access platform, chaining it with the product’s built-in antivirus scanner to gain SYSTEM-level remote code execution (RCE) .. When: 2025-11-14T14:00:09+00:00. How: Using aliases like “chubaka.kor” and “nets”, Volkov sold access to the ransomware group after breaching his victim’s corporate networks and demanding ransoms from $300,000 to $15 million in Bitcoin. Action: See Arabic action below.",
-    "summary_ar": "من: Source: Google Threat Intelligence Group The payload then launches a PowerShell downloader to retrieve a Zoho UEMS installer, which subsequently deploys Zoho Assist and AnyDesk on the compromised host for remote access and lateral movement .. ماذا: The Bad | UNC6485 Exploits Triofox Vulnerability for Remote Code Execution Threat actors have exploited a critical vulnerability in Gladinet’s Triofox file sharing and remote access platform, chaining it with the product’s built-in antivirus scanner to gain SYSTEM-level remote code execution (RCE) .. متى: 2025-11-14T14:00:09+00:00. كيف: Using aliases like “chubaka.kor” and “nets”, Volkov sold access to the ransomware group after breaching his victim’s corporate networks and demanding ransoms from $300,000 to $15 million in Bitcoin.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-12480",
-      "CVE-2025-61884",
-      "cve-2025-12480",
-      "cve-2025-61884"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2025/11/GBU_week46.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
     ]
   },
   {
