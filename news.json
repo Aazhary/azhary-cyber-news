@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "1d5cf748d0e35b295b7cc78c",
+    "title": "My favorite color e-reader is on sale for its lowest price ever, and it's not made by Kobo or Boox",
+    "link": "https://www.zdnet.com/article/my-favorite-color-e-reader-is-80-off-right-now-and-its-not-made-by-kobo-or-boox/",
+    "published": "2025-11-21T15:47:10+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: My favorite color e-reader is on sale for its lowest price ever, and it's not made by Kobo or Boox. What: My favorite color e-reader is on sale for its lowest price ever, and it's not made by Kobo or Boox. When: 2025-11-21T15:47:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: My favorite color e-reader is on sale for its lowest price ever, and it's not made by Kobo or Boox. ماذا: My favorite color e-reader is on sale for its lowest price ever, and it's not made by Kobo or Boox. متى: 2025-11-21T15:47:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/75f51115f9f50fbec6f56fc30bc51b76a1e471bf/2024/10/28/9df8d018-4cff-4099-b4fe-d4f08b940ab3/colorsoft-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/my-favorite-color-e-reader-is-80-off-right-now-and-its-not-made-by-kobo-or-boox/"
+    ]
+  },
+  {
     "id": "b64e16cf2545747c9e55f6de",
     "title": "Cybercriminals Exploit Browser Push Notifications to Deliver Malware",
     "link": "https://www.infosecurity-magazine.com/news/browser-push-notifications-deliver/",
@@ -70,6 +88,26 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/09/02/Transport-for-London.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/"
+    ]
+  },
+  {
+    "id": "66f00a9f49683b7f79949326",
+    "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+    "link": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+    "published": "2025-11-21T15:40:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation. What: Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.. When: 2025-11-21T15:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation. ماذا: Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.. متى: 2025-11-21T15:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-41115"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s790-rw-e365/grafana.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html"
     ]
   },
   {
