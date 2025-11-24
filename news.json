@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "0351d0144b507fd27d18f691",
+    "title": "Critical Flaw in Oracle Identity Manager Under Exploitation",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation",
+    "published": "2025-11-24T21:39:50+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers.. What: Critical Flaw in Oracle Identity Manager Under Exploitation. When: 2025-11-24T21:39:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The exploitation of CVE-2025-61757 follows a breach of Oracle Cloud earlier this year as well as a recent extortion campaign targeting Oracle E-Business Suite customers.. ماذا: Critical Flaw in Oracle Identity Manager Under Exploitation. متى: 2025-11-24T21:39:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-61757"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-oracle-identity-manager-under-exploitation"
+    ]
+  },
+  {
     "id": "ddeee1ca515352a3995a65cf",
     "title": "Infamous Shai-hulud Worm Resurfaces From the Depths",
     "link": "https://www.darkreading.com/application-security/infamous-shai-hulud-worm-resurfaces-from-depths",
