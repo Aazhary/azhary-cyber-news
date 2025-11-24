@@ -36,6 +36,26 @@
     ]
   },
   {
+    "id": "093a92af20c0bc172060a2e8",
+    "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+    "link": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
+    "published": "2025-11-24T07:18:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.. What: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.. When: 2025-11-24T07:18:00+00:00. How: \"They then used PowerCat, an open-source ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access Action: See Arabic action below.",
+    "summary_ar": "من: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.. ماذا: A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.. متى: 2025-11-24T07:18:00+00:00. كيف: \"They then used PowerCat, an open-source ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-59287"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsc39x1yPzs57au9zzIKqs081R7HZ521J-VDrW9yrbGPCDk0hCt2xIw1jHy62-fL1_v756qJ3R2SvosttSiIfee3RvUKC_HxaigGk_iff0fV0BkU9-_H43EDjx17pdxkEcqqIZ3yngeK0EeePmiTozzbGUPgSBwA__DD_Wx1p5ys93MNQEmFtscjKIdAq/s790-rw-e365/windows.jpg",
+    "sources": [
+      "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html"
+    ]
+  },
+  {
     "id": "f7e10d4f875fa59f6a829f54",
     "title": "Cryptology boffins’ association to re-run election after losing encryption key needed to count votes",
     "link": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/cryptologic_research_election_rerun/",
