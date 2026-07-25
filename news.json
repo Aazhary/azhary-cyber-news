@@ -167991,43 +167991,5 @@
     "sources": [
       "https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/"
     ]
-  },
-  {
-    "id": "534b63497b933782f730f5af",
-    "title": "Sandworm Blamed for Wiper Attack on Polish Power Grid",
-    "link": "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid",
-    "published": "2026-01-26T21:30:14+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Sandworm Blamed for Wiper Attack on Polish Power Grid. What: Sandworm Blamed for Wiper Attack on Polish Power Grid. When: 2026-01-26T21:30:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sandworm Blamed for Wiper Attack on Polish Power Grid. ماذا: Sandworm Blamed for Wiper Attack on Polish Power Grid. متى: 2026-01-26T21:30:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/2409e715-0701-4c86-b832-a51ec2f0e07d.jpg",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid",
-      "https://www.infosecurity-magazine.com/news/wiper-attack-polish-power-grid/",
-      "https://www.securityweek.com/russian-sandworm-hackers-blamed-for-cyberattack-on-polish-power-grid/"
-    ]
-  },
-  {
-    "id": "ab65fcfdc1eea89c42d8d470",
-    "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
-    "link": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
-    "published": "2026-01-26T21:02:26+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: From the Department of Bizarre Anomalies: Microsoft has suppressed an unexplained anomaly on its network that was routing traffic destined to example.com—a domain reserved for testing purposes—to a maker of electronics cables located in Japan.. What: Misconfig gone, but is it fixed?. When: 2026-01-26T21:02:26+00:00. How: Under the RFC2606 —an official standard maintained by the Internet Engineering Task Force—example.com isn't obtainable by any party. Action: See Arabic action below.",
-    "summary_ar": "من: From the Department of Bizarre Anomalies: Microsoft has suppressed an unexplained anomaly on its network that was routing traffic destined to example.com—a domain reserved for testing purposes—to a maker of electronics cables located in Japan.. ماذا: Misconfig gone, but is it fixed?. متى: 2026-01-26T21:02:26+00:00. كيف: Under the RFC2606 —an official standard maintained by the Internet Engineering Task Force—example.com isn't obtainable by any party.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-1000x648.jpg",
-    "sources": [
-      "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/"
-    ]
   }
 ]
