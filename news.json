@@ -36,6 +36,26 @@
     ]
   },
   {
+    "id": "41ac194d5fcc7887a6ab41e6",
+    "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+    "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+    "published": "2026-07-25T12:52:43+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. What: The confirmed chain requires Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. When: 2026-07-25T12:52:43+00:00. How: The confirmed chain requires Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available Action: See Arabic action below.",
+    "summary_ar": "من: Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. ماذا: The confirmed chain requires Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. متى: 2026-07-25T12:52:43+00:00. كيف: The confirmed chain requires Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-16723"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif",
+    "sources": [
+      "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    ]
+  },
+  {
     "id": "f521f1901323ec3bdec805b3",
     "title": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
     "link": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/",
@@ -168587,96 +168607,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/"
-    ]
-  },
-  {
-    "id": "316e7e645b12fb9be972e93f",
-    "title": "Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/",
-    "published": "2026-01-26T14:02:48+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies. What: Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies. When: 2026-01-26T14:02:48+00:00. How: The defense mechanisms that NPM introduced after the 'Shai-Hulud' supply-chain attacks have weaknesses that allow threat actors to bypass them via Git dependencies. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies. ماذا: Hackers can bypass npm’s Shai-Hulud defenses via Git dependencies. متى: 2026-01-26T14:02:48+00:00. كيف: The defense mechanisms that NPM introduced after the 'Shai-Hulud' supply-chain attacks have weaknesses that allow threat actors to bypass them via Git dependencies.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/07/05/NPM_logo_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-can-bypass-npms-shai-hulud-defenses-via-git-dependencies/"
-    ]
-  },
-  {
-    "id": "703dbf90dc4379180979d4f9",
-    "title": "This dual-screen laptop is a creator's dream, but my favorite feature is more subtle",
-    "link": "https://www.zdnet.com/article/asus-zenbook-duo-2026-review/",
-    "published": "2026-01-26T14:00:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This dual-screen laptop is a creator's dream, but my favorite feature is more subtle. What: This dual-screen laptop is a creator's dream, but my favorite feature is more subtle. When: 2026-01-26T14:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This dual-screen laptop is a creator's dream, but my favorite feature is more subtle. ماذا: This dual-screen laptop is a creator's dream, but my favorite feature is more subtle. متى: 2026-01-26T14:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7831000a5f03fefdea458117356a9062b064c138/2026/01/23/857c580b-942f-47c3-88d3-29bf9d5dca00/zenbook-duo-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/asus-zenbook-duo-2026-review/"
-    ]
-  },
-  {
-    "id": "cdaa891257d41759159aaa03",
-    "title": "The future of Gmail looks AI agent-shaped",
-    "link": "https://www.zdnet.com/article/future-of-gmail-looks-ai-agent-shaped/",
-    "published": "2026-01-26T13:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The future of Gmail looks AI agent-shaped. What: The future of Gmail looks AI agent-shaped. When: 2026-01-26T13:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The future of Gmail looks AI agent-shaped. ماذا: The future of Gmail looks AI agent-shaped. متى: 2026-01-26T13:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5449d4216eee5537251d69157eb43e83e222455b/2026/01/26/47eaa047-0421-4c38-a52a-429144944136/the-future-of-gmail-looks-ai-agent-shaped.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/future-of-gmail-looks-ai-agent-shaped/"
-    ]
-  },
-  {
-    "id": "14ec0d54bb84397067427faf",
-    "title": "EU looking into Elon Musk's X after Grok produces deepfake sex images",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/",
-    "published": "2026-01-26T13:17:54+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: EU looking into Elon Musk's X after Grok produces deepfake sex images. What: EU looking into Elon Musk's X after Grok produces deepfake sex images. When: 2026-01-26T13:17:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: EU looking into Elon Musk's X after Grok produces deepfake sex images. ماذا: EU looking into Elon Musk's X after Grok produces deepfake sex images. متى: 2026-01-26T13:17:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/04/02/shutterstock_elon_grok.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/"
-    ]
-  },
-  {
-    "id": "e3008e6514af7938ed5d6b3c",
-    "title": "Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline",
-    "link": "https://www.infosecurity-magazine.com/news/law-firm-coupang-security-failures/",
-    "published": "2026-01-26T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: The US law firm Hagens Berman will lead a class action lawsuit against Coupang over security failures that led to a June 2025 data breach Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline. What: Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline. When: 2026-01-26T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The US law firm Hagens Berman will lead a class action lawsuit against Coupang over security failures that led to a June 2025 data breach Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline. ماذا: Law Firm Investigates Coupang Security Failures Ahead of Class Action Deadline. متى: 2026-01-26T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/48a9d01c-f28d-4637-a96a-c6315af1feda.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/law-firm-coupang-security-failures/"
     ]
   }
 ]
