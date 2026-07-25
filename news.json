@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "e4420d62b7ee27c99bc30fd2",
+    "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+    "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+    "published": "2026-07-25T18:48:44+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable. What: A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.. When: 2026-07-25T18:48:44+00:00. How: A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Action: See Arabic action below.",
+    "summary_ar": "من: Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable. ماذا: A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.. متى: 2026-07-25T18:48:44+00:00. كيف: A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
+    ]
+  },
+  {
     "id": "08a5f217800bb54534760310",
     "title": "Malicious sites use JavaScript to build malware in browser memory",
     "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
@@ -168010,78 +168028,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/error-message-1000x648.jpg",
     "sources": [
       "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/"
-    ]
-  },
-  {
-    "id": "793cf935f81d4a057222c218",
-    "title": "How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android)",
-    "link": "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/",
-    "published": "2026-01-26T20:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android). What: How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android). When: 2026-01-26T20:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android). ماذا: How I turned my regular tablet into a full-fledged e-reader (whether it's an iPad or Android). متى: 2026-01-26T20:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/40509be351fa6a43a0f80cc591516c88e70d3377/2025/11/13/21ea38d5-b1a5-44b0-98d5-7ad7f1c039ee/dsc08580.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/"
-    ]
-  },
-  {
-    "id": "ed3d28dce60069c9fe54bfb6",
-    "title": "I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared",
-    "link": "https://www.zdnet.com/article/car-deicing-gadget-scam-review/",
-    "published": "2026-01-26T20:21:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared. What: I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared. When: 2026-01-26T20:21:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared. ماذا: I tested a cheap car de-icing gadget from Amazon in the winter cold - here's how it fared. متى: 2026-01-26T20:21:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a59e6db6dcd11685c8b272d2e8f9eba968e1be0e/2026/01/12/2500ab74-0bfe-412a-b236-aaddcb14a4b3/img-1803.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/car-deicing-gadget-scam-review/"
-    ]
-  },
-  {
-    "id": "b1b8581308790420f509d27d",
-    "title": "Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion",
-    "link": "https://www.zdnet.com/article/solid-state-batteries-vs-lithium-ion-batteries-for-iphones/",
-    "published": "2026-01-26T20:08:40+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion. What: Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion. When: 2026-01-26T20:08:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion. ماذا: Why your iPhone isn't powered by a solid-state battery yet - even though it beats lithium-ion. متى: 2026-01-26T20:08:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bf6b415ab5e44a508ebf3d0cd14d95b8bb007adb/2026/01/26/fe3b9173-c11b-4059-b40e-32c4455dcc56/solidstategettyimages-1454927079.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/solid-state-batteries-vs-lithium-ion-batteries-for-iphones/"
-    ]
-  },
-  {
-    "id": "00af630566d671ed0ac8d02a",
-    "title": "How I'm beating high RAM prices in 2026 - an expert's guide to smarter PC buying",
-    "link": "https://www.zdnet.com/article/high-ram-prices-how-to-find-laptop-pc-deals-2026/",
-    "published": "2026-01-26T19:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I'm beating high RAM prices in 2026 - an expert's guide to smarter PC buying. What: How I'm beating high RAM prices in 2026 - an expert's guide to smarter PC buying. When: 2026-01-26T19:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I'm beating high RAM prices in 2026 - an expert's guide to smarter PC buying. ماذا: How I'm beating high RAM prices in 2026 - an expert's guide to smarter PC buying. متى: 2026-01-26T19:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c9bfb4f5ae00dab113193fad0b1e5564a2df6a18/2025/12/31/89475727-5baf-4525-8be0-24391c9f549f/img-4835.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/high-ram-prices-how-to-find-laptop-pc-deals-2026/"
     ]
   }
 ]
