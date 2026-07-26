@@ -37,12 +37,12 @@
   },
   {
     "id": "2697dc06420410d6e966c0ce",
-    "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+    "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
     "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
     "published": "2026-07-26T14:13:39+00:00",
     "source": "bleepingcomputer.com",
-    "summary_en": "Who: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact.. What: GitHub, PyPI add time-absed defenses against supply chain attacks. When: 2026-07-26T14:13:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact.. ماذا: GitHub, PyPI add time-absed defenses against supply chain attacks. متى: 2026-07-26T14:13:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact.. What: GitHub, PyPI add time-based defenses against supply chain attacks. When: 2026-07-26T14:13:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact.. ماذا: GitHub, PyPI add time-based defenses against supply chain attacks. متى: 2026-07-26T14:13:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -166684,62 +166684,6 @@
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/microsoft-rushes-emergency-patch-office-zero-day",
       "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html"
-    ]
-  },
-  {
-    "id": "97d85cac359c5eeb4aae84f9",
-    "title": "Let them eat sourdough: ShinyHunters claims Panera Bread as stolen credentials victim",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/shinyhunters_claim_panera_bread/",
-    "published": "2026-01-27T19:49:45+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Plus, the gang says it got in via Microsoft Entra SSO ShinyHunters says it stole several slices of data from Panera Bread, but that's just the yeast of everyone's problems.. What: Let them eat sourdough: ShinyHunters claims Panera Bread as stolen credentials victim. When: 2026-01-27T19:49:45+00:00. How: Plus, the gang says it got in via Microsoft Entra SSO ShinyHunters says it stole several slices of data from Panera Bread, but that's just the yeast of everyone's problems. Action: See Arabic action below.",
-    "summary_ar": "من: Plus, the gang says it got in via Microsoft Entra SSO ShinyHunters says it stole several slices of data from Panera Bread, but that's just the yeast of everyone's problems.. ماذا: Let them eat sourdough: ShinyHunters claims Panera Bread as stolen credentials victim. متى: 2026-01-27T19:49:45+00:00. كيف: Plus, the gang says it got in via Microsoft Entra SSO ShinyHunters says it stole several slices of data from Panera Bread, but that's just the yeast of everyone's problems.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/01/28/bread.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/27/shinyhunters_claim_panera_bread/"
-    ]
-  },
-  {
-    "id": "e959669dc1a097fadcf7fb96",
-    "title": "WinRAR path traversal flaw still exploited by numerous hackers",
-    "link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/",
-    "published": "2026-01-27T19:38:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: WinRAR path traversal flaw still exploited by numerous hackers. What: [...] WinRAR path traversal flaw still exploited by numerous hackers. When: 2026-01-27T19:38:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: WinRAR path traversal flaw still exploited by numerous hackers. ماذا: [...] WinRAR path traversal flaw still exploited by numerous hackers. متى: 2026-01-27T19:38:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-8088"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/18/winrar-malicious.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/"
-    ]
-  },
-  {
-    "id": "82093f788bccd25b378d05d8",
-    "title": "My dog's reaction to this bizarre roll-up door told me everything about my smart home",
-    "link": "https://www.zdnet.com/article/high-tech-pet-roll-up-door-review/",
-    "published": "2026-01-27T18:47:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My dog's reaction to this bizarre roll-up door told me everything about my smart home. What: My dog's reaction to this bizarre roll-up door told me everything about my smart home. When: 2026-01-27T18:47:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My dog's reaction to this bizarre roll-up door told me everything about my smart home. ماذا: My dog's reaction to this bizarre roll-up door told me everything about my smart home. متى: 2026-01-27T18:47:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4af4d5bb5245598154a0dda9072d2fbd704165f1/2025/12/12/8730bd6a-9493-41df-9eb2-6527b0566a35/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/high-tech-pet-roll-up-door-review/"
     ]
   }
 ]
