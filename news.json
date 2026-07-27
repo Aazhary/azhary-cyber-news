@@ -36,6 +36,188 @@
     ]
   },
   {
+    "id": "473108c0074b7221b81392d3",
+    "title": "Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it",
+    "link": "https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/",
+    "published": "2026-07-27T14:00:40+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it. What: Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it. When: 2026-07-27T14:00:40+00:00. How: New CDW research finds that AI is driving new phishing and malware-based threats. Action: See Arabic action below.",
+    "summary_ar": "من: Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it. ماذا: Assume AI cybersecurity attacks are the future: 43% of companies have already experienced it. متى: 2026-07-27T14:00:40+00:00. كيف: New CDW research finds that AI is driving new phishing and malware-based threats.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/39a0e0880c4ef07c0a9b5ab8f2e37198ff4040dd/2026/07/27/4617bf25-1304-4b3d-8461-d367d759011a/gettyimages-2219944504.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/"
+    ]
+  },
+  {
+    "id": "03ba74bed264ca94e1faeb33",
+    "title": "Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update",
+    "link": "https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914",
+    "published": "2026-07-27T13:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Not content with broken Windows updates, Microsoft has disclosed two problems with Defender for Endpoint on Linux – one that could disable the security service after a reboot, and another that prevents updates on FIPS-enabled Red Hat Enterprise Linux 8 and 9.. What: Not content with broken Windows updates, Microsoft has disclosed two problems with Defender for Endpoint on Linux – one that could disable the security service after a reboot, and another that prevents updates on FIPS-enabled Red Hat Enterprise Linux 8 and 9.. When: 2026-07-27T13:45:00+00:00. How: The more serious problem affected versions 101.26042.0000 through 101.26042.0009 across all supported Linux operating systems. Action: See Arabic action below.",
+    "summary_ar": "من: Not content with broken Windows updates, Microsoft has disclosed two problems with Defender for Endpoint on Linux – one that could disable the security service after a reboot, and another that prevents updates on FIPS-enabled Red Hat Enterprise Linux 8 and 9.. ماذا: Not content with broken Windows updates, Microsoft has disclosed two problems with Defender for Endpoint on Linux – one that could disable the security service after a reboot, and another that prevents updates on FIPS-enabled Red Hat Enterprise Linux 8 and 9.. متى: 2026-07-27T13:45:00+00:00. كيف: The more serious problem affected versions 101.26042.0000 through 101.26042.0009 across all supported Linux operating systems.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5237244.jpg?imageId=5237244&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/patches/2026/07/27/microsoft-defender-for-endpoint-leaves-some-linux-boxes-defenseless-after-update/5278914"
+    ]
+  },
+  {
+    "id": "05ee0e8e9ee1c15318dab0b8",
+    "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+    "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+    "published": "2026-07-27T13:19:30+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: PTC Windchill Vulnerability Exploited in Ransomware Campaign. What: The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .. When: 2026-07-27T13:19:30+00:00. How: The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. Action: See Arabic action below.",
+    "summary_ar": "من: PTC Windchill Vulnerability Exploited in Ransomware Campaign. ماذا: The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .. متى: 2026-07-27T13:19:30+00:00. كيف: The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/12/ransomware.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/"
+    ]
+  },
+  {
+    "id": "3e6c4d0ed08e86990d80f656",
+    "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+    "published": "2026-07-27T13:05:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process. What: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform.. When: 2026-07-27T13:05:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process. ماذا: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform.. متى: 2026-07-27T13:05:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-27577"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+    ]
+  },
+  {
+    "id": "f2ce61b68c01a0168d11a741",
+    "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+    "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+    "published": "2026-07-27T13:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection. What: MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection. When: 2026-07-27T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection. ماذا: MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection. متى: 2026-07-27T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/Infostealer-Malware.jpg",
+    "sources": [
+      "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/"
+    ]
+  },
+  {
+    "id": "94fb342247ca6c356c1491f6",
+    "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+    "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+    "published": "2026-07-27T12:37:49+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools.. What: Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update. When: 2026-07-27T12:37:49+00:00. How: Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools.. ماذا: Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update. متى: 2026-07-27T12:37:49+00:00. كيف: Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html"
+    ]
+  },
+  {
+    "id": "eb1fda3c6b2352c6a6241f21",
+    "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+    "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+    "published": "2026-07-27T12:25:43+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Nvidia and Tech Giants Launch AI Security Alliance. What: Nvidia and Tech Giants Launch AI Security Alliance. When: 2026-07-27T12:25:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nvidia and Tech Giants Launch AI Security Alliance. ماذا: Nvidia and Tech Giants Launch AI Security Alliance. متى: 2026-07-27T12:25:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-alliance.webp",
+    "sources": [
+      "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/"
+    ]
+  },
+  {
+    "id": "31922be067812729038e459b",
+    "title": "I found a dual-display USB-C dock with 8 ports - and no bulky AC brick",
+    "link": "https://www.zdnet.com/article/ezquest-pro-series-8-in-1-hub-no-bulky-ac-brick/",
+    "published": "2026-07-27T12:17:20+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I found a dual-display USB-C dock with 8 ports - and no bulky AC brick. What: I found a dual-display USB-C dock with 8 ports - and no bulky AC brick. When: 2026-07-27T12:17:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I found a dual-display USB-C dock with 8 ports - and no bulky AC brick. ماذا: I found a dual-display USB-C dock with 8 ports - and no bulky AC brick. متى: 2026-07-27T12:17:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/bc05cecf411c00c306cdc3de754e479260e99f55/2026/07/24/e411128f-cffc-4a1a-b10a-04c9446de71e/img-5247.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/ezquest-pro-series-8-in-1-hub-no-bulky-ac-brick/"
+    ]
+  },
+  {
+    "id": "c369475a5235ba5b1c39d6f9",
+    "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes",
+    "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
+    "published": "2026-07-27T12:15:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes. What: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes. When: 2026-07-27T12:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes. ماذا: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - in minutes. متى: 2026-07-27T12:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/82efe85a9500792ff368f36d0cbcb0558e1cf19d/2026/07/24/1697782f-9988-451b-8942-698076ad05f5/dsc00191.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/"
+    ]
+  },
+  {
+    "id": "ea0779ecf566d4a2ac3ac15f",
+    "title": "How would AI data centers in space even work? A former NASA robotics chief explains",
+    "link": "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/",
+    "published": "2026-07-27T12:05:41+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: How would AI data centers in space even work? A former NASA robotics chief explains. What: How would AI data centers in space even work? A former NASA robotics chief explains. When: 2026-07-27T12:05:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How would AI data centers in space even work? A former NASA robotics chief explains. ماذا: How would AI data centers in space even work? A former NASA robotics chief explains. متى: 2026-07-27T12:05:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/b9b2772277457ec1cfc8e24471fcabd936f44a14/2026/07/27/5d10d400-75aa-4a55-a99a-fe856d2a6778/gettyimages-2134904176.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/"
+    ]
+  },
+  {
     "id": "5cf44d36fb280c711dec5303",
     "title": "SourTrade Malvertising Campaign Secretly Builds Malware in the Browser",
     "link": "https://www.infosecurity-magazine.com/news/malvertising-builds-malware-in/",
@@ -105,6 +287,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/04/mobile-device-security.jpg",
     "sources": [
       "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/"
+    ]
+  },
+  {
+    "id": "8bd7ed051abe7385e5aee8c7",
+    "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+    "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+    "published": "2026-07-27T10:51:45+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware. What: Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware. When: 2026-07-27T10:51:45+00:00. How: The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. Action: See Arabic action below.",
+    "summary_ar": "من: Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware. ماذا: Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware. متى: 2026-07-27T10:51:45+00:00. كيف: The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html"
     ]
   },
   {
@@ -742,24 +942,6 @@
     ]
   },
   {
-    "id": "c369475a5235ba5b1c39d6f9",
-    "title": "I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes",
-    "link": "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/",
-    "published": "2026-07-24T16:23:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes. What: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes. When: 2026-07-24T16:23:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes. ماذا: I fixed my home office's spotty Wi-Fi with Samsung's free diagnostic tool - and it took just minutes. متى: 2026-07-24T16:23:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/82efe85a9500792ff368f36d0cbcb0558e1cf19d/2026/07/24/1697782f-9988-451b-8942-698076ad05f5/dsc00191.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-connectivity-labs-wifi-diagnostic-tool-fix-office-setup/"
-    ]
-  },
-  {
     "id": "9bf285359f7cb4c0f40f1cbb",
     "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -905,12 +1087,12 @@
   },
   {
     "id": "eefddd373182ed6c2692dc00",
-    "title": "I tested Dell's new midrange work PC - It nails the sweet spot of price and performance",
+    "title": "I tested Dell's new midrange work PC - it nails the sweet spot of price and performance",
     "link": "https://www.zdnet.com/article/dell-14s-review/",
     "published": "2026-07-24T13:53:00+00:00",
     "source": "zdnet.com",
-    "summary_en": "Who: I tested Dell's new midrange work PC - It nails the sweet spot of price and performance. What: I tested Dell's new midrange work PC - It nails the sweet spot of price and performance. When: 2026-07-24T13:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Dell's new midrange work PC - It nails the sweet spot of price and performance. ماذا: I tested Dell's new midrange work PC - It nails the sweet spot of price and performance. متى: 2026-07-24T13:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: I tested Dell's new midrange work PC - it nails the sweet spot of price and performance. What: I tested Dell's new midrange work PC - it nails the sweet spot of price and performance. When: 2026-07-24T13:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I tested Dell's new midrange work PC - it nails the sweet spot of price and performance. ماذا: I tested Dell's new midrange work PC - it nails the sweet spot of price and performance. متى: 2026-07-24T13:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -165981,245 +166163,6 @@
     "sources": [
       "https://www.zdnet.com/article/secret-phone-codes-unlock-hidden-features-on-your-android-iphone/",
       "https://www.zdnet.com/article/i-used-14-secret-codes-to-unlock-menus-of-settings-on-my-iphone-and-android-how-it-works/"
-    ]
-  },
-  {
-    "id": "6eee740db8795e9c3561ccd9",
-    "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-    "link": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-    "published": "2026-01-28T14:01:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution. What: A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.. When: 2026-01-28T14:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution. ماذا: A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.. متى: 2026-01-28T14:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-22709"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Rl9Xy1aEtQBIw6aqscoEj4444e7H2BJLRbPSyqbi2DMtc22vTReAQM6ye0KR8pr1iBs4YA3KIdgfAvfBuIGBMrd7JYL5P9NNnNt6vgeD_B5GStVh1Bq5DzgnRsViE-z_dmkuGuhWTchwmk3ULxzq7_vVoUnKnwFaQtqVyCDf-oHiqBeiViqAlqdsGsi/s1700-e365/vm2.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html"
-    ]
-  },
-  {
-    "id": "42f1cecb73b8933a9c3093c8",
-    "title": "Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me",
-    "link": "https://www.zdnet.com/article/samsung-qn80f-tv-deal/",
-    "published": "2026-01-28T14:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me. What: Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me. When: 2026-01-28T14:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me. ماذا: Samsung is selling last year's QLED TV for $1,300 off right now, and it's a top choice for me. متى: 2026-01-28T14:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d17d5157dfb269c5126db89bbe7f57da173be385/2025/09/12/356f6758-3631-4316-aa45-c7583706d752/samsung-neo-qled-qn90f-65-inch-2025-17.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-qn80f-tv-deal/",
-      "https://www.zdnet.com/article/best-buy-lg-b5-oled-tv-deal/"
-    ]
-  },
-  {
-    "id": "0db8b53e69e8a32d2d53f528",
-    "title": "Surging Cyberattacks Boost Latin America to Riskiest Region",
-    "link": "https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region",
-    "published": "2026-01-28T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Surging Cyberattacks Boost Latin America to Riskiest Region. What: Surging Cyberattacks Boost Latin America to Riskiest Region. When: 2026-01-28T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Surging Cyberattacks Boost Latin America to Riskiest Region. ماذا: Surging Cyberattacks Boost Latin America to Riskiest Region. متى: 2026-01-28T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/surging-cyberattacks-latin-america-riskiest-region"
-    ]
-  },
-  {
-    "id": "ac24886a436b544a16b90a40",
-    "title": "Why We Can’t Let AI Take the Wheel of Cyber Defense",
-    "link": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
-    "published": "2026-01-28T14:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Why We Can’t Let AI Take the Wheel of Cyber Defense. What: Why We Can’t Let AI Take the Wheel of Cyber Defense. When: 2026-01-28T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why We Can’t Let AI Take the Wheel of Cyber Defense. ماذا: Why We Can’t Let AI Take the Wheel of Cyber Defense. متى: 2026-01-28T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/"
-    ]
-  },
-  {
-    "id": "70e0f72ab4deecd96dcdca6f",
-    "title": "My new favorite PC accessory is the ultimate productivity tool for work travel",
-    "link": "https://www.zdnet.com/article/protoarc-caseup-combo-review/",
-    "published": "2026-01-28T13:44:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My new favorite PC accessory is the ultimate productivity tool for work travel. What: My new favorite PC accessory is the ultimate productivity tool for work travel. When: 2026-01-28T13:44:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My new favorite PC accessory is the ultimate productivity tool for work travel. ماذا: My new favorite PC accessory is the ultimate productivity tool for work travel. متى: 2026-01-28T13:44:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3101b7798089bb65265618882983bbdd818fa5f5/2025/03/04/97315a18-b2c8-4fbf-980b-b7f3d00fc4f0/img-0312.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/protoarc-caseup-combo-review/"
-    ]
-  },
-  {
-    "id": "22868fb1d3525c0f9c0e7460",
-    "title": "Amazon is refunding nearly $1 billion to customers - are you eligible?",
-    "link": "https://www.zdnet.com/article/amazon-refund-1-billion-customer-eligibility/",
-    "published": "2026-01-28T13:23:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon is refunding nearly $1 billion to customers - are you eligible?. What: Amazon is refunding nearly $1 billion to customers - are you eligible?. When: 2026-01-28T13:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon is refunding nearly $1 billion to customers - are you eligible?. ماذا: Amazon is refunding nearly $1 billion to customers - are you eligible?. متى: 2026-01-28T13:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2495191dec48dc54687d638777c8dae88fc80f13/2026/01/28/1e325fab-67f9-4bbc-91eb-ca10c145fa38/gettyimages-1691108335.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-refund-1-billion-customer-eligibility/"
-    ]
-  },
-  {
-    "id": "c23c24e7d2067d86807b1826",
-    "title": "Old Windows quirks help punch through new admin defenses",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/google_windows_admin_exploit/",
-    "published": "2026-01-28T13:16:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses. What: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses. When: 2026-01-28T13:16:10+00:00. How: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses Action: See Arabic action below.",
-    "summary_ar": "من: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses. ماذا: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses. متى: 2026-01-28T13:16:10+00:00. كيف: Google researcher sits on UAC bypass for ages, only for it to become valid with new security feature Microsoft patched a bevy of bugs that allowed bypasses of Windows Administrator Protection before the feature was made available earlier this month.… Old Windows quirks help punch through new admin defenses. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2020/11/30/shutterstock_ghost_windows.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/28/google_windows_admin_exploit/"
-    ]
-  },
-  {
-    "id": "417203a92d71b8ed50c7542e",
-    "title": "Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/",
-    "published": "2026-01-28T13:15:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation. What: Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation. When: 2026-01-28T13:15:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation. ماذا: Hackers hijack exposed LLM endpoints in Bizarre Bazaar operation. متى: 2026-01-28T13:15:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/01/11/ai-robot-hacker-disiintegratin.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-hijack-exposed-llm-endpoints-in-bizarre-bazaar-operation/"
-    ]
-  },
-  {
-    "id": "6b003e6c5d2952c6bde104e2",
-    "title": "Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach",
-    "link": "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/",
-    "published": "2026-01-28T13:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach. What: Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach. When: 2026-01-28T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach. ماذا: Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach. متى: 2026-01-28T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/"
-    ]
-  },
-  {
-    "id": "eb03d1b87320ea552767c9dc",
-    "title": "Slovakian man pleads guilty to operating darknet marketplace",
-    "link": "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/",
-    "published": "2026-01-28T12:49:05+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Slovakian man pleads guilty to operating darknet marketplace. What: Slovakian man pleads guilty to operating darknet marketplace. When: 2026-01-28T12:49:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Slovakian man pleads guilty to operating darknet marketplace. ماذا: Slovakian man pleads guilty to operating darknet marketplace. متى: 2026-01-28T12:49:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/01/28/Hacker-typing.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/slovakian-man-pleads-guilty-to-operating-kingdown-market-cybercrime-marketplace/"
-    ]
-  },
-  {
-    "id": "0c6855fb11fed77bb68f10de",
-    "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-    "published": "2026-01-28T12:43:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.. What: Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.. When: 2026-01-28T12:43:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.. ماذا: Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.. متى: 2026-01-28T12:43:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-1470"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW94x6FIasfUAUj1l0mDp4cnVeR5PmfPV85I4_GuIlUqCVlMX0bthAcsA9oHJJz8d3gXUo74yw4d2kG3FnDnFe0zz_CzVY6Hyy8biL_gMKKaErWM3p15lAdh5xQnBBb6RhHSgKmpM3RLx1wccjhlKJc6I6lrO8M7SFIs3ezfEXuieA11PIJ1D7Z4nSaLb2/s1600/n8n.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html"
-    ]
-  },
-  {
-    "id": "5b05ab5c21159448fa84029d",
-    "title": "Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign",
-    "link": "https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/",
-    "published": "2026-01-28T12:10:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign. What: Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign. When: 2026-01-28T12:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign. ماذا: Emojis in PureRAT’s Code Point to AI-Generated Malware Campaign. متى: 2026-01-28T12:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/578a613d-ac22-4b15-9334-cf01d8a5ad09.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/emojis-in-purerats-code/"
-    ]
-  },
-  {
-    "id": "757b3e96b93b0c041256a63f",
-    "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-    "link": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-    "published": "2026-01-28T11:55:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: From Triage to Threat Hunts: How AI Accelerates SecOps. What: From Triage to Threat Hunts: How AI Accelerates SecOps. When: 2026-01-28T11:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: From Triage to Threat Hunts: How AI Accelerates SecOps. ماذا: From Triage to Threat Hunts: How AI Accelerates SecOps. متى: 2026-01-28T11:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghs8WHLFXdoOPjX8iPhC7ecFE52CMqypJ6IQ7vZIqEiCi7wpEiHdOI2XsSGqbTOVZiINMjvx-xQPV0t-KpwKnF-dHNYGG5yrNh-P_WLPbM2_fgRap6jTr9NOnfXuvgxZs9Xpd-JME7ArxhPMBrkOzHidNo7XjngGI-EtPDZ1eUIxb8-REtmvKWbZ2QhqY/s1600/prophet.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html"
     ]
   }
 ]
