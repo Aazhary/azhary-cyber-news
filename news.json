@@ -36,6 +36,78 @@
     ]
   },
   {
+    "id": "7b818cd68cd5f7ab0d8e8414",
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "published": "2026-07-27T21:56:14+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks.. What: Microsoft unveils AI security tools it says outperform competing platforms. When: 2026-07-27T21:56:14+00:00. How: The OpenAI models achieved this feat by exploiting a zero-day flaw in Hugging Face’s data-processing pipeline to run malicious code that escalated the models’ access to the company’s high-value cloud and server clusters. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is introducing new AI tools designed to help customers continuously streamline and automate the process of identifying and reducing their exposure to security risks.. ماذا: Microsoft unveils AI security tools it says outperform competing platforms. متى: 2026-07-27T21:56:14+00:00. كيف: The OpenAI models achieved this feat by exploiting a zero-day flaw in Hugging Face’s data-processing pipeline to run malicious code that escalated the models’ access to the company’s high-value cloud and server clusters.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+    ]
+  },
+  {
+    "id": "16ac7903dd7c9e2a804e8569",
+    "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+    "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+    "published": "2026-07-27T21:08:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: New Dysphoria DDoS botnet spreads to 200k devices worldwide. What: New Dysphoria DDoS botnet spreads to 200k devices worldwide. When: 2026-07-27T21:08:15+00:00. How: A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. Action: See Arabic action below.",
+    "summary_ar": "من: New Dysphoria DDoS botnet spreads to 200k devices worldwide. ماذا: New Dysphoria DDoS botnet spreads to 200k devices worldwide. متى: 2026-07-27T21:08:15+00:00. كيف: A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/27/botnet.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/"
+    ]
+  },
+  {
+    "id": "9225e457d46e6a3fb2577c51",
+    "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+    "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+    "published": "2026-07-27T21:00:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: New Certighost PoC exploit lets attackers hijack Windows domains. What: A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain.. When: 2026-07-27T21:00:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Certighost PoC exploit lets attackers hijack Windows domains. ماذا: A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain.. متى: 2026-07-27T21:00:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/20/Windows-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/"
+    ]
+  },
+  {
+    "id": "7b64233b8acac4db2d6afaed",
+    "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+    "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+    "published": "2026-07-27T20:57:26+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure. What: 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure. When: 2026-07-27T20:57:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure. ماذا: 'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure. متى: 2026-07-27T20:57:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt858353272bfe1d66/6a67aa58d69290224aaaac5a/confusedeputy-sjharmon-Getty-174844180.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure"
+    ]
+  },
+  {
     "id": "92a27008ca321f3ff7974618",
     "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
     "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
@@ -4836,9 +4908,9 @@
     ]
   },
   {
-    "id": "6454bd9a394928a77f87722a",
+    "id": "8f2f3f2ba228466a99d1a1cc",
     "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/",
     "published": "2026-07-22T05:00:00+00:00",
     "source": "crowdstrike.com",
     "summary_en": "Who: CrowdStrike Falcon Platform Helps Meet U.S.. What: CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04. When: 2026-07-22T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
@@ -4850,8 +4922,8 @@
     "impacted": [],
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/"
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-goverment-mandates-cisa-bod-26-04/",
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/"
     ]
   },
   {
@@ -5550,24 +5622,6 @@
     ]
   },
   {
-    "id": "a9ef250acdb469c7d302a90f",
-    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
-    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
-    "published": "2026-07-21T13:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
-    ]
-  },
-  {
     "id": "78079e4235d6ec2a5c256a64",
     "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
     "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
@@ -5583,6 +5637,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
+    ]
+  },
+  {
+    "id": "a9ef250acdb469c7d302a90f",
+    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
+    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
+    "published": "2026-07-21T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
+    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
     ]
   },
   {
@@ -12830,24 +12902,6 @@
     ]
   },
   {
-    "id": "e10037dc4eeaf4a8dc6dc310",
-    "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
-    "published": "2026-07-13T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Turning the Tables on Email Scammers With 'ScamBuster'. What: Turning the Tables on Email Scammers With 'ScamBuster'. When: 2026-07-13T13:00:00+00:00. How: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations. Action: See Arabic action below.",
-    "summary_ar": "من: Turning the Tables on Email Scammers With 'ScamBuster'. ماذا: Turning the Tables on Email Scammers With 'ScamBuster'. متى: 2026-07-13T13:00:00+00:00. كيف: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster"
-    ]
-  },
-  {
     "id": "4a5a7c5b47ccf0553f021e76",
     "title": "Novel OAuth Client ID Spoofing Technique Targets Cloud Environments",
     "link": "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/",
@@ -12863,6 +12917,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/589e1de2-2312-468c-8b0e-c564cf3ef7fd.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/novel-spoofing-technique-targets/"
+    ]
+  },
+  {
+    "id": "e10037dc4eeaf4a8dc6dc310",
+    "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+    "published": "2026-07-13T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Turning the Tables on Email Scammers With 'ScamBuster'. What: Turning the Tables on Email Scammers With 'ScamBuster'. When: 2026-07-13T13:00:00+00:00. How: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations. Action: See Arabic action below.",
+    "summary_ar": "من: Turning the Tables on Email Scammers With 'ScamBuster'. ماذا: Turning the Tables on Email Scammers With 'ScamBuster'. متى: 2026-07-13T13:00:00+00:00. كيف: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster"
     ]
   },
   {
@@ -165786,78 +165858,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
     "sources": [
       "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/"
-    ]
-  },
-  {
-    "id": "7987deed2123696d217fe362",
-    "title": "CachyOS vs. EdeavorOS: Which spinoff makes Arch Linux easier to use?",
-    "link": "https://www.zdnet.com/article/cachyos-vs-edeavor-os-linux/",
-    "published": "2026-01-28T21:52:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: CachyOS vs. EdeavorOS: Which spinoff makes Arch Linux easier to use?. What: CachyOS vs. EdeavorOS: Which spinoff makes Arch Linux easier to use?. When: 2026-01-28T21:52:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CachyOS vs. EdeavorOS: Which spinoff makes Arch Linux easier to use?. ماذا: CachyOS vs. EdeavorOS: Which spinoff makes Arch Linux easier to use?. متى: 2026-01-28T21:52:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3a7c9f9a732874e888326acab459456b2b45fd91/2026/01/28/a7bd06df-cb63-411e-9712-77dcfcd871dc/arch-linux-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cachyos-vs-edeavor-os-linux/"
-    ]
-  },
-  {
-    "id": "778d840a8f17a3744127a64e",
-    "title": "Ransomware crims forced to take off-RAMP as FBI seizes forum",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/fbi_seizes_ramp_forum/",
-    "published": "2026-01-28T21:26:40+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Ransomware crims forced to take off-RAMP as FBI seizes forum. What: Ransomware crims forced to take off-RAMP as FBI seizes forum. When: 2026-01-28T21:26:40+00:00. How: US law enforcement has seized the notorious RAMP cybercrime forum's dark web and clearnet domains.… Ransomware crims forced to take off-RAMP as FBI seizes forum Action: See Arabic action below.",
-    "summary_ar": "من: Ransomware crims forced to take off-RAMP as FBI seizes forum. ماذا: Ransomware crims forced to take off-RAMP as FBI seizes forum. متى: 2026-01-28T21:26:40+00:00. كيف: US law enforcement has seized the notorious RAMP cybercrime forum's dark web and clearnet domains.… Ransomware crims forced to take off-RAMP as FBI seizes forum. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/01/28/ramp_forum_seizure_notice.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/28/fbi_seizes_ramp_forum/"
-    ]
-  },
-  {
-    "id": "1bb0b60c2b391414b93a3d09",
-    "title": "Fortinet Confirms New Zero-Day Behind Malicious SSO Logins",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins",
-    "published": "2026-01-28T21:14:27+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins. What: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins. When: 2026-01-28T21:14:27+00:00. How: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins. ماذا: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins. متى: 2026-01-28T21:14:27+00:00. كيف: Fortinet Confirms New Zero-Day Behind Malicious SSO Logins. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins"
-    ]
-  },
-  {
-    "id": "0533dba24245084caed36aa8",
-    "title": "eScan confirms update server breached to push malicious update",
-    "link": "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/",
-    "published": "2026-01-28T21:00:40+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: eScan confirms update server breached to push malicious update. What: eScan confirms update server breached to push malicious update. When: 2026-01-28T21:00:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: eScan confirms update server breached to push malicious update. ماذا: eScan confirms update server breached to push malicious update. متى: 2026-01-28T21:00:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/12/28/hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/escan-confirms-update-server-breached-to-push-malicious-update/"
     ]
   }
 ]
