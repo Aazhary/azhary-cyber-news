@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "6d1473257c2cb88c01f283c0",
+    "title": "MCP gets an enterprise makeover",
+    "link": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027",
+    "published": "2026-07-28T23:08:02+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: \"Historically, running MCP at scale required sticky routing or shared state to maintain continuity across sessions,\" explained Caitie McCaffrey, a Microsoft software engineer and core MCP maintainer, in a blog post.. What: The Agentic AI Foundation, part of the Linux Foundation, has released an update to the Model Context Protocol (MCP) that aims to help enterprises adopt AI-based automation.. When: 2026-07-28T23:08:02+00:00. How: Open-sourced by Anthropic in November 2024, MCP provides a way for AI applications (agents) based on models like GPT-5.6 Sol or Claude Opus 5 to connect to existing data sources, tools, or other applications. Action: See Arabic action below.",
+    "summary_ar": "من: \"Historically, running MCP at scale required sticky routing or shared state to maintain continuity across sessions,\" explained Caitie McCaffrey, a Microsoft software engineer and core MCP maintainer, in a blog post.. ماذا: The Agentic AI Foundation, part of the Linux Foundation, has released an update to the Model Context Protocol (MCP) that aims to help enterprises adopt AI-based automation.. متى: 2026-07-28T23:08:02+00:00. كيف: Open-sourced by Anthropic in November 2024, MCP provides a way for AI applications (agents) based on models like GPT-5.6 Sol or Claude Opus 5 to connect to existing data sources, tools, or other applications.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5239946.jpg?imageId=5239946&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027"
+    ]
+  },
+  {
     "id": "fe5d7be97a0508d47bd95207",
     "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
     "link": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
@@ -57,7 +75,7 @@
     ],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/232611.jpg?imageId=232611&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001"
     ]
@@ -165616,24 +165634,6 @@
     "image": "https://regmedia.co.uk/2025/06/04/shutterstock_1897585084.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/01/30/java_developers_container_security/"
-    ]
-  },
-  {
-    "id": "caec758054981f15855ffc71",
-    "title": "Maybe CISA should take its own advice about insider threats hmmm?",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/cisa_insider_threat_guidance/",
-    "published": "2026-01-29T23:19:21+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The call is coming from inside the house opinion Maybe everything is all about timing, like the time (this week) America's lead cyber-defense agency sounded the alarm on insider threats after it came to light that its senior official uploaded sensitive documents to ChatGPT.… Maybe CISA should take its own advice about insider threats hmmm?. What: Maybe CISA should take its own advice about insider threats hmmm?. When: 2026-01-29T23:19:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The call is coming from inside the house opinion Maybe everything is all about timing, like the time (this week) America's lead cyber-defense agency sounded the alarm on insider threats after it came to light that its senior official uploaded sensitive documents to ChatGPT.… Maybe CISA should take its own advice about insider threats hmmm?. ماذا: Maybe CISA should take its own advice about insider threats hmmm?. متى: 2026-01-29T23:19:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/05/23/cisa_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/29/cisa_insider_threat_guidance/"
     ]
   }
 ]
