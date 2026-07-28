@@ -36,6 +36,96 @@
     ]
   },
   {
+    "id": "284191530b9da70566acc1b8",
+    "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+    "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+    "published": "2026-07-28T21:17:39+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CubePilot drone software dev hit by DNS hijacking to intercept traffic. What: CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack.. When: 2026-07-28T21:17:39+00:00. How: CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. Action: See Arabic action below.",
+    "summary_ar": "من: CubePilot drone software dev hit by DNS hijacking to intercept traffic. ماذا: CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack.. متى: 2026-07-28T21:17:39+00:00. كيف: CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/28/cubepilot.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/"
+    ]
+  },
+  {
+    "id": "24452eaf45677879405e75f3",
+    "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+    "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+    "published": "2026-07-28T21:07:55+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Flaw From 2002 Exposes Data Centers to Server Takeover. What: Flaw From 2002 Exposes Data Centers to Server Takeover. When: 2026-07-28T21:07:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Flaw From 2002 Exposes Data Centers to Server Takeover. ماذا: Flaw From 2002 Exposes Data Centers to Server Takeover. متى: 2026-07-28T21:07:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover"
+    ]
+  },
+  {
+    "id": "ce7558c86819f76e1098f803",
+    "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+    "published": "2026-07-28T20:37:06+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.. What: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.. When: 2026-07-28T20:37:06+00:00. How: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. Action: See Arabic action below.",
+    "summary_ar": "من: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.. ماذا: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.. متى: 2026-07-28T20:37:06+00:00. كيف: JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/03/18/AI_Artificial_Intelligence.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/"
+    ]
+  },
+  {
+    "id": "356fa6cba449b887e848d64d",
+    "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+    "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+    "published": "2026-07-28T20:27:36+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.. What: When AI Agents Escape Sandboxes, Old Security Rules Apply. When: 2026-07-28T20:27:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.. ماذا: When AI Agents Escape Sandboxes, Old Security Rules Apply. متى: 2026-07-28T20:27:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94af172165d49722/6a690498bd5a135ff4077c33/Sandbox-Ukususha-Getty-530496540.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply"
+    ]
+  },
+  {
+    "id": "ec3ac98d3e2e36dbff8b1736",
+    "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+    "published": "2026-07-28T20:05:32+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Stronger AI Safety Requires Peeking Inside the 'Black Box'. What: Stronger AI Safety Requires Peeking Inside the 'Black Box'. When: 2026-07-28T20:05:32+00:00. How: Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action. Action: See Arabic action below.",
+    "summary_ar": "من: Stronger AI Safety Requires Peeking Inside the 'Black Box'. ماذا: Stronger AI Safety Requires Peeking Inside the 'Black Box'. متى: 2026-07-28T20:05:32+00:00. كيف: Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box"
+    ]
+  },
+  {
     "id": "214a2a2a2ede68e42c0f0230",
     "title": "12 keychain gadgets worth carrying every day (and why they're worth it)",
     "link": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
@@ -1186,7 +1276,7 @@
   },
   {
     "id": "f5265b90696520c143dbc60a",
-    "title": "Agentic Browsers Rewind Web Security by 20 years",
+    "title": "Agentic Browsers Rewind Web Security by 20 Years",
     "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
     "published": "2026-07-27T21:39:09+00:00",
     "source": "darkreading.com",
@@ -165535,24 +165625,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security"
-    ]
-  },
-  {
-    "id": "efa14c69f382b13deb9d3bad",
-    "title": "Understanding the Russian Cyberthreat to the 2026 Winter Olympics",
-    "link": "https://unit42.paloaltonetworks.com/russian-cyberthreat-2026-winter-olympics/",
-    "published": "2026-01-29T21:30:47+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Understanding the Russian Cyberthreat to the 2026 Winter Olympics. What: Understanding the Russian Cyberthreat to the 2026 Winter Olympics. When: 2026-01-29T21:30:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Understanding the Russian Cyberthreat to the 2026 Winter Olympics. ماذا: Understanding the Russian Cyberthreat to the 2026 Winter Olympics. متى: 2026-01-29T21:30:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/Ursa-Russia-B-1920x900-1.png",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/russian-cyberthreat-2026-winter-olympics/"
     ]
   }
 ]
