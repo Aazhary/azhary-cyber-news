@@ -36,6 +36,69 @@
     ]
   },
   {
+    "id": "fe5d7be97a0508d47bd95207",
+    "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
+    "link": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
+    "published": "2026-07-28T22:01:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: We now have a better idea of how OpenAI's models broke out of their cages to attack Hugging Face.. What: While Landman doesn’t outright admit that the JFrog flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, it definitely looks and quacks like a duck - err, frog.. When: 2026-07-28T22:01:53+00:00. How: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman. Action: See Arabic action below.",
+    "summary_ar": "من: We now have a better idea of how OpenAI's models broke out of their cages to attack Hugging Face.. ماذا: While Landman doesn’t outright admit that the JFrog flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, it definitely looks and quacks like a duck - err, frog.. متى: 2026-07-28T22:01:53+00:00. كيف: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-65617",
+      "CVE-2026-65921",
+      "CVE-2026-65923",
+      "CVE-2026-65924",
+      "CVE-2026-65925",
+      "CVE-2026-66014",
+      "CVE-2026-66015",
+      "CVE-2026-66018"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001"
+    ]
+  },
+  {
+    "id": "ed5ec75bea30ca654128fb41",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "published": "2026-07-28T21:36:39+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. What: Not the triumph made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. When: 2026-07-28T21:36:39+00:00. How: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday. Action: See Arabic action below.",
+    "summary_ar": "من: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. ماذا: Not the triumph made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. متى: 2026-07-28T21:36:39+00:00. كيف: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+    ]
+  },
+  {
+    "id": "24feb41701cc347e4c207395",
+    "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+    "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+    "published": "2026-07-28T21:33:23+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Ghost Credentials Expose Cloud Systems to Hidden Identity Risks. What: Ghost Credentials Expose Cloud Systems to Hidden Identity Risks. When: 2026-07-28T21:33:23+00:00. How: Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths. Action: See Arabic action below.",
+    "summary_ar": "من: Ghost Credentials Expose Cloud Systems to Hidden Identity Risks. ماذا: Ghost Credentials Expose Cloud Systems to Hidden Identity Risks. متى: 2026-07-28T21:33:23+00:00. كيف: Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30bed8fd33fe3bfb/6888bea8af946d84d071204f/ghost-igor-Stevanovic-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path"
+    ]
+  },
+  {
     "id": "284191530b9da70566acc1b8",
     "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
     "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
@@ -51,6 +114,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/07/28/cubepilot.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/"
+    ]
+  },
+  {
+    "id": "24452eaf45677879405e75f3",
+    "title": "Thousands of Data Center Controllers Open to Takeover",
+    "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+    "published": "2026-07-28T21:07:55+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Thousands of Data Center Controllers Open to Takeover. What: Thousands of Data Center Controllers Open to Takeover. When: 2026-07-28T21:07:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Thousands of Data Center Controllers Open to Takeover. ماذا: Thousands of Data Center Controllers Open to Takeover. متى: 2026-07-28T21:07:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover"
     ]
   },
   {
@@ -165553,78 +165634,6 @@
     "image": "https://regmedia.co.uk/2024/05/23/cisa_shutterstock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/01/29/cisa_insider_threat_guidance/"
-    ]
-  },
-  {
-    "id": "9f84fd39ec744e7bc89dc24a",
-    "title": "Trump Administration Rescinds Biden-Era Software Guidance",
-    "link": "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance",
-    "published": "2026-01-29T22:25:07+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Trump Administration Rescinds Biden-Era Software Guidance. What: Trump Administration Rescinds Biden-Era Software Guidance. When: 2026-01-29T22:25:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Trump Administration Rescinds Biden-Era Software Guidance. ماذا: Trump Administration Rescinds Biden-Era Software Guidance. متى: 2026-01-29T22:25:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance"
-    ]
-  },
-  {
-    "id": "98a474786c4f8c1cc7dfdb05",
-    "title": "Hugging Face abused to spread thousands of Android malware variants",
-    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/",
-    "published": "2026-01-29T22:08:19+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hugging Face abused to spread thousands of Android malware variants. What: Hugging Face abused to spread thousands of Android malware variants. When: 2026-01-29T22:08:19+00:00. How: A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services. Action: See Arabic action below.",
-    "summary_ar": "من: Hugging Face abused to spread thousands of Android malware variants. ماذا: Hugging Face abused to spread thousands of Android malware variants. متى: 2026-01-29T22:08:19+00:00. كيف: A new Android malware campaign is using the Hugging Face platform as a repository for thousands of variations of an APK payload that collects credentials for popular financial and payment services.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/12/android-eyes.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hugging-face-abused-to-spread-thousands-of-android-malware-variants/"
-    ]
-  },
-  {
-    "id": "001be573a19fd4283c440623",
-    "title": "Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security",
-    "published": "2026-01-29T21:53:01+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk. What: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk. When: 2026-01-29T21:53:01+00:00. How: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk Action: See Arabic action below.",
-    "summary_ar": "من: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk. ماذا: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk. متى: 2026-01-29T21:53:01+00:00. كيف: Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security"
-    ]
-  },
-  {
-    "id": "001be573a19fd4283c440623",
-    "title": "More Critical Flaws on n8n Could Compromise Customer Security",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security",
-    "published": "2026-01-29T21:53:01+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: More Critical Flaws on n8n Could Compromise Customer Security. What: More Critical Flaws on n8n Could Compromise Customer Security. When: 2026-01-29T21:53:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: More Critical Flaws on n8n Could Compromise Customer Security. ماذا: More Critical Flaws on n8n Could Compromise Customer Security. متى: 2026-01-29T21:53:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security"
     ]
   }
 ]
