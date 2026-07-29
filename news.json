@@ -37,6 +37,24 @@
   },
   {
     "id": "1401ad6c55e0264d2ac0c666",
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "published": "2026-07-29T22:07:06+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: HAWK was in a third round of testing designed to catch precisely the kinds of flaws Mythos helped uncover.. What: Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission. When: 2026-07-29T22:07:06+00:00. How: HAWK had survived two rounds of testing by NIST (the National Institute of Standards and Technology) for evaluating the security of PQC (post-quantum cryptographic) algorithms through widespread testing. Action: See Arabic action below.",
+    "summary_ar": "من: HAWK was in a third round of testing designed to catch precisely the kinds of flaws Mythos helped uncover.. ماذا: Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission. متى: 2026-07-29T22:07:06+00:00. كيف: HAWK had survived two rounds of testing by NIST (the National Institute of Standards and Technology) for evaluating the security of PQC (post-quantum cryptographic) algorithms through widespread testing.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+    ]
+  },
+  {
+    "id": "1401ad6c55e0264d2ac0c666",
     "title": "Mythos uncovers crypto weaknesses that went unknown for years",
     "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "published": "2026-07-29T22:07:06+00:00",
@@ -165429,27 +165447,6 @@
     "image": "https://www.zdnet.com/a/img/resize/774b976f10a33c1edc520599b5833479819a9ca8/2024/10/14/b7da6614-1a95-4a63-9037-beaef5fbac93/smartsoundbar-3.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/bose-soundtouch-speaker-open-source-lifeline/"
-    ]
-  },
-  {
-    "id": "b46d687b7848c308c275165a",
-    "title": "Privileged File System Vulnerability Present in a SCADA System",
-    "link": "https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/",
-    "published": "2026-01-30T23:00:01+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Privileged File System Vulnerability Present in a SCADA System. What: Privileged File System Vulnerability Present in a SCADA System. When: 2026-01-30T23:00:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Privileged File System Vulnerability Present in a SCADA System. ماذا: Privileged File System Vulnerability Present in a SCADA System. متى: 2026-01-30T23:00:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-0921",
-      "cve-2025-0921"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/06_Vulnerabilities_1920x900-2-1.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/"
     ]
   }
 ]
