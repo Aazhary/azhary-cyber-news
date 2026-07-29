@@ -36,6 +36,63 @@
     ]
   },
   {
+    "id": "1401ad6c55e0264d2ac0c666",
+    "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "published": "2026-07-29T22:07:06+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Mythos uncovers crypto weaknesses that went unknown for years. What: Mythos uncovers crypto weaknesses that went unknown for years. When: 2026-07-29T22:07:06+00:00. How: At the moment, it’s hard to know how much of the company’s reporting is marketing hype, but the findings are still worth paying attention to because they could signal important advances in breaking cryptography that’s crucial to privacy and security. Action: See Arabic action below.",
+    "summary_ar": "من: Mythos uncovers crypto weaknesses that went unknown for years. ماذا: Mythos uncovers crypto weaknesses that went unknown for years. متى: 2026-07-29T22:07:06+00:00. كيف: At the moment, it’s hard to know how much of the company’s reporting is marketing hype, but the findings are still worth paying attention to because they could signal important advances in breaking cryptography that’s crucial to privacy and security.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+    ]
+  },
+  {
+    "id": "b373298601a4a243d16f31ee",
+    "title": "Anthropic confirms Claude is down worldwide",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+    "published": "2026-07-29T21:39:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Anthropic confirms Claude is down worldwide. What: Anthropic confirms Claude is down worldwide. When: 2026-07-29T21:39:29+00:00. How: The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic confirms Claude is down worldwide. ماذا: Anthropic confirms Claude is down worldwide. متى: 2026-07-29T21:39:29+00:00. كيف: The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/"
+    ]
+  },
+  {
+    "id": "5b47dfb06d8e2d02536b4475",
+    "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+    "published": "2026-07-29T21:35:40+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. What: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. When: 2026-07-29T21:35:40+00:00. How: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. ماذا: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. متى: 2026-07-29T21:35:40+00:00. كيف: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20316"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/"
+    ]
+  },
+  {
     "id": "4703e3a03e4368ff4c315ea4",
     "title": "What 'mAh' means for your phone's battery, and why I focus on another metric instead",
     "link": "https://www.zdnet.com/article/what-mah-means-for-phones-battery-life/",
@@ -51,25 +108,6 @@
     "image": "https://www.zdnet.com/a/img/resize/e2bacae2717e87b00dbaeec81a67016ee5b92999/2026/02/28/dabd3737-d33b-4d16-8854-45e7ac876681/dsc09248.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/what-mah-means-for-phones-battery-life/"
-    ]
-  },
-  {
-    "id": "b373298601a4a243d16f31ee",
-    "title": "Anthropic confirms Claude is down worldwide",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-    "published": "2026-07-29T20:59:32+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Anthropic confirms Claude is down worldwide. What: Anthropic confirms Claude is down worldwide. When: 2026-07-29T20:59:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic confirms Claude is down worldwide. ماذا: Anthropic confirms Claude is down worldwide. متى: 2026-07-29T20:59:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/"
     ]
   },
   {
@@ -84840,7 +84878,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260715-1455",
+    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260729-1718",
     "sources": [
       "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html"
     ]
@@ -165412,60 +165450,6 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/06_Vulnerabilities_1920x900-2-1.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/iconics-suite-cve-2025-0921/"
-    ]
-  },
-  {
-    "id": "84a37428980c2fb70763ea5e",
-    "title": "Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation",
-    "link": "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation",
-    "published": "2026-01-30T22:14:31+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation. What: Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation. When: 2026-01-30T22:14:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation. ماذا: Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation. متى: 2026-01-30T22:14:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation"
-    ]
-  },
-  {
-    "id": "10de53e0370b1dd352bf1973",
-    "title": "January blues return as Ivanti coughs up exploited EPMM zero-days",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/30/ivanti_epmm_zero_days/",
-    "published": "2026-01-30T22:01:28+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: January blues return as Ivanti coughs up exploited EPMM zero-days. What: Consider yourselves compromised, experts warn Ivanti has patched two critical zero-day vulnerabilities in its Endpoint Manager Mobile (EPMM) product that are already being exploited, continuing a grim run of January security incidents for enterprise IT vendors.… January blues return as Ivanti coughs up exploited EPMM zero-days. When: 2026-01-30T22:01:28+00:00. How: Consider yourselves compromised, experts warn Ivanti has patched two critical zero-day vulnerabilities in its Endpoint Manager Mobile (EPMM) product that are already being exploited, continuing a grim run of January security incidents for enterprise IT vendors.… January blues return as Ivanti coughs up exploited EPMM zero-days Action: See Arabic action below.",
-    "summary_ar": "من: January blues return as Ivanti coughs up exploited EPMM zero-days. ماذا: Consider yourselves compromised, experts warn Ivanti has patched two critical zero-day vulnerabilities in its Endpoint Manager Mobile (EPMM) product that are already being exploited, continuing a grim run of January security incidents for enterprise IT vendors.… January blues return as Ivanti coughs up exploited EPMM zero-days. متى: 2026-01-30T22:01:28+00:00. كيف: Consider yourselves compromised, experts warn Ivanti has patched two critical zero-day vulnerabilities in its Endpoint Manager Mobile (EPMM) product that are already being exploited, continuing a grim run of January security incidents for enterprise IT vendors.… January blues return as Ivanti coughs up exploited EPMM zero-days. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/01/05/zero_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/01/30/ivanti_epmm_zero_days/"
-    ]
-  },
-  {
-    "id": "28fb68f5658f6c21165f2115",
-    "title": "21 secret Netflix settings I use to instantly upgrade my streaming experience",
-    "link": "https://www.zdnet.com/article/netflix-settings-tips-tricks-hacks/",
-    "published": "2026-01-30T21:59:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 21 secret Netflix settings I use to instantly upgrade my streaming experience. What: 21 secret Netflix settings I use to instantly upgrade my streaming experience. When: 2026-01-30T21:59:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 21 secret Netflix settings I use to instantly upgrade my streaming experience. ماذا: 21 secret Netflix settings I use to instantly upgrade my streaming experience. متى: 2026-01-30T21:59:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f57d5b0c3657c3fe74a61f31d758c76946334b8d/2026/01/30/59f42901-0c0d-41e5-a82c-04264e8864eb/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/netflix-settings-tips-tricks-hacks/"
     ]
   }
 ]
