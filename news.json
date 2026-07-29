@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "149ecc4aaf593969bbbcf587",
+    "title": "America bans imported robots due to supply chain and security risks",
+    "link": "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145",
+    "published": "2026-07-29T02:16:31+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The national security document observes “Advanced robotic devices will be critical to creating efficiencies in our economy, dominating on the battlefield, and securing our homeland” and notes that modern bots are now constantly connected to networks “which creates broad attack surfaces and leaves them vulnerable to data exfiltration, remote disruption of the physical robot, and dependencies on unsecure over the air updates.” One example of those vulnerabilities mentioned in the document is the UniPwn flaws that made it possible for attackers to take over humanoid robots made by Chinese company Unitree.. What: America bans imported robots due to supply chain and security risks. When: 2026-07-29T02:16:31+00:00. How: “If the United States continues to rely on foreign sources of advanced robotic devices and critical components, it will subject the parts of the U.S. Action: See Arabic action below.",
+    "summary_ar": "من: The national security document observes “Advanced robotic devices will be critical to creating efficiencies in our economy, dominating on the battlefield, and securing our homeland” and notes that modern bots are now constantly connected to networks “which creates broad attack surfaces and leaves them vulnerable to data exfiltration, remote disruption of the physical robot, and dependencies on unsecure over the air updates.” One example of those vulnerabilities mentioned in the document is the UniPwn flaws that made it possible for attackers to take over humanoid robots made by Chinese company Unitree.. ماذا: America bans imported robots due to supply chain and security risks. متى: 2026-07-29T02:16:31+00:00. كيف: “If the United States continues to rely on foreign sources of advanced robotic devices and critical components, it will subject the parts of the U.S.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5280168.jpg?imageId=5280168&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145"
+    ]
+  },
+  {
     "id": "6d1473257c2cb88c01f283c0",
     "title": "MCP gets an enterprise makeover",
     "link": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027",
@@ -6978,24 +6996,6 @@
     ]
   },
   {
-    "id": "78079e4235d6ec2a5c256a64",
-    "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
-    "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
-    "published": "2026-07-21T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: A New Ransomware Threat Actor Emerges Every Week, Warns Report. What: A New Ransomware Threat Actor Emerges Every Week, Warns Report. When: 2026-07-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A New Ransomware Threat Actor Emerges Every Week, Warns Report. ماذا: A New Ransomware Threat Actor Emerges Every Week, Warns Report. متى: 2026-07-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
-    ]
-  },
-  {
     "id": "a9ef250acdb469c7d302a90f",
     "title": "Intel fortifies Foundry with an actual customer: Fortinet",
     "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
@@ -7011,6 +7011,24 @@
     "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
+    ]
+  },
+  {
+    "id": "78079e4235d6ec2a5c256a64",
+    "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
+    "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
+    "published": "2026-07-21T13:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: A New Ransomware Threat Actor Emerges Every Week, Warns Report. What: A New Ransomware Threat Actor Emerges Every Week, Warns Report. When: 2026-07-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A New Ransomware Threat Actor Emerges Every Week, Warns Report. ماذا: A New Ransomware Threat Actor Emerges Every Week, Warns Report. متى: 2026-07-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
     ]
   },
   {
@@ -165327,277 +165345,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg",
     "sources": [
       "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
-    ]
-  },
-  {
-    "id": "0dbe646ca6cb2fb1d21a92cc",
-    "title": "This tiny USB-C mic is the easiest way to make your phone videos sound professionally recorded",
-    "link": "https://www.zdnet.com/article/shure-mv88-usb-c-review/",
-    "published": "2026-01-30T02:16:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This tiny USB-C mic is the easiest way to make your phone videos sound professionally recorded. What: This tiny USB-C mic is the easiest way to make your phone videos sound professionally recorded. When: 2026-01-30T02:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This tiny USB-C mic is the easiest way to make your phone videos sound professionally recorded. ماذا: This tiny USB-C mic is the easiest way to make your phone videos sound professionally recorded. متى: 2026-01-30T02:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4be247b0a77a6721a6789221f6689a3594e63b7f/2026/01/28/28481dc9-acff-43b1-88a1-f90e0019b185/shure-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/shure-mv88-usb-c-review/"
-    ]
-  },
-  {
-    "id": "54722dec14870b618dc5fb6a",
-    "title": "Verizon has a new free iPhone 17 Pro Max deal to entice new customers - here's how to qualify",
-    "link": "https://www.zdnet.com/article/verizon-iphone-17-pro-max-deal/",
-    "published": "2026-01-30T02:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Verizon has a new free iPhone 17 Pro Max deal to entice new customers - here's how to qualify. What: Verizon has a new free iPhone 17 Pro Max deal to entice new customers - here's how to qualify. When: 2026-01-30T02:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Verizon has a new free iPhone 17 Pro Max deal to entice new customers - here's how to qualify. ماذا: Verizon has a new free iPhone 17 Pro Max deal to entice new customers - here's how to qualify. متى: 2026-01-30T02:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e85381409db90e44c0e52eb92d907baa2eaaf1f8/2025/09/24/c1d2066b-0d05-4e4b-b46b-e9454492b504/hiner-iphone-17-pro-max-review.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/verizon-iphone-17-pro-max-deal/"
-    ]
-  },
-  {
-    "id": "7df743f9af789e6939602359",
-    "title": "Don't buy a snow blower unless you've consulted these 6 expert-approved steps",
-    "link": "https://www.zdnet.com/article/how-to-choose-a-snow-blower-2026/",
-    "published": "2026-01-30T02:09:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Don't buy a snow blower unless you've consulted these 6 expert-approved steps. What: Don't buy a snow blower unless you've consulted these 6 expert-approved steps. When: 2026-01-30T02:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Don't buy a snow blower unless you've consulted these 6 expert-approved steps. ماذا: Don't buy a snow blower unless you've consulted these 6 expert-approved steps. متى: 2026-01-30T02:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3b1d1d20ee5876641e2d967fa8551eaebff1d185/2024/01/08/efceb44b-cba2-4330-b426-978bf9280664/20240107-114318.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-choose-a-snow-blower-2026/"
-    ]
-  },
-  {
-    "id": "a07c8fef2da0cd9e0fb5f21b",
-    "title": "Microsoft's latest zero-day patch blocks a viral Office document hack - how to protect your PC ASAP",
-    "link": "https://www.zdnet.com/article/microsoft-office-emergency-patch-fixes-zero-day-flaw/",
-    "published": "2026-01-30T02:02:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft's latest zero-day patch blocks a viral Office document hack - how to protect your PC ASAP. What: Microsoft's latest zero-day patch blocks a viral Office document hack - how to protect your PC ASAP. When: 2026-01-30T02:02:00+00:00. How: This emergency zero-day patch prevents attackers from slipping past built-in protections and compromising your system. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft's latest zero-day patch blocks a viral Office document hack - how to protect your PC ASAP. ماذا: Microsoft's latest zero-day patch blocks a viral Office document hack - how to protect your PC ASAP. متى: 2026-01-30T02:02:00+00:00. كيف: This emergency zero-day patch prevents attackers from slipping past built-in protections and compromising your system.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/890c2948f504fccc2a318f963ba9228852b19ad7/2026/01/27/26a5f3fc-0fac-4477-9ddc-a0c346cd6a7f/microsoft-office-emergency-patch-fixes-flaw-exploited-by-hackers-grab-it-asap.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-office-emergency-patch-fixes-zero-day-flaw/"
-    ]
-  },
-  {
-    "id": "7a7f746c301a8c677f588e40",
-    "title": "I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life",
-    "link": "https://www.zdnet.com/article/brick-iphone-review/",
-    "published": "2026-01-30T02:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life. What: I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life. When: 2026-01-30T02:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life. ماذا: I bricked my iPhone to prevent doomscrolling - and accidentally fixed my life. متى: 2026-01-30T02:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a37d409c135b78861f6493587743fb6ead249b3c/2025/11/13/747da7cf-5986-435e-979f-229d521fad5f/img-1357.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/brick-iphone-review/",
-      "https://www.zdnet.com/article/i-bricked-my-iphone-to-prevent-doomscrolling-and-accidentally-fixed-my-life/"
-    ]
-  },
-  {
-    "id": "381196479c889c0c945e88c8",
-    "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
-    "published": "2026-01-30T02:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Chinese APTs Hacking Asian Orgs With High-End Malware. What: Chinese APTs Hacking Asian Orgs With High-End Malware. When: 2026-01-30T02:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Chinese APTs Hacking Asian Orgs With High-End Malware. ماذا: Chinese APTs Hacking Asian Orgs With High-End Malware. متى: 2026-01-30T02:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware"
-    ]
-  },
-  {
-    "id": "6ac6c2afd5cb10984bb0fc3a",
-    "title": "Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe",
-    "link": "https://www.zdnet.com/article/how-to-keep-pc-bitlocker-encryption-key-safe-from-fbi-microsoft/",
-    "published": "2026-01-30T02:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Here's how to protect your data despite Microsoft's recent policy.. What: Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe. When: 2026-01-30T02:00:00+00:00. How: Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe Action: See Arabic action below.",
-    "summary_ar": "من: Here's how to protect your data despite Microsoft's recent policy.. ماذا: Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe. متى: 2026-01-30T02:00:00+00:00. كيف: Microsoft may give your encryption key to law enforcement upon valid request - here's how to keep it safe. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4b0b10156cfa2f468b30a3261831332e2c690659/2025/12/31/35a43f59-cfc8-492d-a35f-966fb25c4c8e/surface-laptop-5g-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-keep-pc-bitlocker-encryption-key-safe-from-fbi-microsoft/"
-    ]
-  },
-  {
-    "id": "b73b945a59398fe5bbb31b1e",
-    "title": "This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?",
-    "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-ai-chatbot/",
-    "published": "2026-01-30T01:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?. What: This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?. When: 2026-01-30T01:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?. ماذا: This free web tool unlocked data my Oura Ring app barely shows - but can it be trusted?. متى: 2026-01-30T01:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d7bd242fa42a16fe157c734e496cff7f3db727f3/2024/12/19/6367d483-0ea6-4252-9a0b-a53198124bfd/f187aff6-cdee-4a98-bc56-066eefd08609-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-simple-wearable-report-ai-chatbot/"
-    ]
-  },
-  {
-    "id": "be25e8c631c0930b8db91487",
-    "title": "This off-grid internet system is my secret weapon for winter storm outages - and it's $300 off",
-    "link": "https://www.zdnet.com/article/spacex-starlink-mini-satellite-dish-review/",
-    "published": "2026-01-30T01:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This off-grid internet system is my secret weapon for winter storm outages - and it's $300 off. What: This off-grid internet system is my secret weapon for winter storm outages - and it's $300 off. When: 2026-01-30T01:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This off-grid internet system is my secret weapon for winter storm outages - and it's $300 off. ماذا: This off-grid internet system is my secret weapon for winter storm outages - and it's $300 off. متى: 2026-01-30T01:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/841069c8dd7a976e8106d1fc6024acaec3622561/2025/01/05/66f9bcc4-a774-457a-b832-5ad9c5acdc7a/img-2311.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/spacex-starlink-mini-satellite-dish-review/"
-    ]
-  },
-  {
-    "id": "703dbf90dc4379180979d4f9",
-    "title": "I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way",
-    "link": "https://www.zdnet.com/article/asus-zenbook-duo-2026-review/",
-    "published": "2026-01-30T01:44:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way. What: I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way. When: 2026-01-30T01:44:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way. ماذا: I replaced my work laptop with a dual-screen Asus, and it revitalized my workflow in the best way. متى: 2026-01-30T01:44:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bccc707ff66bc096bc86658281de8063a3e2df3a/2026/01/24/596f3dc5-45b1-49ae-b449-0014717d4b65/dsc04875.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/asus-zenbook-duo-2026-review/"
-    ]
-  },
-  {
-    "id": "ca834c2193ad4f142af63259",
-    "title": "Own a Sonos soundbar? I made 3 easy adjustments to instantly improve the audio quality",
-    "link": "https://www.zdnet.com/article/how-to-improve-sonos-soundbars-3-ways/",
-    "published": "2026-01-30T01:38:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Own a Sonos soundbar? I made 3 easy adjustments to instantly improve the audio quality. What: Own a Sonos soundbar? I made 3 easy adjustments to instantly improve the audio quality. When: 2026-01-30T01:38:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Own a Sonos soundbar? I made 3 easy adjustments to instantly improve the audio quality. ماذا: Own a Sonos soundbar? I made 3 easy adjustments to instantly improve the audio quality. متى: 2026-01-30T01:38:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/81a27731e1ad29353f4c751337519f5d59cb233a/2025/07/29/c471f834-7188-4a22-b67d-e4d9d96b1180/arc-ultra-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-improve-sonos-soundbars-3-ways/"
-    ]
-  },
-  {
-    "id": "fd426076d79ce0117b45af40",
-    "title": "RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year",
-    "link": "https://www.zdnet.com/article/how-to-find-laptop-pc-deals-with-ram-prices-rising-2026/",
-    "published": "2026-01-30T01:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year. What: RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year. When: 2026-01-30T01:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year. ماذا: RAM prices are ridiculous in 2026 - here's how my PC buying advice is changing this year. متى: 2026-01-30T01:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/87b565c12b463df9a45d8fe90a2620ef05ebf14e/2025/10/21/1ec34506-61cd-46eb-ae9a-92ecc60f8a1d/dsc08373.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-find-laptop-pc-deals-with-ram-prices-rising-2026/"
-    ]
-  },
-  {
-    "id": "39a9289270245128cb1034b9",
-    "title": "Your Android phone just got a powerful anti-theft upgrade - and I'm sighing in relief",
-    "link": "https://www.zdnet.com/article/android-anti-theft-security-update/",
-    "published": "2026-01-30T01:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your Android phone just got a powerful anti-theft upgrade - and I'm sighing in relief. What: Your Android phone just got a powerful anti-theft upgrade - and I'm sighing in relief. When: 2026-01-30T01:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your Android phone just got a powerful anti-theft upgrade - and I'm sighing in relief. ماذا: Your Android phone just got a powerful anti-theft upgrade - and I'm sighing in relief. متى: 2026-01-30T01:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ae6c0f0ec9f43d058044f5ed26a30fa326263250/2025/04/10/294ef91a-b7fe-4927-b612-230cec8b2908/dsc05287.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-anti-theft-security-update/"
-    ]
-  },
-  {
-    "id": "509b7253e45c9003ef47105c",
-    "title": "I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/",
-    "published": "2026-01-30T01:25:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users. What: I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users. When: 2026-01-30T01:25:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users. ماذا: I tested Samsung's first laptop with Intel's Panther Lake chip - it's a sleeper hit for Windows users. متى: 2026-01-30T01:25:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ce75075a4804b105be315e2543cdb87e45a41cec/2026/01/28/ade3c3a8-12af-42d3-84ff-3220043edc9c/galaxy-book6-ultra-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/"
-    ]
-  },
-  {
-    "id": "8b4bdaeb12343031848fe637",
-    "title": "This $50 smart ring looks like a tiny smartwatch for your finger - here's how it works",
-    "link": "https://www.zdnet.com/article/rogbid-fusion-smart-ring-smartwatch/",
-    "published": "2026-01-30T01:24:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This $50 smart ring looks like a tiny smartwatch for your finger - here's how it works. What: This $50 smart ring looks like a tiny smartwatch for your finger - here's how it works. When: 2026-01-30T01:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This $50 smart ring looks like a tiny smartwatch for your finger - here's how it works. ماذا: This $50 smart ring looks like a tiny smartwatch for your finger - here's how it works. متى: 2026-01-30T01:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1989d6446663e204b934bcedc3a2674237a19240/2026/01/29/71b835fa-5d50-4a8e-9816-4d508e7d9b2e/screenshot-2026-01-29-at-10-06-25am.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/rogbid-fusion-smart-ring-smartwatch/"
     ]
   }
 ]
