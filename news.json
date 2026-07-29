@@ -36,6 +36,60 @@
     ]
   },
   {
+    "id": "776610eab752e9489ecde02d",
+    "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+    "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+    "published": "2026-07-29T06:45:02+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack.. What: OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach. When: 2026-07-29T06:45:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack.. ماذا: OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach. متى: 2026-07-29T06:45:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
+    ]
+  },
+  {
+    "id": "3f1cce9632b1165bfb1b2e69",
+    "title": "ShinyHunters Claims Ernst & Young Hack",
+    "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+    "published": "2026-07-29T06:23:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: ShinyHunters Claims Ernst & Young Hack. What: ShinyHunters Claims Ernst & Young Hack. When: 2026-07-29T06:23:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters Claims Ernst & Young Hack. ماذا: ShinyHunters Claims Ernst & Young Hack. متى: 2026-07-29T06:23:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/EY-Ernst-Young.jpeg",
+    "sources": [
+      "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/"
+    ]
+  },
+  {
+    "id": "2889416392b1100a5dda4aa1",
+    "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+    "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "published": "2026-07-29T04:20:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js. What: Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js. When: 2026-07-29T04:20:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js. ماذا: Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js. متى: 2026-07-29T04:20:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html"
+    ]
+  },
+  {
     "id": "149ecc4aaf593969bbbcf587",
     "title": "America bans imported robots due to supply chain and security risks",
     "link": "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145",
@@ -6996,24 +7050,6 @@
     ]
   },
   {
-    "id": "a9ef250acdb469c7d302a90f",
-    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
-    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
-    "published": "2026-07-21T13:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
-    ]
-  },
-  {
     "id": "78079e4235d6ec2a5c256a64",
     "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
     "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
@@ -7029,6 +7065,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
+    ]
+  },
+  {
+    "id": "a9ef250acdb469c7d302a90f",
+    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
+    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
+    "published": "2026-07-21T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
+    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
     ]
   },
   {
@@ -165305,46 +165359,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1600/ai-secrets.jpg",
     "sources": [
       "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html"
-    ]
-  },
-  {
-    "id": "416eddc900c5da296e97bc81",
-    "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
-    "link": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
-    "published": "2026-01-30T07:09:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.. What: \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score. When: 2026-01-30T07:09:00+00:00. How: \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score Action: See Arabic action below.",
-    "summary_ar": "من: SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.. ماذا: \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score. متى: 2026-01-30T07:09:00+00:00. كيف: \"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-24423"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68yf4tK-m7j1I6zRCo-SBeQ4cCXmLiwvPRMoEXS_I8m7V53UUmULEbWr2vVAEJd34U0hknt8J5wnzcNv1kGayBLApw6mu0UmRZRyCstoXJAteTDrnRZBnoh5n3ROzBarjsRgPXeV_1WDsxQmg5ysAETrtYI3L9oNWnX246xTksVuWWqi34CzJCJnFc0uv/s1600/smartertools.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/01/smartermail-fixes-critical.html"
-    ]
-  },
-  {
-    "id": "9a7b52821ab93569cebadfb2",
-    "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
-    "link": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
-    "published": "2026-01-30T04:43:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S.. What: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S.. When: 2026-01-30T04:43:00+00:00. How: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Action: See Arabic action below.",
-    "summary_ar": "من: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S.. ماذا: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S.. متى: 2026-01-30T04:43:00+00:00. كيف: Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-1281"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html"
     ]
   }
 ]
