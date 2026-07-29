@@ -36,6 +36,154 @@
     ]
   },
   {
+    "id": "80951506951c3d4d74da69b9",
+    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+    "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "published": "2026-07-29T15:52:48+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: On an afternoon in mid-May, dozens of Microsoft engineers and their managers gathered online and in a conference room at the company’s Redmond, Washington, headquarters to discuss Project Glasswing.. What: The tech giant was racing to fix weaknesses in its code that a new AI model known as Mythos was uncovering at an unprecedented clip.. When: 2026-07-29T15:52:48+00:00. How: The goal was to find and fix the vulnerabilities before hackers and adversarial governments like China began using similar tools to find and exploit them for espionage and sabotage. Action: See Arabic action below.",
+    "summary_ar": "من: On an afternoon in mid-May, dozens of Microsoft engineers and their managers gathered online and in a conference room at the company’s Redmond, Washington, headquarters to discuss Project Glasswing.. ماذا: The tech giant was racing to fix weaknesses in its code that a new AI model known as Mythos was uncovering at an unprecedented clip.. متى: 2026-07-29T15:52:48+00:00. كيف: The goal was to find and fix the vulnerabilities before hackers and adversarial governments like China began using similar tools to find and exploit them for espionage and sabotage.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
+    ]
+  },
+  {
+    "id": "3e57e4f822db077b6cd6ce6a",
+    "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+    "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+    "published": "2026-07-29T15:39:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.. What: Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory. When: 2026-07-29T15:39:30+00:00. How: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.. ماذا: Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory. متى: 2026-07-29T15:39:30+00:00. كيف: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59726"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html"
+    ]
+  },
+  {
+    "id": "dc28e084be7f301f0b89623d",
+    "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+    "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+    "published": "2026-07-29T15:31:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.. What: Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.. When: 2026-07-29T15:31:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.. ماذا: Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.. متى: 2026-07-29T15:31:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59309"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+    ]
+  },
+  {
+    "id": "ada741e2cad84cea7a7ba6d6",
+    "title": "Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack",
+    "link": "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/",
+    "published": "2026-07-29T15:10:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack. What: Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack. When: 2026-07-29T15:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack. ماذا: Russian-Alligned TA488 Returns With Persistent Outlook Web Access Attack. متى: 2026-07-29T15:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/92b8538d-f503-4510-9e05-046429066544.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ta488-outlook-half-click-owareaper/"
+    ]
+  },
+  {
+    "id": "4903f24cc407d296cba1e00b",
+    "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+    "link": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+    "published": "2026-07-29T15:00:45+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Open weights vs. closed: An AI civil war's afoot, and the stakes are existential. What: Open weights vs. closed: An AI civil war's afoot, and the stakes are existential. When: 2026-07-29T15:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Open weights vs. closed: An AI civil war's afoot, and the stakes are existential. ماذا: Open weights vs. closed: An AI civil war's afoot, and the stakes are existential. متى: 2026-07-29T15:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/cfb659858a22de10633ed37c92b0de45bab24d70/2026/07/29/1d932abd-bdc9-4b69-8233-8dee1ede0f8a/aifaceoffgettyimages-2277703375.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/open-weight-ai-civil-war/"
+    ]
+  },
+  {
+    "id": "65abd9d4a633f693b2c5528e",
+    "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+    "published": "2026-07-29T14:55:57+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers target over 30 Minnesota water utilities in coordinated OT attack. What: Hackers target over 30 Minnesota water utilities in coordinated OT attack. When: 2026-07-29T14:55:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers target over 30 Minnesota water utilities in coordinated OT attack. ماذا: Hackers target over 30 Minnesota water utilities in coordinated OT attack. متى: 2026-07-29T14:55:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/29/Wastewater_Treatment.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/"
+    ]
+  },
+  {
+    "id": "9d2b9cf55f9ed8e0aa93bbf4",
+    "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+    "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+    "published": "2026-07-29T14:40:33+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms. What: Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms. When: 2026-07-29T14:40:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms. ماذا: Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms. متى: 2026-07-29T14:40:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc48aaf4c329f0fbe/6a69d8d89d447d1bec077dc5/AI_agent_concept_Brain_light_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms"
+    ]
+  },
+  {
+    "id": "1b37553b3ba2ef0cf6b42f3c",
+    "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+    "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+    "published": "2026-07-29T14:02:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Your AI Agents Are Guessing at Scale: Permissions Decide the Damage. What: Your AI Agents Are Guessing at Scale: Permissions Decide the Damage. When: 2026-07-29T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your AI Agents Are Guessing at Scale: Permissions Decide the Damage. ماذا: Your AI Agents Are Guessing at Scale: Permissions Decide the Damage. متى: 2026-07-29T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/07/28/token-ai-vauum.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/"
+    ]
+  },
+  {
     "id": "acc7d4a1cc421fbe48e7e879",
     "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
@@ -70,6 +218,42 @@
     "image": "https://image.theregister.com/150171.jpg?imageId=150171&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/07/29/iran-linked-cyberav3ngers-suspected-in-attacks-on-minnesota-water-systems/5280357"
+    ]
+  },
+  {
+    "id": "b7ec7019895fb4b23d137da9",
+    "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+    "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+    "published": "2026-07-29T13:48:36+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline. What: Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline. When: 2026-07-29T13:48:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline. ماذا: Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline. متى: 2026-07-29T13:48:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html"
+    ]
+  },
+  {
+    "id": "9fa456aff07038ad840a6aa2",
+    "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+    "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+    "published": "2026-07-29T13:42:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments. What: Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.. When: 2026-07-29T13:42:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments. ماذا: Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.. متى: 2026-07-29T13:42:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html"
     ]
   },
   {
@@ -163,9 +347,9 @@
     ]
   },
   {
-    "id": "1d72c2113dff7c929b729427",
+    "id": "036128b3d50a890aa66da971",
     "title": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
-    "link": "https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/",
+    "link": "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
     "published": "2026-07-29T12:19:00+00:00",
     "source": "zdnet.com",
     "summary_en": "Who: 74% of workers ask AI questions instead of colleagues - with potentially serious consequences. What: 74% of workers ask AI questions instead of colleagues - with potentially serious consequences. When: 2026-07-29T12:19:00+00:00. How: Details in the source. Action: See Arabic action below.",
@@ -177,6 +361,7 @@
     "impacted": [],
     "image": "https://www.zdnet.com/a/img/resize/3ecbc75b3e3e30d1af841bf3b6e9aa8420c2c547/2026/07/28/cb847031-72b6-470a-8a0c-bae4fa274683/gettyimages-1196487624-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
+      "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
       "https://www.zdnet.com/article/75-of-workers-ask-ai-questions-instead-of-colleagues/"
     ]
   },
@@ -675,13 +860,13 @@
     ]
   },
   {
-    "id": "fe5d7be97a0508d47bd95207",
-    "title": "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
-    "link": "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
+    "id": "08ce632f5d697c6356ff35c8",
+    "title": "JFrog's 0-days let OpenAI's models hack Hugging Face",
+    "link": "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
     "published": "2026-07-28T22:01:53+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: We now have a better idea of how OpenAI's models broke out of their cages to attack Hugging Face.. What: While Landman doesn’t outright admit that the JFrog flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, it definitely looks and quacks like a duck - err, frog.. When: 2026-07-28T22:01:53+00:00. How: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman. Action: See Arabic action below.",
-    "summary_ar": "من: We now have a better idea of how OpenAI's models broke out of their cages to attack Hugging Face.. ماذا: While Landman doesn’t outright admit that the JFrog flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, it definitely looks and quacks like a duck - err, frog.. متى: 2026-07-28T22:01:53+00:00. كيف: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: UPDATED We now know how OpenAI's models broke out of their cages to attack Hugging Face.. What: While Landman wouldn't confirm that these flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, OpenAI later admitted the connection.. When: 2026-07-28T22:01:53+00:00. How: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman. Action: See Arabic action below.",
+    "summary_ar": "من: UPDATED We now know how OpenAI's models broke out of their cages to attack Hugging Face.. ماذا: While Landman wouldn't confirm that these flaws were the zero-days that OpenAI’s models found and exploited, ultimately allowing them to breach the massive model mart, OpenAI later admitted the connection.. متى: 2026-07-28T22:01:53+00:00. كيف: The rogue models found zero-day vulnerabilities in JFrog’s universal binary repository manager Artifactory around the time they escaped, according to JFrog CTO Yoav Landman.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -698,6 +883,7 @@
     "impacted": [],
     "image": "https://image.theregister.com/232611.jpg?imageId=232611&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
+      "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
       "https://www.theregister.com/security/2026/07/28/looks-like-jfrogs-0-days-let-openais-models-hack-hugging-face/5280001"
     ]
   },
@@ -707,8 +893,8 @@
     "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
     "published": "2026-07-28T21:36:39+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. What: Not the triumph made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. When: 2026-07-28T21:36:39+00:00. How: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday. Action: See Arabic action below.",
-    "summary_ar": "من: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. ماذا: Not the triumph made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. متى: 2026-07-28T21:36:39+00:00. كيف: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. What: Not the triumph it was made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. When: 2026-07-28T21:36:39+00:00. How: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday. Action: See Arabic action below.",
+    "summary_ar": "من: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. ماذا: Not the triumph it was made out to be OpenAI said the models exploited multiple attack vectors, including stolen credentials and zero-days, to gain remote code execution capabilities, but until now, the vulnerable software was unknown.. متى: 2026-07-28T21:36:39+00:00. كيف: Last week’s unprecedented security event in which two OpenAI security hacking models trespassed into the network of fellow AI company Hugging Face was enabled by exploiting one or more zero-day vulnerabilities in Artifactory, JFrog, the product’s developer, said Monday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Data Breach",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -165312,169 +165498,6 @@
     "image": "https://www.zdnet.com/a/img/resize/021f7fecc7ff96abb79b4152266bc7864e271764/2026/01/23/e2e38af2-6d6a-4fc0-9a23-b46e494b19c5/asus-expertbook-ultra-b9-image-9.png?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/asus-expertbook-ultra-b9-review/"
-    ]
-  },
-  {
-    "id": "7d65900071948671764b6d2f",
-    "title": "Why the Mini LED TV I recommend to most people in 2026 isn't made by Samsung or Sony",
-    "link": "https://www.zdnet.com/article/amazon-fire-tv-omni-tv-2026-review/",
-    "published": "2026-01-30T15:53:11+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why the Mini LED TV I recommend to most people in 2026 isn't made by Samsung or Sony. What: Why the Mini LED TV I recommend to most people in 2026 isn't made by Samsung or Sony. When: 2026-01-30T15:53:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why the Mini LED TV I recommend to most people in 2026 isn't made by Samsung or Sony. ماذا: Why the Mini LED TV I recommend to most people in 2026 isn't made by Samsung or Sony. متى: 2026-01-30T15:53:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2a4d587769b3b406473a630ac7534808b7e094b7/2025/12/22/158ab758-53e0-4b89-b2d9-2e8cca688f86/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-fire-tv-omni-tv-2026-review/",
-      "https://www.zdnet.com/article/amazon-fire-tv-omni-tv-2025-review/"
-    ]
-  },
-  {
-    "id": "f38c34c157a2b5a32ca769e2",
-    "title": "Windows 11 has 1 billion users - and they're furious",
-    "link": "https://www.zdnet.com/article/why-people-hate-windows-11/",
-    "published": "2026-01-30T15:40:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Does Microsoft have what it takes to address the many pain points in Windows 11?. What: Windows 11 has 1 billion users - and they're furious. When: 2026-01-30T15:40:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Does Microsoft have what it takes to address the many pain points in Windows 11?. ماذا: Windows 11 has 1 billion users - and they're furious. متى: 2026-01-30T15:40:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/692523b96ebc9e7a6e1fdff80399227483ba19cb/2026/01/30/e02a2e34-df2c-4403-89e1-f0b9179b819d/gettyimages-1730498102.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-people-hate-windows-11/"
-    ]
-  },
-  {
-    "id": "3db5c016e7368d641449bc8a",
-    "title": "Labyrinth Chollima Evolves into Three North Korean Hacking Groups",
-    "link": "https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/",
-    "published": "2026-01-30T15:40:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers Labyrinth Chollima Evolves into Three North Korean Hacking Groups. What: Labyrinth Chollima Evolves into Three North Korean Hacking Groups. When: 2026-01-30T15:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike assessed that two new threat actor groups have spun off from North Korean Labyrinth Chollima hackers Labyrinth Chollima Evolves into Three North Korean Hacking Groups. ماذا: Labyrinth Chollima Evolves into Three North Korean Hacking Groups. متى: 2026-01-30T15:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/0f366403-9700-4dd0-aab2-8a6d592847ac.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/labyrinth-chollima-dprk-three/"
-    ]
-  },
-  {
-    "id": "3b2958952bf7cc0444f8ef42",
-    "title": "Bad battery life on your Android phone? Changing these 12 settings will do you wonders",
-    "link": "https://www.zdnet.com/article/best-android-phone-settings-to-change-better-battery-life/",
-    "published": "2026-01-30T15:36:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Bad battery life on your Android phone? Changing these 12 settings will do you wonders. What: Bad battery life on your Android phone? Changing these 12 settings will do you wonders. When: 2026-01-30T15:36:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bad battery life on your Android phone? Changing these 12 settings will do you wonders. ماذا: Bad battery life on your Android phone? Changing these 12 settings will do you wonders. متى: 2026-01-30T15:36:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4207ee5f203071700c27a8765c19edb34ddb8efd/2025/08/15/ae0dc926-575d-4f6e-bdc9-3076b7ccd1c5/dsc06847.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-android-phone-settings-to-change-better-battery-life/"
-    ]
-  },
-  {
-    "id": "80db636ca6e9965cf3a11112",
-    "title": "Why France just dumped Microsoft Teams and Zoom - and what's replacing them",
-    "link": "https://www.zdnet.com/article/france-dumps-teams-zoom-digital-sovereignty-replacement/",
-    "published": "2026-01-30T15:27:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why France just dumped Microsoft Teams and Zoom - and what's replacing them. What: Why France just dumped Microsoft Teams and Zoom - and what's replacing them. When: 2026-01-30T15:27:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why France just dumped Microsoft Teams and Zoom - and what's replacing them. ماذا: Why France just dumped Microsoft Teams and Zoom - and what's replacing them. متى: 2026-01-30T15:27:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c2af2845ef61eefa559e40dcdc2426febd1ac103/2026/01/30/3503b320-1f77-4d10-90b1-113a5c455117/gettyimages-602023807.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/france-dumps-teams-zoom-digital-sovereignty-replacement/"
-    ]
-  },
-  {
-    "id": "92987d72441ce67ab5dde7be",
-    "title": "Aisy Launches Out of Stealth to Transform Vulnerability Management",
-    "link": "https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/",
-    "published": "2026-01-30T15:00:46+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Aisy Launches Out of Stealth to Transform Vulnerability Management. What: Aisy Launches Out of Stealth to Transform Vulnerability Management. When: 2026-01-30T15:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Aisy Launches Out of Stealth to Transform Vulnerability Management. ماذا: Aisy Launches Out of Stealth to Transform Vulnerability Management. متى: 2026-01-30T15:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/aisy-launches-out-of-stealth-to-transform-vulnerability-management/"
-    ]
-  },
-  {
-    "id": "74eee64de18ad0551b68b577",
-    "title": "Is Google saving your voice recordings? How to check, delete, and opt out - fast",
-    "link": "https://www.zdnet.com/article/how-to-find-google-voice-recordings-check-delete-opt-out/",
-    "published": "2026-01-30T14:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Is Google saving your voice recordings?. What: Is Google saving your voice recordings? How to check, delete, and opt out - fast. When: 2026-01-30T14:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is Google saving your voice recordings?. ماذا: Is Google saving your voice recordings? How to check, delete, and opt out - fast. متى: 2026-01-30T14:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/03ac74e70a443a74fa8d1cbd61b934240231f374/2026/01/30/e620f828-58d6-4148-baa6-f8d17ee5c491/gettyimages-1337202627.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-find-google-voice-recordings-check-delete-opt-out/"
-    ]
-  },
-  {
-    "id": "21556a2f5c62d9ac91d1c946",
-    "title": "Microsoft fixes Outlook bug blocking access to encrypted emails",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/",
-    "published": "2026-01-30T14:48:49+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update.. What: Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update.. When: 2026-01-30T14:48:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update.. ماذا: Microsoft has fixed a known issue that prevented Microsoft 365 customers from opening encrypted emails in classic Outlook after a recent update.. متى: 2026-01-30T14:48:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/04/29/Outlook.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/"
-    ]
-  },
-  {
-    "id": "95eae4b0ba661f0830891495",
-    "title": "175,000 Exposed Ollama Hosts Could Enable LLM Abuse",
-    "link": "https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/",
-    "published": "2026-01-30T14:34:13+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 175,000 Exposed Ollama Hosts Could Enable LLM Abuse. What: 175,000 Exposed Ollama Hosts Could Enable LLM Abuse. When: 2026-01-30T14:34:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 175,000 Exposed Ollama Hosts Could Enable LLM Abuse. ماذا: 175,000 Exposed Ollama Hosts Could Enable LLM Abuse. متى: 2026-01-30T14:34:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/175000-exposed-ollama-hosts-could-enable-llm-abuse/"
     ]
   }
 ]
