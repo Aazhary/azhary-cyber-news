@@ -36,6 +36,60 @@
     ]
   },
   {
+    "id": "d6af4dd29ace3357b85575c0",
+    "title": "Word worm crawls into Copilot, spreads chaos",
+    "link": "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588",
+    "published": "2026-07-29T16:43:54+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Måløy said that he has been working with Microsoft since March 2026 on addressing the vulnerability, but after multiple updates to Copilot, this new class of Copilot worm is still viable.. What: Håkon Måløy, a Norwegian data scientist with a PhD in applied AI and ML, publicly disclosed the issue in a blog post Tuesday.. When: 2026-07-29T16:43:54+00:00. How: According to research, an attacker can hide malicious instructions in a Word document that, when included in Copilot for Word’s context, may alter document output and copy the instructions into newly created files that use the affected document as source material, without the victim noticing. Action: See Arabic action below.",
+    "summary_ar": "من: Måløy said that he has been working with Microsoft since March 2026 on addressing the vulnerability, but after multiple updates to Copilot, this new class of Copilot worm is still viable.. ماذا: Håkon Måløy, a Norwegian data scientist with a PhD in applied AI and ML, publicly disclosed the issue in a blog post Tuesday.. متى: 2026-07-29T16:43:54+00:00. كيف: According to research, an attacker can hide malicious instructions in a Word document that, when included in Copilot for Word’s context, may alter document output and copy the instructions into newly created files that use the affected document as source material, without the victim noticing.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5249823.jpg?imageId=5249823&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/29/word-worm-crawls-into-copilot-spreads-chaos/5280588"
+    ]
+  },
+  {
+    "id": "2cedc8aa80f4a3083c1f5a5b",
+    "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+    "published": "2026-07-29T16:04:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations.. What: OpenAI agent used exposed credentials at 4 services in Hugging Face breach. When: 2026-07-29T16:04:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations.. ماذا: OpenAI agent used exposed credentials at 4 services in Hugging Face breach. متى: 2026-07-29T16:04:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/29/openai-escape-sandbox.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/"
+    ]
+  },
+  {
+    "id": "006d098b2dcb0de4b9953430",
+    "title": "LogoKit Phishing Kit Screenshots Victim Sites in Real Time",
+    "link": "https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/",
+    "published": "2026-07-29T16:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: LogoKit Phishing Kit Screenshots Victim Sites in Real Time. What: LogoKit Phishing Kit Screenshots Victim Sites in Real Time. When: 2026-07-29T16:00:00+00:00. How: LogoKit now builds per-victim phishing pages using live screenshots of the target's real website LogoKit Phishing Kit Screenshots Victim Sites in Real Time Action: See Arabic action below.",
+    "summary_ar": "من: LogoKit Phishing Kit Screenshots Victim Sites in Real Time. ماذا: LogoKit Phishing Kit Screenshots Victim Sites in Real Time. متى: 2026-07-29T16:00:00+00:00. كيف: LogoKit now builds per-victim phishing pages using live screenshots of the target's real website LogoKit Phishing Kit Screenshots Victim Sites in Real Time. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/6fd544a6-9137-49d5-8af6-9e58b219815a.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/logokit-phishing-real-time/"
+    ]
+  },
+  {
     "id": "80951506951c3d4d74da69b9",
     "title": "Anthropic is finding bugs faster than Microsoft can fix them",
     "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
@@ -11197,12 +11251,12 @@
   },
   {
     "id": "13d005374b931f8a6f213ea9",
-    "title": "HelloNet campaign — new malicious modules launched through the ViPNet update system",
+    "title": "HelloNet campaign: new malicious modules launched through the ViPNet update system",
     "link": "https://securelist.com/tr/hellonet-vipnet/120700/",
     "published": "2026-07-16T13:05:56+00:00",
     "source": "securelist.com",
-    "summary_en": "Who: UPD 16.07.2026: Added rules to protect companies using our SIEM system Kaspersky SIEM, and listed events for developing custom detection rules or conducting Threat hunting.. What: HelloNet campaign — new malicious modules launched through the ViPNet update system. When: 2026-07-16T13:05:56+00:00. How: UPD 16.07.2026: Added rules to protect companies using our SIEM system Kaspersky SIEM, and listed events for developing custom detection rules or conducting Threat hunting. Action: See Arabic action below.",
-    "summary_ar": "من: UPD 16.07.2026: Added rules to protect companies using our SIEM system Kaspersky SIEM, and listed events for developing custom detection rules or conducting Threat hunting.. ماذا: HelloNet campaign — new malicious modules launched through the ViPNet update system. متى: 2026-07-16T13:05:56+00:00. كيف: UPD 16.07.2026: Added rules to protect companies using our SIEM system Kaspersky SIEM, and listed events for developing custom detection rules or conducting Threat hunting.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: UPD 16.07.2026: Added rules to protect companies using our Kaspersky SIEM system, and listed events for developing custom detection rules or conducting threat hunting.. What: HelloNet campaign: new malicious modules launched through the ViPNet update system. When: 2026-07-16T13:05:56+00:00. How: UPD 16.07.2026: Added rules to protect companies using our Kaspersky SIEM system, and listed events for developing custom detection rules or conducting threat hunting. Action: See Arabic action below.",
+    "summary_ar": "من: UPD 16.07.2026: Added rules to protect companies using our Kaspersky SIEM system, and listed events for developing custom detection rules or conducting threat hunting.. ماذا: HelloNet campaign: new malicious modules launched through the ViPNet update system. متى: 2026-07-16T13:05:56+00:00. كيف: UPD 16.07.2026: Added rules to protect companies using our Kaspersky SIEM system, and listed events for developing custom detection rules or conducting threat hunting.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -165390,114 +165444,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8ccfc2c6b4ba3a3952bcf3933be693fa770ed504/2026/01/30/05678e1e-f293-4b7d-821c-dcd2f9440b5a/verizonoutgettyimages-2255714782.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/verizon-outage-fcc-wants-to-hear-from-customers/"
-    ]
-  },
-  {
-    "id": "3851c828bcfa3c36f86d0d9a",
-    "title": "Microsoft to disable NTLM by default in future Windows releases",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/",
-    "published": "2026-01-30T17:08:57+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks.. What: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks.. When: 2026-01-30T17:08:57+00:00. How: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks.. ماذا: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks.. متى: 2026-01-30T17:08:57+00:00. كيف: Microsoft announced that it will disable the 30-year-old NTLM authentication protocol by default in upcoming Windows releases due to security vulnerabilities that expose organizations to cyberattacks.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/12/windows-blue-background.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/"
-    ]
-  },
-  {
-    "id": "b96fd070ea19bbfeced8b6ee",
-    "title": "Ring vs. Blink: I tested the two most popular security camera brands, and here's the winner",
-    "link": "https://www.zdnet.com/article/ring-vs-blink/",
-    "published": "2026-01-30T16:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Ring vs. Blink: I tested the two most popular security camera brands, and here's the winner. What: Ring vs. Blink: I tested the two most popular security camera brands, and here's the winner. When: 2026-01-30T16:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ring vs. Blink: I tested the two most popular security camera brands, and here's the winner. ماذا: Ring vs. Blink: I tested the two most popular security camera brands, and here's the winner. متى: 2026-01-30T16:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e368617ddaf9b0b7e5eff49d634f241da4e0b54e/2025/12/04/cfc95de9-a4b9-49a9-b8d3-6d515fc3a11d/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ring-vs-blink/"
-    ]
-  },
-  {
-    "id": "bae192851358889e42024c66",
-    "title": "I tested Bose and Sony's flagship headphones for months - how each wins (or falls flat)",
-    "link": "https://www.zdnet.com/article/sony-vs-bose-headphones/",
-    "published": "2026-01-30T16:44:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Bose and Sony's flagship headphones for months - how each wins (or falls flat). What: I tested Bose and Sony's flagship headphones for months - how each wins (or falls flat). When: 2026-01-30T16:44:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Bose and Sony's flagship headphones for months - how each wins (or falls flat). ماذا: I tested Bose and Sony's flagship headphones for months - how each wins (or falls flat). متى: 2026-01-30T16:44:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/33ed111d48ea6e529f75dc0611f7da0afd0113d9/2025/10/10/80f60d95-6709-4e9a-8f1b-8ef3fa0ba03a/qcu2-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-vs-bose-headphones/"
-    ]
-  },
-  {
-    "id": "afb773f6b8d442d039933796",
-    "title": "OpenClaw AI Runs Wild in Business Environments",
-    "link": "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments",
-    "published": "2026-01-30T16:40:34+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: OpenClaw AI Runs Wild in Business Environments. What: OpenClaw AI Runs Wild in Business Environments. When: 2026-01-30T16:40:34+00:00. How: The popular open source AI assistant (aka ClawdBot, MoltBot) has taken off, raising security concerns over its privileged, autonomous control within users' computers. Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw AI Runs Wild in Business Environments. ماذا: OpenClaw AI Runs Wild in Business Environments. متى: 2026-01-30T16:40:34+00:00. كيف: The popular open source AI assistant (aka ClawdBot, MoltBot) has taken off, raising security concerns over its privileged, autonomous control within users' computers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments"
-    ]
-  },
-  {
-    "id": "dc53d0e1df69423b051e32bb",
-    "title": "Operation Switch Off dismantles major pirate TV streaming services",
-    "link": "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/",
-    "published": "2026-01-30T16:39:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Operation Switch Off dismantles major pirate TV streaming services. What: Operation Switch Off dismantles major pirate TV streaming services. When: 2026-01-30T16:39:43+00:00. How: The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services. Action: See Arabic action below.",
-    "summary_ar": "من: Operation Switch Off dismantles major pirate TV streaming services. ماذا: Operation Switch Off dismantles major pirate TV streaming services. متى: 2026-01-30T16:39:43+00:00. كيف: The latest phase of the global law enforcement action resulted in seizing three industrial-scale illegal IPTV services.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/20/Pirate_TV_streaming.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/"
-    ]
-  },
-  {
-    "id": "87d3f7402c17102998435826",
-    "title": "Finally, I found a Windows laptop for business that's both powerful and stunning to look at",
-    "link": "https://www.zdnet.com/article/asus-expertbook-ultra-b9-review/",
-    "published": "2026-01-30T16:35:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Finally, I found a Windows laptop for business that's both powerful and stunning to look at. What: Finally, I found a Windows laptop for business that's both powerful and stunning to look at. When: 2026-01-30T16:35:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Finally, I found a Windows laptop for business that's both powerful and stunning to look at. ماذا: Finally, I found a Windows laptop for business that's both powerful and stunning to look at. متى: 2026-01-30T16:35:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/021f7fecc7ff96abb79b4152266bc7864e271764/2026/01/23/e2e38af2-6d6a-4fc0-9a23-b46e494b19c5/asus-expertbook-ultra-b9-image-9.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/asus-expertbook-ultra-b9-review/"
     ]
   }
 ]
