@@ -36,6 +36,200 @@
     ]
   },
   {
+    "id": "fc8c7100b8aa28be35f0cb44",
+    "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+    "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+    "published": "2026-07-30T11:16:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Semiconductor Firm Analog Devices Discloses Data Breach. What: Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.. When: 2026-07-30T11:16:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Semiconductor Firm Analog Devices Discloses Data Breach. ماذا: Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.. متى: 2026-07-30T11:16:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/03/quantum-computing-chip.jpeg",
+    "sources": [
+      "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/"
+    ]
+  },
+  {
+    "id": "1d2f796d9149d7f7e351a039",
+    "title": "OctLurk and SilkLurk: newly identified tailored backdoors in cyber-espionage campaign in Central Asia",
+    "link": "https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/",
+    "published": "2026-07-30T11:00:12+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: OctLurk OctLurk Deployment The attacker created a scheduled task named GoogleUpDate on remote machines using admin credentials.. What: OctLurk and SilkLurk: newly identified tailored backdoors in cyber-espionage campaign in Central Asia. When: 2026-07-30T11:00:12+00:00. How: These organizations operate across several sectors, including healthcare, research, government offices, ministries of foreign affairs, logistics, law‑enforcement agencies, urban planning and facilities management, and public educational establishments. Action: See Arabic action below.",
+    "summary_ar": "من: OctLurk OctLurk Deployment The attacker created a scheduled task named GoogleUpDate on remote machines using admin credentials.. ماذا: OctLurk and SilkLurk: newly identified tailored backdoors in cyber-espionage campaign in Central Asia. متى: 2026-07-30T11:00:12+00:00. كيف: These organizations operate across several sectors, including healthcare, research, government offices, ministries of foreign affairs, logistics, law‑enforcement agencies, urban planning and facilities management, and public educational establishments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/07/30082905/octlurk_silklurk_backdoors-scaled.jpg",
+    "sources": [
+      "https://securelist.com/octlurk-silklurk-backdoors-central-asia/120840/"
+    ]
+  },
+  {
+    "id": "2e1a8c8f354e9ad2deebcd50",
+    "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+    "link": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+    "published": "2026-07-30T10:33:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts. What: South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites.. When: 2026-07-30T10:33:15+00:00. How: A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts. ماذا: South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites.. متى: 2026-07-30T10:33:15+00:00. كيف: A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html"
+    ]
+  },
+  {
+    "id": "adca9452f28ed3e0a48b1947",
+    "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+    "link": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+    "published": "2026-07-30T10:32:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT. What: SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT. When: 2026-07-30T10:32:59+00:00. How: The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. Action: See Arabic action below.",
+    "summary_ar": "من: SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT. ماذا: SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT. متى: 2026-07-30T10:32:59+00:00. كيف: The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html"
+    ]
+  },
+  {
+    "id": "e56c15e09b29d2f14146e72e",
+    "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
+    "link": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
+    "published": "2026-07-30T10:29:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The Russian espionage crew that turned simply reading an email into a security risk has expanded beyond Zimbra, with Proofpoint saying it's now pulling the same half-click trick against Microsoft Outlook Web Access.. What: Microsoft disclosed the bug in May following reports that attackers were using it in the wild.. When: 2026-07-30T10:29:00+00:00. How: Proofpoint says the cyber group it tracks as TA488, or \"Laundry Bear,\" began exploiting CVE-2026-42897, a cross-site scripting flaw in the Outlook Web Access (OWA) component of on-premises Exchange Server, a day before researchers and government agencies exposed the group's abuse of a zero-day in Zimbra Collaboration Suite. Action: See Arabic action below.",
+    "summary_ar": "من: The Russian espionage crew that turned simply reading an email into a security risk has expanded beyond Zimbra, with Proofpoint saying it's now pulling the same half-click trick against Microsoft Outlook Web Access.. ماذا: Microsoft disclosed the bug in May following reports that attackers were using it in the wild.. متى: 2026-07-30T10:29:00+00:00. كيف: Proofpoint says the cyber group it tracks as TA488, or \"Laundry Bear,\" began exploiting CVE-2026-42897, a cross-site scripting flaw in the Outlook Web Access (OWA) component of on-premises Exchange Server, a day before researchers and government agencies exposed the group's abuse of a zero-day in Zimbra Collaboration Suite.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-42897"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033"
+    ]
+  },
+  {
+    "id": "5a8fd33cd11f1d85fb37eef4",
+    "title": "Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks",
+    "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/",
+    "published": "2026-07-30T10:00:52+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks. What: Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks. When: 2026-07-30T10:00:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks. ماذا: Chinese-Speaking Threat Actor Harnesses AI Models for Autonomous Cyberattacks. متى: 2026-07-30T10:00:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-3-scaled.jpeg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/autonomous-ai-cyber-attack-campaign/"
+    ]
+  },
+  {
+    "id": "9d4d41b84d6f7d6907801d23",
+    "title": "Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now",
+    "link": "https://www.zdnet.com/article/samsung-870-evo-ssd-deal/",
+    "published": "2026-07-30T10:00:40+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now. What: Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now. When: 2026-07-30T10:00:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now. ماذا: Amazon is selling this Samsung 2TB SATA SSD for over 60% off right now. متى: 2026-07-30T10:00:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/4093492215bfc0981b934d053b1760ba23d8aaa0/2026/07/29/622e014b-d69c-42c1-a562-1c03d820aa90/samsung-870-evo-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/samsung-870-evo-ssd-deal/"
+    ]
+  },
+  {
+    "id": "20e8ffb0709e60b671d9e48f",
+    "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+    "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+    "published": "2026-07-30T09:56:10+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms. What: Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms. When: 2026-07-30T09:56:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms. ماذا: Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms. متى: 2026-07-30T09:56:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Artificial-intelligence-AI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/"
+    ]
+  },
+  {
+    "id": "f60917f9f56b0be72b7f2a16",
+    "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+    "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+    "published": "2026-07-30T09:28:37+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 1 in 5 Data Center Assets Are Within Easy Reach of Attackers. What: 1 in 5 Data Center Assets Are Within Easy Reach of Attackers. When: 2026-07-30T09:28:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 1 in 5 Data Center Assets Are Within Easy Reach of Attackers. ماذا: 1 in 5 Data Center Assets Are Within Easy Reach of Attackers. متى: 2026-07-30T09:28:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Data-center-Cybersecurity-1.jpg",
+    "sources": [
+      "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/"
+    ]
+  },
+  {
+    "id": "12fcc9d543a77ea77b88e53d",
+    "title": "Google Releases Patches for 370 Vulnerabilities in Chrome 151",
+    "link": "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+    "published": "2026-07-30T09:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws Google Releases Patches for 370 Vulnerabilities in Chrome 151. What: Google Releases Patches for 370 Vulnerabilities in Chrome 151. When: 2026-07-30T09:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws Google Releases Patches for 370 Vulnerabilities in Chrome 151. ماذا: Google Releases Patches for 370 Vulnerabilities in Chrome 151. متى: 2026-07-30T09:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [
+      "CVE-2025-12725"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/4ddaf15d-bffb-4f9e-9e22-e580ac88daae.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+      "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+      "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+      "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+      "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
+      "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
+      "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+      "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
+      "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
+      "https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/",
+      "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/"
+    ]
+  },
+  {
     "id": "ccc87de0aa4f95c1fbc50a49",
     "title": "How to qualify for Apple's education discount - and get a $499 MacBook Neo for school",
     "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
@@ -123,35 +317,6 @@
     "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/07/30070015/genielocker-featured-image-scaled.jpg",
     "sources": [
       "https://securelist.com/genielocker-ransomware-for-windows-linux-and-esxi/120843/"
-    ]
-  },
-  {
-    "id": "6f137cc5fc80c2c4e275dc28",
-    "title": "Chrome 151 Patches 370 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-    "published": "2026-07-30T07:51:24+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Chrome 151 Patches 370 Vulnerabilities. What: Chrome 151 Patches 370 Vulnerabilities. When: 2026-07-30T07:51:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Chrome 151 Patches 370 Vulnerabilities. ماذا: Chrome 151 Patches 370 Vulnerabilities. متى: 2026-07-30T07:51:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [
-      "CVE-2025-12725"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
-    "sources": [
-      "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-      "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-      "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
-      "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
-      "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
-      "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
-      "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
-      "https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/",
-      "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/"
     ]
   },
   {
@@ -165614,79 +165779,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmL5-hTI_aBpSFPndnqV4ySQ5udayxJUvuXcCQm8f6jEz8a1_dL_S_Bum3hv0UpfLYgBthCoHBndUqX5rNCKFG0QlS-eVd31TFtGAaOiogrxNKqV5O27ZkAqjYReR6GVxTEe_SLJv_aiKKlab-nbHxFh46cGppeDCHs40izJtFikGL5NKW8d0_srV1IQ6x/s1600/iran-hackers.jpg",
     "sources": [
       "https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html"
-    ]
-  },
-  {
-    "id": "4b1414b7baac23b0937995f1",
-    "title": "Why I recommend this 360-degree camera drone to both beginners and professionals",
-    "link": "https://www.zdnet.com/article/antigravity-a1-drone-camera-review/",
-    "published": "2026-01-31T11:01:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why I recommend this 360-degree camera drone to both beginners and professionals. What: Why I recommend this 360-degree camera drone to both beginners and professionals. When: 2026-01-31T11:01:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why I recommend this 360-degree camera drone to both beginners and professionals. ماذا: Why I recommend this 360-degree camera drone to both beginners and professionals. متى: 2026-01-31T11:01:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/392a0b3b2027ac009eb51c19e7365ae7fa0fc92a/2025/12/09/1ee49698-bed9-45d0-bb4e-b257964938b0/antigravity-a1-drone-image-7.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/antigravity-a1-drone-camera-review/"
-    ]
-  },
-  {
-    "id": "9509971c191f03426ba01f90",
-    "title": "Is your AI agent up to the task? 3 ways to determine when to delegate",
-    "link": "https://www.zdnet.com/article/3-ways-to-determine-when-delegate-ai-agent/",
-    "published": "2026-01-31T11:01:06+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Is your AI agent up to the task? 3 ways to determine when to delegate. What: Is your AI agent up to the task? 3 ways to determine when to delegate. When: 2026-01-31T11:01:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is your AI agent up to the task? 3 ways to determine when to delegate. ماذا: Is your AI agent up to the task? 3 ways to determine when to delegate. متى: 2026-01-31T11:01:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e88fa889232073758df4a965ec06c3357b93782d/2026/01/30/6366833b-d5e2-40ec-8252-42d30e387105/chatbotkeygettyimages-2220294721.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/3-ways-to-determine-when-delegate-ai-agent/"
-    ]
-  },
-  {
-    "id": "7780def8c9e5970e91218b91",
-    "title": "How to learn ChatGPT in an hour - for free",
-    "link": "https://www.zdnet.com/article/how-to-learn-chatgpt-fast-free/",
-    "published": "2026-01-31T11:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to learn ChatGPT in an hour - for free. What: How to learn ChatGPT in an hour - for free. When: 2026-01-31T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to learn ChatGPT in an hour - for free. ماذا: How to learn ChatGPT in an hour - for free. متى: 2026-01-31T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/30f8ec1f20ad5059ce4ef465c6558dfc8b448876/2025/12/23/84ad8527-8531-4218-89f6-8a7e125e9ea3/how-to-learn-chatgpt-in-under-an-hour-using-my-favorite-guides-and-videos-for-free.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-learn-chatgpt-fast-free/",
-      "https://www.zdnet.com/article/how-to-learn-chatgpt-in-under-an-hour-using-my-favorite-guides-and-videos-for-free/"
-    ]
-  },
-  {
-    "id": "aea3c07c3ca1a8687dbca8be",
-    "title": "Gen AI boosts productivity, but only for certain developers - here's why",
-    "link": "https://www.zdnet.com/article/why-gen-ai-boosts-productivity-some-developers-not-others/",
-    "published": "2026-01-31T10:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Gen AI boosts productivity, but only for certain developers - here's why. What: Gen AI boosts productivity, but only for certain developers - here's why. When: 2026-01-31T10:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Gen AI boosts productivity, but only for certain developers - here's why. ماذا: Gen AI boosts productivity, but only for certain developers - here's why. متى: 2026-01-31T10:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b3c79fc0bab660e9656ddb42ecd884c9444fecb1/2026/01/29/6f3b3082-3914-46f2-bc68-0a226a776493/abstractfiguresgettyimages-2216920833.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-gen-ai-boosts-productivity-some-developers-not-others/"
     ]
   }
 ]
