@@ -36,6 +36,26 @@
     ]
   },
   {
+    "id": "5963fb94e583a2fba2781d9b",
+    "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+    "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "published": "2026-07-30T05:08:39+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.. When: 2026-07-30T05:08:39+00:00. How: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.. متى: 2026-07-30T05:08:39+00:00. كيف: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20316"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html"
+    ]
+  },
+  {
     "id": "f6bd5a50d7093f5404224bde",
     "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
     "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
@@ -1330,6 +1350,60 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/07/EY-Ernst-Young.jpeg",
     "sources": [
       "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/"
+    ]
+  },
+  {
+    "id": "253eb296fbd9c78408029983",
+    "title": "Inside Astaroth's New Spambot Component",
+    "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
+    "published": "2026-07-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Inside Astaroth's New Spambot Component. What: Inside Astaroth's New Spambot Component. When: 2026-07-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Inside Astaroth's New Spambot Component. ماذا: Inside Astaroth's New Spambot Component. متى: 2026-07-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/"
+    ]
+  },
+  {
+    "id": "8da0667ae033a1825794946e",
+    "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
+    "published": "2026-07-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud. What: Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud. When: 2026-07-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud. ماذا: Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud. متى: 2026-07-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/"
+    ]
+  },
+  {
+    "id": "192e52cdf03f460c43c1a397",
+    "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
+    "published": "2026-07-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats. What: Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats. When: 2026-07-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats. ماذا: Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats. متى: 2026-07-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/"
     ]
   },
   {
