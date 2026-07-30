@@ -36,6 +36,60 @@
     ]
   },
   {
+    "id": "edd7e911f22d2b32b96a0f11",
+    "title": "South Korea fines telco giant KT $39 million for customer data breach",
+    "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+    "published": "2026-07-30T22:28:30+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: South Korea fines telco giant KT $39 million for customer data breach. What: South Korea fines telco giant KT $39 million for customer data breach. When: 2026-07-30T22:28:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: South Korea fines telco giant KT $39 million for customer data breach. ماذا: South Korea fines telco giant KT $39 million for customer data breach. متى: 2026-07-30T22:28:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/30/kt.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/"
+    ]
+  },
+  {
+    "id": "71e8c5f5e84caca7fdb390c2",
+    "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+    "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+    "published": "2026-07-30T22:18:36+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.. What: CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs. When: 2026-07-30T22:18:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.. ماذا: CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs. متى: 2026-07-30T22:18:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/CISA-Cybersecurity.jpg",
+    "sources": [
+      "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/"
+    ]
+  },
+  {
+    "id": "ca98f3e46a413f3a24fa98e6",
+    "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+    "published": "2026-07-30T22:01:31+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: JetBrains warns of critical TeamCity remote code execution flaw. What: JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution.. When: 2026-07-30T22:01:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: JetBrains warns of critical TeamCity remote code execution flaw. ماذا: JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution.. متى: 2026-07-30T22:01:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/11/JetBrains.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/"
+    ]
+  },
+  {
     "id": "12de77c1c903ab4982453f5f",
     "title": "What the FCC ban on foreign-made robot vacuums means for your Roomba",
     "link": "https://www.zdnet.com/article/fcc-ban-on-foreign-made-robot-vacuums-and-your-roomba/",
