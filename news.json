@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "097a56e7635505046f2f1973",
+    "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+    "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+    "published": "2026-07-31T00:57:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests. What: Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests. When: 2026-07-31T00:57:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests. ماذا: Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests. متى: 2026-07-31T00:57:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/"
+    ]
+  },
+  {
     "id": "edd7e911f22d2b32b96a0f11",
     "title": "South Korea fines telco giant KT $39 million for customer data breach",
     "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
@@ -166276,32 +166294,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-retiring-famous-gpt-4o-model-says-gpt-52-is-good-enough/"
-    ]
-  },
-  {
-    "id": "58c4048db7eabf98714951b8",
-    "title": "I changed 3 settings on my Sonos soundbar to instantly improve the audio performance",
-    "link": "https://www.zdnet.com/article/best-sonos-soundbar-settings-improve-audio-quality/",
-    "published": "2026-02-01T01:00:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I changed 3 settings on my Sonos soundbar to instantly improve the audio performance. What: I changed 3 settings on my Sonos soundbar to instantly improve the audio performance. When: 2026-02-01T01:00:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I changed 3 settings on my Sonos soundbar to instantly improve the audio performance. ماذا: I changed 3 settings on my Sonos soundbar to instantly improve the audio performance. متى: 2026-02-01T01:00:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/81a27731e1ad29353f4c751337519f5d59cb233a/2025/07/29/c471f834-7188-4a22-b67d-e4d9d96b1180/arc-ultra-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-sonos-soundbar-settings-improve-audio-quality/",
-      "https://www.zdnet.com/article/ps5-change-settings-improve-performance/",
-      "https://www.zdnet.com/article/best-roku-tv-settings-change-improve-performance/",
-      "https://www.zdnet.com/article/change-tv-settings-improve-performance/",
-      "https://www.zdnet.com/article/best-android-phone-settings-improve-battery-life/",
-      "https://www.zdnet.com/article/best-fire-tv-settings-to-change/",
-      "https://www.zdnet.com/article/i-changed-10-settings-on-my-samsung-phone-to-instantly-speed-up-the-performance/",
-      "https://www.zdnet.com/article/i-changed-10-settings-on-my-fire-tv-to-significantly-improve-the-performance/",
-      "https://www.zdnet.com/article/own-airpods-i-changed-3-settings-on-my-iphone-to-significantly-improve-the-audio-experience/"
     ]
   }
 ]
