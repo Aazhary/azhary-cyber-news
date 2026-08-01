@@ -10621,24 +10621,6 @@
     ]
   },
   {
-    "id": "a9ef250acdb469c7d302a90f",
-    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
-    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
-    "published": "2026-07-21T13:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
-    ]
-  },
-  {
     "id": "78079e4235d6ec2a5c256a64",
     "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
     "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
@@ -10654,6 +10636,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
+    ]
+  },
+  {
+    "id": "a9ef250acdb469c7d302a90f",
+    "title": "Intel fortifies Foundry with an actual customer: Fortinet",
+    "link": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
+    "published": "2026-07-21T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. What: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. When: 2026-07-21T13:00:00+00:00. How: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively. Action: See Arabic action below.",
+    "summary_ar": "من: Fortinet on Tuesday revealed it will use Intel Foundry to fab its sixth-gen Security Processor (SP6), a nice win for Chipzilla's sputtering chipmaking biz.. ماذا: The x86 giant also declined to comment on the availability of the product, noting only that \"details regarding the Fortinet Security Processor 6 availability will be announced at a later date.\" While SP6 won't use the latest chipmaking tech, it will be built in an American fab by an American company, offering a level of supply chain security that remains difficult to find.. متى: 2026-07-21T13:00:00+00:00. كيف: Throughput fell when advanced threat protection or SSL inspection was enabled, but Fortinet still claimed a speedy 4.3 Gbps and 3.3 Gbps, respectively.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/259314.jpg?imageId=259314&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374"
     ]
   },
   {
@@ -165553,78 +165553,6 @@
     "image": "https://regmedia.co.uk/2026/02/02/ugly_chrysalis.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/02/notepad_hijacking_lotus_blossom/"
-    ]
-  },
-  {
-    "id": "098700ed58a360918eb62934",
-    "title": "Attackers Harvest Dropbox Logins Via Fake PDF Lures",
-    "link": "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures",
-    "published": "2026-02-02T22:21:33+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Attackers Harvest Dropbox Logins Via Fake PDF Lures. What: Attackers Harvest Dropbox Logins Via Fake PDF Lures. When: 2026-02-02T22:21:33+00:00. How: A malware-free phishing campaign targets corporate inboxes and asks employees to view &quot;request orders,&quot; ultimately leading to Dropbox credential theft. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers Harvest Dropbox Logins Via Fake PDF Lures. ماذا: Attackers Harvest Dropbox Logins Via Fake PDF Lures. متى: 2026-02-02T22:21:33+00:00. كيف: A malware-free phishing campaign targets corporate inboxes and asks employees to view &quot;request orders,&quot; ultimately leading to Dropbox credential theft.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures"
-    ]
-  },
-  {
-    "id": "14bdc08a6d8611abfae17942",
-    "title": "New GlassWorm attack targets macOS via compromised OpenVSX extensions",
-    "link": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
-    "published": "2026-02-02T22:04:19+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New GlassWorm attack targets macOS via compromised OpenVSX extensions. What: New GlassWorm attack targets macOS via compromised OpenVSX extensions. When: 2026-02-02T22:04:19+00:00. How: A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems. Action: See Arabic action below.",
-    "summary_ar": "من: New GlassWorm attack targets macOS via compromised OpenVSX extensions. ماذا: New GlassWorm attack targets macOS via compromised OpenVSX extensions. متى: 2026-02-02T22:04:19+00:00. كيف: A new GlassWorm malware attack through compromised OpenVSX extensions focuses on stealing passwords, crypto-wallet data, and developer credentials and configurations from macOS systems.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/02/08/supply-chain.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/"
-    ]
-  },
-  {
-    "id": "3ecd470944a1f2657471e8ce",
-    "title": "County Pays $600K to Wrongfully Jailed Pen Testers",
-    "link": "https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers",
-    "published": "2026-02-02T21:57:51+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: County Pays $600K to Wrongfully Jailed Pen Testers. What: County Pays $600K to Wrongfully Jailed Pen Testers. When: 2026-02-02T21:57:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: County Pays $600K to Wrongfully Jailed Pen Testers. ماذا: County Pays $600K to Wrongfully Jailed Pen Testers. متى: 2026-02-02T21:57:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers"
-    ]
-  },
-  {
-    "id": "2839a520c09df32d0b17cd9e",
-    "title": "8K is down to one manufacturer after LG's exit - so where does TV tech go next?",
-    "link": "https://www.zdnet.com/article/lg-drops-8k-tv-whats-next/",
-    "published": "2026-02-02T21:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 8K is down to one manufacturer after LG's exit - so where does TV tech go next?. What: 8K is down to one manufacturer after LG's exit - so where does TV tech go next?. When: 2026-02-02T21:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 8K is down to one manufacturer after LG's exit - so where does TV tech go next?. ماذا: 8K is down to one manufacturer after LG's exit - so where does TV tech go next?. متى: 2026-02-02T21:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6c1a45dd5f7d33385cb93cc60a281629e72fbde9/2025/03/24/e96eb55c-2395-414a-a7ca-12d65cf57667/dsc04591.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lg-drops-8k-tv-whats-next/"
     ]
   }
 ]
