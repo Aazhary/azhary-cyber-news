@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "612b12a16d83e110afb2c995",
+    "title": "Rails patches critical Active Storage flaw with RCE potential",
+    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "published": "2026-08-01T14:20:30+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Rails patches critical Active Storage flaw with RCE potential. What: Rails patches critical Active Storage flaw with RCE potential. When: 2026-08-01T14:20:30+00:00. How: A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). Action: See Arabic action below.",
+    "summary_ar": "من: Rails patches critical Active Storage flaw with RCE potential. ماذا: Rails patches critical Active Storage flaw with RCE potential. متى: 2026-08-01T14:20:30+00:00. كيف: A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE).. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/31/rails.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/"
+    ]
+  },
+  {
     "id": "daed7d1838bb90671696fac6",
     "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
     "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
@@ -166205,96 +166223,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2021/06/07/Notepad++.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/"
-    ]
-  },
-  {
-    "id": "2317732aa04c0f09e1d52e9f",
-    "title": "Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack",
-    "link": "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/",
-    "published": "2026-02-02T14:12:50+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack. What: Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack. When: 2026-02-02T14:12:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack. ماذا: Open VSX Publisher Account Hijacked in Fresh GlassWorm Attack. متى: 2026-02-02T14:12:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/open-vsx-publisher-account-hijacked-in-fresh-glassworm-attack/"
-    ]
-  },
-  {
-    "id": "8bf265da5dae50a5be1a10d4",
-    "title": "OpenClaw patches one-click RCE as security Whac-A-Mole continues",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/openclaw_security_issues/",
-    "published": "2026-02-02T14:10:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: OpenClaw patches one-click RCE as security Whac-A-Mole continues. What: OpenClaw patches one-click RCE as security Whac-A-Mole continues. When: 2026-02-02T14:10:10+00:00. How: Researchers disclose rapid exploit chain that let attackers run code via a single malicious web page Security issues continue to pervade the OpenClaw ecosystem, formerly known as ClawdBot then Moltbot, as multiple projects patch bot takeover and remote code execution (RCE) exploits.… OpenClaw patches one-click RCE as security Whac-A-Mole continues Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw patches one-click RCE as security Whac-A-Mole continues. ماذا: OpenClaw patches one-click RCE as security Whac-A-Mole continues. متى: 2026-02-02T14:10:10+00:00. كيف: Researchers disclose rapid exploit chain that let attackers run code via a single malicious web page Security issues continue to pervade the OpenClaw ecosystem, formerly known as ClawdBot then Moltbot, as multiple projects patch bot takeover and remote code execution (RCE) exploits.… OpenClaw patches one-click RCE as security Whac-A-Mole continues. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/09/12/shutterstock_whackmole.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/02/openclaw_security_issues/"
-    ]
-  },
-  {
-    "id": "21d0fbff12742350884b1586",
-    "title": "Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities",
-    "link": "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/",
-    "published": "2026-02-02T13:50:53+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities. What: The post Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities appeared first on SecurityWeek .. When: 2026-02-02T13:50:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities. ماذا: The post Default ICS Credentials Exploited in Destructive Attack on Polish Energy Facilities appeared first on SecurityWeek .. متى: 2026-02-02T13:50:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/default-ics-credentials-exploited-in-destructive-attack-on-polish-energy-facilities/"
-    ]
-  },
-  {
-    "id": "23359bf68a94e6458b3be109",
-    "title": "Panera Bread breach impacts 5.1 million accounts, not 14 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
-    "published": "2026-02-02T13:46:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Panera Bread breach impacts 5.1 million accounts, not 14 million customers. What: food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported.. When: 2026-02-02T13:46:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Panera Bread breach impacts 5.1 million accounts, not 14 million customers. ماذا: food chain Panera Bread affected 5.1 million accounts, not 14 million customers as previously reported.. متى: 2026-02-02T13:46:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/02/Panera-Bread.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/"
-    ]
-  },
-  {
-    "id": "596f11f44833b53d6af9d681",
-    "title": "Notepad++ update service hijacked in targeted state-linked attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/notepad_plusplus_intrusion/",
-    "published": "2026-02-02T13:19:27+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Notepad++ update service hijacked in targeted state-linked attack. What: Notepad++ update service hijacked in targeted state-linked attack. When: 2026-02-02T13:19:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Notepad++ update service hijacked in targeted state-linked attack. ماذا: Notepad++ update service hijacked in targeted state-linked attack. متى: 2026-02-02T13:19:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/06/22/shutterstock_please_explain.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/02/notepad_plusplus_intrusion/"
     ]
   }
 ]
