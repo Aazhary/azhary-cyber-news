@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "936da7906e172cf633e2c33f",
+    "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "published": "2026-08-02T21:14:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft. What: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft. When: 2026-08-02T21:14:29+00:00. How: A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. Action: See Arabic action below.",
+    "summary_ar": "من: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft. ماذا: COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft. متى: 2026-08-02T21:14:29+00:00. كيف: A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/10/Cryptocurrency-bitcoin-theft.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/"
+    ]
+  },
+  {
     "id": "aca1354564cadfd9eceff2c6",
     "title": "Google Chrome may soon block New Tab hijacker extensions by default",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
@@ -163902,42 +163920,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days"
-    ]
-  },
-  {
-    "id": "e545038af59bcca1e3391d01",
-    "title": "Step Finance says compromised execs' devices led to $40M crypto theft",
-    "link": "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/",
-    "published": "2026-02-03T21:33:23+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Step Finance says compromised execs' devices led to $40M crypto theft. What: Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives.. When: 2026-02-03T21:33:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Step Finance says compromised execs' devices led to $40M crypto theft. ماذا: Step Finance announced that it lost $40 million worth of digital assets after hackers compromised devices belonging to the company's team of executives.. متى: 2026-02-03T21:33:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/03/1.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/step-finance-says-compromised-execs-devices-led-to-40m-crypto-theft/"
-    ]
-  },
-  {
-    "id": "b5f3936dba5f6cf8e0b90666",
-    "title": "GlassWorm Malware Returns to Shatter Developer Ecosystems",
-    "link": "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems",
-    "published": "2026-02-03T20:55:51+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: GlassWorm Malware Returns to Shatter Developer Ecosystems. What: GlassWorm Malware Returns to Shatter Developer Ecosystems. When: 2026-02-03T20:55:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GlassWorm Malware Returns to Shatter Developer Ecosystems. ماذا: GlassWorm Malware Returns to Shatter Developer Ecosystems. متى: 2026-02-03T20:55:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems"
     ]
   }
 ]
