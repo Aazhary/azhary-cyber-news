@@ -18,6 +18,78 @@
     ]
   },
   {
+    "id": "f12c19346a9417ba019f78bb",
+    "title": "New Tool Traces AI Videos Back to Their Source",
+    "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+    "published": "2026-08-03T20:42:28+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: New Tool Traces AI Videos Back to Their Source. What: New Tool Traces AI Videos Back to Their Source. When: 2026-08-03T20:42:28+00:00. How: New Tool Traces AI Videos Back to Their Source Action: See Arabic action below.",
+    "summary_ar": "من: New Tool Traces AI Videos Back to Their Source. ماذا: New Tool Traces AI Videos Back to Their Source. متى: 2026-08-03T20:42:28+00:00. كيف: New Tool Traces AI Videos Back to Their Source. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection"
+    ]
+  },
+  {
+    "id": "e89c8d8a7d065b59283ad184",
+    "title": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues",
+    "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+    "published": "2026-08-03T20:31:12+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Anthropic: AI Issues Result of Security Gaps, Not Model Issues. What: Anthropic: AI Issues Result of Security Gaps, Not Model Issues. When: 2026-08-03T20:31:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic: AI Issues Result of Security Gaps, Not Model Issues. ماذا: Anthropic: AI Issues Result of Security Gaps, Not Model Issues. متى: 2026-08-03T20:31:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c93a3d3405d789d/6a70e02ffbf44d4210bb1101/claude2_Samuel_Boivin_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps"
+    ]
+  },
+  {
+    "id": "ad803215f6b3f2654e01c22b",
+    "title": "Google dev kit spurs first-ever agent-on-agent violence",
+    "link": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
+    "published": "2026-08-03T20:30:37+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: In what they call the first-ever real-world agent-to-agent exploitation method, Pillar Security researchers say they discovered an exploit in the repository behind Google's Agent Development Kit for Python that could allow attackers to compromise supply chains.. What: Google has since fixed the underlying issue in the repository but deemed the exploit non-rewardable because it involved social engineering.. When: 2026-08-03T20:30:37+00:00. How: The security snafu existed in google/adk-python, an open source Python toolkit with more than 90 million downloads used to build and deploy AI agents. Action: See Arabic action below.",
+    "summary_ar": "من: In what they call the first-ever real-world agent-to-agent exploitation method, Pillar Security researchers say they discovered an exploit in the repository behind Google's Agent Development Kit for Python that could allow attackers to compromise supply chains.. ماذا: Google has since fixed the underlying issue in the repository but deemed the exploit non-rewardable because it involved social engineering.. متى: 2026-08-03T20:30:37+00:00. كيف: The security snafu existed in google/adk-python, an open source Python toolkit with more than 90 million downloads used to build and deploy AI agents.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5282519.jpg?imageId=5282519&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496"
+    ]
+  },
+  {
+    "id": "845ccd1bb48b11db7db8bfe1",
+    "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+    "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+    "published": "2026-08-03T20:01:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: New DOUBLECUP ClickFix service hides malware in browser cache images. What: A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems.. When: 2026-08-03T20:01:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New DOUBLECUP ClickFix service hides malware in browser cache images. ماذا: A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems.. متى: 2026-08-03T20:01:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/header-browser-cache-malware.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/"
+    ]
+  },
+  {
     "id": "faaa94bb3da1c510dd5a6d0a",
     "title": "The Ember Smart Mug 2 will keep your coffee warm for hours - and it's on sale",
     "link": "https://www.zdnet.com/article/ember-smart-mug-deal-best-buy/",
@@ -267,7 +339,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm"
     ]
@@ -11621,24 +11693,6 @@
     ]
   },
   {
-    "id": "b8f0f8eabd05b7c62c21b043",
-    "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
-    "link": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
-    "published": "2026-07-21T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. What: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. When: 2026-07-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. ماذا: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. متى: 2026-07-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c0e9544f78c82bf/6a5e8bfa651b136c90b23f50/door_choice-adventtr-GettyImages-2027127656.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies"
-    ]
-  },
-  {
     "id": "78079e4235d6ec2a5c256a64",
     "title": "A New Ransomware Threat Actor Emerges Every Week, Warns Report",
     "link": "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/",
@@ -11654,6 +11708,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/d88e9b17-0a6a-44ad-95f5-ded9f89c292c.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/new-ransomware-weekly/"
+    ]
+  },
+  {
+    "id": "b8f0f8eabd05b7c62c21b043",
+    "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
+    "link": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
+    "published": "2026-07-21T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. What: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. When: 2026-07-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. ماذا: Choose Wisely: AI-Generated Coding Risk Varies, a Lot. متى: 2026-07-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c0e9544f78c82bf/6a5e8bfa651b136c90b23f50/door_choice-adventtr-GettyImages-2027127656.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies"
     ]
   },
   {
@@ -163743,60 +163815,6 @@
     "image": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/"
-    ]
-  },
-  {
-    "id": "b60fbd00d51247b5c4fa20e6",
-    "title": "Attackers Use Windows Screensavers to Drop Malware, RMM Tools",
-    "link": "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools",
-    "published": "2026-02-04T21:06:28+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Attackers Use Windows Screensavers to Drop Malware, RMM Tools. What: Attackers Use Windows Screensavers to Drop Malware, RMM Tools. When: 2026-02-04T21:06:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers Use Windows Screensavers to Drop Malware, RMM Tools. ماذا: Attackers Use Windows Screensavers to Drop Malware, RMM Tools. متى: 2026-02-04T21:06:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools"
-    ]
-  },
-  {
-    "id": "771060bae45f0ba0f372e3e3",
-    "title": "You can snag this Insignia Fire TV for under $200 at Amazon",
-    "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
-    "published": "2026-02-04T20:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can snag this Insignia Fire TV for under $200 at Amazon. What: You can snag this Insignia Fire TV for under $200 at Amazon. When: 2026-02-04T20:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can snag this Insignia Fire TV for under $200 at Amazon. ماذا: You can snag this Insignia Fire TV for under $200 at Amazon. متى: 2026-02-04T20:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fb32dbdb917204256931b1257849788a21ee28f8/2025/07/10/be2ce9a6-6a2f-4ff2-bd73-5cca6df4fd40/insignia-f50.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/"
-    ]
-  },
-  {
-    "id": "47808fbcbe33abecad016bfc",
-    "title": "This handy kitchen gadget put an end to cooking anxiety for me - and it's seriously spoiled me",
-    "link": "https://www.zdnet.com/article/meater-pro-review/",
-    "published": "2026-02-04T20:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This handy kitchen gadget put an end to cooking anxiety for me - and it's seriously spoiled me. What: This handy kitchen gadget put an end to cooking anxiety for me - and it's seriously spoiled me. When: 2026-02-04T20:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This handy kitchen gadget put an end to cooking anxiety for me - and it's seriously spoiled me. ماذا: This handy kitchen gadget put an end to cooking anxiety for me - and it's seriously spoiled me. متى: 2026-02-04T20:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/56fa60645ba3d91a96f1aba1641b87530eaed48f/2024/02/18/573163b6-28bc-4f04-b76c-39f9add7b173/meater-2-plus6.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meater-pro-review/"
     ]
   }
 ]
