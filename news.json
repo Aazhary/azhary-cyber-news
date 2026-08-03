@@ -18,6 +18,80 @@
     ]
   },
   {
+    "id": "cc28d154af8a8ae581e0a231",
+    "title": "AI is 'both the weapon and the target' in latest wave of cyberattacks",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/03/ai-is-both-the-weapon-and-the-target-in-latest-wave-of-cyberattacks/5281534",
+    "published": "2026-08-03T07:01:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: AI is becoming both an attack tool and a high-value target, with attacks by AI-enabled adversaries rising 89 percent in 2025, according to CrowdStrike.. What: \"It gives you a sense of how quickly they can move throughout that environment, and this is all tied again to software supply chains.\" Patching window slams shut CrowdStrike argues that AI is helping attackers exploit newly disclosed vulnerabilities at machine speed.. When: 2026-08-03T07:01:00+00:00. How: AI is becoming both an attack tool and a high-value target, with attacks by AI-enabled adversaries rising 89 percent in 2025, according to CrowdStrike. Action: See Arabic action below.",
+    "summary_ar": "من: AI is becoming both an attack tool and a high-value target, with attacks by AI-enabled adversaries rising 89 percent in 2025, according to CrowdStrike.. ماذا: \"It gives you a sense of how quickly they can move throughout that environment, and this is all tied again to software supply chains.\" Patching window slams shut CrowdStrike argues that AI is helping attackers exploit newly disclosed vulnerabilities at machine speed.. متى: 2026-08-03T07:01:00+00:00. كيف: AI is becoming both an attack tool and a high-value target, with attacks by AI-enabled adversaries rising 89 percent in 2025, according to CrowdStrike.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/03/ai-is-both-the-weapon-and-the-target-in-latest-wave-of-cyberattacks/5281534"
+    ]
+  },
+  {
+    "id": "a2a632f5c666d4ccc85eb453",
+    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+    "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "published": "2026-08-03T06:41:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete. What: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.. When: 2026-08-03T06:41:46+00:00. How: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Action: See Arabic action below.",
+    "summary_ar": "من: N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete. ماذا: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.. متى: 2026-08-03T06:41:46+00:00. كيف: N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-18577"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html"
+    ]
+  },
+  {
+    "id": "263f5529fbd46572ec8492dd",
+    "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+    "published": "2026-08-03T06:40:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.. What: Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.. When: 2026-08-03T06:40:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.. ماذا: Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk.. متى: 2026-08-03T06:40:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQmUt2QHxTfiXiolir9akmVh8dT5di3UBDtD7H2IJlkWQ4x4VmeTUEZo8CUvz2q2FXCvxTJDHenWPzqPeSbnlCYSRTNGULKdWRJnsmVg7SVJT_BBPABxqRuvr22Z9V2C6P51fRjSGzgAlHMzEn-MjA4yTMfCaM91ujVajF8GJqYg9ZaZELXsCc-GMnYq8/s1600/hugging.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html"
+    ]
+  },
+  {
+    "id": "4c50ca41b5e851524c0f1dd1",
+    "title": "CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/",
+    "published": "2026-08-03T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates. What: CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates. When: 2026-08-03T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates. ماذا: CrowdStrike 2026 Threat Hunting Report: Exploitation Window Closes as AI Use Accelerates. متى: 2026-08-03T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-threat-hunting-report/"
+    ]
+  },
+  {
     "id": "108095480ed81b43a51e59d3",
     "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
@@ -163704,78 +163778,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/"
-    ]
-  },
-  {
-    "id": "ed36a71cb48384c1de3c465f",
-    "title": "What Security Teams Need to Know About OpenClaw, the AI Super Agent",
-    "link": "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/",
-    "published": "2026-02-04T08:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: What Security Teams Need to Know About OpenClaw, the AI Super Agent. What: What Security Teams Need to Know About OpenClaw, the AI Super Agent. When: 2026-02-04T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: What Security Teams Need to Know About OpenClaw, the AI Super Agent. ماذا: What Security Teams Need to Know About OpenClaw, the AI Super Agent. متى: 2026-02-04T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/"
-    ]
-  },
-  {
-    "id": "354cd85681a0c7311334b756",
-    "title": "Microsoft Warns Python Infostealers Target macOS via Fake Ads and Installers",
-    "link": "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html",
-    "published": "2026-02-04T07:42:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.. What: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.. When: 2026-02-04T07:42:00+00:00. How: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.. ماذا: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.. متى: 2026-02-04T07:42:00+00:00. كيف: Microsoft has warned that information-stealing attacks are \"rapidly expanding\" beyond Windows to target Apple macOS environments by leveraging cross-platform languages like Python and abusing trusted platforms for distribution at scale.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s16000/macos-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/microsoft-warns-python-infostealers.html"
-    ]
-  },
-  {
-    "id": "15d68715c81c45db605a5f35",
-    "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-    "link": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-    "published": "2026-02-04T06:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.. What: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.. When: 2026-02-04T06:26:00+00:00. How: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats. Action: See Arabic action below.",
-    "summary_ar": "من: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.. ماذا: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.. متى: 2026-02-04T06:26:00+00:00. كيف: The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHoCQzirCKCGciIltPFi7LbjpANR75gNFmH6Lbsm5FOdl40UHJT4Xd3aWxxSdUe6r7wlqMWKuLSkUWmg11yfF7pnvIcETtkv5S5gtEeYFaHh8hKUoSicCcMvUn8UO9WUTVUDzSpEyXEaS01P6Wza6weGp2iqIbAnQKlN3I3f2_F2bGXSyssfhG2iIE591/s16000/openvsx.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html"
-    ]
-  },
-  {
-    "id": "552fd290878cf6c6c5c1a7c3",
-    "title": "Clouds rush to deliver OpenClaw-as-a-service offerings",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/cloud_hosted_openclaw/",
-    "published": "2026-02-04T05:28:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Clouds rush to deliver OpenClaw-as-a-service offerings. What: Clouds rush to deliver OpenClaw-as-a-service offerings. When: 2026-02-04T05:28:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Clouds rush to deliver OpenClaw-as-a-service offerings. ماذا: Clouds rush to deliver OpenClaw-as-a-service offerings. متى: 2026-02-04T05:28:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/02/04/shutterstock_wireframe_crab.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/04/cloud_hosted_openclaw/"
     ]
   }
 ]
