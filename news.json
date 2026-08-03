@@ -18,6 +18,98 @@
     ]
   },
   {
+    "id": "1578a0dabbfdd84132f9f803",
+    "title": "AI is both a cyber weapon and a massive target, CrowdStrike warns",
+    "link": "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/",
+    "published": "2026-08-03T17:52:06+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: AI is both a cyber weapon and a massive target, CrowdStrike warns. What: AI is both a cyber weapon and a massive target, CrowdStrike warns. When: 2026-08-03T17:52:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI is both a cyber weapon and a massive target, CrowdStrike warns. ماذا: AI is both a cyber weapon and a massive target, CrowdStrike warns. متى: 2026-08-03T17:52:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/a18615e5f1b3c45d726379ebf6a4bdf26523907f/2026/08/03/3fcaa2bf-4ef3-4c4d-9340-762b9ad04715/ai-weapons.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/"
+    ]
+  },
+  {
+    "id": "27c4740f49181d9e40a97698",
+    "title": "AI slop pollutes the CVE pipeline with fake vulns",
+    "link": "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462",
+    "published": "2026-08-03T17:19:36+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A batch of critical- and high-rated SQLite CVEs that appeared in the NVD with CISA-supplied enrichment last week turned out to be technically bogus, according to security researchers, and their path into widely used databases exposes weaknesses in the CVE pipeline.. What: Software supply chain security outfit JFrog reported last week that six supposed SQLite vulnerabilities published in a larger batch by a new, obscure GitHub repository were all complete garbage.. When: 2026-08-03T17:19:36+00:00. How: Running the advisories through an AI checker suggested they were likely AI generated, JFrog said, and, upon testing, it found that none of the six SQLite reports, which carried CVSS scores ranging from 9.8 to 7.5, described a reproducible vulnerability. Action: See Arabic action below.",
+    "summary_ar": "من: A batch of critical- and high-rated SQLite CVEs that appeared in the NVD with CISA-supplied enrichment last week turned out to be technically bogus, according to security researchers, and their path into widely used databases exposes weaknesses in the CVE pipeline.. ماذا: Software supply chain security outfit JFrog reported last week that six supposed SQLite vulnerabilities published in a larger batch by a new, obscure GitHub repository were all complete garbage.. متى: 2026-08-03T17:19:36+00:00. كيف: Running the advisories through an AI checker suggested they were likely AI generated, JFrog said, and, upon testing, it found that none of the six SQLite reports, which carried CVSS scores ranging from 9.8 to 7.5, described a reproducible vulnerability.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5230118.jpg?imageId=5230118&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/03/ai-slop-pollutes-the-cve-pipeline-with-fake-vulns/5282462"
+    ]
+  },
+  {
+    "id": "d7fcd6cb55a2884de5fc6a01",
+    "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+    "published": "2026-08-03T17:00:56+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: N-able warns of N-central auth bypass flaw exploited in attacks. What: [...] N-able warns of N-central auth bypass flaw exploited in attacks. When: 2026-08-03T17:00:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: N-able warns of N-central auth bypass flaw exploited in attacks. ماذا: [...] N-able warns of N-central auth bypass flaw exploited in attacks. متى: 2026-08-03T17:00:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-18577"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/18/N-able.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "be0a8086d93f41e126d47a1c",
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "published": "2026-08-03T16:24:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts. What: Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts. When: 2026-08-03T16:24:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts. ماذا: Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts. متى: 2026-08-03T16:24:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNiuQky0C3uTOSaOEyGLg0O7h1B0VAP9nU8bwdZe-8DKD_pOBihrvWw-2ecGt03mmT0V1F0bg7xOQuv88cZlLcLqavDM9gWnZHku-skIzJMEWw3lBNvrVcDaeaezVTvt1yBCecBTQBT_SUsY1rTV-ygCEH1vUjttcAx8swmGljZPAXYRQ2APBwPrUhvPI/s1600/google-passkeys.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html"
+    ]
+  },
+  {
+    "id": "49e56fbc932a31b05c52585e",
+    "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+    "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+    "published": "2026-08-03T16:15:13+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.. What: The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.. When: 2026-08-03T16:15:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.. ماذا: The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.. متى: 2026-08-03T16:15:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghC22v1WIfuZutm_-lxuOPzdipffNmYvZ5KA9l_AUg-8EgQr9Gy0ouYijU_Vab5m5aIpGChViq6kpC4_h1fZfjBw415YHCINhU9GXTkil94vJv_Ct241xptfhjyt34cV348Q5VHlRVlKSj32-uj1u0PocPhDf9CBYuhFfPhvLjiHTqPYOPZBpXUyhiAe5Q/s1600/sonicwall-ransomware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html"
+    ]
+  },
+  {
     "id": "9fe494b3af43bd783bc27c6a",
     "title": "AI shopping searches surged 200% in one year - and it's a top priority for commerce leaders now",
     "link": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
@@ -73,6 +165,24 @@
     ]
   },
   {
+    "id": "a421f30d516d93548f49bf73",
+    "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+    "published": "2026-08-03T15:42:18+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm. What: Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm. When: 2026-08-03T15:42:18+00:00. How: Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm. ماذا: Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm. متى: 2026-08-03T15:42:18+00:00. كيف: Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm"
+    ]
+  },
+  {
     "id": "ea6fabb8b21af872fafffa43",
     "title": "Russian spies turn public Wi-Fi into malware delivery systems",
     "link": "https://www.theregister.com/security/2026/08/03/russias-svr-borks-public-wi-fis-for-digital-surveillance/5282399",
@@ -85,7 +195,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/262816.jpg?imageId=262816&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/03/russias-svr-borks-public-wi-fis-for-digital-surveillance/5282399"
     ]
@@ -302,7 +412,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5248050.jpg?imageId=5248050&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/03/georgia-michigan-say-water-systems-hacked-by-iran-tied-crew/5282262"
     ]
@@ -495,8 +605,8 @@
     "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
     "published": "2026-08-03T10:49:06+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.. What: Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS. When: 2026-08-03T10:49:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.. ماذا: Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS. متى: 2026-08-03T10:49:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.. What: Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS. When: 2026-08-03T10:49:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.. ماذا: Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS. متى: 2026-08-03T10:49:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Data Breach",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -163615,152 +163725,6 @@
     "image": "https://www.zdnet.com/a/img/resize/80c2c47c2adf9b4552728fbbac881d0d29aa9bc6/2022/08/05/e7f83c86-6993-4508-b37e-6623f2317c4f/best-buy-essentials-tv-antenna-review-best-tv-antenna.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-watch-tv-for-free-antenna/"
-    ]
-  },
-  {
-    "id": "d309e81506ea04c02de75f31",
-    "title": "Critical SolarWinds Web Help Desk bug under attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/critical_solarwinds_web_help_desk/",
-    "published": "2026-02-04T18:15:16+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Critical SolarWinds Web Help Desk bug under attack. What: US agencies told to patch by Friday Attackers are exploiting a critical SolarWinds Web Help Desk bug - less than a week after the vendor disclosed and fixed the 9.8-rated flaw.. When: 2026-02-04T18:15:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical SolarWinds Web Help Desk bug under attack. ماذا: US agencies told to patch by Friday Attackers are exploiting a critical SolarWinds Web Help Desk bug - less than a week after the vendor disclosed and fixed the 9.8-rated flaw.. متى: 2026-02-04T18:15:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/01/05/solarwinds.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/04/critical_solarwinds_web_help_desk/"
-    ]
-  },
-  {
-    "id": "3dfab9897f2b1058d95d1163",
-    "title": "Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now",
-    "link": "https://www.zdnet.com/article/anker-solix-e10-whole-home-battery-backup-generator-pricing-availability/",
-    "published": "2026-02-04T18:11:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now. What: Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now. When: 2026-02-04T18:11:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now. ماذا: Anker's whole-home backup is the power outage solution of my dreams - and it's on sale now. متى: 2026-02-04T18:11:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/84f1331ce2aae508eb21c50e9cd2ebb9fc210e8f/2026/01/12/367a93ee-ffa4-4fd2-ad15-5018f06fbdab/anker-solix-b6000-battery-module.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anker-solix-e10-whole-home-battery-backup-generator-pricing-availability/",
-      "https://www.zdnet.com/article/anker-solix-e10-whole-home-battery-backup-generator/",
-      "https://www.zdnet.com/article/anker-solix-e10-whole-home-battery-backup-generator-integration/"
-    ]
-  },
-  {
-    "id": "f4f6e3a0974b03f3a073a401",
-    "title": "7 apps I use to lock down, encrypt, and store my private files - and most are free",
-    "link": "https://www.zdnet.com/article/apps-lock-down-encrypt-store-private-files-free/",
-    "published": "2026-02-04T17:59:57+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 7 apps I use to lock down, encrypt, and store my private files - and most are free. What: 7 apps I use to lock down, encrypt, and store my private files - and most are free. When: 2026-02-04T17:59:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 7 apps I use to lock down, encrypt, and store my private files - and most are free. ماذا: 7 apps I use to lock down, encrypt, and store my private files - and most are free. متى: 2026-02-04T17:59:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b597ae458b71b7fce9d308e1b6d5988c001efe78/2026/02/04/3f72bc26-4e0b-41e8-9681-03ea50eae6a6/gettyimages-1284779898.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apps-lock-down-encrypt-store-private-files-free/"
-    ]
-  },
-  {
-    "id": "bbb27661decef566712019a9",
-    "title": "Ubuntu 26.04 surprised me - this upcoming release is seriously secure",
-    "link": "https://www.zdnet.com/article/ubuntu-26-04-new-release/",
-    "published": "2026-02-04T17:58:22+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Ubuntu 26.04 surprised me - this upcoming release is seriously secure. What: Ubuntu 26.04 surprised me - this upcoming release is seriously secure. When: 2026-02-04T17:58:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ubuntu 26.04 surprised me - this upcoming release is seriously secure. ماذا: Ubuntu 26.04 surprised me - this upcoming release is seriously secure. متى: 2026-02-04T17:58:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4073db1fdf662d9b3fa96e5f8415914a393cc81e/2026/02/04/6928a2a3-6a71-4f58-9cb7-14e31a7088ba/ubuntu2604.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ubuntu-26-04-new-release/"
-    ]
-  },
-  {
-    "id": "8cdfe7fbf9d22474b2820ee3",
-    "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-    "link": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-    "published": "2026-02-04T17:52:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.. What: Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models. When: 2026-02-04T17:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.. ماذا: Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models. متى: 2026-02-04T17:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZPWiqEqWIj0fKQtxyusGomOmOzx4xkp4zh-TUGEtbgZP0yDEl91QHC-tP-8fiufd0Nue-dUYt1ajpkSkJZfV9_7M03gegp2LZaiIAyDJ1B03MCQVSn77Q8zH8x7UVq3Lir0uMWEvB7rzMEZ5jz1w3rfwTwM59h-_paVKuEdozFOAsjPb7e6aND1KapHV/s1600/llm-scanner.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html"
-    ]
-  },
-  {
-    "id": "aad0c816764d61801dc61d62",
-    "title": "Want Alexa+ today? Everyone in the US can finally try it now - here's how",
-    "link": "https://www.zdnet.com/article/alexa-plus-available-now-try-free-how/",
-    "published": "2026-02-04T17:27:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Want Alexa+ today? Everyone in the US can finally try it now - here's how. What: Want Alexa+ today? Everyone in the US can finally try it now - here's how. When: 2026-02-04T17:27:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Want Alexa+ today? Everyone in the US can finally try it now - here's how. ماذا: Want Alexa+ today? Everyone in the US can finally try it now - here's how. متى: 2026-02-04T17:27:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/20b0e56005a310263e0776b2e0f13fd290827a72/2025/12/10/6ccd5e72-aa65-4492-aca6-3476a03a7d4a/esho-spot.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/alexa-plus-available-now-try-free-how/"
-    ]
-  },
-  {
-    "id": "d1c3cd8032335779959a2f3e",
-    "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-    "link": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-    "published": "2026-02-04T17:24:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files. What: Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.. When: 2026-02-04T17:24:00+00:00. How: \"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files Action: See Arabic action below.",
-    "summary_ar": "من: DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files. ماذا: Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.. متى: 2026-02-04T17:24:00+00:00. كيف: \"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html"
-    ]
-  },
-  {
-    "id": "33c1fe4575a811e29cbeabbe",
-    "title": "Is your AI model secretly poisoned? 3 warning signs",
-    "link": "https://www.zdnet.com/article/ai-model-poisoned-warning-signs/",
-    "published": "2026-02-04T17:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft said it's built a new scanner to help detect compromised models.. What: Is your AI model secretly poisoned? 3 warning signs. When: 2026-02-04T17:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft said it's built a new scanner to help detect compromised models.. ماذا: Is your AI model secretly poisoned? 3 warning signs. متى: 2026-02-04T17:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2631f38151c039a1f028254f1325ced311ca7a8d/2026/02/04/c09e34c5-b1d0-4900-a03a-37d442f8b258/ai-model-poison.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-model-poisoned-warning-signs/"
     ]
   }
 ]
