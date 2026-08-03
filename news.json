@@ -57,12 +57,12 @@
   },
   {
     "id": "e89c8d8a7d065b59283ad184",
-    "title": "Anthropic: AI Attacks Result of Security Gaps, Not Model Issues",
+    "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
     "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
     "published": "2026-08-03T20:31:12+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: Anthropic: AI Attacks Result of Security Gaps, Not Model Issues. What: Anthropic: AI Attacks Result of Security Gaps, Not Model Issues. When: 2026-08-03T20:31:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic: AI Attacks Result of Security Gaps, Not Model Issues. ماذا: Anthropic: AI Attacks Result of Security Gaps, Not Model Issues. متى: 2026-08-03T20:31:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues. What: Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues. When: 2026-08-03T20:31:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues. ماذا: Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues. متى: 2026-08-03T20:31:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Data Breach",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -163723,46 +163723,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/"
-    ]
-  },
-  {
-    "id": "bceb6a2498bfb4862a7feb66",
-    "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-    "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-    "published": "2026-02-04T23:08:04+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Russian-state hackers wasted no time exploiting a critical Microsoft Office vulnerability that allowed them to compromise the devices inside diplomatic, maritime, and transport organizations in more than half a dozen countries, researchers said Wednesday.. What: The threat group, tracked under names including APT28, Fancy Bear, Sednit, Forest Blizzard, and Sofacy, pounced on the vulnerability, tracked as CVE-2026-21509, less than 48 hours after Microsoft released an urgent, unscheduled security update late last month, the researchers said.. When: 2026-02-04T23:08:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russian-state hackers wasted no time exploiting a critical Microsoft Office vulnerability that allowed them to compromise the devices inside diplomatic, maritime, and transport organizations in more than half a dozen countries, researchers said Wednesday.. ماذا: The threat group, tracked under names including APT28, Fancy Bear, Sednit, Forest Blizzard, and Sofacy, pounced on the vulnerability, tracked as CVE-2026-21509, less than 48 hours after Microsoft released an urgent, unscheduled security update late last month, the researchers said.. متى: 2026-02-04T23:08:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-21509"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
-    ]
-  },
-  {
-    "id": "bceb6a2498bfb4862a7feb66",
-    "title": "Russian-state hackers exploit Office vulnerability to infect computers",
-    "link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
-    "published": "2026-02-04T23:08:04+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Russian-state hackers wasted no time exploiting a critical Microsoft Office vulnerability that allowed them to compromise the devices inside diplomatic, maritime, and transport organizations in more than half a dozen countries, researchers said Wednesday.. What: The threat group, tracked under names including APT28, Fancy Bear, Sednit, Forest Blizzard, and Sofacy, pounced on the vulnerability, tracked as CVE-2026-21509, less than 48 hours after Microsoft released an urgent, unscheduled security update late last month, the researchers said.. When: 2026-02-04T23:08:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russian-state hackers wasted no time exploiting a critical Microsoft Office vulnerability that allowed them to compromise the devices inside diplomatic, maritime, and transport organizations in more than half a dozen countries, researchers said Wednesday.. ماذا: The threat group, tracked under names including APT28, Fancy Bear, Sednit, Forest Blizzard, and Sofacy, pounced on the vulnerability, tracked as CVE-2026-21509, less than 48 hours after Microsoft released an urgent, unscheduled security update late last month, the researchers said.. متى: 2026-02-04T23:08:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-21509"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
     ]
   }
 ]
