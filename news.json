@@ -18,6 +18,116 @@
     ]
   },
   {
+    "id": "36947993be226e6fc9908f1c",
+    "title": "Bypassing AI guardrails is so easy a script kiddie can do it",
+    "link": "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973",
+    "published": "2026-08-04T17:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: If you want to bypass AI guardrails designed to stop models from assisting with cyberattacks, you often just have to ask the right way, according to researchers from Cisco Talos.. What: AI-assisted cybercriminals were also frequently spotted decomposing tasks across multiple sessions and files in order to evade model protections that would only engage when a broader malicious activity was detected.. When: 2026-08-04T17:15:00+00:00. How: Talos researchers have been poring over prompt logs and artifacts recovered from threat-actor endpoints running tools such as Claude Code, Codex, Cursor, and Gemini to learn how suspected threat actors are abusing LLMs. Action: See Arabic action below.",
+    "summary_ar": "من: If you want to bypass AI guardrails designed to stop models from assisting with cyberattacks, you often just have to ask the right way, according to researchers from Cisco Talos.. ماذا: AI-assisted cybercriminals were also frequently spotted decomposing tasks across multiple sessions and files in order to evade model protections that would only engage when a broader malicious activity was detected.. متى: 2026-08-04T17:15:00+00:00. كيف: Talos researchers have been poring over prompt logs and artifacts recovered from threat-actor endpoints running tools such as Claude Code, Codex, Cursor, and Gemini to learn how suspected threat actors are abusing LLMs.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5283021.jpg?imageId=5283021&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/bypassing-ai-guardrails-is-so-easy-a-script-kiddie-can-do-it/5282973"
+    ]
+  },
+  {
+    "id": "2153cef9b25cf50fa65d278e",
+    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
+    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
+    "published": "2026-08-04T16:49:39+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Black Hat USA 2026 – Summary of Vendor Announcements (Part 2). What: Black Hat USA 2026 – Summary of Vendor Announcements (Part 2). When: 2026-08-04T16:49:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Black Hat USA 2026 – Summary of Vendor Announcements (Part 2). ماذا: Black Hat USA 2026 – Summary of Vendor Announcements (Part 2). متى: 2026-08-04T16:49:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Black-Hat-News.jpg",
+    "sources": [
+      "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
+      "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
+      "https://www.darkreading.com/events/black-hat-usa"
+    ]
+  },
+  {
+    "id": "3ee530ce99b4aa60997c53ca",
+    "title": "This one time, at Hacker Summer Camp …",
+    "link": "https://www.theregister.com/security/2026/08/04/this-one-time-at-hacker-summer-camp/5282999",
+    "published": "2026-08-04T16:47:27+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Second, and to no one’s surprise: agentic AI – how to govern and secure agents so they don’t go rogue and hack into other organizations’ servers (*cough* OpenAI *cough* Anthropic *cough*); what role, if any, lawmakers should play in regulating models, including open-weight and Chinese LLMs; and how the baddies are using agents for autonomous hacking operations.. What: This one time, at Hacker Summer Camp …. When: 2026-08-04T16:47:27+00:00. How: Second, and to no one’s surprise: agentic AI – how to govern and secure agents so they don’t go rogue and hack into other organizations’ servers (*cough* OpenAI *cough* Anthropic *cough*); what role, if any, lawmakers should play in regulating models, including open-weight and Chinese LLMs; and how the baddies are using agents for autonomous hacking operations. Action: See Arabic action below.",
+    "summary_ar": "من: Second, and to no one’s surprise: agentic AI – how to govern and secure agents so they don’t go rogue and hack into other organizations’ servers (*cough* OpenAI *cough* Anthropic *cough*); what role, if any, lawmakers should play in regulating models, including open-weight and Chinese LLMs; and how the baddies are using agents for autonomous hacking operations.. ماذا: This one time, at Hacker Summer Camp …. متى: 2026-08-04T16:47:27+00:00. كيف: Second, and to no one’s surprise: agentic AI – how to govern and secure agents so they don’t go rogue and hack into other organizations’ servers (*cough* OpenAI *cough* Anthropic *cough*); what role, if any, lawmakers should play in regulating models, including open-weight and Chinese LLMs; and how the baddies are using agents for autonomous hacking operations.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/258071.jpg?imageId=258071&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/this-one-time-at-hacker-summer-camp/5282999"
+    ]
+  },
+  {
+    "id": "4882de9511e530d40f6d0348",
+    "title": "The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale)",
+    "link": "https://www.zdnet.com/article/ninja-slushi-88-deal/",
+    "published": "2026-08-04T16:27:34+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale). What: The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale). When: 2026-08-04T16:27:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale). ماذا: The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale). متى: 2026-08-04T16:27:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/4631a14f166c82c3a27e88ca405d443096b8c322/2026/06/15/9520a50f-a827-4861-bd53-8b0e3a0eb590/img-3537.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/ninja-slushi-88-deal/"
+    ]
+  },
+  {
+    "id": "55f1d2321714a048b017e610",
+    "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
+    "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
+    "published": "2026-08-04T16:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer. What: Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer. When: 2026-08-04T16:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer. ماذا: Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer. متى: 2026-08-04T16:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/"
+    ]
+  },
+  {
+    "id": "d68d0c56bbbc88e0ed78fa07",
+    "title": "Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric",
+    "link": "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/",
+    "published": "2026-08-04T15:45:46+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric. What: Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric. When: 2026-08-04T15:45:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric. ماذا: Sennheiser Momentum 5 vs. Bowers & Wilkins Px7 S3: I tested both, and one wins nearly every metric. متى: 2026-08-04T15:45:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/8e6e2ba12f2f918128d7ac982921a10efba5819f/2026/07/30/5f57cecb-3422-462e-b44b-1b953248f63e/momvsbow.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/sennheiser-momentum-5-vs-bowers-wilkins-px7-s3/"
+    ]
+  },
+  {
     "id": "3ea7c1c886a1fc73116cbebe",
     "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "link": "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894",
@@ -1341,25 +1451,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a29d819bf7ea9c1b07e39250a5b05839d6c619bf/2026/08/03/56c108c3-7f0f-4d26-8847-98dd8393594d/missionhero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/mission-center-makes-it-even-easier-for-you-to-check-battery-and-disk-usage/"
-    ]
-  },
-  {
-    "id": "6c6ba43ca66850e4c0a20eae",
-    "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
-    "published": "2026-08-03T15:50:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Black Hat USA 2026 – Summary of Vendor Announcements (Part 1). What: Black Hat USA 2026 – Summary of Vendor Announcements (Part 1). When: 2026-08-03T15:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Black Hat USA 2026 – Summary of Vendor Announcements (Part 1). ماذا: Black Hat USA 2026 – Summary of Vendor Announcements (Part 1). متى: 2026-08-03T15:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Black-Hat-News.jpg",
-    "sources": [
-      "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
-      "https://www.darkreading.com/events/black-hat-usa"
     ]
   },
   {
@@ -163285,114 +163376,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQbTqDN-_b5elqPIFownbT3lOVYJRL4StGkEByqXJ9cFpW_3FZ112yglt38w0cRmOEt9yjBq7iViP5_KQHiGrtZW2FoquBUb8TYk-EcyohYRSteaPMF2jBiIlShX-YF5D1WFi4gAHeCLh2IBF-FCPetINbYSC5-MMxr5co9Pghjz4V-fL0PaYNxtcX3J7d/s1600/ddos.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html"
-    ]
-  },
-  {
-    "id": "13fcfcea26cb5c15e4050f40",
-    "title": "AI agent adoption and budgets will rise significantly in 2026, despite challenges",
-    "link": "https://www.zdnet.com/article/ai-agent-adoption-will-rise-in-2026/",
-    "published": "2026-02-05T17:03:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: AI agent adoption and budgets will rise significantly in 2026, despite challenges. What: AI agent adoption and budgets will rise significantly in 2026, despite challenges. When: 2026-02-05T17:03:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI agent adoption and budgets will rise significantly in 2026, despite challenges. ماذا: AI agent adoption and budgets will rise significantly in 2026, despite challenges. متى: 2026-02-05T17:03:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4a7fa61bce340075dbb28f13f81b722803cdf611/2026/02/05/d57dde55-a93b-4214-8a93-a8b34d7ab1a8/gettyimages-2232404725.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-agent-adoption-will-rise-in-2026/"
-    ]
-  },
-  {
-    "id": "add7e1ff844644c8dfb88e56",
-    "title": "Italian university La Sapienza goes offline after cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/",
-    "published": "2026-02-05T17:02:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Italian university La Sapienza goes offline after cyberattack. What: Italian university La Sapienza goes offline after cyberattack. When: 2026-02-05T17:02:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Italian university La Sapienza goes offline after cyberattack. ماذا: Italian university La Sapienza goes offline after cyberattack. متى: 2026-02-05T17:02:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/05/sapienza.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/"
-    ]
-  },
-  {
-    "id": "d399742e81cbe490774476db",
-    "title": "Best Buy will sell you a 98-inch Hisense TV at $1,400 off right now - and I'm seriously considering it",
-    "link": "https://www.zdnet.com/article/best-buy-98-inch-hisense-qd5-tv-deal/",
-    "published": "2026-02-05T16:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best Buy will sell you a 98-inch Hisense TV at $1,400 off right now - and I'm seriously considering it. What: Best Buy will sell you a 98-inch Hisense TV at $1,400 off right now - and I'm seriously considering it. When: 2026-02-05T16:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Best Buy will sell you a 98-inch Hisense TV at $1,400 off right now - and I'm seriously considering it. ماذا: Best Buy will sell you a 98-inch Hisense TV at $1,400 off right now - and I'm seriously considering it. متى: 2026-02-05T16:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/29346dcc0f313c6823d885c330ee424c5ead82fc/2025/01/08/f24631e4-54a4-4728-aaab-3c02af2d5b3b/dsc03287.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-buy-98-inch-hisense-qd5-tv-deal/"
-    ]
-  },
-  {
-    "id": "637a158433bb38b8c55d1b22",
-    "title": "My favorite premium travel power bank is worth the cost, here's why",
-    "link": "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/",
-    "published": "2026-02-05T16:34:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite premium travel power bank is worth the cost, here's why. What: My favorite premium travel power bank is worth the cost, here's why. When: 2026-02-05T16:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite premium travel power bank is worth the cost, here's why. ماذا: My favorite premium travel power bank is worth the cost, here's why. متى: 2026-02-05T16:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cd6b96d6060bea1441e734df09641e6b84aeb0fe/2026/02/04/99242561-0f70-44d4-8365-9cde68308826/img-2142.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/"
-    ]
-  },
-  {
-    "id": "5088a49b7132b001edafb6e7",
-    "title": "Betterment breach may expose 1.4M users after social engineering attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/betterment_hack/",
-    "published": "2026-02-05T16:25:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Betterment breach may expose 1.4M users after social engineering attack. What: Betterment breach may expose 1.4M users after social engineering attack. When: 2026-02-05T16:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Betterment breach may expose 1.4M users after social engineering attack. ماذا: Betterment breach may expose 1.4M users after social engineering attack. متى: 2026-02-05T16:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/02/05/hijack_security.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/05/betterment_hack/"
-    ]
-  },
-  {
-    "id": "b9bec96e9b875a6dd6bb926a",
-    "title": "I tried this 25-inch Android tablet for a week - here's how my buying advice changed",
-    "link": "https://www.zdnet.com/article/ktc-25inch-android-tablet-review/",
-    "published": "2026-02-05T15:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried this 25-inch Android tablet for a week - here's how my buying advice changed. What: I tried this 25-inch Android tablet for a week - here's how my buying advice changed. When: 2026-02-05T15:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried this 25-inch Android tablet for a week - here's how my buying advice changed. ماذا: I tried this 25-inch Android tablet for a week - here's how my buying advice changed. متى: 2026-02-05T15:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/db0bccbd4ca7f88200279f63e868e021f30868fe/2025/09/02/0c907395-e111-44f5-a936-de606154405f/xtc1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ktc-25inch-android-tablet-review/"
     ]
   }
 ]
