@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "90dbcee1d2cbfc23141fab7a",
+    "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "published": "2026-08-04T00:17:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29.. What: Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts. When: 2026-08-04T00:17:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29.. ماذا: Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts. متى: 2026-08-04T00:17:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/hotel.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/"
+    ]
+  },
+  {
+    "id": "8b474d4236de0d70311be6af",
+    "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+    "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+    "published": "2026-08-03T23:58:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys.. What: New Pass-ta-key attacks let malware hijack Google-synced passkeys. When: 2026-08-03T23:58:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys.. ماذا: New Pass-ta-key attacks let malware hijack Google-synced passkeys. متى: 2026-08-03T23:58:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/hacker-passkey-bright.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/"
+    ]
+  },
+  {
     "id": "c600019927d3d463af09cf47",
     "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
     "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
@@ -163705,24 +163741,6 @@
     "image": "https://www.zdnet.com/a/img/resize/fb32dbdb917204256931b1257849788a21ee28f8/2025/07/10/be2ce9a6-6a2f-4ff2-bd73-5cca6df4fd40/insignia-f50.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/"
-    ]
-  },
-  {
-    "id": "be33f9ba8a835b286bf30447",
-    "title": "Hackers compromise NGINX servers to redirect user traffic",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/",
-    "published": "2026-02-04T23:26:56+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers compromise NGINX servers to redirect user traffic. What: Hackers compromise NGINX servers to redirect user traffic. When: 2026-02-04T23:26:56+00:00. How: A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers compromise NGINX servers to redirect user traffic. ماذا: Hackers compromise NGINX servers to redirect user traffic. متى: 2026-02-04T23:26:56+00:00. كيف: A threat actor is compromising NGINX servers in a campaign that hijacks user traffic and reroutes it through the attacker's backend infrastructure.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/"
     ]
   }
 ]
