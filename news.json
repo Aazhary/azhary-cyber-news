@@ -1180,6 +1180,24 @@
     ]
   },
   {
+    "id": "3fda2578fd4d419a3fd748bf",
+    "title": "Secure Agent Harness Execution: Preventing Escape",
+    "link": "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/",
+    "published": "2026-08-04T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Secure Agent Harness Execution: Preventing Escape. What: Secure Agent Harness Execution: Preventing Escape. When: 2026-08-04T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Secure Agent Harness Execution: Preventing Escape. ماذا: Secure Agent Harness Execution: Preventing Escape. متى: 2026-08-04T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/secure-agent-harness-execution-preventing-escape/"
+    ]
+  },
+  {
     "id": "accced7c4788bb16a61c374f",
     "title": "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
     "link": "https://www.theregister.com/security/2026/08/04/cloudflare-has-mostly-ditched-third-party-security-tools-suggests-not-trying-that-at-home/5282600",
@@ -163214,60 +163232,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks"
-    ]
-  },
-  {
-    "id": "78aebaae0316c231789e17a4",
-    "title": "Spain's Ministry of Science shuts down systems after breach claims",
-    "link": "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/",
-    "published": "2026-02-05T21:23:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Spain's Ministry of Science shuts down systems after breach claims. What: Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services.. When: 2026-02-05T21:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Spain's Ministry of Science shuts down systems after breach claims. ماذا: Spain's Ministry of Science (Ministerio de Ciencia) announced a partial shutdown of its IT systems, affecting several citizen- and company-facing services.. متى: 2026-02-05T21:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/05/Spain.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/spains-ministry-of-science-shuts-down-systems-after-breach-claims/"
-    ]
-  },
-  {
-    "id": "9d5c93a9dded32da33e93ec1",
-    "title": "Ransomware gang uses ISPsystem VMs for stealthy payload delivery",
-    "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/",
-    "published": "2026-02-05T20:57:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Ransomware gang uses ISPsystem VMs for stealthy payload delivery. What: Ransomware gang uses ISPsystem VMs for stealthy payload delivery. When: 2026-02-05T20:57:11+00:00. How: Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate virtual infrastructure management provider. Action: See Arabic action below.",
-    "summary_ar": "من: Ransomware gang uses ISPsystem VMs for stealthy payload delivery. ماذا: Ransomware gang uses ISPsystem VMs for stealthy payload delivery. متى: 2026-02-05T20:57:11+00:00. كيف: Ransomware operators are hosting and delivering malicious payloads at scale by abusing virtual machines (VMs) provisioned by ISPsystem, a legitimate virtual infrastructure management provider.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/02/12/ransomware-3.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/"
-    ]
-  },
-  {
-    "id": "bbd81ae93b4b0ce6a93ef78b",
-    "title": "OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too",
-    "link": "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/",
-    "published": "2026-02-05T20:54:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Emulating Palantir's use of forward-deployed AI engineers, OpenAI's framework is both an opportunity and a threat for commercial software firms.. What: OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too. When: 2026-02-05T20:54:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Emulating Palantir's use of forward-deployed AI engineers, OpenAI's framework is both an opportunity and a threat for commercial software firms.. ماذا: OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too. متى: 2026-02-05T20:54:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4decbf0bddfa1e50362634de49dca27661b37e7f/2026/02/05/2c377755-90a1-4667-8102-1febbab2be1c/sprawlgettyimages-2175869225.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/"
     ]
   }
 ]
