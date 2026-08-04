@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "bbf146e29fd8d2ea94c509a6",
+    "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
+    "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
+    "published": "2026-08-04T22:18:20+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE).. What: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE).. When: 2026-08-04T22:18:20+00:00. How: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). Action: See Arabic action below.",
+    "summary_ar": "من: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE).. ماذا: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE).. متى: 2026-08-04T22:18:20+00:00. كيف: TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE).. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/04/Omada.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/"
+    ]
+  },
+  {
+    "id": "aeca02cb50c5d2015fc0317d",
+    "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
+    "published": "2026-08-04T21:45:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts.. What: Phishing service spoofs RingCentral to steal Microsoft 365 accounts. When: 2026-08-04T21:45:36+00:00. How: The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. Action: See Arabic action below.",
+    "summary_ar": "من: The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts.. ماذا: Phishing service spoofs RingCentral to steal Microsoft 365 accounts. متى: 2026-08-04T21:45:36+00:00. كيف: The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/13/Phishing.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/"
+    ]
+  },
+  {
     "id": "84d7b818f53867254c56fbcc",
     "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
     "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
@@ -163196,42 +163232,6 @@
     "image": "https://regmedia.co.uk/2026/02/05/lobster_on_rock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/"
-    ]
-  },
-  {
-    "id": "c647448f1258822b12478553",
-    "title": "EnCase Driver Weaponized as EDR Killers Persist",
-    "link": "https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist",
-    "published": "2026-02-05T22:35:20+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: EnCase Driver Weaponized as EDR Killers Persist. What: EnCase Driver Weaponized as EDR Killers Persist. When: 2026-02-05T22:35:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: EnCase Driver Weaponized as EDR Killers Persist. ماذا: EnCase Driver Weaponized as EDR Killers Persist. متى: 2026-02-05T22:35:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist"
-    ]
-  },
-  {
-    "id": "c6d3d3341b5e028fae988e21",
-    "title": "Agentic AI Site 'Moltbook' Is Riddled With Security Risks",
-    "link": "https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks",
-    "published": "2026-02-05T22:03:29+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Agentic AI Site 'Moltbook' Is Riddled With Security Risks. What: Agentic AI Site 'Moltbook' Is Riddled With Security Risks. When: 2026-02-05T22:03:29+00:00. How: Someone used AI to build an entire Web platform, which then did something predictable and preventable: It exposed all its data through a publicly accessible API. Action: See Arabic action below.",
-    "summary_ar": "من: Agentic AI Site 'Moltbook' Is Riddled With Security Risks. ماذا: Agentic AI Site 'Moltbook' Is Riddled With Security Risks. متى: 2026-02-05T22:03:29+00:00. كيف: Someone used AI to build an entire Web platform, which then did something predictable and preventable: It exposed all its data through a publicly accessible API.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks"
     ]
   }
 ]
