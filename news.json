@@ -18,6 +18,387 @@
     ]
   },
   {
+    "id": "3ea7c1c886a1fc73116cbebe",
+    "title": "Feds get 3 days to patch N-able God mode flaw under active exploit",
+    "link": "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894",
+    "published": "2026-08-04T15:38:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The US Cybersecurity and Infrastructure Security Agency (CISA) has added an exploited N-able vulnerability to its Known Exploited Vulnerabilities (KEV) catalog, giving federal agencies three days to patch a flaw that could let attackers reach managed service provider (MSP) customers.. What: The US Cybersecurity and Infrastructure Security Agency (CISA) has added an exploited N-able vulnerability to its Known Exploited Vulnerabilities (KEV) catalog, giving federal agencies three days to patch a flaw that could let attackers reach managed service provider (MSP) customers.. When: 2026-08-04T15:38:00+00:00. How: NHS England's advisory mentioned that its National Cybersecurity Operations Centre assessed that \"further exploitation is likely,\" while Belgium's Centre for Cybersecurity urged fast action due to the \"potential for significant impact.\" CVE-2026-18577 is related to an earlier flaw, CVE-2026-18556, patched in N-central 2026.2. Action: See Arabic action below.",
+    "summary_ar": "من: The US Cybersecurity and Infrastructure Security Agency (CISA) has added an exploited N-able vulnerability to its Known Exploited Vulnerabilities (KEV) catalog, giving federal agencies three days to patch a flaw that could let attackers reach managed service provider (MSP) customers.. ماذا: The US Cybersecurity and Infrastructure Security Agency (CISA) has added an exploited N-able vulnerability to its Known Exploited Vulnerabilities (KEV) catalog, giving federal agencies three days to patch a flaw that could let attackers reach managed service provider (MSP) customers.. متى: 2026-08-04T15:38:00+00:00. كيف: NHS England's advisory mentioned that its National Cybersecurity Operations Centre assessed that \"further exploitation is likely,\" while Belgium's Centre for Cybersecurity urged fast action due to the \"potential for significant impact.\" CVE-2026-18577 is related to an earlier flaw, CVE-2026-18556, patched in N-central 2026.2.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-18556",
+      "CVE-2026-18577"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=8.51&cropw=100&croph=91.49&panox=0&panoy=8.51&panow=100&panoh=91.49&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894"
+    ]
+  },
+  {
+    "id": "6c704edf522f3eaf5fb1980a",
+    "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+    "published": "2026-08-04T15:24:35+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Massive ChainDrop npm supply-chain attack infects hundreds of packages. What: Massive ChainDrop npm supply-chain attack infects hundreds of packages. When: 2026-08-04T15:24:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Massive ChainDrop npm supply-chain attack infects hundreds of packages. ماذا: Massive ChainDrop npm supply-chain attack infects hundreds of packages. متى: 2026-08-04T15:24:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/NPM-worms.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/"
+    ]
+  },
+  {
+    "id": "1a62c7441495158ef5370549",
+    "title": "This Android launcher made my home screen fun again - and I'm using the free version",
+    "link": "https://www.zdnet.com/article/mango-launcher-might-be-the-most-enjoyable-home-screen-on-the-market/",
+    "published": "2026-08-04T15:22:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This Android launcher made my home screen fun again - and I'm using the free version. What: This Android launcher made my home screen fun again - and I'm using the free version. When: 2026-08-04T15:22:00+00:00. How: This Android launcher made my home screen fun again - and I'm using the free version Action: See Arabic action below.",
+    "summary_ar": "من: This Android launcher made my home screen fun again - and I'm using the free version. ماذا: This Android launcher made my home screen fun again - and I'm using the free version. متى: 2026-08-04T15:22:00+00:00. كيف: This Android launcher made my home screen fun again - and I'm using the free version. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/1d33e7989adeffe7ff0bbae8160d3dab5a80ade0/2026/08/04/6c788e9a-17aa-491b-9497-da2ee92cbb1b/mangohero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/mango-launcher-might-be-the-most-enjoyable-home-screen-on-the-market/"
+    ]
+  },
+  {
+    "id": "1d3cfc1de9ec5797f15d0f1e",
+    "title": "I bought cheap smoke detectors and soon regretted it - here's what I recommend now",
+    "link": "https://www.zdnet.com/article/x-sense-xp0h-wn-review/",
+    "published": "2026-08-04T15:20:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I bought cheap smoke detectors and soon regretted it - here's what I recommend now. What: I bought cheap smoke detectors and soon regretted it - here's what I recommend now. When: 2026-08-04T15:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I bought cheap smoke detectors and soon regretted it - here's what I recommend now. ماذا: I bought cheap smoke detectors and soon regretted it - here's what I recommend now. متى: 2026-08-04T15:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/c10492c40f3773f6e540e0a18531bcbdc3b241dd/2026/08/03/28aa00fc-9a36-425a-aff3-735f51e121e4/2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/x-sense-xp0h-wn-review/"
+    ]
+  },
+  {
+    "id": "1e399696f456f4a3722eb98b",
+    "title": "I switched to this SSD enclosure - and immediately saw faster rendering speeds",
+    "link": "https://www.zdnet.com/article/terramaster-d1-ssd-pro-review/",
+    "published": "2026-08-04T15:06:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I switched to this SSD enclosure - and immediately saw faster rendering speeds. What: I switched to this SSD enclosure - and immediately saw faster rendering speeds. When: 2026-08-04T15:06:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I switched to this SSD enclosure - and immediately saw faster rendering speeds. ماذا: I switched to this SSD enclosure - and immediately saw faster rendering speeds. متى: 2026-08-04T15:06:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/1fc1ef756a09cbc093f6e519cc237fe5c384524c/2026/08/03/6627a938-c5d5-4da9-a9b0-39d68a916ce2/d1prohero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/terramaster-d1-ssd-pro-review/"
+    ]
+  },
+  {
+    "id": "653f36182fad7f95935e23ac",
+    "title": "Oligo Raises $60 Million for Runtime Security",
+    "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
+    "published": "2026-08-04T15:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Oligo Raises $60 Million for Runtime Security. What: Oligo Raises $60 Million for Runtime Security. When: 2026-08-04T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Oligo Raises $60 Million for Runtime Security. ماذا: Oligo Raises $60 Million for Runtime Security. متى: 2026-08-04T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-2.jpeg",
+    "sources": [
+      "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/"
+    ]
+  },
+  {
+    "id": "e78310dfcf8bbe80eca6cfab",
+    "title": "3 overlooked CarPlay features you'll wish you tried sooner - and why",
+    "link": "https://www.zdnet.com/article/overlooked-carplay-features-youll-wish-you-tried-sooner-why/",
+    "published": "2026-08-04T14:54:29+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 3 overlooked CarPlay features you'll wish you tried sooner - and why. What: 3 overlooked CarPlay features you'll wish you tried sooner - and why. When: 2026-08-04T14:54:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 3 overlooked CarPlay features you'll wish you tried sooner - and why. ماذا: 3 overlooked CarPlay features you'll wish you tried sooner - and why. متى: 2026-08-04T14:54:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/458e03b956d73137bb3a6687de2e07325d248f21/2026/08/04/e9b22742-2192-43c6-8ffe-b26942e463e7/3-overlooked-carplay-features-youll-wish-you-tried-sooner-and-why.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/overlooked-carplay-features-youll-wish-you-tried-sooner-why/"
+    ]
+  },
+  {
+    "id": "c8b75cfd3c2e35abaf09061a",
+    "title": "AI helps Microsoft bug hunters chase a record $20M payday",
+    "link": "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821",
+    "published": "2026-08-04T14:40:49+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Microsoft announced this week that between July 1, 2025, and June 30, 2026, the company had paid more than $20 million in bug bounties to 562 researchers.. What: Microsoft announced this week that between July 1, 2025, and June 30, 2026, the company had paid more than $20 million in bug bounties to 562 researchers.. When: 2026-08-04T14:40:49+00:00. How: Microsoft expanded its bug bounty program in December 2025, changing reports to what it calls \"In Scope By Default.\" Under the policy, critical vulnerabilities became eligible for rewards if they had a direct and demonstrable impact on Microsoft's online services, even when the faulty code belonged to a third party or an open source project. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft announced this week that between July 1, 2025, and June 30, 2026, the company had paid more than $20 million in bug bounties to 562 researchers.. ماذا: Microsoft announced this week that between July 1, 2025, and June 30, 2026, the company had paid more than $20 million in bug bounties to 562 researchers.. متى: 2026-08-04T14:40:49+00:00. كيف: Microsoft expanded its bug bounty program in December 2025, changing reports to what it calls \"In Scope By Default.\" Under the policy, critical vulnerabilities became eligible for rewards if they had a direct and demonstrable impact on Microsoft's online services, even when the faulty code belonged to a third party or an open source project.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5252203.jpg?imageId=5252203&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/04/ai-helps-microsoft-bug-hunters-chase-a-record-20m-payday/5282821"
+    ]
+  },
+  {
+    "id": "68f9f3ebf57b5ff7a4cca876",
+    "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
+    "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
+    "published": "2026-08-04T14:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout. What: CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout. When: 2026-08-04T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout. ماذا: CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout. متى: 2026-08-04T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/CISO_Russ-Kirby.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/"
+    ]
+  },
+  {
+    "id": "80e709b62ce6f66e74bfb38b",
+    "title": "WhatsApp Scam Hijacks Accounts via Linked Devices Feature",
+    "link": "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/",
+    "published": "2026-08-04T14:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: WhatsApp Scam Hijacks Accounts via Linked Devices Feature. What: WhatsApp Scam Hijacks Accounts via Linked Devices Feature. When: 2026-08-04T14:30:00+00:00. How: WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords WhatsApp Scam Hijacks Accounts via Linked Devices Feature Action: See Arabic action below.",
+    "summary_ar": "من: WhatsApp Scam Hijacks Accounts via Linked Devices Feature. ماذا: WhatsApp Scam Hijacks Accounts via Linked Devices Feature. متى: 2026-08-04T14:30:00+00:00. كيف: WhatsApp scam abused the Linked devices feature to hijack accounts without stealing any passwords WhatsApp Scam Hijacks Accounts via Linked Devices Feature. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/9166d6db-6769-42f9-9a16-d8011b0e15f8.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/whatsapp-voting-scam-linked/"
+    ]
+  },
+  {
+    "id": "854366e62eaa22f2752ecccd",
+    "title": "Home batteries cost thousands. So why would 91% of owners buy one again?",
+    "link": "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/",
+    "published": "2026-08-04T14:20:14+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Home batteries cost thousands. So why would 91% of owners buy one again?. What: Home batteries cost thousands. So why would 91% of owners buy one again?. When: 2026-08-04T14:20:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Home batteries cost thousands. So why would 91% of owners buy one again?. ماذا: Home batteries cost thousands. So why would 91% of owners buy one again?. متى: 2026-08-04T14:20:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/27563929643aa9cd18a8ea45854dc60706015080/2026/08/04/b55580a0-0bf0-4588-8ef0-b7d267cbd1d7/gettyimages-2170393610-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/"
+    ]
+  },
+  {
+    "id": "ab84813ae548f9d506cf1a54",
+    "title": "Got an Intel Mac? 6 ways you can repurpose it after support ends",
+    "link": "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/",
+    "published": "2026-08-04T14:16:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Got an Intel Mac? 6 ways you can repurpose it after support ends. What: Got an Intel Mac? 6 ways you can repurpose it after support ends. When: 2026-08-04T14:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Got an Intel Mac? 6 ways you can repurpose it after support ends. ماذا: Got an Intel Mac? 6 ways you can repurpose it after support ends. متى: 2026-08-04T14:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/2db6e94a6d9f1e3ea9a00fedc6ab73ca01f9efd3/2026/08/04/016d4e94-a424-462a-b771-7eaebbc18f19/imacsad.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/ways-to-repurpose-intel-mac-after-support-ends/"
+    ]
+  },
+  {
+    "id": "48db0a8477babf282ec22565",
+    "title": "Hatch's new clock skips the sleep score and tracks you at night instead - here's how",
+    "link": "https://www.zdnet.com/article/hatch-sleep-clock-skips-the-score-tracks-you-at-night-instead-how/",
+    "published": "2026-08-04T14:10:50+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Hatch's new clock skips the sleep score and tracks you at night instead - here's how. What: Hatch's new clock skips the sleep score and tracks you at night instead - here's how. When: 2026-08-04T14:10:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hatch's new clock skips the sleep score and tracks you at night instead - here's how. ماذا: Hatch's new clock skips the sleep score and tracks you at night instead - here's how. متى: 2026-08-04T14:10:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/bfd3e502a944fe879b90b7b006ff84002b1a1b05/2026/08/03/45227d4c-6643-4f7e-849f-e3b4c64251d1/hatch-sleep-clock-001.png?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/hatch-sleep-clock-skips-the-score-tracks-you-at-night-instead-how/"
+    ]
+  },
+  {
+    "id": "184bbc3aff70026198bf3e22",
+    "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+    "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+    "published": "2026-08-04T14:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Varonis Agent IBAC keeps AI agents within their intended boundaries. What: Varonis Agent IBAC keeps AI agents within their intended boundaries. When: 2026-08-04T14:00:10+00:00. How: Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. Action: See Arabic action below.",
+    "summary_ar": "من: Varonis Agent IBAC keeps AI agents within their intended boundaries. ماذا: Varonis Agent IBAC keeps AI agents within their intended boundaries. متى: 2026-08-04T14:00:10+00:00. كيف: Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/03/ai-conveyor-belt.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/"
+    ]
+  },
+  {
+    "id": "713e893dd3fcab5a3408a345",
+    "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+    "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+    "published": "2026-08-04T13:54:13+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Weaponized Email AI Assistants Could Help Attackers Hijack Accounts. What: Weaponized Email AI Assistants Could Help Attackers Hijack Accounts. When: 2026-08-04T13:54:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Weaponized Email AI Assistants Could Help Attackers Hijack Accounts. ماذا: Weaponized Email AI Assistants Could Help Attackers Hijack Accounts. متى: 2026-08-04T13:54:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/"
+    ]
+  },
+  {
+    "id": "313597dc8193ac31543e0ea8",
+    "title": "Microsoft finally realized Windows 11 is too annoying. Can it be fixed?",
+    "link": "https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/",
+    "published": "2026-08-04T13:43:26+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability.. What: Can it be fixed?. When: 2026-08-04T13:43:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability.. ماذا: Can it be fixed?. متى: 2026-08-04T13:43:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/575aab319a7fbff456147453d4b66c862e61caab/2024/06/19/5990cd1e-80a7-4d0c-b168-0c862b3fb4a1/dsc00986.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/"
+    ]
+  },
+  {
+    "id": "701d5fdc553eb166add31bd5",
+    "title": "Zenity Raises $125 Million in Series C Funding",
+    "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+    "published": "2026-08-04T13:40:42+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Zenity Raises $125 Million in Series C Funding. What: Zenity Raises $125 Million in Series C Funding. When: 2026-08-04T13:40:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Zenity Raises $125 Million in Series C Funding. ماذا: Zenity Raises $125 Million in Series C Funding. متى: 2026-08-04T13:40:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-funding.jpeg",
+    "sources": [
+      "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/"
+    ]
+  },
+  {
+    "id": "454bc27d6954d08d56c28da7",
+    "title": "From Input to Impact: Secure AI Where It Runs",
+    "link": "https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/",
+    "published": "2026-08-04T13:30:47+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: That is how we caught QUIETVAULT – malware that spins up AI agents in “yolo” mode to exfiltrate secrets to GitHub.. What: From Input to Impact: Secure AI Where It Runs. When: 2026-08-04T13:30:47+00:00. How: Here is the through-line that makes this one problem instead of four. Action: See Arabic action below.",
+    "summary_ar": "من: That is how we caught QUIETVAULT – malware that spins up AI agents in “yolo” mode to exfiltrate secrets to GitHub.. ماذا: From Input to Impact: Secure AI Where It Runs. متى: 2026-08-04T13:30:47+00:00. كيف: Here is the through-line that makes this one problem instead of four.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.sentinelone.com/wp-content/uploads/2026/08/Blog_Secure_AI_Where_It_Runs.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/from-input-to-impact-secure-ai-where-it-runs/"
+    ]
+  },
+  {
+    "id": "91a26fc306199b71c7ce1870",
+    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+    "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "published": "2026-08-04T13:30:23+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks. What: Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks. When: 2026-08-04T13:30:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks. ماذا: Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks. متى: 2026-08-04T13:30:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb0f5sNdFs0uLbgh9_rBZ-SaCrUjv3c4mL7OLF7pFPxH5pusnFJyInc_7S-QqgMa0DsEm2fId6v2sWX7hJcaA0eHTHngKBXGOA3ysg7NYz1CyMAgwsrWnJ3FA1HGFkzglgj5pGsXeLWzXjCUhNGi5ecEsqIu2oOzz_koXsQAAC0EV5HkuAJGtAVvWotE/s1600/npmnpm.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html"
+    ]
+  },
+  {
+    "id": "bd42ac6aa3351f3530ea84d4",
+    "title": "Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions",
+    "link": "https://www.infosecurity-magazine.com/news/talos-attackers-split-tasks-evade/",
+    "published": "2026-08-04T13:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions. What: Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions. When: 2026-08-04T13:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions. ماذا: Cybercriminals Bypass AI Safety Controls by Splitting Malicious Tasks Across Multiple Sessions. متى: 2026-08-04T13:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/63a8a047-4fa1-4193-a81f-4791c01a065a.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/talos-attackers-split-tasks-evade/"
+    ]
+  },
+  {
+    "id": "258e1b05b28753dd2fe256a6",
+    "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+    "published": "2026-08-04T13:11:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access. What: Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.. When: 2026-08-04T13:11:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access. ماذا: Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect.. متى: 2026-08-04T13:11:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html"
+    ]
+  },
+  {
     "id": "f9a30f2c11599228072ff531",
     "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software",
     "link": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
@@ -163012,258 +163393,6 @@
     "image": "https://www.zdnet.com/a/img/resize/db0bccbd4ca7f88200279f63e868e021f30868fe/2025/09/02/0c907395-e111-44f5-a936-de606154405f/xtc1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ktc-25inch-android-tablet-review/"
-    ]
-  },
-  {
-    "id": "8c0b0688efda9ee550eac278",
-    "title": "My favorite thing about this rugged tablet isn't its endurance (but this overlooked spec instead)",
-    "link": "https://www.zdnet.com/article/oukitel-rt10-tablet-review/",
-    "published": "2026-02-05T15:40:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite thing about this rugged tablet isn't its endurance (but this overlooked spec instead). What: My favorite thing about this rugged tablet isn't its endurance (but this overlooked spec instead). When: 2026-02-05T15:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite thing about this rugged tablet isn't its endurance (but this overlooked spec instead). ماذا: My favorite thing about this rugged tablet isn't its endurance (but this overlooked spec instead). متى: 2026-02-05T15:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b8b046a0b2ba9e3f2d67f9929efb904950273979/2026/01/27/fcf7a15f-9406-490d-9332-f69ed3aeb060/rt10hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oukitel-rt10-tablet-review/"
-    ]
-  },
-  {
-    "id": "7a7fa8a88f45c410d0e81e50",
-    "title": "This whimsical Bluetooth printer is the weirdest tech gadget I didn't know I needed",
-    "link": "https://www.zdnet.com/article/liene-pixcut-s1-bluetooth-sticker-printer/",
-    "published": "2026-02-05T15:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This whimsical Bluetooth printer is the weirdest tech gadget I didn't know I needed. What: This whimsical Bluetooth printer is the weirdest tech gadget I didn't know I needed. When: 2026-02-05T15:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This whimsical Bluetooth printer is the weirdest tech gadget I didn't know I needed. ماذا: This whimsical Bluetooth printer is the weirdest tech gadget I didn't know I needed. متى: 2026-02-05T15:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4ec765d901c3f236e41cd84152c9474ccca4e124/2026/01/29/457d785e-c662-4ad6-aac1-baeec78ff3fd/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/liene-pixcut-s1-bluetooth-sticker-printer/"
-    ]
-  },
-  {
-    "id": "fb5df36ef09cb81ee83227a7",
-    "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
-    "published": "2026-02-05T15:15:49+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Romanian oil pipeline operator Conpet discloses cyberattack. What: Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday.. When: 2026-02-05T15:15:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Romanian oil pipeline operator Conpet discloses cyberattack. ماذا: Conpet, Romania's national oil pipeline operator, has disclosed that a cyberattack disrupted its business systems and took down the company's website on Tuesday.. متى: 2026-02-05T15:15:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/05/Conpet-red.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/"
-    ]
-  },
-  {
-    "id": "0d9600905b400ee49b950b46",
-    "title": "Substack Discloses Security Incident After Hacker Leaks Data",
-    "link": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
-    "published": "2026-02-05T15:13:55+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Substack Discloses Security Incident After Hacker Leaks Data. What: Substack Discloses Security Incident After Hacker Leaks Data. When: 2026-02-05T15:13:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Substack Discloses Security Incident After Hacker Leaks Data. ماذا: Substack Discloses Security Incident After Hacker Leaks Data. متى: 2026-02-05T15:13:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/"
-    ]
-  },
-  {
-    "id": "f984357bd2457a9a8b064b7c",
-    "title": "This $200 robot vacuum proves budget cleaners are finally worth your money",
-    "link": "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/",
-    "published": "2026-02-05T15:02:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This $200 robot vacuum proves budget cleaners are finally worth your money. What: This $200 robot vacuum proves budget cleaners are finally worth your money. When: 2026-02-05T15:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This $200 robot vacuum proves budget cleaners are finally worth your money. ماذا: This $200 robot vacuum proves budget cleaners are finally worth your money. متى: 2026-02-05T15:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6b246e04fa5acad4a1cef25be3533a452246fd5f/2026/01/28/119452dd-0152-46a0-a241-12a70ec84bc8/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/i3-g10-plus-robot-vacuum-mop-review/"
-    ]
-  },
-  {
-    "id": "7d961316e9f12c9620494aef",
-    "title": "When cloud logs fall short, the network tells the truth",
-    "link": "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/",
-    "published": "2026-02-05T15:00:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: When cloud logs fall short, the network tells the truth. What: When cloud logs fall short, the network tells the truth. When: 2026-02-05T15:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: When cloud logs fall short, the network tells the truth. ماذا: When cloud logs fall short, the network tells the truth. متى: 2026-02-05T15:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/02/corelight-cloud-security.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/"
-    ]
-  },
-  {
-    "id": "771060bae45f0ba0f372e3e3",
-    "title": "Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it",
-    "link": "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/",
-    "published": "2026-02-05T14:36:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it. What: Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it. When: 2026-02-05T14:36:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it. ماذا: Amazon will sell you a 55-inch Fire TV for only $180 right now - know this before you buy it. متى: 2026-02-05T14:36:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fb32dbdb917204256931b1257849788a21ee28f8/2025/07/10/be2ce9a6-6a2f-4ff2-bd73-5cca6df4fd40/insignia-f50.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-insignia-f50-smart-tv-deal/"
-    ]
-  },
-  {
-    "id": "764b742e3cb929730e7bdeb6",
-    "title": "Malicious Commands in GitHub Codespaces Enable RCE",
-    "link": "https://www.infosecurity-magazine.com/news/malicious-commands-in-github/",
-    "published": "2026-02-05T14:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests Malicious Commands in GitHub Codespaces Enable RCE. What: Malicious Commands in GitHub Codespaces Enable RCE. When: 2026-02-05T14:30:00+00:00. How: Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests Malicious Commands in GitHub Codespaces Enable RCE Action: See Arabic action below.",
-    "summary_ar": "من: Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests Malicious Commands in GitHub Codespaces Enable RCE. ماذا: Malicious Commands in GitHub Codespaces Enable RCE. متى: 2026-02-05T14:30:00+00:00. كيف: Flaws in GitHub Codespaces allow RCE via crafted repositories or pull requests Malicious Commands in GitHub Codespaces Enable RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/fff67f8c-c714-4f36-9664-569fa28769a9.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/malicious-commands-in-github/"
-    ]
-  },
-  {
-    "id": "bbc56cf5b58abccbc4569253",
-    "title": "Your ExpressVPN is getting three huge upgrades - including a private AI assistant",
-    "link": "https://www.zdnet.com/article/expressvpn-update-private-ai-assistant/",
-    "published": "2026-02-05T14:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your ExpressVPN is getting three huge upgrades - including a private AI assistant. What: Your ExpressVPN is getting three huge upgrades - including a private AI assistant. When: 2026-02-05T14:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your ExpressVPN is getting three huge upgrades - including a private AI assistant. ماذا: Your ExpressVPN is getting three huge upgrades - including a private AI assistant. متى: 2026-02-05T14:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/917e1ab25f1fcc3a3d3c3fbae651b352fd2eaf5e/2026/02/04/92e1930a-61ff-494b-ba4f-77e6b5001f6b/gettyimages-1437459304.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/expressvpn-update-private-ai-assistant/"
-    ]
-  },
-  {
-    "id": "db8d45ab559d67091094e3ee",
-    "title": "Cyber Success Trifecta: Education, Certifications &amp; Experience",
-    "link": "https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience",
-    "published": "2026-02-05T14:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Cyber Success Trifecta: Education, Certifications &amp; Experience. What: Cyber Success Trifecta: Education, Certifications &amp; Experience. When: 2026-02-05T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cyber Success Trifecta: Education, Certifications &amp; Experience. ماذا: Cyber Success Trifecta: Education, Certifications &amp; Experience. متى: 2026-02-05T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeabfda42baee19a/697d19fff577843f12847110/cybersecurity1800_MediaPhotos_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience"
-    ]
-  },
-  {
-    "id": "bf9eacb74a88ac0dfc89f4f2",
-    "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
-    "link": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
-    "published": "2026-02-05T14:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges.. What: Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign. When: 2026-02-05T14:00:00+00:00. How: Criminals are using AI to clone professional websites at an industrial scale. Action: See Arabic action below.",
-    "summary_ar": "من: A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges.. ماذا: Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign. متى: 2026-02-05T14:00:00+00:00. كيف: Criminals are using AI to clone professional websites at an industrial scale.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/"
-    ]
-  },
-  {
-    "id": "05b377807521377f802a035c",
-    "title": "Firefox users didn't want AI, so Mozilla is giving them a way to kill it",
-    "link": "https://www.zdnet.com/article/firefox-turn-off-ai-features-switch-how-to/",
-    "published": "2026-02-05T13:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Firefox users didn't want AI, so Mozilla is giving them a way to kill it. What: Firefox users didn't want AI, so Mozilla is giving them a way to kill it. When: 2026-02-05T13:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Firefox users didn't want AI, so Mozilla is giving them a way to kill it. ماذا: Firefox users didn't want AI, so Mozilla is giving them a way to kill it. متى: 2026-02-05T13:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c2a943698c53145077c2934c2c42674aef941b5e/2026/02/04/c3060514-d9de-4eef-a19d-242150b90247/mozilla.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/firefox-turn-off-ai-features-switch-how-to/"
-    ]
-  },
-  {
-    "id": "228735cde8479847abc3711b",
-    "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
-    "link": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
-    "published": "2026-02-05T13:41:48+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post VS Code Configs Expose GitHub Codespaces to Attacks appeared first on SecurityWeek .. What: VS Code Configs Expose GitHub Codespaces to Attacks. When: 2026-02-05T13:41:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post VS Code Configs Expose GitHub Codespaces to Attacks appeared first on SecurityWeek .. ماذا: VS Code Configs Expose GitHub Codespaces to Attacks. متى: 2026-02-05T13:41:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/"
-    ]
-  },
-  {
-    "id": "ec7e8b1400d0c7c9c4b8f85a",
-    "title": "Smartphones Now Involved in Nearly Every Police Investigation",
-    "link": "https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/",
-    "published": "2026-02-05T13:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Smartphones Now Involved in Nearly Every Police Investigation. What: Smartphones Now Involved in Nearly Every Police Investigation. When: 2026-02-05T13:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Smartphones Now Involved in Nearly Every Police Investigation. ماذا: Smartphones Now Involved in Nearly Every Police Investigation. متى: 2026-02-05T13:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/cbdc212f-19d4-4ec4-8984-ab8f3d8cde3b.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/smartphones-involved-every-police/"
     ]
   }
 ]
