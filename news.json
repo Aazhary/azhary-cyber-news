@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "1272e5c0a387e02c22be0a0f",
+    "title": "Prompt injection isn't the bug, AI agent frameworks are",
+    "link": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585",
+    "published": "2026-08-05T21:35:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Nearly a dozen flaws, some critical, in major AI agent frameworks that enterprises use to build apps reveal a security failure that extends beyond prompt injection - or any single model - according to Check Point researchers.. What: And across these frameworks, the team found and disclosed 11 vulnerabilities.. When: 2026-08-05T21:35:00+00:00. How: In this case, Check Point’s team found an insecure deserialization issue where, via prompt injection, the agent loaded untrusted checkpoint data, and this could allow attackers to execute malicious code on the system. Action: See Arabic action below.",
+    "summary_ar": "من: Nearly a dozen flaws, some critical, in major AI agent frameworks that enterprises use to build apps reveal a security failure that extends beyond prompt injection - or any single model - according to Check Point researchers.. ماذا: And across these frameworks, the team found and disclosed 11 vulnerabilities.. متى: 2026-08-05T21:35:00+00:00. كيف: In this case, Check Point’s team found an insecure deserialization issue where, via prompt injection, the agent loaded untrusted checkpoint data, and this could allow attackers to execute malicious code on the system.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5283628.jpg?imageId=5283628&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585"
+    ]
+  },
+  {
+    "id": "1baa27119cabf4cfb4cde46a",
+    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+    "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "published": "2026-08-05T20:47:11+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Almost all the “autonomous, unsanctioned” actions came from Anthropic’s Mythos 5 model, with two such actions coming from OpenAI’s GPT-5.6 Sol.. What: Anthropic’s AI used fake identities, malware in rogue attack on GitHub project. When: 2026-08-05T20:47:11+00:00. How: Routine cybersecurity testing of frontier AI models sparked a series of unexpected security incidents—the most serious case arising when Anthropic’s Mythos 5 model attempted to insert malicious code into an open source software application and created fake identities to deceive the human developers maintaining the project. Action: See Arabic action below.",
+    "summary_ar": "من: Almost all the “autonomous, unsanctioned” actions came from Anthropic’s Mythos 5 model, with two such actions coming from OpenAI’s GPT-5.6 Sol.. ماذا: Anthropic’s AI used fake identities, malware in rogue attack on GitHub project. متى: 2026-08-05T20:47:11+00:00. كيف: Routine cybersecurity testing of frontier AI models sparked a series of unexpected security incidents—the most serious case arising when Anthropic’s Mythos 5 model attempted to insert malicious code into an open source software application and created fake identities to deceive the human developers maintaining the project.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
+    ]
+  },
+  {
     "id": "8d128f4085ee251cd8186825",
     "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
@@ -159,6 +195,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9abdeefc15f542ea/6a7355e3a1a11b1319173fcc/AI_agent_concept_Brain_light_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack"
+    ]
+  },
+  {
+    "id": "d619a4ed122c5df998aac1c1",
+    "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+    "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+    "published": "2026-08-05T17:57:15+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Sends Global Crime Syndicates Into Fraud Nirvana. What: AI Sends Global Crime Syndicates Into Fraud Nirvana. When: 2026-08-05T17:57:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Sends Global Crime Syndicates Into Fraud Nirvana. ماذا: AI Sends Global Crime Syndicates Into Fraud Nirvana. متى: 2026-08-05T17:57:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff80d1cde8a0b92d/6a739ad3e9f8251d516262aa/ProKYC-Tara_Seals-Dark_Reading.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana"
     ]
   },
   {
@@ -162741,42 +162795,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
     "sources": [
       "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/"
-    ]
-  },
-  {
-    "id": "1608cdb68eb566a1d0997e0d",
-    "title": "I built an iOS app in just two days thanks to AI - and it was exhilarating",
-    "link": "https://www.zdnet.com/article/xcode-26-3-vibe-coding-app-by-voice/",
-    "published": "2026-02-06T20:30:14+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I built an iOS app in just two days thanks to AI - and it was exhilarating. What: I built an iOS app in just two days thanks to AI - and it was exhilarating. When: 2026-02-06T20:30:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I built an iOS app in just two days thanks to AI - and it was exhilarating. ماذا: I built an iOS app in just two days thanks to AI - and it was exhilarating. متى: 2026-02-06T20:30:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7daf27f41d390b8e0045c4bc1644356898b5691d/2026/02/06/8d23329c-d3f7-4746-ac25-5a2703d0510c/xcode-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/xcode-26-3-vibe-coding-app-by-voice/"
-    ]
-  },
-  {
-    "id": "f8341392fe809da8ab29e7bc",
-    "title": "The HP Omen 17 is a solid gaming laptop - and even better at this price",
-    "link": "https://www.zdnet.com/article/best-buy-hp-omen-17-gaming-laptop-deal/",
-    "published": "2026-02-06T20:26:29+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The HP Omen 17 is a solid gaming laptop - and even better at this price. What: The HP Omen 17 is a solid gaming laptop - and even better at this price. When: 2026-02-06T20:26:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The HP Omen 17 is a solid gaming laptop - and even better at this price. ماذا: The HP Omen 17 is a solid gaming laptop - and even better at this price. متى: 2026-02-06T20:26:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e9f9b1fdc5199ad48c2e0ef1f6aca3f96a319fdf/2025/09/25/85feb815-eaff-4d87-95ee-b9e842356004/hp-omen-16-2025-deal-post-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-buy-hp-omen-17-gaming-laptop-deal/"
     ]
   }
 ]
