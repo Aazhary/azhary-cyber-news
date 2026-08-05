@@ -18,6 +18,135 @@
     ]
   },
   {
+    "id": "d07dcc486cc91e1dc85193c8",
+    "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+    "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+    "published": "2026-08-05T11:35:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 311,000 Impacted by Brown Health Medical Group-MA Data Breach. What: 311,000 Impacted by Brown Health Medical Group-MA Data Breach. When: 2026-08-05T11:35:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 311,000 Impacted by Brown Health Medical Group-MA Data Breach. ماذا: 311,000 Impacted by Brown Health Medical Group-MA Data Breach. متى: 2026-08-05T11:35:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg",
+    "sources": [
+      "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/"
+    ]
+  },
+  {
+    "id": "decfc0f6d367e2e95256242f",
+    "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
+    "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
+    "published": "2026-08-05T11:11:29+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data. What: Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data. When: 2026-08-05T11:11:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data. ماذا: Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data. متى: 2026-08-05T11:11:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-model-frontier.webp",
+    "sources": [
+      "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/"
+    ]
+  },
+  {
+    "id": "4080fafde5d3039d469214ae",
+    "title": "UK charities count the cost of Beacon CRM cyberattack",
+    "link": "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305",
+    "published": "2026-08-05T11:04:52+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: UK charities count the cost of Beacon CRM cyberattack. What: \"It is highly unlikely we will be able to ascertain any more granular detail regarding exactly what data this was and to whom it relates so out of an abundance of caution, you may want to assume that all data that you store in Beacon, including attachment files, has been downloaded.\" Beacon also warned that although customer data is encrypted, \"it is possible that the unauthorized third party responsible for this incident was able to decrypt it.\" Customers should therefore assume the copied information was readable.. When: 2026-08-05T11:04:52+00:00. How: Charities hit Because Beacon CRM is a product specifically engineered for the charity sector, the bulk of those confirmed to be affected are UK charities. Action: See Arabic action below.",
+    "summary_ar": "من: UK charities count the cost of Beacon CRM cyberattack. ماذا: \"It is highly unlikely we will be able to ascertain any more granular detail regarding exactly what data this was and to whom it relates so out of an abundance of caution, you may want to assume that all data that you store in Beacon, including attachment files, has been downloaded.\" Beacon also warned that although customer data is encrypted, \"it is possible that the unauthorized third party responsible for this incident was able to decrypt it.\" Customers should therefore assume the copied information was readable.. متى: 2026-08-05T11:04:52+00:00. كيف: Charities hit Because Beacon CRM is a product specifically engineered for the charity sector, the bulk of those confirmed to be affected are UK charities.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5271025.jpg?imageId=5271025&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305"
+    ]
+  },
+  {
+    "id": "6d808752407d5b392c4ba145",
+    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+    "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "published": "2026-08-05T11:04:23+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup. What: The flaw is fixed in Gitea 1.27.1.. When: 2026-08-05T11:04:23+00:00. How: An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup. ماذا: The flaw is fixed in Gitea 1.27.1.. متى: 2026-08-05T11:04:23+00:00. كيف: An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59774"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html"
+    ]
+  },
+  {
+    "id": "3c3ece2499ac898e842b275b",
+    "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+    "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+    "published": "2026-08-05T10:35:29+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.. What: Leaked n8n API Tokens Exposed Live Instances to Credential Theft. When: 2026-08-05T10:35:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.. ماذا: Leaked n8n API Tokens Exposed Live Instances to Credential Theft. متى: 2026-08-05T10:35:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif",
+    "sources": [
+      "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html"
+    ]
+  },
+  {
+    "id": "aea693a71cf4ea2ae1a4bab4",
+    "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+    "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+    "published": "2026-08-05T10:33:41+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations appeared first on SecurityWeek .. What: AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations. When: 2026-08-05T10:33:41+00:00. How: In one instance, an unsanctioned model attempted to inject malicious code into an open source repository. Action: See Arabic action below.",
+    "summary_ar": "من: The post AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations appeared first on SecurityWeek .. ماذا: AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations. متى: 2026-08-05T10:33:41+00:00. كيف: In one instance, an unsanctioned model attempted to inject malicious code into an open source repository.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/"
+    ]
+  },
+  {
+    "id": "737453f15592ecd39b3e2f4c",
+    "title": "The best 98-inch TVs of 2026: Expert tested",
+    "link": "https://www.zdnet.com/article/best-98-inch-tv/",
+    "published": "2026-08-05T10:00:49+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The best 98-inch TVs of 2026: Expert tested. What: The best 98-inch TVs of 2026: Expert tested. When: 2026-08-05T10:00:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The best 98-inch TVs of 2026: Expert tested. ماذا: The best 98-inch TVs of 2026: Expert tested. متى: 2026-08-05T10:00:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/6276516de54a517a7d4b429317e7995e707a12c3/2024/12/09/d22fe129-b8f5-4506-a7ff-e0df91904acf/samsung-98inch-neoqled-qn90d-12.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/best-98-inch-tv/",
+      "https://www.zdnet.com/article/best-hisense-tv/"
+    ]
+  },
+  {
     "id": "f83f5edb8287fbbde0505adb",
     "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
     "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
@@ -33,6 +162,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg",
     "sources": [
       "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "e0afa93f491ddcfbba24eec6",
+    "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+    "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+    "published": "2026-08-05T09:23:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data. What: Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data. When: 2026-08-05T09:23:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data. ماذا: Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data. متى: 2026-08-05T09:23:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html"
     ]
   },
   {
@@ -505,7 +652,7 @@
     ],
     "cvss": [],
     "impacted": [],
-    "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=8.51&cropw=100&croph=91.49&panox=0&panoy=8.51&panow=100&panoh=91.49&width=1200&height=683",
+    "image": "https://image.theregister.com/234266.jpg?imageId=234266&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894"
     ]
@@ -1248,24 +1395,6 @@
       "https://www.zdnet.com/article/best-50-inch-tv/",
       "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
       "https://www.zdnet.com/article/best-website-builder-for-seo/"
-    ]
-  },
-  {
-    "id": "f9d78feff640228a3585dc89",
-    "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
-    "link": "https://www.zdnet.com/article/best-hisense-tv/",
-    "published": "2026-08-04T10:00:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more. What: The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more. When: 2026-08-04T10:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more. ماذا: The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more. متى: 2026-08-04T10:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4d4bc922aaaca2dab4d96a77f9615d9cbdfa5451/2025/03/24/55f33369-a04b-4004-807e-5a82b9f6ea1d/dsc05083-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-hisense-tv/"
     ]
   },
   {
@@ -162943,61 +163072,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8ff136a6d5c6e04a8ededca41f30f7e97fbdc552/2025/11/13/49f3caca-801d-4a38-9afd-193d4800ff67/comparison-2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/samsung-galaxy-s25-ultra-vs-oneplus-15/"
-    ]
-  },
-  {
-    "id": "589301a1f4a5d5fdc2955a61",
-    "title": "The permissions behind your AI Chrome extensions deserve a closer look - they may be spying on you",
-    "link": "https://www.zdnet.com/article/ai-chrome-extensions-data-harvesting-privacy/",
-    "published": "2026-02-06T11:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The permissions behind your AI Chrome extensions deserve a closer look - they may be spying on you. What: The permissions behind your AI Chrome extensions deserve a closer look - they may be spying on you. When: 2026-02-06T11:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The permissions behind your AI Chrome extensions deserve a closer look - they may be spying on you. ماذا: The permissions behind your AI Chrome extensions deserve a closer look - they may be spying on you. متى: 2026-02-06T11:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0196de5ca533d1ddec065f241fbdfab4193d4b08/2026/02/05/5fe32f11-e633-43e5-9700-34e71ce38da2/vortexeye-gettyimages-1429569687.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-chrome-extensions-data-harvesting-privacy/"
-    ]
-  },
-  {
-    "id": "514949778cea5a297a3915ec",
-    "title": "This digital calendar is helping to organize my life - and it's 10% off for Valentine's Day",
-    "link": "https://www.zdnet.com/article/cozyla-smart-calendar-deal/",
-    "published": "2026-02-06T11:00:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This digital calendar is helping to organize my life - and it's 10% off for Valentine's Day. What: This digital calendar is helping to organize my life - and it's 10% off for Valentine's Day. When: 2026-02-06T11:00:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This digital calendar is helping to organize my life - and it's 10% off for Valentine's Day. ماذا: This digital calendar is helping to organize my life - and it's 10% off for Valentine's Day. متى: 2026-02-06T11:00:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3345cef9e0f38c344d789b5680177acb4c7943c9/2025/12/01/ee50f1de-97f7-4bd7-b19c-e506bb9bb92b/img-9009.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cozyla-smart-calendar-deal/",
-      "https://www.zdnet.com/article/this-digital-calendar-is-helping-to-organize-my-life-and-its-up-to-135-off-for-cyber-monday/"
-    ]
-  },
-  {
-    "id": "2b3bc6dfb89f99f7a6883e3d",
-    "title": "How Samsung Knox Helps Stop Your Network Security Breach",
-    "link": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
-    "published": "2026-02-06T10:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: How Samsung Knox Helps Stop Your Network Security Breach. What: How Samsung Knox Helps Stop Your Network Security Breach. When: 2026-02-06T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How Samsung Knox Helps Stop Your Network Security Breach. ماذا: How Samsung Knox Helps Stop Your Network Security Breach. متى: 2026-02-06T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhL8qHtWkV3N41iX2FEaxWOHlc1dDTKD_PdaF7KgoI1B8iHz6xEv3UAE-hzQPMmBmh0X2abLf-ZtqrZ8WrqoIqCoakc9nEH4wF8eFyyod1i1mVqc01cK_ChittnUxffDrk91tGNYA9f61mZ1f15fp-n3ZIR8xiAnQoYrOwTyhlaOlUCQrowPhOJn1evYFJ/s1600/samsung.png",
-    "sources": [
-      "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html"
     ]
   }
 ]
