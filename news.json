@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "a09b8a0550b0e7d68c92d355",
+    "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+    "link": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "published": "2026-08-05T22:35:20+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Thousands of servers can be backdoored by exploiting buggy motherboard controllers. What: A “pervasive, under-monitored, under-patched parallel attack surface” Researchers have warned since at least 2013 that BMCs present a golden opportunity for hackers looking for ways to gain deep and persistent access to datacenters.. When: 2026-08-05T22:35:20+00:00. How: The microcontrollers, typically abbreviated as BMCs, run with their own operating system firmware, network stack, and IP address. Action: See Arabic action below.",
+    "summary_ar": "من: Thousands of servers can be backdoored by exploiting buggy motherboard controllers. ماذا: A “pervasive, under-monitored, under-patched parallel attack surface” Researchers have warned since at least 2013 that BMCs present a golden opportunity for hackers looking for ways to gain deep and persistent access to datacenters.. متى: 2026-08-05T22:35:20+00:00. كيف: The microcontrollers, typically abbreviated as BMCs, run with their own operating system firmware, network stack, and IP address.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
+    ]
+  },
+  {
+    "id": "821a45807852de0d32cf9e99",
+    "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+    "published": "2026-08-05T21:53:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Canadian pleads guilty to Snowflake cloud data-theft attacks. What: Canadian pleads guilty to Snowflake cloud data-theft attacks. When: 2026-08-05T21:53:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Canadian pleads guilty to Snowflake cloud data-theft attacks. ماذا: Canadian pleads guilty to Snowflake cloud data-theft attacks. متى: 2026-08-05T21:53:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/04/01/Justice.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/"
+    ]
+  },
+  {
     "id": "1272e5c0a387e02c22be0a0f",
     "title": "Prompt injection isn't the bug, AI agent frameworks are",
     "link": "https://www.theregister.com/security/2026/08/05/prompt-injection-isnt-the-bug-ai-agent-frameworks-are/5283585",
@@ -210,7 +246,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff80d1cde8a0b92d/6a739ad3e9f8251d516262aa/ProKYC-Tara_Seals-Dark_Reading.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d5bbb76a9a7ed2b/6a73baa39adea75f0c6c4181/fraud-RapidEye-Getty-155132055.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana"
     ]
@@ -162777,24 +162813,6 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/02/13_Cloud_cybersecurity_research_Overview_1920x900.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/tracking-threat-groups-through-cloud-logging/"
-    ]
-  },
-  {
-    "id": "7ba6c8aa0ecf4cd8f61118ee",
-    "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-    "link": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/",
-    "published": "2026-02-06T22:16:51+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Malicious packages for dYdX cryptocurrency exchange empties user wallets. What: Malicious packages for dYdX cryptocurrency exchange empties user wallets. When: 2026-02-06T22:16:51+00:00. How: Open source packages published on the npm and PyPI repositories were laced with code that stole wallet credentials from dYdX developers and backend systems and, in some cases, backdoored devices, researchers said. Action: See Arabic action below.",
-    "summary_ar": "من: Malicious packages for dYdX cryptocurrency exchange empties user wallets. ماذا: Malicious packages for dYdX cryptocurrency exchange empties user wallets. متى: 2026-02-06T22:16:51+00:00. كيف: Open source packages published on the npm and PyPI repositories were laced with code that stole wallet credentials from dYdX developers and backend systems and, in some cases, backdoored devices, researchers said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/cryptocurrency-theft-heist-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/"
     ]
   }
 ]
