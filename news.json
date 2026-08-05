@@ -18,6 +18,80 @@
     ]
   },
   {
+    "id": "9d6f898762d6a33cfc512c6a",
+    "title": "IBM's agentic AI platform is under active attack - patch now",
+    "link": "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535",
+    "published": "2026-08-05T16:44:39+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added CVE-2026-9198 to its Known Exploited Vulnerabilities catalog after identifying evidence of active exploitation and urged organizations to apply the vendor's mitigation guidance as soon as possible.. What: The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added CVE-2026-9198 to its Known Exploited Vulnerabilities catalog after identifying evidence of active exploitation and urged organizations to apply the vendor's mitigation guidance as soon as possible.. When: 2026-08-05T16:44:39+00:00. How: IBM says the flaw affects Langflow OSS versions 1.0.0 through 1.10.0 and recommends upgrading to version 1.10.1 or later; at the time of writing, the most recent version is 1.11.2. Action: See Arabic action below.",
+    "summary_ar": "من: The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added CVE-2026-9198 to its Known Exploited Vulnerabilities catalog after identifying evidence of active exploitation and urged organizations to apply the vendor's mitigation guidance as soon as possible.. ماذا: The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added CVE-2026-9198 to its Known Exploited Vulnerabilities catalog after identifying evidence of active exploitation and urged organizations to apply the vendor's mitigation guidance as soon as possible.. متى: 2026-08-05T16:44:39+00:00. كيف: IBM says the flaw affects Langflow OSS versions 1.0.0 through 1.10.0 and recommends upgrading to version 1.10.1 or later; at the time of writing, the most recent version is 1.11.2.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-9198"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5283555.jpg?imageId=5283555&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/05/ibms-agentic-ai-platform-is-under-active-attack-patch-now/5283535"
+    ]
+  },
+  {
+    "id": "00609bc51da9127da616165b",
+    "title": "Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways",
+    "link": "https://www.zdnet.com/article/how-to-run-affinity-free-photoshop-alternative-on-linux/",
+    "published": "2026-08-05T15:52:12+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways. What: Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways. When: 2026-08-05T15:52:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways. ماذا: Want a free Photoshop alternative on Linux? How to get Affinity today: 2 ways. متى: 2026-08-05T15:52:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/13fe202de48ec8f32491c1207cfaabb1ace3a2c8/2026/08/05/915aae9f-a40f-4b14-bef1-cc6a7937989a/affinityhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/how-to-run-affinity-free-photoshop-alternative-on-linux/"
+    ]
+  },
+  {
+    "id": "d72619e3dc9d4078e16c2ac0",
+    "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+    "published": "2026-08-05T15:51:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws. What: Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited.. When: 2026-08-05T15:51:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws. ماذا: Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited.. متى: 2026-08-05T15:51:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/"
+    ]
+  },
+  {
+    "id": "31bfabb3c49655b9f1ec4a62",
+    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+    "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+    "published": "2026-08-05T15:36:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt. What: Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt. When: 2026-08-05T15:36:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt. ماذا: Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt. متى: 2026-08-05T15:36:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html"
+    ]
+  },
+  {
     "id": "fede098150b1c47802c1cd8d",
     "title": "Fake Open VSX Extensions Harvest Private Repo and CI Data",
     "link": "https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/",
@@ -33,6 +107,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/f4a29ad1-4fd0-486b-951c-331808c46a96.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/open-vsx-evil-twin-extensions-git/"
+    ]
+  },
+  {
+    "id": "5f687d839cd05a1a89799cd5",
+    "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+    "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+    "published": "2026-08-05T15:14:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer.. What: Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports. When: 2026-08-05T15:14:05+00:00. How: Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. Action: See Arabic action below.",
+    "summary_ar": "من: Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer.. ماذا: Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports. متى: 2026-08-05T15:14:05+00:00. كيف: Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html"
     ]
   },
   {
@@ -144,6 +236,24 @@
     "image": "https://www.zdnet.com/a/img/resize/c0abab973e9d2166b5a86bd21229637771091114/2026/04/24/000b3632-ad73-4135-92a1-4a712897b568/img-6239.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/charging-phone-wrong-common-myths-debunked/"
+    ]
+  },
+  {
+    "id": "760ccf61f3a47c6cf551f0b9",
+    "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+    "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+    "published": "2026-08-05T13:41:27+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain. What: Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain. When: 2026-08-05T13:41:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain. ماذا: Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain. متى: 2026-08-05T13:41:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html"
     ]
   },
   {
@@ -162579,335 +162689,6 @@
     "image": "https://www.zdnet.com/a/img/resize/74a50f3aa5313db97dc1d84f5cb8a43b73019faa/2025/09/30/947abc5a-938a-4f7a-b2fc-e9f88f2e9ead/dsc07841.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/alexa-plus-available-now-try-free-how/"
-    ]
-  },
-  {
-    "id": "82e80ad0b99b693a8c3764b0",
-    "title": "Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro",
-    "link": "https://www.zdnet.com/article/hp-elitebook-8-g1i-review/",
-    "published": "2026-02-06T17:09:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro. What: Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro. When: 2026-02-06T17:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro. ماذا: Finally, a 16-inch Windows laptop that's a worthy alternative to my MacBook Pro. متى: 2026-02-06T17:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/08a458997f3839517ed27901f70a76e5dd42a29c/2025/09/26/cba05a9b-948d-4d1c-8ffd-f60bd0498d2c/img-3872.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hp-elitebook-8-g1i-review/",
-      "https://www.zdnet.com/article/geekom-x16-pro-review/",
-      "https://www.zdnet.com/article/finally-a-16-inch-windows-laptop-thats-a-worthy-alternative-to-my-macbook-pro/"
-    ]
-  },
-  {
-    "id": "b877e70c9811dd1772fb9665",
-    "title": "Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices",
-    "link": "https://www.infosecurity-magazine.com/news/china-malware-kit-targets-routers/",
-    "published": "2026-02-06T17:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices. What: Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices. When: 2026-02-06T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices. ماذا: Chinese-Made Malware Kit Targets Chinese-Based Routers and Edge Devices. متى: 2026-02-06T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f9975536-657a-4f3b-9706-b59f0c06aff9.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/china-malware-kit-targets-routers/"
-    ]
-  },
-  {
-    "id": "cbfb94d2d3b90371942abdb3",
-    "title": "Flickr emails users about data breach, pins it on third party",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/",
-    "published": "2026-02-06T16:56:29+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Flickr emails users about data breach, pins it on third party. What: Flickr emails users about data breach, pins it on third party. When: 2026-02-06T16:56:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Flickr emails users about data breach, pins it on third party. ماذا: Flickr emails users about data breach, pins it on third party. متى: 2026-02-06T16:56:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2019/12/20/shutterstock_flickr.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/"
-    ]
-  },
-  {
-    "id": "79436872dd9af0a92c70571d",
-    "title": "Microsoft said my PC was 'too old' to run Windows 11 - how I upgraded in 5 minutes anyway",
-    "link": "https://www.zdnet.com/article/how-to-upgrade-windows-11-pc-no-longer-supported/",
-    "published": "2026-02-06T16:51:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft said my PC was 'too old' to run Windows 11 - how I upgraded in 5 minutes anyway. What: Microsoft said my PC was 'too old' to run Windows 11 - how I upgraded in 5 minutes anyway. When: 2026-02-06T16:51:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft said my PC was 'too old' to run Windows 11 - how I upgraded in 5 minutes anyway. ماذا: Microsoft said my PC was 'too old' to run Windows 11 - how I upgraded in 5 minutes anyway. متى: 2026-02-06T16:51:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/95402e63b86a97edb9e03d05d554e9b1f1c297d0/2025/09/18/b8534716-edef-4134-a950-3f17e56617c2/acer-aspire-16-ai-image-6.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-upgrade-windows-11-pc-no-longer-supported/",
-      "https://www.zdnet.com/article/microsoft-said-my-pc-was-too-old-to-run-windows-11-how-i-upgraded-in-5-minutes-anyway/",
-      "https://www.zdnet.com/article/microsoft-said-my-pc-couldnt-run-windows-11-but-i-upgraded-in-5-minutes-anyway-heres-how/"
-    ]
-  },
-  {
-    "id": "dd91da4e3ca9c7e869407186",
-    "title": "Stop using Google Docs like a beginner: 10+ useful tricks to boost your productivity",
-    "link": "https://www.zdnet.com/article/best-google-docs-features/",
-    "published": "2026-02-06T16:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: From editable PDFs to instant translations, Google Docs is stacked with features that most users overlook.. What: Stop using Google Docs like a beginner: 10+ useful tricks to boost your productivity. When: 2026-02-06T16:50:00+00:00. How: Stop using Google Docs like a beginner: 10+ useful tricks to boost your productivity Action: See Arabic action below.",
-    "summary_ar": "من: From editable PDFs to instant translations, Google Docs is stacked with features that most users overlook.. ماذا: Stop using Google Docs like a beginner: 10+ useful tricks to boost your productivity. متى: 2026-02-06T16:50:00+00:00. كيف: Stop using Google Docs like a beginner: 10+ useful tricks to boost your productivity. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/575aab319a7fbff456147453d4b66c862e61caab/2024/06/19/5990cd1e-80a7-4d0c-b168-0c862b3fb4a1/dsc00986.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-google-docs-features/"
-    ]
-  },
-  {
-    "id": "c6994f3c26c20c3aac1fa668",
-    "title": "I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you",
-    "link": "https://www.zdnet.com/article/sandisk-extremefit-usb-review/",
-    "published": "2026-02-06T16:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you. What: I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you. When: 2026-02-06T16:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you. ماذا: I tested the world's smallest 1TB SSD drive, and it's biggest downside shouldn't surprise you. متى: 2026-02-06T16:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fcf2a032213aff39b4bdc304fd6863b8b8e08854/2025/11/19/3b67269c-4b03-401a-8850-6a3befec49f9/img-4519.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sandisk-extremefit-usb-review/"
-    ]
-  },
-  {
-    "id": "97be7ff5ffedaf829a1f646c",
-    "title": "Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming",
-    "link": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-hands-on/",
-    "published": "2026-02-06T16:40:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming. What: Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming. When: 2026-02-06T16:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming. ماذا: Lenovo showed me its new ThinkPad X1 Carbon, and I didn't see this year's upgrades coming. متى: 2026-02-06T16:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/60acf9236060762dd100216c2014640dc19f2d3c/2026/01/06/c95bc56b-9e9d-4710-ae68-57c6f320fa8b/dsc04676.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-hands-on/"
-    ]
-  },
-  {
-    "id": "17f513086d7b9487872ff3b0",
-    "title": "DDoS deluge: Brit biz battered as botnet blitzes break records",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/uk_climbs_up_ddos_hit/",
-    "published": "2026-02-06T16:36:49+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: UK leaps to sixth in global flood charts as mega-swarm unleashes 31.4 Tbps Yuletide pummeling Cloudflare says DDoS crews ended 2025 by pushing traffic floods to new extremes, while Britain made an unwelcome leap of 36 places to become the world's sixth-most targeted location.… DDoS deluge: Brit biz battered as botnet blitzes break records. What: DDoS deluge: Brit biz battered as botnet blitzes break records. When: 2026-02-06T16:36:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UK leaps to sixth in global flood charts as mega-swarm unleashes 31.4 Tbps Yuletide pummeling Cloudflare says DDoS crews ended 2025 by pushing traffic floods to new extremes, while Britain made an unwelcome leap of 36 places to become the world's sixth-most targeted location.… DDoS deluge: Brit biz battered as botnet blitzes break records. ماذا: DDoS deluge: Brit biz battered as botnet blitzes break records. متى: 2026-02-06T16:36:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/09/11/ddos.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/06/uk_climbs_up_ddos_hit/"
-    ]
-  },
-  {
-    "id": "88e450bf90a1c87640323443",
-    "title": "'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption",
-    "link": "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption",
-    "published": "2026-02-06T16:34:41+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption. What: 'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption. When: 2026-02-06T16:34:41+00:00. How: The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption (E2E) by default across their services, as privacy concerns mount amid increased AI use. Action: See Arabic action below.",
-    "summary_ar": "من: 'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption. ماذا: 'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption. متى: 2026-02-06T16:34:41+00:00. كيف: The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption (E2E) by default across their services, as privacy concerns mount amid increased AI use.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption"
-    ]
-  },
-  {
-    "id": "4294f774196606e0df6af5f8",
-    "title": "Shai-hulud: The Hidden Costs of Supply Chain Attacks",
-    "link": "https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks",
-    "published": "2026-02-06T16:25:14+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Shai-hulud: The Hidden Costs of Supply Chain Attacks. What: Shai-hulud: The Hidden Costs of Supply Chain Attacks. When: 2026-02-06T16:25:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Shai-hulud: The Hidden Costs of Supply Chain Attacks. ماذا: Shai-hulud: The Hidden Costs of Supply Chain Attacks. متى: 2026-02-06T16:25:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks"
-    ]
-  },
-  {
-    "id": "ad2e421d2a8e20af36a0f7c1",
-    "title": "Substack Confirms Data Breach, \"Limited User Data\" Compromised",
-    "link": "https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/",
-    "published": "2026-02-06T16:22:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Substack Confirms Data Breach, \"Limited User Data\" Compromised. What: Substack Confirms Data Breach, \"Limited User Data\" Compromised. When: 2026-02-06T16:22:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Substack Confirms Data Breach, \"Limited User Data\" Compromised. ماذا: Substack Confirms Data Breach, \"Limited User Data\" Compromised. متى: 2026-02-06T16:22:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/dc52bbe7-f20f-4fc3-86f2-1f956a5ec30c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/substack-confirms-data-breach/"
-    ]
-  },
-  {
-    "id": "17d8709e300d03f593833ac1",
-    "title": "I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors",
-    "link": "https://www.zdnet.com/article/raspberry-pi-flash-drive-review/",
-    "published": "2026-02-06T16:20:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors. What: I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors. When: 2026-02-06T16:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors. ماذا: I tested Raspberry Pi's new USB flash drive, and it has one key advantage over competitors. متى: 2026-02-06T16:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3d35fc1ed2b7c6e3f886b7508ae36df918457d14/2026/02/03/f884152c-fc48-4e3e-a3d7-775a1c83067c/img-2128.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/raspberry-pi-flash-drive-review/"
-    ]
-  },
-  {
-    "id": "ea7a09e27be4bde0bf1644d3",
-    "title": "10 quirky cables and connectors everyone should be using (and they're mostly cheap)",
-    "link": "https://www.zdnet.com/article/10-useful-cables-and-connectors/",
-    "published": "2026-02-06T16:11:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 10 quirky cables and connectors everyone should be using (and they're mostly cheap). What: 10 quirky cables and connectors everyone should be using (and they're mostly cheap). When: 2026-02-06T16:11:00+00:00. How: 10 quirky cables and connectors everyone should be using (and they're mostly cheap) Action: See Arabic action below.",
-    "summary_ar": "من: 10 quirky cables and connectors everyone should be using (and they're mostly cheap). ماذا: 10 quirky cables and connectors everyone should be using (and they're mostly cheap). متى: 2026-02-06T16:11:00+00:00. كيف: 10 quirky cables and connectors everyone should be using (and they're mostly cheap). الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b6953ef91c17d9753586d446adc0461eea5c807f/2026/01/05/dbaffeac-6b9f-430e-a47b-0170f5943452/img-1728.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/10-useful-cables-and-connectors/"
-    ]
-  },
-  {
-    "id": "b9bec96e9b875a6dd6bb926a",
-    "title": "I lived with this oversized 25-inch Android tablet for a week - here's what surprised me most",
-    "link": "https://www.zdnet.com/article/ktc-25inch-android-tablet-review/",
-    "published": "2026-02-06T16:11:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I lived with this oversized 25-inch Android tablet for a week - here's what surprised me most. What: I lived with this oversized 25-inch Android tablet for a week - here's what surprised me most. When: 2026-02-06T16:11:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I lived with this oversized 25-inch Android tablet for a week - here's what surprised me most. ماذا: I lived with this oversized 25-inch Android tablet for a week - here's what surprised me most. متى: 2026-02-06T16:11:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/db0bccbd4ca7f88200279f63e868e021f30868fe/2025/09/02/0c907395-e111-44f5-a936-de606154405f/xtc1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ktc-25inch-android-tablet-review/",
-      "https://www.zdnet.com/article/i-lived-with-this-oversized-25-inch-android-tablet-for-a-week-heres-what-surprised-me-most/"
-    ]
-  },
-  {
-    "id": "8c0b0688efda9ee550eac278",
-    "title": "This rugged Android tablet I tested was off to a rough start - then I discovered its real charm",
-    "link": "https://www.zdnet.com/article/oukitel-rt10-tablet-review/",
-    "published": "2026-02-06T15:55:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This rugged Android tablet I tested was off to a rough start - then I discovered its real charm. What: This rugged Android tablet I tested was off to a rough start - then I discovered its real charm. When: 2026-02-06T15:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This rugged Android tablet I tested was off to a rough start - then I discovered its real charm. ماذا: This rugged Android tablet I tested was off to a rough start - then I discovered its real charm. متى: 2026-02-06T15:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b8b046a0b2ba9e3f2d67f9929efb904950273979/2026/01/27/fcf7a15f-9406-490d-9332-f69ed3aeb060/rt10hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oukitel-rt10-tablet-review/"
-    ]
-  },
-  {
-    "id": "f62ef7c8ea2828e3627d6184",
-    "title": "One of the best-looking Windows laptops I've tested lately isn't made by Dell or Lenovo",
-    "link": "https://www.zdnet.com/article/acer-swift-edge-14-review/",
-    "published": "2026-02-06T15:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: One of the best-looking Windows laptops I've tested lately isn't made by Dell or Lenovo. What: One of the best-looking Windows laptops I've tested lately isn't made by Dell or Lenovo. When: 2026-02-06T15:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: One of the best-looking Windows laptops I've tested lately isn't made by Dell or Lenovo. ماذا: One of the best-looking Windows laptops I've tested lately isn't made by Dell or Lenovo. متى: 2026-02-06T15:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/05ac840f62b05966ea9458131689126bb0fec0a1/2026/02/05/e0cce184-b468-4b3c-8510-9f4197066cea/acer-swift-edge-14-ai-image-13.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/acer-swift-edge-14-review/"
-    ]
-  },
-  {
-    "id": "c60bada9926b3101a719d5f2",
-    "title": "Why lithium batteries in our phones and laptops keep failing us - and how to lower that risk",
-    "link": "https://www.zdnet.com/article/why-smartphone-and-laptop-batteries-explode-and-how-to-protect-yourself/",
-    "published": "2026-02-06T15:48:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why lithium batteries in our phones and laptops keep failing us - and how to lower that risk. What: Why lithium batteries in our phones and laptops keep failing us - and how to lower that risk. When: 2026-02-06T15:48:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why lithium batteries in our phones and laptops keep failing us - and how to lower that risk. ماذا: Why lithium batteries in our phones and laptops keep failing us - and how to lower that risk. متى: 2026-02-06T15:48:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4b7deb2912b76b2852c0127b41f39181f3d54bcc/2026/01/23/668e50eb-7eb4-49fc-baf1-cb3a44ac8754/img-1888.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-smartphone-and-laptop-batteries-explode-and-how-to-protect-yourself/"
-    ]
-  },
-  {
-    "id": "94804f8f480091a6ddc1478a",
-    "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult",
-    "link": "https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult",
-    "published": "2026-02-06T15:42:15+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: OpenClaw's Gregarious Insecurities Make Safe Usage Difficult. What: OpenClaw's Gregarious Insecurities Make Safe Usage Difficult. When: 2026-02-06T15:42:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw's Gregarious Insecurities Make Safe Usage Difficult. ماذا: OpenClaw's Gregarious Insecurities Make Safe Usage Difficult. متى: 2026-02-06T15:42:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult"
     ]
   }
 ]
