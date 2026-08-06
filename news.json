@@ -18,6 +18,62 @@
     ]
   },
   {
+    "id": "1047943d4da8fbf4cae225a7",
+    "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+    "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+    "published": "2026-08-06T06:37:44+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability. What: Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.. When: 2026-08-06T06:37:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability. ماذا: Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution.. متى: 2026-08-06T06:37:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-63077"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Jetbrains.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/"
+    ]
+  },
+  {
+    "id": "76f47175588a77d4e656f5f5",
+    "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+    "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+    "published": "2026-08-06T06:04:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People. What: Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People. When: 2026-08-06T06:04:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People. ماذا: Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People. متى: 2026-08-06T06:04:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html"
+    ]
+  },
+  {
+    "id": "e04d675477f5503dbb7faacf",
+    "title": "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
+    "link": "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794",
+    "published": "2026-08-06T04:57:43+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Uploaded to GitHub on January 14, 2015 and never touched again, this obscure repository implements a simple command and control client and server.. What: Chinese Wi-Fi router vendor Zbtlink has denied its products contain backdoors but paused firmware downloads while it fixes unspecified security vulnerabilities.. When: 2026-08-06T04:57:43+00:00. How: Not because they were hacked. Action: See Arabic action below.",
+    "summary_ar": "من: Uploaded to GitHub on January 14, 2015 and never touched again, this obscure repository implements a simple command and control client and server.. ماذا: Chinese Wi-Fi router vendor Zbtlink has denied its products contain backdoors but paused firmware downloads while it fixes unspecified security vulnerabilities.. متى: 2026-08-06T04:57:43+00:00. كيف: Not because they were hacked.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794"
+    ]
+  },
+  {
     "id": "d017949fc15eed6940ed3d9b",
     "title": "DuckDuckGo's new iPhone feature is a privacy win - I recommend getting it now",
     "link": "https://www.zdnet.com/article/duckduckgo-is-adding-a-feature-for-iphone-that-everyone-should-have/",
@@ -33,6 +89,24 @@
     "image": "https://www.zdnet.com/a/img/resize/7096064609ecfafd51f16fba090a266b6ad1367d/2026/08/05/3e6dcc64-b046-4460-b1e3-4e14fa83fa0d/copycleanlinkhero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/duckduckgo-is-adding-a-feature-for-iphone-that-everyone-should-have/"
+    ]
+  },
+  {
+    "id": "c2270f4ca38162c23fb7d906",
+    "title": "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+    "link": "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741",
+    "published": "2026-08-06T01:47:19+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The chain of events leading up to OpenAI’s agents attacking Hugging Face and other organizations in July began months earlier, and involved agents asking other agents for help, building message boards, and even becoming paranoid that other agents were maliciously trying to trick them, two OpenAI staffers said at the Black Hat infosec conference on Wednesday.. What: By now, everyone knows the bones of this story: OpenAI models broke out of their testing sandbox, exploited zero-day vulnerabilities to gain access to the open internet, and broke into Hugging Face and other organizations during an ExploitGym security evaluation.. When: 2026-08-06T01:47:19+00:00. How: By now, everyone knows the bones of this story: OpenAI models broke out of their testing sandbox, exploited zero-day vulnerabilities to gain access to the open internet, and broke into Hugging Face and other organizations during an ExploitGym security evaluation. Action: See Arabic action below.",
+    "summary_ar": "من: The chain of events leading up to OpenAI’s agents attacking Hugging Face and other organizations in July began months earlier, and involved agents asking other agents for help, building message boards, and even becoming paranoid that other agents were maliciously trying to trick them, two OpenAI staffers said at the Black Hat infosec conference on Wednesday.. ماذا: By now, everyone knows the bones of this story: OpenAI models broke out of their testing sandbox, exploited zero-day vulnerabilities to gain access to the open internet, and broke into Hugging Face and other organizations during an ExploitGym security evaluation.. متى: 2026-08-06T01:47:19+00:00. كيف: By now, everyone knows the bones of this story: OpenAI models broke out of their testing sandbox, exploited zero-day vulnerabilities to gain access to the open internet, and broke into Hugging Face and other organizations during an ExploitGym security evaluation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/06/openai-reveals-its-rogue-agent-swarm-went-a-little-bit-borg-ahead-of-hugging-face-hack/5283741"
     ]
   },
   {
