@@ -18,6 +18,78 @@
     ]
   },
   {
+    "id": "557f61f032367f8da53fd491",
+    "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+    "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+    "published": "2026-08-07T19:30:41+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Unlimited Technology Systems breach impacts 3.8 million people. What: Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025.. When: 2026-08-07T19:30:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Unlimited Technology Systems breach impacts 3.8 million people. ماذا: Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025.. متى: 2026-08-07T19:30:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/03/healthcare.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/"
+    ]
+  },
+  {
+    "id": "da919a79098b7d0333cf2165",
+    "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+    "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "published": "2026-08-07T18:48:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer. What: Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer. When: 2026-08-07T18:48:17+00:00. How: \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer Action: See Arabic action below.",
+    "summary_ar": "من: Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer. ماذا: Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer. متى: 2026-08-07T18:48:17+00:00. كيف: \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html"
+    ]
+  },
+  {
+    "id": "0e3a028652add14d787d878c",
+    "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+    "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+    "published": "2026-08-07T18:29:08+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.. What: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.. When: 2026-08-07T18:29:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.. ماذا: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.. متى: 2026-08-07T18:29:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
+    ]
+  },
+  {
+    "id": "547060d28e7488d5422452d2",
+    "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+    "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+    "published": "2026-08-07T18:16:13+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data. What: UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data. When: 2026-08-07T18:16:13+00:00. How: \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Action: See Arabic action below.",
+    "summary_ar": "من: UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data. ماذا: UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data. متى: 2026-08-07T18:16:13+00:00. كيف: \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html"
+    ]
+  },
+  {
     "id": "fea91044b05cd94b9214a1f8",
     "title": "This 6-port USB-C charger replaced my ugly power brick - and powers my entire desk",
     "link": "https://www.zdnet.com/article/satechi-chargeview-240w-desktop-charger-review/",
