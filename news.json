@@ -18,6 +18,114 @@
     ]
   },
   {
+    "id": "2615fb26ee916ad2bed1297a",
+    "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+    "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
+    "published": "2026-08-07T14:26:42+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .. What: In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street. When: 2026-08-07T14:26:42+00:00. How: Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. Action: See Arabic action below.",
+    "summary_ar": "من: The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .. ماذا: In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street. متى: 2026-08-07T14:26:42+00:00. كيف: Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/"
+    ]
+  },
+  {
+    "id": "3d75571224edd1ba2478755c",
+    "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+    "link": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
+    "published": "2026-08-07T14:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs. What: Their attack targets mitigations designed to neutralize potentially hostile branch predictor states before sensitive code runs.. When: 2026-08-07T14:15:00+00:00. How: The interrupt handler can then re-poison predictor structures such as the return stack buffer (RSB) or branch history buffer (BHB), causing a protected branch to speculatively jump to a disclosure gadget that leaks kernel data through a side channel. Action: See Arabic action below.",
+    "summary_ar": "من: MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs. ماذا: Their attack targets mitigations designed to neutralize potentially hostile branch predictor states before sensitive code runs.. متى: 2026-08-07T14:15:00+00:00. كيف: The interrupt handler can then re-poison predictor structures such as the return stack buffer (RSB) or branch history buffer (BHB), causing a protected branch to speculatively jump to a disclosure gadget that leaks kernel data through a side channel.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/247469.jpg?imageId=247469&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081"
+    ]
+  },
+  {
+    "id": "d36ef0c9a33c6e88a3528468",
+    "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now",
+    "link": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/",
+    "published": "2026-08-07T14:10:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.. What: I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now. When: 2026-08-07T14:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.. ماذا: I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now. متى: 2026-08-07T14:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/39cdf1d7217da3b68bfb58154eabfbad9d35e2a5/2025/10/08/6532e132-afe4-4b37-9bdd-7c30200f03ba/dsc07950.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/"
+    ]
+  },
+  {
+    "id": "1faea6d610f82601e27c33c7",
+    "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+    "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "published": "2026-08-07T14:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Real emails, hijacked payments: Two H1 2026 attack chains. What: Real emails, hijacked payments: Two H1 2026 attack chains. When: 2026-08-07T14:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Real emails, hijacked payments: Two H1 2026 attack chains. ماذا: Real emails, hijacked payments: Two H1 2026 attack chains. متى: 2026-08-07T14:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/04/gendigital-cyber-shield.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/"
+    ]
+  },
+  {
+    "id": "23e42e9330bbfce2cdab37ce",
+    "title": "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder",
+    "link": "https://www.theregister.com/security/2026/08/07/nhs-tayside-investigates-breach-concerning-data-of-dead-girl/5284815",
+    "published": "2026-08-07T13:59:16+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder. What: The alleged breach occurred at Ninewells Hospital in Arbroath, and reportedly involved staff members accessing the girl’s medical records without authorization or clinical need.. When: 2026-08-07T13:59:16+00:00. How: A family statement, released through Police Scotland, read: “We are devastated with the loss of our beloved, absolutely incredible, beautiful and brave Minnie Moo. Action: See Arabic action below.",
+    "summary_ar": "من: Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder. ماذا: The alleged breach occurred at Ninewells Hospital in Arbroath, and reportedly involved staff members accessing the girl’s medical records without authorization or clinical need.. متى: 2026-08-07T13:59:16+00:00. كيف: A family statement, released through Police Scotland, read: “We are devastated with the loss of our beloved, absolutely incredible, beautiful and brave Minnie Moo.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/07/nhs-tayside-investigates-breach-concerning-data-of-dead-girl/5284815"
+    ]
+  },
+  {
+    "id": "13e5a320829d93e595ab9e47",
+    "title": "North Carolina Ports confirms cyberattack disrupting operations",
+    "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "published": "2026-08-07T13:34:40+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: North Carolina Ports confirms cyberattack disrupting operations. What: North Carolina Ports confirms cyberattack disrupting operations. When: 2026-08-07T13:34:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: North Carolina Ports confirms cyberattack disrupting operations. ماذا: North Carolina Ports confirms cyberattack disrupting operations. متى: 2026-08-07T13:34:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/07/northcarolina.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/"
+    ]
+  },
+  {
     "id": "5694130b763e8e5fdb72d534",
     "title": "Apple rushes out emergency fix for screen sharing flaw on Macs - update ASAP",
     "link": "https://www.zdnet.com/article/apple-rushes-emergency-fix-for-mac-screen-sharing-flaw-update-asap/",
@@ -133,6 +241,26 @@
       "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
       "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
       "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/"
+    ]
+  },
+  {
+    "id": "d4fa171fab39b8bd4dae2762",
+    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+    "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "published": "2026-08-07T12:56:23+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP. What: WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system.. When: 2026-08-07T12:56:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP. ماذا: WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system.. متى: 2026-08-07T12:56:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-64638"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge2pF0kPrHXARehOfrgRZzC4bsZvLQSss2mm4xJwNfV53riYQHKateFgF6HvgO5WoDDzjKhc8JFT_6pD2ggOORpEuUIBbySYIy79R_UTRAB4NpEUEi3dhenfNInEROpfShqpE6cTx_VqNfL1hf6fFJpzXLV7-RiFaJguVGvF-l_Ras_0YomMVjeV4ZdfM/s1600/wordpress-xss.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html"
     ]
   },
   {
