@@ -18,6 +18,61 @@
     ]
   },
   {
+    "id": "a38645ed85136c24ab4b9df5",
+    "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+    "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+    "published": "2026-08-07T07:22:05+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 3.8 Million Impacted by Unlimited Technology Systems Data Breach. What: 3.8 Million Impacted by Unlimited Technology Systems Data Breach. When: 2026-08-07T07:22:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 3.8 Million Impacted by Unlimited Technology Systems Data Breach. ماذا: 3.8 Million Impacted by Unlimited Technology Systems Data Breach. متى: 2026-08-07T07:22:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg",
+    "sources": [
+      "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/"
+    ]
+  },
+  {
+    "id": "eb4fa24928c68e5fea584bfc",
+    "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+    "published": "2026-08-07T06:56:56+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.. What: The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .. When: 2026-08-07T06:56:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.. ماذا: The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .. متى: 2026-08-07T06:56:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
+    "sources": [
+      "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+      "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/"
+    ]
+  },
+  {
+    "id": "894cedf65f625313b8a55cb3",
+    "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+    "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+    "published": "2026-08-07T06:50:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign. What: TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign. When: 2026-08-07T06:50:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign. ماذا: TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign. متى: 2026-08-07T06:50:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html"
+    ]
+  },
+  {
     "id": "823b799b2302c03d1acd80b9",
     "title": "China launches mysterious probe into security of Palo Alto Networks' products",
     "link": "https://www.theregister.com/security/2026/08/07/china-launches-mysterious-probe-into-security-of-palo-alto-networks-products/5284453",
@@ -327,12 +382,12 @@
   },
   {
     "id": "015901e2186d9af49a1343eb",
-    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
     "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
     "published": "2026-08-06T17:13:15+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. What: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs. When: 2026-08-06T17:13:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. ماذا: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs. متى: 2026-08-06T17:13:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. What: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs. When: 2026-08-06T17:13:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. ماذا: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs. متى: 2026-08-06T17:13:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -20458,24 +20513,6 @@
     "image": "https://www.zdnet.com/a/img/resize/4bcbcb46ded4056002b744217c04b3cc7041d884/2026/07/14/2d921cfe-a7a1-419b-8b09-d924051b3fea/img-5162.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/whatcable-mac-app-usbc-cable-review/"
-    ]
-  },
-  {
-    "id": "141e4fef4277c9abdf5c68bb",
-    "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
-    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
-    "published": "2026-07-15T07:24:52+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.. What: The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .. When: 2026-07-15T07:24:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed.. ماذا: The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .. متى: 2026-07-15T07:24:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg",
-    "sources": [
-      "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/"
     ]
   },
   {
@@ -163665,24 +163702,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b8af296d1db64c2524eb763204c10450aaaeab03/2024/10/04/eab5b2f0-fff4-4b7d-a577-cd5843f5fa26/1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/eufycam-s3-pro-review/"
-    ]
-  },
-  {
-    "id": "05efb275cc829d60c8482525",
-    "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
-    "link": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
-    "published": "2026-02-08T07:32:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.. What: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.. When: 2026-02-08T07:32:00+00:00. How: \"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\" OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.. ماذا: OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.. متى: 2026-02-08T07:32:00+00:00. كيف: \"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\" OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s16000/openclaw-virustotal.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html"
     ]
   }
 ]
