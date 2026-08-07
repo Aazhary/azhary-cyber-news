@@ -18,6 +18,404 @@
     ]
   },
   {
+    "id": "82342824c2fa4d44d1dbdbc7",
+    "title": "How the famed USENIX Security conf is managing a flood of papers in the AI era",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374",
+    "published": "2026-08-06T23:40:23+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: How the famed USENIX Security conf is managing a flood of papers in the AI era. What: In the USENIX Security '26 transparency report, issued in January between the first and second paper submission cycles, Stock and fellow co-chair Elissa Redmiles, assistant professor of computer science at Georgetown University, detail how they've developed tools and policies to account for the possibility of AI usage, both for paper submissions and in paper reviews.. When: 2026-08-06T23:40:23+00:00. How: While some of that increase has been aided by the availability of AI tools, those managing the conference say abuses were minimal due to defensive measures. Action: See Arabic action below.",
+    "summary_ar": "من: How the famed USENIX Security conf is managing a flood of papers in the AI era. ماذا: In the USENIX Security '26 transparency report, issued in January between the first and second paper submission cycles, Stock and fellow co-chair Elissa Redmiles, assistant professor of computer science at Georgetown University, detail how they've developed tools and policies to account for the possibility of AI usage, both for paper submissions and in paper reviews.. متى: 2026-08-06T23:40:23+00:00. كيف: While some of that increase has been aided by the availability of AI tools, those managing the conference say abuses were minimal due to defensive measures.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5284394.jpg?imageId=5284394&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/07/how-the-famed-usenix-security-conf-is-managing-a-flood-of-papers-in-the-ai-era/5284374"
+    ]
+  },
+  {
+    "id": "e0d783f4ac3971c54b2c882e",
+    "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+    "published": "2026-08-06T22:48:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna.. What: OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it. When: 2026-08-06T22:48:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna.. ماذا: OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it. متى: 2026-08-06T22:48:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/"
+    ]
+  },
+  {
+    "id": "e30e6e02092bcba680466642",
+    "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+    "published": "2026-08-06T22:37:17+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials.. What: A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials.. When: 2026-08-06T22:37:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials.. ماذا: A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials.. متى: 2026-08-06T22:37:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/07/bitcoin-stealer-2.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/"
+    ]
+  },
+  {
+    "id": "4b063fd38f8e19ec107cb343",
+    "title": "ChainDrop: Inside a Self-Propagating npm Worm",
+    "link": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
+    "published": "2026-08-06T22:26:39+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.. What: ChainDrop: Inside a Self-Propagating npm Worm. When: 2026-08-06T22:26:39+00:00. How: Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing. Action: See Arabic action below.",
+    "summary_ar": "من: Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.. ماذا: ChainDrop: Inside a Self-Propagating npm Worm. متى: 2026-08-06T22:26:39+00:00. كيف: Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/03_Malware_Category_1920x900-7.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/"
+    ]
+  },
+  {
+    "id": "4a841271b8cbccf6da4cf708",
+    "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
+    "published": "2026-08-06T21:42:50+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The Coordination Gap: How Attackers Are Outpacing Law Enforcement. What: The Coordination Gap: How Attackers Are Outpacing Law Enforcement. When: 2026-08-06T21:42:50+00:00. How: The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos. Action: See Arabic action below.",
+    "summary_ar": "من: The Coordination Gap: How Attackers Are Outpacing Law Enforcement. ماذا: The Coordination Gap: How Attackers Are Outpacing Law Enforcement. متى: 2026-08-06T21:42:50+00:00. كيف: The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement"
+    ]
+  },
+  {
+    "id": "2146134ea1e2e1dfe44d8c53",
+    "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
+    "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
+    "published": "2026-08-06T20:38:51+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Researcher Claims Control of ChatGPT Secure Sandbox. What: Researcher Claims Control of ChatGPT Secure Sandbox. When: 2026-08-06T20:38:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researcher Claims Control of ChatGPT Secure Sandbox. ماذا: Researcher Claims Control of ChatGPT Secure Sandbox. متى: 2026-08-06T20:38:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox"
+    ]
+  },
+  {
+    "id": "3ce3b3725ccd9091d784faca",
+    "title": "Made by Google 2026: How to watch and what to expect from the big Pixel 11 event",
+    "link": "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/",
+    "published": "2026-08-06T20:24:56+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Google is set to announce its Pixel 11 series phones - here's what we know.. What: Made by Google 2026: How to watch and what to expect from the big Pixel 11 event. When: 2026-08-06T20:24:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google is set to announce its Pixel 11 series phones - here's what we know.. ماذا: Made by Google 2026: How to watch and what to expect from the big Pixel 11 event. متى: 2026-08-06T20:24:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/797c796cbeda21ff874bf7d3a066a0596cc8ed33/2025/08/27/17ebfe40-8a93-4e90-9dd6-af1374dbbe1c/dsc07353.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/what-to-expect-rumors-made-by-google-2026/"
+    ]
+  },
+  {
+    "id": "a061e804d18bcae405129d16",
+    "title": "Google's new Pixel 11 series comes next week - here's what we know from leaks",
+    "link": "https://www.zdnet.com/article/google-pixel-11-series-leaks-everything-we-know/",
+    "published": "2026-08-06T20:20:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Google's new Pixel 11 series comes next week - here's what we know from leaks. What: Google's new Pixel 11 series comes next week - here's what we know from leaks. When: 2026-08-06T20:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google's new Pixel 11 series comes next week - here's what we know from leaks. ماذا: Google's new Pixel 11 series comes next week - here's what we know from leaks. متى: 2026-08-06T20:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/bd2463b45d1c225987237eec3246be3b46a82dd4/2025/08/27/2a56e0be-91bf-4e16-8026-0095c6d5c7cf/dsc07519.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/google-pixel-11-series-leaks-everything-we-know/"
+    ]
+  },
+  {
+    "id": "d5f69719371bcc52973a0f75",
+    "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+    "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+    "published": "2026-08-06T20:07:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group. What: A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors.. When: 2026-08-06T20:07:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group. ماذا: A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors.. متى: 2026-08-06T20:07:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/17/money-laundering-hackers.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/"
+    ]
+  },
+  {
+    "id": "6b8f12e6dcf4c2a09b914fcb",
+    "title": "AI struggles to patch vulns without adult supervision",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+    "published": "2026-08-06T19:04:30+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: AI models may not be that good at fixing security flaws.. What: AI models may not be that good at fixing security flaws.. When: 2026-08-06T19:04:30+00:00. How: \"Across six recently disclosed CVEs, we produced 6,080 patches using two frontier, cyber-capable reasoning models,\" Hoodlet said. Action: See Arabic action below.",
+    "summary_ar": "من: AI models may not be that good at fixing security flaws.. ماذا: AI models may not be that good at fixing security flaws.. متى: 2026-08-06T19:04:30+00:00. كيف: \"Across six recently disclosed CVEs, we produced 6,080 patches using two frontier, cyber-capable reasoning models,\" Hoodlet said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5255449.jpg?imageId=5255449&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319"
+    ]
+  },
+  {
+    "id": "3aff26fd47b7c4e000b340a7",
+    "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
+    "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
+    "published": "2026-08-06T19:00:11+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture. What: From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture. When: 2026-08-06T19:00:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture. ماذا: From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture. متى: 2026-08-06T19:00:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture"
+    ]
+  },
+  {
+    "id": "b858fc78ad958224ae995485",
+    "title": "Swiss government SharePoint breach compromised 200 accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+    "published": "2026-08-06T18:14:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts.. What: Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts.. When: 2026-08-06T18:14:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts.. ماذا: Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts.. متى: 2026-08-06T18:14:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/06/30/Switzerland-flag.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/"
+    ]
+  },
+  {
+    "id": "1368c3668cf199638f3d939a",
+    "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+    "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+    "published": "2026-08-06T18:03:45+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes. What: Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines.. When: 2026-08-06T18:03:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes. ماذا: Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines.. متى: 2026-08-06T18:03:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/CPU_attack.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/"
+    ]
+  },
+  {
+    "id": "91cf883d23eb9ead4bbe84f0",
+    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+    "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+    "published": "2026-08-06T17:58:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts. What: New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts. When: 2026-08-06T17:58:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts. ماذا: New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts. متى: 2026-08-06T17:58:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-64561"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html"
+    ]
+  },
+  {
+    "id": "2e862ed4087d3466540f8830",
+    "title": "Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?",
+    "link": "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/",
+    "published": "2026-08-06T17:45:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.. What: Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?. When: 2026-08-06T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Pixel 11 may cost more, but Google's software could still make it a better value than Samsung's phones.. ماذا: Is the new (pricier) Pixel 11 series still a good value compared to Samsung's Galaxy phones?. متى: 2026-08-06T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/d718e971e7f8c9368b49923ba95e9003e34cce89/2025/10/08/44519259-3e98-4b26-9ac3-58d1ed4de8e6/dsc07963.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/is-google-pixel-11-series-still-a-good-value-compared-to-samsung-galaxy-phones/"
+    ]
+  },
+  {
+    "id": "e4377fcab192586e359d58f8",
+    "title": "6 must-have travel gadgets, according to industry experts",
+    "link": "https://www.zdnet.com/article/must-have-travel-gadgets-expert-picks/",
+    "published": "2026-08-06T17:14:48+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 6 must-have travel gadgets, according to industry experts. What: 6 must-have travel gadgets, according to industry experts. When: 2026-08-06T17:14:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 6 must-have travel gadgets, according to industry experts. ماذا: 6 must-have travel gadgets, according to industry experts. متى: 2026-08-06T17:14:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/8658e535302d3b82bd08ea0225413ba9639fb9ed/2025/04/03/65d57a26-6da9-4a39-aa3f-599a3ac0e399/airfly-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/must-have-travel-gadgets-expert-picks/"
+    ]
+  },
+  {
+    "id": "015901e2186d9af49a1343eb",
+    "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+    "published": "2026-08-06T17:13:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. What: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs. When: 2026-08-06T17:13:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.. ماذا: Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs. متى: 2026-08-06T17:13:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html"
+    ]
+  },
+  {
+    "id": "227e8673997308a3ba6d0440",
+    "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+    "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+    "published": "2026-08-06T17:00:56+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Canadian Man Pleads Guilty in Snowflake Extortions. What: Sources close to the investigation said Binns, also known as “ IRDev ” and “ IntelSecrets ,” was until recently incarcerated in a Turkish prison, but that he has since been released and has resurfaced online.. When: 2026-08-06T17:00:56+00:00. How: The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Action: See Arabic action below.",
+    "summary_ar": "من: Canadian Man Pleads Guilty in Snowflake Extortions. ماذا: Sources close to the investigation said Binns, also known as “ IRDev ” and “ IntelSecrets ,” was until recently incarcerated in a Turkish prison, but that he has since been released and has resurfaced online.. متى: 2026-08-06T17:00:56+00:00. كيف: The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/"
+    ]
+  },
+  {
+    "id": "896b79b687eada36ad52076b",
+    "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
+    "published": "2026-08-06T16:44:29+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: As noted above, one in three malicious commands managed to slip past human gatekeepers, with most scope violations, like an agent asking to cat Kubernetes config files or AWS credentials lists, which could easily lead to the sensitive data they contain being exfiltrated, being the most commonly missed at 35 percent.. What: Humans in the loop miss a third of dangerous AI coding agent requests. When: 2026-08-06T16:44:29+00:00. How: “I've seen people go for '--dangerously-skip-permissions' [allowing the model to run without asking human permission] as a result because they did not want to find out they stopped their multi-hour agent flows 5 minutes in,” Wauters told us. Action: See Arabic action below.",
+    "summary_ar": "من: As noted above, one in three malicious commands managed to slip past human gatekeepers, with most scope violations, like an agent asking to cat Kubernetes config files or AWS credentials lists, which could easily lead to the sensitive data they contain being exfiltrated, being the most commonly missed at 35 percent.. ماذا: Humans in the loop miss a third of dangerous AI coding agent requests. متى: 2026-08-06T16:44:29+00:00. كيف: “I've seen people go for '--dangerously-skip-permissions' [allowing the model to run without asking human permission] as a result because they did not want to find out they stopped their multi-hour agent flows 5 minutes in,” Wauters told us.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5251269.jpg?imageId=5251269&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236"
+    ]
+  },
+  {
+    "id": "66b76363938062b157ff10cc",
+    "title": "The M5 MacBook Air is down to the lowest price we've seen since Apple's price hike",
+    "link": "https://www.zdnet.com/article/m5-macbook-deals-amazon/",
+    "published": "2026-08-06T16:25:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple increased prices in its official store, but Amazon has the lowest prices on the new 13-inch M5 MacBook Air right now.. What: The M5 MacBook Air is down to the lowest price we've seen since Apple's price hike. When: 2026-08-06T16:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple increased prices in its official store, but Amazon has the lowest prices on the new 13-inch M5 MacBook Air right now.. ماذا: The M5 MacBook Air is down to the lowest price we've seen since Apple's price hike. متى: 2026-08-06T16:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/8968338f56b67a023ea403178d8e5f6d1c242074/2026/03/18/9e873de5-d743-4db0-9719-6e944536e99e/img-6096.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/m5-macbook-deals-amazon/"
+    ]
+  },
+  {
+    "id": "6f16f663b2fe72b3ada8c91e",
+    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+    "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+    "published": "2026-08-06T16:17:13+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs. What: On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on, New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs. When: 2026-08-06T16:17:13+00:00. How: An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. Action: See Arabic action below.",
+    "summary_ar": "من: New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs. ماذا: On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on, New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs. متى: 2026-08-06T16:17:13+00:00. كيف: An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_BgCPUTlxOgmh4ljCoOazIkcoSA_BHUGZmfAuhxD8TiUzui2nhB5b5KV_lv50ocFWI14FG5RIe8rqrm6D8ZC8ACR7mY1bXE4JADKcTRIY1bfIeXtnYs07yXk2T9Jsv0-vcxPkKbl6FuNXxXylv5BQQQLTDSpJ2XSyqxvIsxYy5d2X1Kwt_2CSJegj9Tv/s1600/place.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html"
+    ]
+  },
+  {
+    "id": "593cbf4266133938b087d56e",
+    "title": "Meta AI model hacked a company during misconfigured cyber test",
+    "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+    "published": "2026-08-06T16:11:39+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face.. What: Meta AI model hacked a company during misconfigured cyber test. When: 2026-08-06T16:11:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face.. ماذا: Meta AI model hacked a company during misconfigured cyber test. متى: 2026-08-06T16:11:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Meta.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/"
+    ]
+  },
+  {
     "id": "d067f1a716af3ae48b5cecde",
     "title": "Toolkit Hidden Inside Oracle Database Evades Endpoint Tools",
     "link": "https://www.infosecurity-magazine.com/news/khunt-toolkit-oracle-database-sql/",
@@ -180,24 +578,6 @@
     ]
   },
   {
-    "id": "63ab9f0eb66007d2fd2e2083",
-    "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
-    "link": "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/",
-    "published": "2026-08-06T13:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Bose's new QuietComfort headphones get premium upgrades for a midrange price. What: Bose's new QuietComfort headphones get premium upgrades for a midrange price. When: 2026-08-06T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bose's new QuietComfort headphones get premium upgrades for a midrange price. ماذا: Bose's new QuietComfort headphones get premium upgrades for a midrange price. متى: 2026-08-06T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e7b43d34ac853c33d91f3e7ce847d2b3af0cf8c6/2026/08/05/55730201-8946-4507-a958-03b059d0b643/qcheadphones.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/"
-    ]
-  },
-  {
     "id": "5025d58eeffec6fac0abbda3",
     "title": "You can use 70+ Adobe tools without leaving ChatGPT now - here's how",
     "link": "https://www.zdnet.com/article/adobe-launches-plugin-for-chatgpt-how-it-works/",
@@ -213,6 +593,24 @@
     "image": "https://www.zdnet.com/a/img/resize/ff105cc081d85d7d294744d7b00e38ec9fc348d4/2026/08/06/b8b2a912-27a1-4ec4-bde7-d064c3218aff/adobes-new-plugin-for-chatgpt-puts-70-tools-inside-the-chatbot-how-it-works.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/adobe-launches-plugin-for-chatgpt-how-it-works/"
+    ]
+  },
+  {
+    "id": "63ab9f0eb66007d2fd2e2083",
+    "title": "Bose's new QuietComfort headphones get premium upgrades for a midrange price",
+    "link": "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/",
+    "published": "2026-08-06T13:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Bose's new QuietComfort headphones get premium upgrades for a midrange price. What: Bose's new QuietComfort headphones get premium upgrades for a midrange price. When: 2026-08-06T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bose's new QuietComfort headphones get premium upgrades for a midrange price. ماذا: Bose's new QuietComfort headphones get premium upgrades for a midrange price. متى: 2026-08-06T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/e7b43d34ac853c33d91f3e7ce847d2b3af0cf8c6/2026/08/05/55730201-8946-4507-a958-03b059d0b643/qcheadphones.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/bose-quietcomfort-headphones-news/"
     ]
   },
   {
