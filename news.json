@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "e6d4e6f81e639bf7613fc762",
+    "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "published": "2026-08-08T14:16:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers breach TrueConf to trojanize client installers with backdoors. What: The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors.. When: 2026-08-08T14:16:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers breach TrueConf to trojanize client installers with backdoors. ماذا: The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors.. متى: 2026-08-08T14:16:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/box.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
+    ]
+  },
+  {
     "id": "588eec7865ef52a67e07bba3",
     "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "link": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
@@ -163706,78 +163724,6 @@
     "image": "https://regmedia.co.uk/2017/10/30/dutch_windmill_with_tulips_shutterstock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/09/dutch_data_protection_ivanti/"
-    ]
-  },
-  {
-    "id": "bcaa2cc736c25e6258a0cd28",
-    "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
-    "link": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
-    "published": "2026-02-09T14:42:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has revealed that it observed a multi‑stage intrusion that involved the threat actors exploiting internet‑exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's network to other high-value assets.. What: That said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers. When: 2026-02-09T14:42:00+00:00. How: That said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has revealed that it observed a multi‑stage intrusion that involved the threat actors exploiting internet‑exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's network to other high-value assets.. ماذا: That said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers. متى: 2026-02-09T14:42:00+00:00. كيف: That said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html"
-    ]
-  },
-  {
-    "id": "527fc7aff440946c572f70f4",
-    "title": "Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter",
-    "link": "https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/",
-    "published": "2026-02-09T14:38:17+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter. What: Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter. When: 2026-02-09T14:38:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter. ماذا: Ransomware Groups May Pivot Back to Encryption as Data Theft Tactics Falter. متى: 2026-02-09T14:38:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/ransomware-groups-may-pivot-back-to-encryption-as-data-theft-tactics-falter/"
-    ]
-  },
-  {
-    "id": "2ae262cb083a27343c7365d6",
-    "title": "This thumb-sized accessory gave my old PC an instant speed boost (and twice the storage)",
-    "link": "https://www.zdnet.com/article/pny-cs3051-storage-drive-review/",
-    "published": "2026-02-09T14:36:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This thumb-sized accessory gave my old PC an instant speed boost (and twice the storage). What: This thumb-sized accessory gave my old PC an instant speed boost (and twice the storage). When: 2026-02-09T14:36:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This thumb-sized accessory gave my old PC an instant speed boost (and twice the storage). ماذا: This thumb-sized accessory gave my old PC an instant speed boost (and twice the storage). متى: 2026-02-09T14:36:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8360d3a246a45d8fb4adee879cfc3a0e44c1245a/2024/04/26/a00431c1-1e1f-4d29-81e9-6fcae20fe795/img-9640.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/pny-cs3051-storage-drive-review/"
-    ]
-  },
-  {
-    "id": "4505e567478270a637f70a7a",
-    "title": "I ignored Apple's battery advice for 140 days - here's what happened to my iPhone",
-    "link": "https://www.zdnet.com/article/ignored-apple-battery-advice-on-iphone-the-result/",
-    "published": "2026-02-09T14:27:28+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I did everything Apple tells you not to do with my iPhone 17 Pro Max, and waited.. What: I ignored Apple's battery advice for 140 days - here's what happened to my iPhone. When: 2026-02-09T14:27:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I did everything Apple tells you not to do with my iPhone 17 Pro Max, and waited.. ماذا: I ignored Apple's battery advice for 140 days - here's what happened to my iPhone. متى: 2026-02-09T14:27:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/567c5e723cd13b3610579756f4b846a721bf3343/2025/12/16/0fe116f4-8d3f-46bc-80f3-9baa724c9d8d/5e7cc6a2-8993-4dc6-a0fd-b1df57b631be.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ignored-apple-battery-advice-on-iphone-the-result/"
     ]
   }
 ]
