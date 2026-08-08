@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "30fdcde0d2c68acc7bb32de1",
+    "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+    "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+    "published": "2026-08-08T11:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data. What: The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.. When: 2026-08-08T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data. ماذا: The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.. متى: 2026-08-08T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Atlassian-Rovo.webp",
+    "sources": [
+      "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/"
+    ]
+  },
+  {
     "id": "209a413a79b1731eacc8c276",
     "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
     "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -1934,24 +1952,6 @@
     ]
   },
   {
-    "id": "4612abd7cde8af5bfba66aa0",
-    "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
-    "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
-    "published": "2026-08-06T12:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. What: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. When: 2026-08-06T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. ماذا: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. متى: 2026-08-06T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/"
-    ]
-  },
-  {
     "id": "4a617969b1d1841ca617d509",
     "title": "Violent Physical Crypto Thefts Surge to $30m in Losses",
     "link": "https://www.infosecurity-magazine.com/news/violent-physical-crypto-thefts/",
@@ -1985,6 +1985,24 @@
     "image": "https://image.theregister.com/5283674.jpg?imageId=5283674&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/06/it-department-put-sticky-notes-on-the-laptops-to-help-employees-log-in/5283662"
+    ]
+  },
+  {
+    "id": "4612abd7cde8af5bfba66aa0",
+    "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
+    "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
+    "published": "2026-08-06T12:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. What: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. When: 2026-08-06T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. ماذا: Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway. متى: 2026-08-06T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/"
     ]
   },
   {
@@ -163994,78 +164012,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b0e9adaa499244005d6f47cafde6eef0fd0e989d/2025/10/19/d9506f54-4632-48bf-a16e-e691972e1eee/img-0287.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/anker-prime-dl7400-docking-station-review/"
-    ]
-  },
-  {
-    "id": "2839a520c09df32d0b17cd9e",
-    "title": "LG's decision to drop 8K TVs makes an uncomfortable point about TV tech",
-    "link": "https://www.zdnet.com/article/lg-drops-8k-tv-whats-next/",
-    "published": "2026-02-09T11:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: LG's decision to drop 8K TVs makes an uncomfortable point about TV tech. What: LG's decision to drop 8K TVs makes an uncomfortable point about TV tech. When: 2026-02-09T11:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LG's decision to drop 8K TVs makes an uncomfortable point about TV tech. ماذا: LG's decision to drop 8K TVs makes an uncomfortable point about TV tech. متى: 2026-02-09T11:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/403576fb1b82612b9020a8d07ae1aa7dc10bb2a7/2025/03/24/354200c6-197a-4614-aaf6-d01eadf16ece/dsc04590.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lg-drops-8k-tv-whats-next/"
-    ]
-  },
-  {
-    "id": "bbb883be0cab902996ff22ca",
-    "title": "Google unveils the Pixel 10a early - here are 5 things it must nail for me to upgrade",
-    "link": "https://www.zdnet.com/article/google-pixel-10a-unveil-5-features-i-want/",
-    "published": "2026-02-09T11:55:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google's upcoming midrange phone has some serious competition.. What: Google unveils the Pixel 10a early - here are 5 things it must nail for me to upgrade. When: 2026-02-09T11:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google's upcoming midrange phone has some serious competition.. ماذا: Google unveils the Pixel 10a early - here are 5 things it must nail for me to upgrade. متى: 2026-02-09T11:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/46ab62c30fb54f98e5c065bc0b24726fd4afd765/2025/04/10/627024cc-3a56-44e6-a97f-3bb02c3f580d/dsc05284.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-pixel-10a-unveil-5-features-i-want/"
-    ]
-  },
-  {
-    "id": "9eb6476c465ab85535bfcb98",
-    "title": "Follow the money: Switzerland remains Europe's top destination for tech pay",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/switzerland_tech_salaries/",
-    "published": "2026-02-09T11:42:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Follow the money: Switzerland remains Europe's top destination for tech pay. What: Follow the money: Switzerland remains Europe's top destination for tech pay. When: 2026-02-09T11:42:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Follow the money: Switzerland remains Europe's top destination for tech pay. ماذا: Follow the money: Switzerland remains Europe's top destination for tech pay. متى: 2026-02-09T11:42:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/02/09/shutterstock_zurich.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/09/switzerland_tech_salaries/"
-    ]
-  },
-  {
-    "id": "66efa66d0b02d986e0346e69",
-    "title": "Men charged in FanDuel scheme fueled by thousands of stolen identities",
-    "link": "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/",
-    "published": "2026-02-09T11:41:17+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Men charged in FanDuel scheme fueled by thousands of stolen identities. What: Men charged in FanDuel scheme fueled by thousands of stolen identities. When: 2026-02-09T11:41:17+00:00. How: Two Connecticut men face federal charges for allegedly defrauding FanDuel and other online gambling sites of $3 million over several years using the stolen identities of approximately 3,000 victims. Action: See Arabic action below.",
-    "summary_ar": "من: Men charged in FanDuel scheme fueled by thousands of stolen identities. ماذا: Men charged in FanDuel scheme fueled by thousands of stolen identities. متى: 2026-02-09T11:41:17+00:00. كيف: Two Connecticut men face federal charges for allegedly defrauding FanDuel and other online gambling sites of $3 million over several years using the stolen identities of approximately 3,000 victims.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/09/FanDuel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/"
     ]
   }
 ]
