@@ -18,6 +18,78 @@
     ]
   },
   {
+    "id": "9e78a9b1874d247ba13467ee",
+    "title": "North Korean spies are running local LLMs to cause AI mischief",
+    "link": "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632",
+    "published": "2026-08-10T17:23:12+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “During the analysis, Genians Security Center identified multiple public GitHub repositories operated by the threat actor,” the researchers wrote.. What: North Korean spies are running local LLMs to cause AI mischief. When: 2026-08-10T17:23:12+00:00. How: The researchers said they observed Kimsuky setting up and operating local LLM environments using Ollama, GPT4All, and Msty, experimenting with other AI tools such as Cursor, and using retrieval-augmented generation (RAG) for local document searches. Action: See Arabic action below.",
+    "summary_ar": "من: “During the analysis, Genians Security Center identified multiple public GitHub repositories operated by the threat actor,” the researchers wrote.. ماذا: North Korean spies are running local LLMs to cause AI mischief. متى: 2026-08-10T17:23:12+00:00. كيف: The researchers said they observed Kimsuky setting up and operating local LLM environments using Ollama, GPT4All, and Msty, experimenting with other AI tools such as Cursor, and using retrieval-augmented generation (RAG) for local document searches.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/234163.jpg?imageId=234163&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/10/north-korean-spies-are-running-local-llms-to-cause-ai-mischief/5285632"
+    ]
+  },
+  {
+    "id": "d7bf29c746a1fae3bdd0938b",
+    "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+    "published": "2026-08-10T17:09:20+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Coruna, DarkSword iOS Exploits Proliferate Globally. What: Coruna, DarkSword iOS Exploits Proliferate Globally. When: 2026-08-10T17:09:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Coruna, DarkSword iOS Exploits Proliferate Globally. ماذا: Coruna, DarkSword iOS Exploits Proliferate Globally. متى: 2026-08-10T17:09:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a18f6dd4914a8aa/6a762c446b2f1a1a02c909f7/broken_phone-miljko-GettyImages-2232965251.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally"
+    ]
+  },
+  {
+    "id": "772314f8def03735b5e1244b",
+    "title": "I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card",
+    "link": "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/",
+    "published": "2026-08-10T16:50:37+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card. What: I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card. When: 2026-08-10T16:50:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card. ماذا: I tried Google Wallet's new allowance feature, and my kid's already ditched their debit card. متى: 2026-08-10T16:50:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/62b96ab2257aaa73fef0651f52ca64e8a7fdb3b5/2026/08/10/80366553-06ef-459f-8352-e4d814ea0873/googwalletkidscreenshot-2026-08-10-121642.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/i-tried-google-wallets-new-allowance-feature/"
+    ]
+  },
+  {
+    "id": "d36d60d1616a8b776b6aec8f",
+    "title": "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591",
+    "published": "2026-08-10T16:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Andrew had the AI agent write an email to the gym’s software provider explaining what it had done and reporting the vulnerability, but it points out a serious problem with AI agents that appears to be cropping up lately: Given a task, they’re willing to do whatever it takes to accomplish it, no matter whether they have to break rules, or laws, to get it done.. What: A swarm of OpenAI agents exploited flaws to reach the internet and compromise Hugging Face during cybersecurity evaluations.. When: 2026-08-10T16:45:00+00:00. How: Australian broadcaster ABC identified the gym-goer only as “Andrew.” The report says Andrew was using the OpenClaw agent with Anthropic’s Claude AI service. Action: See Arabic action below.",
+    "summary_ar": "من: Andrew had the AI agent write an email to the gym’s software provider explaining what it had done and reporting the vulnerability, but it points out a serious problem with AI agents that appears to be cropping up lately: Given a task, they’re willing to do whatever it takes to accomplish it, no matter whether they have to break rules, or laws, to get it done.. ماذا: A swarm of OpenAI agents exploited flaws to reach the internet and compromise Hugging Face during cybersecurity evaluations.. متى: 2026-08-10T16:45:00+00:00. كيف: Australian broadcaster ABC identified the gym-goer only as “Andrew.” The report says Andrew was using the OpenClaw agent with Anthropic’s Claude AI service.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5285615.jpg?imageId=5285615&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/10/gym-rat-asks-ai-agent-to-book-him-a-class-it-hacks-a-waitlist-api-to-bump-him-up-the-list/5285591"
+    ]
+  },
+  {
     "id": "8f4fbda2acc6f53a86394552",
     "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
     "link": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
@@ -160980,96 +161052,6 @@
     "image": "https://www.zdnet.com/a/img/resize/2ea3e7bea93c45f0023b097e62d3722d3642429e/2026/02/11/4e1b6a59-a793-48e4-9fd3-cdd64e9dd771/verizon-free-phones.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/verizon-small-business-days-sale/"
-    ]
-  },
-  {
-    "id": "896dee26703bc65c0e2ba775",
-    "title": "Eero's new backup device keeps you online when your ISP fails - here's how it works",
-    "link": "https://www.zdnet.com/article/eero-signal-4g-available-buy-now/",
-    "published": "2026-02-11T17:30:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Eero's new backup device keeps you online when your ISP fails - here's how it works. What: Eero's new backup device keeps you online when your ISP fails - here's how it works. When: 2026-02-11T17:30:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Eero's new backup device keeps you online when your ISP fails - here's how it works. ماذا: Eero's new backup device keeps you online when your ISP fails - here's how it works. متى: 2026-02-11T17:30:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/30bf4b371860c3be2f97d04d8a42866e6202c536/2026/02/11/733139f6-c0f9-4ebf-8c68-dc92fa2b4523/eero-signal.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/eero-signal-4g-available-buy-now/"
-    ]
-  },
-  {
-    "id": "cb62b4fa2a2a975b72c484fd",
-    "title": "LummaStealer infections surge after CastleLoader malware campaigns",
-    "link": "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/",
-    "published": "2026-02-11T17:02:29+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: LummaStealer infections surge after CastleLoader malware campaigns. What: A surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware.. When: 2026-02-11T17:02:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LummaStealer infections surge after CastleLoader malware campaigns. ماذا: A surge in LummaStealer infections has been observed, driven by social engineering campaigns leveraging the ClickFix technique to deliver the CastleLoader malware.. متى: 2026-02-11T17:02:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/11/castle.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/lummastealer-infections-surge-after-castleloader-malware-campaigns/"
-    ]
-  },
-  {
-    "id": "ae0ba61bb85002255d78e21a",
-    "title": "How to save $80 on your upcoming YouTube TV bills - no commitments required",
-    "link": "https://www.zdnet.com/article/youtube-tv-discount-save-80-bill-4-months/",
-    "published": "2026-02-11T17:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to save $80 on your upcoming YouTube TV bills - no commitments required. What: How to save $80 on your upcoming YouTube TV bills - no commitments required. When: 2026-02-11T17:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to save $80 on your upcoming YouTube TV bills - no commitments required. ماذا: How to save $80 on your upcoming YouTube TV bills - no commitments required. متى: 2026-02-11T17:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/67f13aee93b5be39fd5ddaac7cbb34e10e5ae9c2/2025/11/07/4f4f2003-bae9-4fc1-aed2-66738c854eee/dsc07035.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/youtube-tv-discount-save-80-bill-4-months/"
-    ]
-  },
-  {
-    "id": "5dac2061837a6841bb41e990",
-    "title": "Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool",
-    "link": "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/",
-    "published": "2026-02-11T16:51:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool. What: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool. When: 2026-02-11T16:51:00+00:00. How: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool Action: See Arabic action below.",
-    "summary_ar": "من: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool. ماذا: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool. متى: 2026-02-11T16:51:00+00:00. كيف: Stop using ChatGPT on factory settings: 7 tweaks I use to make it a pro tool. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f1ca138b58a72dd56cb8b63c2749888e93446f5b/2026/02/11/5ab57b5b-9eb5-458b-a4a5-d0f999cf58b3/gettyimages-2259623379.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/"
-    ]
-  },
-  {
-    "id": "4624641894764effc1b8c453",
-    "title": "If these Samsung Galaxy S26 features are true, I might finally put away my Google Pixel",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-rumors-google-pixel-fan/",
-    "published": "2026-02-11T16:46:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've been a Google Pixel phone user for years, but Samsung might have a compelling case for switching later this month.. What: If these Samsung Galaxy S26 features are true, I might finally put away my Google Pixel. When: 2026-02-11T16:46:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've been a Google Pixel phone user for years, but Samsung might have a compelling case for switching later this month.. ماذا: If these Samsung Galaxy S26 features are true, I might finally put away my Google Pixel. متى: 2026-02-11T16:46:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5c7182ea0c0e6220c2c6292e78ccc61de3aa0089/2025/08/15/353c221b-1d21-412f-8d40-7a5e6e2e57bb/dsc06844.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-rumors-google-pixel-fan/"
     ]
   }
 ]
