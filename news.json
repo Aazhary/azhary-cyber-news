@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "07fa0fcf1a16ebcd48544cf1",
+    "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+    "published": "2026-08-11T06:16:01+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.. What: Mozilla Issues New Firefox GPG Key Following Exposure. When: 2026-08-11T06:16:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.. ماذا: Mozilla Issues New Firefox GPG Key Following Exposure. متى: 2026-08-11T06:16:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Firefox.jpeg",
+    "sources": [
+      "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/"
+    ]
+  },
+  {
+    "id": "d8778e688813765a0ef640ee",
+    "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "published": "2026-08-11T05:48:44+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins. What: Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.. When: 2026-08-11T05:48:44+00:00. How: \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said. Action: See Arabic action below.",
+    "summary_ar": "من: BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins. ماذا: Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.. متى: 2026-08-11T05:48:44+00:00. كيف: \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html"
+    ]
+  },
+  {
     "id": "5d69890205dedd2082e03bd1",
     "title": "Hackers breached a small Polish energy plant via private APN last year",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
@@ -160613,42 +160649,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html"
-    ]
-  },
-  {
-    "id": "84e0095baaccc58bccad55a4",
-    "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/",
-    "published": "2026-02-12T07:00:08+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Meanwhile, IP-stealing 'distillation attacks' on the rise A Chinese government hacking group that has been sanctioned for targeting America's critical infrastructure used Google's AI chatbot, Gemini, to auto-analyze vulnerabilities and plan cyberattacks against US organizations, the company says.… Google: China's APT31 used Gemini to plan cyberattacks against US orgs. What: Google: China's APT31 used Gemini to plan cyberattacks against US orgs. When: 2026-02-12T07:00:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Meanwhile, IP-stealing 'distillation attacks' on the rise A Chinese government hacking group that has been sanctioned for targeting America's critical infrastructure used Google's AI chatbot, Gemini, to auto-analyze vulnerabilities and plan cyberattacks against US organizations, the company says.… Google: China's APT31 used Gemini to plan cyberattacks against US orgs. ماذا: Google: China's APT31 used Gemini to plan cyberattacks against US orgs. متى: 2026-02-12T07:00:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/09/16/shutterstock_china_digital_eyeball.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/12/google_china_apt31_gemini/"
-    ]
-  },
-  {
-    "id": "5211fb42d5ce49c165acf157",
-    "title": "Google says hackers are abusing Gemini AI for all attacks stages",
-    "link": "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/",
-    "published": "2026-02-12T07:00:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically probe models and replicate their logic and reasoning.. What: Google says hackers are abusing Gemini AI for all attacks stages. When: 2026-02-12T07:00:00+00:00. How: [...] Google says hackers are abusing Gemini AI for all attacks stages Action: See Arabic action below.",
-    "summary_ar": "من: Google Threat Intelligence Group (GTIG) has published a new report warning about AI model extraction/distillation attacks, in which private-sector firms and researchers use legitimate API access to systematically probe models and replicate their logic and reasoning.. ماذا: Google says hackers are abusing Gemini AI for all attacks stages. متى: 2026-02-12T07:00:00+00:00. كيف: [...] Google says hackers are abusing Gemini AI for all attacks stages. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/11/ai-extract.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-says-hackers-are-abusing-gemini-ai-for-all-attacks-stages/"
     ]
   }
 ]
