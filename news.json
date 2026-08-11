@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "29f0c8e8b88cc2c4ac255f67",
+    "title": "Only Half of UK Manufacturers Have a Cyber Incident Response Plan",
+    "link": "https://www.infosecurity-magazine.com/news/half-uk-manufacturers-cyber/",
+    "published": "2026-08-11T08:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Only Half of UK Manufacturers Have a Cyber Incident Response Plan. What: Only Half of UK Manufacturers Have a Cyber Incident Response Plan. When: 2026-08-11T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Only Half of UK Manufacturers Have a Cyber Incident Response Plan. ماذا: Only Half of UK Manufacturers Have a Cyber Incident Response Plan. متى: 2026-08-11T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/6e5f33a6-6b85-43ab-abab-b09021807a96.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/half-uk-manufacturers-cyber/"
+    ]
+  },
+  {
+    "id": "66ce18499c5654e5996c72e5",
+    "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "published": "2026-08-11T06:55:45+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine. What: Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine. When: 2026-08-11T06:55:45+00:00. How: while the intruders were still active inside the network, and customers lost neither heat Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine. ماذا: Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine. متى: 2026-08-11T06:55:45+00:00. كيف: while the intruders were still active inside the network, and customers lost neither heat Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html"
+    ]
+  },
+  {
     "id": "07fa0fcf1a16ebcd48544cf1",
     "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
     "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
@@ -160613,42 +160649,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/hackers-breach-senegal-national-biometric-database"
-    ]
-  },
-  {
-    "id": "fddb0c3d46607d2dfc2bca2d",
-    "title": "Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’",
-    "link": "https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/",
-    "published": "2026-02-12T07:48:35+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .. What: Impacting the ‘dyld’ system component, the memory corruption issue can be exploited for arbitrary code execution.. When: 2026-02-12T07:48:35+00:00. How: The post Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: The post Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .. ماذا: Impacting the ‘dyld’ system component, the memory corruption issue can be exploited for arbitrary code execution.. متى: 2026-02-12T07:48:35+00:00. كيف: The post Apple Patches iOS Zero-Day Exploited in ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/"
-    ]
-  },
-  {
-    "id": "4cabfe13f120cd85de420408",
-    "title": "83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure",
-    "link": "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html",
-    "published": "2026-02-12T07:32:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: 83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure. What: A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.. When: 2026-02-12T07:32:00+00:00. How: Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026. Action: See Arabic action below.",
-    "summary_ar": "من: 83% of Ivanti EPMM Exploits Linked to Single IP on Bulletproof Hosting Infrastructure. ماذا: A significant chunk of the exploitation attempts targeting a newly disclosed security flaw in Ivanti Endpoint Manager Mobile (EPMM) can be traced back to a single IP address on bulletproof hosting infrastructure offered by PROSPERO.. متى: 2026-02-12T07:32:00+00:00. كيف: Threat intelligence firm GreyNoise said it recorded 417 exploitation sessions from 8 unique source IP addresses between February 1 and 9, 2026.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/83-of-ivanti-epmm-exploits-linked-to.html"
     ]
   }
 ]
