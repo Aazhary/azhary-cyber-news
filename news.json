@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "97ba2e277c7540838000e2a3",
+    "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+    "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+    "published": "2026-08-11T22:15:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: DeadLock ransomware uses blockchain to resist infrastructure takedown. What: DeadLock ransomware uses blockchain to resist infrastructure takedown. When: 2026-08-11T22:15:22+00:00. How: The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. Action: See Arabic action below.",
+    "summary_ar": "من: DeadLock ransomware uses blockchain to resist infrastructure takedown. ماذا: DeadLock ransomware uses blockchain to resist infrastructure takedown. متى: 2026-08-11T22:15:22+00:00. كيف: The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/"
+    ]
+  },
+  {
     "id": "281b81b8739f61cc10d7b35d",
     "title": "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
     "link": "https://www.theregister.com/security/2026/08/11/signal-adds-an-extra-layer-of-security-to-make-sure-youre-actually-chatting-with-the-right-person/5286461",
@@ -36,13 +54,31 @@
     ]
   },
   {
+    "id": "ff92e9f79f1adc8482dbdcf2",
+    "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+    "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+    "published": "2026-08-11T21:42:34+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Microsoft's Patch Tuesday Deluge Continues With August Updates. What: Microsoft's Patch Tuesday Deluge Continues With August Updates. When: 2026-08-11T21:42:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft's Patch Tuesday Deluge Continues With August Updates. ماذا: Microsoft's Patch Tuesday Deluge Continues With August Updates. متى: 2026-08-11T21:42:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues"
+    ]
+  },
+  {
     "id": "c6c717e65a3dbd0dc7f978c0",
     "title": "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one",
     "link": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483",
     "published": "2026-08-11T21:31:00+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: This is an epic month for Microsoft patches, though not a record-setting one.. What: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. When: 2026-08-11T21:31:00+00:00. How: The big news is that North Korea’s Lazarus Group (and possibly other miscreants), found and attacked one of these flaws as a zero-day in early June. Action: See Arabic action below.",
-    "summary_ar": "من: This is an epic month for Microsoft patches, though not a record-setting one.. ماذا: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. متى: 2026-08-11T21:31:00+00:00. كيف: The big news is that North Korea’s Lazarus Group (and possibly other miscreants), found and attacked one of these flaws as a zero-day in early June.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: This is an epic month for Microsoft patches, though not a record-setting one.. What: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. When: 2026-08-11T21:31:00+00:00. How: The big news is that North Korea’s Lazarus Group (and possibly other miscreants) found and attacked one of these flaws as a zero-day in early June. Action: See Arabic action below.",
+    "summary_ar": "من: This is an epic month for Microsoft patches, though not a record-setting one.. ماذا: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. متى: 2026-08-11T21:31:00+00:00. كيف: The big news is that North Korea’s Lazarus Group (and possibly other miscreants) found and attacked one of these flaws as a zero-day in early June.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -160549,42 +160585,6 @@
     "image": "https://www.zdnet.com/a/img/resize/052bc31b4bc46909bee0693b24a9662065939e96/2026/02/12/1f9e4752-caf3-44b4-ad73-f2ff23dae196/gettyimages-2233950579.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/claude-ais-free-updates-cancel-subscription/"
-    ]
-  },
-  {
-    "id": "5f868cc0a6065f285515fb01",
-    "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again",
-    "link": "https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit",
-    "published": "2026-02-12T22:05:32+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again. What: Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again. When: 2026-02-12T22:05:32+00:00. How: It's time to phase out the &quot;patch and pray&quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says. Action: See Arabic action below.",
-    "summary_ar": "من: Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again. ماذا: Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy — Again. متى: 2026-02-12T22:05:32+00:00. كيف: It's time to phase out the &quot;patch and pray&quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit"
-    ]
-  },
-  {
-    "id": "1451931a6a788925ae382de7",
-    "title": "Bitwarden introduces ‘Cupid Vault’ for secure password sharing",
-    "link": "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/",
-    "published": "2026-02-12T21:55:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Bitwarden introduces ‘Cupid Vault’ for secure password sharing. What: Bitwarden introduces ‘Cupid Vault’ for secure password sharing. When: 2026-02-12T21:55:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bitwarden introduces ‘Cupid Vault’ for secure password sharing. ماذا: Bitwarden introduces ‘Cupid Vault’ for secure password sharing. متى: 2026-02-12T21:55:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/02/bitwarden-vault.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/"
     ]
   }
 ]
