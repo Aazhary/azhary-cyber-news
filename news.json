@@ -18,6 +18,87 @@
     ]
   },
   {
+    "id": "bd2583b3fb452b6b1c34718e",
+    "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+    "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+    "published": "2026-08-11T18:46:07+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .. What: A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.. When: 2026-08-11T18:46:07+00:00. How: The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .. ماذا: A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges.. متى: 2026-08-11T18:46:07+00:00. كيف: The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Microsoft-Security-leaders.jpg",
+    "sources": [
+      "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/"
+    ]
+  },
+  {
+    "id": "0a778419f468205e1102ae6a",
+    "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+    "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+    "published": "2026-08-11T18:36:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands. What: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.. When: 2026-08-11T18:36:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands. ماذا: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware.. متى: 2026-08-11T18:36:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP9vK0AfjfbpQDa7i5il113N22qO5N-mxuOw7qoNVnvUOnQIYRjhuKA8rxdRhaZ13t0r5jZtsj1bjQQatdbdxi3L1Fso99wsDJIAKkw6NVklb6S2PBfipUtUm6qNdGofjKrmSAHUc0P4qgPRK2tDoGftkwyD17KQHQm6cYP80rT4dUH-tg0rnd5SSfQBJl/s1600/interview.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html"
+    ]
+  },
+  {
+    "id": "866bdf3c06eeab391f5661e5",
+    "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+    "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+    "published": "2026-08-11T18:34:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees. What: Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees. When: 2026-08-11T18:34:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees. ماذا: Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees. متى: 2026-08-11T18:34:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/DeltaAirLine.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/"
+    ]
+  },
+  {
+    "id": "6e649e7a1661a8e7f897aa31",
+    "title": "Microsoft releases Windows 10 KB5120249 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+    "published": "2026-08-11T18:26:03+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs.. What: Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs.. When: 2026-08-11T18:26:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs.. ماذا: Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs.. متى: 2026-08-11T18:26:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/"
+    ]
+  },
+  {
     "id": "d04cab83c4a079c4b6f9be69",
     "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
@@ -24017,32 +24098,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Microsoft-Security-leaders.jpg",
     "sources": [
       "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/"
-    ]
-  },
-  {
-    "id": "0a16aeee4093d57c486c6fec",
-    "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-    "published": "2026-07-14T18:49:28+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements.. What: Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements.. When: 2026-07-14T18:49:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements.. ماذا: Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements.. متى: 2026-07-14T18:49:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/"
     ]
   },
   {
@@ -160447,42 +160502,6 @@
     "image": "https://www.zdnet.com/a/img/resize/f51b8a6f0e27fc939fa9ed6d91d2cf71c516d034/2025/08/06/abc5f806-c987-4380-b4c7-ef0a955f38aa/whatsapp-image-2025-08-06-at-13-39-05.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/heat-it-insect-bite-healer-review/"
-    ]
-  },
-  {
-    "id": "68b6722f5127037708993c5d",
-    "title": "Romania's oil pipeline operator Conpet confirms data stolen in attack",
-    "link": "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/",
-    "published": "2026-02-12T19:16:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Romania's oil pipeline operator Conpet confirms data stolen in attack. What: Romania's oil pipeline operator Conpet confirms data stolen in attack. When: 2026-02-12T19:16:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Romania's oil pipeline operator Conpet confirms data stolen in attack. ماذا: Romania's oil pipeline operator Conpet confirms data stolen in attack. متى: 2026-02-12T19:16:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/05/Conpet.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/romanias-oil-pipeline-operator-conpet-confirms-data-stolen-in-attack/"
-    ]
-  },
-  {
-    "id": "9fc7fd8b09a08ca039351120",
-    "title": "Odido data breach exposes personal info of 6.2 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/",
-    "published": "2026-02-12T18:18:14+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Odido data breach exposes personal info of 6.2 million customers. What: Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers.. When: 2026-02-12T18:18:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Odido data breach exposes personal info of 6.2 million customers. ماذا: Dutch telecommunications provider Odido is warning that it suffered a cyberattack that reportedly exposed the personal data of 6.2 million customers.. متى: 2026-02-12T18:18:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/12/odido.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/"
     ]
   }
 ]
