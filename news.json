@@ -18,6 +18,96 @@
     ]
   },
   {
+    "id": "58f27f8111b758808d47b581",
+    "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
+    "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
+    "published": "2026-08-11T11:36:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Mozilla has revoked a cryptographic key used to sign Firefox and Thunderbird releases after discovering someone had accidentally committed an unencrypted copy of the private key to a GitHub repository.. What: The browser maker disclosed the mishap on Monday, saying the GPG private subkey was checked into a private GitHub repository accessible only to a small number of Mozilla employees.. When: 2026-08-11T11:36:00+00:00. How: All of them were already authorized to access the key through other means. Action: See Arabic action below.",
+    "summary_ar": "من: Mozilla has revoked a cryptographic key used to sign Firefox and Thunderbird releases after discovering someone had accidentally committed an unencrypted copy of the private key to a GitHub repository.. ماذا: The browser maker disclosed the mishap on Monday, saying the GPG private subkey was checked into a private GitHub repository accessible only to a small number of Mozilla employees.. متى: 2026-08-11T11:36:00+00:00. كيف: All of them were already authorized to access the key through other means.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5274447.jpg?imageId=5274447&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908"
+    ]
+  },
+  {
+    "id": "cfbcaf46624e402ab6d41216",
+    "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+    "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "published": "2026-08-11T11:30:08+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Arie Olshtein, a researcher at security firm Palo Alto Networks, described in a post last week how Pass-ta-key could obtain all passkeys stored in the Google Password Manager app (GPM) for Windows when it’s running on a machine infected with malware.. What: New Pass-ta-key attack reveals all the things we didn't know about passkeys. When: 2026-08-11T11:30:08+00:00. How: This distinction is important because the research has generated confusion among end users and security professionals as they assess whether this new mechanism is truly safe to use. Action: See Arabic action below.",
+    "summary_ar": "من: Arie Olshtein, a researcher at security firm Palo Alto Networks, described in a post last week how Pass-ta-key could obtain all passkeys stored in the Google Password Manager app (GPM) for Windows when it’s running on a machine infected with malware.. ماذا: New Pass-ta-key attack reveals all the things we didn't know about passkeys. متى: 2026-08-11T11:30:08+00:00. كيف: This distinction is important because the research has generated confusion among end users and security professionals as they assess whether this new mechanism is truly safe to use.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/passkey-target-illustration-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/"
+    ]
+  },
+  {
+    "id": "9b4b0b4317d0a6a67eda2d87",
+    "title": "OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber",
+    "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-blue-red-gpt-cyber/",
+    "published": "2026-08-11T11:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Daybreak Blue removes some OpenAI-made guardrails while Daybreak Red grants the use of cyber-focused frontier AI models OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber. What: OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber. When: 2026-08-11T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Daybreak Blue removes some OpenAI-made guardrails while Daybreak Red grants the use of cyber-focused frontier AI models OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber. ماذا: OpenAI Launches Two-Tier Security Access Program Alongside GPT 5.6 Cyber. متى: 2026-08-11T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/6e44387b-2d20-4cb1-b031-503bb86935ad.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/openai-daybreak-blue-red-gpt-cyber/"
+    ]
+  },
+  {
+    "id": "e170508d62a59d30adb2d9c6",
+    "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+    "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
+    "published": "2026-08-11T11:15:15+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.. What: Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities. When: 2026-08-11T11:15:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data.. ماذا: Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities. متى: 2026-08-11T11:15:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Chrome.jpeg",
+    "sources": [
+      "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/"
+    ]
+  },
+  {
+    "id": "70ff24acb6a046b328c99aa7",
+    "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+    "published": "2026-08-11T11:03:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks.. What: Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks.. When: 2026-08-11T11:03:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks.. ماذا: Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks.. متى: 2026-08-11T11:03:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Cisco.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/"
+    ]
+  },
+  {
     "id": "8446412b3947b6a98e39587e",
     "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
     "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
@@ -160649,134 +160739,6 @@
     "image": "https://regmedia.co.uk/2024/03/29/chain_shutterstock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/12/supply_chain_attacks/"
-    ]
-  },
-  {
-    "id": "1dfcad1d7a8f5915886b4a80",
-    "title": "Finally, I found a MagSafe power bank that's fit for traveling (and fancy dinners)",
-    "link": "https://www.zdnet.com/article/twelve-south-power-capsule-charger-review/",
-    "published": "2026-02-12T11:56:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Finally, I found a MagSafe power bank that's fit for traveling (and fancy dinners). What: Finally, I found a MagSafe power bank that's fit for traveling (and fancy dinners). When: 2026-02-12T11:56:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Finally, I found a MagSafe power bank that's fit for traveling (and fancy dinners). ماذا: Finally, I found a MagSafe power bank that's fit for traveling (and fancy dinners). متى: 2026-02-12T11:56:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2202247bc026c18c09c112f20664791029fdcc98/2026/02/11/6cdc2fd2-7015-417e-a354-53ef1b75bbf2/img-3710.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/twelve-south-power-capsule-charger-review/"
-    ]
-  },
-  {
-    "id": "649c8184aed663cb979cdd1b",
-    "title": "Samsung Galaxy S26 Ultra vs. S25 Ultra: What worries me after years with Galaxy",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-concerns/",
-    "published": "2026-02-12T11:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy S26 Ultra vs. S25 Ultra: What worries me after years with Galaxy. What: Samsung Galaxy S26 Ultra vs. S25 Ultra: What worries me after years with Galaxy. When: 2026-02-12T11:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy S26 Ultra vs. S25 Ultra: What worries me after years with Galaxy. ماذا: Samsung Galaxy S26 Ultra vs. S25 Ultra: What worries me after years with Galaxy. متى: 2026-02-12T11:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0c5194b2397142ec91463890fa04ba6b156d59f0/2025/04/04/38aac0c2-a5ac-4e4a-94c9-96bf7e8908d3/dsc05222.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-galaxy-s25-ultra-concerns/"
-    ]
-  },
-  {
-    "id": "bb2748b1bcf369869e122e8b",
-    "title": "ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html",
-    "published": "2026-02-12T11:51:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories. What: ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories. When: 2026-02-12T11:51:00+00:00. How: Initial entry points are getting simpler, while post-compromise ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories Action: See Arabic action below.",
-    "summary_ar": "من: ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories. ماذا: ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories. متى: 2026-02-12T11:51:00+00:00. كيف: Initial entry points are getting simpler, while post-compromise ThreatsDay Bulletin: AI Prompt RCE, Claude 0-Click, RenEngine Loader, Auto 0-Days & 25+ Stories. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Nc_7NCkh6b_GnhFP3euTAuace33F0nRMsZfDoe-xx5pN0Wm5kDPdUQhqxqfMIs_Y7MgXIBUAqAeRIk8lwfY8CsOqC27RxU9MH03DMNRpt56mJGU_okNrnEwdqFkaApUrObEBFmDnCHQXXJe_VdkUMbMXsa356WODvfsU4FPvciKR2CcIpNAHsrWGSe0a/s1600/threatsday-main-1.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/threatsday-bulletin-ai-prompt-rce.html"
-    ]
-  },
-  {
-    "id": "896dee26703bc65c0e2ba775",
-    "title": "This Eero backup device keeps you online when your ISP fails - I wish I had it just weeks ago",
-    "link": "https://www.zdnet.com/article/eero-signal-4g-available-buy-now/",
-    "published": "2026-02-12T11:51:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This Eero backup device keeps you online when your ISP fails - I wish I had it just weeks ago. What: This Eero backup device keeps you online when your ISP fails - I wish I had it just weeks ago. When: 2026-02-12T11:51:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This Eero backup device keeps you online when your ISP fails - I wish I had it just weeks ago. ماذا: This Eero backup device keeps you online when your ISP fails - I wish I had it just weeks ago. متى: 2026-02-12T11:51:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/30bf4b371860c3be2f97d04d8a42866e6202c536/2026/02/11/733139f6-c0f9-4ebf-8c68-dc92fa2b4523/eero-signal.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/eero-signal-4g-available-buy-now/"
-    ]
-  },
-  {
-    "id": "9a1dd034290d60ca7a69353a",
-    "title": "Your Android's most powerful security feature is off by default - how to turn it on ASAP",
-    "link": "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
-    "published": "2026-02-12T11:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: One of Google's most critical features is hidden behind a single toggle.. What: Your Android's most powerful security feature is off by default - how to turn it on ASAP. When: 2026-02-12T11:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: One of Google's most critical features is hidden behind a single toggle.. ماذا: Your Android's most powerful security feature is off by default - how to turn it on ASAP. متى: 2026-02-12T11:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/97e54f63c62ca36f1918f3770a35ff7cc6387abf/2026/02/11/948011d3-c52d-4add-bb8c-ebe076739d79/your-android-phones-most-powerful-security-feature-is-off-by-default-and-hidden-turn-it-on-now.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16-phone/",
-      "https://www.zdnet.com/article/how-to-turn-on-advanced-protection-android-16/",
-      "https://www.zdnet.com/article/your-android-phones-most-critical-security-feature-is-turned-off-by-default-how-to-enable-it-asap/"
-    ]
-  },
-  {
-    "id": "5d12323bf8dcdeefeef2fc46",
-    "title": "Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards",
-    "link": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
-    "published": "2026-02-12T11:27:30+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards appeared first on SecurityWeek .. What: Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards. When: 2026-02-12T11:27:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards appeared first on SecurityWeek .. ماذا: Microsoft to Enable ‘Windows Baseline Security’ With New Runtime Integrity Safeguards. متى: 2026-02-12T11:27:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/"
-    ]
-  },
-  {
-    "id": "ca296e7560b4824a4ccdc63e",
-    "title": "Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns",
-    "link": "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/",
-    "published": "2026-02-12T11:12:46+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns appeared first on SecurityWeek .. What: Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns. When: 2026-02-12T11:12:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns appeared first on SecurityWeek .. ماذا: Hacktivists, State Actors, Cybercriminals Target Global Defense Industry, Google Warns. متى: 2026-02-12T11:12:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/"
     ]
   }
 ]
