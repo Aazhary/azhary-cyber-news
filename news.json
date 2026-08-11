@@ -18,6 +18,134 @@
     ]
   },
   {
+    "id": "dbd10b55a9551ff1e5f0291f",
+    "title": "Deepfake hiccup unmasks suspected digital certificate fraudster",
+    "link": "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934",
+    "published": "2026-08-11T12:27:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Deepfake hiccup unmasks suspected digital certificate fraudster. What: A certificate issued in someone else's name would therefore give a scammer a powerful tool for impersonation.. When: 2026-08-11T12:27:00+00:00. How: The alleged fraudster targeted a security company authorized to issue digital certificates and bypassed its identity checks using forged documents, altered photographs, deepfake tools, and a carefully arranged lighting rig. Action: See Arabic action below.",
+    "summary_ar": "من: Deepfake hiccup unmasks suspected digital certificate fraudster. ماذا: A certificate issued in someone else's name would therefore give a scammer a powerful tool for impersonation.. متى: 2026-08-11T12:27:00+00:00. كيف: The alleged fraudster targeted a security company authorized to issue digital certificates and bypassed its identity checks using forged documents, altered photographs, deepfake tools, and a carefully arranged lighting rig.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5286216.jpg?imageId=5286216&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/deepfake-hiccup-unmasks-suspected-digital-certificate-fraudster/5285934"
+    ]
+  },
+  {
+    "id": "49f74c46b3ff8614369b9618",
+    "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+    "published": "2026-08-11T12:12:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July.. What: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July.. When: 2026-08-11T12:12:16+00:00. How: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. Action: See Arabic action below.",
+    "summary_ar": "من: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July.. ماذا: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July.. متى: 2026-08-11T12:12:16+00:00. كيف: CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Microsoft-SharePoint.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "69257022c470a3487bcf9ef9",
+    "title": "A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices",
+    "link": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
+    "published": "2026-08-11T12:05:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices. What: A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices. When: 2026-08-11T12:05:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices. ماذا: A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices. متى: 2026-08-11T12:05:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-_ftAONA3vSU_pho_96pouqt_n3CXa1PRfS2fhilG7JBshSuPpKNZzKVFvPRASkzNSVrDj-U4sISWf8TN9fuNqgAr4g07OYcRzZ7ecqVlAkd_C1EBL2bJZBCKMA90CLSrWN_s3I2-dhBLDGuH3juBdciPUruhDBkC2826KaVwB41tr122SnxgBeWw3VM/s1600/malware-sim.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html"
+    ]
+  },
+  {
+    "id": "b3306e60b5cebc95b28aeeb9",
+    "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
+    "link": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
+    "published": "2026-08-11T12:04:51+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo. What: Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo. When: 2026-08-11T12:04:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo. ماذا: Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo. متى: 2026-08-11T12:04:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1-B4O1t_ddtTQg7WCfQLhdWxNygkI3C3DHfugd_0ogZbFCixAf-J9IffSq3KuSSPDofAEj5wNrVHlzRx3qbj7cPQhbBfnvOXOAJxjTSJ_7rdtZe3ne_R4Yz7Gv_7VrNH8CyB8psfzpejy9EbohuyYW3G1pg4FChDRVv8WPxp8B449rGIXnS4WSoD5JI/s1600/firefox.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html"
+    ]
+  },
+  {
+    "id": "e17b212f9760a4e1d370aeda",
+    "title": "Corma Raises $60 Million for Defensive Cybersecurity AI Model",
+    "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
+    "published": "2026-08-11T12:01:46+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Corma Raises $60 Million for Defensive Cybersecurity AI Model. What: Corma Raises $60 Million for Defensive Cybersecurity AI Model. When: 2026-08-11T12:01:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Corma Raises $60 Million for Defensive Cybersecurity AI Model. ماذا: Corma Raises $60 Million for Defensive Cybersecurity AI Model. متى: 2026-08-11T12:01:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/funding-investment.jpeg",
+    "sources": [
+      "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/"
+    ]
+  },
+  {
+    "id": "c6b6a386d51c8e73ad643e48",
+    "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
+    "link": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
+    "published": "2026-08-11T12:00:55+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Overview of the attack In July 2026, Kaspersky experts detected a new attack by the Head Mare group.. What: Overview of the attack In July 2026, Kaspersky experts detected a new attack by the Head Mare group.. When: 2026-08-11T12:00:55+00:00. How: Previously, we classified them as hacktivists, but now we define them as an APT group due to the sophistication of their TTPs and the absence of destructive activity (encryption, wiping) in the targeted infrastructures. Action: See Arabic action below.",
+    "summary_ar": "من: Overview of the attack In July 2026, Kaspersky experts detected a new attack by the Head Mare group.. ماذا: Overview of the attack In July 2026, Kaspersky experts detected a new attack by the Head Mare group.. متى: 2026-08-11T12:00:55+00:00. كيف: Previously, we classified them as hacktivists, but now we define them as an APT group due to the sophistication of their TTPs and the absence of destructive activity (encryption, wiping) in the targeted infrastructures.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/10125346/trueconf-head-mare-ics-cert-featured-image.jpg",
+    "sources": [
+      "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/"
+    ]
+  },
+  {
+    "id": "247f7e332713e550df009a84",
+    "title": "Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks",
+    "link": "https://www.infosecurity-magazine.com/news/suisan-cyber-incident-government/",
+    "published": "2026-08-11T12:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks. What: Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks. When: 2026-08-11T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks. ماذا: Suisan City, California, Responds to Cyber Incident Amid Wave of US Local Government Attacks. متى: 2026-08-11T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/f80bc702-e17d-4549-8a65-fbba88bcb72d.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/suisan-cyber-incident-government/"
+    ]
+  },
+  {
     "id": "58f27f8111b758808d47b581",
     "title": "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
     "link": "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908",
@@ -33,6 +161,24 @@
     "image": "https://image.theregister.com/5274447.jpg?imageId=5274447&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/11/mozilla-revokes-firefox-signing-key-after-unencrypted-copy-lands-in-github/5285908"
+    ]
+  },
+  {
+    "id": "c5e2acb56602b69ca42b304f",
+    "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
+    "link": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
+    "published": "2026-08-11T11:35:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers. What: Every virtual machine the company issued was recording.. When: 2026-08-11T11:35:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers. ماذا: Every virtual machine the company issued was recording.. متى: 2026-08-11T11:35:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIGgelUshBcG56Nc5uWqBbhQwtUxWtNgSIRTCiJXZoJtkuTWeXEV0KiWRje-UhGGnrvf6wNOmmBGQ7yAxKNigAuJE00RicY4ris0k02Dd_1ch7_RcSM2aJtGvgf4miSazvFMNEqTmVDY3nlDT1zPwg5vkafqzMwbkFRZ1kO4xU2mzZgfxAEUTM0zObjGE/s1600/nk.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html"
     ]
   },
   {
@@ -32767,24 +32913,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/02/White-House-Cybersecurity.jpg",
     "sources": [
       "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/"
-    ]
-  },
-  {
-    "id": "c65462a4cad6a7e9fa002a4f",
-    "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-    "published": "2026-07-02T10:52:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May.. What: CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May.. When: 2026-07-02T10:52:43+00:00. How: [...] CISA: Microsoft SharePoint RCE flaw now actively exploited Action: See Arabic action below.",
-    "summary_ar": "من: CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May.. ماذا: CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May.. متى: 2026-07-02T10:52:43+00:00. كيف: [...] CISA: Microsoft SharePoint RCE flaw now actively exploited. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/"
     ]
   },
   {
@@ -126625,24 +126753,6 @@
     ]
   },
   {
-    "id": "7ad90dddf61394dab6482c52",
-    "title": "Critical Microsoft SharePoint flaw now exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/",
-    "published": "2026-03-19T10:06:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned.. What: A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned.. When: 2026-03-19T10:06:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned.. ماذا: A critical Microsoft SharePoint vulnerability patched in January is now being exploited in attacks, the Cybersecurity and Infrastructure Security Agency (CISA) warned.. متى: 2026-03-19T10:06:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/critical-microsoft-sharepoint-flaw-now-exploited-in-attacks/"
-    ]
-  },
-  {
     "id": "7910ba81dd70054bc4cf93ac",
     "title": "9 useful car gadgets I'd pay full price for (but some are on sale now)",
     "link": "https://www.zdnet.com/article/car-gadgets-amazon-spring-sale-2026/",
@@ -160558,187 +160668,6 @@
     "image": "https://www.zdnet.com/a/img/resize/80fd27c4fa33fc40d1990a87c445cc0df74743b3/2024/03/07/5ca913b8-4489-465f-8086-28f6305d6de0/m3-macbook-air-lid-open.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/reins-is-a-gui-for-local-llms-that-simplifies-using-multiple-models/"
-    ]
-  },
-  {
-    "id": "cc17840b5b75b288bec06bdd",
-    "title": "Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds",
-    "link": "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/",
-    "published": "2026-02-12T12:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds. What: Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds. When: 2026-02-12T12:45:00+00:00. How: Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds Action: See Arabic action below.",
-    "summary_ar": "من: Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds. ماذا: Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds. متى: 2026-02-12T12:45:00+00:00. كيف: Google researchers found that government-backed hackers now use AI throughout the whole attack lifecycle Nation-State Hackers Embrace Gemini AI for Malicious Campaigns, Google Finds. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/3c431392-4e12-4025-9f83-a403f0ddcdbe.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/nation-state-hackers-gemini-ai/"
-    ]
-  },
-  {
-    "id": "39f1438f42ef02e59b9e1d2d",
-    "title": "How to watch local news on Roku for free - no subscription or TV antenna required",
-    "link": "https://www.zdnet.com/article/how-to-watch-local-news-on-roku-free/",
-    "published": "2026-02-12T12:36:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to watch local news on Roku for free - no subscription or TV antenna required. What: How to watch local news on Roku for free - no subscription or TV antenna required. When: 2026-02-12T12:36:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to watch local news on Roku for free - no subscription or TV antenna required. ماذا: How to watch local news on Roku for free - no subscription or TV antenna required. متى: 2026-02-12T12:36:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c56763b4b12e6b74042ac0b658bdeebb27b424c8/2026/01/29/925ff600-3a63-4939-b747-4e298bd1b19b/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-watch-local-news-on-roku-free/",
-      "https://www.zdnet.com/article/roku-revamps-news-hub-watch-local-stations-free/"
-    ]
-  },
-  {
-    "id": "166ec871183a342a5bf9bb4e",
-    "title": "Verizon will give you a free iPhone, Samsung, or Pixel with its latest business deal - how to qualify",
-    "link": "https://www.zdnet.com/article/verizon-small-business-days-sale/",
-    "published": "2026-02-12T12:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Verizon will give you a free iPhone, Samsung, or Pixel with its latest business deal - how to qualify. What: Verizon will give you a free iPhone, Samsung, or Pixel with its latest business deal - how to qualify. When: 2026-02-12T12:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Verizon will give you a free iPhone, Samsung, or Pixel with its latest business deal - how to qualify. ماذا: Verizon will give you a free iPhone, Samsung, or Pixel with its latest business deal - how to qualify. متى: 2026-02-12T12:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ea3e7bea93c45f0023b097e62d3722d3642429e/2026/02/11/4e1b6a59-a793-48e4-9fd3-cdd64e9dd771/verizon-free-phones.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/verizon-small-business-days-sale/"
-    ]
-  },
-  {
-    "id": "f96ddbd08b3a454112c443b3",
-    "title": "One of the best budget Android tablets I've tested replaced both my iPad and Kindle",
-    "link": "https://www.zdnet.com/article/oneplus-pad-go-2-tablet-review/",
-    "published": "2026-02-12T12:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: One of the best budget Android tablets I've tested replaced both my iPad and Kindle. What: One of the best budget Android tablets I've tested replaced both my iPad and Kindle. When: 2026-02-12T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: One of the best budget Android tablets I've tested replaced both my iPad and Kindle. ماذا: One of the best budget Android tablets I've tested replaced both my iPad and Kindle. متى: 2026-02-12T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d59dfa2b0edd5b369f7e33d6f8be5a1a4cac33ee/2026/02/12/006b96a3-7e0d-4eb3-87a7-58599f9624f7/img-9896.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oneplus-pad-go-2-tablet-review/"
-    ]
-  },
-  {
-    "id": "c0070ba24a698c1e74824ccb",
-    "title": "Slow Wi-Fi? I found 10 proven ways to fix your internet this weekend (most are free)",
-    "link": "https://www.zdnet.com/article/bad-wifi-10-fixes-for-better-internet/",
-    "published": "2026-02-12T12:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Slow Wi-Fi? I found 10 proven ways to fix your internet this weekend (most are free). What: I found 10 proven ways to fix your internet this weekend (most are free). When: 2026-02-12T12:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Slow Wi-Fi? I found 10 proven ways to fix your internet this weekend (most are free). ماذا: I found 10 proven ways to fix your internet this weekend (most are free). متى: 2026-02-12T12:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ec24d563441dfe94581d84da964802d87183b48f/2025/01/10/e40bc85f-8ff6-4531-a750-aca86111f1bd/l.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bad-wifi-10-fixes-for-better-internet/"
-    ]
-  },
-  {
-    "id": "08d399166b473f5b5deed82d",
-    "title": "I wrote Linux bash scripts on Android without breaking anything - here's how you can, too",
-    "link": "https://www.zdnet.com/article/linux-bash-scripts-how-to-learn-on-android-device/",
-    "published": "2026-02-12T12:26:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I wrote Linux bash scripts on Android without breaking anything - here's how you can, too. What: I wrote Linux bash scripts on Android without breaking anything - here's how you can, too. When: 2026-02-12T12:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I wrote Linux bash scripts on Android without breaking anything - here's how you can, too. ماذا: I wrote Linux bash scripts on Android without breaking anything - here's how you can, too. متى: 2026-02-12T12:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7be5f6a3fa7c3044020b82c7f1b3772cc65807d4/2025/12/10/6f01f117-f5d1-485c-ab04-8093c7e1448b/how-to-start-using-the-new-linux-terminal-on-your-android-device.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/linux-bash-scripts-how-to-learn-on-android-device/"
-    ]
-  },
-  {
-    "id": "5dac2061837a6841bb41e990",
-    "title": "7 ChatGPT settings tweaks that I can no longer work without - and I'm a power user",
-    "link": "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/",
-    "published": "2026-02-12T12:24:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 7 ChatGPT settings tweaks that I can no longer work without - and I'm a power user. What: 7 ChatGPT settings tweaks that I can no longer work without - and I'm a power user. When: 2026-02-12T12:24:00+00:00. How: Stop using ChatGPT on factory settings. Action: See Arabic action below.",
-    "summary_ar": "من: 7 ChatGPT settings tweaks that I can no longer work without - and I'm a power user. ماذا: 7 ChatGPT settings tweaks that I can no longer work without - and I'm a power user. متى: 2026-02-12T12:24:00+00:00. كيف: Stop using ChatGPT on factory settings.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/30f8ec1f20ad5059ce4ef465c6558dfc8b448876/2025/12/23/84ad8527-8531-4218-89f6-8a7e125e9ea3/how-to-learn-chatgpt-in-under-an-hour-using-my-favorite-guides-and-videos-for-free.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/"
-    ]
-  },
-  {
-    "id": "9908b44705b365137e45e57e",
-    "title": "ApolloMD Data Breach Impacts 626,000 Individuals",
-    "link": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
-    "published": "2026-02-12T12:23:33+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ApolloMD Data Breach Impacts 626,000 Individuals. What: ApolloMD Data Breach Impacts 626,000 Individuals. When: 2026-02-12T12:23:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ApolloMD Data Breach Impacts 626,000 Individuals. ماذا: ApolloMD Data Breach Impacts 626,000 Individuals. متى: 2026-02-12T12:23:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/"
-    ]
-  },
-  {
-    "id": "9b9d67b1368e147aff7a5eb6",
-    "title": "Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet",
-    "link": "https://www.zdnet.com/article/microsofts-february-patch-tuesday-update/",
-    "published": "2026-02-12T12:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet. What: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet. When: 2026-02-12T12:03:00+00:00. How: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet. ماذا: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet. متى: 2026-02-12T12:03:00+00:00. كيف: Microsoft's February Patch fixes 6 zero-days - but some Windows users shouldn't update yet. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2a58903bcfe1ff371b6979990af500472fb5d241/2024/06/19/48fea9c2-3727-4ad0-85e9-0906b8f6341b/dsc00989.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsofts-february-patch-tuesday-update/"
-    ]
-  },
-  {
-    "id": "0ee909af1845f15b6464e7d3",
-    "title": "Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/supply_chain_attacks/",
-    "published": "2026-02-12T11:59:09+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy. What: Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy. When: 2026-02-12T11:59:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy. ماذا: Supply chain attacks now fuel a 'self-reinforcing' cybercrime economy. متى: 2026-02-12T11:59:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/03/29/chain_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/12/supply_chain_attacks/"
     ]
   }
 ]
