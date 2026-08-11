@@ -18,6 +18,141 @@
     ]
   },
   {
+    "id": "281b81b8739f61cc10d7b35d",
+    "title": "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
+    "link": "https://www.theregister.com/security/2026/08/11/signal-adds-an-extra-layer-of-security-to-make-sure-youre-actually-chatting-with-the-right-person/5286461",
+    "published": "2026-08-11T21:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cloudflare and security firm Trail of Bits serve as Signal’s AKV third-party auditors, according to the announcement.. What: To fight this possibility, Signal announced a new feature called Automatic Key Verification (AKV) on Tuesday.. When: 2026-08-11T21:45:00+00:00. How: But in theory, someone could still intercept messages by corrupting the centralized directory of accounts and posing as somebody else – a classic \"man in the middle\" attack. Action: See Arabic action below.",
+    "summary_ar": "من: Cloudflare and security firm Trail of Bits serve as Signal’s AKV third-party auditors, according to the announcement.. ماذا: To fight this possibility, Signal announced a new feature called Automatic Key Verification (AKV) on Tuesday.. متى: 2026-08-11T21:45:00+00:00. كيف: But in theory, someone could still intercept messages by corrupting the centralized directory of accounts and posing as somebody else – a classic \"man in the middle\" attack.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/227546.jpg?imageId=227546&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/signal-adds-an-extra-layer-of-security-to-make-sure-youre-actually-chatting-with-the-right-person/5286461"
+    ]
+  },
+  {
+    "id": "c6c717e65a3dbd0dc7f978c0",
+    "title": "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one",
+    "link": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483",
+    "published": "2026-08-11T21:31:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: This is an epic month for Microsoft patches, though not a record-setting one.. What: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. When: 2026-08-11T21:31:00+00:00. How: The big news is that North Korea’s Lazarus Group (and possibly other miscreants), found and attacked one of these flaws as a zero-day in early June. Action: See Arabic action below.",
+    "summary_ar": "من: This is an epic month for Microsoft patches, though not a record-setting one.. ماذا: Redmond addressed 421 bugs in its own products this month - about 200 fewer CVEs than last month, but likely the new norm with AI-assisted vulnerability disclosures and fixes.. متى: 2026-08-11T21:31:00+00:00. كيف: The big news is that North Korea’s Lazarus Group (and possibly other miscreants), found and attacked one of these flaws as a zero-day in early June.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-62832",
+      "CVE-2026-62893",
+      "CVE-2026-62911",
+      "CVE-2026-68820"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
+    ]
+  },
+  {
+    "id": "cff573d711d0832681486b99",
+    "title": "Microsoft Plugs Nearly 400 Security Holes",
+    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "published": "2026-08-11T21:28:35+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. What: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. When: 2026-08-11T21:28:35+00:00. How: The 7.0 score reflects the high attack complexity, because race conditions are fiddly. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. ماذا: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. متى: 2026-08-11T21:28:35+00:00. كيف: The 7.0 score reflects the high attack complexity, because race conditions are fiddly.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-62832",
+      "CVE-2026-68820",
+      "CVE-2026-72971"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
+    ]
+  },
+  {
+    "id": "862f5a775feffc27e762d993",
+    "title": "Why software factories are back - and how they work in the age of AI",
+    "link": "https://www.zdnet.com/article/why-software-factories-are-back-ai/",
+    "published": "2026-08-11T21:23:33+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Why software factories are back - and how they work in the age of AI. What: Why software factories are back - and how they work in the age of AI. When: 2026-08-11T21:23:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why software factories are back - and how they work in the age of AI. ماذا: Why software factories are back - and how they work in the age of AI. متى: 2026-08-11T21:23:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/27f6204f5740206220039830174cd1f04c3f7259/2026/08/11/15635ea2-5a39-404a-9c0d-5e5b17c1fbd7/softwarefactorygettyimages-1421511848.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/why-software-factories-are-back-ai/"
+    ]
+  },
+  {
+    "id": "bc022a3d07f66c1c123a05ac",
+    "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+    "published": "2026-08-11T21:16:25+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.. What: Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA. When: 2026-08-11T21:16:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.. ماذا: Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA. متى: 2026-08-11T21:16:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa"
+    ]
+  },
+  {
+    "id": "3078c8afecfd717bbd17017c",
+    "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+    "published": "2026-08-11T21:07:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Sandworm hackers target IT pros with trojanized WireGuard VPN client. What: Sandworm hackers target IT pros with trojanized WireGuard VPN client. When: 2026-08-11T21:07:24+00:00. How: Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. Action: See Arabic action below.",
+    "summary_ar": "من: Sandworm hackers target IT pros with trojanized WireGuard VPN client. ماذا: Sandworm hackers target IT pros with trojanized WireGuard VPN client. متى: 2026-08-11T21:07:24+00:00. كيف: Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/apt44.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/"
+    ]
+  },
+  {
+    "id": "d717af62f3980f0f25828f14",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "published": "2026-08-11T20:59:52+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Google’s Chrome browser has added a new feature that could go a long way in preventing a form of account takeover that’s grown increasingly common as users adopt two-factor authentication, passkeys, and similar protections.. What: Recently released versions of Chrome for Windows and macOS generate a key that’s stored in this fortress.. When: 2026-08-11T20:59:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google’s Chrome browser has added a new feature that could go a long way in preventing a form of account takeover that’s grown increasingly common as users adopt two-factor authentication, passkeys, and similar protections.. ماذا: Recently released versions of Chrome for Windows and macOS generate a key that’s stored in this fortress.. متى: 2026-08-11T20:59:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
+    ]
+  },
+  {
     "id": "bb30d17ae5bff0699d98e8df",
     "title": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
     "link": "https://www.zdnet.com/article/how-to-make-generate-ai-flyer-tips-prompts-that-work/",
@@ -160450,78 +160585,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/05/02/bitwarden-vault.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/"
-    ]
-  },
-  {
-    "id": "de144249560f83f22c4187ee",
-    "title": "Critical BeyondTrust RCE flaw now exploited in attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/",
-    "published": "2026-02-12T21:34:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Critical BeyondTrust RCE flaw now exploited in attacks, patch now. What: A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online.. When: 2026-02-12T21:34:12+00:00. How: [...] Critical BeyondTrust RCE flaw now exploited in attacks, patch now Action: See Arabic action below.",
-    "summary_ar": "من: Critical BeyondTrust RCE flaw now exploited in attacks, patch now. ماذا: A critical pre-authentication remote code execution vulnerability in BeyondTrust Remote Support and Privileged Remote Access appliances is now being exploited in attacks after a PoC was published online.. متى: 2026-02-12T21:34:12+00:00. كيف: [...] Critical BeyondTrust RCE flaw now exploited in attacks, patch now. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/09/BeyondTrust.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/"
-    ]
-  },
-  {
-    "id": "fff1b2fbde6b5482468732be",
-    "title": "Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense",
-    "link": "https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser",
-    "published": "2026-02-12T21:23:06+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense. What: Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense. When: 2026-02-12T21:23:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense. ماذا: Booz Allen Announces General Availability of Vellox Reverser to Automate Malware Defense. متى: 2026-02-12T21:23:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/booz-allen-announces-general-availability-vellox-reverser"
-    ]
-  },
-  {
-    "id": "a92a9cff2c6003d8be99af6d",
-    "title": "SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management",
-    "link": "https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry",
-    "published": "2026-02-12T21:11:52+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management. What: SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management. When: 2026-02-12T21:11:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management. ماذا: SpecterOps Launches BloodHound Scentry to Accelerate the Practice of Identity Attack Path Management. متى: 2026-02-12T21:11:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/identity-access-management-security/specterops-launches-bloodhound-scentry"
-    ]
-  },
-  {
-    "id": "89af021f9135c55fdcd3dace",
-    "title": "Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents",
-    "link": "https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents",
-    "published": "2026-02-12T21:04:25+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents. What: Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents. When: 2026-02-12T21:04:25+00:00. How: Men should take extra care on Valentine’s Day because they are nearly twice as likely as women to fall victim to romance scams. Action: See Arabic action below.",
-    "summary_ar": "من: Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents. ماذا: Gone With the Shame: One in Two Americans Are Reluctant to Talk About Romance Scam Incidents. متى: 2026-02-12T21:04:25+00:00. كيف: Men should take extra care on Valentine’s Day because they are nearly twice as likely as women to fall victim to romance scams.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/one-in-two-americans-romance-scam-incidents"
     ]
   }
 ]
