@@ -18,6 +18,52 @@
     ]
   },
   {
+    "id": "d04cab83c4a079c4b6f9be69",
+    "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+    "published": "2026-08-11T18:08:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.. What: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.. When: 2026-08-11T18:08:50+00:00. How: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. Action: See Arabic action below.",
+    "summary_ar": "من: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.. ماذا: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.. متى: 2026-08-11T18:08:50+00:00. كيف: Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/"
+    ]
+  },
+  {
+    "id": "fefa707ad42d700cf917323b",
+    "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+    "published": "2026-08-11T17:38:42+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features.. What: Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features.. When: 2026-08-11T17:38:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features.. ماذا: Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features.. متى: 2026-08-11T17:38:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/"
+    ]
+  },
+  {
     "id": "863d880904de09545bf54938",
     "title": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
     "link": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
@@ -51,6 +97,44 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg",
     "sources": [
       "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/"
+    ]
+  },
+  {
+    "id": "03a1855d6d52696746dabe04",
+    "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+    "published": "2026-08-11T16:47:44+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account.. What: Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE. When: 2026-08-11T16:47:44+00:00. How: A significant part of the work that found it was done through an AI agent. Action: See Arabic action below.",
+    "summary_ar": "من: Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account.. ماذا: Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE. متى: 2026-08-11T16:47:44+00:00. كيف: A significant part of the work that found it was done through an AI agent.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-55040"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSDTAbeeAZ8pykGFRAGcCDs_3LZBuD8tYUJfh0jG35r_o84zM_bNo7q3TWcoEMPmZqvhzucujEF72b2c2HnzfDjowsj4Iw4psQEwcgADR_rVMCXVw18arcpSB0WLblkZeypa-bgJPsD0qwrqBUk2umKezFZTtuDpbi_kQlsGUSiveb2suBMRyc3oZhQ/s1600/admin.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
+    ]
+  },
+  {
+    "id": "cfe1a7d09642297cad30ddaf",
+    "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+    "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+    "published": "2026-08-11T16:35:27+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt. What: DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt. When: 2026-08-11T16:35:27+00:00. How: The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. Action: See Arabic action below.",
+    "summary_ar": "من: \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt. ماذا: DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt. متى: 2026-08-11T16:35:27+00:00. كيف: The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1600/deadlock.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html"
     ]
   },
   {
@@ -24015,24 +24099,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg",
     "sources": [
       "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
-    ]
-  },
-  {
-    "id": "7db00584fb6de99a1475c70c",
-    "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-    "published": "2026-07-14T18:01:36+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed.. What: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed.. When: 2026-07-14T18:01:36+00:00. How: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. Action: See Arabic action below.",
-    "summary_ar": "من: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed.. ماذا: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed.. متى: 2026-07-14T18:01:36+00:00. كيف: Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/"
     ]
   },
   {
@@ -55774,32 +55840,6 @@
     "image": "https://image.theregister.com/5242669.jpg?imageId=5242669&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074"
-    ]
-  },
-  {
-    "id": "a22788f3e9dae09520b6d91d",
-    "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-    "published": "2026-06-09T17:57:59+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks.. What: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks.. When: 2026-06-09T17:57:59+00:00. How: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks.. ماذا: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks.. متى: 2026-06-09T17:57:59+00:00. كيف: Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2026-patch-tuesday-fixes-167-flaws-2-zero-days/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2026-patch-tuesday-fixes-2-zero-days-79-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2025-patch-tuesday-fixes-1-zero-day-63-flaws/"
     ]
   },
   {
@@ -160443,159 +160483,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/02/12/odido.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/odido-data-breach-exposes-personal-info-of-62-million-customers/"
-    ]
-  },
-  {
-    "id": "b4bac58b306dd1868f9e8d0c",
-    "title": "OpenAI's new Spark model codes 15x faster than GPT-5.3-Codex - but there's a catch",
-    "link": "https://www.zdnet.com/article/openais-gpt-5-3-codex-spark-15x-faster/",
-    "published": "2026-02-12T18:01:28+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: OpenAI's new GPT-5.3-Codex-Spark promises ultra-fast, conversational AI coding, if you can tolerate a few trade-offs.. What: OpenAI's new Spark model codes 15x faster than GPT-5.3-Codex - but there's a catch. When: 2026-02-12T18:01:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI's new GPT-5.3-Codex-Spark promises ultra-fast, conversational AI coding, if you can tolerate a few trade-offs.. ماذا: OpenAI's new Spark model codes 15x faster than GPT-5.3-Codex - but there's a catch. متى: 2026-02-12T18:01:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d21b6e0ac0bd04ac1e7ef963c1781a528ab74a5/2026/02/12/0998041b-7800-4cbd-81d3-decef09ec6d8/codex-spark.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/openais-gpt-5-3-codex-spark-15x-faster/"
-    ]
-  },
-  {
-    "id": "0708f51daaf6f49fcef3cad4",
-    "title": "I changed 7 settings on my Samsung phone to significantly improve the battery life",
-    "link": "https://www.zdnet.com/article/change-samsung-phone-settings-improve-battery-life/",
-    "published": "2026-02-12T17:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I changed 7 settings on my Samsung phone to significantly improve the battery life. What: I changed 7 settings on my Samsung phone to significantly improve the battery life. When: 2026-02-12T17:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I changed 7 settings on my Samsung phone to significantly improve the battery life. ماذا: I changed 7 settings on my Samsung phone to significantly improve the battery life. متى: 2026-02-12T17:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f73dcc384baca1a6a7c19e8d49fdcc843258e7cd/2025/05/12/6763f9c4-0993-4f74-9d08-6d2e6bc27fdc/dsc05759.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/change-samsung-phone-settings-improve-battery-life/",
-      "https://www.zdnet.com/article/best-android-phone-settings-to-improve-battery-life/",
-      "https://www.zdnet.com/article/change-samsung-phone-settings-improve-performance/",
-      "https://www.zdnet.com/article/best-samsung-tv-settings-to-change/",
-      "https://www.zdnet.com/article/best-samsung-phone-settings-improve-performance/",
-      "https://www.zdnet.com/article/best-google-pixel-settings-change-2026/",
-      "https://www.zdnet.com/article/i-changed-10-settings-on-my-google-pixel-phone-to-easily-improve-the-user-experience/",
-      "https://www.zdnet.com/article/samsung-phone-settings-better-battery-life/",
-      "https://www.zdnet.com/article/own-a-samsung-phone-i-changed-these-7-settings-to-extend-the-battery-life-by-hours/",
-      "https://www.zdnet.com/article/samsung-phone-settings-improve-battery-life/"
-    ]
-  },
-  {
-    "id": "b9e620c1d14d430dfa5dcb2a",
-    "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
-    "link": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
-    "published": "2026-02-12T17:57:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks.. What: Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support. When: 2026-02-12T17:57:00+00:00. How: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks.. ماذا: Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support. متى: 2026-02-12T17:57:00+00:00. كيف: Google on Thursday said it observed the North Korea-linked threat actor known as UNC2970 using its generative artificial intelligence (AI) model Gemini to conduct reconnaissance on its targets, as various hacking groups continue to weaponize the tool for accelerating various phases of the cyber attack life cycle, enabling information operations, and even conducting model extraction attacks.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH-X2QIhuzxjBzIZ8BlpGUbA-K-Wr-eqGI4bYJD_BMYP8z3FHI65tVA3Oe5vVANpMVHx1f6f3i0sKT-yjmYq9SmCkixMEQVbhRn2PjPEaYnauJYX_wi0i-3phvUCBWW4IQ2KI9o417JKW6h9z5coqLQAiEUCZSk_Bq5nEAqPqSEpVPH2Q46JQU4RTBuNcf/s1600/google-ai.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html"
-    ]
-  },
-  {
-    "id": "a9acd1f7685bbe74c7c3ac1a",
-    "title": "I unlocked God Mode in Windows 11 with this text string - here's what it does",
-    "link": "https://www.zdnet.com/article/how-to-turn-on-god-mode-windows-11/",
-    "published": "2026-02-12T17:53:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I unlocked God Mode in Windows 11 with this text string - here's what it does. What: I unlocked God Mode in Windows 11 with this text string - here's what it does. When: 2026-02-12T17:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I unlocked God Mode in Windows 11 with this text string - here's what it does. ماذا: I unlocked God Mode in Windows 11 with this text string - here's what it does. متى: 2026-02-12T17:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4403353d701939792612f7a3d020b8ed97cd2cf4/2025/12/31/cd209b53-508b-41b9-bc41-eef9f01027f0/surface-laptop-5g-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-on-god-mode-windows-11/"
-    ]
-  },
-  {
-    "id": "4b413390f1897870858ae577",
-    "title": "My Samsung TV was running slow - this 5-second 'cold boot' trick fixed it",
-    "link": "https://www.zdnet.com/article/samsung-tv-slow-how-to-speed-up-cold-boot/",
-    "published": "2026-02-12T17:46:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My Samsung TV was running slow - this 5-second 'cold boot' trick fixed it. What: My Samsung TV was running slow - this 5-second 'cold boot' trick fixed it. When: 2026-02-12T17:46:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My Samsung TV was running slow - this 5-second 'cold boot' trick fixed it. ماذا: My Samsung TV was running slow - this 5-second 'cold boot' trick fixed it. متى: 2026-02-12T17:46:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6c48abaa05a6c5ca17ccd395fbecfebc80e61551/2025/07/10/de267c7c-d076-4138-a4a8-0d27443e6f98/samsung-frame-pro-tv-2025-08.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-tv-slow-how-to-speed-up-cold-boot/"
-    ]
-  },
-  {
-    "id": "22a5e4c00900776407c04b7a",
-    "title": "These LG earbuds have some of the most advanced tech I've seen - but not for audio",
-    "link": "https://www.zdnet.com/article/lg-xboom-buds-plus-news/",
-    "published": "2026-02-12T17:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These LG earbuds have some of the most advanced tech I've seen - but not for audio. What: LG announced its latest will.i.am collab, the Xboom Buds Plus, and they're cool for reasons beyond their audio.. When: 2026-02-12T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These LG earbuds have some of the most advanced tech I've seen - but not for audio. ماذا: LG announced its latest will.i.am collab, the Xboom Buds Plus, and they're cool for reasons beyond their audio.. متى: 2026-02-12T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d45f6cb6082a92f7a9ac2eb1dea8c23136f2b8f8/2026/02/12/c3e0139f-f482-4a01-a1d8-870e61af2082/budsplusfin.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lg-xboom-buds-plus-news/"
-    ]
-  },
-  {
-    "id": "aacdec05189280f00673dadb",
-    "title": "My 5 favorite Discord alternatives - no ID verification required",
-    "link": "https://www.zdnet.com/article/discord-alternatives-no-verification/",
-    "published": "2026-02-12T17:41:27+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My 5 favorite Discord alternatives - no ID verification required. What: My 5 favorite Discord alternatives - no ID verification required. When: 2026-02-12T17:41:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My 5 favorite Discord alternatives - no ID verification required. ماذا: My 5 favorite Discord alternatives - no ID verification required. متى: 2026-02-12T17:41:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d9b75e185d2d9b5d1eb370ff70454ee43c60fce8/2026/02/12/bc9e60f9-37cf-4f50-9151-06db6687b708/adiscord-gettyimages-2260552299.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/discord-alternatives-no-verification/"
-    ]
-  },
-  {
-    "id": "4e79be9884bc08fc54e66197",
-    "title": "Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why",
-    "link": "https://www.zdnet.com/article/claude-ais-free-updates-cancel-subscription/",
-    "published": "2026-02-12T17:31:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why. What: Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why. When: 2026-02-12T17:31:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why. ماذا: Claude's free updates are so handy, I'm cancelling my Pro subscription - here's why. متى: 2026-02-12T17:31:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/052bc31b4bc46909bee0693b24a9662065939e96/2026/02/12/1f9e4752-caf3-44b4-ad73-f2ff23dae196/gettyimages-2233950579.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/claude-ais-free-updates-cancel-subscription/"
     ]
   }
 ]
