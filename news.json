@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "8446412b3947b6a98e39587e",
+    "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+    "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+    "published": "2026-08-11T10:48:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11. What: Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11. When: 2026-08-11T10:48:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11. ماذا: Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11. متى: 2026-08-11T10:48:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIoEoCsvghUx_eKGXl-WAFq7pyoOLwg_Sk9a5Ne8vX1Cb7l_DOib3wtO_5NwoogbHqFvU_VWJZd3ceL5ftpWOX5qNx5HNJCmD4_RR7GaiExk0ph2F3sp5eKPthiuTcmnDlJQyvUdkTMfxBUsIlXp_I9-qkSi4zxwVnLPb9bG-T3zFC7oFCI1Mps4VJf1s/s1600/pnp.gif",
+    "sources": [
+      "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html"
+    ]
+  },
+  {
+    "id": "7fe14a58f16126208693cca9",
+    "title": "Logistics Giant Ceva Suffers Data Breach Impacting European Clients",
+    "link": "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/",
+    "published": "2026-08-11T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Logistics Giant Ceva Suffers Data Breach Impacting European Clients. What: Logistics Giant Ceva Suffers Data Breach Impacting European Clients. When: 2026-08-11T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Logistics Giant Ceva Suffers Data Breach Impacting European Clients. ماذا: Logistics Giant Ceva Suffers Data Breach Impacting European Clients. متى: 2026-08-11T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/2cf5965d-6def-42db-88a5-7f0850c167d3.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/logistics-ceva-data-breach/"
+    ]
+  },
+  {
+    "id": "cc575547c63bb0d83180cd59",
+    "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+    "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+    "published": "2026-08-11T10:24:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets. What: Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets. When: 2026-08-11T10:24:00+00:00. How: A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets. ماذا: Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets. متى: 2026-08-11T10:24:00+00:00. كيف: A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hJoWr0m-Mx1rwaqZpbsdsQa5iSVY8J_jAnt0zKgBUlynOrS-NgEcINm3asfWZR-Ypx9y1iw28BOVud8sfaOQbiq4lmrvSnaZHUBlrkmkH9KXSPy4AXQkklS-AxG83dzpV8sSMj_uUDyVvZTgKs68EpYd18qHJTWF8s2NRaQIF80mh0e7mok6y0SqFi4/s1600/mcp-agent.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html"
+    ]
+  },
+  {
     "id": "93bc71dfcfa7096c0f31e2ac",
     "title": "Best robot mowers of 2026: Expert tested",
     "link": "https://www.zdnet.com/article/best-robot-mower/",
@@ -161,6 +215,24 @@
     "image": "https://www.zdnet.com/a/img/resize/04ff9e8bb8803166cda04e20e4e03da847ccea90/2026/03/10/e8025739-ed4b-49c3-912d-7a2c1a9f1741/img-2971.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/simple-smart-home-gadgets-under-100/"
+    ]
+  },
+  {
+    "id": "f13cf8c4cf50bced01a23e8b",
+    "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+    "published": "2026-08-11T09:16:24+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"Gunra is another variant in the ongoing trend of Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks. What: warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.. When: 2026-08-11T09:16:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: \"Gunra is another variant in the ongoing trend of Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks. ماذا: warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.. متى: 2026-08-11T09:16:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
     ]
   },
   {
@@ -160705,60 +160777,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/hacktivists-state-actors-cybercriminals-target-global-defense-industry-google-warns/"
-    ]
-  },
-  {
-    "id": "cbe675aa4a95a238a09a426b",
-    "title": "AI Skills Represent Dangerous New Attack Surface, Says TrendAI",
-    "link": "https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/",
-    "published": "2026-02-12T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: AI Skills Represent Dangerous New Attack Surface, Says TrendAI. What: AI Skills Represent Dangerous New Attack Surface, Says TrendAI. When: 2026-02-12T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Skills Represent Dangerous New Attack Surface, Says TrendAI. ماذا: AI Skills Represent Dangerous New Attack Surface, Says TrendAI. متى: 2026-02-12T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/82790bfa-683f-419b-9dc8-5bda7b6e2938.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ai-skills-dangerous-new-attack/"
-    ]
-  },
-  {
-    "id": "32dc9af37189e434dd40ced1",
-    "title": "The CTEM Divide: Why 84% of Security Programs Are Falling Behind",
-    "link": "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html",
-    "published": "2026-02-12T10:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The CTEM Divide: Why 84% of Security Programs Are Falling Behind. What: The CTEM Divide: Why 84% of Security Programs Are Falling Behind. When: 2026-02-12T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The CTEM Divide: Why 84% of Security Programs Are Falling Behind. ماذا: The CTEM Divide: Why 84% of Security Programs Are Falling Behind. متى: 2026-02-12T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Y-YsMsEZEaAST2HjBLPOIzmYNnp_eVs86gMuTbqJbVwF158EvQL9q9rL1a70OEUBIjCdDVnxDplv4zCXMSdqauKR-t_qENqr8G3yNCXQH5Mbq8H4CsPD2vLXMBq3iwoInmaKtvKbGs-TC0SiL0q1-4VoWxGpl7CTarAuQNInAaRieusoULkPAKgTU5g/s1600/ctem.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/the-ctem-divide-why-84-of-security.html"
-    ]
-  },
-  {
-    "id": "ac3912098b9edd64ef9d0330",
-    "title": "This SSD enclosure has become one of my most-used laptop accessories - here's why",
-    "link": "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/",
-    "published": "2026-02-12T10:25:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This SSD enclosure has become one of my most-used laptop accessories - here's why. What: This SSD enclosure has become one of my most-used laptop accessories - here's why. When: 2026-02-12T10:25:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This SSD enclosure has become one of my most-used laptop accessories - here's why. ماذا: This SSD enclosure has become one of my most-used laptop accessories - here's why. متى: 2026-02-12T10:25:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/df0ef37ae0cace1c03d63d6bb49c5049034daa2d/2026/02/11/ca152b77-5bd0-4e91-a56b-eff6b3833778/hyperdrive-enclosure-image-3.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/"
     ]
   }
 ]
