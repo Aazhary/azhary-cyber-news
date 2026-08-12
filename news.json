@@ -18,6 +18,44 @@
     ]
   },
   {
+    "id": "be064df1e8a6611cf9ba0c29",
+    "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+    "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+    "published": "2026-08-12T16:05:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Plug and Pwn attack uses fake USB devices for Windows SYSTEM access. What: Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges.. When: 2026-08-12T16:05:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Plug and Pwn attack uses fake USB devices for Windows SYSTEM access. ماذا: Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges.. متى: 2026-08-12T16:05:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/09/01/usb-plug-and-play.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/"
+    ]
+  },
+  {
+    "id": "8def55c8a973402925a3ecc0",
+    "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+    "published": "2026-08-12T15:38:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Lazarus hackers exploited Windows zero-day to target defense firms. What: [...] Lazarus hackers exploited Windows zero-day to target defense firms. When: 2026-08-12T15:38:08+00:00. How: North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. Action: See Arabic action below.",
+    "summary_ar": "من: Lazarus hackers exploited Windows zero-day to target defense firms. ماذا: [...] Lazarus hackers exploited Windows zero-day to target defense firms. متى: 2026-08-12T15:38:08+00:00. كيف: North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-68820"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/08/31/Lazarus-1.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/"
+    ]
+  },
+  {
     "id": "ad0aa712b1cf2ad446201a66",
     "title": "Hackers are hunting for your private photos, FBI warns: 6 ways to avoid a sextortion nightmare",
     "link": "https://www.zdnet.com/article/hackers-private-photos-fbi-avoid-sextortion/",
@@ -306,24 +344,6 @@
     ]
   },
   {
-    "id": "f45be4760431e1a148525204",
-    "title": "Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading",
-    "link": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
-    "published": "2026-08-12T14:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.. What: Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading. When: 2026-08-12T14:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.. ماذا: Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading. متى: 2026-08-12T14:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/dcd7e6a2b007b95d662d8351dcb5bb45453f1483/2026/08/11/3c05103e-46d4-415e-a10b-ee536a3f4fcc/11vs9.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/"
-    ]
-  },
-  {
     "id": "550ebeb0659af7d97696624d",
     "title": "AT&T will give you the new Google Pixel 11 Pro for free with trade-in - any year, any condition",
     "link": "https://www.zdnet.com/article/google-pixel-11-pro-at-t-deal/",
@@ -357,6 +377,24 @@
     "image": "https://www.zdnet.com/a/img/resize/56ece961f6d82dacf1207dfb6dcfe652277ad5ff/2026/08/11/359246e1-3a15-419a-956d-8781c0983181/3cc7b3a2-ebe4-4bf1-b680-fbbfad0e6c4f-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/verizon-pixel-11-pro-deal/"
+    ]
+  },
+  {
+    "id": "f45be4760431e1a148525204",
+    "title": "Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading",
+    "link": "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/",
+    "published": "2026-08-12T14:01:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.. What: Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading. When: 2026-08-12T14:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: If you passed on the Pixel 10 in favor of your Pixel 9, you may find the latest Google Pixel 11 a more compelling upgrade.. ماذا: Google Pixel 11 vs. Pixel 9: Why the Pixel 11 is actually worth upgrading. متى: 2026-08-12T14:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/dcd7e6a2b007b95d662d8351dcb5bb45453f1483/2026/08/11/3c05103e-46d4-415e-a10b-ee536a3f4fcc/11vs9.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/google-pixel-11-vs-pixel-9/"
     ]
   },
   {
@@ -160668,42 +160706,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity"
-    ]
-  },
-  {
-    "id": "a64aae078076e9525e4dd543",
-    "title": "Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations",
-    "link": "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html",
-    "published": "2026-02-13T16:23:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).. What: Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations. When: 2026-02-13T16:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Several state-sponsored actors, hacktivist entities, and criminal groups from China, Iran, North Korea, and Russia have trained their sights on the defense industrial base (DIB) sector, according to findings from Google Threat Intelligence Group (GTIG).. ماذا: Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations. متى: 2026-02-13T16:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTgbqgbztkZlUNEYQUOZixcqxUV-NpLNChacFNUwb2l5mdWsghckr5BS98pnTl2haLryjPeKX8tg0fvAmGcPjYfJIuD3EFaa-oWyEDf-FRqofQt0rBjACVqYXrUuTPLJa3gO-frhpoOgrnE9bxc2FKxoSx9bYOgxpQhrzj4Uh0DIGdyXkMRx18X008_v6m/s1600/google-attacks.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html"
-    ]
-  },
-  {
-    "id": "73ade879d7255caac552fc9b",
-    "title": "How to enable Extend Unlock on your Android phone (and why it's seriously useful)",
-    "link": "https://www.zdnet.com/article/android-extend-unlock-faster-phone-access/",
-    "published": "2026-02-13T15:56:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to enable Extend Unlock on your Android phone (and why it's seriously useful). What: How to enable Extend Unlock on your Android phone (and why it's seriously useful). When: 2026-02-13T15:56:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to enable Extend Unlock on your Android phone (and why it's seriously useful). ماذا: How to enable Extend Unlock on your Android phone (and why it's seriously useful). متى: 2026-02-13T15:56:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/68dd3a59afc422e5d8b8e7aa9037dc22cb35b08d/2025/08/19/bb2b71de-e44d-4c00-a33a-453dd8f5f9ca/made-by-google-pixel-event-2025-photo-19.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-extend-unlock-faster-phone-access/"
     ]
   }
 ]
