@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "510c336cc0ea8ca2789ac30a",
+    "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+    "published": "2026-08-12T20:54:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit critical Adobe Commerce flaw to hijack customer accounts. What: Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts.. When: 2026-08-12T20:54:59+00:00. How: Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit critical Adobe Commerce flaw to hijack customer accounts. ماذا: Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts.. متى: 2026-08-12T20:54:59+00:00. كيف: Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-71362"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Magento.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
+    ]
+  },
+  {
     "id": "2bbe2ae549a25365e7a88a10",
     "title": "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible",
     "link": "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978",
