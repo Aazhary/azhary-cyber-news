@@ -18,6 +18,62 @@
     ]
   },
   {
+    "id": "d56ecf2e898bfd7c57c0c015",
+    "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+    "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+    "published": "2026-08-12T10:15:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.. What: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.. When: 2026-08-12T10:15:22+00:00. How: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. Action: See Arabic action below.",
+    "summary_ar": "من: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.. ماذا: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.. متى: 2026-08-12T10:15:22+00:00. كيف: Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft__Defender.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
+      "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/"
+    ]
+  },
+  {
+    "id": "b8bb189f4f49c53b55637dd0",
+    "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+    "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+    "published": "2026-08-12T09:55:45+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack. What: Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack. When: 2026-08-12T09:55:45+00:00. How: LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. Action: See Arabic action below.",
+    "summary_ar": "من: Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack. ماذا: Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack. متى: 2026-08-12T09:55:45+00:00. كيف: LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp",
+    "sources": [
+      "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/"
+    ]
+  },
+  {
+    "id": "07d2fd4a5a8034fb84a0e67a",
+    "title": "Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL",
+    "link": "https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/",
+    "published": "2026-08-12T09:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL. What: The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL. When: 2026-08-12T09:30:00+00:00. How: The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL Action: See Arabic action below.",
+    "summary_ar": "من: Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL. ماذا: The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL. متى: 2026-08-12T09:30:00+00:00. كيف: The Polish CERT has released details of another 2025 attack on a combined heat and power plant in the country Russian-Linked Hackers Accessed Polish Power Plant OT Network Through Private APN, Says CERT.PL. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/01758893-9508-4188-9943-c6434d0629e9.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attack-polish-power-plant-2025-led/"
+    ]
+  },
+  {
     "id": "33e556bc70e93d79412b8220",
     "title": "Google Magnifier helps me see very small print (when I can't find my glasses)",
     "link": "https://www.zdnet.com/article/google-magnifier-helps-me-see-very-small-print-when-i-cant-find-my-glasses/",
@@ -33,6 +89,26 @@
     "image": "https://www.zdnet.com/a/img/resize/471fead744e05a414096b61bbe204c98d3ff19c0/2026/08/11/0c25bd18-8e70-4877-86c6-df2184efb367/magnifierhero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/google-magnifier-helps-me-see-very-small-print-when-i-cant-find-my-glasses/"
+    ]
+  },
+  {
+    "id": "97201ea9da85079476464c9f",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+    "published": "2026-08-12T09:01:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access. What: Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.. When: 2026-08-12T09:01:54+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access. ماذا: Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.. متى: 2026-08-12T09:01:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59310"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
     ]
   },
   {
@@ -1486,6 +1562,24 @@
     "image": "https://www.zdnet.com/a/img/resize/04ff9e8bb8803166cda04e20e4e03da847ccea90/2026/03/10/e8025739-ed4b-49c3-912d-7a2c1a9f1741/img-2971.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/simple-smart-home-gadgets-under-100/"
+    ]
+  },
+  {
+    "id": "f13cf8c4cf50bced01a23e8b",
+    "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
+    "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+    "published": "2026-08-11T09:16:24+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"Gunra is another variant in the ongoing trend of Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks. What: warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.. When: 2026-08-11T09:16:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: \"Gunra is another variant in the ongoing trend of Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks. ماذا: warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.. متى: 2026-08-11T09:16:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQpuDbRsHV15EPHhEH-PxqwnIqhmhncYrLIhvelAhdTJaJL-b6Ro5jALTP-JmVpIsvqRL5VxXk4SYql9oOqliOv8FHZS8T1NN8mCqJWq5O4WMFbg2aQRBoEoGxCE6MNpb3-nWwvDH2UA3sAshkr8Ue_qBqXkDvj3jXgyAy5_0mfKXOBJWwyjTuh233V5b/s1600/fort.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html"
     ]
   },
   {
@@ -56141,25 +56235,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
     "sources": [
       "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/"
-    ]
-  },
-  {
-    "id": "9a90781529adf311c7b5ae4f",
-    "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-    "published": "2026-06-09T23:11:18+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.. What: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.. When: 2026-06-09T23:11:18+00:00. How: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday. Action: See Arabic action below.",
-    "summary_ar": "من: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.. ماذا: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.. متى: 2026-06-09T23:11:18+00:00. كيف: A security researcher has released a new Microsoft Defender zero-day exploit named \"RoguePlanet\" just hours after Microsoft fixed two previously disclosed flaws during June 2026 Patch Tuesday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/11/Microsoft-Defender_for_Endpoint.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
-      "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-defender-redsun-zero-day-poc-grants-system-privileges/"
     ]
   },
   {
@@ -160306,42 +160381,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "a8ffce4dc2e8d865b6edb725",
-    "title": "This futuristic robot vacuum and mop will change how you clean your floors",
-    "link": "https://www.zdnet.com/article/mova-mobius-60-robot-vacuum-mop-review/",
-    "published": "2026-02-13T09:31:10+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This futuristic robot vacuum and mop will change how you clean your floors. What: This futuristic robot vacuum and mop will change how you clean your floors. When: 2026-02-13T09:31:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This futuristic robot vacuum and mop will change how you clean your floors. ماذا: This futuristic robot vacuum and mop will change how you clean your floors. متى: 2026-02-13T09:31:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/95839f251f92cc48bcbb9b5228e21eb2bfaa17e6/2026/02/12/64ace700-785d-41db-a640-31da31546aaf/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/mova-mobius-60-robot-vacuum-mop-review/"
-    ]
-  },
-  {
-    "id": "289637d32248f79fde52e5e4",
-    "title": "Microsoft fixes bug that blocked Google Chrome from launching",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/",
-    "published": "2026-02-13T09:31:01+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers.. What: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers.. When: 2026-02-13T09:31:01+00:00. How: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers.. ماذا: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers.. متى: 2026-02-13T09:31:01+00:00. كيف: Microsoft has fixed a known issue causing its Family Safety parental control service to block Windows users from launching Google Chrome and other web browsers.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/04/24/Microsoft.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/"
     ]
   }
 ]
