@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "2bbe2ae549a25365e7a88a10",
+    "title": "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible",
+    "link": "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978",
+    "published": "2026-08-12T19:42:57+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Spectre flaws have dogged x86 and ARM chips for years, leading computer scientists to develop a series of defenses, including Indirect Branch Restricted Speculation (IBRS), Indirect Branch Prediction Barrier (IBPB), and Single Thread Indirect Branch Predictor (STIBP).. What: Incorrect predictions get rolled back without affecting running applications but nonetheless leave traces that can be recovered and exploited to violate memory protections and access secrets.. When: 2026-08-12T19:42:57+00:00. How: Researchers affiliated with academic institutions in Belgium and Germany say that it's been popular to assume that the RISC-V chip architecture isn't affected by Spectre vulnerabilities because it's too simple. Action: See Arabic action below.",
+    "summary_ar": "من: Spectre flaws have dogged x86 and ARM chips for years, leading computer scientists to develop a series of defenses, including Indirect Branch Restricted Speculation (IBRS), Indirect Branch Prediction Barrier (IBPB), and Single Thread Indirect Branch Predictor (STIBP).. ماذا: Incorrect predictions get rolled back without affecting running applications but nonetheless leave traces that can be recovered and exploited to violate memory protections and access secrets.. متى: 2026-08-12T19:42:57+00:00. كيف: Researchers affiliated with academic institutions in Belgium and Germany say that it's been popular to assume that the RISC-V chip architecture isn't affected by Spectre vulnerabilities because it's too simple.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/253288.jpg?imageId=253288&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/12/spectre-rears-its-ugly-head-again-as-researchers-show-some-risc-v-chips-are-susceptible/5286978"
+    ]
+  },
+  {
     "id": "9bb68c37c6312ba7f98471c0",
     "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
     "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
@@ -160542,42 +160560,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities"
-    ]
-  },
-  {
-    "id": "6bf6a9f4b15cf0db554a9f92",
-    "title": "Claude LLM artifacts abused to push Mac infostealers in ClickFix attack",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/",
-    "published": "2026-02-13T20:21:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries.. What: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries.. When: 2026-02-13T20:21:43+00:00. How: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries. Action: See Arabic action below.",
-    "summary_ar": "من: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries.. ماذا: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries.. متى: 2026-02-13T20:21:43+00:00. كيف: Threat actors are abusing Claude artifacts and Google Ads in ClickFix campaigns that deliver infostealer malware to macOS users searching for specific queries.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/claude-llm-artifacts-abused-to-push-mac-infostealers-in-clickfix-attack/"
-    ]
-  },
-  {
-    "id": "168a47ec33832c610643abc5",
-    "title": "Why my favorite Linux distro is slowing down - and I'm thrilled about it",
-    "link": "https://www.zdnet.com/article/whats-coming-next-for-linux-mint/",
-    "published": "2026-02-13T20:10:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why my favorite Linux distro is slowing down - and I'm thrilled about it. What: Why my favorite Linux distro is slowing down - and I'm thrilled about it. When: 2026-02-13T20:10:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why my favorite Linux distro is slowing down - and I'm thrilled about it. ماذا: Why my favorite Linux distro is slowing down - and I'm thrilled about it. متى: 2026-02-13T20:10:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/678cb203220f7d9bfe83145b1f8db447f1a177f0/2026/02/13/f5bac145-a2b2-478e-bbaf-1ab6633c871a/gettyimages-2208409159.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/whats-coming-next-for-linux-mint/"
     ]
   }
 ]
