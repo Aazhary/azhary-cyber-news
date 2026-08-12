@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "64474771ebc7e1d710baa0b0",
+    "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+    "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+    "published": "2026-08-12T23:07:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: \"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals. What: \"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals. When: 2026-08-12T23:07:23+00:00. How: An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. Action: See Arabic action below.",
+    "summary_ar": "من: \"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals. ماذا: \"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals. متى: 2026-08-12T23:07:23+00:00. كيف: An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/12/city-data-theft-blue.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/"
+    ]
+  },
+  {
     "id": "1a69a42429a1a462b15c66d3",
     "title": "Android malware combo takes out loans and relays victims' credit cards",
     "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
@@ -160598,24 +160616,6 @@
     "image": "https://www.zdnet.com/a/img/resize/28d1c48d317d465d6489ac4b7f788c99b1790990/2025/09/23/8b0db542-d678-4303-a56f-c11399f17f57/best-out-of-the-box-linux-distribution.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/5-favorite-linux-distros-easy-setup/"
-    ]
-  },
-  {
-    "id": "2784277c1b1787f9187bcaa3",
-    "title": "Phishing on the Edge of the Web and Mobile Using QR Codes",
-    "link": "https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/",
-    "published": "2026-02-13T23:00:48+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Phishing on the Edge of the Web and Mobile Using QR Codes. What: Phishing on the Edge of the Web and Mobile Using QR Codes. When: 2026-02-13T23:00:48+00:00. How: We discuss the extensive use of malicious QR codes using URL shorteners, in-app deep links and direct APK downloads to bypass mobile security. Action: See Arabic action below.",
-    "summary_ar": "من: Phishing on the Edge of the Web and Mobile Using QR Codes. ماذا: Phishing on the Edge of the Web and Mobile Using QR Codes. متى: 2026-02-13T23:00:48+00:00. كيف: We discuss the extensive use of malicious QR codes using URL shorteners, in-app deep links and direct APK downloads to bypass mobile security.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/02/01_Vulnerabilities_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/"
     ]
   }
 ]
