@@ -18,6 +18,258 @@
     ]
   },
   {
+    "id": "79a54fbdd809a7aa58d1e888",
+    "title": "Exposed: Woeful security at UK criminal records office that led to sensitive data leak",
+    "link": "https://www.theregister.com/security/2026/08/12/exposed-woeful-security-at-uk-criminal-records-office-that-led-to-sensitive-data-leak/5286736",
+    "published": "2026-08-12T13:40:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: ACRO's Trend Micro antivirus generated alerts, but nobody appears to have been minding them.. What: ACRO disclosed the \"cybersecurity incident\" in April 2023, and said at the time that it had no evidence to suggest that any data was compromised.. When: 2026-08-12T13:40:00+00:00. How: According to the Information Commissioner's Office (ICO), which reprimanded ACRO rather than imposing a financial penalty, the breach was uncovered in March 2023 only because ACRO was investigating a separate intrusion. Action: See Arabic action below.",
+    "summary_ar": "من: ACRO's Trend Micro antivirus generated alerts, but nobody appears to have been minding them.. ماذا: ACRO disclosed the \"cybersecurity incident\" in April 2023, and said at the time that it had no evidence to suggest that any data was compromised.. متى: 2026-08-12T13:40:00+00:00. كيف: According to the Information Commissioner's Office (ICO), which reprimanded ACRO rather than imposing a financial penalty, the breach was uncovered in March 2023 only because ACRO was investigating a separate intrusion.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/12/exposed-woeful-security-at-uk-criminal-records-office-that-led-to-sensitive-data-leak/5286736"
+    ]
+  },
+  {
+    "id": "9ca42c275b888a202ba18762",
+    "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+    "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+    "published": "2026-08-12T13:37:12+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Zoom issued a security advisory on Tuesday, including details about fixes the company has already begun rolling out to address the flaws, which affected devices running all operating systems that Zoom supports—Windows, macOS, Linux, iOS, and Android.. What: As AI models gain advanced capabilities to find vulnerabilities in software, develop ways to exploit them , and even carry out autonomous hacking sprees , researchers offered a sobering new example on Tuesday, disclosing vulnerabilities in the video conferencing platform Zoom that could have been exploited to take over targets’ devices.. When: 2026-08-12T13:37:12+00:00. How: Researchers from the digital defense firm A Security say the bug was discovered in early June using publicly available AI models, and that it took fewer than 20 prompts to uncover the vulnerabilities and create a working attack. Action: See Arabic action below.",
+    "summary_ar": "من: Zoom issued a security advisory on Tuesday, including details about fixes the company has already begun rolling out to address the flaws, which affected devices running all operating systems that Zoom supports—Windows, macOS, Linux, iOS, and Android.. ماذا: As AI models gain advanced capabilities to find vulnerabilities in software, develop ways to exploit them , and even carry out autonomous hacking sprees , researchers offered a sobering new example on Tuesday, disclosing vulnerabilities in the video conferencing platform Zoom that could have been exploited to take over targets’ devices.. متى: 2026-08-12T13:37:12+00:00. كيف: Researchers from the digital defense firm A Security say the bug was discovered in early June using publicly available AI models, and that it took fewer than 20 prompts to uncover the vulnerabilities and create a working attack.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1233188488-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/"
+    ]
+  },
+  {
+    "id": "f49d5a07110a831d55b25aa3",
+    "title": "Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day",
+    "link": "https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/",
+    "published": "2026-08-12T13:35:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day. What: Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day. When: 2026-08-12T13:35:00+00:00. How: Lazarus malware used post-quantum key exchange to protect delivery of a Windows zero-day exploit Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day Action: See Arabic action below.",
+    "summary_ar": "من: Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day. ماذا: Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day. متى: 2026-08-12T13:35:00+00:00. كيف: Lazarus malware used post-quantum key exchange to protect delivery of a Windows zero-day exploit Lazarus Used Post-Quantum Key Exchange to Deliver Zero-Day. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/af3713f2-6bdb-4f70-82d8-f3c903d6977b.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/lazarus-post-quantum-key-dream-job/"
+    ]
+  },
+  {
+    "id": "f636ebfecd0f32cdd59bda8f",
+    "title": "Mindgard Raises $30 Million to Protect AI Systems",
+    "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+    "published": "2026-08-12T13:24:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Mindgard Raises $30 Million to Protect AI Systems. What: Mindgard Raises $30 Million to Protect AI Systems. When: 2026-08-12T13:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Mindgard Raises $30 Million to Protect AI Systems. ماذا: Mindgard Raises $30 Million to Protect AI Systems. متى: 2026-08-12T13:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-1.jpeg",
+    "sources": [
+      "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/"
+    ]
+  },
+  {
+    "id": "c36bba42a5a2993ea629f6d8",
+    "title": "Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure",
+    "link": "https://www.infosecurity-magazine.com/news/gunra-ransomware-fortinet-flaws/",
+    "published": "2026-08-12T13:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure. What: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure. When: 2026-08-12T13:15:00+00:00. How: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure Action: See Arabic action below.",
+    "summary_ar": "من: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure. ماذا: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure. متى: 2026-08-12T13:15:00+00:00. كيف: Gunra actors are using stealth to exfiltrate vast volumes of data from Microsoft services, US and Korean agencies have warned Gunra Ransomware Exploits Fortinet Flaws to Target Critical Infrastructure. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/21010a23-ca91-46c2-80fa-206ee9310cd2.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/gunra-ransomware-fortinet-flaws/"
+    ]
+  },
+  {
+    "id": "6ba82ff561b7497726d534ff",
+    "title": "WhatsApp Unveils New Scam Alert Feature",
+    "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+    "published": "2026-08-12T13:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: WhatsApp Unveils New Scam Alert Feature. What: WhatsApp Unveils New Scam Alert Feature. When: 2026-08-12T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WhatsApp Unveils New Scam Alert Feature. ماذا: WhatsApp Unveils New Scam Alert Feature. متى: 2026-08-12T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/WhatsApp-Vulnerability-attack-e1761292707809.jpg",
+    "sources": [
+      "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/"
+    ]
+  },
+  {
+    "id": "1d19bd60d8807f33d1bd7c5d",
+    "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+    "published": "2026-08-12T13:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset. What: Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset. When: 2026-08-12T13:00:00+00:00. How: The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset. ماذا: Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset. متى: 2026-08-12T13:00:00+00:00. كيف: The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/data-tracking-report.jpeg",
+    "sources": [
+      "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/"
+    ]
+  },
+  {
+    "id": "51203f5aaefd2cca8e599049",
+    "title": "Akira ransomware scum blocked victim's security tools – and broke their own encryptor",
+    "link": "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515",
+    "published": "2026-08-12T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: In this case, the reboot stopped the Huntress agent and disabled Microsoft Defender's real-time protection, preventing Defender from quarantining the malicious file.. What: Akira ransomware scum blocked victim's security tools – and broke their own encryptor. When: 2026-08-12T13:00:00+00:00. How: On August 4, the VPN logged a credential-spray attack: a burst of failed logins using bad credentials that it denied. Action: See Arabic action below.",
+    "summary_ar": "من: In this case, the reboot stopped the Huntress agent and disabled Microsoft Defender's real-time protection, preventing Defender from quarantining the malicious file.. ماذا: Akira ransomware scum blocked victim's security tools – and broke their own encryptor. متى: 2026-08-12T13:00:00+00:00. كيف: On August 4, the VPN logged a credential-spray attack: a burst of failed logins using bad credentials that it denied.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515"
+    ]
+  },
+  {
+    "id": "a34cddcce8082ebb51797ebe",
+    "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+    "published": "2026-08-12T12:41:03+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Walmart Leaders Transform Security Operations Without Going Bananas. What: Walmart Leaders Transform Security Operations Without Going Bananas. When: 2026-08-12T12:41:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Walmart Leaders Transform Security Operations Without Going Bananas. ماذا: Walmart Leaders Transform Security Operations Without Going Bananas. متى: 2026-08-12T12:41:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas"
+    ]
+  },
+  {
+    "id": "bcc70513245bad17b9f72c3a",
+    "title": "NIST Seeks Public Input on AI-Ready NVD Modernization",
+    "link": "https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/",
+    "published": "2026-08-12T12:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: NIST Seeks Public Input on AI-Ready NVD Modernization. What: NIST Seeks Public Input on AI-Ready NVD Modernization. When: 2026-08-12T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NIST Seeks Public Input on AI-Ready NVD Modernization. ماذا: NIST Seeks Public Input on AI-Ready NVD Modernization. متى: 2026-08-12T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/99ede2bf-e054-453d-9c38-e3212c91d006.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nist-seeks-public-input-ai-nvd/"
+    ]
+  },
+  {
+    "id": "652cb4d59515df50014529a5",
+    "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+    "published": "2026-08-12T12:25:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday.. What: Hackers leverage new Microsoft SharePoint exploit in attacks. When: 2026-08-12T12:25:37+00:00. How: Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday.. ماذا: Hackers leverage new Microsoft SharePoint exploit in attacks. متى: 2026-08-12T12:25:37+00:00. كيف: Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/"
+    ]
+  },
+  {
+    "id": "db2a18fe188449df3a8f1ab7",
+    "title": "Is Aptoide safe? I tried Android's first alternative app store on Google Play - and it's a mess",
+    "link": "https://www.zdnet.com/article/is-aptoide-safe-android-first-alternative-app-store-on-google-play-is-a-mess/",
+    "published": "2026-08-12T12:15:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I tried Android's first alternative app store on Google Play - and it's a mess. What: Is Aptoide safe? I tried Android's first alternative app store on Google Play - and it's a mess. When: 2026-08-12T12:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I tried Android's first alternative app store on Google Play - and it's a mess. ماذا: Is Aptoide safe? I tried Android's first alternative app store on Google Play - and it's a mess. متى: 2026-08-12T12:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/69102ccc4d15fd0b388a51e323c094d6bc1ecb01/2026/08/11/944786f4-a69e-49b1-bf0d-33d7a90477e5/aptoidhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/is-aptoide-safe-android-first-alternative-app-store-on-google-play-is-a-mess/"
+    ]
+  },
+  {
+    "id": "f4207385d77a4d56baedb1c1",
+    "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+    "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+    "published": "2026-08-12T11:47:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.. What: A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.. When: 2026-08-12T11:47:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.. ماذا: A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords.. متى: 2026-08-12T11:47:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP21lJn1EY_0JXWBul8gpBgRD_ryI4ACYqFiu6icbKCgIMyta9UqjQrtnzjTkO1Yi9tdzTaQw6X949lzMwtQPKUPPIxA5_EwFjJqjMDwBtFSc56vaCyybwJNcsjVZMfMW4KHQ_VVCjz3AVeovFEtsI8ENZTQmQuc9rDIF5yd0n9uciJmwqlWS_EKf5mo/s1600/ai-models.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html"
+    ]
+  },
+  {
+    "id": "5111250b95067667fa9fe6ea",
+    "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+    "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+    "published": "2026-08-12T11:41:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Enterprise Defenses Recovered at the Edge and Collapsed Inside. What: Enterprise Defenses Recovered at the Edge and Collapsed Inside. When: 2026-08-12T11:41:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Enterprise Defenses Recovered at the Edge and Collapsed Inside. ماذا: Enterprise Defenses Recovered at the Edge and Collapsed Inside. متى: 2026-08-12T11:41:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html"
+    ]
+  },
+  {
     "id": "df051d6a769a799097951014",
     "title": "Ceva Logistics Operations Disrupted by Cyberattack",
     "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
@@ -5648,7 +5900,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning"
     ]
@@ -160076,97 +160328,6 @@
     "sources": [
       "https://www.zdnet.com/article/lg-tv-picture-quality-upgrade/",
       "https://www.zdnet.com/article/lg-sound-suite-software-update/"
-    ]
-  },
-  {
-    "id": "d3e8a2deab9910b6d7ea2b06",
-    "title": "Atomic vs. immutable Linux: Why choose one when these nine distros offer both?",
-    "link": "https://www.zdnet.com/article/atomic-vs-immutable-linux-distro-how-to-decide/",
-    "published": "2026-02-13T13:16:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Atomic vs. immutable Linux: Why choose one when these nine distros offer both?. What: Atomic vs. immutable Linux: Why choose one when these nine distros offer both?. When: 2026-02-13T13:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Atomic vs. immutable Linux: Why choose one when these nine distros offer both?. ماذا: Atomic vs. immutable Linux: Why choose one when these nine distros offer both?. متى: 2026-02-13T13:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8b8966286130a6a8acb9f77bcdb511cb5ff06fe2/2025/08/18/5c81783b-76a7-417f-bc06-122827dee962/5-reasons-you-should-use-immutable-linux-distros.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/atomic-vs-immutable-linux-distro-how-to-decide/"
-    ]
-  },
-  {
-    "id": "2506dbf9946b3b02548845b6",
-    "title": "Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat",
-    "link": "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/",
-    "published": "2026-02-13T12:35:11+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat. What: Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat. When: 2026-02-13T12:35:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat. ماذا: Check Point Announces Trio of Acquisitions Amid Solid 2025 Earnings Beat. متى: 2026-02-13T12:35:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/check-point-announces-trio-of-acquisitions-amid-solid-2025-earnings-beat/"
-    ]
-  },
-  {
-    "id": "1298eeac043f4b7ef618132a",
-    "title": "CISA flags critical Microsoft SCCM flaw as exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
-    "published": "2026-02-13T12:35:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks.. What: CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks.. When: 2026-02-13T12:35:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks.. ماذا: CISA ordered federal agencies on Thursday to secure their systems against a critical Microsoft Configuration Manager vulnerability patched in October 2024 and now exploited in attacks.. متى: 2026-02-13T12:35:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-solarwinds-rce-flaw-as-actively-exploited/"
-    ]
-  },
-  {
-    "id": "a46bb8e13281832c3ce7a994",
-    "title": "Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third",
-    "link": "https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/",
-    "published": "2026-02-13T12:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third. What: Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third. When: 2026-02-13T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third. ماذا: Munich Security Conference: Cyber Threats Lead G7 Risk Index, Disinformation Ranks Third. متى: 2026-02-13T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/6b3ed1b6-7444-4556-bf0e-38b1ed0926ed.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/munich-security-index-cyberattacks/"
-    ]
-  },
-  {
-    "id": "3c6269693797148673d58df0",
-    "title": "Why I still recommend the Sonos Arc soundbar over competing models, especially at this price",
-    "link": "https://www.zdnet.com/article/sons-arc-ultra-deal/",
-    "published": "2026-02-13T12:19:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why I still recommend the Sonos Arc soundbar over competing models, especially at this price. What: Why I still recommend the Sonos Arc soundbar over competing models, especially at this price. When: 2026-02-13T12:19:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why I still recommend the Sonos Arc soundbar over competing models, especially at this price. ماذا: Why I still recommend the Sonos Arc soundbar over competing models, especially at this price. متى: 2026-02-13T12:19:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/129c2b1896a8c98e83ac006b9f4302611eae721b/2025/09/03/f29d0cb1-40a2-4efb-b903-cc16f399fd8d/arcufin.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sons-arc-ultra-deal/"
     ]
   }
 ]
