@@ -18,6 +18,107 @@
     ]
   },
   {
+    "id": "b0b491a050992f4cf52ee664",
+    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
+    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
+    "published": "2026-08-12T07:51:55+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISA has also published several advisories describing vulnerabilities in ICS and other OT products.. What: The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek .. When: 2026-08-12T07:51:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA has also published several advisories describing vulnerabilities in ICS and other OT products.. ماذا: The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek .. متى: 2026-08-12T07:51:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/ICS_Patches.jpg",
+    "sources": [
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/",
+      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/"
+    ]
+  },
+  {
+    "id": "718e364ee9605b97441ef958",
+    "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+    "published": "2026-08-12T07:31:40+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code. What: SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.. When: 2026-08-12T07:31:40+00:00. How: SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. Action: See Arabic action below.",
+    "summary_ar": "من: SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code. ماذا: SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.. متى: 2026-08-12T07:31:40+00:00. كيف: SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-58231"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIbhajZdWb8FMAsUCcL8bufmUEbpuTCSFvKhvJgecxUZcO3rH1QV1bVNrOJ1W8oqge3sBIMwmHZxXR9l1PyrOGDEuAZZJkwFBmMlFGWwjU5-3CDmUQsz08HzrZ23kg9HSv3X7MrOryUe-T-PZCmpr8csna-nQcAg-b3RSeWiWsHuaBFAiJmjTrVI5WBQM/s1600/sap.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+    ]
+  },
+  {
+    "id": "7dc8e1d0ed6d768ac3345457",
+    "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
+    "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
+    "published": "2026-08-12T07:31:11+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform. What: SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform. When: 2026-08-12T07:31:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform. ماذا: SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform. متى: 2026-08-12T07:31:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/SonicWall.jpg",
+    "sources": [
+      "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/"
+    ]
+  },
+  {
+    "id": "a94072d6a3a80c03e7e464f5",
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+    "published": "2026-08-12T06:41:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.. What: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.. When: 2026-08-12T06:41:38+00:00. How: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. Action: See Arabic action below.",
+    "summary_ar": "من: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.. ماذا: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.. متى: 2026-08-12T06:41:38+00:00. كيف: The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-50656"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9fX7D-qoT4QD3pjSuUtavTiarjtyitt3-JMji-nzNa8XTKefzPp2QGMAR6FkLA8r8Ll9VVFHCMEJSKWgi5Gk0GOdYU4RA1itDyf8ZQc12IXczcxoGHKXcJ9GAWUv-fPaRhRXnDyFfxo9nhjQoJbBPxQQbixY9RxaR_Oz_NrHD2P_EMER6yKTV3nWCSAoq/s1600/zero-day.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+    ]
+  },
+  {
+    "id": "4e10981a01113da6bc6796e9",
+    "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+    "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+    "published": "2026-08-12T06:15:58+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.. What: Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.. When: 2026-08-12T06:15:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.. ماذا: Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.. متى: 2026-08-12T06:15:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20349"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIn51DQNDe2IfVEJzqiWXY9k8QyRhulSTcOh67As0Pj7Da1DCB5Lu1RBhjI55Y7_TF9PW9F9HOBn6moaPRNrpl0G_OGeMbC9z5BMfdOqtF6sHpd5tJLvQqnvlCd77R-4oCYiDVfFlUtRe4mp7W8cFDCHmJ8kz4TueVL06-jbGzpVdWasZF02YRwYyrZJc/s1600/cisco-powerhouse.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
+    ]
+  },
+  {
     "id": "625b474fe305d1c3a57fbe24",
     "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
     "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
@@ -23977,28 +24078,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/43acb3e7-181a-4e44-b71e-a7fc8c04bd7d.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/microsoft-570-cves-patch-tuesday/"
-    ]
-  },
-  {
-    "id": "036cdf354d51678407b08806",
-    "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-    "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-    "published": "2026-07-15T09:19:58+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.. What: The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.. When: 2026-07-15T09:19:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.. ماذا: The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT.. متى: 2026-07-15T09:19:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/ICS_Patches.jpg",
-    "sources": [
-      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
-      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
-      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-addressed-by-siemens-schneider-aveva-phoenix-contact/",
-      "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/"
     ]
   },
   {
@@ -160209,42 +160288,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1367674a5935ef3ba84ff408f2e619e047dcc5ba/2026/02/12/3d2b80f8-bda2-4ee0-a11f-f87e832669cd/ytvsspot.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/spotify-vs-youtube-music/"
-    ]
-  },
-  {
-    "id": "234c89e34638e9b334397603",
-    "title": "Enforcing piracy policy earned helpdesk worker death threats",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/on_call/",
-    "published": "2026-02-13T07:27:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Enforcing piracy policy earned helpdesk worker death threats. What: Enforcing piracy policy earned helpdesk worker death threats. When: 2026-02-13T07:27:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Enforcing piracy policy earned helpdesk worker death threats. ماذا: Enforcing piracy policy earned helpdesk worker death threats. متى: 2026-02-13T07:27:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/02/11/shutterstock_stop_violence.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/13/on_call/"
-    ]
-  },
-  {
-    "id": "df1fe5e6e50bd782044557ea",
-    "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
-    "link": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
-    "published": "2026-02-13T06:49:26+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: China Revives Tianfu Cup Hacking Contest Under Increased Secrecy. What: Rewards for exploits are reportedly much smaller than in the contest’s glory days.. When: 2026-02-13T06:49:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: China Revives Tianfu Cup Hacking Contest Under Increased Secrecy. ماذا: Rewards for exploits are reportedly much smaller than in the contest’s glory days.. متى: 2026-02-13T06:49:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/"
     ]
   }
 ]
