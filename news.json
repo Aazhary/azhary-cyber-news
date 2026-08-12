@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "1a69a42429a1a462b15c66d3",
+    "title": "Android malware combo takes out loans and relays victims' credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+    "published": "2026-08-12T22:22:57+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Android malware combo takes out loans and relays victims' credit cards. What: Android malware combo takes out loans and relays victims' credit cards. When: 2026-08-12T22:22:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Android malware combo takes out loans and relays victims' credit cards. ماذا: Android malware combo takes out loans and relays victims' credit cards. متى: 2026-08-12T22:22:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/12/Android_card.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/"
+    ]
+  },
+  {
     "id": "f4dbae80ad1ccc698576ec9d",
     "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
     "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
@@ -30,7 +48,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5287075.jpg?imageId=5287075&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055"
     ]
@@ -160598,24 +160616,6 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/02/01_Vulnerabilities_1920x900.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/"
-    ]
-  },
-  {
-    "id": "573d5fd80f0b981309b75ffb",
-    "title": "Fake job recruiters hide malware in developer coding challenges",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/",
-    "published": "2026-02-13T22:35:37+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Fake job recruiters hide malware in developer coding challenges. What: Fake job recruiters hide malware in developer coding challenges. When: 2026-02-13T22:35:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fake job recruiters hide malware in developer coding challenges. ماذا: Fake job recruiters hide malware in developer coding challenges. متى: 2026-02-13T22:35:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/"
     ]
   }
 ]
