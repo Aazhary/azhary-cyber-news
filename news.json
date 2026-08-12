@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "625b474fe305d1c3a57fbe24",
+    "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+    "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+    "published": "2026-08-12T05:10:47+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek .. What: CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.. When: 2026-08-12T05:10:47+00:00. How: The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek .. ماذا: CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.. متى: 2026-08-12T05:10:47+00:00. كيف: The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20349"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/"
+    ]
+  },
+  {
     "id": "6add8807f2afe607abcbd6b6",
     "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
     "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
@@ -1383,6 +1403,28 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
     "sources": [
       "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html"
+    ]
+  },
+  {
+    "id": "7850c6ab6ba57501ccdd8c74",
+    "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
+    "published": "2026-08-11T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs. What: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs. When: 2026-08-11T05:00:00+00:00. How: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs Action: See Arabic action below.",
+    "summary_ar": "من: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs. ماذا: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs. متى: 2026-08-11T05:00:00+00:00. كيف: August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/",
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/",
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/"
     ]
   },
   {
@@ -81430,27 +81472,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg",
     "sources": [
       "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html"
-    ]
-  },
-  {
-    "id": "edbe3769f42b997334f46d15",
-    "title": "May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
-    "published": "2026-05-12T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs. What: May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs. When: 2026-05-12T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs. ماذا: May 2026 Patch Tuesday: 30 Critical Vulnerabilities Among 130 CVEs. متى: 2026-05-12T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-may-2026/",
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/",
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-march-2026/",
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-december-2025/"
     ]
   },
   {
