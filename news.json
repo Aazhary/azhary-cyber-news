@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "f4dbae80ad1ccc698576ec9d",
+    "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
+    "link": "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055",
+    "published": "2026-08-12T21:45:16+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: In total, the illicit access allowed the agents to exfiltrate a ton of government information, including more than 2,564 personnel records, a full JSON export of all department system users, seven SSO client secrets, six internal database credentials across MSSQL, Oracle, and Sybase, and internal network IP ranges.. What: The Financial Times first reported on Dream’s research and identified Taiwan.. When: 2026-08-12T21:45:16+00:00. How: According to Dream, the attack framework, built on open source Hermes and OpenClaw AI agents, deployed up to eight sub-agents, each assigned to its own targets and attack techniques, across 12 “attack waves” between July 1 and July 4. Action: See Arabic action below.",
+    "summary_ar": "من: In total, the illicit access allowed the agents to exfiltrate a ton of government information, including more than 2,564 personnel records, a full JSON export of all department system users, seven SSO client secrets, six internal database credentials across MSSQL, Oracle, and Sybase, and internal network IP ranges.. ماذا: The Financial Times first reported on Dream’s research and identified Taiwan.. متى: 2026-08-12T21:45:16+00:00. كيف: According to Dream, the attack framework, built on open source Hermes and OpenClaw AI agents, deployed up to eight sub-agents, each assigned to its own targets and attack techniques, across 12 “attack waves” between July 1 and July 4.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055"
+    ]
+  },
+  {
+    "id": "80c120873d58c484595f30ba",
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "published": "2026-08-12T21:43:21+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed.. What: Terabytes of credentials leaked in massive supply-chain attack. When: 2026-08-12T21:43:21+00:00. How: Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft, Amazon, Cisco, Samsung, and Salesforce are only a handful of the entities whose access secrets were exposed.. ماذا: Terabytes of credentials leaked in massive supply-chain attack. متى: 2026-08-12T21:43:21+00:00. كيف: Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool that streamlines AI-driven software development.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+    ]
+  },
+  {
+    "id": "b3b0bd88426cafeaeea53e12",
+    "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+    "published": "2026-08-12T21:08:54+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow. What: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow. When: 2026-08-12T21:08:54+00:00. How: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow Action: See Arabic action below.",
+    "summary_ar": "من: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow. ماذا: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow. متى: 2026-08-12T21:08:54+00:00. كيف: Long-running Data Theft Campaign Targeting Salesforce, ServiceNow. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow"
+    ]
+  },
+  {
     "id": "510c336cc0ea8ca2789ac30a",
     "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
@@ -160562,24 +160616,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/fake-job-recruiters-hide-malware-in-developer-coding-challenges/"
-    ]
-  },
-  {
-    "id": "4b7c437e4a4c245ecc10b631",
-    "title": "Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities",
-    "link": "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities",
-    "published": "2026-02-13T21:58:19+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Zscaler's acquisition of SquareX comes as competitors like CrowdStrike and Palo Alto Networks also invest in secure browser technologies.. What: Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities. When: 2026-02-13T21:58:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Zscaler's acquisition of SquareX comes as competitors like CrowdStrike and Palo Alto Networks also invest in secure browser technologies.. ماذا: Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities. متى: 2026-02-13T21:58:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities"
     ]
   }
 ]
