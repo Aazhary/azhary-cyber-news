@@ -18,6 +18,62 @@
     ]
   },
   {
+    "id": "556d5b385151f0c989a87346",
+    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+    "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+    "published": "2026-08-13T07:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Belgium's eID Authentication Opens Citizen Accounts to RCE. What: Belgium's eID Authentication Opens Citizen Accounts to RCE. When: 2026-08-13T07:00:00+00:00. How: Belgium's eID Authentication Opens Citizen Accounts to RCE Action: See Arabic action below.",
+    "summary_ar": "من: Belgium's eID Authentication Opens Citizen Accounts to RCE. ماذا: Belgium's eID Authentication Opens Citizen Accounts to RCE. متى: 2026-08-13T07:00:00+00:00. كيف: Belgium's eID Authentication Opens Citizen Accounts to RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
+    ]
+  },
+  {
+    "id": "33ca97ca5aabe833acad5a90",
+    "title": "Passwords stored in public Google Doc then showed up in search results",
+    "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
+    "published": "2026-08-13T07:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Instead, the outside developer decided to store their password in a Google Doc.. What: Passwords stored in public Google Doc then showed up in search results. When: 2026-08-13T07:00:00+00:00. How: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job. Action: See Arabic action below.",
+    "summary_ar": "من: Instead, the outside developer decided to store their password in a Google Doc.. ماذا: Passwords stored in public Google Doc then showed up in search results. متى: 2026-08-13T07:00:00+00:00. كيف: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5287048.jpg?imageId=5287048&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028"
+    ]
+  },
+  {
+    "id": "194c32e5aaf78b9943858f54",
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+    "published": "2026-08-13T06:09:48+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.. What: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.. When: 2026-08-13T06:09:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.. ماذا: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.. متى: 2026-08-13T06:09:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-55040"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+    ]
+  },
+  {
     "id": "93cd75873e33e693efaf8c55",
     "title": "Chinese Loongson processors have leaky caches, researchers find",
     "link": "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137",
