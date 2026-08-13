@@ -18,6 +18,44 @@
     ]
   },
   {
+    "id": "7989ce167c10743a46d9a070",
+    "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+    "published": "2026-08-13T16:40:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Critical VMware vCenter RCE flaw exploited for reverse SSH access. What: A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access.. When: 2026-08-13T16:40:23+00:00. How: [...] Critical VMware vCenter RCE flaw exploited for reverse SSH access Action: See Arabic action below.",
+    "summary_ar": "من: Critical VMware vCenter RCE flaw exploited for reverse SSH access. ماذا: A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access.. متى: 2026-08-13T16:40:23+00:00. كيف: [...] Critical VMware vCenter RCE flaw exploited for reverse SSH access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59310"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/"
+    ]
+  },
+  {
+    "id": "077a365b577aaf77b34b4b8f",
+    "title": "This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale",
+    "link": "https://www.zdnet.com/article/samsung-r95h-micro-rgb-deal-best-buy/",
+    "published": "2026-08-13T16:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale. What: This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale. When: 2026-08-13T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale. ماذا: This Micro RGB TV rivals pricier OLED models - and I'd recommend it, especially on sale. متى: 2026-08-13T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/3c150848301e5b6afa9c787b9bd7f434e93ed7b1/2026/05/29/20ee8c9d-3ad9-434c-8513-467157748bf0/samsung-r95h-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/samsung-r95h-micro-rgb-deal-best-buy/"
+    ]
+  },
+  {
     "id": "2ca756fae76b271b9d5140b0",
     "title": "Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities",
     "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
@@ -77,8 +115,8 @@
     "link": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
     "published": "2026-08-13T15:13:19+00:00",
     "source": "bleepingcomputer.com",
-    "summary_en": "Who: Trezor discloses data breach affecting nearly 14,000 customers. What: Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked.. When: 2026-08-13T15:13:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Trezor discloses data breach affecting nearly 14,000 customers. ماذا: Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked.. متى: 2026-08-13T15:13:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: Trezor discloses data breach affecting nearly 14,000 customers. What: Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...] Trezor discloses data breach affecting nearly 14,000 customers. When: 2026-08-13T15:13:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trezor discloses data breach affecting nearly 14,000 customers. ماذا: Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...] Trezor discloses data breach affecting nearly 14,000 customers. متى: 2026-08-13T15:13:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Data Breach",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -160980,29 +161018,6 @@
     "image": "https://www.zdnet.com/a/img/resize/713716ea90f1c615f9b7136c45cf105f7366af8e/2025/07/18/b1362c59-58f0-49b9-af7e-5d4e36f70ed2/dsc00924.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-presidents-day-smart-glasses-deals/"
-    ]
-  },
-  {
-    "id": "8b0b92e22c8ace4caece5689",
-    "title": "One threat actor responsible for 83% of recent Ivanti RCE attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/",
-    "published": "2026-02-14T16:02:34+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: One threat actor responsible for 83% of recent Ivanti RCE attacks. What: One threat actor responsible for 83% of recent Ivanti RCE attacks. When: 2026-02-14T16:02:34+00:00. How: [...] One threat actor responsible for 83% of recent Ivanti RCE attacks Action: See Arabic action below.",
-    "summary_ar": "من: One threat actor responsible for 83% of recent Ivanti RCE attacks. ماذا: One threat actor responsible for 83% of recent Ivanti RCE attacks. متى: 2026-02-14T16:02:34+00:00. كيف: [...] One threat actor responsible for 83% of recent Ivanti RCE attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-1281",
-      "CVE-2026-1340",
-      "CVE-2026-21962",
-      "CVE-2026-24061"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/07/24/Ivanti_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/one-threat-actor-responsible-for-83-percent-of-recent-ivanti-rce-attacks/"
     ]
   }
 ]
