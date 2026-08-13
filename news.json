@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "93cd75873e33e693efaf8c55",
+    "title": "Chinese Loongson processors have leaky caches, researchers find",
+    "link": "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137",
+    "published": "2026-08-13T02:14:11+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Chinese Loongson processors have leaky caches, researchers find. What: Even worse, an attacker can prime the CPU’s internal state to target the leakage to a specific cache set.” In a paper [PDF] explaining their research, authors Lorenz Hetterich, Tristan Hornetz, Fabian Thomas, and Michael Schwarz share case studies that “include recovering full-disk AES keys from the kernel, partial root password hashes from user-space, and bypassing traditional software defenses such as ASLR and stack canaries, all within seconds.” In case that’s not scaring you enough, they also point out “LoongLeak can be exploited from unprivileged user space, containers, or virtual machines.” The flaw even means “LoongLeak can cross the virtual machine boundary and leak host data from inside a VM.” “As the leakage is architectural, it requires neither high-resolution timers nor traditional sidechannel amplification, and it grants the attacker precise control over cache set and line offset,” they add.. When: 2026-08-13T02:14:11+00:00. How: On a site called LoongLeakAttack.com, the researchers explain that they found the leaky cache using a fuzzer, then noticed that the LoongArch ISA manual mentions an instruction that leaves 32 bits of a memory register in an “uncertain” state. Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Loongson processors have leaky caches, researchers find. ماذا: Even worse, an attacker can prime the CPU’s internal state to target the leakage to a specific cache set.” In a paper [PDF] explaining their research, authors Lorenz Hetterich, Tristan Hornetz, Fabian Thomas, and Michael Schwarz share case studies that “include recovering full-disk AES keys from the kernel, partial root password hashes from user-space, and bypassing traditional software defenses such as ASLR and stack canaries, all within seconds.” In case that’s not scaring you enough, they also point out “LoongLeak can be exploited from unprivileged user space, containers, or virtual machines.” The flaw even means “LoongLeak can cross the virtual machine boundary and leak host data from inside a VM.” “As the leakage is architectural, it requires neither high-resolution timers nor traditional sidechannel amplification, and it grants the attacker precise control over cache set and line offset,” they add.. متى: 2026-08-13T02:14:11+00:00. كيف: On a site called LoongLeakAttack.com, the researchers explain that they found the leaky cache using a fuzzer, then noticed that the LoongArch ISA manual mentions an instruction that leaves 32 bits of a memory register in an “uncertain” state.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5287158.jpg?imageId=5287158&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/13/chinese-loongson-processors-have-leaky-caches-researchers-find/5287137"
+    ]
+  },
+  {
+    "id": "40efaac6e2bf4ea745221825",
+    "title": "'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today",
+    "link": "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/",
+    "published": "2026-08-13T01:00:39+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today. What: 'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today. When: 2026-08-13T01:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today. ماذا: 'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today. متى: 2026-08-13T01:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/c24499d61c1adabe7d050aa5c80f09b1149ae603/2026/08/12/ae118766-da54-4fc3-9854-64ac82657e5a/womanworkinggettyimages-2207400965.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/"
+    ]
+  },
+  {
     "id": "64474771ebc7e1d710baa0b0",
     "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
     "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
@@ -160562,60 +160598,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a395c0718108cc9065034e99958630435a0f871c/2026/02/13/e880d6b0-a5ad-4286-a206-515d650f3344/gettyimages-1484907968.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ecap-browser-pages-microsoft-edge-copilot/"
-    ]
-  },
-  {
-    "id": "596ff9adeae82a18a426dc53",
-    "title": "How to clear your Google Search cache on Android (and why it's a must for me)",
-    "link": "https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android-phone/",
-    "published": "2026-02-14T02:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: If you care about privacy, here's how to manually clear your search data - and set it to automatic How to clear your Google Search cache on Android (and why it's a must for me). What: How to clear your Google Search cache on Android (and why it's a must for me). When: 2026-02-14T02:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: If you care about privacy, here's how to manually clear your search data - and set it to automatic How to clear your Google Search cache on Android (and why it's a must for me). ماذا: How to clear your Google Search cache on Android (and why it's a must for me). متى: 2026-02-14T02:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2e6073eb3f864936fd85e863d3e50a6df44a18bd/2025/08/15/b5d10f43-0ac9-4039-a0cf-ae7146ce8db7/dsc06820.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-clear-google-search-cache-on-android-phone/"
-    ]
-  },
-  {
-    "id": "19a642771a52417a08d5be36",
-    "title": "15+ best Alexa commands to make your home work smarter (Prime not required)",
-    "link": "https://www.zdnet.com/article/best-alexa-commands/",
-    "published": "2026-02-14T01:01:08+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 15+ best Alexa commands to make your home work smarter (Prime not required). What: 15+ best Alexa commands to make your home work smarter (Prime not required). When: 2026-02-14T01:01:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 15+ best Alexa commands to make your home work smarter (Prime not required). ماذا: 15+ best Alexa commands to make your home work smarter (Prime not required). متى: 2026-02-14T01:01:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3e37a0fe3fc659776a71ba815ed3d5eb2362006a/2025/09/30/7197cd2a-eff5-42d7-9f05-ff3b4cada25a/dsc07842.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-alexa-commands/"
-    ]
-  },
-  {
-    "id": "1044932377ef7b92c712b112",
-    "title": "My 5 favorite Linux distros that are ready to use out of the box (no setup required)",
-    "link": "https://www.zdnet.com/article/5-favorite-linux-distros-easy-setup/",
-    "published": "2026-02-14T01:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My 5 favorite Linux distros that are ready to use out of the box (no setup required). What: My 5 favorite Linux distros that are ready to use out of the box (no setup required). When: 2026-02-14T01:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My 5 favorite Linux distros that are ready to use out of the box (no setup required). ماذا: My 5 favorite Linux distros that are ready to use out of the box (no setup required). متى: 2026-02-14T01:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/28d1c48d317d465d6489ac4b7f788c99b1790990/2025/09/23/8b0db542-d678-4303-a56f-c11399f17f57/best-out-of-the-box-linux-distribution.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-favorite-linux-distros-easy-setup/"
     ]
   }
 ]
