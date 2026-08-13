@@ -18,6 +18,61 @@
     ]
   },
   {
+    "id": "f7a0c6962ff04bc4902cdb63",
+    "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+    "published": "2026-08-13T08:38:03+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’. What: Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’. When: 2026-08-13T08:38:03+00:00. How: The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’. ماذا: Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’. متى: 2026-08-13T08:38:03+00:00. كيف: The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/06/zero-day-e1772721069481.jpg",
+    "sources": [
+      "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+      "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/"
+    ]
+  },
+  {
+    "id": "07fbae2eeb810b4ef0649391",
+    "title": "ICO Reprimands Criminal Records Office After 2023 Breach",
+    "link": "https://www.infosecurity-magazine.com/news/ico-reprimands-acro-records-office/",
+    "published": "2026-08-13T08:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: ICO Reprimands Criminal Records Office After 2023 Breach. What: The ICO has issued a formal reprimand to ACRO after patching and security monitoring failures led to a breach ICO Reprimands Criminal Records Office After 2023 Breach. When: 2026-08-13T08:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ICO Reprimands Criminal Records Office After 2023 Breach. ماذا: The ICO has issued a formal reprimand to ACRO after patching and security monitoring failures led to a breach ICO Reprimands Criminal Records Office After 2023 Breach. متى: 2026-08-13T08:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/73abf2e8-5445-4be5-a01b-629325a6b199.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ico-reprimands-acro-records-office/"
+    ]
+  },
+  {
+    "id": "fe7c685465c0fc3678f00572",
+    "title": "Armored Likho expands its cyber-espionage toolkit",
+    "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
+    "published": "2026-08-13T08:00:15+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Kaspersky products detect this threat as Trojan.Win64.Agent.* and HEUR:Backdoor.Win32.Generic .. What: Armored Likho expands its cyber-espionage toolkit. When: 2026-08-13T08:00:15+00:00. How: The app pulls item and category information from orderapiserver[.]info through the public/categories and public/products endpoints . Action: See Arabic action below.",
+    "summary_ar": "من: Kaspersky products detect this threat as Trojan.Win64.Agent.* and HEUR:Backdoor.Win32.Generic .. ماذا: Armored Likho expands its cyber-espionage toolkit. متى: 2026-08-13T08:00:15+00:00. كيف: The app pulls item and category information from orderapiserver[.]info through the public/categories and public/products endpoints .. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/12200329/SL-Armored-Likho-Still-Toolkit-featured-scaled-1.jpg",
+    "sources": [
+      "https://securelist.com/armored-likho-still-toolkit/121033/"
+    ]
+  },
+  {
     "id": "556d5b385151f0c989a87346",
     "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
     "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
@@ -24403,24 +24458,6 @@
     "image": "https://image.theregister.com/5269587.jpg?imageId=5269587&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/07/16/law-firm-insisted-on-one-password-to-rule-them-all/5269484"
-    ]
-  },
-  {
-    "id": "dd0a1e7e08d42e287b26abaf",
-    "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
-    "published": "2026-07-16T06:48:40+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day. What: Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day. When: 2026-07-16T06:48:40+00:00. How: The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day. ماذا: Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day. متى: 2026-07-16T06:48:40+00:00. كيف: The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg",
-    "sources": [
-      "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/"
     ]
   },
   {
