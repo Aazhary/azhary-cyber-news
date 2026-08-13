@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "6228d23d4185085068e763db",
+    "title": "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
+    "link": "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303",
+    "published": "2026-08-13T11:34:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Beacon, a CRM provider for charities and nonprofits, says an AWS access key \"potentially exposed in public JavaScript build artifacts\" is the leading suspect in its July breach.. What: Simpson warned customers that \"there are things we may never be able to find out about this incident,\" and that other details won't be shared to protect Beacon's security position.. When: 2026-08-13T11:34:00+00:00. How: With this in mind, we would recommend making your own risk assessments now regarding onward notification to impacted data subjects using your knowledge of the data you process and store with Beacon.\" Since Beacon disclosed the attack on August 4, the number of high-profile charities confirming they are affected has grown every day. Action: See Arabic action below.",
+    "summary_ar": "من: Beacon, a CRM provider for charities and nonprofits, says an AWS access key \"potentially exposed in public JavaScript build artifacts\" is the leading suspect in its July breach.. ماذا: Simpson warned customers that \"there are things we may never be able to find out about this incident,\" and that other details won't be shared to protect Beacon's security position.. متى: 2026-08-13T11:34:00+00:00. كيف: With this in mind, we would recommend making your own risk assessments now regarding onward notification to impacted data subjects using your knowledge of the data you process and store with Beacon.\" Since Beacon disclosed the attack on August 4, the number of high-profile charities confirming they are affected has grown every day.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1681829.jpg?imageId=1681829&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/13/aws-key-exposed-in-javascript-may-have-lit-way-to-beacons-charity-data/5287303"
+    ]
+  },
+  {
     "id": "6d488932864b8d861c182f60",
     "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
     "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
@@ -30,7 +48,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg",
     "sources": [
       "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/"
     ]
@@ -492,6 +510,24 @@
     "image": "https://www.zdnet.com/a/img/resize/09f6420cb4d806ddf9f1826c24708a8d8c494d7f/2026/08/12/c5701548-fd0e-4efc-bb73-cbdd9f42b8dc/sparkyhero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/sparky-linux-32-bit-support/"
+    ]
+  },
+  {
+    "id": "306a4594ca50321ff4b3164d",
+    "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
+    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+    "published": "2026-08-12T16:28:04+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Walmart Takes a 'Trusted Agent' Approach to Purple Teaming. What: Walmart Takes a 'Trusted Agent' Approach to Purple Teaming. When: 2026-08-12T16:28:04+00:00. How: Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises Walmart Takes a 'Trusted Agent' Approach to Purple Teaming Action: See Arabic action below.",
+    "summary_ar": "من: Walmart Takes a 'Trusted Agent' Approach to Purple Teaming. ماذا: Walmart Takes a 'Trusted Agent' Approach to Purple Teaming. متى: 2026-08-12T16:28:04+00:00. كيف: Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises Walmart Takes a 'Trusted Agent' Approach to Purple Teaming. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming"
     ]
   },
   {
@@ -160728,24 +160764,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/"
-    ]
-  },
-  {
-    "id": "95323d3791ff66db5761495c",
-    "title": "5 everyday essentials I'd buy during Presidents' Day",
-    "link": "https://www.zdnet.com/article/5-everyday-essentials-id-buy-during-presidents-day/",
-    "published": "2026-02-14T11:00:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 everyday essentials I'd buy during Presidents' Day. What: 5 everyday essentials I'd buy during Presidents' Day. When: 2026-02-14T11:00:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 everyday essentials I'd buy during Presidents' Day. ماذا: 5 everyday essentials I'd buy during Presidents' Day. متى: 2026-02-14T11:00:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d8b412a9ca891ca357c393dc119d9f4219e234fb/2026/02/13/a421e120-3241-4728-aae2-8faeedcd7b5a/screenshot-2026-02-13-at-3-37-42-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-everyday-essentials-id-buy-during-presidents-day/"
     ]
   }
 ]
