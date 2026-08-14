@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "79f12b55e7df5b4dd0d45d14",
+    "title": "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
+    "link": "https://www.theregister.com/security/2026/08/14/autonomous-ai-attacks-pose-clear-and-present-danger-to-critical-infrastructure/5287594",
+    "published": "2026-08-14T13:03:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: More than anything, it's obscurity,\" said John Hultquist, chief analyst at Google Threat Intelligence Group, during a press briefing at Black Hat.. What: This technical debt – deferred maintenance, unpatched or end-of-life systems, and delayed security updates – expands the attack surface and gives intruders more ways into critical systems, threatening operations and potentially disrupting services people rely on every day.. When: 2026-08-14T13:03:00+00:00. How: In early July, attackers used open source AI agents to autonomously hack government systems and energy companies, signaling to defenders that AI-powered attacks against critical infrastructure are no longer theoretical. Action: See Arabic action below.",
+    "summary_ar": "من: More than anything, it's obscurity,\" said John Hultquist, chief analyst at Google Threat Intelligence Group, during a press briefing at Black Hat.. ماذا: This technical debt – deferred maintenance, unpatched or end-of-life systems, and delayed security updates – expands the attack surface and gives intruders more ways into critical systems, threatening operations and potentially disrupting services people rely on every day.. متى: 2026-08-14T13:03:00+00:00. كيف: In early July, attackers used open source AI agents to autonomously hack government systems and energy companies, signaling to defenders that AI-powered attacks against critical infrastructure are no longer theoretical.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/14/autonomous-ai-attacks-pose-clear-and-present-danger-to-critical-infrastructure/5287594"
+    ]
+  },
+  {
+    "id": "8c669b3356118c515c83698e",
+    "title": "New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies",
+    "link": "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/",
+    "published": "2026-08-14T13:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies. What: New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies. When: 2026-08-14T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies. ماذا: New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies. متى: 2026-08-14T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/86b57423-233d-4e3a-bc1b-f237e174f915.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/"
+    ]
+  },
+  {
+    "id": "9d1825a48e1d4b0bc2851653",
+    "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+    "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+    "published": "2026-08-14T12:17:21+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Cyera's Oasis Security Buy is All About AI Agent Control. What: Cyera's Oasis Security Buy is All About AI Agent Control. When: 2026-08-14T12:17:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cyera's Oasis Security Buy is All About AI Agent Control. ماذا: Cyera's Oasis Security Buy is All About AI Agent Control. متى: 2026-08-14T12:17:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control"
+    ]
+  },
+  {
     "id": "ddab218624ff5847904523b5",
     "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
     "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
@@ -161152,63 +161206,6 @@
     "image": "https://www.zdnet.com/a/img/resize/cdf39951e4f2edddbec1603c8981d799e9f7a06a/2025/07/31/1fe9a039-1e9d-4d45-8aa7-58ccabfda203/2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/mova-p50-ultra-robot-vacuum-mop-review/"
-    ]
-  },
-  {
-    "id": "54d819fb06c2777814cbdb56",
-    "title": "Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked",
-    "link": "https://www.zdnet.com/article/samsung-unpacked-2026-confirmed-galaxy-s26-ultra-preorder-deal/",
-    "published": "2026-02-15T13:01:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked. What: Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked. When: 2026-02-15T13:01:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked. ماذا: Samsung confirms Galaxy S26 Ultra deal for $900 off ahead of February Unpacked. متى: 2026-02-15T13:01:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/75c1150aaf65796261bcc3163dda0551cf1380d6/2025/01/28/60bf7541-cc7c-4f33-af55-e9217c04b454/dsc03899-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-unpacked-2026-confirmed-galaxy-s26-ultra-preorder-deal/"
-    ]
-  },
-  {
-    "id": "8fd46e4c341bfa6dd56438d6",
-    "title": "I replaced my AirPods Pro with Sony XM6 earbuds for a month - and I'm nearly sold",
-    "link": "https://www.zdnet.com/article/sony-wf-1000-xm6-review/",
-    "published": "2026-02-15T13:01:07+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Sony returns with the WF-1000XM6 flagship earbuds, and they compete with their predecessor as much as they do with Apple and Bose.. What: I replaced my AirPods Pro with Sony XM6 earbuds for a month - and I'm nearly sold. When: 2026-02-15T13:01:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sony returns with the WF-1000XM6 flagship earbuds, and they compete with their predecessor as much as they do with Apple and Bose.. ماذا: I replaced my AirPods Pro with Sony XM6 earbuds for a month - and I'm nearly sold. متى: 2026-02-15T13:01:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/636d7db6b490c008511a5e0846991bd5bf3088e7/2026/02/11/503098af-885d-4dfe-b3be-66eb3387b6ff/xm6e-7.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-wf-1000-xm6-review/"
-    ]
-  },
-  {
-    "id": "4d22ac8626d14406a90bca53",
-    "title": "Your home Wi-Fi isn't nearly as private as it should be - 6 free ways to lock it down",
-    "link": "https://www.zdnet.com/article/home-wifi-setup-ways-to-improve-security/",
-    "published": "2026-02-15T13:00:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your home Wi-Fi isn't nearly as private as it should be - 6 free ways to lock it down. What: Your home Wi-Fi isn't nearly as private as it should be - 6 free ways to lock it down. When: 2026-02-15T13:00:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your home Wi-Fi isn't nearly as private as it should be - 6 free ways to lock it down. ماذا: Your home Wi-Fi isn't nearly as private as it should be - 6 free ways to lock it down. متى: 2026-02-15T13:00:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3986629bf94079087ab659977006e49e69a6d6b4/2025/06/05/538a0e14-8143-4685-8588-bdb81b0b44d9/asus.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/home-wifi-setup-ways-to-improve-security/",
-      "https://www.zdnet.com/article/your-home-wi-fi-isnt-nearly-as-private-as-it-should-be-6-free-ways-to-lock-it-down/",
-      "https://www.zdnet.com/article/your-home-wi-fi-isnt-nearly-as-private-as-it-should-be-6-free-methods-to-tighten-its-security/",
-      "https://www.zdnet.com/article/your-home-wi-fi-isnt-as-private-as-you-think-6-free-ways-to-tighten-its-security/"
     ]
   }
 ]
