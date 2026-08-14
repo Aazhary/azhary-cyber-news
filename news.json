@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "b74725c02d4516dd1ca60fa5",
+    "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+    "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+    "published": "2026-08-14T18:32:14+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe , Sequoia , and Sonoma .. What: Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation.. When: 2026-08-14T18:32:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The vulnerability, tracked as CVE-2026-65400, received a patch from Apple last week for macOS Tahoe , Sequoia , and Sonoma .. ماذا: Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation.. متى: 2026-08-14T18:32:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-65400"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
+    ]
+  },
+  {
     "id": "2be96fadaf5a369a0ba6f5ed",
     "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
@@ -41,8 +61,8 @@
     "link": "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003",
     "published": "2026-08-14T17:34:57+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. What: RingCentral disclosed the breach July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. When: 2026-08-14T17:34:57+00:00. How: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet. Action: See Arabic action below.",
-    "summary_ar": "من: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. ماذا: RingCentral disclosed the breach July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. متى: 2026-08-14T17:34:57+00:00. كيف: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. What: RingCentral disclosed the breach on July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. When: 2026-08-14T17:34:57+00:00. How: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet. Action: See Arabic action below.",
+    "summary_ar": "من: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. ماذا: RingCentral disclosed the breach on July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. متى: 2026-08-14T17:34:57+00:00. كيف: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Patch/Update",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -51,6 +71,24 @@
     "image": "https://image.theregister.com/5288059.jpg?imageId=5288059&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003"
+    ]
+  },
+  {
+    "id": "b40a403bc88ea1eb5a460359",
+    "title": "Amid AI-Driven Bug Tsunami, NIST Looks to…AI",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+    "published": "2026-08-14T17:32:46+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Amid AI-Driven Bug Tsunami, NIST Looks to…AI. What: Amid AI-Driven Bug Tsunami, NIST Looks to…AI. When: 2026-08-14T17:32:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amid AI-Driven Bug Tsunami, NIST Looks to…AI. ماذا: Amid AI-Driven Bug Tsunami, NIST Looks to…AI. متى: 2026-08-14T17:32:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai"
     ]
   },
   {
