@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "2be96fadaf5a369a0ba6f5ed",
+    "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+    "published": "2026-08-14T18:04:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers arrested over €30M bank fraud exploiting service provider flaw. What: Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts.. When: 2026-08-14T18:04:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers arrested over €30M bank fraud exploiting service provider flaw. ماذا: Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts.. متى: 2026-08-14T18:04:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/arrest.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/"
+    ]
+  },
+  {
+    "id": "b5528a6b3f765c9a4ecddcc8",
+    "title": "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003",
+    "published": "2026-08-14T17:34:57+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. What: RingCentral disclosed the breach July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. When: 2026-08-14T17:34:57+00:00. How: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet. Action: See Arabic action below.",
+    "summary_ar": "من: 1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack. ماذا: RingCentral disclosed the breach July 28 and said “it was the target of a sophisticated social engineering campaign” affecting a “limited portion of RingCentral customers.” The comms platform said that it promptly responded to the intrusion upon detecting it, “took steps to stop the unauthorized activity,” and immediately launched an investigation into the security incident with help from a “leading third-party forensic firm.” “We have not seen any new unauthorized activity since taking these remediation efforts,” the company added.. متى: 2026-08-14T17:34:57+00:00. كيف: RingCentral apparently didn’t pay the extortion demand, and ShinyHunters followed through on its threat, posting customers’ details on the internet.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5288059.jpg?imageId=5288059&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/14/16m-ringcentral-accounts-data-dumped-after-shinyhunters-extortion-attack/5288003"
+    ]
+  },
+  {
     "id": "9490bb5af8859ac5c0fa4d5c",
     "title": "Google Meet can take notes for your in-person meetings now - here's how it works",
     "link": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
