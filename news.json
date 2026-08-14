@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "3b00799477ef9cf25b7af771",
+    "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+    "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+    "published": "2026-08-14T09:20:28+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.. What: Over 1,000 Charities Hit by Beacon CRM Data Breach. When: 2026-08-14T09:20:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.. ماذا: Over 1,000 Charities Hit by Beacon CRM Data Breach. متى: 2026-08-14T09:20:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg",
+    "sources": [
+      "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/"
+    ]
+  },
+  {
+    "id": "5d082034838801c7ba37f02d",
+    "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+    "link": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
+    "published": "2026-08-14T09:00:14+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Since its first public disclosure by Sophos in 2022 and subsequent analysis by Trend Micro in 2023 , CoolClient has continued to evolve.. What: APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit. When: 2026-08-14T09:00:14+00:00. How: In 2025 , we analyzed a newer variant that introduced clipboard theft and HTTP traffic interception for credential harvesting. Action: See Arabic action below.",
+    "summary_ar": "من: Since its first public disclosure by Sophos in 2022 and subsequent analysis by Trend Micro in 2023 , CoolClient has continued to evolve.. ماذا: APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit. متى: 2026-08-14T09:00:14+00:00. كيف: In 2025 , we analyzed a newer variant that introduced clipboard theft and HTTP traffic interception for credential harvesting.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/12120025/honeymyte-driver-overview_1-scaled.jpg",
+    "sources": [
+      "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/"
+    ]
+  },
+  {
+    "id": "96330e92721d8889158c5a7c",
+    "title": "Scottish prosecutors cast eye over leaky supplier after staff data exposed",
+    "link": "https://www.theregister.com/security/2026/08/14/scottish-prosecutors-cast-eye-over-leaky-supplier-after-staff-data-exposed/5287479",
+    "published": "2026-08-14T08:46:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: It is unclear whether the incident is connected to the recent exploitation of a zero-day vulnerability in business intelligence platform Metabase.. What: Scotland's public prosecution service has warned 300 staff that their personal information may have been caught up in a cyberattack on one of its suppliers.. When: 2026-08-14T08:46:00+00:00. How: \"Colleagues have been reminded of guidance on responding to any phishing or scam attempts which may arise from this third-party breach.\" According to COPFS, the supplier has taken steps to secure its systems and is still investigating how the intrusion happened and precisely what information may have been accessed. Action: See Arabic action below.",
+    "summary_ar": "من: It is unclear whether the incident is connected to the recent exploitation of a zero-day vulnerability in business intelligence platform Metabase.. ماذا: Scotland's public prosecution service has warned 300 staff that their personal information may have been caught up in a cyberattack on one of its suppliers.. متى: 2026-08-14T08:46:00+00:00. كيف: \"Colleagues have been reminded of guidance on responding to any phishing or scam attempts which may arise from this third-party breach.\" According to COPFS, the supplier has taken steps to secure its systems and is still investigating how the intrusion happened and precisely what information may have been accessed.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/255884.jpg?imageId=255884&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/14/scottish-prosecutors-cast-eye-over-leaky-supplier-after-staff-data-exposed/5287479"
+    ]
+  },
+  {
     "id": "5b34f38de8db2e0834896b76",
     "title": "Data analyst sent to prison for stealing data, extorting employer",
     "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
