@@ -18,6 +18,79 @@
     ]
   },
   {
+    "id": "fcf6a7f2548ff7aab66594aa",
+    "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+    "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+    "published": "2026-08-14T11:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.. What: Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal. When: 2026-08-14T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.. ماذا: Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal. متى: 2026-08-14T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/PQC-post-quantum-cryptography.jpeg",
+    "sources": [
+      "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/"
+    ]
+  },
+  {
+    "id": "c10edf4192c53c2333ac24a7",
+    "title": "RingCentral data breach exposed info of 1.6 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "published": "2026-08-14T10:52:05+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: RingCentral data breach exposed info of 1.6 million accounts. What: RingCentral data breach exposed info of 1.6 million accounts. When: 2026-08-14T10:52:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: RingCentral data breach exposed info of 1.6 million accounts. ماذا: RingCentral data breach exposed info of 1.6 million accounts. متى: 2026-08-14T10:52:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/14/RingCentral-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/"
+    ]
+  },
+  {
+    "id": "f9109ccd793cc290a65c1d80",
+    "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+    "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
+    "published": "2026-08-14T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Novel macOS Infostealer AmnesiaStealer Spread via ClickFix. What: AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data Novel macOS Infostealer AmnesiaStealer Spread via ClickFix. When: 2026-08-14T10:45:00+00:00. How: AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data Novel macOS Infostealer AmnesiaStealer Spread via ClickFix Action: See Arabic action below.",
+    "summary_ar": "من: Novel macOS Infostealer AmnesiaStealer Spread via ClickFix. ماذا: AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data Novel macOS Infostealer AmnesiaStealer Spread via ClickFix. متى: 2026-08-14T10:45:00+00:00. كيف: AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data Novel macOS Infostealer AmnesiaStealer Spread via ClickFix. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/f7348d1b-e72f-40c1-85e2-84fa3a40da71.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/"
+    ]
+  },
+  {
+    "id": "1fe9ebdea19531b6758a00dd",
+    "title": "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
+    "link": "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734",
+    "published": "2026-08-14T10:29:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach. What: The breach exposed the names, email addresses, phone numbers, and shipping addresses of 11,742 customers in the US, UK, Sweden, Colombia, Brazil, Italy, and Portugal who ordered Trezor products between May 10 and August 8.. When: 2026-08-14T10:29:00+00:00. How: ShipMonk is subject to Trezor's 90-day retention policy, which requires partners to delete or anonymize customer data within 90 days of collecting it for an order. Action: See Arabic action below.",
+    "summary_ar": "من: Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach. ماذا: The breach exposed the names, email addresses, phone numbers, and shipping addresses of 11,742 customers in the US, UK, Sweden, Colombia, Brazil, Italy, and Portugal who ordered Trezor products between May 10 and August 8.. متى: 2026-08-14T10:29:00+00:00. كيف: ShipMonk is subject to Trezor's 90-day retention policy, which requires partners to delete or anonymize customer data within 90 days of collecting it for an order.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5287758.jpg?imageId=5287758&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734"
+    ]
+  },
+  {
     "id": "0afb22f1f75409d98c5d6a9a",
     "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
     "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
@@ -62889,24 +62962,6 @@
     "image": "https://www.zdnet.com/a/img/resize/e4d78912e6e89c8c655a1df58d625a2ac23e389a/2026/06/02/63647305-9dca-4312-8175-37827ed5aba7/1000056450.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-clear-android-phone-cache/"
-    ]
-  },
-  {
-    "id": "981e2a357cc4fabace09a870",
-    "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
-    "published": "2026-06-04T18:36:27+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: DentaQuest data breach  exposed info of 2.6 million accounts. What: A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts.. When: 2026-06-04T18:36:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: DentaQuest data breach  exposed info of 2.6 million accounts. ماذا: A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts.. متى: 2026-06-04T18:36:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/04/DentaQuest.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/"
     ]
   },
   {
