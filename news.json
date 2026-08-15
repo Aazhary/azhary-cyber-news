@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "1255bba338094b2a0fefff20",
+    "title": "ChainDrop worm crawls into npm supply chain, evades standard defenses",
+    "link": "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958",
+    "published": "2026-08-15T10:31:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The latest variant of Shai-Hulud, dubbed “ChainDrop” by Microsoft and others, is no mere sequel, however.. What: ChainDrop worm crawls into npm supply chain, evades standard defenses. When: 2026-08-15T10:31:00+00:00. How: A new variant of the Shai-Hulud npm worm has poisoned hundreds of packages while adding propagation techniques that can leave little trace in the corresponding source repositories. Action: See Arabic action below.",
+    "summary_ar": "من: The latest variant of Shai-Hulud, dubbed “ChainDrop” by Microsoft and others, is no mere sequel, however.. ماذا: ChainDrop worm crawls into npm supply chain, evades standard defenses. متى: 2026-08-15T10:31:00+00:00. كيف: A new variant of the Shai-Hulud npm worm has poisoned hundreds of packages while adding propagation techniques that can leave little trace in the corresponding source repositories.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958"
+    ]
+  },
+  {
     "id": "bfd26d18ea4f538fea712465",
     "title": "No space for bookshelf speakers? The Victrola Soundstage sits neatly under my turntable",
     "link": "https://www.zdnet.com/article/victrola-soundstage-review/",
@@ -161150,42 +161168,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/6fd25787-e3c7-4ec4-a2b5-426834188ced.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/google-patches-new-in-wild-chrome/"
-    ]
-  },
-  {
-    "id": "82f5667dfe58ccaa8fd50985",
-    "title": "Crypto Payments to Human Traffickers Surges 85%",
-    "link": "https://www.infosecurity-magazine.com/news/crypto-payments-human-traffickers/",
-    "published": "2026-02-16T10:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Crypto Payments to Human Traffickers Surges 85%. What: Crypto Payments to Human Traffickers Surges 85%. When: 2026-02-16T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Crypto Payments to Human Traffickers Surges 85%. ماذا: Crypto Payments to Human Traffickers Surges 85%. متى: 2026-02-16T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/aa404341-d8d0-4f73-a8d5-3be3db98fc07.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/crypto-payments-human-traffickers/"
-    ]
-  },
-  {
-    "id": "6dd814f498853ae4950de29c",
-    "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
-    "link": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
-    "published": "2026-02-16T10:24:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft. What: Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.. When: 2026-02-16T10:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft. ماذا: Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.. متى: 2026-02-16T10:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKaEDCa0YvJa9oAIavVh9Rz9NN1Cj0XVy8fKroTXMBQp7rYGL14oiZ14iCTMk0ToBg1wWx-iTClSpoZ_wg4hSAgPvFyatlGddSFgnaqdREUK24NW6xdnVgajR703vH_UpbjnLC4_NdFy1RC4pETcSTaxekLpAXNfz0n8ME7s9nyIco15DjjTiZwm7Tkhs/s1600/android-spyware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html"
     ]
   }
 ]
