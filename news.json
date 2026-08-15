@@ -161321,23 +161321,5 @@
     "sources": [
       "https://www.zdnet.com/article/dewalt-electric-snow-blower-review/"
     ]
-  },
-  {
-    "id": "d10c0f4b1cb1e93a3f7a00ce",
-    "title": "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS",
-    "link": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/",
-    "published": "2026-02-16T00:29:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS. What: Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns.. When: 2026-02-16T00:29:00+00:00. How: Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns. Action: See Arabic action below.",
-    "summary_ar": "من: New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS. ماذا: Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns.. متى: 2026-02-16T00:29:00+00:00. كيف: Threat actors are now abusing DNS queries as part of ClickFix social engineering attacks to deliver malware, making this the first known use of DNS as a channel in these campaigns.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/"
-    ]
   }
 ]
