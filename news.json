@@ -1711,24 +1711,6 @@
     ]
   },
   {
-    "id": "33ca97ca5aabe833acad5a90",
-    "title": "Passwords stored in public Google Doc then showed up in search results",
-    "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
-    "published": "2026-08-13T07:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Instead, the outside developer decided to store their password in a Google Doc.. What: Passwords stored in public Google Doc then showed up in search results. When: 2026-08-13T07:00:00+00:00. How: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job. Action: See Arabic action below.",
-    "summary_ar": "من: Instead, the outside developer decided to store their password in a Google Doc.. ماذا: Passwords stored in public Google Doc then showed up in search results. متى: 2026-08-13T07:00:00+00:00. كيف: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5287048.jpg?imageId=5287048&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028"
-    ]
-  },
-  {
     "id": "556d5b385151f0c989a87346",
     "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
     "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
@@ -1744,6 +1726,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
+    ]
+  },
+  {
+    "id": "33ca97ca5aabe833acad5a90",
+    "title": "Passwords stored in public Google Doc then showed up in search results",
+    "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
+    "published": "2026-08-13T07:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Instead, the outside developer decided to store their password in a Google Doc.. What: Passwords stored in public Google Doc then showed up in search results. When: 2026-08-13T07:00:00+00:00. How: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job. Action: See Arabic action below.",
+    "summary_ar": "من: Instead, the outside developer decided to store their password in a Google Doc.. ماذا: Passwords stored in public Google Doc then showed up in search results. متى: 2026-08-13T07:00:00+00:00. كيف: That developer had the credentials for the staging environment and wanted to be able to view them across different devices they were using for the job.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5287048.jpg?imageId=5287048&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028"
     ]
   },
   {
@@ -9169,24 +9169,6 @@
     ]
   },
   {
-    "id": "cf119a8c00ca0d039261c12f",
-    "title": "Fake Bank of America Phishing Scam Installs Remote Access Malware",
-    "link": "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/",
-    "published": "2026-08-05T08:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Fake Bank of America Phishing Scam Installs Remote Access Malware. What: Fake Bank of America Phishing Scam Installs Remote Access Malware. When: 2026-08-05T08:00:00+00:00. How: Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enabling remote access and persistence on compromised systems Fake Bank of America Phishing Scam Installs Remote Access Malware Action: See Arabic action below.",
-    "summary_ar": "من: Fake Bank of America Phishing Scam Installs Remote Access Malware. ماذا: Fake Bank of America Phishing Scam Installs Remote Access Malware. متى: 2026-08-05T08:00:00+00:00. كيف: Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enabling remote access and persistence on compromised systems Fake Bank of America Phishing Scam Installs Remote Access Malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a9fbbf14-e2cb-4457-95d9-a818a01a0f44.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/"
-    ]
-  },
-  {
     "id": "6a0611e5b7451b588dee350f",
     "title": "Angola's Largest Telco Breached Hours Before IPO",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
@@ -9202,6 +9184,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc562507d832ba51c/6a72581b9aeba22476b547f2/SIM-cards-with-Angola-flag-Novikov_Aleksey-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo"
+    ]
+  },
+  {
+    "id": "cf119a8c00ca0d039261c12f",
+    "title": "Fake Bank of America Phishing Scam Installs Remote Access Malware",
+    "link": "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/",
+    "published": "2026-08-05T08:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Fake Bank of America Phishing Scam Installs Remote Access Malware. What: Fake Bank of America Phishing Scam Installs Remote Access Malware. When: 2026-08-05T08:00:00+00:00. How: Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enabling remote access and persistence on compromised systems Fake Bank of America Phishing Scam Installs Remote Access Malware Action: See Arabic action below.",
+    "summary_ar": "من: Fake Bank of America Phishing Scam Installs Remote Access Malware. ماذا: Fake Bank of America Phishing Scam Installs Remote Access Malware. متى: 2026-08-05T08:00:00+00:00. كيف: Cybercriminals are using a fake Bank of America phishing campaign to trick users into downloading a malicious script that installs ScreenConnect, enabling remote access and persistence on compromised systems Fake Bank of America Phishing Scam Installs Remote Access Malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/a9fbbf14-e2cb-4457-95d9-a818a01a0f44.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fake-bank-of-america-phishing-scam/"
     ]
   },
   {
