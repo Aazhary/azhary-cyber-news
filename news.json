@@ -160336,23 +160336,5 @@
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/17/mod_weapons_budget/"
     ]
-  },
-  {
-    "id": "db820300b57ef7b9445c3a13",
-    "title": "Divide and conquer: how the new Keenadu backdoor exposed links between major Android botnets",
-    "link": "https://securelist.com/keenadu-android-backdoor/118913/",
-    "published": "2026-02-17T09:00:35+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: One specific payload identified during our research was also found embedded in numerous standalone apps distributed via third-party repositories, as well as official storefronts like Google Play and Xiaomi GetApps.. What: In April 2025, we reported on a then-new iteration of the Triada backdoor that had compromised the firmware of counterfeit Android devices sold across major marketplaces.. When: 2026-02-17T09:00:35+00:00. How: We successfully intercepted the payloads retrieved by Keenadu. Action: See Arabic action below.",
-    "summary_ar": "من: One specific payload identified during our research was also found embedded in numerous standalone apps distributed via third-party repositories, as well as official storefronts like Google Play and Xiaomi GetApps.. ماذا: In April 2025, we reported on a then-new iteration of the Triada backdoor that had compromised the firmware of counterfeit Android devices sold across major marketplaces.. متى: 2026-02-17T09:00:35+00:00. كيف: We successfully intercepted the payloads retrieved by Keenadu.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/02/17072352/SL-Keenadu-featured-scaled.jpg",
-    "sources": [
-      "https://securelist.com/keenadu-android-backdoor/118913/"
-    ]
   }
 ]
