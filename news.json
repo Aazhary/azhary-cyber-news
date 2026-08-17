@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "1ae2f7c0cede941118fa7a3b",
+    "title": "An AI broke Snowflake's code. Then another AI agent exploited it",
+    "link": "https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666",
+    "published": "2026-08-17T16:36:21+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Wiz’s red agent, an AI-powered autonomous attacker designed for offensive security, found the GitHub Actions workflow flaw during a routine scan of public repositories on June 23.. What: An AI broke Snowflake’s code; then another AI, an attack agent, autonomously found the bug, exploited it, and extracted credentials without human intervention.. When: 2026-08-17T16:36:21+00:00. How: It was a sanctioned bug hunt, conducted through Snowflake’s HackerOne vulnerability disclosure program, and Snowflake fixed the flaw the same day Wiz reported it and rotated the affected credentials the following day. Action: See Arabic action below.",
+    "summary_ar": "من: Wiz’s red agent, an AI-powered autonomous attacker designed for offensive security, found the GitHub Actions workflow flaw during a routine scan of public repositories on June 23.. ماذا: An AI broke Snowflake’s code; then another AI, an attack agent, autonomously found the bug, exploited it, and extracted credentials without human intervention.. متى: 2026-08-17T16:36:21+00:00. كيف: It was a sanctioned bug hunt, conducted through Snowflake’s HackerOne vulnerability disclosure program, and Snowflake fixed the flaw the same day Wiz reported it and rotated the affected credentials the following day.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5288720.jpg?imageId=5288720&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666"
+    ]
+  },
+  {
     "id": "31cfd388a2c6e6e2cb362cb1",
     "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
     "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
@@ -159298,101 +159316,6 @@
     "image": "https://www.zdnet.com/a/img/resize/9ddd50d61cc486db642f0f45a019d5358db57528/2025/11/13/27be52cc-8060-465d-88ea-d6f26ccb97d9/dsc08524.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/oneplus-15-review/"
-    ]
-  },
-  {
-    "id": "dc8e036cdfd7435e572a135b",
-    "title": "Deutsche Bahn back on track after DDoS yanks the brakes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/deutsche_bahn_ddos/",
-    "published": "2026-02-18T16:36:52+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: National rail bookings and timetables disrupted for nearly 24 hours If you wanted to book a train trip in Germany recently, you would have been out of luck.. What: Deutsche Bahn back on track after DDoS yanks the brakes. When: 2026-02-18T16:36:52+00:00. How: The country's national rail company says that its services were disrupted for hours because of a cyberattack.… Deutsche Bahn back on track after DDoS yanks the brakes Action: See Arabic action below.",
-    "summary_ar": "من: National rail bookings and timetables disrupted for nearly 24 hours If you wanted to book a train trip in Germany recently, you would have been out of luck.. ماذا: Deutsche Bahn back on track after DDoS yanks the brakes. متى: 2026-02-18T16:36:52+00:00. كيف: The country's national rail company says that its services were disrupted for hours because of a cyberattack.… Deutsche Bahn back on track after DDoS yanks the brakes. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/08/04/deutsche_bahn_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/18/deutsche_bahn_ddos/"
-    ]
-  },
-  {
-    "id": "dc8e036cdfd7435e572a135b",
-    "title": "German train line back on track after DDoS yanks the brakes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/deutsche_bahn_ddos/",
-    "published": "2026-02-18T16:36:52+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: National rail bookings and timetables disrupted for nearly 24 hours If you wanted to book a train trip in Germany recently, you would have been out of luck.. What: German train line back on track after DDoS yanks the brakes. When: 2026-02-18T16:36:52+00:00. How: The country's national rail company says that its services were disrupted for hours because of a cyberattack.… German train line back on track after DDoS yanks the brakes Action: See Arabic action below.",
-    "summary_ar": "من: National rail bookings and timetables disrupted for nearly 24 hours If you wanted to book a train trip in Germany recently, you would have been out of luck.. ماذا: German train line back on track after DDoS yanks the brakes. متى: 2026-02-18T16:36:52+00:00. كيف: The country's national rail company says that its services were disrupted for hours because of a cyberattack.… German train line back on track after DDoS yanks the brakes. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/08/04/deutsche_bahn_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/18/deutsche_bahn_ddos/"
-    ]
-  },
-  {
-    "id": "83d30863392a0bdb66cc1eb9",
-    "title": "Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution",
-    "link": "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html",
-    "published": "2026-02-18T16:35:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution. What: Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices.. When: 2026-02-18T16:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Grandstream GXP1600 VoIP Phones Exposed to Unauthenticated Remote Code Execution. ماذا: Cybersecurity researchers have disclosed a critical security flaw in the Grandstream GXP1600 series of VoIP phones that could allow an attacker to seize control of susceptible devices.. متى: 2026-02-18T16:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-2329"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJkDWw2o7gwfV4NseVpa6WnSALfRD1COOQfDjRYsORg5EN_NXyMNj43q0uSXkGZbgNC6kUJx-suEri4OMmg1v9UULThdAImIdK04DyIkj4iabnRcDqfl2bUXFWz-nsGeR7y8W0YC1ykqt3VauFhW7saH9iblk6kA8KTEKcG74A4fPWPf9BAmH4ifiiu2Hv/s1600/root.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/grandstream-gxp1600-voip-phones-exposed.html"
-    ]
-  },
-  {
-    "id": "982172cda4cf6363baeca487",
-    "title": "Telegram channels expose rapid weaponization of SmarterMail flaws",
-    "link": "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/",
-    "published": "2026-02-18T16:27:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] Telegram channels expose rapid weaponization of SmarterMail flaws. What: Telegram channels expose rapid weaponization of SmarterMail flaws. When: 2026-02-18T16:27:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: [...] Telegram channels expose rapid weaponization of SmarterMail flaws. ماذا: Telegram channels expose rapid weaponization of SmarterMail flaws. متى: 2026-02-18T16:27:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-23760",
-      "CVE-2026-24423"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/02/18/flare-header-image-hg.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/telegram-channels-expose-rapid-weaponization-of-smartermail-flaws/"
-    ]
-  },
-  {
-    "id": "5252770b4fd024c509d3b3a2",
-    "title": "Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/",
-    "published": "2026-02-18T16:26:53+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns.. What: Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages. When: 2026-02-18T16:26:53+00:00. How: Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns.. ماذا: Microsoft: Anti-phishing rules mistakenly blocked emails, Teams messages. متى: 2026-02-18T16:26:53+00:00. كيف: Microsoft says an Exchange Online issue that mistakenly quarantined legitimate emails last week was triggered by faulty heuristic detection rules designed to block credential phishing campaigns.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/14/Exchange-Online.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-phishing-rules-mistakenly-blocked-emails-teams-messages/"
     ]
   }
 ]
