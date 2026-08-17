@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "ba44143ddf144aa2b795873f",
+    "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+    "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+    "published": "2026-08-17T08:13:07+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure. What: The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.. When: 2026-08-17T08:13:07+00:00. How: The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure. ماذا: The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.. متى: 2026-08-17T08:13:07+00:00. كيف: The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-58231"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg",
+    "sources": [
+      "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+    ]
+  },
+  {
     "id": "4aa14807eaa27dfcee52376d",
     "title": "Black Hat and DEF CON are AI conferences now, too",
     "link": "https://www.theregister.com/security/2026/08/17/black-hat-and-def-con-are-ai-conferences-now-too/5288076",
@@ -159075,24 +159095,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/91175c57-3506-4163-b081-bc6a59a1829c.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/"
-    ]
-  },
-  {
-    "id": "7e95d4983aa46174af3bdcfb",
-    "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
-    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
-    "published": "2026-02-18T08:24:46+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.. What: The post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on SecurityWeek .. When: 2026-02-18T08:24:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.. ماذا: The post Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction appeared first on SecurityWeek .. متى: 2026-02-18T08:24:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/"
     ]
   }
 ]
