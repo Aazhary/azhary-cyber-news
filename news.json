@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "4b76bf6a9d314ef5703780db",
+    "title": "French tax authority data breach affects 678,000 individuals",
+    "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "published": "2026-08-17T10:09:48+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: French tax authority data breach affects 678,000 individuals. What: The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals.. When: 2026-08-17T10:09:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: French tax authority data breach affects 678,000 individuals. ماذا: The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals.. متى: 2026-08-17T10:09:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/01/06/flag-of-france.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/"
+    ]
+  },
+  {
     "id": "a2ed8f8279e7c753e80bf247",
     "title": "40,000 Impacted by SafePal Data Breach",
     "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
@@ -159170,42 +159188,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEDKNxnbOcXaXVgDSSwTmvAj0925uBaCpS6NSGhH8G2FVGF_slC9Asa2SFPWBht3ZyF3rFB53zoqJiHVoK3cfMkjBpneFJjmkDB5j4XOqyHO5JLft27dzrb5R4U-D7VYBn3RQOoA5s6OupWYPcSaksjDsAaBl83eKB226AxF9L_zc4Tw3hyupEiVKxY0N/s1600/tines.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
-    ]
-  },
-  {
-    "id": "25f70c8e8da67cae991b2831",
-    "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
-    "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
-    "published": "2026-02-18T10:26:03+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.. What: The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.. When: 2026-02-18T10:26:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.. ماذا: The vulnerability added to CISA’s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.. متى: 2026-02-18T10:26:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/"
-    ]
-  },
-  {
-    "id": "24a3d43d806ac0cc99a3c00a",
-    "title": "Chinese APT Group Exploits Dell Zero-Day for Two Years",
-    "link": "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/",
-    "published": "2026-02-18T10:10:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines Chinese APT Group Exploits Dell Zero-Day for Two Years. What: Chinese APT Group Exploits Dell Zero-Day for Two Years. When: 2026-02-18T10:10:00+00:00. How: Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines Chinese APT Group Exploits Dell Zero-Day for Two Years Action: See Arabic action below.",
-    "summary_ar": "من: Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines Chinese APT Group Exploits Dell Zero-Day for Two Years. ماذا: Chinese APT Group Exploits Dell Zero-Day for Two Years. متى: 2026-02-18T10:10:00+00:00. كيف: Mandiant reveals campaign featuring exploit of a CVSS 10.0 CVE in Dell RecoverPoint for Virtual Machines Chinese APT Group Exploits Dell Zero-Day for Two Years. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/91175c57-3506-4163-b081-bc6a59a1829c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/chinese-apt-exploits-dell-zeroday/"
     ]
   }
 ]
