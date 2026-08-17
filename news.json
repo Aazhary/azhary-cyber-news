@@ -159318,41 +159318,5 @@
     "sources": [
       "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine"
     ]
-  },
-  {
-    "id": "7c17bf124ac25b283aed8a4a",
-    "title": "ShinyHunters claims it drove off with 1.7M CarGurus records",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/",
-    "published": "2026-02-18T20:40:44+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: ShinyHunters claims it drove off with 1.7M CarGurus records. What: ShinyHunters claims it drove off with 1.7M CarGurus records. When: 2026-02-18T20:40:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ShinyHunters claims it drove off with 1.7M CarGurus records. ماذا: ShinyHunters claims it drove off with 1.7M CarGurus records. متى: 2026-02-18T20:40:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2015/03/26/acceleration.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/18/shinyhunters_cargurus_breach/"
-    ]
-  },
-  {
-    "id": "d5af9678949101a97fea8a94",
-    "title": "AI platforms can be abused for stealthy malware communication",
-    "link": "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/",
-    "published": "2026-02-18T20:18:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity.. What: AI platforms can be abused for stealthy malware communication. When: 2026-02-18T20:18:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI assistants like Grok and Microsoft Copilot with web browsing and URL-fetching capabilities can be abused to intermediate command-and-control (C2) activity.. ماذا: AI platforms can be abused for stealthy malware communication. متى: 2026-02-18T20:18:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/03/05/hand.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/"
-    ]
   }
 ]
