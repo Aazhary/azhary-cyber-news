@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "23839b2ced7e04c7609bd3b7",
+    "title": "Crook hawks millions of records allegedly plundered from corporate Azure tenants",
+    "link": "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305",
+    "published": "2026-08-17T11:43:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A cybercrook claims to have siphoned millions of employee records from the Microsoft Azure environments of major companies including McDonald's, Vodafone, Kyndryl, and Tata Consultancy Services.. What: Samples reviewed by the security shop reportedly include phone numbers, physical addresses, employee IDs, job titles, departments, office locations, reporting structures, group memberships, and service account details.. When: 2026-08-17T11:43:00+00:00. How: The alleged haul spans nine organizations and is being advertised for sale by a threat actor using the name \"TheHatman,\" according to research published by Hudson Rock. Action: See Arabic action below.",
+    "summary_ar": "من: A cybercrook claims to have siphoned millions of employee records from the Microsoft Azure environments of major companies including McDonald's, Vodafone, Kyndryl, and Tata Consultancy Services.. ماذا: Samples reviewed by the security shop reportedly include phone numbers, physical addresses, employee IDs, job titles, departments, office locations, reporting structures, group memberships, and service account details.. متى: 2026-08-17T11:43:00+00:00. كيف: The alleged haul spans nine organizations and is being advertised for sale by a threat actor using the name \"TheHatman,\" according to research published by Hudson Rock.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/253523.jpg?imageId=253523&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/17/crook-hawks-millions-of-records-allegedly-plundered-from-corporate-azure-tenants/5288305"
+    ]
+  },
+  {
+    "id": "058e0801ea5d438df2ac36d1",
+    "title": "Google Workspace lets Gemini access your company data by default - how to shut it down",
+    "link": "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/",
+    "published": "2026-08-17T11:38:51+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default.. What: Google Workspace lets Gemini access your company data by default - how to shut it down. When: 2026-08-17T11:38:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default.. ماذا: Google Workspace lets Gemini access your company data by default - how to shut it down. متى: 2026-08-17T11:38:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/947feb920ed4a77d7b663fc75cc19292b6252d67/2026/08/17/3c628c54-d8c0-44b9-9b40-01381af24ac2/gettyimages-2282307451.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/google-workspace-lets-gemini-access-your-company-data-by-default-how-to-shut-it-down/"
+    ]
+  },
+  {
+    "id": "9be2ab121f9bf628a23837a9",
+    "title": "Philips and GE investigating Clop ransomware data theft claims",
+    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "published": "2026-08-17T11:25:02+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Philips and GE investigating Clop ransomware data theft claims. What: Philips and GE investigating Clop ransomware data theft claims. When: 2026-08-17T11:25:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Philips and GE investigating Clop ransomware data theft claims. ماذا: Philips and GE investigating Clop ransomware data theft claims. متى: 2026-08-17T11:25:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/17/Philips-GE.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/"
+    ]
+  },
+  {
     "id": "023eff3b99d5ceeb269c6074",
     "title": "ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act",
     "link": "https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/",
@@ -159462,24 +159516,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMesQzVUB1p32eXrWtBaOoM_KiArzTzal0BZlOZe_3eDVZE4uteEEIuG-VPAdCT3ViO1gErpC_GoD5mNBzdYbHBuPg3CEGXbYGLSU_P3cprd1UWds_sQGv7FBqz_FkV5hlvx2twmi25eTFgkHqcipFofDfDXYMTo7-wCgjNTGnotzhX4XZ8MVI1X2LIqPy/s1600/dsm.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html"
-    ]
-  },
-  {
-    "id": "5e527b4c9365738dcb12a9a9",
-    "title": "Record Number of Ransomware Victims and Groups in 2025",
-    "link": "https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/",
-    "published": "2026-02-18T11:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Record Number of Ransomware Victims and Groups in 2025. What: Record Number of Ransomware Victims and Groups in 2025. When: 2026-02-18T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Record Number of Ransomware Victims and Groups in 2025. ماذا: Record Number of Ransomware Victims and Groups in 2025. متى: 2026-02-18T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/b5b7e635-9a3e-4f89-bda0-18219827d82c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/record-number-ransomware-victims/"
     ]
   }
 ]
