@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "4aa14807eaa27dfcee52376d",
+    "title": "Black Hat and DEF CON are AI conferences now, too",
+    "link": "https://www.theregister.com/security/2026/08/17/black-hat-and-def-con-are-ai-conferences-now-too/5288076",
+    "published": "2026-08-17T07:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube.. What: Black Hat and DEF CON are AI conferences now, too. When: 2026-08-17T07:30:00+00:00. How: So it was packed, as you can imagine, the line through the conference center to get into the talk. Action: See Arabic action below.",
+    "summary_ar": "من: You can listen to the latest episode of The Kettle right here on this page, as well as on Spotify, Apple Music, or YouTube.. ماذا: Black Hat and DEF CON are AI conferences now, too. متى: 2026-08-17T07:30:00+00:00. كيف: So it was packed, as you can imagine, the line through the conference center to get into the talk.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/232704.jpg?imageId=232704&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/17/black-hat-and-def-con-are-ai-conferences-now-too/5288076"
+    ]
+  },
+  {
+    "id": "ca98cc1bd9370f34f628dc0d",
+    "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+    "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+    "published": "2026-08-17T06:51:08+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .. What: Fortune 500 Companies Hit in Azure Data Theft Campaign. When: 2026-08-17T06:51:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .. ماذا: Fortune 500 Companies Hit in Azure Data Theft Campaign. متى: 2026-08-17T06:51:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Microsoft-Azure.jpeg",
+    "sources": [
+      "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/"
+    ]
+  },
+  {
     "id": "1e31c8b9785a6832fee6689e",
     "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
     "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
@@ -36,9 +72,9 @@
     ]
   },
   {
-    "id": "b9802ed2a6c56886d70df34f",
-    "title": "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI",
-    "link": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203",
+    "id": "a189dc59c13b46ae04de0ea1",
+    "title": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
+    "link": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
     "published": "2026-08-17T00:51:21+00:00",
     "source": "theregister.com",
     "summary_en": "Who: GLM-5.3 is state of the art on CyberGym for vulnerability discovery, and its gains are largest further up the exploitation chain,” the company wrote, adding that the model “did not simply become better at identifying isolated flaws: it began to reason across multiple stages of exploitation, forming coherent plans for complete exploitation chains.” The company said it has worked with Chinese companies to test the model on real-world codebases, and found 2,436 vulnerabilities across 269 projects, including 1,097 medium-to-high severity issues.. What: The regulator has previously warned that it will impose the highest possible penalty available under law, which is three percent of revenue earned by non-compliant behaviour.. When: 2026-08-17T00:51:21+00:00. How: The findings span system kernels, operating systems, browser engines, open-source infrastructure, web applications, and network protocols. Action: See Arabic action below.",
@@ -50,6 +86,7 @@
     "impacted": [],
     "image": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
+      "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
       "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-is-a-better-bug-finder-than-anthropic-openai/5288203"
     ]
   },
@@ -159056,64 +159093,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/"
-    ]
-  },
-  {
-    "id": "5c61b7147c45c5c5808fecff",
-    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-    "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-    "published": "2026-02-18T07:40:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware. What: Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.. When: 2026-02-18T07:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware. ماذا: Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.. متى: 2026-02-18T07:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnUIBjnkM8vDKW8rzCxxcgMWr_JOn1xaK8xH5xku5lsBeo469b7FGGw1ISjQqGlqBx03FN5hUMlphyphenhyphenlnMu5K5WMCwX7kEWwIh3TbnBzORYiVkrfK_hBYvxkeprBtiBeVAylAY7daVwaQtI6WKi_lzkTC1D9zBJ7NQ9F-PboFNdNtLjJvfR_EOdkcU0ats/s1600/notepad-hack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html"
-    ]
-  },
-  {
-    "id": "8f2f5a1956223d5c4383af63",
-    "title": "Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group",
-    "link": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
-    "published": "2026-02-18T07:09:01+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.. What: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.. When: 2026-02-18T07:09:01+00:00. How: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024. Action: See Arabic action below.",
-    "summary_ar": "من: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.. ماذا: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.. متى: 2026-02-18T07:09:01+00:00. كيف: GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-22769"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/"
-    ]
-  },
-  {
-    "id": "9d886805cbab4d04aaec3d33",
-    "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
-    "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
-    "published": "2026-02-18T06:52:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.. When: 2026-02-18T06:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.. متى: 2026-02-18T06:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-2441"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html"
     ]
   }
 ]
