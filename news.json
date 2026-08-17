@@ -18,6 +18,44 @@
     ]
   },
   {
+    "id": "bf8fe6904730bf9bd96f9c92",
+    "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "published": "2026-08-17T14:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Certighost and the Privilege Hiding in Your Certificate Authority. What: Certighost and the Privilege Hiding in Your Certificate Authority. When: 2026-08-17T14:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Certighost and the Privilege Hiding in Your Certificate Authority. ماذا: Certighost and the Privilege Hiding in Your Certificate Authority. متى: 2026-08-17T14:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-54121"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/12/certification-authority-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
+    ]
+  },
+  {
+    "id": "548d7014677235ebfd381795",
+    "title": "680,000 Impacted by French Tax Authority Data Breach",
+    "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+    "published": "2026-08-17T13:53:55+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 680,000 Impacted by French Tax Authority Data Breach. What: 680,000 Impacted by French Tax Authority Data Breach. When: 2026-08-17T13:53:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 680,000 Impacted by French Tax Authority Data Breach. ماذا: 680,000 Impacted by French Tax Authority Data Breach. متى: 2026-08-17T13:53:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/France-cyberattack-breach.jpg",
+    "sources": [
+      "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/"
+    ]
+  },
+  {
     "id": "57d245622c26fa5ac55cb62f",
     "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
     "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
@@ -33,6 +71,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/08049760-102d-4636-89e4-3ee1775216c7.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/"
+    ]
+  },
+  {
+    "id": "d1deb81ec267f6539ae327a6",
+    "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "published": "2026-08-17T13:23:51+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More. What: ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More. When: 2026-08-17T13:23:51+00:00. How: Just a ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More Action: See Arabic action below.",
+    "summary_ar": "من: ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More. ماذا: ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More. متى: 2026-08-17T13:23:51+00:00. كيف: Just a ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html"
     ]
   },
   {
@@ -159427,60 +159483,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/cogent-security-raises-42-million-for-ai-driven-vulnerability-management/"
-    ]
-  },
-  {
-    "id": "009f94d143b70f23eab68a01",
-    "title": "My 6 favorite DNS services - and why they're a must for security",
-    "link": "https://www.zdnet.com/article/favorite-dns-services-security/",
-    "published": "2026-02-18T14:09:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My 6 favorite DNS services - and why they're a must for security. What: My 6 favorite DNS services - and why they're a must for security. When: 2026-02-18T14:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My 6 favorite DNS services - and why they're a must for security. ماذا: My 6 favorite DNS services - and why they're a must for security. متى: 2026-02-18T14:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/77f6beed6321dc343984ce5eef46a0c6b1e484a8/2026/02/18/a6b0aed9-1272-4b8d-bc35-a2226bb6d4be/my-top-secure-dns-services.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/favorite-dns-services-security/"
-    ]
-  },
-  {
-    "id": "0ad74ada58b9727533592bc5",
-    "title": "Your AI-generated password isn't random, it just looks that way",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/generating_passwords_with_llms/",
-    "published": "2026-02-18T14:06:36+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Your AI-generated password isn't random, it just looks that way. What: Your AI-generated password isn't random, it just looks that way. When: 2026-02-18T14:06:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your AI-generated password isn't random, it just looks that way. ماذا: Your AI-generated password isn't random, it just looks that way. متى: 2026-02-18T14:06:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/07/26/random_numbers.png",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/18/generating_passwords_with_llms/"
-    ]
-  },
-  {
-    "id": "55006ebb348f306a9a40ec80",
-    "title": "Data breach at fintech firm Figure affects nearly 1 million accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/",
-    "published": "2026-02-18T14:01:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Data breach at fintech firm Figure affects nearly 1 million accounts. What: Data breach at fintech firm Figure affects nearly 1 million accounts. When: 2026-02-18T14:01:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Data breach at fintech firm Figure affects nearly 1 million accounts. ماذا: Data breach at fintech firm Figure affects nearly 1 million accounts. متى: 2026-02-18T14:01:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/18/Figure_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/"
     ]
   }
 ]
