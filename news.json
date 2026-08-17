@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "31cfd388a2c6e6e2cb362cb1",
+    "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
+    "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
+    "published": "2026-08-17T15:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: UNISOC Modem Flaw Enables Remote Code Execution via Video Calls. What: UNISOC Modem Flaw Enables Remote Code Execution via Video Calls. When: 2026-08-17T15:45:00+00:00. How: UNISOC modem flaw enabled kernel-level code execution through video calls UNISOC Modem Flaw Enables Remote Code Execution via Video Calls Action: See Arabic action below.",
+    "summary_ar": "من: UNISOC Modem Flaw Enables Remote Code Execution via Video Calls. ماذا: UNISOC Modem Flaw Enables Remote Code Execution via Video Calls. متى: 2026-08-17T15:45:00+00:00. كيف: UNISOC modem flaw enabled kernel-level code execution through video calls UNISOC Modem Flaw Enables Remote Code Execution via Video Calls. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/4178c84d-9e43-429e-b50e-7d0b4ea1a0fd.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/"
+    ]
+  },
+  {
     "id": "5f4906e98d31b6e9118cd456",
     "title": "Microsoft confirms GitHub is down worldwide",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
@@ -159411,24 +159429,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/c0540a67-7bdc-4e45-a29c-e48bf72eb650.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/cryptojacking-driver-boost-monero/"
-    ]
-  },
-  {
-    "id": "f47eac7c4254752aae92da5b",
-    "title": "New Keenadu Android Malware Found on Thousands of Devices",
-    "link": "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/",
-    "published": "2026-02-18T15:41:25+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.. What: New Keenadu Android Malware Found on Thousands of Devices. When: 2026-02-18T15:41:25+00:00. How: The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores. Action: See Arabic action below.",
-    "summary_ar": "من: The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.. ماذا: New Keenadu Android Malware Found on Thousands of Devices. متى: 2026-02-18T15:41:25+00:00. كيف: The malware has been preinstalled on many devices but it has also been distributed through Google Play and other app stores.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/new-keenadu-android-malware-found-on-thousands-of-devices/"
     ]
   }
 ]
