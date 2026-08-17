@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "c695003d3d9399f33ff10e37",
+    "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+    "published": "2026-08-17T19:35:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials.. What: Hacker claims 3.6 million Azure account records stolen from major companies. When: 2026-08-17T19:35:01+00:00. How: A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. Action: See Arabic action below.",
+    "summary_ar": "من: A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials.. ماذا: Hacker claims 3.6 million Azure account records stolen from major companies. متى: 2026-08-17T19:35:01+00:00. كيف: A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/29/DataLeak.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/"
+    ]
+  },
+  {
     "id": "3d84a5f112310ef4d54bf564",
     "title": "Pokémon Center data breach exposes customer info, cancels some orders",
     "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
@@ -36,6 +54,24 @@
     ]
   },
   {
+    "id": "a2eff4e1129397e131e8bc43",
+    "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+    "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "published": "2026-08-17T18:44:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.. What: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.. When: 2026-08-17T18:44:17+00:00. How: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.. ماذا: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.. متى: 2026-08-17T18:44:17+00:00. كيف: Cybersecurity researchers at Wiz&nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html"
+    ]
+  },
+  {
     "id": "b2fb49318a510063eb2c88c4",
     "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
     "link": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
@@ -51,6 +87,44 @@
     "image": "https://www.zdnet.com/a/img/resize/f2caee20d6f139b929cee53119ea5de0a3df971b/2026/08/17/d8d7034e-3a60-4ce0-952a-21b4eacac0ff/vrtunnel-gettyimages-2226285470.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/"
+    ]
+  },
+  {
+    "id": "bb6165d0f263ac0461d38123",
+    "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+    "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "published": "2026-08-17T18:22:09+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads. What: A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.. When: 2026-08-17T18:22:09+00:00. How: It was discovered and reported by a security researcher who goes by the online alias \" Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads Action: See Arabic action below.",
+    "summary_ar": "من: Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads. ماذا: A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.. متى: 2026-08-17T18:22:09+00:00. كيف: It was discovered and reported by a security researcher who goes by the online alias \" Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-15748"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
+    ]
+  },
+  {
+    "id": "4e3fe1bfc797b864f313bd05",
+    "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "published": "2026-08-17T17:41:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic. What: Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic. When: 2026-08-17T17:41:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic. ماذا: Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic. متى: 2026-08-17T17:41:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html"
     ]
   },
   {
@@ -159243,24 +159317,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2024/03/05/hand.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/ai-platforms-can-be-abused-for-stealthy-malware-communication/"
-    ]
-  },
-  {
-    "id": "bc4a6f704a8f94c0a8bbff28",
-    "title": "Why your EV's battery will outlive your phone's battery - and by how much",
-    "link": "https://www.zdnet.com/article/ev-battery-will-outlast-your-phone-battery-study/",
-    "published": "2026-02-18T19:51:26+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why your EV's battery will outlive your phone's battery - and by how much. What: Why your EV's battery will outlive your phone's battery - and by how much. When: 2026-02-18T19:51:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why your EV's battery will outlive your phone's battery - and by how much. ماذا: Why your EV's battery will outlive your phone's battery - and by how much. متى: 2026-02-18T19:51:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ac5684db673d9ddec3f9e18735d07d79e8f8d6eb/2026/02/18/f5ff14ac-4910-4613-a8a0-f8ec7248d594/evcharging-gettyimages-1803954316.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ev-battery-will-outlast-your-phone-battery-study/"
     ]
   }
 ]
