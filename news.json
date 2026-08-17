@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "94401e3a9e83ec114178b827",
+    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+    "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+    "published": "2026-08-17T09:29:55+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies. What: Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies. When: 2026-08-17T09:29:55+00:00. How: Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. Action: See Arabic action below.",
+    "summary_ar": "من: \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies. ماذا: Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies. متى: 2026-08-17T09:29:55+00:00. كيف: Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html"
+    ]
+  },
+  {
     "id": "67067c17b81f876bd2cf6a8a",
     "title": "SafePal Data Breach Hits Tens of Thousands of Customers",
     "link": "https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/",
@@ -164,6 +182,26 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg",
     "sources": [
       "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+    ]
+  },
+  {
+    "id": "18a680d8e524db6683567872",
+    "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+    "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+    "published": "2026-08-17T07:36:19+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware. What: Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).. When: 2026-08-17T07:36:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware. ماذا: Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).. متى: 2026-08-17T07:36:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59310"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html"
     ]
   },
   {
@@ -458,6 +496,46 @@
     ]
   },
   {
+    "id": "4f4cd64898c60056510ba208",
+    "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+    "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+    "published": "2026-08-15T08:38:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch. What: SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch. When: 2026-08-15T08:38:46+00:00. How: A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. Action: See Arabic action below.",
+    "summary_ar": "من: SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch. ماذا: SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch. متى: 2026-08-15T08:38:46+00:00. كيف: A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-58231"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_2sx5UM3v1F5xNjCrlFAeBp6t7ioSfSER_6yl7jFtH3NvB_wwrwdT2Njk21qvm5m_dh2UZ3u-3UnZOWSz9sawqkuPmg0FLwuOEeLYhMlqP8lWjeXhg7ETTrRx19wiPebTSCcGeqC-Gz3zpiYPZz69kKTlL2mWSO1xW_-RotwAT4poWJ8VhQ6yklDDebs/s1600/sap-flaw.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
+    ]
+  },
+  {
+    "id": "25bf3d07d4391be9cb3576e9",
+    "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+    "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+    "published": "2026-08-15T07:24:04+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.. What: A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.. When: 2026-08-15T07:24:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.. ماذا: A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned.. متى: 2026-08-15T07:24:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-65400"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhudlXOxVGnImI0OoIDMwrIy0pc2zaf1aV0B4ga_QSrt5UPX5G_BJl76VvdEUxkxJ4pjopKLsohJrwVwBgS0a-xLJvW7ZvCPvG3ezz_5vY1ABYZnysPR-ZFvVlEXVdZkCWuuHp2IAra5N3IgH_Lf8wuwVF7hx4zYXf0qF7MyOC8M83ZpQVQ5jcjzbLP4Jq/s1600/apple-screenshare.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
+    ]
+  },
+  {
     "id": "d0cd08b3ec2e6f7620317122",
     "title": "How Anthropic plans to watermark Claude's AI-generated text",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
@@ -491,6 +569,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense"
+    ]
+  },
+  {
+    "id": "bc41d94d2cc2e3ac6951f27a",
+    "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+    "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+    "published": "2026-08-14T18:48:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware. What: Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware. When: 2026-08-14T18:48:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware. ماذا: Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware. متى: 2026-08-14T18:48:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmsCR51S8-S9Y9cCidbhsmyNlysPzNGZkLuFNY8GHiq3mwnVKOcB1hUq_Q7Oz2j6nH61si-eaqq4xouwv2_JsEzEU6eYS2-bL3-dXBwweGAK-3QnhfKZi8MANcdtpg9VTsqaCrB3Jog3FVUQFV9wtkiQkB6sSVyMclXHwxBXPFjHput_haLnTmH03kq6E/s1600/domains.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html"
     ]
   },
   {
@@ -565,6 +661,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai"
+    ]
+  },
+  {
+    "id": "255a2ece5ca97dee44042358",
+    "title": "IAM Compliance Requirements and Best Practices",
+    "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+    "published": "2026-08-14T17:19:49+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: IAM Compliance Requirements and Best Practices. What: IAM Compliance Requirements and Best Practices. When: 2026-08-14T17:19:49+00:00. How: IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. Action: See Arabic action below.",
+    "summary_ar": "من: IAM Compliance Requirements and Best Practices. ماذا: IAM Compliance Requirements and Best Practices. متى: 2026-08-14T17:19:49+00:00. كيف: IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtCfpJQBf2uorUk8jQiK_Cpzh2QLElku5-T5DS6dLc9iV3XA5w1fsd7F9aiCv1gMYri3jEogBTuyYaiSzgdBhvDxWSN_1X1Q-AZkr3u5QBBvzzvZ_F7mpQdqxy-mXsXC_YuPpikK6nHTLhRy8cwpccEKb3ScMiQ8bGLYw5-NMf8kOcEVCYefsCUgu8LEU/s1600/ORCHID.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html"
     ]
   },
   {
@@ -889,6 +1003,24 @@
     ]
   },
   {
+    "id": "95d769fae876ff4618fb0f7a",
+    "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+    "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+    "published": "2026-08-14T13:08:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan, Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth. What: Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth. When: 2026-08-14T13:08:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan, Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth. ماذا: Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth. متى: 2026-08-14T13:08:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHhYwJerhs2kJO7Sh0FJfEt7_JpkOEbB1ccWjSpSyfvWWDf7waLVr1TMU9Cj-_jdAQ7bDAX0gV2Bt4Sqv1Zx4K8PJgObOX3nt1bVT5YClAvKbvyBovpcIFwpQ66fhzEqi69CJj9er_L5Z4YGDzGAPkUaWiOm6gway77Fkn5sf_-vJucFzQAZRmNiCqlzU/s1600/windows-rootkit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html"
+    ]
+  },
+  {
     "id": "79f12b55e7df5b4dd0d45d14",
     "title": "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
     "link": "https://www.theregister.com/security/2026/08/14/autonomous-ai-attacks-pose-clear-and-present-danger-to-critical-infrastructure/5287594",
@@ -1033,6 +1165,24 @@
     ]
   },
   {
+    "id": "63415498b054abbb35723889",
+    "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+    "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+    "published": "2026-08-14T11:07:45+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions.. What: Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers. When: 2026-08-14T11:07:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have detailed a post-exploitation technique that enables the&nbsp;Chrome DevTools Protocol (CDP)&nbsp;inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions.. ماذا: Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers. متى: 2026-08-14T11:07:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqxmoJtQxCw_JRBCIc5vQ8KP7fDvEliYGDzRe4RRTwH_vydH3_bliXj-rfs_e5j3YD6EPrvVKtSlI_IUIA5EoxajlFgyLPhLtjiYZjwotvmIHvLuvf_bIhfUuGJ-Sgxx0Wjhl7UigBQko3hYNb44Z4PT6fRSXFEVdPZIzMjLe7uge8CWthwqzErdqpheA/s1600/chrome.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html"
+    ]
+  },
+  {
     "id": "fcf6a7f2548ff7aab66594aa",
     "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
     "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
@@ -1048,6 +1198,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/08/PQC-post-quantum-cryptography.jpeg",
     "sources": [
       "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/"
+    ]
+  },
+  {
+    "id": "751a60953d868f3681e7a786",
+    "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
+    "link": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
+    "published": "2026-08-14T10:57:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time.. What: CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps. When: 2026-08-14T10:57:00+00:00. How: Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time.. ماذا: CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps. متى: 2026-08-14T10:57:00+00:00. كيف: Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg_fCSow6T3Wo-vpD0YGw6I-3-9B4BmxQvPW4XX5NjGqYkEd929vj1fiXMD5ebscmBPVViIEhlkfg0zmJ9ftMUtLbwIolt1uXcmnnWYlHiFxNQhRa1_4lvnEOXGT6uBwrPbJkZiMBF0mmu3EeAvzu6dnj1hnak63Fb1nL5Owdv4cdWU3ymWoBRho7Vo5w/s1600/ctm.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html"
     ]
   },
   {
@@ -1088,6 +1256,24 @@
     ]
   },
   {
+    "id": "5f1a9967924154bb43d39299",
+    "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+    "link": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
+    "published": "2026-08-14T10:44:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks.. What: Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware. When: 2026-08-14T10:44:34+00:00. How: Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks.. ماذا: Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware. متى: 2026-08-14T10:44:34+00:00. كيف: Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTrk440S7PXJ5sSmKnZIdesVK6PyZSDythFcN4mRxAPn-e4zfJ7ArPi_4Uya1_1N94uKeXMg7prAAOV7e968w2bLcngT-4ultLDyikYTR3bano0-5Qhb1QsR50RH5RGwiPoAZ9rHjmAzdFc6FTyHEDJHuUgd1qIC6_Wq59PZFg6H-8yz2WDbBos1OneV0n/s1600/apple.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html"
+    ]
+  },
+  {
     "id": "1fe9ebdea19531b6758a00dd",
     "title": "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
     "link": "https://www.theregister.com/security/2026/08/14/crypto-wallet-maker-trezor-confirms-13000-customers-details-exposed-in-logistics-breach/5287734",
@@ -1121,6 +1307,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/08/RingCentral.jpeg",
     "sources": [
       "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/"
+    ]
+  },
+  {
+    "id": "d07210518d76fc60f4de1086",
+    "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+    "link": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
+    "published": "2026-08-14T09:38:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups. What: Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups. When: 2026-08-14T09:38:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups. ماذا: Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups. متى: 2026-08-14T09:38:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSdrf8axt7XPd3F2_owXsMWjBqWxQ_PPUN9qqsmsi3wFBIO5FVPr0M3bC76Sgmx9tMxf9AQwLEffgX39-wYX9PO2fQUlI9Xu7m95fiVckPv80ubtndLLR_H0fDPq4aNXOx5Ug2us0G2iGowlsmL9lyRXtFQb5OjyL3Ju5BFtH3pyQN1Z11R3tntTH57nI/s1600/memo.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html"
     ]
   },
   {
@@ -1211,6 +1415,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Trezor.jpeg",
     "sources": [
       "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/"
+    ]
+  },
+  {
+    "id": "88dcbba3ae54e67d39f57cad",
+    "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
+    "link": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
+    "published": "2026-08-14T07:54:18+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud. What: China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud. When: 2026-08-14T07:54:18+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud. ماذا: China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud. متى: 2026-08-14T07:54:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbxt8OBph0rxAoZdbLb382s4l_N39bPLE0AvbTOd3cIGyvzmQ6PDhyrausjW5xrX-pEbIxhCz1Kc17gbrTdx801nov73lNVJ20DpXeH84JadBPM0rhyWYZqqYmhgJ2Ksjp3iO0dUQA0InqpuyHWWoXsaA1L5lLmxhlxH2lnT9ObfOZxXaERpITVNFOzPv/s1600/cyber.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html"
     ]
   },
   {
@@ -1448,6 +1670,42 @@
     ]
   },
   {
+    "id": "02cfaa99b31024c4e2fe10cc",
+    "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+    "link": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+    "published": "2026-08-13T18:45:12+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE. What: A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.. When: 2026-08-13T18:45:12+00:00. How: A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. Action: See Arabic action below.",
+    "summary_ar": "من: GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE. ماذا: A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.. متى: 2026-08-13T18:45:12+00:00. كيف: A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBHrFMdn5ekgZuyeE4m-ez0biA_lSQ3abNCs7s0YNhWXi-MvjTNhJBgQtjTw_j9zNfDNtp0DtDC6wH9lJcD7obhh9ujkfuk6E0FiX9qH3njE5mcNrtyaxWR3E2RO1ROmlx4B4YbjBtby_P9FXXpl-Be9voGWxC7PbkyVpBrk1zB3KanenH2jVRf_Uv48s4/s1600/geo.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html"
+    ]
+  },
+  {
+    "id": "705cb6a9be72feb70adea28a",
+    "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
+    "link": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
+    "published": "2026-08-13T18:17:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories. What: The latest ThreatsDay Bulletin puts all of these short updates in one place, so you can quickly catch up on what happened, what changed, and what security teams ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories. When: 2026-08-13T18:17:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories. ماذا: The latest ThreatsDay Bulletin puts all of these short updates in one place, so you can quickly catch up on what happened, what changed, and what security teams ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories. متى: 2026-08-13T18:17:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnZSPrbeVOhfz52pccm_PbosfzvUlARZ8YoAhLmLd28aHQJ0Nw4T-TeYS2gCgc4bQaNS_c7sFfSFY-tQdGZDD4Uajt1hFhjPzl-XZVyoM72eC5vYStjyfuKwis_vDgrvUgTK7MUJx0kkEHwBJxmIuqp6qkPB-km81UXl6ycj1u9uIORUrVXtYz9L5-Julh/s1600/td.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html"
+    ]
+  },
+  {
     "id": "6f94f88dc4c42c1d94d35a7d",
     "title": "Hackers breach govt webmail while running parallel crypto fraud",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
@@ -1648,6 +1906,24 @@
     ]
   },
   {
+    "id": "90b7b793e07662cb90b85436",
+    "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
+    "link": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
+    "published": "2026-08-13T15:00:29+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure. What: New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure. When: 2026-08-13T15:00:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure. ماذا: New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure. متى: 2026-08-13T15:00:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN1h6yVKjJz0W6b8QMy2lmsHgFoVD9MGmbvZs4XRnHXDPcMJw8SDNNgHSnAnDTRCvXD5VyMFl1XtMFqU3uZiKdmtW-1Voos4cqw_JuUiE8mTWy44FFgKQMPvgX-8qzIbNUkk8XMC2l7mU9RyhMIaRI7k1yyDI2SW9o4U8MxfzHNX8xkijzygYkenrWeCOs/s1600/telecom.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html"
+    ]
+  },
+  {
     "id": "8c8ad76d4fd78c7ddf384296",
     "title": "Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone",
     "link": "https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/",
@@ -1767,6 +2043,24 @@
     ]
   },
   {
+    "id": "ecaa9c9f8dce808034168fbf",
+    "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
+    "link": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
+    "published": "2026-08-13T13:43:14+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\" and claims to be from a verified publisher.. What: Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data.. When: 2026-08-13T13:43:14+00:00. How: The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\" and claims to be from a verified publisher. Action: See Arabic action below.",
+    "summary_ar": "من: The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\" and claims to be from a verified publisher.. ماذا: Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data.. متى: 2026-08-13T13:43:14+00:00. كيف: The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\" and claims to be from a verified publisher.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKseTvCwFqcMpefo-t9iVJcgB3VNAmPh_RHG1CadNUW-VA2Dn2NRE2HJQwnnwY9JqGD4AEElHZHGX9IlrT2Ts9ayfnIqk_sEJz4uSNzDi8wZhneDyiEovqm8LvP_8QTN5XoF92mQcWDeQFiS_1cJeOeWSC7J11alfbow-dRhIAOVL5y_ggDVEmsbDQSGpo/s1600/chrome-remote.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html"
+    ]
+  },
+  {
     "id": "cd835491b584556f3908ab00",
     "title": "Microsoft is merging Copilot and Copilot 365 into one unified app - and retiring 3 features",
     "link": "https://www.zdnet.com/article/microsoft-to-merge-copilot-and-copilot-365-into-one-unified-app-retiring-features/",
@@ -1858,6 +2152,24 @@
     ]
   },
   {
+    "id": "5595ffa00cd6d80191b917b6",
+    "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
+    "link": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
+    "published": "2026-08-13T11:53:14+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud. What: It was first detected in WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud. When: 2026-08-13T11:53:14+00:00. How: The purpose-built malware, according to Group-IB, is designed to capture live card data via NFC and transmit it to fraudsters in real time. Action: See Arabic action below.",
+    "summary_ar": "من: WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud. ماذا: It was first detected in WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud. متى: 2026-08-13T11:53:14+00:00. كيف: The purpose-built malware, according to Group-IB, is designed to capture live card data via NFC and transmit it to fraudsters in real time.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvbWVauAzyuLHoSWQPE7jx3sgMZNZ_7yBHAzP_dimt9W0VEgwixqcmdyIAEP-tg3Hya5hZG2KvgrQbYBfbPg1KofrMJTaRppWhN7jg4S9TKhE1UYTO4oqNayOePQWS2OQBcJex49YVMQEZUvvgn4-IpZsspMXw5j5nYwOsxow5y7POPw2fkfjUu0OUYDO/s1600/nfc.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html"
+    ]
+  },
+  {
     "id": "5d02b675f3d7a7e6b3c62b03",
     "title": "WhatsApp rolls out new feature that flags potential scam messages",
     "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
@@ -1873,6 +2185,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/08/29/WhatsApp.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/"
+    ]
+  },
+  {
+    "id": "e5203e97b4eaac9269654483",
+    "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
+    "link": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
+    "published": "2026-08-13T11:45:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring. What: The FBI is now investigating a North Korean remote IT worker who reportedly worked for North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring. When: 2026-08-13T11:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring. ماذا: The FBI is now investigating a North Korean remote IT worker who reportedly worked for North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring. متى: 2026-08-13T11:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWyQ1cDCkUiw4fXXqDmTenIFfuapxNP0AvwYPMk2RFX73IaWtCvzQMAeTkVS7OXG7N4t1LNOq6fn36aDuuD_vHI2FlSDZeULqexo2bwk2cIpRDBCIOpf01ytUVa_MQ_Ms0lRk_qmvZ58o7S7F_8ZYO_QW5lOvwEvwQIAW-e8ucpzf9_WpoJVeBeJghU2A/s1600/northk.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html"
     ]
   },
   {
@@ -159132,62 +159462,6 @@
     "image": "https://regmedia.co.uk/2023/03/26/aitraining.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/"
-    ]
-  },
-  {
-    "id": "5fea63296a669d7a3c5e2487",
-    "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
-    "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
-    "published": "2026-02-18T10:50:50+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Glendale man gets 5 years in prison for role in darknet drug ring. What: Glendale man gets 5 years in prison for role in darknet drug ring. When: 2026-02-18T10:50:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Glendale man gets 5 years in prison for role in darknet drug ring. ماذا: Glendale man gets 5 years in prison for role in darknet drug ring. متى: 2026-02-18T10:50:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/01/09/drugs-in-skull-crossbone-shape.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/"
-    ]
-  },
-  {
-    "id": "efcce14c40c0e924158658d3",
-    "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-    "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-    "published": "2026-02-18T10:32:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).. What: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).. When: 2026-02-18T10:32:00+00:00. How: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG). Action: See Arabic action below.",
-    "summary_ar": "من: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).. ماذا: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).. متى: 2026-02-18T10:32:00+00:00. كيف: A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-22769"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglP0IZeQtwdci4qHI-mURnUorsnmYa0U0QjsNNttYhyphenhyphen0k7qSnq3I7FURoEE-E0SmiD7lhX86uUDYWbZtIrPpS5CjJPK0NdZnFzB_UMHMpIlgzUiffF5iZm_cRqE7ilkwI4ItLHjm65VhJiV_BNisAZcga-hhYjJEiEarDcuwBCek6Vdc36_WS_bx4G_Q0W/s16000/dell-hack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html"
-    ]
-  },
-  {
-    "id": "e779d9edcfd025636c0bd320",
-    "title": "3 Ways to Start Your Intelligent Workflow Program",
-    "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
-    "published": "2026-02-18T10:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: 3 Ways to Start Your Intelligent Workflow Program. What: 3 Ways to Start Your Intelligent Workflow Program. When: 2026-02-18T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 3 Ways to Start Your Intelligent Workflow Program. ماذا: 3 Ways to Start Your Intelligent Workflow Program. متى: 2026-02-18T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEDKNxnbOcXaXVgDSSwTmvAj0925uBaCpS6NSGhH8G2FVGF_slC9Asa2SFPWBht3ZyF3rFB53zoqJiHVoK3cfMkjBpneFJjmkDB5j4XOqyHO5JLft27dzrb5R4U-D7VYBn3RQOoA5s6OupWYPcSaksjDsAaBl83eKB226AxF9L_zc4Tw3hyupEiVKxY0N/s1600/tines.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html"
     ]
   }
 ]
