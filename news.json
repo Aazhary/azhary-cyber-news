@@ -9680,7 +9680,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning"
     ]
@@ -159263,60 +159263,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot"
-    ]
-  },
-  {
-    "id": "468a7005ca9afca5acc9bed8",
-    "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/",
-    "published": "2026-02-18T20:58:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking.. What: Critical infra Honeywell CCTVs vulnerable to auth bypass flaw. When: 2026-02-18T20:58:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking.. ماذا: Critical infra Honeywell CCTVs vulnerable to auth bypass flaw. متى: 2026-02-18T20:58:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/18/0_Honeywell.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/"
-    ]
-  },
-  {
-    "id": "330104dde3da006e256dd6d9",
-    "title": "Threat Intelligence Has a Human-Shaped Blind Spot",
-    "link": "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot",
-    "published": "2026-02-18T20:56:22+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Threat Intelligence Has a Human-Shaped Blind Spot. What: Threat Intelligence Has a Human-Shaped Blind Spot. When: 2026-02-18T20:56:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Intelligence Has a Human-Shaped Blind Spot. ماذا: Threat Intelligence Has a Human-Shaped Blind Spot. متى: 2026-02-18T20:56:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/human-shaped-blind-spot"
-    ]
-  },
-  {
-    "id": "1cdc8f153294cbc73adbb118",
-    "title": "Dell's Hard-Coded Flaw: A Nation-State Goldmine",
-    "link": "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine",
-    "published": "2026-02-18T20:49:36+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Dell's Hard-Coded Flaw: A Nation-State Goldmine. What: A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.. When: 2026-02-18T20:49:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dell's Hard-Coded Flaw: A Nation-State Goldmine. ماذا: A China-related attacker has exploited the vendor flaw since mid-2024, allowing it to move laterally, maintain persistent access, and deploy malware.. متى: 2026-02-18T20:49:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/dells-hard-coded-flaw-a-nation-state-goldmine"
     ]
   }
 ]
