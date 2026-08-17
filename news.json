@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "0ef249a9b6484edd13e7d22a",
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "published": "2026-08-17T21:03:04+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects. What: GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.. When: 2026-08-17T21:03:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects. ماذا: GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.. متى: 2026-08-17T21:03:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-19478"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+    ]
+  },
+  {
     "id": "c695003d3d9399f33ff10e37",
     "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
     "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -9680,7 +9700,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning"
     ]
@@ -159243,26 +159263,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/endpoint-security/scam-abuses-gemini-chatbots-convince-people-buy-fake-crypto"
-    ]
-  },
-  {
-    "id": "30dcfb043fc3cdca40e3045c",
-    "title": "Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot",
-    "link": "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot",
-    "published": "2026-02-18T21:15:08+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot. What: Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot. When: 2026-02-18T21:15:08+00:00. How: CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot. ماذا: Critical Grandstream VoIP Bug Highlights SMB Security Blind Spot. متى: 2026-02-18T21:15:08+00:00. كيف: CVE-2026-2329 allows unauthenticated root-level access to SMB phone infrastructure, so attackers can intercept calls, commit toll fraud, and impersonate users.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-2329"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/grandstream-bug-voip-security-blind-spot"
     ]
   }
 ]
