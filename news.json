@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "57d245622c26fa5ac55cb62f",
+    "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
+    "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
+    "published": "2026-08-17T13:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover. What: WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover. When: 2026-08-17T13:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover. ماذا: WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover. متى: 2026-08-17T13:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/08049760-102d-4636-89e4-3ee1775216c7.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/"
+    ]
+  },
+  {
     "id": "3cf9057a29524d69deae44ba",
     "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
@@ -159463,60 +159481,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/02/18/Figure_headpic.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-figure-affects-nearly-1-million-accounts/"
-    ]
-  },
-  {
-    "id": "1b9ea2b095190970bdbc2602",
-    "title": "Audible's new Read & Listen tool can double the number of books you finish - here's how",
-    "link": "https://www.zdnet.com/article/audible-read-and-listen/",
-    "published": "2026-02-18T13:30:27+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Audible's new Read & Listen tool can double the number of books you finish - here's how. What: Audible's new Read & Listen tool can double the number of books you finish - here's how. When: 2026-02-18T13:30:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Audible's new Read & Listen tool can double the number of books you finish - here's how. ماذا: Audible's new Read & Listen tool can double the number of books you finish - here's how. متى: 2026-02-18T13:30:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/807b445700021aa7889a2640139bbb7f45579501/2026/02/17/49d8b5fe-6ce9-4d7d-ad49-2018e89e1f38/harry-potter-read-listen.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/audible-read-and-listen/"
-    ]
-  },
-  {
-    "id": "5fca25bf5d844d34b640fdbc",
-    "title": "Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration",
-    "link": "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/",
-    "published": "2026-02-18T13:16:19+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration. What: Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.. When: 2026-02-18T13:16:19+00:00. How: Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs. Action: See Arabic action below.",
-    "summary_ar": "من: Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration. ماذا: Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.. متى: 2026-02-18T13:16:19+00:00. كيف: Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/"
-    ]
-  },
-  {
-    "id": "52e8332101260ed08172b97b",
-    "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
-    "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
-    "published": "2026-02-18T13:16:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.. What: Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.. When: 2026-02-18T13:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.. ماذا: Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.. متى: 2026-02-18T13:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWiS4R3zdQ6nAaXW6ITobd-w2duq9sy9VGi6Jn8fBYafy_ZIL0Yvr_vssObakMIWi_2m5RT-ZP6m_G5J6sS9ivV1fj6Qj98iDtdGtdUm2o-uh1sLAxOgQmVeFpBeqBxoohezNZwJFxnJRkO1aMB2H19iYLJQ9BtJFjLkC_JbIpOqfrEobgwBU-jJkFHNVI/s1600/vscode-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html"
     ]
   }
 ]
