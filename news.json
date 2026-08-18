@@ -18,6 +18,25 @@
     ]
   },
   {
+    "id": "6aecf7dfacac977852368970",
+    "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+    "published": "2026-08-18T10:32:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.. What: Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.. When: 2026-08-18T10:32:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.. متى: 2026-08-18T10:32:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/10/05/Windows-keyboard.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/"
+    ]
+  },
+  {
     "id": "172edc2f9d1a76ae99458f99",
     "title": "Incogni is our favorite service that stops data brokers from selling your info - and it's 58% off",
     "link": "https://www.zdnet.com/article/incogni-deal-exclusive-58-percent-off/",
@@ -33,6 +52,24 @@
     "image": "https://www.zdnet.com/a/img/resize/0c4376263aa9379c72097bc36605b266094fbc92/2026/05/29/a18d6442-46f9-495a-9fc2-7f16609f1e9a/untitled-design-2026-05-29t111836-090.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/incogni-deal-exclusive-58-percent-off/"
+    ]
+  },
+  {
+    "id": "b0072ac1dd5691848f2137e3",
+    "title": "Three-quarters of Ransomware Attacks Target Mid-Market Firms",
+    "link": "https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/",
+    "published": "2026-08-18T10:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Three-quarters of Ransomware Attacks Target Mid-Market Firms. What: Three-quarters of Ransomware Attacks Target Mid-Market Firms. When: 2026-08-18T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Three-quarters of Ransomware Attacks Target Mid-Market Firms. ماذا: Three-quarters of Ransomware Attacks Target Mid-Market Firms. متى: 2026-08-18T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/8586e93b-8313-47c6-8fcd-a236d06cc7c3.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/threequarters-ransomware-attacks/"
     ]
   },
   {
@@ -40926,24 +40963,6 @@
     "image": "https://www.zdnet.com/a/img/resize/e21ae17f217fc6ddbd281a9b92c2029448ae9afd/2026/06/29/e43bae81-9868-4e20-b973-02744ecfcaa1/gettyimages-1165984977-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-create-great-results-with-your-agentic-work-colleagues-in-the-autonomous-business/"
-    ]
-  },
-  {
-    "id": "ed314e8ae03aa2e9c35eb76b",
-    "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-    "published": "2026-06-30T08:53:13+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks.. What: [...] CISA: Windows BlueHammer flaw now exploited by ransomware gangs. When: 2026-06-30T08:53:13+00:00. How: CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. Action: See Arabic action below.",
-    "summary_ar": "من: CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks.. ماذا: [...] CISA: Windows BlueHammer flaw now exploited by ransomware gangs. متى: 2026-06-30T08:53:13+00:00. كيف: CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/"
     ]
   },
   {
@@ -159081,42 +159100,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/"
-    ]
-  },
-  {
-    "id": "a31a3da08244a3c7e438721d",
-    "title": "Flaws in Popular Software Development App Extensions Allow Data Exfiltration",
-    "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/",
-    "published": "2026-02-19T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched Flaws in Popular Software Development App Extensions Allow Data Exfiltration. What: Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched Flaws in Popular Software Development App Extensions Allow Data Exfiltration. When: 2026-02-19T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched Flaws in Popular Software Development App Extensions Allow Data Exfiltration. ماذا: Four serious new vulnerabilities affect Microsoft Visual Studio Code, Cursor and Windsurf extensions, three of which remain unpatched Flaws in Popular Software Development App Extensions Allow Data Exfiltration. متى: 2026-02-19T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f6296db0-cf32-40c8-a638-7694654e878c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/vulnerabilities-vs-code-cursor/"
-    ]
-  },
-  {
-    "id": "1be80f36422483aab082148c",
-    "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
-    "link": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
-    "published": "2026-02-19T10:24:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users. What: Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.. When: 2026-02-19T10:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users. ماذا: Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.. متى: 2026-02-19T10:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj67LPvqhfl_NCfP1wUAUN8p7ISQ_x3wCwavSYjJJkMl9jkcDnk0gP2Om7d1O0UqaQnwqeU4GzTfpLxUok2ei5tiNhArCqldBzaS6yzNe_mudDAbzllZcD1BA0FOfbn1LQRSiK36eB69u4hfK_Pa0XA0eZti_KN8Q43d_k1xRmp_LQCW6gA9ZWNvdrBx_py/s1600/android-banking.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html"
     ]
   }
 ]
