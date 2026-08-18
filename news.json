@@ -115,10 +115,10 @@
     "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
     "published": "2026-08-18T19:05:33+00:00",
     "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18). What: We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices.. When: 2026-08-18T19:05:33+00:00. How: We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18). ماذا: We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices.. متى: 2026-08-18T19:05:33+00:00. كيف: We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "summary_en": "Who: In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants.. What: We provide guidance on mitigating large-scale credential attacks.. When: 2026-08-18T19:05:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants.. ماذا: We provide guidance on mitigating large-scale credential attacks.. متى: 2026-08-18T19:05:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
     "impacted": [],
@@ -159054,24 +159054,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users"
-    ]
-  },
-  {
-    "id": "23c4c98e549ee3e5c05f356d",
-    "title": "Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA",
-    "link": "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa",
-    "published": "2026-02-19T22:06:58+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA. What: Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA. When: 2026-02-19T22:06:58+00:00. How: A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites. Action: See Arabic action below.",
-    "summary_ar": "من: Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA. ماذا: Best-in-Class 'Starkiller' Phishing Kit Bypasses MFA. متى: 2026-02-19T22:06:58+00:00. كيف: A user-friendly PhaaS tool beats standard methods for detecting phishing attacks by live-proxying legitimate login sites.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/starkiller-phishing-kit-mfa"
     ]
   }
 ]
