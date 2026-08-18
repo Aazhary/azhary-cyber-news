@@ -18,6 +18,132 @@
     ]
   },
   {
+    "id": "3bbaa3b8ac78ec5a585de2ce",
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "published": "2026-08-18T13:00:04+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: That’s exactly what researchers recently did to Microsoft 365 Copilot Enterprise.. What: Microsoft Copilot reveals secret input that allowed it to be hacked. When: 2026-08-18T13:00:04+00:00. How: It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation. Action: See Arabic action below.",
+    "summary_ar": "من: That’s exactly what researchers recently did to Microsoft 365 Copilot Enterprise.. ماذا: Microsoft Copilot reveals secret input that allowed it to be hacked. متى: 2026-08-18T13:00:04+00:00. كيف: It’s not every day that attackers can force a frontier AI model to cough up user passwords and other sensitive data without user confirmation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+    ]
+  },
+  {
+    "id": "0b0bd99b9d254ce6f37ca615",
+    "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
+    "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: AI-Driven Vulnerability Surge Breaks the Traditional Patching Model. What: AI-Driven Vulnerability Surge Breaks the Traditional Patching Model. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI-Driven Vulnerability Surge Breaks the Traditional Patching Model. ماذا: AI-Driven Vulnerability Surge Breaks the Traditional Patching Model. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/02/API-security-risks.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/"
+    ]
+  },
+  {
+    "id": "7ade35be7696c5d29cc8dd8a",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "id": "9ab5002251e5b919871371d3",
+    "title": "Copilot tricked into telling reseachers how to hack itself",
+    "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. What: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. When: 2026-08-18T13:00:00+00:00. How: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. ماذا: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. متى: 2026-08-18T13:00:00+00:00. كيف: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857"
+    ]
+  },
+  {
+    "id": "dfcb257fb7bbea580165e150",
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+    "published": "2026-08-18T12:38:36+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files. What: The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files. When: 2026-08-18T12:38:36+00:00. How: Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. Action: See Arabic action below.",
+    "summary_ar": "من: AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files. ماذا: The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files. متى: 2026-08-18T12:38:36+00:00. كيف: Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html"
+    ]
+  },
+  {
+    "id": "a6e25e6364a9bccca327b287",
+    "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+    "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+    "published": "2026-08-18T12:38:20+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News.. What: Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.. When: 2026-08-18T12:38:20+00:00. How: \"Tasking flows through SharePoint Online file TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks Action: See Arabic action below.",
+    "summary_ar": "من: \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News.. ماذا: Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.. متى: 2026-08-18T12:38:20+00:00. كيف: \"Tasking flows through SharePoint Online file TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html"
+    ]
+  },
+  {
+    "id": "48c236344d6a737cca4959d2",
+    "title": "Xpander Raises $7.5 Million for AI Management and Governance",
+    "link": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
+    "published": "2026-08-18T12:29:08+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Xpander Raises $7.5 Million for AI Management and Governance. What: Xpander Raises $7.5 Million for AI Management and Governance. When: 2026-08-18T12:29:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Xpander Raises $7.5 Million for AI Management and Governance. ماذا: Xpander Raises $7.5 Million for AI Management and Governance. متى: 2026-08-18T12:29:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg",
+    "sources": [
+      "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/"
+    ]
+  },
+  {
     "id": "fb9428185a441c60cec6f2b4",
     "title": "Fortinet Acquires AI Security Company Virtue AI",
     "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
@@ -529,14 +655,14 @@
   },
   {
     "id": "c177a42e47ce97bf07c1c435",
-    "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+    "title": "Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B",
     "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
     "published": "2026-08-17T19:22:56+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usable.&quot; Adam Shostack Talks Hugging Face &amp; PHANTOM-B. What: Adam Shostack Talks Hugging Face &amp; PHANTOM-B. When: 2026-08-17T19:22:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usable.&quot; Adam Shostack Talks Hugging Face &amp; PHANTOM-B. ماذا: Adam Shostack Talks Hugging Face &amp; PHANTOM-B. متى: 2026-08-17T19:22:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: The security expert talks with the Dark Reading News Desk about why he &quot;blown away&quot; by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.. What: Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B. When: 2026-08-17T19:22:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The security expert talks with the Dark Reading News Desk about why he &quot;blown away&quot; by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.. ماذا: Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B. متى: 2026-08-17T19:22:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
     "cvss": [],
     "impacted": [],
@@ -159031,78 +159157,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/"
-    ]
-  },
-  {
-    "id": "3ab20b3bd970c67e21d994d9",
-    "title": "Industrial Control System Vulnerabilities Hit Record Highs",
-    "link": "https://www.infosecurity-magazine.com/news/industrial-control-system-vulns/",
-    "published": "2026-02-19T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Industrial Control System Vulnerabilities Hit Record Highs. What: Industrial Control System Vulnerabilities Hit Record Highs. When: 2026-02-19T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Industrial Control System Vulnerabilities Hit Record Highs. ماذا: Industrial Control System Vulnerabilities Hit Record Highs. متى: 2026-02-19T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/31f21ad6-c451-429d-b22a-60085c6a058f.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/industrial-control-system-vulns/"
-    ]
-  },
-  {
-    "id": "6e2c51a53b1ab5f22c864320",
-    "title": "Texas sues TP-Link over Chinese hacking risks, user deception",
-    "link": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
-    "published": "2026-02-19T12:36:51+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Texas sues TP-Link over Chinese hacking risks, user deception. What: Texas sues TP-Link over Chinese hacking risks, user deception. When: 2026-02-19T12:36:51+00:00. How: Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices. Action: See Arabic action below.",
-    "summary_ar": "من: Texas sues TP-Link over Chinese hacking risks, user deception. ماذا: Texas sues TP-Link over Chinese hacking risks, user deception. متى: 2026-02-19T12:36:51+00:00. كيف: Texas sued networking giant TP-Link Systems, accusing the company of deceptively marketing its routers as secure while allowing Chinese state-backed hackers to exploit firmware vulnerabilities and access users' devices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/18/tp-link-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/"
-    ]
-  },
-  {
-    "id": "93dac2e9307590201f348265",
-    "title": "Hackers target Microsoft Entra accounts in device code vishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
-    "published": "2026-02-19T12:30:37+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts.. What: Hackers target Microsoft Entra accounts in device code vishing attacks. When: 2026-02-19T12:30:37+00:00. How: Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts. Action: See Arabic action below.",
-    "summary_ar": "من: Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts.. ماذا: Hackers target Microsoft Entra accounts in device code vishing attacks. متى: 2026-02-19T12:30:37+00:00. كيف: Threat actors are targeting technology, manufacturing, and financial organizations in campaigns that combine device code phishing and voice phishing (vishing) to abuse the OAuth 2.0 Device Authorization flow and compromise Microsoft Entra accounts.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/07/Microsoft.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/"
-    ]
-  },
-  {
-    "id": "a1e296c9d14edd05d0dee288",
-    "title": "Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management",
-    "link": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
-    "published": "2026-02-19T12:23:41+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management. What: Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management. When: 2026-02-19T12:23:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management. ماذا: Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management. متى: 2026-02-19T12:23:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/"
     ]
   }
 ]
