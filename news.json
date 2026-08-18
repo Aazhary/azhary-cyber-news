@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "bba6607c2857805b5d687c0c",
+    "title": "UK Legal Regulator Raises AI Misuse Concerns",
+    "link": "https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/",
+    "published": "2026-08-18T08:17:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: UK Legal Regulator Raises AI Misuse Concerns. What: UK Legal Regulator Raises AI Misuse Concerns. When: 2026-08-18T08:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: UK Legal Regulator Raises AI Misuse Concerns. ماذا: UK Legal Regulator Raises AI Misuse Concerns. متى: 2026-08-18T08:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/9c750914-3e84-405e-ad96-9e13c0ad1447.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/"
+    ]
+  },
+  {
+    "id": "afefe377419bfd4bd791dce5",
+    "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "published": "2026-08-18T08:12:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.. What: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.. When: 2026-08-18T08:12:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.. ماذا: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.. متى: 2026-08-18T08:12:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/WMIC.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/"
+    ]
+  },
+  {
     "id": "ec8e1e9e2edecc403d90b814",
     "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
     "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
@@ -159027,44 +159063,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/"
-    ]
-  },
-  {
-    "id": "603ec69d16f9b5dd6b13aab5",
-    "title": "This Lenovo gaming laptop has no business being this good for work",
-    "link": "https://www.zdnet.com/article/lenovo-loq-15-laptop-review/",
-    "published": "2026-02-19T08:30:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This Lenovo gaming laptop has no business being this good for work. What: This Lenovo gaming laptop has no business being this good for work. When: 2026-02-19T08:30:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This Lenovo gaming laptop has no business being this good for work. ماذا: This Lenovo gaming laptop has no business being this good for work. متى: 2026-02-19T08:30:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fa2c05bf8cf275266279a0659557bf6e76c94f72/2025/12/17/4b9dbfa9-9c24-4c48-b002-53b425e1ed4d/lenovo-loq-15ahp10-image-6.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lenovo-loq-15-laptop-review/",
-      "https://www.zdnet.com/article/this-budget-lenovo-laptop-i-tested-has-no-business-being-this-good-for-the-price/",
-      "https://www.zdnet.com/article/this-midrange-lenovo-laptop-has-no-business-being-this-good-for-the-price/"
-    ]
-  },
-  {
-    "id": "6e163c5731973b8ec4286645",
-    "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
-    "link": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
-    "published": "2026-02-19T08:13:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware. What: Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.. When: 2026-02-19T08:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware. ماذا: Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.. متى: 2026-02-19T08:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD_PtNViVDHZuayLVtVYwd7N2scLLqDjTvVq8WGWrnvOCZ7tt92yiynt44EBuHUv2Y4b-sujz_BlBBx2Vl9af8ZzAXzTJH2UzFpsqC5KyxWWvB6FD-Ini78yxU9MsffuVeYsU2wQQCP5mTPs7xlI73PBSZ3RYj1RUMbjxfH06NhmoNjHkpapxBNwyEMrI/s1600/protest.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html"
     ]
   }
 ]
