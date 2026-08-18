@@ -584,24 +584,6 @@
     ]
   },
   {
-    "id": "7ade35be7696c5d29cc8dd8a",
-    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
-    ]
-  },
-  {
     "id": "7c4a746151ce76b0b217ec75",
     "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -617,6 +599,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
+    ]
+  },
+  {
+    "id": "7ade35be7696c5d29cc8dd8a",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
     ]
   },
   {
@@ -158960,63 +158960,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges"
-    ]
-  },
-  {
-    "id": "074d6589c14e7620e556ad4a",
-    "title": "VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731)",
-    "link": "https://unit42.paloaltonetworks.com/beyondtrust-cve-2026-1731/",
-    "published": "2026-02-19T23:00:55+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731). What: VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731). When: 2026-02-19T23:00:55+00:00. How: CVE-2026-1731 is an RCE vulnerability in identity platform BeyondTrust. Action: See Arabic action below.",
-    "summary_ar": "من: VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731). ماذا: VShell and SparkRAT Observed in Exploitation of BeyondTrust Critical Vulnerability (CVE-2026-1731). متى: 2026-02-19T23:00:55+00:00. كيف: CVE-2026-1731 is an RCE vulnerability in identity platform BeyondTrust.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-1731",
-      "cve-2026-1731"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/02/14_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/beyondtrust-cve-2026-1731/"
-    ]
-  },
-  {
-    "id": "3fb85387bfac1296417e8b1d",
-    "title": "Your iPhone's USB-C port does more than charge - 7 bonus uses",
-    "link": "https://www.zdnet.com/article/7-clever-iphone-usb-c-port-tricks-every-user-should-know/",
-    "published": "2026-02-19T23:00:55+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your iPhone's USB-C port does more than charge - 7 bonus uses. What: Your iPhone's USB-C port does more than charge - 7 bonus uses. When: 2026-02-19T23:00:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your iPhone's USB-C port does more than charge - 7 bonus uses. ماذا: Your iPhone's USB-C port does more than charge - 7 bonus uses. متى: 2026-02-19T23:00:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/38f330ff19de14b306fe6a2cc41df6af7dac243f/2023/11/03/b0e2246f-eaac-4504-9751-d8aca755c3b1/dsc09826.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/7-clever-iphone-usb-c-port-tricks-every-user-should-know/"
-    ]
-  },
-  {
-    "id": "f6a0d244691b52193a2b69d7",
-    "title": "These balanced Beats headphones remain among my favorites - and they're $50 off",
-    "link": "https://www.zdnet.com/article/beats-solo4-headphones-review/",
-    "published": "2026-02-19T23:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These balanced Beats headphones remain among my favorites - and they're $50 off. What: These balanced Beats headphones remain among my favorites - and they're $50 off. When: 2026-02-19T23:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These balanced Beats headphones remain among my favorites - and they're $50 off. ماذا: These balanced Beats headphones remain among my favorites - and they're $50 off. متى: 2026-02-19T23:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7531f4152e7985426b5b134467d2e380947d193d/2024/04/25/cb6de4c3-a062-44fb-b568-f373ed654c7a/solo-4-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/beats-solo4-headphones-review/"
     ]
   }
 ]
