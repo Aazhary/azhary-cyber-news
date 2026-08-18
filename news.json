@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "064201ca0b8e788d8520f35a",
+    "title": "Clop created custom web shell for Windchill data theft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+    "published": "2026-08-18T17:29:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Clop created custom web shell for Windchill data theft attacks. What: Clop created custom web shell for Windchill data theft attacks. When: 2026-08-18T17:29:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Clop created custom web shell for Windchill data theft attacks. ماذا: Clop created custom web shell for Windchill data theft attacks. متى: 2026-08-18T17:29:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/"
+    ]
+  },
+  {
     "id": "d06830256f021757df288fc7",
     "title": "Add photos to your iMessages with one tap - how to skip that annoying iOS menu",
     "link": "https://www.zdnet.com/article/skip-the-annoying-menu-and-add-photos-to-your-imessages-with-one-tap/",
@@ -158998,80 +159016,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltf-8sYx4UcRPT_qBv92hmitOenRSgB2OctxYx4hdCPglcMJzeHR8Dmffrt5xjjtp0Tz2ur0wPSbvig7cnEyrdtJrOx8V4Z2sTGeR6eBlFwOO4pgPUISeLWGuMbUO4bnruvRWx-O6zYRUy_xw1F1CohPk2fZDkpM1YGXusO-8h8rgwQhLvZSlfp4ho5RJ/s1600/interpol.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html"
-    ]
-  },
-  {
-    "id": "009efb6519812d1157a0e9c8",
-    "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
-    "link": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
-    "published": "2026-02-19T17:40:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.. What: Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.. When: 2026-02-19T17:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.. ماذا: Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.. متى: 2026-02-19T17:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-26119"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTYrWKU78qUjsLRxRje4c7MEejHM-e4bg7D2mFbFEomGbCI39Um78JNkCJKcjrcH2FYinO-dVUiV0_rB60jmErrc4lyMkYOK-qIX3HnYCFJ8aWfFwcnaZOHe_38JSgbLPnVqWrQaXhvbXmMCAaJpb6qnANjxjsqB3S4NM89kemycwHA8kDGlwrS-306oP8/s1600/windows-admin.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html"
-    ]
-  },
-  {
-    "id": "1db2d49d6490186d91e1d082",
-    "title": "The best way to transfer to a new MacBook is faster (and cheaper) than you'd think",
-    "link": "https://www.zdnet.com/article/transfer-to-new-macbook-thunderbolt-cable/",
-    "published": "2026-02-19T17:21:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best way to transfer to a new MacBook is faster (and cheaper) than you'd think. What: The best way to transfer to a new MacBook is faster (and cheaper) than you'd think. When: 2026-02-19T17:21:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best way to transfer to a new MacBook is faster (and cheaper) than you'd think. ماذا: The best way to transfer to a new MacBook is faster (and cheaper) than you'd think. متى: 2026-02-19T17:21:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/102796d90fec11ab46d1bb5128c180a546e42ac9/2024/04/08/9d9172aa-db7b-4f71-be76-4db962ce1805/macbook-thunderbolt.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/transfer-to-new-macbook-thunderbolt-cable/"
-    ]
-  },
-  {
-    "id": "9f8368911dca85fa31e6bece",
-    "title": "This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it",
-    "link": "https://www.zdnet.com/article/windows-11-network-speed-test/",
-    "published": "2026-02-19T17:21:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it. What: This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it. When: 2026-02-19T17:21:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it. ماذا: This new Windows 11 taskbar tool lets you test your internet speed in seconds - how to try it. متى: 2026-02-19T17:21:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e032619a7b0f7c673d39aae40e4be49470d08f50/2026/02/19/e4dcbc34-263a-4b6b-83bc-89e760da58d9/gettyimages-2231796528.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/windows-11-network-speed-test/"
-    ]
-  },
-  {
-    "id": "9480aa0d5b03adeb1dd1074e",
-    "title": "Flaw in Grandstream VoIP phones allows stealthy eavesdropping",
-    "link": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
-    "published": "2026-02-19T17:16:32+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Flaw in Grandstream VoIP phones allows stealthy eavesdropping. What: Flaw in Grandstream VoIP phones allows stealthy eavesdropping. When: 2026-02-19T17:16:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Flaw in Grandstream VoIP phones allows stealthy eavesdropping. ماذا: Flaw in Grandstream VoIP phones allows stealthy eavesdropping. متى: 2026-02-19T17:16:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/19/Grandstream.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/"
     ]
   }
 ]
