@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "8805e4a554fc15782dcf7b00",
+    "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
+    "published": "2026-08-18T23:36:36+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI on Tuesday said its decision to suspend model training work, implemented after unreleased, unsupervised AI models hacked HuggingFace, remains in effect as the AI biz tries to implement stronger security measures.. What: OpenAI on Tuesday said its decision to suspend model training work, implemented after unreleased, unsupervised AI models hacked HuggingFace, remains in effect as the AI biz tries to implement stronger security measures.. When: 2026-08-18T23:36:36+00:00. How: Some of those measures will increase compute overhead by 20 percent of the observed inference workload. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI on Tuesday said its decision to suspend model training work, implemented after unreleased, unsupervised AI models hacked HuggingFace, remains in effect as the AI biz tries to implement stronger security measures.. ماذا: OpenAI on Tuesday said its decision to suspend model training work, implemented after unreleased, unsupervised AI models hacked HuggingFace, remains in effect as the AI biz tries to implement stronger security measures.. متى: 2026-08-18T23:36:36+00:00. كيف: Some of those measures will increase compute overhead by 20 percent of the observed inference workload.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/260353.jpg?imageId=260353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303"
+    ]
+  },
+  {
     "id": "afbde52d2ee3efbb648f55ee",
     "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
     "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
@@ -584,24 +602,6 @@
     ]
   },
   {
-    "id": "7c4a746151ce76b0b217ec75",
-    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
-    ]
-  },
-  {
     "id": "7ade35be7696c5d29cc8dd8a",
     "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
@@ -617,6 +617,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "id": "7c4a746151ce76b0b217ec75",
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
     ]
   },
   {
@@ -158924,24 +158942,6 @@
     "image": "https://www.zdnet.com/a/img/resize/4c0e7b84d2de4b6f40c0a718e50fcb9117b0b3bf/2025/04/02/d850026c-d96f-46a2-a83c-52e2ab6bdbc8/ios-18-4-update-draining-your-iphone-battery-5-potential-causes-and-how-to-fix-them2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/5-warning-signs-that-your-phones-been-hacked-and-how-to-fight-back/"
-    ]
-  },
-  {
-    "id": "0ebf4338e06662a01373ae32",
-    "title": "Crims create fake remote management vendor that actually sells a RAT",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/rmm_rat_trustconnect/",
-    "published": "2026-02-19T23:46:21+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Crims create fake remote management vendor that actually sells a RAT. What: Crims create fake remote management vendor that actually sells a RAT. When: 2026-02-19T23:46:21+00:00. How: $300 a month buys you a backdoor that looks like legit software Researchers at Proofpoint late last month uncovered what they describe as a \"weird twist\" on the growing trend of criminals abusing remote monitoring and management software (RMM) as their preferred attack tools.… Crims create fake remote management vendor that actually sells a RAT Action: See Arabic action below.",
-    "summary_ar": "من: Crims create fake remote management vendor that actually sells a RAT. ماذا: Crims create fake remote management vendor that actually sells a RAT. متى: 2026-02-19T23:46:21+00:00. كيف: $300 a month buys you a backdoor that looks like legit software Researchers at Proofpoint late last month uncovered what they describe as a \"weird twist\" on the growing trend of criminals abusing remote monitoring and management software (RMM) as their preferred attack tools.… Crims create fake remote management vendor that actually sells a RAT. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/05/09/scay_rat_glowing_eyes_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/19/rmm_rat_trustconnect/"
     ]
   }
 ]
