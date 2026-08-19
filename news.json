@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "33ab324a8f0119e4196825b6",
+    "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code to hack critical infrastructure controllers",
+    "link": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+    "published": "2026-08-19T22:38:41+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: While the joint alert from the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Department of Energy (DOE), and Environmental Protection Agency (EPA) doesn’t attribute the threats to a particular government or criminal group, Iranian cyber operatives are suspected of being behind recent attacks targeting PLCs at water and wastewater facilities across at least 12 states, including a cyberattack that disrupted more than 30 community water systems in Minnesota in late July.. What: “This is not a theoretical risk – it is an active threat,” the feds warned.. When: 2026-08-19T22:38:41+00:00. How: Attackers are using AI-generated exploitation scripts to break into internet-exposed Siemens S7 Series programmable logic controllers (PLCs) at water, manufacturing, energy, and other critical facilities, in what five US federal agencies on Wednesday called an “active threat.” In this latest round of intrusions against American critical infrastructure, the attackers use open source industrial automation libraries – specifically snap7.dll/python-snap7 – combined with AI coding assistants. Action: See Arabic action below.",
+    "summary_ar": "من: While the joint alert from the National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Department of Energy (DOE), and Environmental Protection Agency (EPA) doesn’t attribute the threats to a particular government or criminal group, Iranian cyber operatives are suspected of being behind recent attacks targeting PLCs at water and wastewater facilities across at least 12 states, including a cyberattack that disrupted more than 30 community water systems in Minnesota in late July.. ماذا: “This is not a theoretical risk – it is an active threat,” the feds warned.. متى: 2026-08-19T22:38:41+00:00. كيف: Attackers are using AI-generated exploitation scripts to break into internet-exposed Siemens S7 Series programmable logic controllers (PLCs) at water, manufacturing, energy, and other critical facilities, in what five US federal agencies on Wednesday called an “active threat.” In this latest round of intrusions against American critical infrastructure, the attackers use open source industrial automation libraries – specifically snap7.dll/python-snap7 – combined with AI coding assistants.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5289987.jpg?imageId=5289987&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960"
+    ]
+  },
+  {
     "id": "47ed01d1365e69fbb44b92b3",
     "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
     "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
