@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "43b968e53e50efd46f307f18",
+    "title": "Australian hotel chain leaks guests’ PII after breach at third-party database operator",
+    "link": "https://www.theregister.com/cyber-crime/2026/08/19/australian-hotel-chain-leaks-guests-pii-after-breach-at-third-party-database-operator/5289341",
+    "published": "2026-08-19T02:16:03+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Australian hotel chain leaks guests’ PII after breach at third-party database operator. What: The accommodation outfit told The Register it has contacted all affected guests, contained and fixed the leaky systems, completed remediation, commenced forensic investigations, and hired external cyber security and privacy advisers.. When: 2026-08-19T02:16:03+00:00. How: “The incident arose from a vulnerability through our third-party service provider.” Exposed data “relates to records from before June 2025” and includes guests’ full name, plus what Quest described as “Your email and/or other contact details.” The Register asked the company for comment, and it told us “A small number of data entries also involve Date of Birth.” Which means whoever accessed this info is now in a decent position to attempt identity fraud. Action: See Arabic action below.",
+    "summary_ar": "من: Australian hotel chain leaks guests’ PII after breach at third-party database operator. ماذا: The accommodation outfit told The Register it has contacted all affected guests, contained and fixed the leaky systems, completed remediation, commenced forensic investigations, and hired external cyber security and privacy advisers.. متى: 2026-08-19T02:16:03+00:00. كيف: “The incident arose from a vulnerability through our third-party service provider.” Exposed data “relates to records from before June 2025” and includes guests’ full name, plus what Quest described as “Your email and/or other contact details.” The Register asked the company for comment, and it told us “A small number of data entries also involve Date of Birth.” Which means whoever accessed this info is now in a decent position to attempt identity fraud.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/248588.jpg?imageId=248588&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/08/19/australian-hotel-chain-leaks-guests-pii-after-breach-at-third-party-database-operator/5289341"
+    ]
+  },
+  {
     "id": "ebbff53f464498aa4759bb52",
     "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
@@ -620,24 +638,6 @@
     ]
   },
   {
-    "id": "7c4a746151ce76b0b217ec75",
-    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
-    ]
-  },
-  {
     "id": "7ade35be7696c5d29cc8dd8a",
     "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
@@ -653,6 +653,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "id": "7c4a746151ce76b0b217ec75",
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
     ]
   },
   {
@@ -158816,60 +158834,6 @@
     "image": "https://www.zdnet.com/a/img/resize/272ea6ce35989eddfd22901b25aec10715b54e0f/2026/02/19/70cd5c82-a1ad-4361-a97e-7c8f13ee7f6d/dataflow-gettyimages-1298061428.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/new-to-vpns-heres-everything-you-need-to-know-to-use-one-safely/"
-    ]
-  },
-  {
-    "id": "8cc4d04483aebf1078a69df2",
-    "title": "Looking for a kids' tablet? Here's what my family uses (with a free screen repair)",
-    "link": "https://www.zdnet.com/article/fire-hd-10-kids-pro-tablet-review/",
-    "published": "2026-02-20T03:05:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Looking for a kids' tablet? Here's what my family uses (with a free screen repair). What: Looking for a kids' tablet? Here's what my family uses (with a free screen repair). When: 2026-02-20T03:05:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Looking for a kids' tablet? Here's what my family uses (with a free screen repair). ماذا: Looking for a kids' tablet? Here's what my family uses (with a free screen repair). متى: 2026-02-20T03:05:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/44b88dcc7923c8f382db061d90b90d408a26686b/2023/10/19/a2e42912-cad0-495c-8f7a-f7dca1e7b61b/fir1back.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/fire-hd-10-kids-pro-tablet-review/"
-    ]
-  },
-  {
-    "id": "0691aa6d0025775772488350",
-    "title": "Need power at the campsite? This portable battery station has several days worth",
-    "link": "https://www.zdnet.com/article/jackery-explorer-2000-plus-review/",
-    "published": "2026-02-20T02:50:54+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Need power at the campsite? This portable battery station has several days worth. What: Need power at the campsite? This portable battery station has several days worth. When: 2026-02-20T02:50:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Need power at the campsite? This portable battery station has several days worth. ماذا: Need power at the campsite? This portable battery station has several days worth. متى: 2026-02-20T02:50:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/210972842e6e3d12b75146fdaf37f61bc366d8f7/2023/07/05/29970582-7b64-403c-898b-e395cbf5e2cf/img-4508.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/jackery-explorer-2000-plus-review/"
-    ]
-  },
-  {
-    "id": "93b56a893893d2160aa102e9",
-    "title": "Finally, I found a smart ring that looks like actual jewelry (without the trade-offs)",
-    "link": "https://www.zdnet.com/article/oura-ring-4-ceramic-review/",
-    "published": "2026-02-20T02:25:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Oura's new Ring 4 Ceramic ditches the bland metallics for a gorgeous zirconia ceramic finish in four colors.. What: Finally, I found a smart ring that looks like actual jewelry (without the trade-offs). When: 2026-02-20T02:25:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Oura's new Ring 4 Ceramic ditches the bland metallics for a gorgeous zirconia ceramic finish in four colors.. ماذا: Finally, I found a smart ring that looks like actual jewelry (without the trade-offs). متى: 2026-02-20T02:25:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/489664024881b9dcf27fde4dc5a54d2757058979/2025/10/15/d4476bba-a962-4214-bfcd-b017453197af/img-0777.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-4-ceramic-review/"
     ]
   }
 ]
