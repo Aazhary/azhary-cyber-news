@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "24ee2c7346dd0c33ccf2478f",
+    "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
+    "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
+    "published": "2026-08-19T06:56:43+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CareCloud Data Breach Impact Grows to 3.7 Million Individuals. What: CareCloud Data Breach Impact Grows to 3.7 Million Individuals. When: 2026-08-19T06:56:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CareCloud Data Breach Impact Grows to 3.7 Million Individuals. ماذا: CareCloud Data Breach Impact Grows to 3.7 Million Individuals. متى: 2026-08-19T06:56:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg",
+    "sources": [
+      "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/"
+    ]
+  },
+  {
     "id": "43b968e53e50efd46f307f18",
     "title": "Australian hotel chain leaks guests’ PII after breach at third-party database operator",
     "link": "https://www.theregister.com/cyber-crime/2026/08/19/australian-hotel-chain-leaks-guests-pii-after-breach-at-third-party-database-operator/5289341",
@@ -158761,25 +158779,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html"
-    ]
-  },
-  {
-    "id": "af738f8a015fcd8cb38a3db3",
-    "title": "PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence",
-    "link": "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
-    "published": "2026-02-20T07:06:15+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence. What: PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence. When: 2026-02-20T07:06:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence. ماذا: PromptSpy Android Malware Abuses Gemini AI at Runtime for Persistence. متى: 2026-02-20T07:06:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png",
-    "sources": [
-      "https://www.securityweek.com/promptspy-android-malware-abuses-gemini-ai-at-runtime-for-persistence/",
-      "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html"
     ]
   }
 ]
