@@ -18,6 +18,43 @@
     ]
   },
   {
+    "id": "dedff304b47372dff96b37cf",
+    "title": "Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware",
+    "link": "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/",
+    "published": "2026-08-19T10:50:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware. What: The FBI warned that the RaaS operation has significantly enhanced its tactics, techniques and procedures, making it harder for defenders to counter Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware. When: 2026-08-19T10:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware. ماذا: The FBI warned that the RaaS operation has significantly enhanced its tactics, techniques and procedures, making it harder for defenders to counter Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware. متى: 2026-08-19T10:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/887900f8-5754-408a-ad1b-4193dd8ab1ea.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/"
+    ]
+  },
+  {
+    "id": "4442ee7830c946764d69ee37",
+    "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+    "published": "2026-08-19T10:37:31+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. What: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. When: 2026-08-19T10:37:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. ماذا: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. متى: 2026-08-19T10:37:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg",
+    "sources": [
+      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/"
+    ]
+  },
+  {
     "id": "2ab95bee104cd7ea534b743c",
     "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
     "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
@@ -29189,24 +29226,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a254fa84b3780fbd04fa8be543bcea7e77887ee1/2026/07/15/2b10a472-a3c5-4baf-930b-45ed5ef14bd8/img-9897.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/chatgpt-work-claude-cowork/"
-    ]
-  },
-  {
-    "id": "79e688b08a398c5d4d526b05",
-    "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-    "published": "2026-07-15T14:07:44+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek .. What: Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.. When: 2026-07-15T14:07:44+00:00. How: Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. Action: See Arabic action below.",
-    "summary_ar": "من: The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek .. ماذا: Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.. متى: 2026-07-15T14:07:44+00:00. كيف: Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/06/SharePoint-Ransomware-attack.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/"
     ]
   },
   {
@@ -158834,60 +158853,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1d4cc9880c2d1852b7a9338f020578f10d75dd26/2025/08/27/0b3f3d17-1014-4e04-bbb8-48c68b7a4b5a/dsc02436.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/pixel-10-pro-verizon-deal/"
-    ]
-  },
-  {
-    "id": "9e97f052e28af64053d0cb36",
-    "title": "Ex-Google engineers accused of helping themselves to chip security secrets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/google_ip_theft_charges/",
-    "published": "2026-02-20T10:45:49+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Feds say trio conspired to siphon processor and cryptography IP, allegedly routing some data overseas Two former Google engineers and a third alleged accomplice are facing federal charges after prosecutors accused them of swiping sensitive chip and security technology secrets and then trying to cover their tracks when the scheme began to unravel.… Ex-Google engineers accused of helping themselves to chip security secrets. What: Ex-Google engineers accused of helping themselves to chip security secrets. When: 2026-02-20T10:45:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Feds say trio conspired to siphon processor and cryptography IP, allegedly routing some data overseas Two former Google engineers and a third alleged accomplice are facing federal charges after prosecutors accused them of swiping sensitive chip and security technology secrets and then trying to cover their tracks when the scheme began to unravel.… Ex-Google engineers accused of helping themselves to chip security secrets. ماذا: Ex-Google engineers accused of helping themselves to chip security secrets. متى: 2026-02-20T10:45:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2020/03/30/shutterstock_uncle_sam.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/20/google_ip_theft_charges/"
-    ]
-  },
-  {
-    "id": "4dc6c5e3ae344b3d581ebd1a",
-    "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-    "link": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-    "published": "2026-02-20T10:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026. What: Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026. When: 2026-02-20T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026. ماذا: Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026. متى: 2026-02-20T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2H1-xKGMb4Q70WJNrlk_Mgup1cfHNGRRmnZxhOaJLcfWBq_audXpVc5TAUsyT9MRS5hST-fI7ZaH59FVMzAzYubjo7YdUoRcmtEs8v3ck9J8jhJdnEq9mtU4FqTYA-ikCBGQ4edCU47t9pN-ljEQO00-e1ZNMrxQYuyev9uLfv9VQU_KOhJQUFSa6YWF/s1600/OUT.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html"
-    ]
-  },
-  {
-    "id": "a28b4546f351d01b58dc965c",
-    "title": "Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ico_wins_battle_in_protracted_fight/",
-    "published": "2026-02-20T10:25:24+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine. What: Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine. When: 2026-02-20T10:25:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine. ماذا: Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine. متى: 2026-02-20T10:25:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/07/26/currys_pc_world_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ico_wins_battle_in_protracted_fight/"
     ]
   }
 ]
