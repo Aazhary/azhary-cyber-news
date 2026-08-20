@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "853044a8b8b5b436b17ed595",
+    "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
+    "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
+    "published": "2026-08-20T10:36:14+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities.. What: OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses. When: 2026-08-20T10:36:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities.. ماذا: OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses. متى: 2026-08-20T10:36:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/OpenAI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/"
+    ]
+  },
+  {
     "id": "1bc0cee300a9c771a4077bbd",
     "title": "New Manic Android malware can exfiltrate data through nearby devices",
     "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
@@ -2117,24 +2135,6 @@
     ]
   },
   {
-    "id": "7c4a746151ce76b0b217ec75",
-    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
-    ]
-  },
-  {
     "id": "7ade35be7696c5d29cc8dd8a",
     "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
@@ -2150,6 +2150,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "id": "7c4a746151ce76b0b217ec75",
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
     ]
   },
   {
