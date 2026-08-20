@@ -18,6 +18,62 @@
     ]
   },
   {
+    "id": "0e6b85e152b34e39882a4924",
+    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+    "link": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+    "published": "2026-08-20T07:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The developer skimmed the recommended package’s source code on GitHub and noticed that it had few downloads and had just been created a few days earlier.. What: AI agent suggested installing a malware package. Engineer almost took its advice. When: 2026-08-20T07:00:00+00:00. How: This week, we have a story that’s hot off the presses about a company almost sabotaging its security by using AI for programming. Action: See Arabic action below.",
+    "summary_ar": "من: The developer skimmed the recommended package’s source code on GitHub and noticed that it had few downloads and had just been created a few days earlier.. ماذا: AI agent suggested installing a malware package. Engineer almost took its advice. متى: 2026-08-20T07:00:00+00:00. كيف: This week, we have a story that’s hot off the presses about a company almost sabotaging its security by using AI for programming.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/4094065.jpg?imageId=4094065&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849"
+    ]
+  },
+  {
+    "id": "714e2e03d094d1be540e86a4",
+    "title": "Microsoft says August Windows updates may cause gaming issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+    "published": "2026-08-20T06:51:03+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems.. What: Microsoft says August Windows updates may cause gaming issues. When: 2026-08-20T06:51:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems.. ماذا: Microsoft says August Windows updates may cause gaming issues. متى: 2026-08-20T06:51:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/game-over.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/"
+    ]
+  },
+  {
+    "id": "eb1eddbec7764cdec4188453",
+    "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+    "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+    "published": "2026-08-20T06:04:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code. What: Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.. When: 2026-08-20T06:04:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code. ماذا: Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.. متى: 2026-08-20T06:04:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-32475"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+    ]
+  },
+  {
     "id": "2119aa8ef706cf97b6548a75",
     "title": "Is leasing an iPhone right for you? How Apple's Upgrade Program works and who it's for",
     "link": "https://www.zdnet.com/article/leasing-iphone-right-how-apples-upgrade-program-works/",
@@ -1878,24 +1934,6 @@
     ]
   },
   {
-    "id": "7ade35be7696c5d29cc8dd8a",
-    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
-    ]
-  },
-  {
     "id": "7c4a746151ce76b0b217ec75",
     "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -1911,6 +1949,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
+    ]
+  },
+  {
+    "id": "7ade35be7696c5d29cc8dd8a",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
     ]
   },
   {
