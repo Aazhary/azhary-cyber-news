@@ -18,6 +18,152 @@
     ]
   },
   {
+    "id": "901b75f2181aea7b9069996b",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "published": "2026-08-20T13:00:35+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox.. What: Grok exfiltrates user data when malicious instructions are encrypted. When: 2026-08-20T13:00:35+00:00. How: The new data theft hack employs a deceptively simple trick to force the Elon Musk-owned LLM to steal user chats and other personal information. Action: See Arabic action below.",
+    "summary_ar": "من: Earlier this week, researchers outlined an attack that used a secret input provided by Microsoft 365 Copilot for enterprise to cause the AI assistant to exfiltrate a password present in the user’s inbox.. ماذا: Grok exfiltrates user data when malicious instructions are encrypted. متى: 2026-08-20T13:00:35+00:00. كيف: The new data theft hack employs a deceptively simple trick to force the Elon Musk-owned LLM to steal user chats and other personal information.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+    ]
+  },
+  {
+    "id": "3f563d45edca27179b1109a8",
+    "title": "Grok chat duped into swallowing injected instructions",
+    "link": "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
+    "published": "2026-08-20T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: With Google's Gemini public chat interface (gemini.google.com), Utevsky told The Register, the Grok scenario doesn't work because Gemini doesn't provide Python with access to external websites.. What: We're told xAI acknowledged the report but did not provide a mitigation timeline.. When: 2026-08-20T13:00:00+00:00. How: Frontier AI models have become better at dealing with such attempts through existing guardrails, though the issue is far from resolved. Action: See Arabic action below.",
+    "summary_ar": "من: With Google's Gemini public chat interface (gemini.google.com), Utevsky told The Register, the Grok scenario doesn't work because Gemini doesn't provide Python with access to external websites.. ماذا: We're told xAI acknowledged the report but did not provide a mitigation timeline.. متى: 2026-08-20T13:00:00+00:00. كيف: Frontier AI models have become better at dealing with such attempts through existing guardrails, though the issue is far from resolved.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/240567.jpg?imageId=240567&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019"
+    ]
+  },
+  {
+    "id": "6aaaf466ab7251c9281ef064",
+    "title": "NCSC Urges Stronger Controls for Agentic AI Systems",
+    "link": "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/",
+    "published": "2026-08-20T12:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: NCSC Urges Stronger Controls for Agentic AI Systems. What: NCSC Urges Stronger Controls for Agentic AI Systems. When: 2026-08-20T12:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NCSC Urges Stronger Controls for Agentic AI Systems. ماذا: NCSC Urges Stronger Controls for Agentic AI Systems. متى: 2026-08-20T12:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/0f60eb38-1239-4d71-bc4a-6a2f7f19fda5.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/"
+    ]
+  },
+  {
+    "id": "8bc10d06d9b425d8a29aa161",
+    "title": "US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate",
+    "link": "https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/",
+    "published": "2026-08-20T12:40:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate. What: US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate. When: 2026-08-20T12:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate. ماذا: US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate. متى: 2026-08-20T12:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/b8516bf7-c4a7-479a-8b01-b8b9fb07f0bf.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/"
+    ]
+  },
+  {
+    "id": "1fbd19e6f13b3ac31464f225",
+    "title": "French tax authority says break-in exposed data of 600K, including some private messages",
+    "link": "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249",
+    "published": "2026-08-20T12:33:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: French tax authority says break-in exposed data of 600K, including some private messages. What: Separately, the tax authority disclosed a \"technical vulnerability\" in the government's Vacant Successions Portal (PSV), which is used to search for estates without known heirs.. When: 2026-08-20T12:33:00+00:00. How: The notifications warn that criminals could use the stolen details to make phishing attempts appear more convincing. Action: See Arabic action below.",
+    "summary_ar": "من: French tax authority says break-in exposed data of 600K, including some private messages. ماذا: Separately, the tax authority disclosed a \"technical vulnerability\" in the government's Vacant Successions Portal (PSV), which is used to search for estates without known heirs.. متى: 2026-08-20T12:33:00+00:00. كيف: The notifications warn that criminals could use the stolen details to make phishing attempts appear more convincing.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/255787.jpg?imageId=255787&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249"
+    ]
+  },
+  {
+    "id": "2ea5ad68ba34f917e43d7d98",
+    "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+    "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+    "published": "2026-08-20T12:24:53+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.. What: The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.. When: 2026-08-20T12:24:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.. ماذا: The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges.. متى: 2026-08-20T12:24:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg",
+    "sources": [
+      "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+      "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "6a46470fc07cc7d192aa9376",
+    "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+    "published": "2026-08-20T12:14:38+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Citrix urges admins to patch new NetScaler flaws as soon as possible. What: Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances.. When: 2026-08-20T12:14:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Citrix urges admins to patch new NetScaler flaws as soon as possible. ماذا: Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances.. متى: 2026-08-20T12:14:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"
+    ]
+  },
+  {
+    "id": "22da2bf5aa899fa072249434",
+    "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
+    "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+    "published": "2026-08-20T12:05:55+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: MLflow Vulnerability Exploited for Cloud Credential Theft. What: The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek .. When: 2026-08-20T12:05:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: MLflow Vulnerability Exploited for Cloud Credential Theft. ماذا: The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek .. متى: 2026-08-20T12:05:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/03/cloud-security.jpeg",
+    "sources": [
+      "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/"
+    ]
+  },
+  {
     "id": "3e24aaad0ad5264c6b581eaa",
     "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
     "link": "https://www.zdnet.com/article/best-and-worst-ai-for-your-privacy-ranked/",
@@ -54996,24 +55142,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/291f9095-1f50-453d-b41d-c24aeda272d7.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/operation-escaneo-cloudsek-latam/"
-    ]
-  },
-  {
-    "id": "b8cda3d30261d34eb7a15baf",
-    "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
-    "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
-    "published": "2026-06-18T10:59:50+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.. What: Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.. When: 2026-06-18T10:59:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.. ماذا: Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.. متى: 2026-06-18T10:59:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg",
-    "sources": [
-      "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/"
     ]
   },
   {
@@ -127629,24 +127757,6 @@
     ]
   },
   {
-    "id": "94456eb660a9c7c5bc2d3944",
-    "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-    "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/",
-    "published": "2026-03-25T15:52:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years.. What: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years.. When: 2026-03-25T15:52:10+00:00. How: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. Action: See Arabic action below.",
-    "summary_ar": "من: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years.. ماذا: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years.. متى: 2026-03-25T15:52:10+00:00. كيف: Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/07/02/Citrix.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"
-    ]
-  },
-  {
     "id": "c233f395363f4da747227a00",
     "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
     "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
@@ -159166,24 +159276,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/02/20/hacker-using-ai.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/"
-    ]
-  },
-  {
-    "id": "200a669f0e306842a6a00ae2",
-    "title": "This $5 cleaning gel did wonders for my keyboard - and 4 other PC cleaning tips",
-    "link": "https://www.zdnet.com/article/how-to-clean-your-pc/",
-    "published": "2026-02-21T12:15:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This $5 cleaning gel did wonders for my keyboard - and 4 other PC cleaning tips. What: This $5 cleaning gel did wonders for my keyboard - and 4 other PC cleaning tips. When: 2026-02-21T12:15:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This $5 cleaning gel did wonders for my keyboard - and 4 other PC cleaning tips. ماذا: This $5 cleaning gel did wonders for my keyboard - and 4 other PC cleaning tips. متى: 2026-02-21T12:15:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e734c420329f0a79631c50062c72898f2598d1f1/2025/10/16/438143c6-08e8-497c-953a-94497716f3e3/pc-maintenance-keyboard-with-cleaning-gel.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-clean-your-pc/"
     ]
   }
 ]
