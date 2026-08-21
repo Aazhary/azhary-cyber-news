@@ -36,6 +36,82 @@
     ]
   },
   {
+    "id": "91e45ba5d38f226c5d98cc44",
+    "title": "The invisible passenger in your car",
+    "link": "https://securelist.com/android-head-unit-malware/121106/",
+    "published": "2026-08-21T08:00:29+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Kaspersky solutions detect the threats described below under the following detection names: HEUR:Trojan-Dropper.AndroidOS.Agent.vu HEUR:Trojan-Downloader.AndroidOS.Agent.ov HEUR:Trojan-Proxy.AndroidOS.Zhima.* HEUR:Trojan.AndroidOS.Vo1d.* Head unit firmware overview A head unit is a system that combines multimedia functions with partial control over certain vehicle functions.. What: We notified the vendor about the distribution scheme, and they subsequently reported fixing the security issues.. When: 2026-08-21T08:00:29+00:00. How: The malware spread through the built-in updaters of Android-based automotive head unit firmware. Action: See Arabic action below.",
+    "summary_ar": "من: Kaspersky solutions detect the threats described below under the following detection names: HEUR:Trojan-Dropper.AndroidOS.Agent.vu HEUR:Trojan-Downloader.AndroidOS.Agent.ov HEUR:Trojan-Proxy.AndroidOS.Zhima.* HEUR:Trojan.AndroidOS.Vo1d.* Head unit firmware overview A head unit is a system that combines multimedia functions with partial control over certain vehicle functions.. ماذا: We notified the vendor about the distribution scheme, and they subsequently reported fixing the security issues.. متى: 2026-08-21T08:00:29+00:00. كيف: The malware spread through the built-in updaters of Android-based automotive head unit firmware.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/21071446/android-head-unit-malware-scaled.jpg",
+    "sources": [
+      "https://securelist.com/android-head-unit-malware/121106/"
+    ]
+  },
+  {
+    "id": "f28a6de072af1028251848a2",
+    "title": "Cybersecurity Job Ads Requiring AI Skills Double",
+    "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/",
+    "published": "2026-08-21T08:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Cybersecurity Job Ads Requiring AI Skills Double. What: Cybersecurity Job Ads Requiring AI Skills Double. When: 2026-08-21T08:00:00+00:00. How: An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI Cybersecurity Job Ads Requiring AI Skills Double Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity Job Ads Requiring AI Skills Double. ماذا: Cybersecurity Job Ads Requiring AI Skills Double. متى: 2026-08-21T08:00:00+00:00. كيف: An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI Cybersecurity Job Ads Requiring AI Skills Double. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/f2ac2454-1bdb-487a-8698-468b63688fa4.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/"
+    ]
+  },
+  {
+    "id": "d6812ed6951f1acf280f10bd",
+    "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+    "published": "2026-08-21T07:25:50+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .. What: The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .. When: 2026-08-21T07:25:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .. ماذا: The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .. متى: 2026-08-21T07:25:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg",
+    "sources": [
+      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "d432b85540ff61141523a32f",
+    "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "published": "2026-08-21T07:04:25+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure. What: A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.. When: 2026-08-21T07:04:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure. ماذا: A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.. متى: 2026-08-21T07:04:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-19478"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+    ]
+  },
+  {
     "id": "58f66a40c663c6693efdaf04",
     "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
     "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
@@ -2391,25 +2467,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/887900f8-5754-408a-ad1b-4193dd8ab1ea.jpeg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/"
-    ]
-  },
-  {
-    "id": "4442ee7830c946764d69ee37",
-    "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-    "published": "2026-08-19T10:37:31+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. What: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. When: 2026-08-19T10:37:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. ماذا: The flaws can be exploited for remote code execution, authentication bypass, and device takeover.. متى: 2026-08-19T10:37:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/"
     ]
   },
   {
