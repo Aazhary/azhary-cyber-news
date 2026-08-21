@@ -4163,6 +4163,24 @@
     ]
   },
   {
+    "id": "9ab5002251e5b919871371d3",
+    "title": "Copilot tricked into telling reseachers how to hack itself",
+    "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. What: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. When: 2026-08-18T13:00:00+00:00. How: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. ماذا: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. متى: 2026-08-18T13:00:00+00:00. كيف: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5288896.jpg?imageId=5288896&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857"
+    ]
+  },
+  {
     "id": "7c4a746151ce76b0b217ec75",
     "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -4196,24 +4214,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
-    ]
-  },
-  {
-    "id": "9ab5002251e5b919871371d3",
-    "title": "Copilot tricked into telling reseachers how to hack itself",
-    "link": "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. What: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. When: 2026-08-18T13:00:00+00:00. How: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers manipulated Microsoft Copilot Personal into telling them how to hack the AI assistant – eventually tricking it into sending sensitive data to an external server and poisoning its persistent memory, by repeatedly asking Copilot why an attack wouldn’t work.. ماذا: Varonis Threat Labs uncovered the vulnerability, which they named \"CoSnitch\" and reported to Microsoft in December 2025.. متى: 2026-08-18T13:00:00+00:00. كيف: “We chose this framing intentionally; it's an innocuous-sounding request that forces the model to explain its own URL handling in detail.” When Copilot told them that user intent is required, and prompts don’t fire on their own, the researchers pushed back, continually asking why auto-execution was impossible.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5288896.jpg?imageId=5288896&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/research/2026/08/18/copilot-tricked-into-telling-reseachers-how-to-hack-itself/5288857"
     ]
   },
   {
@@ -7648,24 +7648,6 @@
     ]
   },
   {
-    "id": "556d5b385151f0c989a87346",
-    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-    "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-    "published": "2026-08-13T07:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Belgium's eID Authentication Opens Citizen Accounts to RCE. What: Belgium's eID Authentication Opens Citizen Accounts to RCE. When: 2026-08-13T07:00:00+00:00. How: Belgium's eID Authentication Opens Citizen Accounts to RCE Action: See Arabic action below.",
-    "summary_ar": "من: Belgium's eID Authentication Opens Citizen Accounts to RCE. ماذا: Belgium's eID Authentication Opens Citizen Accounts to RCE. متى: 2026-08-13T07:00:00+00:00. كيف: Belgium's eID Authentication Opens Citizen Accounts to RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
-    ]
-  },
-  {
     "id": "33ca97ca5aabe833acad5a90",
     "title": "Passwords stored in public Google Doc then showed up in search results",
     "link": "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028",
@@ -7681,6 +7663,24 @@
     "image": "https://image.theregister.com/5287048.jpg?imageId=5287048&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/13/passwords-stored-in-public-google-doc-then-showed-up-in-search-results/5287028"
+    ]
+  },
+  {
+    "id": "556d5b385151f0c989a87346",
+    "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+    "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+    "published": "2026-08-13T07:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Belgium's eID Authentication Opens Citizen Accounts to RCE. What: Belgium's eID Authentication Opens Citizen Accounts to RCE. When: 2026-08-13T07:00:00+00:00. How: Belgium's eID Authentication Opens Citizen Accounts to RCE Action: See Arabic action below.",
+    "summary_ar": "من: Belgium's eID Authentication Opens Citizen Accounts to RCE. ماذا: Belgium's eID Authentication Opens Citizen Accounts to RCE. متى: 2026-08-13T07:00:00+00:00. كيف: Belgium's eID Authentication Opens Citizen Accounts to RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
     ]
   },
   {
