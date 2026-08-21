@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "9feb1564008796a5f8f0a51f",
+    "title": "AWS Security makes an inscrutable choice",
+    "link": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
+    "published": "2026-08-21T23:42:41+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: One of the best ways to lower your AWS bill by 99 percent or more is by not checking your keys into public GitHub repositories.. What: On Friday, BleepingComputer reported on a Truffle Security finding that hundreds of leaked AWS keys are root keys and are somehow still active and valid.. When: 2026-08-21T23:42:41+00:00. How: One of the best ways to lower your AWS bill by 99 percent or more is by not checking your keys into public GitHub repositories. Action: See Arabic action below.",
+    "summary_ar": "من: One of the best ways to lower your AWS bill by 99 percent or more is by not checking your keys into public GitHub repositories.. ماذا: On Friday, BleepingComputer reported on a Truffle Security finding that hundreds of leaked AWS keys are root keys and are somehow still active and valid.. متى: 2026-08-21T23:42:41+00:00. كيف: One of the best ways to lower your AWS bill by 99 percent or more is by not checking your keys into public GitHub repositories.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5291460.jpg?imageId=5291460&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446"
+    ]
+  },
+  {
     "id": "aeb85eeb591753037da690fb",
     "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
     "link": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
