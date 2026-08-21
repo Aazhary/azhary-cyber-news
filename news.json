@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "b4e2cbcd7bd99dcb5107e82e",
+    "title": "Hackers poison popular Rust crates to steal developers' credentials",
+    "link": "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
+    "published": "2026-08-21T14:57:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Aikido found malware built for Linux, Windows, Intel Macs, and Apple Silicon Macs.. What: The Rust Security Response Team disclosed the supply chain attack on Thursday after receiving a tip about a crate called proc-macro1.. When: 2026-08-21T14:57:00+00:00. How: Aikido found that the attacker largely left the legitimate source code untouched, adding only a dependency on proc-macro1, a typosquat of the legitimate proc-macro2 package. Action: See Arabic action below.",
+    "summary_ar": "من: Aikido found malware built for Linux, Windows, Intel Macs, and Apple Silicon Macs.. ماذا: The Rust Security Response Team disclosed the supply chain attack on Thursday after receiving a tip about a crate called proc-macro1.. متى: 2026-08-21T14:57:00+00:00. كيف: Aikido found that the attacker largely left the legitimate source code untouched, adding only a dependency on proc-macro1, a typosquat of the legitimate proc-macro2 package.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1682371.jpg?imageId=1682371&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075"
+    ]
+  },
+  {
+    "id": "b542606959ef4d8991a2d3e7",
+    "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "published": "2026-08-21T14:54:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting.. What: Microsoft blames Windows gaming issues on RGB lighting devices. When: 2026-08-21T14:54:49+00:00. How: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting.. ماذا: Microsoft blames Windows gaming issues on RGB lighting devices. متى: 2026-08-21T14:54:49+00:00. كيف: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/03/11/gamer.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/"
+    ]
+  },
+  {
     "id": "e76c86c5e85ff8a4f1a693ba",
     "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
     "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
@@ -30,7 +66,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/05/AI-attacks.jpeg",
     "sources": [
       "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/"
     ]
@@ -979,10 +1015,10 @@
     "link": "https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
     "published": "2026-08-20T17:30:39+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services.. What: We continue to investigate and closely monitor these claims and remain, as always, vigilant in our efforts to mitigate potential exposure to cyber events.” LockBit added the bank to its leak site late Wednesday night, and gave the bank 14 days to pay a ransom demand or else see its data dumped online.. When: 2026-08-20T17:30:39+00:00. How: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services. Action: See Arabic action below.",
-    "summary_ar": "من: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services.. ماذا: We continue to investigate and closely monitor these claims and remain, as always, vigilant in our efforts to mitigate potential exposure to cyber events.” LockBit added the bank to its leak site late Wednesday night, and gave the bank 14 days to pay a ransom demand or else see its data dumped online.. متى: 2026-08-20T17:30:39+00:00. كيف: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services.. What: US Bank reportedly found out about the third-party incident on May 7, and in June, began notifying 537 customers, all Massachusetts residents, that their names, mailing addresses, and credit card numbers may have been stolen by the digital crooks.. When: 2026-08-20T17:30:39+00:00. How: “We have provided relevant information to law enforcement and continue to support their investigation,\" Henderson continued. Action: See Arabic action below.",
+    "summary_ar": "من: LockBit’s latest claims follow previous third-party breaches affecting US Bank customers’ data, and at least one law firm says that it’s considering a class-action lawsuit against US Bank National Association, the primary banking subsidiary of US Bancorp, on behalf of a small group of customers whose credit card information may have been exposed in a third-party security snafu that reached the bank through its vendor, Fidelity National Information Services.. ماذا: US Bank reportedly found out about the third-party incident on May 7, and in June, began notifying 537 customers, all Massachusetts residents, that their names, mailing addresses, and credit card numbers may have been stolen by the digital crooks.. متى: 2026-08-20T17:30:39+00:00. كيف: “We have provided relevant information to law enforcement and continue to support their investigation,\" Henderson continued.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
     "cvss": [],
     "impacted": [],
