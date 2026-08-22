@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "4f4f34bb8b7488239a934e5f",
+    "title": "Hackers infect Android car head units with proxy botnet malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "published": "2026-08-22T14:14:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers infect Android car head units with proxy botnet malware. What: Hackers infect Android car head units with proxy botnet malware. When: 2026-08-22T14:14:24+00:00. How: A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers infect Android car head units with proxy botnet malware. ماذا: Hackers infect Android car head units with proxy botnet malware. متى: 2026-08-22T14:14:24+00:00. كيف: A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/21/car.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/"
+    ]
+  },
+  {
     "id": "4a582085c44636e5a4e60b14",
     "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
     "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
@@ -159803,42 +159821,6 @@
     "image": "https://www.zdnet.com/a/img/resize/c9f3749e57e694c9020b33e5260680857d1403d8/2026/02/23/ac15c1ba-001b-4193-bb8f-01755c456311/gettyimages-1389865019.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ai-project-stalled-outdated-workflows-cognitive-industrial-revolution/"
-    ]
-  },
-  {
-    "id": "bc416f663e329d4946bb3654",
-    "title": "I tried the first car charger with Apple and Google's location tracking, and it's the real deal",
-    "link": "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/",
-    "published": "2026-02-23T14:32:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Scosche FoundIT 12V charger has dual USB ports and a built-in finder for Apple Find My and Google Find Hub.. What: I tried the first car charger with Apple and Google's location tracking, and it's the real deal. When: 2026-02-23T14:32:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Scosche FoundIT 12V charger has dual USB ports and a built-in finder for Apple Find My and Google Find Hub.. ماذا: I tried the first car charger with Apple and Google's location tracking, and it's the real deal. متى: 2026-02-23T14:32:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e4408a3e02d21b8a81d32174f134b20ee6538d1a/2026/02/13/77cadb33-fc60-4496-9722-46e783b6dc90/img-2232.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/"
-    ]
-  },
-  {
-    "id": "8088580ea6c52ed6e2dd18ca",
-    "title": "Don't buy the wrong touchscreen gloves this winter - here's which ones I recommend most",
-    "link": "https://www.zdnet.com/article/cross-point-gear-waterproof-touchscreen-gloves-review/",
-    "published": "2026-02-23T14:24:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Don't buy the wrong touchscreen gloves this winter - here's which ones I recommend most. What: Don't buy the wrong touchscreen gloves this winter - here's which ones I recommend most. When: 2026-02-23T14:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Don't buy the wrong touchscreen gloves this winter - here's which ones I recommend most. ماذا: Don't buy the wrong touchscreen gloves this winter - here's which ones I recommend most. متى: 2026-02-23T14:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2f3e46ab50b69f2838d5bdfcf8552ce3bbe3f225/2026/02/16/e34a14bc-2134-429e-a434-805dc2a44920/img-2291.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cross-point-gear-waterproof-touchscreen-gloves-review/"
     ]
   }
 ]
