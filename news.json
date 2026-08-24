@@ -18,6 +18,26 @@
     ]
   },
   {
+    "id": "dd4860af26d520765e526064",
+    "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+    "published": "2026-08-24T21:46:55+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.. What: CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.. When: 2026-08-24T21:46:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.. ماذا: CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.. متى: 2026-08-24T21:46:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-73570"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa2c2aaf0a60b49e/6a8caeb8c3ca75471601b401/zimbra_OpturaDesign_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch"
+    ]
+  },
+  {
     "id": "8ceef692fde333cf5345f4ce",
     "title": "You don't want this Sleepwalker backdoor on your Windows machine",
     "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
@@ -157236,24 +157256,6 @@
     "image": "https://www.zdnet.com/a/img/resize/2bf3aece16ab3b6449651af9d83013fdd413f093/2026/02/24/3941ba91-eae9-4bcd-845b-782384759cd2/img-20260223-115521.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-privacy-display/"
-    ]
-  },
-  {
-    "id": "4dde7dd5e6d27f82d68baa1c",
-    "title": "Flaws in Claude Code Put Developers' Machines at Risk",
-    "link": "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk",
-    "published": "2026-02-25T22:02:32+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Flaws in Claude Code Put Developers' Machines at Risk. What: Flaws in Claude Code Put Developers' Machines at Risk. When: 2026-02-25T22:02:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Flaws in Claude Code Put Developers' Machines at Risk. ماذا: Flaws in Claude Code Put Developers' Machines at Risk. متى: 2026-02-25T22:02:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk"
     ]
   }
 ]
