@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "8fb57fe28ef3bea5333a1a5e",
+    "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+    "published": "2026-08-24T10:45:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. What: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. When: 2026-08-24T10:45:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. ماذا: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. متى: 2026-08-24T10:45:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Zimbra.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
+    ]
+  },
+  {
+    "id": "1f10f1bdac9a95b10f3062bd",
+    "title": "Security vets rally around $4 paper password books for sale in Australia",
+    "link": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
+    "published": "2026-08-24T10:17:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Plus, as many pointed out, it’s a much better route than writing passwords in a cloud document, which can be accessed by any device that has access to it – think Apple Notes, Google Docs, etc.. What: Security vets rally around $4 paper password books for sale in Australia. When: 2026-08-24T10:17:00+00:00. How: Password books are something of a historical relic, phased out largely because of the scrutiny associated with using one and the now-gray-haired elders who once scoffed at the mere notion of such an opsec crime. Action: See Arabic action below.",
+    "summary_ar": "من: Plus, as many pointed out, it’s a much better route than writing passwords in a cloud document, which can be accessed by any device that has access to it – think Apple Notes, Google Docs, etc.. ماذا: Security vets rally around $4 paper password books for sale in Australia. متى: 2026-08-24T10:17:00+00:00. كيف: Password books are something of a historical relic, phased out largely because of the scrutiny associated with using one and the now-gray-haired elders who once scoffed at the mere notion of such an opsec crime.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5269504.jpg?imageId=5269504&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234"
+    ]
+  },
+  {
+    "id": "c102182aa9a806d3cf5500f0",
+    "title": "Personal Information Exposed in Apollo Global Data Breach",
+    "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+    "published": "2026-08-24T10:08:42+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Personal Information Exposed in Apollo Global Data Breach. What: Personal Information Exposed in Apollo Global Data Breach. When: 2026-08-24T10:08:42+00:00. How: The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. Action: See Arabic action below.",
+    "summary_ar": "من: Personal Information Exposed in Apollo Global Data Breach. ماذا: Personal Information Exposed in Apollo Global Data Breach. متى: 2026-08-24T10:08:42+00:00. كيف: The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Apollo-Global.jpeg",
+    "sources": [
+      "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/"
+    ]
+  },
+  {
     "id": "fb4e55142b010e6e72f5f240",
     "title": "These 10+ car gadgets upgrade your daily commute for cheap",
     "link": "https://www.zdnet.com/article/best-car-gadgets-2026/",
@@ -1293,8 +1347,8 @@
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
     "published": "2026-08-21T11:04:10+00:00",
     "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks.. What: Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks.. When: 2026-08-21T11:04:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks.. ماذا: Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks.. متى: 2026-08-21T11:04:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges.. What: Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges.. When: 2026-08-21T11:04:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges.. ماذا: Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges.. متى: 2026-08-21T11:04:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -157602,42 +157656,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s16000/national-security.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html"
-    ]
-  },
-  {
-    "id": "656a2dd0b489af2824b6eab8",
-    "title": "US sanctions Russian broker for buying stolen zero-day exploits",
-    "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/",
-    "published": "2026-02-25T10:31:13+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: US sanctions Russian broker for buying stolen zero-day exploits. What: US sanctions Russian broker for buying stolen zero-day exploits. When: 2026-02-25T10:31:13+00:00. How: [...] US sanctions Russian broker for buying stolen zero-day exploits Action: See Arabic action below.",
-    "summary_ar": "من: US sanctions Russian broker for buying stolen zero-day exploits. ماذا: US sanctions Russian broker for buying stolen zero-day exploits. متى: 2026-02-25T10:31:13+00:00. كيف: [...] US sanctions Russian broker for buying stolen zero-day exploits. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/25/Operation-Zero-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/us-sanctions-russian-exploit-broker-for-buying-stolen-zero-days/"
-    ]
-  },
-  {
-    "id": "c17c790293a5cffe97b46c95",
-    "title": "Former Defense Contractor Boss Gets 7+ Years for Selling Zero Days",
-    "link": "https://www.infosecurity-magazine.com/news/defense-contractor-boss-7-years/",
-    "published": "2026-02-25T10:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Former Defense Contractor Boss Gets 7+ Years for Selling Zero Days. What: Former Defense Contractor Boss Gets 7+ Years for Selling Zero Days. When: 2026-02-25T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Former Defense Contractor Boss Gets 7+ Years for Selling Zero Days. ماذا: Former Defense Contractor Boss Gets 7+ Years for Selling Zero Days. متى: 2026-02-25T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a22dafad-2337-441c-b732-3336e8836b1e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/defense-contractor-boss-7-years/"
     ]
   }
 ]
