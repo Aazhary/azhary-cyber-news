@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "8ceef692fde333cf5345f4ce",
+    "title": "You don't want this Sleepwalker backdoor on your Windows machine",
+    "link": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+    "published": "2026-08-24T21:39:39+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The malware, hidden inside a 64-bit Windows DLL file, impersonates Microsoft's dpapi.dll, part of Windows' data protection API for protecting sensitive data.. What: He also created a mitigation guide, with a remediation script for use after Sleepwalker is detected.® You don't want this Sleepwalker backdoor on your Windows machine. When: 2026-08-24T21:39:39+00:00. How: Like a sleeper cell awaiting activation, a never-before-seen Windows backdoor dubbed Sleepwalker waits silently in memory for one specifically crafted network packet to wake it up and deliver commands using the malware's 23-instruction language. Action: See Arabic action below.",
+    "summary_ar": "من: The malware, hidden inside a 64-bit Windows DLL file, impersonates Microsoft's dpapi.dll, part of Windows' data protection API for protecting sensitive data.. ماذا: He also created a mitigation guide, with a remediation script for use after Sleepwalker is detected.® You don't want this Sleepwalker backdoor on your Windows machine. متى: 2026-08-24T21:39:39+00:00. كيف: Like a sleeper cell awaiting activation, a never-before-seen Windows backdoor dubbed Sleepwalker waits silently in memory for one specifically crafted network packet to wake it up and deliver commands using the malware's 23-instruction language.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5292027.jpg?imageId=5292027&x=0&y=0&cropw=100&croph=71.67&panox=0&panoy=0&panow=100&panoh=71.67&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021"
+    ]
+  },
+  {
     "id": "1f0fa9fb926a462fe270d013",
     "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
     "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
@@ -157236,42 +157254,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk"
-    ]
-  },
-  {
-    "id": "f2cc52d200f77b67e08251be",
-    "title": "The Galaxy S26 Ultra might be a lifeline for photography beginners like me",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-pro-level-camera/",
-    "published": "2026-02-25T21:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Galaxy S26 Ultra might be a lifeline for photography beginners like me. What: The Galaxy S26 Ultra might be a lifeline for photography beginners like me. When: 2026-02-25T21:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Galaxy S26 Ultra might be a lifeline for photography beginners like me. ماذا: The Galaxy S26 Ultra might be a lifeline for photography beginners like me. متى: 2026-02-25T21:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a2abfc80eb4d16752a39ec947fbea2e7febcf6ac/2025/01/17/6282e732-923d-4566-9e77-3e68d4a707aa/dsc03692.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-pro-level-camera/"
-    ]
-  },
-  {
-    "id": "aa36494bdf1f091bca377b95",
-    "title": "Fake Next.js job interview tests backdoor developer's devices",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/",
-    "published": "2026-02-25T21:47:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests.. What: Fake Next.js job interview tests backdoor developer's devices. When: 2026-02-25T21:47:12+00:00. How: The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests. Action: See Arabic action below.",
-    "summary_ar": "من: The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests.. ماذا: Fake Next.js job interview tests backdoor developer's devices. متى: 2026-02-25T21:47:12+00:00. كيف: The Microsoft Defender team has discovered a coordinated campaign targeting software developers through malicious repositories posing as legitimate Next.js projects and technical assessment materials, including recruiting coding tests.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/05/Credit-card-hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/"
     ]
   }
 ]
