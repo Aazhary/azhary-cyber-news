@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "1f0fa9fb926a462fe270d013",
+    "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+    "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+    "published": "2026-08-24T21:14:30+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Unpatched Calix flaw lets hackers bypass NAT to expose internal devices. What: An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S.. When: 2026-08-24T21:14:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Unpatched Calix flaw lets hackers bypass NAT to expose internal devices. ماذا: An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S.. متى: 2026-08-24T21:14:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Calix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
+    ]
+  },
+  {
+    "id": "3eb305ada461938f15411dfe",
+    "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+    "link": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+    "published": "2026-08-24T21:07:10+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Rather than fork one of the existing open source tools - both EFF's Cover Your Tracks and AmIUnique have GitHub repos - he decided to build his own, with some help from AI.. What: Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks. When: 2026-08-24T21:07:10+00:00. How: Unlike some other available tools that do the same, Glassbox provides a whole bunch of raw, unfiltered data you can sift through to see what makes your browser stand out, along with an estimate of how identifiable its fingerprint may be. Action: See Arabic action below.",
+    "summary_ar": "من: Rather than fork one of the existing open source tools - both EFF's Cover Your Tracks and AmIUnique have GitHub repos - he decided to build his own, with some help from AI.. ماذا: Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks. متى: 2026-08-24T21:07:10+00:00. كيف: Unlike some other available tools that do the same, Glassbox provides a whole bunch of raw, unfiltered data you can sift through to see what makes your browser stand out, along with an estimate of how identifiable its fingerprint may be.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/254347.jpg?imageId=254347&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015"
+    ]
+  },
+  {
+    "id": "644b5f34c63861c41a0dc5d3",
+    "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+    "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+    "published": "2026-08-24T20:51:27+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Foul Language: WordlistLoader Disguises Malware as Ordinary Text. What: ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.. When: 2026-08-24T20:51:27+00:00. How: ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer. Action: See Arabic action below.",
+    "summary_ar": "من: Foul Language: WordlistLoader Disguises Malware as Ordinary Text. ماذا: ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.. متى: 2026-08-24T20:51:27+00:00. كيف: ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text"
+    ]
+  },
+  {
     "id": "e1d78a93d976eccf5d44b110",
     "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
@@ -5409,24 +5463,6 @@
     ]
   },
   {
-    "id": "7ade35be7696c5d29cc8dd8a",
-    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
-    ]
-  },
-  {
     "id": "7c4a746151ce76b0b217ec75",
     "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -5442,6 +5478,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
+    ]
+  },
+  {
+    "id": "7ade35be7696c5d29cc8dd8a",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
     ]
   },
   {
@@ -157218,133 +157272,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/11/05/Credit-card-hacker.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/fake-nextjs-job-interview-tests-backdoor-developers-devices/"
-    ]
-  },
-  {
-    "id": "864fa23860ecd62141491d97",
-    "title": "Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared both models, here's who should upgrade",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-samsung-galaxy-s25-ultra/",
-    "published": "2026-02-25T21:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared both models, here's who should upgrade. What: Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared both models, here's who should upgrade. When: 2026-02-25T21:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared both models, here's who should upgrade. ماذا: Samsung Galaxy S26 Ultra vs. S25 Ultra: I compared both models, here's who should upgrade. متى: 2026-02-25T21:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c9cb6e24e683adfd5ee2dbce0d82396211b41de3/2026/02/24/33323ade-b112-487a-bd5d-9586cc80b591/comparison-image-template-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-samsung-galaxy-s25-ultra/",
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-galaxy-s24-ultra/"
-    ]
-  },
-  {
-    "id": "f8b97893a6fbf705d50c768a",
-    "title": "Samsung Unpacked 2026 live recap: Galaxy S26 Ultra, Privacy Display, preorder deals, more",
-    "link": "https://www.zdnet.com/article/samsung-unpacked-02-25-2026-live-blog/",
-    "published": "2026-02-25T21:21:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Unpacked 2026 live recap: Galaxy S26 Ultra, Privacy Display, preorder deals, more. What: Samsung Unpacked 2026 live recap: Galaxy S26 Ultra, Privacy Display, preorder deals, more. When: 2026-02-25T21:21:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Unpacked 2026 live recap: Galaxy S26 Ultra, Privacy Display, preorder deals, more. ماذا: Samsung Unpacked 2026 live recap: Galaxy S26 Ultra, Privacy Display, preorder deals, more. متى: 2026-02-25T21:21:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/618c0d178b441fc30c91f2e70dd1af6b7d23585d/2024/01/09/b55fc342-faba-4da0-a0da-43671d4e5ca5/dsc00660.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-unpacked-02-25-2026-live-blog/"
-    ]
-  },
-  {
-    "id": "1d5a04e79578e7842d88febc",
-    "title": "Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/",
-    "published": "2026-02-25T21:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off. What: Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off. When: 2026-02-25T21:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off. ماذا: Amazon will give you a free $200 gift card with its Galaxy S26 preorder deal - plus $400 off. متى: 2026-02-25T21:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fb0a19d92ce3d45dc955277a80375bf701c6d596/2026/02/25/56755e30-2bc9-40ab-b3dd-99d90dc01b66/untitled-design-2026-02-25t132703-321.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/"
-    ]
-  },
-  {
-    "id": "c2fcd580eec0e90a60fd145b",
-    "title": "RAMP Forum Seizure Fractures Ransomware Ecosystem",
-    "link": "https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem",
-    "published": "2026-02-25T21:14:21+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: RAMP Forum Seizure Fractures Ransomware Ecosystem. What: RAMP Forum Seizure Fractures Ransomware Ecosystem. When: 2026-02-25T21:14:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: RAMP Forum Seizure Fractures Ransomware Ecosystem. ماذا: RAMP Forum Seizure Fractures Ransomware Ecosystem. متى: 2026-02-25T21:14:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/ramp-forum-seizure-fractures-ransomware-ecosystem"
-    ]
-  },
-  {
-    "id": "28fb68f5658f6c21165f2115",
-    "title": "21 hidden Netflix codes, tricks, and settings every power user needs to know",
-    "link": "https://www.zdnet.com/article/netflix-settings-tips-tricks-hacks/",
-    "published": "2026-02-25T21:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 21 hidden Netflix codes, tricks, and settings every power user needs to know. What: 21 hidden Netflix codes, tricks, and settings every power user needs to know. When: 2026-02-25T21:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 21 hidden Netflix codes, tricks, and settings every power user needs to know. ماذا: 21 hidden Netflix codes, tricks, and settings every power user needs to know. متى: 2026-02-25T21:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f57d5b0c3657c3fe74a61f31d758c76946334b8d/2026/01/30/59f42901-0c0d-41e5-a82c-04264e8864eb/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/netflix-settings-tips-tricks-hacks/"
-    ]
-  },
-  {
-    "id": "909be5e63bb0dbe875f1aea0",
-    "title": "How to preorder the Samsung Galaxy S26 series - and where to find the best deals",
-    "link": "https://www.zdnet.com/article/how-to-preorder-the-samsung-galaxy-s26-series-and-the-new-galaxy-buds-4-pro/",
-    "published": "2026-02-25T21:10:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to preorder the Samsung Galaxy S26 series - and where to find the best deals. What: How to preorder the Samsung Galaxy S26 series - and where to find the best deals. When: 2026-02-25T21:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to preorder the Samsung Galaxy S26 series - and where to find the best deals. ماذا: How to preorder the Samsung Galaxy S26 series - and where to find the best deals. متى: 2026-02-25T21:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2542783c9b08a34ca598dc76dc0f3c350f1a29e9/2026/02/24/60f78c8e-b055-4797-be53-496313a57cae/img-20260224-012649.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-preorder-the-samsung-galaxy-s26-series-and-the-new-galaxy-buds-4-pro/"
-    ]
-  },
-  {
-    "id": "ef9aa20f1f6ed6e07e436c78",
-    "title": "Samsung's new Galaxy Buds 4 are proof that camera-equipped earbuds is the next frontier",
-    "link": "https://www.zdnet.com/article/earbuds-with-cameras-unpacked-2026/",
-    "published": "2026-02-25T21:07:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung's new Galaxy Buds 4 are proof that camera-equipped earbuds is the next frontier. What: Samsung's new Galaxy Buds 4 are proof that camera-equipped earbuds is the next frontier. When: 2026-02-25T21:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung's new Galaxy Buds 4 are proof that camera-equipped earbuds is the next frontier. ماذا: Samsung's new Galaxy Buds 4 are proof that camera-equipped earbuds is the next frontier. متى: 2026-02-25T21:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/546012e230e3029f97da85cfc8b0bd2d4c93d2d5/2026/02/24/bf3e8d26-b550-454a-863d-481aafb0ba2a/img-20260224-064852.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/earbuds-with-cameras-unpacked-2026/"
     ]
   }
 ]
