@@ -156913,23 +156913,5 @@
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years"
     ]
-  },
-  {
-    "id": "2a6176435d5f769c90eba5f1",
-    "title": "Previously harmless Google API keys now expose Gemini AI data",
-    "link": "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/",
-    "published": "2026-02-26T20:55:29+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data.. What: Previously harmless Google API keys now expose Gemini AI data. When: 2026-02-26T20:55:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google API keys for services like Maps embedded in accessible client-side code could be used to authenticate to the Gemini AI assistant and access private data.. ماذا: Previously harmless Google API keys now expose Gemini AI data. متى: 2026-02-26T20:55:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/02/Google.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/"
-    ]
   }
 ]
