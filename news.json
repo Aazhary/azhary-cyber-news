@@ -18,6 +18,62 @@
     ]
   },
   {
+    "id": "e22d6a0b8ca6137a0152d51e",
+    "title": "Australia Warns of Active Exploitation of Critical TeamCity Server Flaw",
+    "link": "https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/",
+    "published": "2026-08-25T11:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Australia Warns of Active Exploitation of Critical TeamCity Server Flaw. What: Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government Australia Warns of Active Exploitation of Critical TeamCity Server Flaw. When: 2026-08-25T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Australia Warns of Active Exploitation of Critical TeamCity Server Flaw. ماذا: Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government Australia Warns of Active Exploitation of Critical TeamCity Server Flaw. متى: 2026-08-25T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/ef84a9c1-799d-4387-90d9-d49b524b1326.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/"
+    ]
+  },
+  {
+    "id": "aee4ee1d7ffabdab000cd877",
+    "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+    "published": "2026-08-25T10:53:20+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Police arrests dozens of suspects in global cybercrime crackdown. What: Police arrests dozens of suspects in global cybercrime crackdown. When: 2026-08-25T10:53:20+00:00. How: Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. Action: See Arabic action below.",
+    "summary_ar": "من: Police arrests dozens of suspects in global cybercrime crackdown. ماذا: Police arrests dozens of suspects in global cybercrime crackdown. متى: 2026-08-25T10:53:20+00:00. كيف: Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/Law_enforcement_arrest.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/"
+    ]
+  },
+  {
+    "id": "347937ebb6aa263121a1227d",
+    "title": "CISA slaps its tightest three-day patching deadline on perfect-10 Oracle flaw",
+    "link": "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107",
+    "published": "2026-08-25T10:43:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The US Cybersecurity and Infrastructure Security Agency (CISA) just dished out another three-day deadline for patching an actively exploited vulnerability, the most urgent in its wheelhouse.. What: The US Cybersecurity and Infrastructure Security Agency (CISA) just dished out another three-day deadline for patching an actively exploited vulnerability, the most urgent in its wheelhouse.. When: 2026-08-25T10:43:00+00:00. How: Other bugs to have recently been given the three-day treatment include the critical remote code execution (RCE) flaw affecting Python scaling framework Ray. Action: See Arabic action below.",
+    "summary_ar": "من: The US Cybersecurity and Infrastructure Security Agency (CISA) just dished out another three-day deadline for patching an actively exploited vulnerability, the most urgent in its wheelhouse.. ماذا: The US Cybersecurity and Infrastructure Security Agency (CISA) just dished out another three-day deadline for patching an actively exploited vulnerability, the most urgent in its wheelhouse.. متى: 2026-08-25T10:43:00+00:00. كيف: Other bugs to have recently been given the three-day treatment include the critical remote code execution (RCE) flaw affecting Python scaling framework Ray.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-21962"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/25/cisa-slaps-its-tightest-three-day-patching-deadline-on-perfect-10-oracle-flaw/5292107"
+    ]
+  },
+  {
     "id": "851f4c42fc0effc9b06b4c4d",
     "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
     "link": "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/",
@@ -5707,24 +5763,6 @@
     ]
   },
   {
-    "id": "7c4a746151ce76b0b217ec75",
-    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
-    ]
-  },
-  {
     "id": "7ade35be7696c5d29cc8dd8a",
     "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
@@ -5740,6 +5778,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
+    ]
+  },
+  {
+    "id": "7c4a746151ce76b0b217ec75",
+    "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. What: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. ماذا: Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
     ]
   },
   {
