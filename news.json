@@ -18,6 +18,60 @@
     ]
   },
   {
+    "id": "851f4c42fc0effc9b06b4c4d",
+    "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
+    "link": "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/",
+    "published": "2026-08-25T10:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown. What: Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown. When: 2026-08-25T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown. ماذا: Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown. متى: 2026-08-25T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/4adb348c-87f4-4a6b-8f84-43f9de8dd632.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/"
+    ]
+  },
+  {
+    "id": "d86b26a2d2ba2d22581355e2",
+    "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+    "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+    "published": "2026-08-25T10:00:57+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution. What: The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution. When: 2026-08-25T10:00:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution. ماذا: The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution. متى: 2026-08-25T10:00:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/AdobeStock_1270203474-2-1.png",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/"
+    ]
+  },
+  {
+    "id": "e68ef2f1a203a2af2b02ca72",
+    "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+    "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+    "published": "2026-08-25T10:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Silent Patches Don’t Stop Attackers – They Blind Defenders. What: Silent Patches Don’t Stop Attackers – They Blind Defenders. When: 2026-08-25T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Silent Patches Don’t Stop Attackers – They Blind Defenders. ماذا: Silent Patches Don’t Stop Attackers – They Blind Defenders. متى: 2026-08-25T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg",
+    "sources": [
+      "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/"
+    ]
+  },
+  {
     "id": "51043e1b9c5f9c772f6c04b8",
     "title": "ReliaQuest Rejects Compromise Claims After ShinyHunters Incident",
     "link": "https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/",
@@ -156934,60 +156988,6 @@
     "image": "https://regmedia.co.uk/2022/05/11/five_eyes_nations_flags_cybersecurity_shutterstock.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/26/five_eyes_cisco_sdwan/"
-    ]
-  },
-  {
-    "id": "0b85a80069e71ec13ea14d15",
-    "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
-    "link": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
-    "published": "2026-02-26T10:35:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: \"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware. What: Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware. When: 2026-02-26T10:35:00+00:00. How: A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines. Action: See Arabic action below.",
-    "summary_ar": "من: \"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware. ماذا: Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware. متى: 2026-02-26T10:35:00+00:00. كيف: A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GaeyxU6qnAMuRiZnc2gbSF7-tg-keCAzXjwtDBtKJhuZ0wcqxbPb_N-NyXBTrZ85M3dGuMYgk8qV4-QfSELGQ5o3NxoNAqeKfeoILZRrvkx72BJeTqvrVtnedsfUHTjl1Gn6NRQt2_dnJpnxV-PhKEekQXgqO1SZWyG_tRi1Jhjt5m87iDhABGq85pXt/s1600/software-hacker.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html"
-    ]
-  },
-  {
-    "id": "4be3aef51072a71628ceb549",
-    "title": "US Sanctions Russian Exploit Broker Operation Zero",
-    "link": "https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/",
-    "published": "2026-02-26T10:33:53+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: US Sanctions Russian Exploit Broker Operation Zero. What: US Sanctions Russian Exploit Broker Operation Zero. When: 2026-02-26T10:33:53+00:00. How: The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions. Action: See Arabic action below.",
-    "summary_ar": "من: US Sanctions Russian Exploit Broker Operation Zero. ماذا: US Sanctions Russian Exploit Broker Operation Zero. متى: 2026-02-26T10:33:53+00:00. كيف: The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/"
-    ]
-  },
-  {
-    "id": "a5532bf71ffd095514dcc49b",
-    "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
-    "link": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
-    "published": "2026-02-26T10:09:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens. What: Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.. When: 2026-02-26T10:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens. ماذا: Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.. متى: 2026-02-26T10:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html"
     ]
   }
 ]
