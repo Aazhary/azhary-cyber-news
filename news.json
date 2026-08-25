@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "500093b23f9e5846541601bc",
+    "title": "Crooks push Mac malware through fake OpenAI Codex ads",
+    "link": "https://www.theregister.com/security/2026/08/25/crooks-push-mac-malware-through-fake-openai-codex-ads/5291899",
+    "published": "2026-08-25T09:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands.. What: It's a variation of the increasingly popular \"ClickFix\" technique, in which attackers convince victims to execute malicious commands themselves rather than relying on a dodgy attachment or executable to do the dirty work.. When: 2026-08-25T09:15:00+00:00. How: Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands. Action: See Arabic action below.",
+    "summary_ar": "من: Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands.. ماذا: It's a variation of the increasingly popular \"ClickFix\" technique, in which attackers convince victims to execute malicious commands themselves rather than relying on a dodgy attachment or executable to do the dirty work.. متى: 2026-08-25T09:15:00+00:00. كيف: Cybercrims are using fake OpenAI Codex download pages to trick Mac developers into running malware disguised as installation commands.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/251976.jpg?imageId=251976&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/25/crooks-push-mac-malware-through-fake-openai-codex-ads/5291899"
+    ]
+  },
+  {
+    "id": "bb5c811cbd6072682cc87d83",
+    "title": "US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks",
+    "link": "https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/",
+    "published": "2026-08-25T09:10:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks. What: US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks. When: 2026-08-25T09:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks. ماذا: US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks. متى: 2026-08-25T09:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/57493b1a-89db-4293-8913-350dc942e906.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/"
+    ]
+  },
+  {
     "id": "e4aeece8a36e42aa0f850083",
     "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
     "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
@@ -156933,42 +156969,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "eea31149cba68fce1c0c0d16",
-    "title": "Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day",
-    "link": "https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/",
-    "published": "2026-02-26T09:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day. What: Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day. When: 2026-02-26T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The US and allies are urging Cisco Catalyst SD-WAN customers to hunt for signs of exploitation Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day. ماذا: Global Cyber Agencies Urge Immediate Patching of Cisco SD-WAN Zero Day. متى: 2026-02-26T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/55054dbc-a97e-4e53-b1ed-ecd7b14aa874.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/immediate-patch-cisco-catalyst/"
-    ]
-  },
-  {
-    "id": "0d0af49015b6f49e762a028b",
-    "title": "Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers",
-    "link": "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/",
-    "published": "2026-02-26T09:18:43+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.. What: The post Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers appeared first on SecurityWeek .. When: 2026-02-26T09:18:43+00:00. How: The post Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Already added to CISA’s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.. ماذا: The post Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers appeared first on SecurityWeek .. متى: 2026-02-26T09:18:43+00:00. كيف: The post Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/"
     ]
   }
 ]
