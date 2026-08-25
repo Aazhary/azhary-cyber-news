@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "24e6ed61501e551a8ac21897",
+    "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+    "published": "2026-08-25T21:39:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites.. What: Hackers abuse npm mirrors to host phishing redirect pages. When: 2026-08-25T21:39:01+00:00. How: Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites.. ماذا: Hackers abuse npm mirrors to host phishing redirect pages. متى: 2026-08-25T21:39:01+00:00. كيف: Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/"
+    ]
+  },
+  {
+    "id": "7e2fb50731bba40cc6da3f28",
+    "title": "Hidden Prompts Trick AI Into False Email Summaries",
+    "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+    "published": "2026-08-25T21:08:55+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Hidden Prompts Trick AI Into False Email Summaries. What: Hidden Prompts Trick AI Into False Email Summaries. When: 2026-08-25T21:08:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hidden Prompts Trick AI Into False Email Summaries. ماذا: Hidden Prompts Trick AI Into False Email Summaries. متى: 2026-08-25T21:08:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries"
+    ]
+  },
+  {
     "id": "9e6549a31581fc20e5cbb6cc",
     "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
     "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
@@ -156892,26 +156928,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cloud-security/marquis-sonicwall-lawsuit-breach-blame-game"
-    ]
-  },
-  {
-    "id": "43df212b3fc0260253b29be9",
-    "title": "Cisco SD-WAN Zero-Day Under Exploitation for 3 Years",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years",
-    "published": "2026-02-26T21:45:56+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Cisco SD-WAN Zero-Day Under Exploitation for 3 Years. What: The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.. When: 2026-02-26T21:45:56+00:00. How: Cisco SD-WAN Zero-Day Under Exploitation for 3 Years Action: See Arabic action below.",
-    "summary_ar": "من: Cisco SD-WAN Zero-Day Under Exploitation for 3 Years. ماذا: The maximum-severity vulnerability CVE-2026-20127 was exploited by an unknown but sophisticated threat actor who left very little evidence behind.. متى: 2026-02-26T21:45:56+00:00. كيف: Cisco SD-WAN Zero-Day Under Exploitation for 3 Years. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20127"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/cisco-sd-wan-zero-day-exploitation-3-years"
     ]
   }
 ]
