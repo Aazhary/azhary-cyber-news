@@ -18,6 +18,28 @@
     ]
   },
   {
+    "id": "e4aeece8a36e42aa0f850083",
+    "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+    "published": "2026-08-25T07:46:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .. What: The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.. When: 2026-08-25T07:46:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .. ماذا: The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.. متى: 2026-08-25T07:46:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2024-21182",
+      "CVE-2026-21962"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/CISA-Agency-Cybersecurity.jpg",
+    "sources": [
+      "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+      "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/"
+    ]
+  },
+  {
     "id": "032a23e858ec836241c867e0",
     "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
     "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
@@ -73606,26 +73628,6 @@
     "image": "https://image.theregister.com/261351.jpg?imageId=261351&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071"
-    ]
-  },
-  {
-    "id": "e898633ca288b39d6e413815",
-    "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
-    "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
-    "published": "2026-06-02T11:39:04+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on SecurityWeek .. What: The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.. When: 2026-06-02T11:39:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on SecurityWeek .. ماذا: The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.. متى: 2026-06-02T11:39:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2024-21182"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle.jpeg",
-    "sources": [
-      "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/"
     ]
   },
   {
