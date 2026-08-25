@@ -1568,9 +1568,9 @@
     "link": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
     "published": "2026-08-24T12:32:00+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones. What: Closing the AliExpress tab fixes it immediately.. When: 2026-08-24T12:32:00+00:00. How: Developer Matt Callaghan claims he caught Alibaba trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting. Action: See Arabic action below.",
-    "summary_ar": "من: AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones. ماذا: Closing the AliExpress tab fixes it immediately.. متى: 2026-08-24T12:32:00+00:00. كيف: Developer Matt Callaghan claims he caught Alibaba trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
+    "summary_en": "Who: AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones. What: Closing the AliExpress tab fixes it immediately.. When: 2026-08-24T12:32:00+00:00. How: Developer Matt Callaghan claims he caught Alibaba's B2C website, AliExpress, trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting. Action: See Arabic action below.",
+    "summary_ar": "من: AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones. ماذا: Closing the AliExpress tab fixes it immediately.. متى: 2026-08-24T12:32:00+00:00. كيف: Developer Matt Callaghan claims he caught Alibaba's B2C website, AliExpress, trying to track web users by playing sounds through browsers vulnerable to audio fingerprinting.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
     "cvss": [],
@@ -157020,60 +157020,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/01/09/Trend_Micro.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-critical-apex-one-rce-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "5f73b6bf3d7eecb4b8344b2e",
-    "title": "European DYI chain ManoMano data breach impacts 38 million customers",
-    "link": "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/",
-    "published": "2026-02-26T17:35:21+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: European DYI chain ManoMano data breach impacts 38 million customers. What: European DYI chain ManoMano data breach impacts 38 million customers. When: 2026-02-26T17:35:21+00:00. How: DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider. Action: See Arabic action below.",
-    "summary_ar": "من: European DYI chain ManoMano data breach impacts 38 million customers. ماذا: European DYI chain ManoMano data breach impacts 38 million customers. متى: 2026-02-26T17:35:21+00:00. كيف: DIY store chain ManoMano is notifying customers of a data breach personal data, which was caused by hackers compromising a third-party service provider.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/26/manomano.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/european-dyi-chain-manomano-data-breach-impacts-38-million-customers/"
-    ]
-  },
-  {
-    "id": "f4d0e1a02f7183fecd52aae9",
-    "title": "YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need",
-    "link": "https://www.zdnet.com/article/youtube-premium-vs-premium-lite/",
-    "published": "2026-02-26T17:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need. What: YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need. When: 2026-02-26T17:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need. ماذا: YouTube Premium vs. Premium Lite: Why the new cheaper tier may be all you need. متى: 2026-02-26T17:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6697540d6282c4b82451b351396060069f7d091b/2025/10/24/f60beff1-3fbd-4933-b7f3-4d6a237eec8e/dsc08443.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/youtube-premium-vs-premium-lite/"
-    ]
-  },
-  {
-    "id": "a1c588ddaacaa3242aa21ba9",
-    "title": "Four Risks Boards Cannot Treat as Background Noise",
-    "link": "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/",
-    "published": "2026-02-26T17:30:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Four Risks Boards Cannot Treat as Background Noise. What: Four Risks Boards Cannot Treat as Background Noise. When: 2026-02-26T17:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Four Risks Boards Cannot Treat as Background Noise. ماذا: Four Risks Boards Cannot Treat as Background Noise. متى: 2026-02-26T17:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/four-risks-boards-cannot-treat-as-background-noise/"
     ]
   }
 ]
