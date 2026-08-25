@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "35fed1d331657bd27ad5d707",
+    "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+    "published": "2026-08-25T14:44:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hospital operator Nutex Health says data stolen in cyberattack. What: Hospital operator Nutex Health says data stolen in cyberattack. When: 2026-08-25T14:44:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hospital operator Nutex Health says data stolen in cyberattack. ماذا: Hospital operator Nutex Health says data stolen in cyberattack. متى: 2026-08-25T14:44:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/25/nutex.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/"
+    ]
+  },
+  {
+    "id": "789e0500137218192db77d10",
+    "title": "ZeroTokens Phishing Platform Steers Attacks in Real Time",
+    "link": "https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/",
+    "published": "2026-08-25T14:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: ZeroTokens Phishing Platform Steers Attacks in Real Time. What: ZeroTokens Phishing Platform Steers Attacks in Real Time. When: 2026-08-25T14:30:00+00:00. How: ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands ZeroTokens Phishing Platform Steers Attacks in Real Time Action: See Arabic action below.",
+    "summary_ar": "من: ZeroTokens Phishing Platform Steers Attacks in Real Time. ماذا: ZeroTokens Phishing Platform Steers Attacks in Real Time. متى: 2026-08-25T14:30:00+00:00. كيف: ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands ZeroTokens Phishing Platform Steers Attacks in Real Time. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/89ab9cb1-b69d-4e23-affd-98d8237dec88.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/"
+    ]
+  },
+  {
     "id": "13a4e2d537aa26b9b8e54d5d",
     "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
     "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
@@ -33,6 +69,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg",
     "sources": [
       "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/"
+    ]
+  },
+  {
+    "id": "37c4f0f211f15f3f75b675d2",
+    "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+    "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+    "published": "2026-08-25T14:07:37+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw. What: Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.. When: 2026-08-25T14:07:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw. ماذا: Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself.. متى: 2026-08-25T14:07:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaJs9yp_YLYc3dgsmzjU4_ma-6DC3KNpG4d3KhKtoIuhtpbYSnK0Wed5_8a0Jm6epc_RdLE9PVMO0FnkH7DFwRAI7lBZBXImFEu1emv-OarT-LPYE-QymTXPMkmDsYBXsz1TB3gASsiAEgZ4Jvt1YzQM3KHYpV0HMck686hTcXB7pn7uqLu2uTLVgPyE/s1600/nvidia.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html"
     ]
   },
   {
@@ -6108,24 +6162,6 @@
     ]
   },
   {
-    "id": "7ade35be7696c5d29cc8dd8a",
-    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-    "published": "2026-08-18T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
-    ]
-  },
-  {
     "id": "7c4a746151ce76b0b217ec75",
     "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -6141,6 +6177,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud"
+    ]
+  },
+  {
+    "id": "7ade35be7696c5d29cc8dd8a",
+    "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "published": "2026-08-18T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. What: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. When: 2026-08-18T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. ماذا: 'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service. متى: 2026-08-18T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service"
     ]
   },
   {
@@ -157004,42 +157058,6 @@
     "sources": [
       "https://www.zdnet.com/article/ai-agents-are-out-of-control-mit-study/",
       "https://www.zdnet.com/article/ai-agents-are-fast-loose-and-out-of-control-mit-study-find/"
-    ]
-  },
-  {
-    "id": "c17f423795684253b596788e",
-    "title": "Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify",
-    "link": "https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/",
-    "published": "2026-02-26T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify. What: Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify. When: 2026-02-26T15:00:00+00:00. How: 2025 saw 32M phishing emails, with identity threats surpassing vulnerabilities Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify Action: See Arabic action below.",
-    "summary_ar": "من: Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify. ماذا: Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify. متى: 2026-02-26T15:00:00+00:00. كيف: 2025 saw 32M phishing emails, with identity threats surpassing vulnerabilities Darktrace Flags 32 Million Phishing Emails in 2025 as Identity Attacks Intensify. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/4da3575a-44b4-41fc-95c7-525fcb4247a9.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/32m-phishing-emails-detected-2025/"
-    ]
-  },
-  {
-    "id": "8ca736b39419d1f85864eed1",
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories",
-    "link": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "published": "2026-02-26T14:28:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: AI-powered command ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories. What: ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories. When: 2026-02-26T14:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI-powered command ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories. ماذا: ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories. متى: 2026-02-26T14:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuAB1iliom9nCE1t4EFFYCBDxr2FCZGZdPmUPVcHQVgdceDeSaCHS-tZsa7cSiorDkcU4MUItEpiQLxV7WrQcBduGuhtahmM44kjWtZ9P31HwKqJd-dBL4jGP4uBzz6HHWbnOptpUVRMkjkUW8JfTBJWvY0S_HPMDcELDXdFysRvn-4o3IYf2kRq-tHIi9/s1600/th.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html"
     ]
   }
 ]
