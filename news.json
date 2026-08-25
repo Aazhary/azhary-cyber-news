@@ -156948,25 +156948,5 @@
     "sources": [
       "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/"
     ]
-  },
-  {
-    "id": "b840215517acaa9ac37eb89b",
-    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-    "link": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "published": "2026-02-26T06:13:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.. What: A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.. When: 2026-02-26T06:13:00+00:00. How: The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access Action: See Arabic action below.",
-    "summary_ar": "من: A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.. ماذا: A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.. متى: 2026-02-26T06:13:00+00:00. كيف: The vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20127"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html"
-    ]
   }
 ]
