@@ -18,6 +18,32 @@
     ]
   },
   {
+    "id": "6975220416ff1dadf65ff65b",
+    "title": "CISA Warns of Exploited Gitea Vulnerability",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+    "published": "2026-08-26T05:17:28+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek .. What: CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.. When: 2026-08-26T05:17:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek .. ماذا: CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.. متى: 2026-08-26T05:17:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2024-21182",
+      "CVE-2026-21962",
+      "CVE-2026-45659",
+      "CVE-2026-60004"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+      "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+      "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+      "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/"
+    ]
+  },
+  {
     "id": "922b2d91c1185e718fed3408",
     "title": "Universal adapter vs. travel charger: Confused? Here's the device you need most",
     "link": "https://www.zdnet.com/article/universal-travel-adapter-vs-travel-ready-charger-whats-the-difference/",
@@ -1012,28 +1038,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
     "sources": [
       "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/"
-    ]
-  },
-  {
-    "id": "e4aeece8a36e42aa0f850083",
-    "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
-    "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-    "published": "2026-08-25T07:46:34+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .. What: The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.. When: 2026-08-25T07:46:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .. ماذا: The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.. متى: 2026-08-25T07:46:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2024-21182",
-      "CVE-2026-21962"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/CISA-Agency-Cybersecurity.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-      "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/"
     ]
   },
   {
@@ -44811,26 +44815,6 @@
     "image": "https://image.theregister.com/5265729.jpg?imageId=5265729&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/07/02/oracle-e-business-suite-was-under-attack-via-critical-flaw-before-the-public-exploit-code-was-even-released/5265710"
-    ]
-  },
-  {
-    "id": "86cc504057b04f92039b62ca",
-    "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-    "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-    "published": "2026-07-02T10:30:42+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659).. What: CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659).. When: 2026-07-02T10:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659).. ماذا: CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659).. متى: 2026-07-02T10:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-45659"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CVE-2025-53770-SharePoint-Vulnerability.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/"
     ]
   },
   {
