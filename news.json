@@ -18,6 +18,96 @@
     ]
   },
   {
+    "id": "8facafab923523d452cab1d8",
+    "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+    "published": "2026-08-26T14:47:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused.. What: Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused.. When: 2026-08-26T14:47:51+00:00. How: [...] Hackers target Microsoft SharePoint RCE chain with PoC exploit Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused.. ماذا: Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused.. متى: 2026-08-26T14:47:51+00:00. كيف: [...] Hackers target Microsoft SharePoint RCE chain with PoC exploit. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/"
+    ]
+  },
+  {
+    "id": "924996bc982f372e9def72c0",
+    "title": "Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel",
+    "link": "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/",
+    "published": "2026-08-26T14:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel. What: Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel. When: 2026-08-26T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel. ماذا: Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel. متى: 2026-08-26T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/ab25c79f-51f2-47f2-95f0-9eb7bb6e5ce8.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/"
+    ]
+  },
+  {
+    "id": "1e95a2162d74fe6c780905fb",
+    "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+    "published": "2026-08-26T14:17:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: FBI disrupts proxy network enabling Chinese espionage operations. What: FBI disrupts proxy network enabling Chinese espionage operations. When: 2026-08-26T14:17:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI disrupts proxy network enabling Chinese espionage operations. ماذا: FBI disrupts proxy network enabling Chinese espionage operations. متى: 2026-08-26T14:17:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/04/25/FBI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/"
+    ]
+  },
+  {
+    "id": "1c632c8984a6c3858ae1cbe9",
+    "title": "Snowflake ends service-account passwords. Now comes the hard part",
+    "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+    "published": "2026-08-26T14:01:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Snowflake ends service-account passwords. Now comes the hard part. What: Snowflake ends service-account passwords. Now comes the hard part. When: 2026-08-26T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Snowflake ends service-account passwords. Now comes the hard part. ماذا: Snowflake ends service-account passwords. Now comes the hard part. متى: 2026-08-26T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/25/token-key-rack.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/"
+    ]
+  },
+  {
+    "id": "a631e8a45ed3af92c67df180",
+    "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+    "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+    "published": "2026-08-26T13:44:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.. What: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.. When: 2026-08-26T13:44:31+00:00. How: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.. ماذا: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.. متى: 2026-08-26T13:44:31+00:00. كيف: Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html"
+    ]
+  },
+  {
     "id": "c46f968b7ecddd603a4b48a0",
     "title": "Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects",
     "link": "https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/",
@@ -52,6 +142,24 @@
     "sources": [
       "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
       "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "16737fe3c131bea3850896d8",
+    "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+    "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+    "published": "2026-08-26T13:07:02+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.. What: Both organizations were fully compromised at the domain level, and in both, the red team also CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing. When: 2026-08-26T13:07:02+00:00. How: Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.. ماذا: Both organizations were fully compromised at the domain level, and in both, the red team also CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing. متى: 2026-08-26T13:07:02+00:00. كيف: Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html"
     ]
   },
   {
@@ -10699,7 +10807,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce"
     ]
@@ -156912,42 +157020,6 @@
     "image": "https://regmedia.co.uk/2026/02/27/shutterstock_1959130915.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/02/27/manomano_breach/"
-    ]
-  },
-  {
-    "id": "ac49a50fa4abd597e25f2ba6",
-    "title": "Third-Party Patching and the Business Footprint We All Share",
-    "link": "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/",
-    "published": "2026-02-27T15:00:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Third-Party Patching and the Business Footprint We All Share. What: Third-Party Patching and the Business Footprint We All Share. When: 2026-02-27T15:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Third-Party Patching and the Business Footprint We All Share. ماذا: Third-Party Patching and the Business Footprint We All Share. متى: 2026-02-27T15:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/02/15/hacker-hacking.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/third-party-patching-and-the-business-footprint-we-all-share/"
-    ]
-  },
-  {
-    "id": "aaf90d49568cde01538a4aa5",
-    "title": "North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks",
-    "link": "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/",
-    "published": "2026-02-27T14:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks. What: North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks. When: 2026-02-27T14:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks. ماذا: North Korea's APT37 Expands Toolkit to Breach Air-Gapped Networks. متى: 2026-02-27T14:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/faf8ea36-ebb5-4a6a-a52a-fa478796f038.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/north-korea-apt37-expands-toolkit/"
     ]
   }
 ]
