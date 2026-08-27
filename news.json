@@ -18,6 +18,617 @@
     ]
   },
   {
+    "id": "0c5cf7b12500eec662a58403",
+    "title": "Cybercrooks jet off with Manchester Airports Group customer data",
+    "link": "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943",
+    "published": "2026-08-27T12:52:36+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cybercrooks jet off with Manchester Airports Group customer data. What: MAG did not specify the scale of the breach via its public-facing announcement, although it reportedly told local newspaper Manchester Evening News that most of the 8.7 million individuals affected only had their email addresses exposed.. When: 2026-08-27T12:52:36+00:00. How: One Reg reader griped that in addition to being charged £80 for five days of parking at Stansted, receiving the email informing him that it had also allowed his personal data to be stolen via a cybersecurity breach added insult to injury. Action: See Arabic action below.",
+    "summary_ar": "من: Cybercrooks jet off with Manchester Airports Group customer data. ماذا: MAG did not specify the scale of the breach via its public-facing announcement, although it reportedly told local newspaper Manchester Evening News that most of the 8.7 million individuals affected only had their email addresses exposed.. متى: 2026-08-27T12:52:36+00:00. كيف: One Reg reader griped that in addition to being charged £80 for five days of parking at Stansted, receiving the email informing him that it had also allowed his personal data to be stolen via a cybersecurity breach added insult to injury.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5228864.jpg?imageId=5228864&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943"
+    ]
+  },
+  {
+    "id": "dde3fd5d44a40ba460978ee3",
+    "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
+    "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
+    "published": "2026-08-27T12:48:03+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Australia Arrests 2 Alleged TeamPCP Hackers. What: Australia Arrests 2 Alleged TeamPCP Hackers. When: 2026-08-27T12:48:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Australia Arrests 2 Alleged TeamPCP Hackers. ماذا: Australia Arrests 2 Alleged TeamPCP Hackers. متى: 2026-08-27T12:48:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/hacker-arrested.jpeg",
+    "sources": [
+      "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
+      "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
+    ]
+  },
+  {
+    "id": "49f131c4af1a3ec1cd13c61f",
+    "title": "ChatGPT can log into your web accounts without you now - but should you let it?",
+    "link": "https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/",
+    "published": "2026-08-27T12:43:31+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part.. What: ChatGPT can log into your web accounts without you now - but should you let it?. When: 2026-08-27T12:43:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part.. ماذا: ChatGPT can log into your web accounts without you now - but should you let it?. متى: 2026-08-27T12:43:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/18dc9a466093f71b736eea7dd55b5719b0d1dd2d/2026/08/27/f0d191e2-a59f-4cbb-b247-688c1c2dd31b/chatgpt-work.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/"
+    ]
+  },
+  {
+    "id": "1c99fb058a1b2ffe16ea5771",
+    "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+    "published": "2026-08-27T12:16:32+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices.. What: Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices.. When: 2026-08-27T12:16:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices.. ماذا: Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices.. متى: 2026-08-27T12:16:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Windows11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/"
+    ]
+  },
+  {
+    "id": "4ac76ea1ee4005bd62ce2e27",
+    "title": "Webinar: How Google Workspace breaches happen and what to do next",
+    "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+    "published": "2026-08-27T12:16:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits.. What: Webinar: How Google Workspace breaches happen and what to do next. When: 2026-08-27T12:16:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits.. ماذا: Webinar: How Google Workspace breaches happen and what to do next. متى: 2026-08-27T12:16:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/06/29/Google_Workspace.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/"
+    ]
+  },
+  {
+    "id": "160ca78f2d4c5b3c0b67c2af",
+    "title": "Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns",
+    "link": "https://www.infosecurity-magazine.com/news/chinese-qtfy-us-infrastructure-fbi/",
+    "published": "2026-08-27T12:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns. What: Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns. When: 2026-08-27T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns. ماذا: Chinese Hacker Group QTFY Uses Custom-Built Platforms to Target US Infrastructure, FBI Warns. متى: 2026-08-27T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/9bce803a-ed7e-43f2-9c8f-794d4584fe7b.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-qtfy-us-infrastructure-fbi/"
+    ]
+  },
+  {
+    "id": "1b0c95594872208bf215d6a6",
+    "title": "How Facebook and Instagram will change after Meta's $18B settlement - and where the money is going",
+    "link": "https://www.zdnet.com/article/meta-settlement-will-change-facebook-and-instagram-where-money-is-going/",
+    "published": "2026-08-27T12:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The suit alleges that Meta designed its platforms to be addicting to young people.. What: How Facebook and Instagram will change after Meta's $18B settlement - and where the money is going. When: 2026-08-27T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The suit alleges that Meta designed its platforms to be addicting to young people.. ماذا: How Facebook and Instagram will change after Meta's $18B settlement - and where the money is going. متى: 2026-08-27T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/cb61780a211d498c44608ef7b8b95450ae097914/2026/08/27/9546cce4-7215-4ded-8ec0-a8716fe4f3e8/gettyimages-2286589903.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/meta-settlement-will-change-facebook-and-instagram-where-money-is-going/"
+    ]
+  },
+  {
+    "id": "7f345859c3f51b430607b507",
+    "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
+    "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
+    "published": "2026-08-27T11:58:01+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .. What: OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack. When: 2026-08-27T11:58:01+00:00. How: The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .. ماذا: OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack. متى: 2026-08-27T11:58:01+00:00. كيف: The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek .. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/rogue-AI-artificial-intelligence.jpeg",
+    "sources": [
+      "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/"
+    ]
+  },
+  {
+    "id": "5a570ea1e7c28b602dc82925",
+    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+    "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+    "published": "2026-08-27T11:56:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Learn How to Build Security Operations Ready for AI-Powered Attacks. What: Learn How to Build Security Operations Ready for AI-Powered Attacks. When: 2026-08-27T11:56:30+00:00. How: Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. Action: See Arabic action below.",
+    "summary_ar": "من: Learn How to Build Security Operations Ready for AI-Powered Attacks. ماذا: Learn How to Build Security Operations Ready for AI-Powered Attacks. متى: 2026-08-27T11:56:30+00:00. كيف: Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
+    ]
+  },
+  {
+    "id": "4397ae0968f0709c602c76b3",
+    "title": "Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security",
+    "link": "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/",
+    "published": "2026-08-27T11:53:10+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security. What: Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security. When: 2026-08-27T11:53:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security. ماذا: Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security. متى: 2026-08-27T11:53:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Okta-Cybersecurity.jpg",
+    "sources": [
+      "https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/"
+    ]
+  },
+  {
+    "id": "0940d23938608c51bc758af5",
+    "title": "The 5 best Linux alternatives to Windows in 2026 (that aren't Mint)",
+    "link": "https://www.zdnet.com/article/the-5-best-linux-alternatives-to-windows-in-2026-that-arent-mint/",
+    "published": "2026-08-27T11:45:03+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The 5 best Linux alternatives to Windows in 2026 (that aren't Mint). What: The 5 best Linux alternatives to Windows in 2026 (that aren't Mint). When: 2026-08-27T11:45:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The 5 best Linux alternatives to Windows in 2026 (that aren't Mint). ماذا: The 5 best Linux alternatives to Windows in 2026 (that aren't Mint). متى: 2026-08-27T11:45:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/40ed607bcfae3e4bc32e6377cd0617215afd7ed4/2024/09/30/0aadc2e9-7e2a-4b22-b3f7-53ae78a5b1de/zorinhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/the-5-best-linux-alternatives-to-windows-in-2026-that-arent-mint/"
+    ]
+  },
+  {
+    "id": "bf9d2d640f0d23105a8dfe70",
+    "title": "What the Data Says About AI in Security Operations in 2026",
+    "link": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+    "published": "2026-08-27T11:30:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: What the Data Says About AI in Security Operations in 2026. What: What the Data Says About AI in Security Operations in 2026. When: 2026-08-27T11:30:00+00:00. How: For the teams already using AI, what is actually changing? Action: See Arabic action below.",
+    "summary_ar": "من: What the Data Says About AI in Security Operations in 2026. ماذا: What the Data Says About AI in Security Operations in 2026. متى: 2026-08-27T11:30:00+00:00. كيف: For the teams already using AI, what is actually changing?. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYbYBAkf_-8-lUShFafJ32AYAo_yzwmPmpMcUgd5i9SUaCA8V0t-66WEu2B5U8KLbJ1ie3T-IudVRd73Arprc2iNUqTweYzHN_POtzXr-nJICrNkK_R5dDKr3k5sklozyuO11Y9Av55Git8fvydO3HAAcwgT6sk2gvXzmH5qz-qTMuzQfAmu7EedWV9dE/s1600/pro.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html"
+    ]
+  },
+  {
+    "id": "4bb322634d8900d393559386",
+    "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
+    "published": "2026-08-27T11:16:01+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Russian Hackers Phish EU Officials Over Messaging Apps. What: Russian Hackers Phish EU Officials Over Messaging Apps. When: 2026-08-27T11:16:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian Hackers Phish EU Officials Over Messaging Apps. ماذا: Russian Hackers Phish EU Officials Over Messaging Apps. متى: 2026-08-27T11:16:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66b18b75cdbfa7d7/6a8f19f65ca78e255c17b9b2/EU_messaging-simarik-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps"
+    ]
+  },
+  {
+    "id": "715d2727a504127adb0d39c7",
+    "title": "CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite",
+    "link": "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/",
+    "published": "2026-08-27T11:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite. What: CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite. When: 2026-08-27T11:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite. ماذا: CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite. متى: 2026-08-27T11:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/CISO-Chris-Wheeler.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/"
+    ]
+  },
+  {
+    "id": "c4345d23c48c988eeab4f24c",
+    "title": "Carhartt data breach exposes information of 12.9 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+    "published": "2026-08-27T11:10:04+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Carhartt data breach exposes information of 12.9 million accounts. What: Carhartt data breach exposes information of 12.9 million accounts. When: 2026-08-27T11:10:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Carhartt data breach exposes information of 12.9 million accounts. ماذا: Carhartt data breach exposes information of 12.9 million accounts. متى: 2026-08-27T11:10:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Carhartt.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/"
+    ]
+  },
+  {
+    "id": "861f4dd4c580966a80c1122d",
+    "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+    "link": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "published": "2026-08-27T11:04:15+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Members of the group made headlines by compromising corporate cloud environments using a self-propagating worm dubbed Shai-Hulud , which added malicious code to open source programs maintained by developers whose credentials at public code repositories like GitHub or NPM were phished or stolen.. What: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.. When: 2026-08-27T11:04:15+00:00. How: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since. Action: See Arabic action below.",
+    "summary_ar": "من: Members of the group made headlines by compromising corporate cloud environments using a self-propagating worm dubbed Shai-Hulud , which added malicious code to open source programs maintained by developers whose credentials at public code repositories like GitHub or NPM were phished or stolen.. ماذا: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.. متى: 2026-08-27T11:04:15+00:00. كيف: In a statement released today, the Australian Federal Police (AFP) said two men from Western Australia, aged 21 and 23, were arrested in connection with a “sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.” The AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect’s real identity in June, and has been communicating with him ever since.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
+    ]
+  },
+  {
+    "id": "ac67ef1340b7889c37d098d1",
+    "title": "Nuisance-call blocker fined £190k for being a nuisance caller",
+    "link": "https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888",
+    "published": "2026-08-27T11:04:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Nuisance-call blocker fined £190k for being a nuisance caller. What: Nuisance-call blocker fined £190k for being a nuisance caller. When: 2026-08-27T11:04:00+00:00. How: “People register with the Telephone Preference Service because they want greater control over who can contact them,” he said. Action: See Arabic action below.",
+    "summary_ar": "من: Nuisance-call blocker fined £190k for being a nuisance caller. ماذا: Nuisance-call blocker fined £190k for being a nuisance caller. متى: 2026-08-27T11:04:00+00:00. كيف: “People register with the Telephone Preference Service because they want greater control over who can contact them,” he said.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/230946.jpg?imageId=230946&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888"
+    ]
+  },
+  {
+    "id": "7604fc96e6831e7eb9ebd5a0",
+    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    "link": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+    "published": "2026-08-27T11:00:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools. What: Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools. When: 2026-08-27T11:00:57+00:00. How: Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. Action: See Arabic action below.",
+    "summary_ar": "من: Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools. ماذا: Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools. متى: 2026-08-27T11:00:57+00:00. كيف: Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqqkrFYi_Np3w-hHvDbFZqWnf1qCrkS6zwJARAyiKX99YdH2w37pqvD-Zy1HPAYdbJbFu3Tztap9lcuv-lkq8wd9elTkfK0NWN5a9J8218OE9btcQHMdyM93GiuYLuj5mC_TPFBXnVZkUEckgARKceSsJKRqHDeW-U_tsDcPscO3-s2Oid28OEZTz7cIw/s1600/combo-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html"
+    ]
+  },
+  {
+    "id": "b63ecb8b838696d8abfdcd59",
+    "title": "CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products",
+    "link": "https://www.infosecurity-magazine.com/news/cisa-kev-microsoft-citrix/",
+    "published": "2026-08-27T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: CISA added six new bugs to its Known Exploited Vulnerabilities catalog on August 26, showing signs of active exploitation in the wild CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products. What: CISA added six new bugs to its Known Exploited Vulnerabilities catalog on August 26, showing signs of active exploitation in the wild CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products. When: 2026-08-27T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA added six new bugs to its Known Exploited Vulnerabilities catalog on August 26, showing signs of active exploitation in the wild CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products. ماذا: CISA added six new bugs to its Known Exploited Vulnerabilities catalog on August 26, showing signs of active exploitation in the wild CISA Warns of Six Exploited Flaws in Microsoft, Linux, Red Hat and Citrix Products. متى: 2026-08-27T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/e808c994-6e90-4988-81cc-9e63a310cf59.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cisa-kev-microsoft-citrix/"
+    ]
+  },
+  {
+    "id": "c78a2b9ec0936d7fab648a6d",
+    "title": "Cyberattack Causes Global Disruption at Boston Scientific",
+    "link": "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/",
+    "published": "2026-08-27T10:18:27+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Cyberattack Causes Global Disruption at Boston Scientific. What: Cyberattack Causes Global Disruption at Boston Scientific. When: 2026-08-27T10:18:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cyberattack Causes Global Disruption at Boston Scientific. ماذا: Cyberattack Causes Global Disruption at Boston Scientific. متى: 2026-08-27T10:18:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Boston-Scientific.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/"
+    ]
+  },
+  {
+    "id": "aee085f6ab52f10b145c2119",
+    "title": "Threat landscape for industrial automation systems. Q2 2026",
+    "link": "https://securelist.com/industrial-threat-report-q2-2026/121159/",
+    "published": "2026-08-27T10:05:43+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Threat categories In Q2 2026, Kaspersky security solutions blocked malware from 10,904 different malware families of various categories on industrial automation systems.. What: Threat landscape for industrial automation systems. Q2 2026. When: 2026-08-27T10:05:43+00:00. How: All threats In Q2 2026, the percentage of ICS computers on which malicious objects were blocked continued to decrease, falling to 19.15%, its lowest level since 2022. Action: See Arabic action below.",
+    "summary_ar": "من: Threat categories In Q2 2026, Kaspersky security solutions blocked malware from 10,904 different malware families of various categories on industrial automation systems.. ماذا: Threat landscape for industrial automation systems. Q2 2026. متى: 2026-08-27T10:05:43+00:00. كيف: All threats In Q2 2026, the percentage of ICS computers on which malicious objects were blocked continued to decrease, falling to 19.15%, its lowest level since 2022.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2017-11882"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/26190520/SL-industrial-threat-report-q2-2026-featured.jpg",
+    "sources": [
+      "https://securelist.com/industrial-threat-report-q2-2026/121159/",
+      "https://securelist.com/industrial-threat-report-q1-2026/120643/",
+      "https://securelist.com/industrial-threat-report-q4-2025/119392/",
+      "https://securelist.com/industrial-threat-report-q3-2025/118602/"
+    ]
+  },
+  {
+    "id": "4ddab072c3b71a30fb69b336",
+    "title": "The Future of AI-Driven Security Depends on Complete Data",
+    "link": "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/",
+    "published": "2026-08-27T10:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The Future of AI-Driven Security Depends on Complete Data. What: The Future of AI-Driven Security Depends on Complete Data. When: 2026-08-27T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Future of AI-Driven Security Depends on Complete Data. ماذا: The Future of AI-Driven Security Depends on Complete Data. متى: 2026-08-27T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/04/Cybersecurity-Professionalization.jpg",
+    "sources": [
+      "https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/"
+    ]
+  },
+  {
+    "id": "141592ec32c4b3d8098912dd",
+    "title": "Boston Scientific Reveals Global Disruption After Cyber Incident",
+    "link": "https://www.infosecurity-magazine.com/news/boston-scientific-global/",
+    "published": "2026-08-27T10:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Boston Scientific Reveals Global Disruption After Cyber Incident. What: Boston Scientific Reveals Global Disruption After Cyber Incident. When: 2026-08-27T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Boston Scientific Reveals Global Disruption After Cyber Incident. ماذا: Boston Scientific Reveals Global Disruption After Cyber Incident. متى: 2026-08-27T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/15727271-9181-4657-8d50-3e0f7ca0ca92.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/boston-scientific-global/"
+    ]
+  },
+  {
+    "id": "30da300bbde5614defc72b57",
+    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+    "published": "2026-08-27T09:33:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address. What: GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address. When: 2026-08-27T09:33:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address. ماذا: GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address. متى: 2026-08-27T09:33:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"
+    ]
+  },
+  {
+    "id": "71a636a83a48c50bb0760e5a",
+    "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+    "published": "2026-08-27T09:16:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CISA has ordered U.S.. What: CISA has ordered U.S.. When: 2026-08-27T09:16:50+00:00. How: [...] CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday Action: See Arabic action below.",
+    "summary_ar": "من: CISA has ordered U.S.. ماذا: CISA has ordered U.S.. متى: 2026-08-27T09:16:50+00:00. كيف: [...] CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/"
+    ]
+  },
+  {
+    "id": "759723a1122dfa15bd06b223",
+    "title": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
+    "link": "https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/",
+    "published": "2026-08-27T09:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: OpenAI reveals that unauthorized message boards were at the heart of the recent Hugging Face breach OpenAI: Hugging Face Incident a “Warning Shot” to the World. What: OpenAI: Hugging Face Incident a “Warning Shot” to the World. When: 2026-08-27T09:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI reveals that unauthorized message boards were at the heart of the recent Hugging Face breach OpenAI: Hugging Face Incident a “Warning Shot” to the World. ماذا: OpenAI: Hugging Face Incident a “Warning Shot” to the World. متى: 2026-08-27T09:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/d7502fdb-019b-4625-a5f2-bc876fbfb7ca.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/openai-hugging-face-warning-shot/"
+    ]
+  },
+  {
+    "id": "c702ea5bb583745e0359e22e",
+    "title": "US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks",
+    "link": "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/",
+    "published": "2026-08-27T09:01:06+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks. What: US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks. When: 2026-08-27T09:01:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks. ماذا: US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks. متى: 2026-08-27T09:01:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/02/VC-Funding_China-tech.jpg",
+    "sources": [
+      "https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/"
+    ]
+  },
+  {
+    "id": "e97bcc225569930b1e9e961d",
+    "title": "The best iPad Air cases of 2026: Expert tested",
+    "link": "https://www.zdnet.com/article/best-ipad-air-case/",
+    "published": "2026-08-27T09:00:47+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: These are our favorite iPad Air cases from brands like Apple, Burga, and Logitech.. What: The best iPad Air cases of 2026: Expert tested. When: 2026-08-27T09:00:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: These are our favorite iPad Air cases from brands like Apple, Burga, and Logitech.. ماذا: The best iPad Air cases of 2026: Expert tested. متى: 2026-08-27T09:00:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/a/img/resize/fe41bef60d3b6c76fdd3e981ef57e696803404ce/2026/03/06/559606b7-9637-419c-bc7a-82c244619bea/5.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "sources": [
+      "https://www.zdnet.com/article/best-ipad-air-case/",
+      "https://www.zdnet.com/article/best-note-taking-app-for-ipad/"
+    ]
+  },
+  {
+    "id": "b89e97eb0d7e195bd73cb1fd",
+    "title": "ATF confirms “major incident” after recent Qilin breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+    "published": "2026-08-27T08:13:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang.. What: ATF confirms “major incident” after recent Qilin breach claims. When: 2026-08-27T08:13:50+00:00. How: ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. Action: See Arabic action below.",
+    "summary_ar": "من: ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang.. ماذا: ATF confirms “major incident” after recent Qilin breach claims. متى: 2026-08-27T08:13:50+00:00. كيف: ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Qilin.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/"
+    ]
+  },
+  {
+    "id": "01d373d9851235807514f14e",
+    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+    "published": "2026-08-27T08:13:11+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access. What: Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.. When: 2026-08-27T08:13:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access. ماذا: Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.. متى: 2026-08-27T08:13:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html"
+    ]
+  },
+  {
+    "id": "efabff6f477c7446aeb531c2",
+    "title": "Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services",
+    "link": "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/",
+    "published": "2026-08-27T08:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services. What: Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services. When: 2026-08-27T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services. ماذا: Pro-Russian Hackers Claim Responsibility for Major Cyberattack on Norway’s Public Digital Services. متى: 2026-08-27T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Digdir-cyberattack.jpg",
+    "sources": [
+      "https://www.securityweek.com/pro-russian-hackers-claim-responsibility-for-major-cyberattack-on-norways-public-digital-services/"
+    ]
+  },
+  {
+    "id": "69ad97f943246df4da136acb",
+    "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+    "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+    "published": "2026-08-27T07:05:28+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.. When: 2026-08-27T07:05:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.. متى: 2026-08-27T07:05:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2019-1068"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html"
+    ]
+  },
+  {
+    "id": "cdb87e3bfd1934e0bb0c3524",
+    "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
+    "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
+    "published": "2026-08-27T04:39:19+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.. What: The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek .. When: 2026-08-27T04:39:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452.. ماذا: The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek .. متى: 2026-08-27T04:39:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-59287",
+      "CVE-2026-3055",
+      "CVE-2026-8452"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Citrix-vulnerability.jpeg",
+    "sources": [
+      "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
+      "https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/",
+      "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
+      "https://www.securityweek.com/critical-triofox-vulnerability-exploited-in-the-wild/",
+      "https://www.securityweek.com/critical-windows-server-wsus-vulnerability-exploited-in-the-wild/"
+    ]
+  },
+  {
     "id": "ea040d41476c68d9a5f74cf3",
     "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
     "link": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742",
@@ -90,6 +701,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt47e8a731e9364c4c/6a8f4b1bd21c5bf1f56d2ce9/caracal_Szikorka_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal"
+    ]
+  },
+  {
+    "id": "cab07e1494747f93b947993b",
+    "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
+    "link": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
+    "published": "2026-08-26T19:54:34+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'HTTP Terminator' Hunts for Novel Desync Attacks. What: 'HTTP Terminator' Hunts for Novel Desync Attacks. When: 2026-08-26T19:54:34+00:00. How: James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques. Action: See Arabic action below.",
+    "summary_ar": "من: 'HTTP Terminator' Hunts for Novel Desync Attacks. ماذا: 'HTTP Terminator' Hunts for Novel Desync Attacks. متى: 2026-08-26T19:54:34+00:00. كيف: James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt23656fc5f4eecff8/6a8f5fe500c0a24f20a52813/kettle.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks"
     ]
   },
   {
@@ -43206,28 +43835,6 @@
     "image": "https://image.theregister.com/225093.jpg?imageId=225093&x=0&y=4.93&cropw=100&croph=63.55&panox=0&panoy=4.93&panow=100&panoh=63.55&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/07/07/governments-cyber-pledge-lands-60-signatories-including-ms-and-somehow-capita/5267554"
-    ]
-  },
-  {
-    "id": "d1d388c9cc45f1937d06553c",
-    "title": "Threat landscape for industrial automation systems. Q1 2026",
-    "link": "https://securelist.com/industrial-threat-report-q1-2026/120643/",
-    "published": "2026-07-07T10:00:11+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: Threat categories In Q1 2026, Kaspersky security solutions blocked malware from 10,052 different malware families of various categories on industrial automation systems.. What: Threat landscape for industrial automation systems. Q1 2026. When: 2026-07-07T10:00:11+00:00. How: All threats The percentage of ICS computers on which malicious objects were blocked continued to decrease, reaching 19.6% in Q1 2026. Action: See Arabic action below.",
-    "summary_ar": "من: Threat categories In Q1 2026, Kaspersky security solutions blocked malware from 10,052 different malware families of various categories on industrial automation systems.. ماذا: Threat landscape for industrial automation systems. Q1 2026. متى: 2026-07-07T10:00:11+00:00. كيف: All threats The percentage of ICS computers on which malicious objects were blocked continued to decrease, reaching 19.6% in Q1 2026.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2017-11882"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/07/07060651/SL-industrial-threats-q1-2026-featured-scaled.jpg",
-    "sources": [
-      "https://securelist.com/industrial-threat-report-q1-2026/120643/",
-      "https://securelist.com/industrial-threat-report-q4-2025/119392/",
-      "https://securelist.com/industrial-threat-report-q3-2025/118602/"
     ]
   },
   {
@@ -128932,30 +129539,6 @@
     ]
   },
   {
-    "id": "bdfde691a154028b7929da77",
-    "title": "Critical Citrix NetScaler Vulnerability Exploited in the Wild",
-    "link": "https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/",
-    "published": "2026-03-30T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Critical Citrix NetScaler Vulnerability Exploited in the Wild. What: Researchers from watchTowr and Defused have found evidence that attackers are actively exploiting CVE-2026-3055, a critical NetScaler vulnerability Critical Citrix NetScaler Vulnerability Exploited in the Wild. When: 2026-03-30T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Citrix NetScaler Vulnerability Exploited in the Wild. ماذا: Researchers from watchTowr and Defused have found evidence that attackers are actively exploiting CVE-2026-3055, a critical NetScaler vulnerability Critical Citrix NetScaler Vulnerability Exploited in the Wild. متى: 2026-03-30T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-59287",
-      "CVE-2026-3055"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/5ee3c2e8-0343-4cba-8b7d-a1ef98a90c54.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/critical-citrix-netscaler/",
-      "https://www.securityweek.com/critical-react-native-vulnerability-exploited-in-the-wild/",
-      "https://www.securityweek.com/critical-triofox-vulnerability-exploited-in-the-wild/",
-      "https://www.securityweek.com/critical-windows-server-wsus-vulnerability-exploited-in-the-wild/"
-    ]
-  },
-  {
     "id": "5710ce5c4dc53a73754cb06a",
     "title": "European Commission admits attackers broke into public web systems, but says little else",
     "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/european_commission_breach/",
@@ -145707,24 +146290,6 @@
     ]
   },
   {
-    "id": "85c244e5ce9adc31d9139b42",
-    "title": "The best note-taking apps for iPad of 2026: Expert tested",
-    "link": "https://www.zdnet.com/article/best-note-taking-app-for-ipad/",
-    "published": "2026-03-12T10:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best note-taking apps for iPad of 2026: Expert tested. What: The best note-taking apps for iPad of 2026: Expert tested. When: 2026-03-12T10:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best note-taking apps for iPad of 2026: Expert tested. ماذا: The best note-taking apps for iPad of 2026: Expert tested. متى: 2026-03-12T10:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/55a486b41c78c6312c497adfa7fbee29658a2213/2023/04/24/3a27bce7-3a11-42dc-9ab9-a6e1ffb7f406/apple-ipad-10th-gen-with-apple-pencil.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-note-taking-app-for-ipad/"
-    ]
-  },
-  {
     "id": "3a8490729522bc131b914b8c",
     "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
     "link": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
@@ -156786,205 +157351,6 @@
     "image": "https://www.zdnet.com/a/img/resize/ced24978301a5ecbf26dd3a9e490cc46019850a7/2026/02/27/da13ed6c-590d-4105-abac-dd754a1206b5/gettyimages-2206364304.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ai-coding-techniques/"
-    ]
-  },
-  {
-    "id": "249a7530c3edc5cee92d07c5",
-    "title": "Who is the Kimwolf Botmaster “Dort”?",
-    "link": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-    "published": "2026-02-28T12:01:57+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: A public “dox” created in 2020 asserted Dort was a teenager from Canada (DOB August 2003) who used the aliases “ CPacket ” and “ M1ce .” A search on the username CPacket at the open source intelligence platform OSINT Industries finds a GitHub account under the names Dort and CPacket that was created in 2017 using the email address jay.miner232@gmail.com .. What: In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf , the world’s largest and most disruptive botnet.. When: 2026-02-28T12:01:57+00:00. How: A public “dox” created in 2020 asserted Dort was a teenager from Canada (DOB August 2003) who used the aliases “ CPacket ” and “ M1ce .” A search on the username CPacket at the open source intelligence platform OSINT Industries finds a GitHub account under the names Dort and CPacket that was created in 2017 using the email address jay.miner232@gmail.com . Action: See Arabic action below.",
-    "summary_ar": "من: A public “dox” created in 2020 asserted Dort was a teenager from Canada (DOB August 2003) who used the aliases “ CPacket ” and “ M1ce .” A search on the username CPacket at the open source intelligence platform OSINT Industries finds a GitHub account under the names Dort and CPacket that was created in 2017 using the email address jay.miner232@gmail.com .. ماذا: In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to build Kimwolf , the world’s largest and most disruptive botnet.. متى: 2026-02-28T12:01:57+00:00. كيف: A public “dox” created in 2020 asserted Dort was a teenager from Canada (DOB August 2003) who used the aliases “ CPacket ” and “ M1ce .” A search on the username CPacket at the open source intelligence platform OSINT Industries finds a GitHub account under the names Dort and CPacket that was created in 2017 using the email address jay.miner232@gmail.com .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/"
-    ]
-  },
-  {
-    "id": "5def98b4d845b4a59c724311",
-    "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
-    "link": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
-    "published": "2026-02-28T11:50:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Canadian Tire Data Breach Impacts 38 Million Accounts. What: Canadian Tire Data Breach Impacts 38 Million Accounts. When: 2026-02-28T11:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Canadian Tire Data Breach Impacts 38 Million Accounts. ماذا: Canadian Tire Data Breach Impacts 38 Million Accounts. متى: 2026-02-28T11:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/"
-    ]
-  },
-  {
-    "id": "37a7e498ba2f8f4e73653721",
-    "title": "Oura's closest competitor just launched a new ring with 15-day battery - but there's a catch",
-    "link": "https://www.zdnet.com/article/ultrahuman-ring-pro-takes-on-oura-with-15-day-battery-life/",
-    "published": "2026-02-28T11:40:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Oura's closest competitor just launched a new ring with 15-day battery - but there's a catch. What: Oura's closest competitor just launched a new ring with 15-day battery - but there's a catch. When: 2026-02-28T11:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Oura's closest competitor just launched a new ring with 15-day battery - but there's a catch. ماذا: Oura's closest competitor just launched a new ring with 15-day battery - but there's a catch. متى: 2026-02-28T11:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ff3345ce0f7c296582a6e5ede6f600885f32d9e/2024/03/21/86974860-f606-4979-95eb-f1bf323ee466/dsc01619-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ultrahuman-ring-pro-takes-on-oura-with-15-day-battery-life/"
-    ]
-  },
-  {
-    "id": "55d88d5df7939ce698e7c6b4",
-    "title": "Denizens of DEF CON are 'fed up with government'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/28/def_con_jake_braun_fed_up_govt/",
-    "published": "2026-02-28T11:11:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Denizens of DEF CON are 'fed up with government'. What: Denizens of DEF CON are 'fed up with government'. When: 2026-02-28T11:11:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Denizens of DEF CON are 'fed up with government'. ماذا: Denizens of DEF CON are 'fed up with government'. متى: 2026-02-28T11:11:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/02/26/jake_braun_def_con_33.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/28/def_con_jake_braun_fed_up_govt/"
-    ]
-  },
-  {
-    "id": "c4407546db27b2312d373b5c",
-    "title": "I switched to a 4.7-inch Android phone for a week, and it felt like a blast from the past",
-    "link": "https://www.zdnet.com/article/ulefone-armor-mini-20-pro-phone-review/",
-    "published": "2026-02-28T11:10:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I switched to a 4.7-inch Android phone for a week, and it felt like a blast from the past. What: I switched to a 4.7-inch Android phone for a week, and it felt like a blast from the past. When: 2026-02-28T11:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I switched to a 4.7-inch Android phone for a week, and it felt like a blast from the past. ماذا: I switched to a 4.7-inch Android phone for a week, and it felt like a blast from the past. متى: 2026-02-28T11:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/76f232884030367622d28c94a10ef5070c0f154f/2026/01/20/7adb3bc8-ee7c-4bbe-845d-6f23fc1116a7/img-1978.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ulefone-armor-mini-20-pro-phone-review/"
-    ]
-  },
-  {
-    "id": "ab1b0ef98617eb1273bc0636",
-    "title": "I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable",
-    "link": "https://www.zdnet.com/article/acer-veriton-nuc-pc-review/",
-    "published": "2026-02-28T11:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable. What: I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable. When: 2026-02-28T11:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable. ماذا: I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable. متى: 2026-02-28T11:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f5c6cce5b7548b9eba3b1a0b6c0938da857c6ba1/2025/12/02/96a56a5d-65ee-4738-bfd7-c84d999e20a1/acer-veriton-mini-pc-image-6.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/acer-veriton-nuc-pc-review/"
-    ]
-  },
-  {
-    "id": "935b11e346e5925bd22f8535",
-    "title": "Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro",
-    "link": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
-    "published": "2026-02-28T10:59:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro. What: Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro. When: 2026-02-28T10:59:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro. ماذا: Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro. متى: 2026-02-28T10:59:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3a30ef4302060f616d78967f815e36db64ae9612/2024/02/26/d29eced9-82ac-46e7-90ce-6986023eb437/dsc01316.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
-      "https://www.zdnet.com/article/samsung-unpacked-02-25-2026-live-blog/"
-    ]
-  },
-  {
-    "id": "ed44322586fd19064a449c14",
-    "title": "What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Honor, and more",
-    "link": "https://www.zdnet.com/article/what-to-expect-at-mwc-2026-best-phones/",
-    "published": "2026-02-28T10:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Honor, and more. What: What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Honor, and more. When: 2026-02-28T10:50:00+00:00. How: Mobile World Congress 2026 kicks off in a few days, but Xiaomi, Nothing, TCL, and others have already hinted at what's to come in Barcelona. Action: See Arabic action below.",
-    "summary_ar": "من: What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Honor, and more. ماذا: What to expect at MWC 2026: Best phones I'm anticipating from Xiaomi, Honor, and more. متى: 2026-02-28T10:50:00+00:00. كيف: Mobile World Congress 2026 kicks off in a few days, but Xiaomi, Nothing, TCL, and others have already hinted at what's to come in Barcelona.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/eeb476da8d655cbef63823aa96e8a27b327fe6e7/2025/03/02/842f3ad1-ee6d-436f-843e-8476ae680eb1/xiaomi-15-ultra-at-mwc.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-to-expect-at-mwc-2026-best-phones/"
-    ]
-  },
-  {
-    "id": "0a04645e466fa681397820a8",
-    "title": "Meet your AI auditor: How this new job role monitors model behavior",
-    "link": "https://www.zdnet.com/article/ai-auditor-new-job-role-monitors-model-behavior/",
-    "published": "2026-02-28T10:00:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Meet your AI auditor: How this new job role monitors model behavior. What: Meet your AI auditor: How this new job role monitors model behavior. When: 2026-02-28T10:00:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Meet your AI auditor: How this new job role monitors model behavior. ماذا: Meet your AI auditor: How this new job role monitors model behavior. متى: 2026-02-28T10:00:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1e6a409f2b1660e0e41ffd33c7e723447b2bdf0c/2026/02/27/f4d75e1a-0784-46b5-9c19-16dd6450d0bc/aieyegettyimages-2186604642.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-auditor-new-job-role-monitors-model-behavior/"
-    ]
-  },
-  {
-    "id": "04afd2b93174f3afe31955c9",
-    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement",
-    "link": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
-    "published": "2026-02-28T09:56:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.. What: The findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement. When: 2026-02-28T09:56:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New research has found that Google Cloud API keys, typically designated as project identifiers for billing purposes, could be abused to authenticate to sensitive Gemini endpoints and access private data.. ماذا: The findings come from Truffle Security, which discovered nearly 3,000 Google API keys (identified by the prefix \"AIza\") embedded in client-side code to provide Google-related services like Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement. متى: 2026-02-28T09:56:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html"
-    ]
-  },
-  {
-    "id": "12ea6091c0a2fac87eec935c",
-    "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-    "link": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-    "published": "2026-02-28T04:57:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute. What: Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute. When: 2026-02-28T04:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute. ماذا: Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute. متى: 2026-02-28T04:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s16000/Anthropic.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
     ]
   }
 ]
