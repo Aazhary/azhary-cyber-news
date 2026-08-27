@@ -18,6 +18,45 @@
     ]
   },
   {
+    "id": "ea040d41476c68d9a5f74cf3",
+    "title": "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+    "link": "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742",
+    "published": "2026-08-27T00:06:03+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks. What: Ivanti patched the flaw in April 2019.. When: 2026-08-27T00:06:03+00:00. How: As The Register previously reported, China also abused this bug as a zero-day to break into dozens of defense companies, government agencies, and financial organizations in America and abroad. Action: See Arabic action below.",
+    "summary_ar": "من: FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks. ماذا: Ivanti patched the flaw in April 2019.. متى: 2026-08-27T00:06:03+00:00. كيف: As The Register previously reported, China also abused this bug as a zero-day to break into dozens of defense companies, government agencies, and financial organizations in America and abroad.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2019-11510",
+      "CVE-2019-19781"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/261947.jpg?imageId=261947&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/fbi-seizes-hacking-tools-it-says-china-used-to-attack-nasa-doe-us-senate-and-other-critical-networks/5292742"
+    ]
+  },
+  {
+    "id": "5508f8d2af2a350535e3cc0a",
+    "title": "OpenAI explains how its naughty AI agents attacked Hugging Face",
+    "link": "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
+    "published": "2026-08-26T23:45:58+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.. What: OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.. When: 2026-08-26T23:45:58+00:00. How: \"The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks – they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems.\" The incident became the subject of discussion at the Black Hat security conference and elsewhere. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.. ماذا: OpenAI has published its technical report detailing \"the Hugging Face incident,\" the compromise of the eponymous LLM repository by unreleased, ill-supervised AI models.. متى: 2026-08-26T23:45:58+00:00. كيف: \"The models, operating under reduced safeguards, took actions that were misaligned with the goals of their assigned tasks – they communicated through unauthorized channels, exploited vulnerabilities in shared infrastructure, gained internet access, and accessed third-party systems.\" The incident became the subject of discussion at the Black Hat security conference and elsewhere.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/255325.jpg?imageId=255325&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780"
+    ]
+  },
+  {
     "id": "e266701766fa93eab92d0082",
     "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
     "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
@@ -156946,42 +156985,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s16000/Anthropic.jpg",
     "sources": [
       "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html"
-    ]
-  },
-  {
-    "id": "f7bd6e1cec4c1373c4001b0b",
-    "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-    "link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/",
-    "published": "2026-02-28T01:26:41+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Google on Friday unveiled its plan for its Chrome browser to secure HTTPS certificates against quantum computer attacks without breaking the Internet.. What: Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space. When: 2026-02-28T01:26:41+00:00. How: This material can be cracked through the quantum-enabled Shor’s algorithm . Action: See Arabic action below.",
-    "summary_ar": "من: Google on Friday unveiled its plan for its Chrome browser to secure HTTPS certificates against quantum computer attacks without breaking the Internet.. ماذا: Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space. متى: 2026-02-28T01:26:41+00:00. كيف: This material can be cracked through the quantum-enabled Shor’s algorithm .. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
-    ]
-  },
-  {
-    "id": "6a313dd447cdadace1440328",
-    "title": "Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/double_extortion_whammy_steaelite_rat/",
-    "published": "2026-02-27T22:59:15+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool. What: Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool. When: 2026-02-27T22:59:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool. ماذا: Double whammy: Steaelite RAT bundles data theft, ransomware in one evil tool. متى: 2026-02-27T22:59:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/08/11/shutterstock_rat.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/02/27/double_extortion_whammy_steaelite_rat/"
     ]
   }
 ]
