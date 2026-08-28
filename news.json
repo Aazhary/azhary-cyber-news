@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "415d1fddbe611eb6f1efd19e",
+    "title": "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
+    "link": "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
+    "published": "2026-08-28T05:29:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood. What: “We are aware of confirmed customer incidents and are treating this matter with the highest priority,” states an urgent security advisory issued on Thursday.. When: 2026-08-28T05:29:53+00:00. How: It looks like the web interface to the company’s products enables access deeper into a user’s networks, because among the indicators of compromise are altered log files, plus alerts from intrusion detection software, endpoint security tools, and network monitoring packages. Action: See Arabic action below.",
+    "summary_ar": "من: Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood. ماذا: “We are aware of confirmed customer incidents and are treating this matter with the highest priority,” states an urgent security advisory issued on Thursday.. متى: 2026-08-28T05:29:53+00:00. كيف: It looks like the web interface to the company’s products enables access deeper into a user’s networks, because among the indicators of compromise are altered log files, plus alerts from intrusion detection software, endpoint security tools, and network monitoring packages.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5293173.jpg?imageId=5293173&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
+    ]
+  },
+  {
+    "id": "57ebab57114081437100d321",
+    "title": "Australian cops cuff alleged TeamPCP masterminds",
+    "link": "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157",
+    "published": "2026-08-28T03:33:54+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Another of TeamPCP’s attacks was the Shai-Hulud worm, which attacks npm packages, tries to infect them and goes looking for credentials to major public clouds or services like GitHub.. What: Investigations into the pair started in April 2026, after Australian authorities and the FBI “received information from multiple cyber threat assessment companies regarding a syndicate that allegedly inserted malicious code into software available on an open-source repository, which was then unwittingly used by other developers.” Researchers detected some of those activities before April: In March, we reported that researchers spotted a supply chain attack on the open source scanner Trivy.. When: 2026-08-28T03:33:54+00:00. How: The Australian city of Perth is by some measures the world’s most isolated major metropolis, but is still sufficiently connected to US law enforcement authorities that the FBI was able to help Australia’s Federal Police (AFP) to find two men they believe were the masterminds of TeamPCP, a cybercrime crew that conducted prominent supply chain attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Another of TeamPCP’s attacks was the Shai-Hulud worm, which attacks npm packages, tries to infect them and goes looking for credentials to major public clouds or services like GitHub.. ماذا: Investigations into the pair started in April 2026, after Australian authorities and the FBI “received information from multiple cyber threat assessment companies regarding a syndicate that allegedly inserted malicious code into software available on an open-source repository, which was then unwittingly used by other developers.” Researchers detected some of those activities before April: In March, we reported that researchers spotted a supply chain attack on the open source scanner Trivy.. متى: 2026-08-28T03:33:54+00:00. كيف: The Australian city of Perth is by some measures the world’s most isolated major metropolis, but is still sufficiently connected to US law enforcement authorities that the FBI was able to help Australia’s Federal Police (AFP) to find two men they believe were the masterminds of TeamPCP, a cybercrime crew that conducted prominent supply chain attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5293164.jpg?imageId=5293164&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157"
+    ]
+  },
+  {
     "id": "0321378bd0429a68e174bc4d",
     "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
     "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
@@ -174,7 +210,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5293055.jpg?imageId=5293055&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/os-platforms/2026/08/27/omarchy-distro-gains-serious-backing/5293026"
     ]
@@ -318,7 +354,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5292998.jpg?imageId=5292998&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/27/atf-responds-to-major-cybersecurity-incident-after-ransomware-gangs-claims/5292990"
     ]
@@ -374,7 +410,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5286774.jpg?imageId=5286774&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772"
     ]
