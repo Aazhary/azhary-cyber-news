@@ -54,6 +54,44 @@
     ]
   },
   {
+    "id": "df044a4bbe03a77b7132114d",
+    "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+    "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+    "published": "2026-08-29T16:25:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.. What: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.. When: 2026-08-29T16:25:03+00:00. How: The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE Action: See Arabic action below.",
+    "summary_ar": "من: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.. ماذا: Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.. متى: 2026-08-29T16:25:03+00:00. كيف: The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-76581"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+    ]
+  },
+  {
+    "id": "ba8afe93cbccd2a2b5c43902",
+    "title": "Brave browser adds email aliases to help users evade tracking",
+    "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+    "published": "2026-08-29T14:19:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Brave browser adds email aliases to help users evade tracking. What: Brave browser adds email aliases to help users evade tracking. When: 2026-08-29T14:19:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Brave browser adds email aliases to help users evade tracking. ماذا: Brave browser adds email aliases to help users evade tracking. متى: 2026-08-29T14:19:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/06/22/Brave.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/"
+    ]
+  },
+  {
     "id": "20faaaeab9b523f7e34d6020",
     "title": "A week with the Google Pixel 11 changed my mind about Gemini (for the better)",
     "link": "https://www.zdnet.com/article/google-pixel-11-review/",
@@ -157667,387 +157705,6 @@
     "image": "https://www.zdnet.com/a/img/resize/0ec7f3334df322b399739c633f5e93c85b1f35c7/2026/03/02/e0e6f04a-933d-4ab1-be6b-c97aca6486bc/nebios.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/nebios-linux-distro-google-workspace-alternative-cloud-caveat/"
-    ]
-  },
-  {
-    "id": "62d4d6b9e9c94bafd3e81911",
-    "title": "Florida woman imprisoned for massive Microsoft license fraud scheme",
-    "link": "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/",
-    "published": "2026-03-02T17:30:13+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels.. What: Florida woman imprisoned for massive Microsoft license fraud scheme. When: 2026-03-02T17:30:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A Florida woman was sentenced to 22 months in prison for running a massive years-long scheme to traffic thousands of stolen Microsoft Certificate of Authenticity (COA) labels.. ماذا: Florida woman imprisoned for massive Microsoft license fraud scheme. متى: 2026-03-02T17:30:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/02/12/microsoft.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/florida-woman-imprisoned-for-massive-microsoft-license-fraud-scheme/"
-    ]
-  },
-  {
-    "id": "1421506e94265246973e1239",
-    "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
-    "link": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
-    "published": "2026-03-02T17:08:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.. What: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.. When: 2026-03-02T17:08:00+00:00. How: The vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.. ماذا: Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.. متى: 2026-03-02T17:08:00+00:00. كيف: The vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-0628"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html"
-    ]
-  },
-  {
-    "id": "b945979ce4a38d267f61b1fd",
-    "title": "What is Aliro? Everything you need to know about the new smart home standard for locks",
-    "link": "https://www.zdnet.com/article/what-is-aliro-smart-home/",
-    "published": "2026-03-02T17:04:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: What is Aliro? Everything you need to know about the new smart home standard for locks. What: What is Aliro? Everything you need to know about the new smart home standard for locks. When: 2026-03-02T17:04:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: What is Aliro? Everything you need to know about the new smart home standard for locks. ماذا: What is Aliro? Everything you need to know about the new smart home standard for locks. متى: 2026-03-02T17:04:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5f9aebc220426dbb37823eae56ed61e1766f7a92/2025/08/25/ba7f9237-41e5-4240-a693-edb9be296376/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-is-aliro-smart-home/"
-    ]
-  },
-  {
-    "id": "3d54367f313b7845b17b40d9",
-    "title": "Got an old PC? Omega Linux can make it feel new again - here's how",
-    "link": "https://www.zdnet.com/article/omega-linux-is-one-of-the-rare-lightweight-arch-based-distributions-and-its-the-perfect-way-to-revive-those-old-machines/",
-    "published": "2026-03-02T17:02:28+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Got an old PC? Omega Linux can make it feel new again - here's how. What: Got an old PC? Omega Linux can make it feel new again - here's how. When: 2026-03-02T17:02:28+00:00. How: If you're looking for a distribution for an aging machine and you want to go with something other than a Ubuntu-based distribution, walk through the Arch with Omega. Action: See Arabic action below.",
-    "summary_ar": "من: Got an old PC? Omega Linux can make it feel new again - here's how. ماذا: Got an old PC? Omega Linux can make it feel new again - here's how. متى: 2026-03-02T17:02:28+00:00. كيف: If you're looking for a distribution for an aging machine and you want to go with something other than a Ubuntu-based distribution, walk through the Arch with Omega.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9e0aba7ad432f539ceaa916a9961abf26f36e48d/2026/03/02/d9ccd1ca-4f03-4d8e-8165-271a6a33d036/omegahero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/omega-linux-is-one-of-the-rare-lightweight-arch-based-distributions-and-its-the-perfect-way-to-revive-those-old-machines/"
-    ]
-  },
-  {
-    "id": "53acdbfb71193bbb6c34cbaf",
-    "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
-    "link": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
-    "published": "2026-03-02T16:52:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.. What: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.. When: 2026-03-02T16:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.. ماذا: Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.. متى: 2026-03-02T16:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7UWgA_nVAo80v0LRW4e9HTMYUIiEebPJv-EX7ssG1EVxwD-_hlvqqVzQ7Eb4mA9FWWW1U2WYmA8JPnPhyphenhyphenBWaCgFcyeEzcr0QhDRoUsPYgMqB7Ddt2_vEzEYMJj0w9Q9lb2nf12s_FoXDpql2BbxlpCo1oplXSzGjLFmqAsoW_Ix7CufTx5LiWrepwal8/s1600/chrome.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/google-develops-merkle-tree.html"
-    ]
-  },
-  {
-    "id": "588ef00801bf3fd2418794c8",
-    "title": "I saw the Nothing Phone 4a in every color at MWC - and these two are my favorite",
-    "link": "https://www.zdnet.com/article/nothing-phone-4a-colors-first-look/",
-    "published": "2026-03-02T16:34:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I saw the Nothing Phone 4a in every color at MWC - and these two are my favorite. What: I saw the Nothing Phone 4a in every color at MWC - and these two are my favorite. When: 2026-03-02T16:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I saw the Nothing Phone 4a in every color at MWC - and these two are my favorite. ماذا: I saw the Nothing Phone 4a in every color at MWC - and these two are my favorite. متى: 2026-03-02T16:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c6e5f00c7cc7a339365db895d4e49bfac30b87fa/2026/03/02/4c1f7b9d-c6e5-4b41-889e-66df28316a09/dsc09630.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/nothing-phone-4a-colors-first-look/"
-    ]
-  },
-  {
-    "id": "a7f36f24f7a4fecdf950c425",
-    "title": "Chrome Unveils Plan For Quantum-Safe HTTPS Certificates",
-    "link": "https://www.infosecurity-magazine.com/news/chrome-quantum-safe-https/",
-    "published": "2026-03-02T16:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Google Chrome initiates quantum-resistant measures via Merkle Tree Certificates to secure HTTPS Chrome Unveils Plan For Quantum-Safe HTTPS Certificates. What: Chrome Unveils Plan For Quantum-Safe HTTPS Certificates. When: 2026-03-02T16:15:00+00:00. How: Google Chrome initiates quantum-resistant measures via Merkle Tree Certificates to secure HTTPS Chrome Unveils Plan For Quantum-Safe HTTPS Certificates Action: See Arabic action below.",
-    "summary_ar": "من: Google Chrome initiates quantum-resistant measures via Merkle Tree Certificates to secure HTTPS Chrome Unveils Plan For Quantum-Safe HTTPS Certificates. ماذا: Chrome Unveils Plan For Quantum-Safe HTTPS Certificates. متى: 2026-03-02T16:15:00+00:00. كيف: Google Chrome initiates quantum-resistant measures via Merkle Tree Certificates to secure HTTPS Chrome Unveils Plan For Quantum-Safe HTTPS Certificates. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/bd070b36-4922-4581-b7c6-e4426c30de6e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/chrome-quantum-safe-https/"
-    ]
-  },
-  {
-    "id": "a17b63b1cd4f4e58c87b33fc",
-    "title": "UK warns of Iranian cyberattack risks amid Middle-East conflict",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/",
-    "published": "2026-03-02T15:54:33+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: UK warns of Iranian cyberattack risks amid Middle-East conflict. What: UK warns of Iranian cyberattack risks amid Middle-East conflict. When: 2026-03-02T15:54:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UK warns of Iranian cyberattack risks amid Middle-East conflict. ماذا: UK warns of Iranian cyberattack risks amid Middle-East conflict. متى: 2026-03-02T15:54:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/05/UK-Union-Jack-flag.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/uk-warns-of-iranian-cyberattack-risks-amid-middle-east-conflict/"
-    ]
-  },
-  {
-    "id": "0bfa92829932e4a963651599",
-    "title": "Expect Iran to Launch Cyber-Attacks Globally, Warns Google Head of Threat Intel",
-    "link": "https://www.infosecurity-magazine.com/news/iran-cyber-attacks-global-google/",
-    "published": "2026-03-02T15:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: John Hultquist suggests “aggressive” Iranian cyber attackers will target the US and its Gulf allies with plausibly deniable ransomware attacks, hacktivist campaigns and more Expect Iran to Launch Cyber-Attacks Globally, Warns Google Head of Threat Intel. What: Expect Iran to Launch Cyber-Attacks Globally, Warns Google Head of Threat Intel. When: 2026-03-02T15:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: John Hultquist suggests “aggressive” Iranian cyber attackers will target the US and its Gulf allies with plausibly deniable ransomware attacks, hacktivist campaigns and more Expect Iran to Launch Cyber-Attacks Globally, Warns Google Head of Threat Intel. ماذا: Expect Iran to Launch Cyber-Attacks Globally, Warns Google Head of Threat Intel. متى: 2026-03-02T15:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/d26e10b1-d6dd-43d9-98d5-0e6669f66a24.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/iran-cyber-attacks-global-google/"
-    ]
-  },
-  {
-    "id": "fd53b104a00dc5600b89f01f",
-    "title": "Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant",
-    "link": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
-    "published": "2026-03-02T15:26:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant. What: Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant. When: 2026-03-02T15:26:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant. ماذا: Vulnerability Allowed Hijacking Chrome’s Gemini Live AI Assistant. متى: 2026-03-02T15:26:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/"
-    ]
-  },
-  {
-    "id": "7cde22561ee20c4e23d076a5",
-    "title": "Own a business? Save on TurboTax Expert Assist Business right now - here's how",
-    "link": "https://www.zdnet.com/article/turbotax-expert-assist-business-deal/",
-    "published": "2026-03-02T15:19:10+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Own a business? Save on TurboTax Expert Assist Business right now - here's how. What: Own a business? Save on TurboTax Expert Assist Business right now - here's how. When: 2026-03-02T15:19:10+00:00. How: Small business owners can get expert tax assistance or hand off their taxes to a professional for a discount through TurboTax. Action: See Arabic action below.",
-    "summary_ar": "من: Own a business? Save on TurboTax Expert Assist Business right now - here's how. ماذا: Own a business? Save on TurboTax Expert Assist Business right now - here's how. متى: 2026-03-02T15:19:10+00:00. كيف: Small business owners can get expert tax assistance or hand off their taxes to a professional for a discount through TurboTax.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2e1cce39cb9a2cbcff6252131e4cf5daba84eadd/2026/03/02/864d495e-3fd4-4d78-974c-109cb6bb1b9a/untitled-design-2026-03-02t094910-337.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/turbotax-expert-assist-business-deal/"
-    ]
-  },
-  {
-    "id": "91b303a86843ee380eaa1c1a",
-    "title": "Most solar power banks I've tested were gimmicks - this one is the real deal",
-    "link": "https://www.zdnet.com/article/toughtested-roc16-solar-powered-power-bank/",
-    "published": "2026-03-02T15:18:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Most solar power banks I've tested were gimmicks - this one is the real deal. What: Most solar power banks I've tested were gimmicks - this one is the real deal. When: 2026-03-02T15:18:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Most solar power banks I've tested were gimmicks - this one is the real deal. ماذا: Most solar power banks I've tested were gimmicks - this one is the real deal. متى: 2026-03-02T15:18:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/78865f7512edd66d50ca126d5b76a8138e5963a4/2026/03/01/b458fe2c-847e-4b5b-85b8-cc072f9db0fb/img-2665.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/toughtested-roc16-solar-powered-power-bank/"
-    ]
-  },
-  {
-    "id": "3bd834e89d4342cd449dd311",
-    "title": "The iPhone 17e is here: 6 ways Apple just upgraded its cheapest phone",
-    "link": "https://www.zdnet.com/article/iphone-17e-price-features-release-date/",
-    "published": "2026-03-02T15:12:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Here is everything you need to know about Apple's newest and cheapest iPhone 17 model.. What: The iPhone 17e is here: 6 ways Apple just upgraded its cheapest phone. When: 2026-03-02T15:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Here is everything you need to know about Apple's newest and cheapest iPhone 17 model.. ماذا: The iPhone 17e is here: 6 ways Apple just upgraded its cheapest phone. متى: 2026-03-02T15:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5c286821deff391e4c45dfe91356f6f6d5534c6f/2026/03/02/4b23502b-db9d-4435-a35b-d92712604180/14.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/iphone-17e-price-features-release-date/",
-      "https://www.zdnet.com/article/iphone-17-e-price-features-release-date/"
-    ]
-  },
-  {
-    "id": "175f0522c921aed4d004362a",
-    "title": "How Deepfakes and Injection Attacks Are Breaking Identity Verification",
-    "link": "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/",
-    "published": "2026-03-02T15:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: How Deepfakes and Injection Attacks Are Breaking Identity Verification. What: How Deepfakes and Injection Attacks Are Breaking Identity Verification. When: 2026-03-02T15:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How Deepfakes and Injection Attacks Are Breaking Identity Verification. ماذا: How Deepfakes and Injection Attacks Are Breaking Identity Verification. متى: 2026-03-02T15:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/02/28/Deepsight-hero.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/how-deepfakes-and-injection-attacks-are-breaking-identity-verification/"
-    ]
-  },
-  {
-    "id": "da0ffe1bc693695e94468a65",
-    "title": "Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity",
-    "link": "https://www.infosecurity-magazine.com/news/middle-east-conflict-surge-global/",
-    "published": "2026-03-02T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity. What: Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity. When: 2026-03-02T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity. ماذا: Hybrid Middle East Conflict Triggers Surge in Global Cyber Activity. متى: 2026-03-02T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/96be5509-274c-4632-b266-daf4db35b348.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/middle-east-conflict-surge-global/"
-    ]
-  },
-  {
-    "id": "48d59cab77a5c18cb210bdec",
-    "title": "Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model",
-    "link": "https://www.zdnet.com/article/new-ipad-air-m4-chip/",
-    "published": "2026-03-02T14:58:04+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model. What: Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model. When: 2026-03-02T14:58:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model. ماذا: Apple's new M4 iPad Air is here - and it's twice as fast as your old M1 model. متى: 2026-03-02T14:58:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8c8cbc04f2b0fa31f0e32988089c434e4cf72c20/2026/03/02/4b50ad0c-0cf2-4297-abbf-f12b3b0867e5/ipad-air-m4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/new-ipad-air-m4-chip/"
-    ]
-  },
-  {
-    "id": "412b5084af2b173a6b1a9343",
-    "title": "I test power banks for a living - this is the thinnest Qi2 charger I've tried",
-    "link": "https://www.zdnet.com/article/bmx-solidsafe-air-qi2-power-bank-review/",
-    "published": "2026-03-02T14:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I test power banks for a living - this is the thinnest Qi2 charger I've tried. What: I test power banks for a living - this is the thinnest Qi2 charger I've tried. When: 2026-03-02T14:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I test power banks for a living - this is the thinnest Qi2 charger I've tried. ماذا: I test power banks for a living - this is the thinnest Qi2 charger I've tried. متى: 2026-03-02T14:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/560d33e73ecbf4353d2ad370760022c13f9d27d4/2026/02/28/130df1c5-a64b-4a4b-875a-b9ccf31b0747/491a7d0b-a4a5-4607-b020-e6ba073226f1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bmx-solidsafe-air-qi2-power-bank-review/"
-    ]
-  },
-  {
-    "id": "4272a3d9360e0124610f65d9",
-    "title": "Why scammers say nothing when they call - and how to respond safely",
-    "link": "https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/",
-    "published": "2026-03-02T14:34:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why scammers say nothing when they call - and how to respond safely. What: Why scammers say nothing when they call - and how to respond safely. When: 2026-03-02T14:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why scammers say nothing when they call - and how to respond safely. ماذا: Why scammers say nothing when they call - and how to respond safely. متى: 2026-03-02T14:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b92f4bc332c0dea9ab34d2ed97d33076ecc9c6e1/2026/03/02/397c2e24-ece3-4272-b69f-5af445f417ae/gettyimages-1622490804.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-scammers-call-you-say-nothing-how-to-respond-safely/"
-    ]
-  },
-  {
-    "id": "41efc7f1dace6d0002a0dd8c",
-    "title": "OpenClaw Vulnerability Allowed Websites to Hijack AI Agents",
-    "link": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/",
-    "published": "2026-03-02T14:26:03+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: OpenClaw Vulnerability Allowed Websites to Hijack AI Agents. What: OpenClaw Vulnerability Allowed Websites to Hijack AI Agents. When: 2026-03-02T14:26:03+00:00. How: Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent. Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw Vulnerability Allowed Websites to Hijack AI Agents. ماذا: OpenClaw Vulnerability Allowed Websites to Hijack AI Agents. متى: 2026-03-02T14:26:03+00:00. كيف: Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/"
-    ]
-  },
-  {
-    "id": "8556f96a3cfbb52724e6f40d",
-    "title": "Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools",
-    "link": "https://www.zdnet.com/article/job-seekers-and-ai-screening-how-to-stand-out/",
-    "published": "2026-03-02T14:18:24+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools. What: Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools. When: 2026-03-02T14:18:24+00:00. How: Companies are using AI to filter research results, and professionals are using AI to polish their resumes. Action: See Arabic action below.",
-    "summary_ar": "من: Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools. ماذا: Job hunting? 5 ways you can stand out in 2026 - and beat AI screening tools. متى: 2026-03-02T14:18:24+00:00. كيف: Companies are using AI to filter research results, and professionals are using AI to polish their resumes.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/400609d993e792f882f461c749a5c2bb8f8273bd/2026/03/02/d4e68ece-fe2f-4a71-9dec-7438507ea090/gettyimages-2249461550.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/job-seekers-and-ai-screening-how-to-stand-out/"
-    ]
-  },
-  {
-    "id": "819411c1601b63bd5145c009",
-    "title": "Memory scalpers hunt scarce DRAM with bot blitz",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/memory_scalpers_hunt_scarce_dram/",
-    "published": "2026-03-02T14:00:06+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Memory scalpers hunt scarce DRAM with bot blitz. What: Memory scalpers hunt scarce DRAM with bot blitz. When: 2026-03-02T14:00:06+00:00. How: We can remember it for you wholesale, and sell it back to you for big bucks Web scraping bots are increasing the pressure on the tech supply chain by scouring sites for DRAM, so their minders can snap up increasingly scarce inventory and resell it for a quick profit.… Memory scalpers hunt scarce DRAM with bot blitz Action: See Arabic action below.",
-    "summary_ar": "من: Memory scalpers hunt scarce DRAM with bot blitz. ماذا: Memory scalpers hunt scarce DRAM with bot blitz. متى: 2026-03-02T14:00:06+00:00. كيف: We can remember it for you wholesale, and sell it back to you for big bucks Web scraping bots are increasing the pressure on the tech supply chain by scouring sites for DRAM, so their minders can snap up increasingly scarce inventory and resell it for a quick profit.… Memory scalpers hunt scarce DRAM with bot blitz. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/08/02/shutterstock_memory_icon.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/02/memory_scalpers_hunt_scarce_dram/"
     ]
   }
 ]
