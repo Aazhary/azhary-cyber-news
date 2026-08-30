@@ -54,6 +54,42 @@
     ]
   },
   {
+    "id": "bd253305ed080cc5c00ed5db",
+    "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+    "published": "2026-08-30T14:30:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. What: Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. When: 2026-08-30T14:30:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. ماذا: Anthropic warns infostealer malware is hijacking Claude sessions to drain usage. متى: 2026-08-30T14:30:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
+    ]
+  },
+  {
+    "id": "f74dee09a577b1f6d8955bb3",
+    "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+    "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+    "published": "2026-08-30T14:17:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures.. What: Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures.. When: 2026-08-30T14:17:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures.. ماذا: Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures.. متى: 2026-08-30T14:17:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
+    ]
+  },
+  {
     "id": "73d0e8cb92e9dcad9a46c2bd",
     "title": "Turns out Brits would quite like their private messages to stay private",
     "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
@@ -156765,440 +156801,6 @@
     "image": "https://regmedia.co.uk/2026/02/05/hijack_security.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/03/03/turns_out_most_cybercriminals_are/"
-    ]
-  },
-  {
-    "id": "2b8439aafb4afe5f5b7f1a30",
-    "title": "Compromised Site Management Panels are a Hot Item in Cybercrime Markets",
-    "link": "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/",
-    "published": "2026-03-03T15:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Compromised Site Management Panels are a Hot Item in Cybercrime Markets. What: Compromised Site Management Panels are a Hot Item in Cybercrime Markets. When: 2026-03-03T15:01:11+00:00. How: Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure. Action: See Arabic action below.",
-    "summary_ar": "من: Compromised Site Management Panels are a Hot Item in Cybercrime Markets. ماذا: Compromised Site Management Panels are a Hot Item in Cybercrime Markets. متى: 2026-03-03T15:01:11+00:00. كيف: Compromised cPanel credentials are being sold in bulk across underground channels as plug-and-play phishing and scam infrastructure.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/01/futuristic-management-panel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/"
-    ]
-  },
-  {
-    "id": "31c36351b22c723366e00aeb",
-    "title": "Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion",
-    "link": "https://www.infosecurity-magazine.com/news/iranian-crypto-leaked-database/",
-    "published": "2026-03-03T14:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion. What: Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion. When: 2026-03-03T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion. ماذا: Leaked Database Sheds Light on Iranian Crypto Sanctions Evasion. متى: 2026-03-03T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/6f981dc8-0d2f-4108-b519-cd7ef6d7b843.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/iranian-crypto-leaked-database/"
-    ]
-  },
-  {
-    "id": "7d49fba7473792e9c78618f6",
-    "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-    "link": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-    "published": "2026-03-03T14:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow. What: Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow. When: 2026-03-03T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow. ماذا: Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow. متى: 2026-03-03T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html"
-    ]
-  },
-  {
-    "id": "4dc0f31409d41e73503a9628",
-    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-    "link": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-    "published": "2026-03-03T14:29:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.. What: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.. When: 2026-03-03T14:29:00+00:00. How: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks. Action: See Arabic action below.",
-    "summary_ar": "من: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.. ماذا: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.. متى: 2026-03-03T14:29:00+00:00. كيف: The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html"
-    ]
-  },
-  {
-    "id": "c230f50ef5d12e273d448dd1",
-    "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
-    "published": "2026-03-03T14:01:09+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite. What: Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite. When: 2026-03-03T14:01:09+00:00. How: AI browsing agent left local files open for the taking If you wanted to steal local files from someone using Perplexity's Comet browser, until last month you could just schedule the theft by sending your victim a calendar event.… Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite Action: See Arabic action below.",
-    "summary_ar": "من: Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite. ماذا: Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite. متى: 2026-03-03T14:01:09+00:00. كيف: AI browsing agent left local files open for the taking If you wanted to steal local files from someone using Perplexity's Comet browser, until last month you could just schedule the theft by sending your victim a calendar event.… Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/06/01/injection_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/"
-    ]
-  },
-  {
-    "id": "6719ce4f75133e6ae8d3d323",
-    "title": "Half of US CISOs Work the Equivalent of a Six-Day Week",
-    "link": "https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/",
-    "published": "2026-03-03T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Half of US CISOs Work the Equivalent of a Six-Day Week. What: Half of US CISOs Work the Equivalent of a Six-Day Week. When: 2026-03-03T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Half of US CISOs Work the Equivalent of a Six-Day Week. ماذا: Half of US CISOs Work the Equivalent of a Six-Day Week. متى: 2026-03-03T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f7071bce-589f-4866-a2f1-d124090cbf7b.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/half-us-cisos-work-equivalent/"
-    ]
-  },
-  {
-    "id": "7f1b9c159cf886d4f621e236",
-    "title": "Quantum Decryption of RSA Is Much Closer Than Expected",
-    "link": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
-    "published": "2026-03-03T14:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Quantum Decryption of RSA Is Much Closer Than Expected. What: A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.. When: 2026-03-03T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Quantum Decryption of RSA Is Much Closer Than Expected. ماذا: A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.. متى: 2026-03-03T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/"
-    ]
-  },
-  {
-    "id": "f565bba516c68de1b4f7c31a",
-    "title": "New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security",
-    "link": "https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/",
-    "published": "2026-03-03T13:49:53+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security. What: New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security. When: 2026-03-03T13:49:53+00:00. How: Researchers have uncovered a Wi-Fi vulnerability that allows nearby attackers to intercept sensitive data and execute machine-in-the-middle attacks against connected devices. Action: See Arabic action below.",
-    "summary_ar": "من: New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security. ماذا: New ‘AirSnitch’ Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security. متى: 2026-03-03T13:49:53+00:00. كيف: Researchers have uncovered a Wi-Fi vulnerability that allows nearby attackers to intercept sensitive data and execute machine-in-the-middle attacks against connected devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/"
-    ]
-  },
-  {
-    "id": "e07fb9343694ea889fe081b9",
-    "title": "1.2 Million Affected by University of Hawaii Cancer Center Data Breach",
-    "link": "https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/",
-    "published": "2026-03-03T13:34:16+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 1.2 Million Affected by University of Hawaii Cancer Center Data Breach. What: 1.2 Million Affected by University of Hawaii Cancer Center Data Breach. When: 2026-03-03T13:34:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 1.2 Million Affected by University of Hawaii Cancer Center Data Breach. ماذا: 1.2 Million Affected by University of Hawaii Cancer Center Data Breach. متى: 2026-03-03T13:34:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/",
-      "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
-      "https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/"
-    ]
-  },
-  {
-    "id": "21409bb431712e24413617c0",
-    "title": "I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect",
-    "link": "https://www.zdnet.com/article/shark-uv-reveal-robot-vacuum-mop-review/",
-    "published": "2026-03-03T13:30:12+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect. What: I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect. When: 2026-03-03T13:30:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect. ماذا: I tested Shark's new robot vacuum and mop - and only one thing wasn't perfect. متى: 2026-03-03T13:30:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/33cb46715525e1eb692a2710bd893ed752636dc4/2026/03/02/d0fd9081-992b-4b0f-bc07-23dfe50739db/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/shark-uv-reveal-robot-vacuum-mop-review/"
-    ]
-  },
-  {
-    "id": "42f41a29c1dd72b877b70545",
-    "title": "AI Agent Overload: How to Solve the Workload Identity Crisis",
-    "link": "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis",
-    "published": "2026-03-03T12:57:19+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: AI Agent Overload: How to Solve the Workload Identity Crisis. What: AI Agent Overload: How to Solve the Workload Identity Crisis. When: 2026-03-03T12:57:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Agent Overload: How to Solve the Workload Identity Crisis. ماذا: AI Agent Overload: How to Solve the Workload Identity Crisis. متى: 2026-03-03T12:57:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis"
-    ]
-  },
-  {
-    "id": "765a82d945e6f4fa8381e59c",
-    "title": "Android Update Patches Exploited Qualcomm Zero-Day",
-    "link": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
-    "published": "2026-03-03T12:41:16+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Android Update Patches Exploited Qualcomm Zero-Day. What: The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek .. When: 2026-03-03T12:41:16+00:00. How: The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Android Update Patches Exploited Qualcomm Zero-Day. ماذا: The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek .. متى: 2026-03-03T12:41:16+00:00. كيف: The post Android Update Patches Exploited Qualcomm Zero-Day appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/"
-    ]
-  },
-  {
-    "id": "71bce302136d37c67fb524a3",
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "published": "2026-03-03T12:30:24+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: LLMs can unmask pseudonymous users at scale with surprising accuracy. What: LLMs can unmask pseudonymous users at scale with surprising accuracy. When: 2026-03-03T12:30:24+00:00. How: Burner accounts on social media sites can increasingly be analyzed to identify the pseudonymous users who post to them using AI in research that has far-reaching consequences for privacy on the Internet, researchers said. Action: See Arabic action below.",
-    "summary_ar": "من: LLMs can unmask pseudonymous users at scale with surprising accuracy. ماذا: LLMs can unmask pseudonymous users at scale with surprising accuracy. متى: 2026-03-03T12:30:24+00:00. كيف: Burner accounts on social media sites can increasingly be analyzed to identify the pseudonymous users who post to them using AI in research that has far-reaching consequences for privacy on the Internet, researchers said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
-    ]
-  },
-  {
-    "id": "6dbcb08ee4504137a38c9f56",
-    "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
-    "link": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
-    "published": "2026-03-03T12:25:28+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low. What: Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low. When: 2026-03-03T12:25:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low. ماذا: Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low. متى: 2026-03-03T12:25:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/"
-    ]
-  },
-  {
-    "id": "6dcd5d239a6496604cb1756b",
-    "title": "Amazon: Drone strikes damaged AWS data centers in Middle East",
-    "link": "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/",
-    "published": "2026-03-03T11:44:44+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services.. What: Amazon: Drone strikes damaged AWS data centers in Middle East. When: 2026-03-03T11:44:44+00:00. How: Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services.. ماذا: Amazon: Drone strikes damaged AWS data centers in Middle East. متى: 2026-03-03T11:44:44+00:00. كيف: Amazon has confirmed that three Amazon Web Services (AWS) data centers in the United Arab Emirates (UAE) and one in Bahrain have been damaged by drone strikes, causing an extensive outage that is still affecting dozens of cloud computing services.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Amazon_AWS.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/"
-    ]
-  },
-  {
-    "id": "b7d4c6fdc4a6433c7f28216b",
-    "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
-    "published": "2026-03-03T11:39:09+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: High-severity flaw let malicious add-ons access system via browser's embedded AI feature Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.… Chrome Gemini panel became privilege escalator for rogue extensions. What: Chrome Gemini panel became privilege escalator for rogue extensions. When: 2026-03-03T11:39:09+00:00. How: High-severity flaw let malicious add-ons access system via browser's embedded AI feature Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.… Chrome Gemini panel became privilege escalator for rogue extensions Action: See Arabic action below.",
-    "summary_ar": "من: High-severity flaw let malicious add-ons access system via browser's embedded AI feature Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.… Chrome Gemini panel became privilege escalator for rogue extensions. ماذا: Chrome Gemini panel became privilege escalator for rogue extensions. متى: 2026-03-03T11:39:09+00:00. كيف: High-severity flaw let malicious add-ons access system via browser's embedded AI feature Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.… Chrome Gemini panel became privilege escalator for rogue extensions. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/09/18/chromegemini.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/"
-    ]
-  },
-  {
-    "id": "b945b25935b128bf756b96ce",
-    "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks",
-    "link": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
-    "published": "2026-03-03T11:30:31+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks. What: As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks. When: 2026-03-03T11:30:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks. ماذا: As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks. متى: 2026-03-03T11:30:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks"
-    ]
-  },
-  {
-    "id": "b4123d87dd227bcee21c5a82",
-    "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-    "link": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-    "published": "2026-03-03T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged. What: AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged. When: 2026-03-03T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged. ماذا: AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged. متى: 2026-03-03T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html"
-    ]
-  },
-  {
-    "id": "a2a4288c7e9590630fb2ed37",
-    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-    "link": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-    "published": "2026-03-03T11:10:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication. What: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.. When: 2026-03-03T11:10:00+00:00. How: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections. Action: See Arabic action below.",
-    "summary_ar": "من: Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication. ماذا: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.. متى: 2026-03-03T11:10:00+00:00. كيف: Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html"
-    ]
-  },
-  {
-    "id": "f254a7dabb65b32d1738afec",
-    "title": "Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild",
-    "link": "https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/",
-    "published": "2026-03-03T11:00:30+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild. What: Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild. When: 2026-03-03T11:00:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild. ماذا: Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild. متى: 2026-03-03T11:00:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/04_Security-Technology_Category_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/"
-    ]
-  },
-  {
-    "id": "dec249bff222aab84c9ce0c5",
-    "title": "Cybercriminals swipe 15.8M medical records from French doctors ministry",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/",
-    "published": "2026-03-03T11:00:07+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Cybercriminals swipe 15.8M medical records from French doctors ministry. What: Cybercriminals swipe 15.8M medical records from French doctors ministry. When: 2026-03-03T11:00:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybercriminals swipe 15.8M medical records from French doctors ministry. ماذا: Cybercriminals swipe 15.8M medical records from French doctors ministry. متى: 2026-03-03T11:00:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/04/30/doctor_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/"
-    ]
-  },
-  {
-    "id": "ccdbc0c09a87f71205a7d712",
-    "title": "Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks",
-    "link": "https://www.infosecurity-magazine.com/news/shadow-layer-organizations-supply/",
-    "published": "2026-03-03T11:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks. What: Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks. When: 2026-03-03T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks. ماذا: Huge “Shadow Layer” of Organizations Hit by Supply Chain Attacks. متى: 2026-03-03T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/e87cc9d4-9b0b-4dab-bb70-8eb00faa770c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/shadow-layer-organizations-supply/"
-    ]
-  },
-  {
-    "id": "aaae729ccfa83c4763611019",
-    "title": "Star Citizen game dev discloses breach affecting user data",
-    "link": "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/",
-    "published": "2026-03-03T10:50:26+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Star Citizen game dev discloses breach affecting user data. What: Star Citizen game dev discloses breach affecting user data. When: 2026-03-03T10:50:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Star Citizen game dev discloses breach affecting user data. ماذا: Star Citizen game dev discloses breach affecting user data. متى: 2026-03-03T10:50:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Cloud_Imperium_Games_UK_offices.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/star-citizen-game-dev-discloses-breach-affecting-user-data/"
-    ]
-  },
-  {
-    "id": "cc63236b28ed054432f7f21e",
-    "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
-    "link": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
-    "published": "2026-03-03T10:43:20+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise. What: Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.. When: 2026-03-03T10:43:20+00:00. How: Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data. Action: See Arabic action below.",
-    "summary_ar": "من: Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise. ماذا: Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.. متى: 2026-03-03T10:43:20+00:00. كيف: Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/"
     ]
   }
 ]
