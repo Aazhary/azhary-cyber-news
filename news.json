@@ -54,6 +54,42 @@
     ]
   },
   {
+    "id": "73d0e8cb92e9dcad9a46c2bd",
+    "title": "Turns out Brits would quite like their private messages to stay private",
+    "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+    "published": "2026-08-30T08:34:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: That fight became particularly public when Apple withdrew Advanced Data Protection from UK users after receiving a secret Technical Capability Notice (TCN) under the Investigatory Powers Act.. What: Apple challenged the order, and while the US government later said Britain had withdrawn its demand for access to Americans' encrypted data, reports have since suggested another TCN was issued focusing on British users.. When: 2026-08-30T08:34:00+00:00. How: New polling commissioned by the Center for Democracy & Technology (CDT) found that 93 percent of British adults believe they have a right to private conversations online, while 89 percent think nobody should be able to access their personal messages without a court order. Action: See Arabic action below.",
+    "summary_ar": "من: That fight became particularly public when Apple withdrew Advanced Data Protection from UK users after receiving a secret Technical Capability Notice (TCN) under the Investigatory Powers Act.. ماذا: Apple challenged the order, and while the US government later said Britain had withdrawn its demand for access to Americans' encrypted data, reports have since suggested another TCN was issued focusing on British users.. متى: 2026-08-30T08:34:00+00:00. كيف: New polling commissioned by the Center for Democracy & Technology (CDT) found that 93 percent of British adults believe they have a right to private conversations online, while 89 percent think nobody should be able to access their personal messages without a court order.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/255047.jpg?imageId=255047&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994"
+    ]
+  },
+  {
+    "id": "53af0197de88cefd58e4b071",
+    "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+    "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+    "published": "2026-08-30T07:36:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.. What: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.. When: 2026-08-30T07:36:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.. ماذا: Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.. متى: 2026-08-30T07:36:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html"
+    ]
+  },
+  {
     "id": "864f8deb3fbb3631c6fd001c",
     "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
@@ -157163,152 +157199,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/"
-    ]
-  },
-  {
-    "id": "37a963e4fd00d62c9c6b4384",
-    "title": "Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign",
-    "link": "https://www.infosecurity-magazine.com/news/iran-cyber-threat-actor-iraq/",
-    "published": "2026-03-03T10:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign. What: Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign. When: 2026-03-03T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign. ماذا: Iranian Cyber Threat Actor Targets Iraqi Government Officials in AI-Powered Campaign. متى: 2026-03-03T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/9a4a9390-90ae-4d0f-b05b-6095ef8d8b25.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/iran-cyber-threat-actor-iraq/"
-    ]
-  },
-  {
-    "id": "99d33767984d2138ceb8b10f",
-    "title": "UH Cancer Center data breach affects nearly 1.2 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/",
-    "published": "2026-03-03T09:48:51+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: UH Cancer Center data breach affects nearly 1.2 million people. What: UH Cancer Center data breach affects nearly 1.2 million people. When: 2026-03-03T09:48:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UH Cancer Center data breach affects nearly 1.2 million people. ماذا: UH Cancer Center data breach affects nearly 1.2 million people. متى: 2026-03-03T09:48:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/01/12/UH_Cancer_Center.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/university-of-hawaii-cancer-center-ransomware-attack-affects-nearly-12-million-people/"
-    ]
-  },
-  {
-    "id": "e7e69fb8e97377162a35f300",
-    "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
-    "link": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
-    "published": "2026-03-03T09:40:03+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Researchers Uncover Method to Track Cars via Tire Sensors. What: Researchers Uncover Method to Track Cars via Tire Sensors. When: 2026-03-03T09:40:03+00:00. How: Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers Uncover Method to Track Cars via Tire Sensors. ماذا: Researchers Uncover Method to Track Cars via Tire Sensors. متى: 2026-03-03T09:40:03+00:00. كيف: Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/"
-    ]
-  },
-  {
-    "id": "92f0d92bfc11b7a428274e1b",
-    "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
-    "link": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
-    "published": "2026-03-03T09:20:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.. What: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.. When: 2026-03-03T09:20:00+00:00. How: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.. ماذا: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.. متى: 2026-03-03T09:20:00+00:00. كيف: Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html"
-    ]
-  },
-  {
-    "id": "c0c5db0160f09c5a51e74322",
-    "title": "Android gets patches for Qualcomm zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/",
-    "published": "2026-03-03T08:19:53+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component.. What: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component.. When: 2026-03-03T08:19:53+00:00. How: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component. Action: See Arabic action below.",
-    "summary_ar": "من: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component.. ماذا: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component.. متى: 2026-03-03T08:19:53+00:00. كيف: Google has released security updates to patch 129 Android security vulnerabilities, including an actively exploited zero-day flaw in a Qualcomm display component.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/03/Android-red.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-patches-android-zero-day-actively-exploited-in-attacks/"
-    ]
-  },
-  {
-    "id": "33a4aca60a6326089820f659",
-    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
-    "link": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
-    "published": "2026-03-03T07:08:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.. What: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.. When: 2026-03-03T07:08:00+00:00. How: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild. Action: See Arabic action below.",
-    "summary_ar": "من: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.. ماذا: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.. متى: 2026-03-03T07:08:00+00:00. كيف: Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-21385"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html"
-    ]
-  },
-  {
-    "id": "a797adeb46f4d48accb01613",
-    "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
-    "link": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
-    "published": "2026-03-03T06:53:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains. What: SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains. When: 2026-03-03T06:53:00+00:00. How: It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains Action: See Arabic action below.",
-    "summary_ar": "من: SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains. ماذا: SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains. متى: 2026-03-03T06:53:00+00:00. كيف: It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html"
-    ]
-  },
-  {
-    "id": "03c3bbd348a38656abe10987",
-    "title": "Gamers furious as indie studio Cloud Imperium quietly admits to data breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
-    "published": "2026-03-03T06:24:19+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Gamers furious as indie studio Cloud Imperium quietly admits to data breach. What: Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well Gamers are ready to unleash their mightiest virtual weapons and point them at independent games studio Cloud Imperium, after it sat on news of a data breach for weeks and then announced it without fanfare.… Gamers furious as indie studio Cloud Imperium quietly admits to data breach. When: 2026-03-03T06:24:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Gamers furious as indie studio Cloud Imperium quietly admits to data breach. ماذا: Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well Gamers are ready to unleash their mightiest virtual weapons and point them at independent games studio Cloud Imperium, after it sat on news of a data breach for weeks and then announced it without fanfare.… Gamers furious as indie studio Cloud Imperium quietly admits to data breach. متى: 2026-03-03T06:24:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/02/11/shutterstock_game_over.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/"
     ]
   }
 ]
