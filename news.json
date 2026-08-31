@@ -54,6 +54,27 @@
     ]
   },
   {
+    "id": "299bcfebb942fe309ed77854",
+    "title": "More Details Emerge on Exploited PaperCut Vulnerabilities",
+    "link": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/",
+    "published": "2026-08-31T06:51:31+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: More Details Emerge on Exploited PaperCut Vulnerabilities. What: PaperCut has released a second emergency patch for the exploited vulnerabilities, which are now tracked as CVE-2026-82078 and CVE-2026-81578.. When: 2026-08-31T06:51:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: More Details Emerge on Exploited PaperCut Vulnerabilities. ماذا: PaperCut has released a second emergency patch for the exploited vulnerabilities, which are now tracked as CVE-2026-82078 and CVE-2026-81578.. متى: 2026-08-31T06:51:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-81578",
+      "CVE-2026-82078"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/PaperCut-print-management.jpeg",
+    "sources": [
+      "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/"
+    ]
+  },
+  {
     "id": "d70aaf525ff4e92179920c8c",
     "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
     "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
@@ -156144,154 +156165,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg",
     "sources": [
       "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html"
-    ]
-  },
-  {
-    "id": "680384d48d25f620f0c6b91a",
-    "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
-    "link": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
-    "published": "2026-03-04T07:24:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: VMware Aria Operations Vulnerability Exploited in the Wild. What: The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution.. When: 2026-03-04T07:24:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: VMware Aria Operations Vulnerability Exploited in the Wild. ماذا: The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution.. متى: 2026-03-04T07:24:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-22719"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/"
-    ]
-  },
-  {
-    "id": "aaec86f47f8df8dc95cdc7e8",
-    "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
-    "link": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
-    "published": "2026-03-04T04:35:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.. When: 2026-03-04T04:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.. متى: 2026-03-04T04:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-22719"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html"
-    ]
-  },
-  {
-    "id": "7ef4f2bdb1b49d7e74b183ed",
-    "title": "Is that message spam or real? This Android trick helps you ID the scams",
-    "link": "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/",
-    "published": "2026-03-04T03:00:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Is that message spam or real? This Android trick helps you ID the scams. What: Is that message spam or real? This Android trick helps you ID the scams. When: 2026-03-04T03:00:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is that message spam or real? This Android trick helps you ID the scams. ماذا: Is that message spam or real? This Android trick helps you ID the scams. متى: 2026-03-04T03:00:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e6e5dab6022586b67ef998380243dc5c7c672fbf/2026/02/18/051214dd-aebb-4e80-a104-e8b011996ef8/inside-googles-bid-to-make-ai-the-backbone-of-android-development.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-easily-check-whether-chats-or-messages-are-scams-on-android/"
-    ]
-  },
-  {
-    "id": "4711e2a53e8f2a33d92c0d21",
-    "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
-    "published": "2026-03-04T02:01:55+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Retains eight-weekly Extended Stable releases but warns fortnightly updates are the best way to stay safe Google will halve the time between releases of its Chrome browser to two weeks, across versions of the software for desktop operating systems, Android, and iOS.… Google feels the need for security speed, so will ship Chrome updates every two weeks. What: Google feels the need for security speed, so will ship Chrome updates every two weeks. When: 2026-03-04T02:01:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Retains eight-weekly Extended Stable releases but warns fortnightly updates are the best way to stay safe Google will halve the time between releases of its Chrome browser to two weeks, across versions of the software for desktop operating systems, Android, and iOS.… Google feels the need for security speed, so will ship Chrome updates every two weeks. ماذا: Google feels the need for security speed, so will ship Chrome updates every two weeks. متى: 2026-03-04T02:01:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/10/26/speed_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/"
-    ]
-  },
-  {
-    "id": "5d7dc9dbbe63ee1f3665be85",
-    "title": "Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts",
-    "link": "https://www.zdnet.com/article/bunsenlabs-carbon-lightweight-and-customizable-linux-distro/",
-    "published": "2026-03-04T02:00:40+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts. What: Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts. When: 2026-03-04T02:00:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts. ماذا: Love to customize your Linux desktop? This lightweight distro is great fun for newbies and experts. متى: 2026-03-04T02:00:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8396f64cec9adf384959e5b4ae7ff56c484fd78c/2026/03/03/5b011a72-15b4-4eba-9df3-d75910f34f68/carbonhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bunsenlabs-carbon-lightweight-and-customizable-linux-distro/"
-    ]
-  },
-  {
-    "id": "36618b3e14e21fbe06b97246",
-    "title": "Lenovo showed me its modular ThinkBook laptop, and I wish it wasn't just a concept",
-    "link": "https://www.zdnet.com/article/lenovo-modular-laptop-thinkbook-mwc-2026/",
-    "published": "2026-03-04T01:43:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Lenovo showed me its modular ThinkBook laptop, and I wish it wasn't just a concept. What: Lenovo showed me its modular ThinkBook laptop, and I wish it wasn't just a concept. When: 2026-03-04T01:43:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Lenovo showed me its modular ThinkBook laptop, and I wish it wasn't just a concept. ماذا: Lenovo showed me its modular ThinkBook laptop, and I wish it wasn't just a concept. متى: 2026-03-04T01:43:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e011f2eeb510bfb0992c554bd8ccef5a966e4c53/2026/02/28/849cc7ee-8263-486b-a9a7-d3fc55034242/dsc09299.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lenovo-modular-laptop-thinkbook-mwc-2026/"
-    ]
-  },
-  {
-    "id": "8280e756fdf888867dfd76ca",
-    "title": "Google Pixel 10a vs. Pixel 10: I compared the two midrange phones, and this model wins",
-    "link": "https://www.zdnet.com/article/google-pixel-10a-vs-pixel-10/",
-    "published": "2026-03-04T01:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Google Pixel 10a may not be the upgrade you expected, but it beats the more expensive Pixel 10 in key ways.. What: Google Pixel 10a vs. Pixel 10: I compared the two midrange phones, and this model wins. When: 2026-03-04T01:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Google Pixel 10a may not be the upgrade you expected, but it beats the more expensive Pixel 10 in key ways.. ماذا: Google Pixel 10a vs. Pixel 10: I compared the two midrange phones, and this model wins. متى: 2026-03-04T01:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8858fef723a37cc8f161fb995bea83d019276a15/2026/02/16/c9b027cc-531b-48cc-9db4-62f749ca41dd/dsc09338.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-pixel-10a-vs-pixel-10/"
-    ]
-  },
-  {
-    "id": "588ef00801bf3fd2418794c8",
-    "title": "I saw the Nothing Phone 4a in multiple colors at MWC - and these two got the most love",
-    "link": "https://www.zdnet.com/article/nothing-phone-4a-colors-first-look/",
-    "published": "2026-03-04T01:39:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I saw the Nothing Phone 4a in multiple colors at MWC - and these two got the most love. What: I saw the Nothing Phone 4a in multiple colors at MWC - and these two got the most love. When: 2026-03-04T01:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I saw the Nothing Phone 4a in multiple colors at MWC - and these two got the most love. ماذا: I saw the Nothing Phone 4a in multiple colors at MWC - and these two got the most love. متى: 2026-03-04T01:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a9e7454bc1d6dab08e10b83b554cb69ea3cac107/2026/03/02/92b609a6-7124-4492-a5e9-69d4d490012b/dsc09623.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/nothing-phone-4a-colors-first-look/"
     ]
   }
 ]
