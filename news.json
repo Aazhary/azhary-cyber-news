@@ -54,6 +54,120 @@
     ]
   },
   {
+    "id": "a0aed382f4580bb83c67a171",
+    "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+    "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "published": "2026-09-01T22:40:28+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: FBI Probes Service Selling 153M+ Drivers Licenses. What: Other records carry the source notation of “CAC,” which may refer to Common Access Cards, government issued identity cards that grant physical access to government buildings and secure rooms.. When: 2026-09-01T22:40:28+00:00. How: KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. Action: See Arabic action below.",
+    "summary_ar": "من: FBI Probes Service Selling 153M+ Drivers Licenses. ماذا: Other records carry the source notation of “CAC,” which may refer to Common Access Cards, government issued identity cards that grant physical access to government buildings and secure rooms.. متى: 2026-09-01T22:40:28+00:00. كيف: KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
+    ]
+  },
+  {
+    "id": "e19c626f619c01c72c278c02",
+    "title": "Another Artifactory CVE under attack by AI agents or humans",
+    "link": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+    "published": "2026-09-01T21:07:13+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: In July, OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting Artifactory zero-days, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet.. What: Security researchers reported that someone is exploiting CVE-2026-82329, a critical JFrog Artifactory authentication-bypass bug, just days after the vendor patched the 9.8-rated flaw.. When: 2026-09-01T21:07:13+00:00. How: In July, OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting Artifactory zero-days, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet. Action: See Arabic action below.",
+    "summary_ar": "من: In July, OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting Artifactory zero-days, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet.. ماذا: Security researchers reported that someone is exploiting CVE-2026-82329, a critical JFrog Artifactory authentication-bypass bug, just days after the vendor patched the 9.8-rated flaw.. متى: 2026-09-01T21:07:13+00:00. كيف: In July, OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting Artifactory zero-days, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-82329"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/230216.jpg?imageId=230216&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769"
+    ]
+  },
+  {
+    "id": "fabfffd6359517edd82b9094",
+    "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+    "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+    "published": "2026-09-01T21:05:53+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Attackers Pounce on Critical Artifactory Flaw Following Disclosure. What: Attackers Pounce on Critical Artifactory Flaw Following Disclosure. When: 2026-09-01T21:05:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Pounce on Critical Artifactory Flaw Following Disclosure. ماذا: Attackers Pounce on Critical Artifactory Flaw Following Disclosure. متى: 2026-09-01T21:05:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-82329"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte71738f751de1daa/6a97388d5d30863e09d86b97/jfrog-hapabapa-Getty-1273253225.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure"
+    ]
+  },
+  {
+    "id": "0b3c94682be31ccd6c2f9fd2",
+    "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
+    "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+    "published": "2026-09-01T21:03:19+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Stronger Security Drives Ransomware Groups to Recruit From Within. What: Stronger Security Drives Ransomware Groups to Recruit From Within. When: 2026-09-01T21:03:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Stronger Security Drives Ransomware Groups to Recruit From Within. ماذا: Stronger Security Drives Ransomware Groups to Recruit From Within. متى: 2026-09-01T21:03:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within"
+    ]
+  },
+  {
+    "id": "5c9005893cd3eebe4a9fed16",
+    "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+    "published": "2026-09-01T20:53:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers abuse Faronics Deploy admin tool to install ScreenConnect. What: Hackers abuse Faronics Deploy admin tool to install ScreenConnect. When: 2026-09-01T20:53:23+00:00. How: Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers abuse Faronics Deploy admin tool to install ScreenConnect. ماذا: Hackers abuse Faronics Deploy admin tool to install ScreenConnect. متى: 2026-09-01T20:53:23+00:00. كيف: Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/09/03/data-theft.jpeg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/"
+    ]
+  },
+  {
+    "id": "5c77fd06c4fa6a976ceff6ce",
+    "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+    "published": "2026-09-01T20:48:52+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Critical Langflow Flaw Exploited as Attacks on AI Platform Rise. What: Critical Langflow Flaw Exploited as Attacks on AI Platform Rise. When: 2026-09-01T20:48:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Langflow Flaw Exploited as Attacks on AI Platform Rise. ماذا: Critical Langflow Flaw Exploited as Attacks on AI Platform Rise. متى: 2026-09-01T20:48:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0768"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"
+    ]
+  },
+  {
     "id": "a35e64974ea94d640fc08a7a",
     "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
     "link": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
@@ -155436,168 +155550,6 @@
     "image": "https://www.zdnet.com/a/img/resize/894a4267272bfc05ca1324dd1aeb345bd3274504/2023/09/21/7a3c11da-ffa9-4213-807f-21452a3b4119/amazon-hq2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/is-amazon-down/"
-    ]
-  },
-  {
-    "id": "3daa8c02b97a82b8de6f410b",
-    "title": "Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/",
-    "published": "2026-03-05T22:37:34+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware.. What: Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware. When: 2026-03-05T22:37:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fake OpenClaw installers hosted in GitHub repositories and promoted by Microsoft Bing's AI-enhanced search feature instructed users to run commands that deployed information stealers and proxy malware.. ماذا: Bing AI promoted fake OpenClaw GitHub repo pushing info-stealing malware. متى: 2026-03-05T22:37:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/16/openclaw-header-image.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/bing-ai-promoted-fake-openclaw-github-repo-pushing-info-stealing-malware/"
-    ]
-  },
-  {
-    "id": "fe185e991ca1d8d0753a5dc4",
-    "title": "Is Amazon down? Why customers can't check out or add to cart - and Amazon's response",
-    "link": "https://www.zdnet.com/article/is-amazon-down/",
-    "published": "2026-03-05T22:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Is Amazon down? Why customers can't check out or add to cart - and Amazon's response. What: Is Amazon down? Why customers can't check out or add to cart - and Amazon's response. When: 2026-03-05T22:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is Amazon down? Why customers can't check out or add to cart - and Amazon's response. ماذا: Is Amazon down? Why customers can't check out or add to cart - and Amazon's response. متى: 2026-03-05T22:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/894a4267272bfc05ca1324dd1aeb345bd3274504/2023/09/21/7a3c11da-ffa9-4213-807f-21452a3b4119/amazon-hq2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/is-amazon-down/"
-    ]
-  },
-  {
-    "id": "40730dabce8b1a3a683b715c",
-    "title": "Beats Studio Pro headphones are over 40% off right now - and I can vouch for them",
-    "link": "https://www.zdnet.com/article/beats-studio-pro-review/",
-    "published": "2026-03-05T22:03:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The latest release from Beats is the perfect middle-ground headphones for Android and Apple users - especially when they're on sale.. What: Beats Studio Pro headphones are over 40% off right now - and I can vouch for them. When: 2026-03-05T22:03:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The latest release from Beats is the perfect middle-ground headphones for Android and Apple users - especially when they're on sale.. ماذا: Beats Studio Pro headphones are over 40% off right now - and I can vouch for them. متى: 2026-03-05T22:03:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2e7c4f79e19e4ae9f474eea92de7d2f17c5348d7/2023/07/26/915128ed-12dc-4111-940e-5eb204aea4e8/studioprobody.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/beats-studio-pro-review/"
-    ]
-  },
-  {
-    "id": "8785d7cfff7db48abffc35f0",
-    "title": "Nation-State Actor Embraces AI Malware Assembly Line",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line",
-    "published": "2026-03-05T21:56:07+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Nation-State Actor Embraces AI Malware Assembly Line. What: Nation-State Actor Embraces AI Malware Assembly Line. When: 2026-03-05T21:56:07+00:00. How: Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses. Action: See Arabic action below.",
-    "summary_ar": "من: Nation-State Actor Embraces AI Malware Assembly Line. ماذا: Nation-State Actor Embraces AI Malware Assembly Line. متى: 2026-03-05T21:56:07+00:00. كيف: Pakistan's APT36 threat group has begun using vibe-coding to churn out mediocre malware, but at a scale that could overwhelm defenses.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line"
-    ]
-  },
-  {
-    "id": "8902457ec409289092b9893c",
-    "title": "Get Disney+ and Hulu bundled for just $5 a month right now - here's how",
-    "link": "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/",
-    "published": "2026-03-05T21:49:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Get Disney+ and Hulu bundled for just $5 a month right now - here's how. What: Get Disney+ and Hulu bundled for just $5 a month right now - here's how. When: 2026-03-05T21:49:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Get Disney+ and Hulu bundled for just $5 a month right now - here's how. ماذا: Get Disney+ and Hulu bundled for just $5 a month right now - here's how. متى: 2026-03-05T21:49:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/60c5ead99ade05e563f649d4e104eee1b36849b8/2026/03/05/a7e916b8-d5e2-48c9-a513-2fbba83411c3/untitled-design-2026-03-05t163951-466.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/"
-    ]
-  },
-  {
-    "id": "5b59a249baaa7d27efde2b09",
-    "title": "iPhone 17e vs. iPhone 17: I compared both models to decide if the $200 price gap is worth it",
-    "link": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
-    "published": "2026-03-05T21:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's new iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?. What: iPhone 17e vs. iPhone 17: I compared both models to decide if the $200 price gap is worth it. When: 2026-03-05T21:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's new iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?. ماذا: iPhone 17e vs. iPhone 17: I compared both models to decide if the $200 price gap is worth it. متى: 2026-03-05T21:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/24be1fb0bbdf42675fc09d79d6ac6dd58df22607/2026/03/04/5d523de9-deec-46c7-a4a4-56b677591703/dsc09706.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/"
-    ]
-  },
-  {
-    "id": "df2234c674cfa2b5e556848a",
-    "title": "Your next Oura Ring might support voice and hand gesture controls - this acquisition is proof",
-    "link": "https://www.zdnet.com/article/oura-ring-doublepoint-acquisition-what-it-means-for-next-smart-ring/",
-    "published": "2026-03-05T21:25:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your next Oura Ring might support voice and hand gesture controls - this acquisition is proof. What: Your next Oura Ring might support voice and hand gesture controls - this acquisition is proof. When: 2026-03-05T21:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your next Oura Ring might support voice and hand gesture controls - this acquisition is proof. ماذا: Your next Oura Ring might support voice and hand gesture controls - this acquisition is proof. متى: 2026-03-05T21:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4b20375c29fc15931548edf6035f6581b778bcb4/2024/12/20/084df3fc-6883-49c9-8463-219606365a65/8ba0275c-e460-4d83-b8f3-900c5132693d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-doublepoint-acquisition-what-it-means-for-next-smart-ring/"
-    ]
-  },
-  {
-    "id": "20d7829d0db4e126ea0d7a58",
-    "title": "Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform",
-    "link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform",
-    "published": "2026-03-05T21:23:26+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform. What: Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform. When: 2026-03-05T21:23:26+00:00. How: The phishing-as-a-service platform was popular among cyber threat actors because of its ability to bypass multifactor authentication defenses. Action: See Arabic action below.",
-    "summary_ar": "من: Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform. ماذا: Tycoon 2FA Goes Boom as Europol, Vendors Bust Phishing Platform. متى: 2026-03-05T21:23:26+00:00. كيف: The phishing-as-a-service platform was popular among cyber threat actors because of its ability to bypass multifactor authentication defenses.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/tycoon-2fa-europol-vendors-bust-phishing-platform"
-    ]
-  },
-  {
-    "id": "71b72c4b8f60b9779aaa9b80",
-    "title": "Samsung Galaxy Book 6 Pro review: Why I'd buy this instead of the Ultra model",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-book6-pro-review/",
-    "published": "2026-03-05T21:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy Book 6 Pro review: Why I'd buy this instead of the Ultra model. What: Samsung Galaxy Book 6 Pro review: Why I'd buy this instead of the Ultra model. When: 2026-03-05T21:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy Book 6 Pro review: Why I'd buy this instead of the Ultra model. ماذا: Samsung Galaxy Book 6 Pro review: Why I'd buy this instead of the Ultra model. متى: 2026-03-05T21:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b780b3240174f70a86bfd83aa534430507d04b8a/2026/03/05/5e83ab3a-9bbb-4034-a95c-40168ba5a695/galaxy-book6-pro-image-12.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-book6-pro-review/"
     ]
   }
 ]
