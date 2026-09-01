@@ -54,6 +54,26 @@
     ]
   },
   {
+    "id": "55201139313a580aacc922f7",
+    "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+    "published": "2026-09-01T17:54:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Critical Langflow flaw exploited to steal OpenAI and AWS keys. What: [...] Critical Langflow flaw exploited to steal OpenAI and AWS keys. When: 2026-09-01T17:54:22+00:00. How: Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Critical Langflow flaw exploited to steal OpenAI and AWS keys. ماذا: [...] Critical Langflow flaw exploited to steal OpenAI and AWS keys. متى: 2026-09-01T17:54:22+00:00. كيف: Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0768"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Langflow.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/"
+    ]
+  },
+  {
     "id": "2a070fc640529238aa67978e",
     "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
@@ -535,6 +555,24 @@
     ]
   },
   {
+    "id": "dc312aa8625fa7770280371b",
+    "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
+    "published": "2026-09-01T04:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Falcon Guardian Defines the Next Generation of AI Security. What: CrowdStrike Falcon Guardian Defines the Next Generation of AI Security. When: 2026-09-01T04:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Falcon Guardian Defines the Next Generation of AI Security. ماذا: CrowdStrike Falcon Guardian Defines the Next Generation of AI Security. متى: 2026-09-01T04:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/"
+    ]
+  },
+  {
     "id": "d1451e55fbcfbb24c773556b",
     "title": "Healthcare cyberattacks hit pacemakers and millions of patient records",
     "link": "https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
@@ -565,7 +603,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte57f544bc451abd9/6a95e1e44e3e37aa8ed4fed0/claude_Thaspol_Sangsee_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f9e09d2a1c53673/6a97083643fb84d5c0cc2cc1/claude_Thaspol_Sangsee_shutterstock_REVISED_FOR_16_X_9_RATIO.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
     ]
@@ -1016,7 +1054,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
     "sources": [
       "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/"
     ]
@@ -155540,278 +155578,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/09/19/FBI.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/fbi-arrests-suspect-linked-to-46m-crypto-theft-from-us-marshals/"
-    ]
-  },
-  {
-    "id": "5c2b71dbd7522131f656c11c",
-    "title": "New GPT-5.4 clobbers humans on pro-level work in OpenAI's tests - by 83%",
-    "link": "https://www.zdnet.com/article/openai-gpt-5-4/",
-    "published": "2026-03-05T18:00:02+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.. What: New GPT-5.4 clobbers humans on pro-level work in OpenAI's tests - by 83%. When: 2026-03-05T18:00:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.. ماذا: New GPT-5.4 clobbers humans on pro-level work in OpenAI's tests - by 83%. متى: 2026-03-05T18:00:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ca2f760894fc17f43c7771dd76881b8a81a5988a/2026/03/05/aec9667e-56ab-4377-b159-778cf78b28de/gpt-5-4-in-chatgpt.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/openai-gpt-5-4/"
-    ]
-  },
-  {
-    "id": "8918d01b1714ab6c0e859f71",
-    "title": "Does unplugging your TV overnight actually save electricity? Yes, but there's a better method",
-    "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
-    "published": "2026-03-05T17:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Does unplugging your TV overnight actually save electricity? Yes, but there's a better method. What: Does unplugging your TV overnight actually save electricity? Yes, but there's a better method. When: 2026-03-05T17:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Does unplugging your TV overnight actually save electricity? Yes, but there's a better method. ماذا: Does unplugging your TV overnight actually save electricity? Yes, but there's a better method. متى: 2026-03-05T17:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c264699fd36f025fc5a97d5eec823185425d975f/2025/03/24/1a6d784e-b000-4e22-b6ac-c1cd1742afa9/dsc05053-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/"
-    ]
-  },
-  {
-    "id": "e942cc466258f9821ffe100d",
-    "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
-    "link": "https://www.zdnet.com/article/tax-scam-irs/",
-    "published": "2026-03-05T17:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The average tax scam victim loses $1,020 - and they're younger than you'd think. What: The average tax scam victim loses $1,020 - and they're younger than you'd think. When: 2026-03-05T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The average tax scam victim loses $1,020 - and they're younger than you'd think. ماذا: The average tax scam victim loses $1,020 - and they're younger than you'd think. متى: 2026-03-05T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/04fbd9f1fc6a92822e9f272a6a891633f92f4482/2026/03/05/a33ff652-b81e-44b0-ac60-41e4eb0bb72f/more-than-40-of-18-24-year-olds-have-fallen-for-tax-scams-heres-how-to-protect-yourself2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/tax-scam-irs/"
-    ]
-  },
-  {
-    "id": "6f292b6f4a363fbfe3d263de",
-    "title": "How Roku's new button totally changes the way you watch free, live TV",
-    "link": "https://www.zdnet.com/article/roku-free-tv-search-button/",
-    "published": "2026-03-05T17:18:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How Roku's new button totally changes the way you watch free, live TV. What: How Roku's new button totally changes the way you watch free, live TV. When: 2026-03-05T17:18:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How Roku's new button totally changes the way you watch free, live TV. ماذا: How Roku's new button totally changes the way you watch free, live TV. متى: 2026-03-05T17:18:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9fe72e9444cbf99ecad3bb9e8994c72a037aeab0/2026/03/05/d20ac960-5e45-42ff-8784-0de7bbca3773/rokufree-gettyimages-1233808072.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/roku-free-tv-search-button/"
-    ]
-  },
-  {
-    "id": "0b1a096c143c68cb16794429",
-    "title": "Fig Security Emerges From Stealth to Fix Broken Security Operations",
-    "link": "https://www.darkreading.com/threat-intelligence/fig-security-stealth-fix-broken-security-operations",
-    "published": "2026-03-05T16:55:05+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Fig Security Emerges From Stealth to Fix Broken Security Operations. What: Fig Security Emerges From Stealth to Fix Broken Security Operations. When: 2026-03-05T16:55:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fig Security Emerges From Stealth to Fix Broken Security Operations. ماذا: Fig Security Emerges From Stealth to Fix Broken Security Operations. متى: 2026-03-05T16:55:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/fig-security-stealth-fix-broken-security-operations"
-    ]
-  },
-  {
-    "id": "085dd76c9339e26f8c9ec9de",
-    "title": "Software Development Practices Help Enterprises Tackle Real-Life Risks",
-    "link": "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks",
-    "published": "2026-03-05T16:34:20+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Software Development Practices Help Enterprises Tackle Real-Life Risks. What: Software Development Practices Help Enterprises Tackle Real-Life Risks. When: 2026-03-05T16:34:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Software Development Practices Help Enterprises Tackle Real-Life Risks. ماذا: Software Development Practices Help Enterprises Tackle Real-Life Risks. متى: 2026-03-05T16:34:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/software-development-practices-help-enterprises-tackle-real-life-risks"
-    ]
-  },
-  {
-    "id": "85a104171776fee3be53d59e",
-    "title": "AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns",
-    "link": "https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/",
-    "published": "2026-03-05T16:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns. What: AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns. When: 2026-03-05T16:00:00+00:00. How: Malicious insiders are using misusing AI for nefarious gain, while employees cutting corners also creates risk, warns Mimecast AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns Action: See Arabic action below.",
-    "summary_ar": "من: AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns. ماذا: AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns. متى: 2026-03-05T16:00:00+00:00. كيف: Malicious insiders are using misusing AI for nefarious gain, while employees cutting corners also creates risk, warns Mimecast AI-Driven Insider Risk Now a “Critical Business Threat,” Report Warns. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/0c99dc31-89e5-4049-a3eb-3bb97ecd5001.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ai-insider-risk-critical-business/"
-    ]
-  },
-  {
-    "id": "43e574bd91a108bb44fd15d6",
-    "title": "Verizon will give you the new iPhone 17e for free - no trade-in required",
-    "link": "https://www.zdnet.com/article/verizon-iphone-17e-deal/",
-    "published": "2026-03-05T15:47:21+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Verizon will give you the new iPhone 17e for free - no trade-in required. What: Verizon will give you the new iPhone 17e for free - no trade-in required. When: 2026-03-05T15:47:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Verizon will give you the new iPhone 17e for free - no trade-in required. ماذا: Verizon will give you the new iPhone 17e for free - no trade-in required. متى: 2026-03-05T15:47:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/febd6ae567e9b28510df7a5d8170c7ecec77e151/2026/03/04/712fe2e2-266a-46ed-bd10-baa030703aec/dsc09699.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/verizon-iphone-17e-deal/"
-    ]
-  },
-  {
-    "id": "9f7682007aef8688ae6bf918",
-    "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
-    "link": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
-    "published": "2026-03-05T15:22:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.. What: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.. When: 2026-03-05T15:22:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.. ماذا: Cisco has disclosed that two more vulnerabilities affecting Catalyst SD-WAN Manager (formerly SD-WAN vManage) have come under active exploitation in the wild.. متى: 2026-03-05T15:22:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20122"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEr5vlbwHAPeevtBJ7iylInnh2ZQCxX10smm1srCFONJBSriIbAvvp5jAFpFYdeoyk9BKBhyFZx-U4xBhqtN2eT1r150GMLdRP3scA8PsHMYh0PGALAqnzwQnLS-3K_9yneL-7tRa3lD-TTOIebyc_alzp2kLKFdFRCiJcWMcmTiMnoqUAeO_Wxv6hd05D/s16000/cisco-exploit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html"
-    ]
-  },
-  {
-    "id": "e33092a3ffc233da883002f7",
-    "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-    "link": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-    "published": "2026-03-05T15:22:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders. What: Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders. When: 2026-03-05T15:22:00+00:00. How: Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers. Action: See Arabic action below.",
-    "summary_ar": "من: Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders. ماذا: Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders. متى: 2026-03-05T15:22:00+00:00. كيف: Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html"
-    ]
-  },
-  {
-    "id": "9ff2add667a25a9f8dfaebf0",
-    "title": "Google says 90 zero-days were exploited in attacks last year",
-    "link": "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/",
-    "published": "2026-03-05T15:03:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances.. What: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances.. When: 2026-03-05T15:03:43+00:00. How: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances. Action: See Arabic action below.",
-    "summary_ar": "من: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances.. ماذا: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances.. متى: 2026-03-05T15:03:43+00:00. كيف: Google Threat Intelligence Group (GTIG) tracked 90 zero-day vulnerabilities actively exploited throughout 2025, almost half of them in enterprise software and appliances.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/05/box.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-says-90-zero-days-were-exploited-in-attacks-last-year/"
-    ]
-  },
-  {
-    "id": "880e5149f14954e9439e5fbc",
-    "title": "I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative",
-    "link": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
-    "published": "2026-03-05T15:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative. What: I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative. When: 2026-03-05T15:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative. ماذا: I tested Xiaomi's matte-glass tablet for a month, and it's a darn good iPad alternative. متى: 2026-03-05T15:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3537f602c5aa40198e458de1a9a140ddf8641a85/2026/03/01/ad20f398-610a-4cfd-a3d9-b8859bdedeaa/1979.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/"
-    ]
-  },
-  {
-    "id": "8858a9e2bcb7d55c3af50bb6",
-    "title": "2026 Browser Data Reveals Major Enterprise Security Blind Spots",
-    "link": "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/",
-    "published": "2026-03-05T15:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: 2026 Browser Data Reveals Major Enterprise Security Blind Spots. What: 2026 Browser Data Reveals Major Enterprise Security Blind Spots. When: 2026-03-05T15:01:11+00:00. How: Keep Aware's 2026 State of Browser Security Report shows 41% of employees used AI web tools while browser-based phishing, extensions, and social engineering drive new security blind spots. Action: See Arabic action below.",
-    "summary_ar": "من: 2026 Browser Data Reveals Major Enterprise Security Blind Spots. ماذا: 2026 Browser Data Reveals Major Enterprise Security Blind Spots. متى: 2026-03-05T15:01:11+00:00. كيف: Keep Aware's 2026 State of Browser Security Report shows 41% of employees used AI web tools while browser-based phishing, extensions, and social engineering drive new security blind spots.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/04/keep-aware-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/2026-browser-data-reveals-major-enterprise-security-blind-spots/"
-    ]
-  },
-  {
-    "id": "11b5cf1414b5e26330bbc5b6",
-    "title": "Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises",
-    "link": "https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/",
-    "published": "2026-03-05T15:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises appeared first on SecurityWeek .. What: The post Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises appeared first on SecurityWeek .. When: 2026-03-05T15:00:00+00:00. How: Less than half of the total zero-days have been attributed to a threat actor, but spyware vendors and China are in the lead. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises appeared first on SecurityWeek .. ماذا: The post Google: Half of 2025’s 90 Exploited Zero-Days Aimed at Enterprises appeared first on SecurityWeek .. متى: 2026-03-05T15:00:00+00:00. كيف: Less than half of the total zero-days have been attributed to a threat actor, but spyware vendors and China are in the lead.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/google-half-of-2025s-90-exploited-zero-days-aimed-at-enterprises/"
-    ]
-  },
-  {
-    "id": "9c82ad93af3a1eb6a0bf106f",
-    "title": "A $500 MacBook Neo might've saved me from my college laptop nightmare",
-    "link": "https://www.zdnet.com/article/macbook-neo-saved-me-windows-pc-college-student/",
-    "published": "2026-03-05T14:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: A $500 MacBook Neo might've saved me from my college laptop nightmare. What: A $500 MacBook Neo might've saved me from my college laptop nightmare. When: 2026-03-05T14:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A $500 MacBook Neo might've saved me from my college laptop nightmare. ماذا: A $500 MacBook Neo might've saved me from my college laptop nightmare. متى: 2026-03-05T14:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c1c0758f61817069d8ac473042021f8e44956d71/2026/03/04/9fb921f4-3a31-4f88-9b9b-45625774df77/dsc09761.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macbook-neo-saved-me-windows-pc-college-student/"
     ]
   }
 ]
