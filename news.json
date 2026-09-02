@@ -54,6 +54,192 @@
     ]
   },
   {
+    "id": "551e76fd7c2746d77da031cf",
+    "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
+    "published": "2026-09-02T16:51:21+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users. What: Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users. When: 2026-09-02T16:51:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users. ماذا: Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users. متى: 2026-09-02T16:51:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users"
+    ]
+  },
+  {
+    "id": "f608d891d415d99465c4b973",
+    "title": "SonicWall's SMA1000 boxes under active attack again",
+    "link": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969",
+    "published": "2026-09-02T16:05:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The flaws affect the SMA 6210, 7210, and 8200v appliances, for which SonicWall has released hotfixes.. What: So, get to applying those hotfixes, says SonicWall.. When: 2026-09-02T16:05:00+00:00. How: SonicWall says attackers are actively exploiting two chained zero-days to take over Secure Mobile Access (SMA) Series 1000 boxes. Action: See Arabic action below.",
+    "summary_ar": "من: The flaws affect the SMA 6210, 7210, and 8200v appliances, for which SonicWall has released hotfixes.. ماذا: So, get to applying those hotfixes, says SonicWall.. متى: 2026-09-02T16:05:00+00:00. كيف: SonicWall says attackers are actively exploiting two chained zero-days to take over Secure Mobile Access (SMA) Series 1000 boxes.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-15409",
+      "CVE-2026-83548",
+      "CVE-2026-83549"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5239796.jpg?imageId=5239796&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969"
+    ]
+  },
+  {
+    "id": "1e441479c7a0ef16cb3b9e69",
+    "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+    "published": "2026-09-02T15:47:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit critical JFrog Artifactory flaw to forge admin tokens. What: A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access.. When: 2026-09-02T15:47:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit critical JFrog Artifactory flaw to forge admin tokens. ماذا: A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access.. متى: 2026-09-02T15:47:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-82329"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/hacker_box.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/"
+    ]
+  },
+  {
+    "id": "8acf952bc2b0d4fff5f4e36b",
+    "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
+    "link": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+    "published": "2026-09-02T15:45:08+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure. What: UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure. When: 2026-09-02T15:45:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure. ماذا: UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure. متى: 2026-09-02T15:45:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/UK_Cyberwarfare.jpg",
+    "sources": [
+      "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/"
+    ]
+  },
+  {
+    "id": "6efec8547c3538e9c64c0f95",
+    "title": "Russian Man Extradited Over Malware Campaign Targeting Freelancers",
+    "link": "https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/",
+    "published": "2026-09-02T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Russian Man Extradited Over Malware Campaign Targeting Freelancers. What: Russian Man Extradited Over Malware Campaign Targeting Freelancers. When: 2026-09-02T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian Man Extradited Over Malware Campaign Targeting Freelancers. ماذا: Russian Man Extradited Over Malware Campaign Targeting Freelancers. متى: 2026-09-02T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/f67d20d5-e5df-4bb7-9bd4-e313dc05ce1b.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/russian-man-extradited-malware/"
+    ]
+  },
+  {
+    "id": "c5bd0c01cc7361b201d48c1d",
+    "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers",
+    "link": "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924",
+    "published": "2026-09-02T14:25:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Legacy Lenovo login opens 5,000 Dropbox accounts to attackers. What: Dropbox has warned around 5,000 users that attackers compromised their accounts by abusing a legacy Lenovo login integration.. When: 2026-09-02T14:25:00+00:00. How: Dropbox has warned around 5,000 users that attackers compromised their accounts by abusing a legacy Lenovo login integration. Action: See Arabic action below.",
+    "summary_ar": "من: Legacy Lenovo login opens 5,000 Dropbox accounts to attackers. ماذا: Dropbox has warned around 5,000 users that attackers compromised their accounts by abusing a legacy Lenovo login integration.. متى: 2026-09-02T14:25:00+00:00. كيف: Dropbox has warned around 5,000 users that attackers compromised their accounts by abusing a legacy Lenovo login integration.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5293949.jpg?imageId=5293949&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924"
+    ]
+  },
+  {
+    "id": "cd4ac32eea5915bc4c454e4b",
+    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+    "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "published": "2026-09-02T14:06:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.. What: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.. When: 2026-09-02T14:06:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.. ماذا: Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.. متى: 2026-09-02T14:06:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif",
+    "sources": [
+      "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html"
+    ]
+  },
+  {
+    "id": "adfb78f2fd03efcd07e7aa99",
+    "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+    "published": "2026-09-02T14:02:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ransomware protection for MSPs: A 6-point checklist for faster recovery. What: Ransomware protection for MSPs: A 6-point checklist for faster recovery. When: 2026-09-02T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware protection for MSPs: A 6-point checklist for faster recovery. ماذا: Ransomware protection for MSPs: A 6-point checklist for faster recovery. متى: 2026-09-02T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/26/acronis-cyberattack-dr.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/"
+    ]
+  },
+  {
+    "id": "a8c09aaa1bceb5b983c7b22a",
+    "title": "Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons",
+    "link": "https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/",
+    "published": "2026-09-02T14:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons. What: Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons. When: 2026-09-02T14:00:00+00:00. How: Gambling Goblin compromised Brazilian government sites to drive gambling traffic through SEO fraud Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons Action: See Arabic action below.",
+    "summary_ar": "من: Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons. ماذا: Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons. متى: 2026-09-02T14:00:00+00:00. كيف: Gambling Goblin compromised Brazilian government sites to drive gambling traffic through SEO fraud Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/5b946239-15f1-4548-a1ad-244819b6342a.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/"
+    ]
+  },
+  {
+    "id": "ffcf22101b8763237e0b115d",
+    "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+    "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+    "published": "2026-09-02T13:44:16+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages. What: Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages. When: 2026-09-02T13:44:16+00:00. How: A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages. ماذا: Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages. متى: 2026-09-02T13:44:16+00:00. كيف: A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html"
+    ]
+  },
+  {
     "id": "caf7e586b61ed0a5ee90c214",
     "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
     "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
@@ -569,6 +755,60 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/08/SonicWall.jpg",
     "sources": [
       "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "a770178a4ae81c4249ded1d9",
+    "title": "CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/",
+    "published": "2026-09-02T04:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks. What: CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks. When: 2026-09-02T04:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks. ماذا: CrowdStrike Extends Endpoint Security to Stop Software Supply Chain Attacks. متى: 2026-09-02T04:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-extends-endpoint-security-to-stop-supply-chain-attacks/"
+    ]
+  },
+  {
+    "id": "dae8f75b3e7e709747bceff3",
+    "title": "CrowdStrike Delivers the Next Evolution of the Agentic SOC",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/",
+    "published": "2026-09-02T04:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Delivers the Next Evolution of the Agentic SOC. What: CrowdStrike Delivers the Next Evolution of the Agentic SOC. When: 2026-09-02T04:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Delivers the Next Evolution of the Agentic SOC. ماذا: CrowdStrike Delivers the Next Evolution of the Agentic SOC. متى: 2026-09-02T04:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/"
+    ]
+  },
+  {
+    "id": "13244e01c7459cdee5f2c956",
+    "title": "CrowdStrike Announces Agentic Identity Provider",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/",
+    "published": "2026-09-02T04:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Announces Agentic Identity Provider. What: CrowdStrike Announces Agentic Identity Provider. When: 2026-09-02T04:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Announces Agentic Identity Provider. ماذا: CrowdStrike Announces Agentic Identity Provider. متى: 2026-09-02T04:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-announces-agentic-identity-provider/"
     ]
   },
   {
@@ -155234,313 +155474,6 @@
     "image": "https://www.zdnet.com/a/img/resize/70d4c28e9cbfb3a618b82f1968c99a3ec6d06e82/2025/10/20/0f066a78-a672-48c1-b936-d7b67160615c/dsc08330.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/samsung-ai-smart-glasses-features/"
-    ]
-  },
-  {
-    "id": "2ea215d4c2148da4636f0a6f",
-    "title": "6 essential strategies to defend against AI-powered threat actors in 2026",
-    "link": "https://www.zdnet.com/article/6-ways-to-counter-ai-cybersecurity-threats/",
-    "published": "2026-03-06T16:26:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 6 essential strategies to defend against AI-powered threat actors in 2026. What: 6 essential strategies to defend against AI-powered threat actors in 2026. When: 2026-03-06T16:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 6 essential strategies to defend against AI-powered threat actors in 2026. ماذا: 6 essential strategies to defend against AI-powered threat actors in 2026. متى: 2026-03-06T16:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6ba34637e26bd25822b2f0d819893c8cbb2dad8e/2026/03/06/6e0aa6cb-e049-44e4-9a0c-faa4179619f4/gettyimages-2225900166.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/6-ways-to-counter-ai-cybersecurity-threats/"
-    ]
-  },
-  {
-    "id": "7c166fd61a8fb7970ef4ca54",
-    "title": "AI agents of chaos? New research shows how bots talking to bots can go sideways fast",
-    "link": "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/",
-    "published": "2026-03-06T16:18:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: AI agents of chaos? New research shows how bots talking to bots can go sideways fast. What: AI agents of chaos? New research shows how bots talking to bots can go sideways fast. When: 2026-03-06T16:18:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI agents of chaos? New research shows how bots talking to bots can go sideways fast. ماذا: AI agents of chaos? New research shows how bots talking to bots can go sideways fast. متى: 2026-03-06T16:18:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b9474660a377f48ae7fd5175a14d8008fa851fbf/2026/03/06/26bbbbc6-7276-49b0-a239-81481235a6cd/gettyimages-2169851272.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/"
-    ]
-  },
-  {
-    "id": "15b3c7899773869fcf3e6178",
-    "title": "CISA warns feds to patch iOS flaws exploited in crypto-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
-    "published": "2026-03-06T15:57:16+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA ordered U.S.. What: CISA ordered U.S.. When: 2026-03-06T15:57:16+00:00. How: federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. Action: See Arabic action below.",
-    "summary_ar": "من: CISA ordered U.S.. ماذا: CISA ordered U.S.. متى: 2026-03-06T15:57:16+00:00. كيف: federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/"
-    ]
-  },
-  {
-    "id": "15b3c7899773869fcf3e6178",
-    "title": "CISA warns of Apple flaws exploited in spyware, crypto-theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/",
-    "published": "2026-03-06T15:57:16+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA ordered U.S.. What: CISA ordered U.S.. When: 2026-03-06T15:57:16+00:00. How: federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit. Action: See Arabic action below.",
-    "summary_ar": "من: CISA ordered U.S.. ماذا: CISA ordered U.S.. متى: 2026-03-06T15:57:16+00:00. كيف: federal agencies to patch three iOS security flaws targeted in cyberespionage and crypto-theft attacks using the Coruna exploit kit.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-apple-flaws-exploited-in-spyware-crypto-theft-attacks/"
-    ]
-  },
-  {
-    "id": "46f8fdaf03df61ad5b1e626e",
-    "title": "Can Meta see your private life through its Ray-Ban smart glasses? What to know",
-    "link": "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/",
-    "published": "2026-03-06T15:47:55+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Can Meta see your private life through its Ray-Ban smart glasses?. What: Can Meta see your private life through its Ray-Ban smart glasses? What to know. When: 2026-03-06T15:47:55+00:00. How: Can Meta see your private life through its Ray-Ban smart glasses? Action: See Arabic action below.",
-    "summary_ar": "من: Can Meta see your private life through its Ray-Ban smart glasses?. ماذا: Can Meta see your private life through its Ray-Ban smart glasses? What to know. متى: 2026-03-06T15:47:55+00:00. كيف: Can Meta see your private life through its Ray-Ban smart glasses?. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/64e48b4a2143ba19d44b8e9d677a3383a649e280/2025/05/08/6e9003ff-58ce-4ce7-a21b-c260efe6ee7d/dsc00110.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/"
-    ]
-  },
-  {
-    "id": "4ae5cbc5602248e6050dcc07",
-    "title": "In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike",
-    "link": "https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/",
-    "published": "2026-03-06T15:35:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike. What: In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike. When: 2026-03-06T15:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike. ماذا: In Other News: FBI Hacked, US Security Pro Killed in Iran War, Hijacked Cameras Used in Khamenei Strike. متى: 2026-03-06T15:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/in-other-news-fbi-hacked-us-security-pro-killed-in-iran-war-hijacked-cameras-used-in-khamenei-strike/"
-    ]
-  },
-  {
-    "id": "2e0c629602e9eec60c9d6854",
-    "title": "Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week",
-    "link": "https://www.zdnet.com/article/best-of-mwc/",
-    "published": "2026-03-06T15:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week. What: Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week. When: 2026-03-06T15:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week. ماذا: Best of MWC 2026: The biggest news we saw from Lenovo, Xiaomi, and more this week. متى: 2026-03-06T15:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a380d377116335d01087bcb191f4613da7010344/2026/02/28/77bc4efe-edc8-4a95-8fc0-d630a7f6f1c9/dsc09454.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-of-mwc/"
-    ]
-  },
-  {
-    "id": "2806eb4e9b0e111d55bfa194",
-    "title": "Iran's MuddyWater Hackers Hit US Firms with New 'Dindoor' Backdoor",
-    "link": "https://www.infosecurity-magazine.com/news/iran-muddywater-hackers-us-firms/",
-    "published": "2026-03-06T15:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Iran's MuddyWater Hackers Hit US Firms with New 'Dindoor' Backdoor. What: Iran's MuddyWater Hackers Hit US Firms with New 'Dindoor' Backdoor. When: 2026-03-06T15:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran's MuddyWater Hackers Hit US Firms with New 'Dindoor' Backdoor. ماذا: Iran's MuddyWater Hackers Hit US Firms with New 'Dindoor' Backdoor. متى: 2026-03-06T15:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a6ce0e2e-b44a-4359-90dd-bf98a684782e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/iran-muddywater-hackers-us-firms/"
-    ]
-  },
-  {
-    "id": "8902457ec409289092b9893c",
-    "title": "The Disney+ and Hulu bundle just dropped to the lowest price of the year so far",
-    "link": "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/",
-    "published": "2026-03-06T15:12:14+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Disney+ and Hulu bundle just dropped to the lowest price of the year so far. What: The Disney+ and Hulu bundle just dropped to the lowest price of the year so far. When: 2026-03-06T15:12:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Disney+ and Hulu bundle just dropped to the lowest price of the year so far. ماذا: The Disney+ and Hulu bundle just dropped to the lowest price of the year so far. متى: 2026-03-06T15:12:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/60c5ead99ade05e563f649d4e104eee1b36849b8/2026/03/05/a7e916b8-d5e2-48c9-a513-2fbba83411c3/untitled-design-2026-03-05t163951-466.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/disney-hulu-bundle-deal-5/"
-    ]
-  },
-  {
-    "id": "19b6302f7cb91b61403e4a97",
-    "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
-    "link": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
-    "published": "2026-03-06T15:11:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India. What: Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India. When: 2026-03-06T15:11:00+00:00. How: The activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India Action: See Arabic action below.",
-    "summary_ar": "من: Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India. ماذا: Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India. متى: 2026-03-06T15:11:00+00:00. كيف: The activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Nnrc1zd-1NJp8aP69eS_s4Ai_GG7Um-ltzX8eO5Jfrnxaq_fj3z5u3k7WUU65b0lmmxd6012MxINWFPC5vZDhznqnIrNEerUiPKbeKEVCTwtRCv2RCwnYa-k_hz4mha_qyOBV9kgvkWw6xlZfNSQYqvhez0T1xJFJXeaCjlYFAAtwt4RrMdmMHHsAU3/s1600/ai-coded-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html"
-    ]
-  },
-  {
-    "id": "9b2c2d5cdac7d41b2d372fe1",
-    "title": "EU Auto Rules Shift Gears on Cybersecurity Standards",
-    "link": "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards",
-    "published": "2026-03-06T15:05:55+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: EU Auto Rules Shift Gears on Cybersecurity Standards. What: EU Auto Rules Shift Gears on Cybersecurity Standards. When: 2026-03-06T15:05:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: EU Auto Rules Shift Gears on Cybersecurity Standards. ماذا: EU Auto Rules Shift Gears on Cybersecurity Standards. متى: 2026-03-06T15:05:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/eu-auto-rules-shift-gears-on-cybersecurity-standards"
-    ]
-  },
-  {
-    "id": "6e80bcbce3502e198d397316",
-    "title": "Cisco warns of two more SD-WAN bugs under active attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/cisco_sdwan_bugs/",
-    "published": "2026-03-06T15:04:48+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Switchzilla says flaws could allow file overwrites or privilege escalation Just when network admins thought the Cisco SD-WAN patch queue might finally be shrinking, Switchzilla has confirmed miscreants are exploiting more vulnerabilities in its SD-WAN management software.… Cisco warns of two more SD-WAN bugs under active attack. What: Cisco warns of two more SD-WAN bugs under active attack. When: 2026-03-06T15:04:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Switchzilla says flaws could allow file overwrites or privilege escalation Just when network admins thought the Cisco SD-WAN patch queue might finally be shrinking, Switchzilla has confirmed miscreants are exploiting more vulnerabilities in its SD-WAN management software.… Cisco warns of two more SD-WAN bugs under active attack. ماذا: Cisco warns of two more SD-WAN bugs under active attack. متى: 2026-03-06T15:04:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/10/13/software_bug.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/06/cisco_sdwan_bugs/"
-    ]
-  },
-  {
-    "id": "0c2010fc6ce4fea3ef5437e5",
-    "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-    "link": "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-    "published": "2026-03-06T15:00:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security. What: EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security. When: 2026-03-06T15:00:10+00:00. How: AI Workforce Readiness and Security Action: See Arabic action below.",
-    "summary_ar": "من: EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security. ماذا: EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security. متى: 2026-03-06T15:00:10+00:00. كيف: AI Workforce Readiness and Security. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/06/ec-council-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/ec-council-expands-ai-certification-portfolio-to-strengthen-us-ai-workforce-readiness-and-security/",
-      "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html"
-    ]
-  },
-  {
-    "id": "536eb64e24352ed79a16f63e",
-    "title": "Fake Claude Code install guides push infostealers in InstallFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/",
-    "published": "2026-03-06T15:00:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Fake Claude Code install guides push infostealers in InstallFix attacks. What: Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools.. When: 2026-03-06T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fake Claude Code install guides push infostealers in InstallFix attacks. ماذا: Threat actors are employing a new variation of the ClickFix social engineering technique called InstallFix to convince users into running malicious commands under the pretext of installing legitimate command line interface (CLI) tools.. متى: 2026-03-06T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fake-claude-code-install-guides-push-infostealers-in-installfix-attacks/"
-    ]
-  },
-  {
-    "id": "cd7b10b499fb3cf26282bd99",
-    "title": "Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT",
-    "link": "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html",
-    "published": "2026-03-06T14:33:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT. What: Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.. When: 2026-03-06T14:33:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT. ماذا: Cybersecurity researchers have disclosed details of a multi-stage malware campaign that uses batch scripts as a pathway to deliver various encrypted remote access trojan (RATs) payloads that correspond to XWorm, AsyncRAT, and Xeno RAT.. متى: 2026-03-06T14:33:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQjK1KC9p7VWWkeFycROhD4cXTkFws06lICtY2bwCh8m2G8vl20VKnurwKZGiqVLWKxZGBRREcIKUImgupySapsKegJcZjxIYuU5nmLtLBABpnxQIC0ShG0uUbiG0jfRH7IgBTj5COyPK090eD7qof5VnsI2gUG43uLkhdy3EqDCVPguAcBp7HSdASnA9Q/s1600/key-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html"
-    ]
-  },
-  {
-    "id": "f98f654c8b760f1e0398a26c",
-    "title": "Microsoft 365 Backup to add file-level restore for faster recovery",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/",
-    "published": "2026-03-06T14:21:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders.. What: Microsoft 365 Backup to add file-level restore for faster recovery. When: 2026-03-06T14:21:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft will soon begin rolling out a significant upgrade to Microsoft 365 Backup to speed up recovery by allowing administrators to restore individual files and folders.. ماذا: Microsoft 365 Backup to add file-level restore for faster recovery. متى: 2026-03-06T14:21:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/05/Microsoft-365.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-backup-to-add-file-level-restore-for-faster-recovery/"
-    ]
-  },
-  {
-    "id": "f324f5aab8b0154becd7f348",
-    "title": "Iran's Cyber-Kinetic War Doctrine Takes Shape",
-    "link": "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine",
-    "published": "2026-03-06T14:01:11+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Iran's Cyber-Kinetic War Doctrine Takes Shape. What: Iran's Cyber-Kinetic War Doctrine Takes Shape. When: 2026-03-06T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran's Cyber-Kinetic War Doctrine Takes Shape. ماذا: Iran's Cyber-Kinetic War Doctrine Takes Shape. متى: 2026-03-06T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/iran-cyber-kinetic-war-doctrine"
     ]
   }
 ]
