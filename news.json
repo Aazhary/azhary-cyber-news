@@ -54,6 +54,116 @@
     ]
   },
   {
+    "id": "e4ffa996926a49635da613ca",
+    "title": "Claude Mythos only model to complete full cyber kill chain, experts say",
+    "link": "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
+    "published": "2026-09-02T21:31:31+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Despite what we saw with OpenAI’s models going rogue, creating message boards, and breaking into Hugging Face, only one advanced AI model - Anthropic’s Claude Mythos - completed the full cyber kill chain autonomously in Booz Allen’s tests.. What: And we should point out that the models tested don’t include OpenAI’s soon-to-be-released Astra, which OpenAI on Tuesday said reached its “critical” cybersecurity capability threshold.. When: 2026-09-02T21:31:31+00:00. How: This means the new model is so good at finding and exploiting zero-day bugs that it poses a significant risk to critical systems, both from malicious users and even from the model itself, which is capable of carrying out harmful cyber actions “if misaligned.” Booz Allen asserts that most of the other 17 US and Chinese models it tested will achieve Mythos’ same level of weaponization within six months, and it calls mainstream AI attacks from both financially motivated criminals like ransomware gangs and government-backed goons “imminent.” In its first-ever Cyber Weapon Index, the consulting and tech firm calls on the US to set and enforce sector-specific deadlines for critical infrastructure to demonstrate resilience against AI-enabled attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Despite what we saw with OpenAI’s models going rogue, creating message boards, and breaking into Hugging Face, only one advanced AI model - Anthropic’s Claude Mythos - completed the full cyber kill chain autonomously in Booz Allen’s tests.. ماذا: And we should point out that the models tested don’t include OpenAI’s soon-to-be-released Astra, which OpenAI on Tuesday said reached its “critical” cybersecurity capability threshold.. متى: 2026-09-02T21:31:31+00:00. كيف: This means the new model is so good at finding and exploiting zero-day bugs that it poses a significant risk to critical systems, both from malicious users and even from the model itself, which is capable of carrying out harmful cyber actions “if misaligned.” Booz Allen asserts that most of the other 17 US and Chinese models it tested will achieve Mythos’ same level of weaponization within six months, and it calls mainstream AI attacks from both financially motivated criminals like ransomware gangs and government-backed goons “imminent.” In its first-ever Cyber Weapon Index, the consulting and tech firm calls on the US to set and enforce sector-specific deadlines for critical infrastructure to demonstrate resilience against AI-enabled attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5294088.jpg?imageId=5294088&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071"
+    ]
+  },
+  {
+    "id": "0d0f16f9402fc089702ceea6",
+    "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+    "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+    "published": "2026-09-02T21:14:06+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI’s Vulnerability Surge May Be More Manageable Than First Feared. What: AI’s Vulnerability Surge May Be More Manageable Than First Feared. When: 2026-09-02T21:14:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI’s Vulnerability Surge May Be More Manageable Than First Feared. ماذا: AI’s Vulnerability Surge May Be More Manageable Than First Feared. متى: 2026-09-02T21:14:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared"
+    ]
+  },
+  {
+    "id": "b11a003c4656b55ce39e1965",
+    "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+    "published": "2026-09-02T21:00:13+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit Sangoma Switchvox flaw to deploy reverse shells. What: Hackers exploit Sangoma Switchvox flaw to deploy reverse shells. When: 2026-09-02T21:00:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit Sangoma Switchvox flaw to deploy reverse shells. ماذا: Hackers exploit Sangoma Switchvox flaw to deploy reverse shells. متى: 2026-09-02T21:00:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-9586"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/02/Sangoma.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/"
+    ]
+  },
+  {
+    "id": "a2c5bbd99058646b1b1b6ef4",
+    "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+    "published": "2026-09-02T20:43:59+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE. What: SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE. When: 2026-09-02T20:43:59+00:00. How: The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices. Action: See Arabic action below.",
+    "summary_ar": "من: SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE. ماذا: SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE. متى: 2026-09-02T20:43:59+00:00. كيف: The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce"
+    ]
+  },
+  {
+    "id": "4767180cb8aee6b4f00a5c37",
+    "title": "I rented a car, and within hours, my driver's license was for sale",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "published": "2026-09-02T20:32:02+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: I rented a car, and within hours, my driver's license was for sale. What: I rented a car, and within hours, my driver's license was for sale. When: 2026-09-02T20:32:02+00:00. How: An exposé published Tuesday by KrebsOnSecurity reports that my license was one of more than 153 million that were available through Nexus, the name of the new ID theft service. Action: See Arabic action below.",
+    "summary_ar": "من: I rented a car, and within hours, my driver's license was for sale. ماذا: I rented a car, and within hours, my driver's license was for sale. متى: 2026-09-02T20:32:02+00:00. كيف: An exposé published Tuesday by KrebsOnSecurity reports that my license was one of more than 153 million that were available through Nexus, the name of the new ID theft service.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/"
+    ]
+  },
+  {
+    "id": "8f6b611d74390218ff0b89a0",
+    "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+    "link": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+    "published": "2026-09-02T19:46:31+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Gives Cybercriminals a Dangerous Time Advantage. What: AI Gives Cybercriminals a Dangerous Time Advantage. When: 2026-09-02T19:46:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Gives Cybercriminals a Dangerous Time Advantage. ماذا: AI Gives Cybercriminals a Dangerous Time Advantage. متى: 2026-09-02T19:46:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage"
+    ]
+  },
+  {
     "id": "bf7a424fd078dd321fc08878",
     "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
     "link": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
@@ -155294,24 +155404,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/"
-    ]
-  },
-  {
-    "id": "4897b327cf6f90ae2894ca12",
-    "title": "Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/",
-    "published": "2026-03-06T20:41:44+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Unfortunately, if browser crashes rather than security flaws are the problem, Claude probably can't help.… Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits. What: Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits. When: 2026-03-06T20:41:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Unfortunately, if browser crashes rather than security flaws are the problem, Claude probably can't help.… Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits. ماذا: Firefox taps Anthropic AI bug hunter, but rancid RAM still flipping bits. متى: 2026-03-06T20:41:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2019/07/10/firefox-68.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/06/firefox_bugs_anthropic_ai/"
     ]
   }
 ]
