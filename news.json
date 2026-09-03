@@ -54,6 +54,265 @@
     ]
   },
   {
+    "id": "45aa1b520d92885b567824c3",
+    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+    "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+    "published": "2026-09-03T15:52:07+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.. What: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.. When: 2026-09-03T15:52:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.. ماذا: Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version.. متى: 2026-09-03T15:52:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20212"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
+    ]
+  },
+  {
+    "id": "d25fd9c62f7c4c24095c57e9",
+    "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+    "link": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+    "published": "2026-09-03T15:35:19+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal. What: Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.. When: 2026-09-03T15:35:19+00:00. How: Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys. Action: See Arabic action below.",
+    "summary_ar": "من: Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal. ماذا: Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.. متى: 2026-09-03T15:35:19+00:00. كيف: Hacker group published roughly 550GB of data after MAG reportedly refused to pay a ransom demand; the group says it gained access via exposed admin keys.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/Fraud-Cybercrime-AI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/"
+    ]
+  },
+  {
+    "id": "78a351450324c00bcf66e73d",
+    "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+    "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+    "published": "2026-09-03T15:26:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory. What: Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts.. When: 2026-09-03T15:26:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory. ماذا: Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts.. متى: 2026-09-03T15:26:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html"
+    ]
+  },
+  {
+    "id": "6a1a2081bd13dcacdbe73bd1",
+    "title": "Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone",
+    "link": "https://www.infosecurity-magazine.com/news/pegasus-zero-click-exploit/",
+    "published": "2026-09-03T15:25:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone. What: Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone. When: 2026-09-03T15:25:00+00:00. How: Pegasus infected a Serbian student activist's iPhone through an iMessage zero-click exploit Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone Action: See Arabic action below.",
+    "summary_ar": "من: Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone. ماذا: Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone. متى: 2026-09-03T15:25:00+00:00. كيف: Pegasus infected a Serbian student activist's iPhone through an iMessage zero-click exploit Pegasus Zero-Click Exploit Infects Serbian Student Activist's iPhone. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/ee0e2f14-b3a6-41a1-b3d6-0c986b1b7f36.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/pegasus-zero-click-exploit/",
+      "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html"
+    ]
+  },
+  {
+    "id": "55fde73889a1b4aa7a944849",
+    "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+    "published": "2026-09-03T15:22:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems.. What: Microsoft: KB5120998 mouse reset bug affects only non-English PCs. When: 2026-09-03T15:22:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems.. ماذا: Microsoft: KB5120998 mouse reset bug affects only non-English PCs. متى: 2026-09-03T15:22:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/03/Windows-11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/"
+    ]
+  },
+  {
+    "id": "c148cdbe12935a1d98db90d6",
+    "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+    "link": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+    "published": "2026-09-03T15:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents. What: Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents. When: 2026-09-03T15:15:00+00:00. How: New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review. Action: See Arabic action below.",
+    "summary_ar": "من: Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents. ماذا: Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents. متى: 2026-09-03T15:15:00+00:00. كيف: New models, trained using NVIDIA Nemotron 3 Ultra, aim to catch rogue agent behavior before it executes, without the latency of large-model review.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Agent-AI-Security.jpg",
+    "sources": [
+      "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/"
+    ]
+  },
+  {
+    "id": "52b5a014f17360c0ece805f6",
+    "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+    "published": "2026-09-03T15:13:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] OpenAI confirms ChatGPT is down ahead of 'Astra' model launch. What: OpenAI confirms ChatGPT is down ahead of 'Astra' model launch. When: 2026-09-03T15:13:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] OpenAI confirms ChatGPT is down ahead of 'Astra' model launch. ماذا: OpenAI confirms ChatGPT is down ahead of 'Astra' model launch. متى: 2026-09-03T15:13:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/"
+    ]
+  },
+  {
+    "id": "bb28fb72da337c30d5ea3cd0",
+    "title": "Anthropic confirms Claude is down, multiple models affected",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+    "published": "2026-09-03T15:02:52+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Anthropic confirms Claude is down, multiple models affected. What: Anthropic confirms Claude is down, multiple models affected. When: 2026-09-03T15:02:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic confirms Claude is down, multiple models affected. ماذا: Anthropic confirms Claude is down, multiple models affected. متى: 2026-09-03T15:02:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/"
+    ]
+  },
+  {
+    "id": "8ece3378bdacb7882fc8c403",
+    "title": "Drowning in CVEs and thirsty for answers? Try CTEM",
+    "link": "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
+    "published": "2026-09-03T15:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: What's wrong with vulnerability management We define security flaws using Common Vulnerabilities and Exposures (CVEs), and we tell each other how bad they are by assigning the Common Vulnerability Scoring System (CVSS) to them.. What: \"There were over 500 fixes in one patch cycle.. When: 2026-09-03T15:00:00+00:00. How: What's wrong with vulnerability management We define security flaws using Common Vulnerabilities and Exposures (CVEs), and we tell each other how bad they are by assigning the Common Vulnerability Scoring System (CVSS) to them. Action: See Arabic action below.",
+    "summary_ar": "من: What's wrong with vulnerability management We define security flaws using Common Vulnerabilities and Exposures (CVEs), and we tell each other how bad they are by assigning the Common Vulnerability Scoring System (CVSS) to them.. ماذا: \"There were over 500 fixes in one patch cycle.. متى: 2026-09-03T15:00:00+00:00. كيف: What's wrong with vulnerability management We define security flaws using Common Vulnerabilities and Exposures (CVEs), and we tell each other how bad they are by assigning the Common Vulnerability Scoring System (CVSS) to them.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5293920.jpg?imageId=5293920&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906"
+    ]
+  },
+  {
+    "id": "7e67bf78de99a0fd24b706b0",
+    "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+    "published": "2026-09-03T14:52:20+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Critical Elementor Pro flaw exploited to take over WordPress sites. What: A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server.. When: 2026-09-03T14:52:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Elementor Pro flaw exploited to take over WordPress sites. ماذا: A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server.. متى: 2026-09-03T14:52:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-32475",
+      "CVE-2026-3300"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/03/wordpress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+    ]
+  },
+  {
+    "id": "77c79351428de70fd311dc74",
+    "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+    "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+    "published": "2026-09-03T14:39:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data. What: Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S.. When: 2026-09-03T14:39:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data. ماذا: Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S.. متى: 2026-09-03T14:39:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
+    ]
+  },
+  {
+    "id": "39884b3361bd85e8a94ce2c0",
+    "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+    "published": "2026-09-03T14:38:49+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours. What: AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours. When: 2026-09-03T14:38:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours. ماذا: AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours. متى: 2026-09-03T14:38:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours"
+    ]
+  },
+  {
+    "id": "98fe97911d2aa8742f6425b4",
+    "title": "Outsider Phishing Kit Survives Takedown With 700 New Pages",
+    "link": "https://www.infosecurity-magazine.com/news/outsider-phishing-kit-survives/",
+    "published": "2026-09-03T14:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Outsider phishing kit generated 700 new pages after a Google-led disruption Outsider Phishing Kit Survives Takedown With 700 New Pages. What: Outsider Phishing Kit Survives Takedown With 700 New Pages. When: 2026-09-03T14:00:00+00:00. How: Outsider phishing kit generated 700 new pages after a Google-led disruption Outsider Phishing Kit Survives Takedown With 700 New Pages Action: See Arabic action below.",
+    "summary_ar": "من: Outsider phishing kit generated 700 new pages after a Google-led disruption Outsider Phishing Kit Survives Takedown With 700 New Pages. ماذا: Outsider Phishing Kit Survives Takedown With 700 New Pages. متى: 2026-09-03T14:00:00+00:00. كيف: Outsider phishing kit generated 700 new pages after a Google-led disruption Outsider Phishing Kit Survives Takedown With 700 New Pages. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/42496752-f1d2-40d4-ab45-97fe9bdaf89b.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/outsider-phishing-kit-survives/"
+    ]
+  },
+  {
+    "id": "59bf02626879bd301bbad41e",
+    "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+    "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+    "published": "2026-09-03T13:50:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Your Employee’s Password Appeared in an Infostealer Log. Now What?. What: Your Employee’s Password Appeared in an Infostealer Log. Now What?. When: 2026-09-03T13:50:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your Employee’s Password Appeared in an Infostealer Log. Now What?. ماذا: Your Employee’s Password Appeared in an Infostealer Log. Now What?. متى: 2026-09-03T13:50:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/08/27/computer-cyber.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/"
+    ]
+  },
+  {
     "id": "f55eec13db8d6ee9757d1f64",
     "title": "CREST Onboards First Cohort for AI-Enabled Pentesting Accreditation",
     "link": "https://www.infosecurity-magazine.com/news/crest-first-cohort-ai-pentesting/",
@@ -84,7 +343,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/4093857.jpg?imageId=4093857&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/09/03/cybercrooks-trawl-fishbrain-to-net-password-hashes/5294158"
     ]
@@ -382,24 +641,6 @@
     ]
   },
   {
-    "id": "1f8967190e9aa51b31044b4d",
-    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-    "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-    "published": "2026-09-03T08:43:17+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone. What: Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone. When: 2026-09-03T08:43:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone. ماذا: Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone. متى: 2026-09-03T08:43:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html"
-    ]
-  },
-  {
     "id": "d362ffdc24410fa520754cf4",
     "title": "International Operation Disrupts Sality P2P Botnet",
     "link": "https://www.infosecurity-magazine.com/news/international-operation-disrupts/",
@@ -511,12 +752,12 @@
   },
   {
     "id": "0d0f16f9402fc089702ceea6",
-    "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+    "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
     "link": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
     "published": "2026-09-02T21:14:06+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: AI’s Vulnerability Surge May Be More Manageable Than First Feared. What: AI’s Vulnerability Surge May Be More Manageable Than First Feared. When: 2026-09-02T21:14:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI’s Vulnerability Surge May Be More Manageable Than First Feared. ماذا: AI’s Vulnerability Surge May Be More Manageable Than First Feared. متى: 2026-09-02T21:14:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: AI's Vulnerability Surge May Be More Manageable Than First Feared. What: AI's Vulnerability Surge May Be More Manageable Than First Feared. When: 2026-09-02T21:14:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI's Vulnerability Surge May Be More Manageable Than First Feared. ماذا: AI's Vulnerability Surge May Be More Manageable Than First Feared. متى: 2026-09-02T21:14:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Vulnerability",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -76511,26 +76752,6 @@
     "image": "https://www.zdnet.com/a/img/resize/c20213dc974d2ad423d164df9fcbbbf5468b9bac/2026/06/04/5495cab1-4520-44fe-b9f9-157c658c7ee0/img-4703.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/i-drove-over-25000-miles-last-year-here-are-the-carplay-apps-i-used/"
-    ]
-  },
-  {
-    "id": "3eb7ad18dc17a827da4cf39c",
-    "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
-    "published": "2026-06-06T14:09:26+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Critical Everest Forms Pro flaw exploited to take over WordPress sites. What: [...] Critical Everest Forms Pro flaw exploited to take over WordPress sites. When: 2026-06-06T14:09:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Everest Forms Pro flaw exploited to take over WordPress sites. ماذا: [...] Critical Everest Forms Pro flaw exploited to take over WordPress sites. متى: 2026-06-06T14:09:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-3300"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/05/Wordpress_Everest.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
     ]
   },
   {
@@ -155572,96 +155793,6 @@
     "image": "https://www.zdnet.com/a/img/resize/86fbf730fdf9521cc41bdb308f949fb3fca4a755/2026/03/06/c87d719f-f913-482b-a0a0-554896edbeca/gettyimages-2153357507.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/windows-12-release-date-features-rumors-complaints/"
-    ]
-  },
-  {
-    "id": "8e8ecbeefb89973eafa73cf4",
-    "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-    "link": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
-    "published": "2026-03-07T16:28:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.. What: OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.. When: 2026-03-07T16:28:00+00:00. How: The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.. ماذا: OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.. متى: 2026-03-07T16:28:00+00:00. كيف: The feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxRjA2uB_r2z4AtvhADiDGrxTc62766WI5jApivjtuLfb2aS2kz9RWk7f9P3Lm7Nj5HH3u-7Etx4-8xr_Y4PflexsuMsAzXjvPoPLSQaSt1O-t4U3yBAnKm4HLm-64dbHDsWF-EXYVMvaMrMnhfbhV_qn2cvwmJE6x-U42aTjGbIOTNOXxpiH3x15C6Ag/s1600/codex.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html"
-    ]
-  },
-  {
-    "id": "891e778713c46071a24c9f70",
-    "title": "Termite ransomware breaches linked to ClickFix CastleRAT attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/",
-    "published": "2026-03-07T16:14:32+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Termite ransomware breaches linked to ClickFix CastleRAT attacks. What: Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor.. When: 2026-03-07T16:14:32+00:00. How: Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor. Action: See Arabic action below.",
-    "summary_ar": "من: Termite ransomware breaches linked to ClickFix CastleRAT attacks. ماذا: Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor.. متى: 2026-03-07T16:14:32+00:00. كيف: Ransomware threat actors tracked as Velvet Tempest are using the ClickFix technique and legitimate Windows utilities to deploy the DonutLoader malware and the CastleRAT backdoor.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/06/Termite.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/"
-    ]
-  },
-  {
-    "id": "3ea3f8eba286221997098ae7",
-    "title": "US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies",
-    "link": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
-    "published": "2026-03-07T15:57:23+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies. What: US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies. When: 2026-03-07T15:57:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies. ماذا: US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies. متى: 2026-03-07T15:57:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/"
-    ]
-  },
-  {
-    "id": "e9894a9e5714c184b60f6b8a",
-    "title": "Microsoft: Hackers abusing AI at every stage of cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/",
-    "published": "2026-03-07T15:15:25+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack.. What: Microsoft: Hackers abusing AI at every stage of cyberattacks. When: 2026-03-07T15:15:25+00:00. How: Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack.. ماذا: Microsoft: Hackers abusing AI at every stage of cyberattacks. متى: 2026-03-07T15:15:25+00:00. كيف: Microsoft says threat actors are increasingly using artificial intelligence in their operations to accelerate attacks, scale malicious activity, and lower technical barriers across all aspects of a cyberattack.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/microsoft-hackers-abusing-ai-at-every-stage-of-cyberattacks/"
-    ]
-  },
-  {
-    "id": "b88f815ce6b951c34bff3840",
-    "title": "Motorola Razr Fold hands-on: This beats Samsung and Google Pixel in notable ways",
-    "link": "https://www.zdnet.com/article/motorola-razr-fold-hands-on-mwc-2026/",
-    "published": "2026-03-07T14:00:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Motorola Razr Fold hands-on: This beats Samsung and Google Pixel in notable ways. What: Motorola Razr Fold hands-on: This beats Samsung and Google Pixel in notable ways. When: 2026-03-07T14:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Motorola Razr Fold hands-on: This beats Samsung and Google Pixel in notable ways. ماذا: Motorola Razr Fold hands-on: This beats Samsung and Google Pixel in notable ways. متى: 2026-03-07T14:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7b0bc865d1e38f26b436aad7559249d9bf3542b7/2026/01/06/2355e59f-165b-47a1-a85c-4d83f936c5bf/dsc08809.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/motorola-razr-fold-hands-on-mwc-2026/"
     ]
   }
 ]
