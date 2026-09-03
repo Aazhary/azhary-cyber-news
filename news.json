@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "ea175bcaebd9cebbecb68f73",
+    "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+    "published": "2026-09-03T18:28:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: HPE patches critical ArubaOS-CX remote code execution flaw. What: Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution.. When: 2026-09-03T18:28:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: HPE patches critical ArubaOS-CX remote code execution flaw. ماذا: Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution.. متى: 2026-09-03T18:28:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/05/27/HPE-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/"
+    ]
+  },
+  {
+    "id": "ee5092f126aa1ebba1c96c38",
+    "title": "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC",
+    "link": "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
+    "published": "2026-09-03T18:08:22+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The disgruntled security researcher known as Nightmare Eclipse (aka Chaotic Eclipse, Infinite Nightmare, and now also MSNightmare) is moving away from their singular Microsoft vendetta and on to other vendors.. What: Security sleuth Kevin Beaumont confirmed this exploit works, along with several others Nightmare released over the past week.. When: 2026-09-03T18:08:22+00:00. How: On Thursday, they dropped a new zero-day bug called FalconFlank that affects CrowdStrike’s Falcon endpoint security platform - albeit with a Windows link. Action: See Arabic action below.",
+    "summary_ar": "من: The disgruntled security researcher known as Nightmare Eclipse (aka Chaotic Eclipse, Infinite Nightmare, and now also MSNightmare) is moving away from their singular Microsoft vendetta and on to other vendors.. ماذا: Security sleuth Kevin Beaumont confirmed this exploit works, along with several others Nightmare released over the past week.. متى: 2026-09-03T18:08:22+00:00. كيف: On Thursday, they dropped a new zero-day bug called FalconFlank that affects CrowdStrike’s Falcon endpoint security platform - albeit with a Windows link.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5294333.jpg?imageId=5294333&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318"
+    ]
+  },
+  {
+    "id": "517c6272dbd33f48e01e1ac9",
+    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+    "published": "2026-09-03T18:02:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories. What: ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories. When: 2026-09-03T18:02:47+00:00. How: That idea runs through this edition. Action: See Arabic action below.",
+    "summary_ar": "من: ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories. ماذا: ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories. متى: 2026-09-03T18:02:47+00:00. كيف: That idea runs through this edition.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html"
+    ]
+  },
+  {
     "id": "45aa1b520d92885b567824c3",
     "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
     "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
