@@ -54,6 +54,28 @@
     ]
   },
   {
+    "id": "ddb52b24a40a91dfb2291528",
+    "title": "Cisco searched for IOS XR bugs and found so many it rolled them into an update release",
+    "link": "https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410",
+    "published": "2026-09-04T02:18:36+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cisco has warned its customers of three critical-rated flaws in its products.. What: Cisco has warned its customers of three critical-rated flaws in its products.. When: 2026-09-04T02:18:36+00:00. How: CVE-2026-20274 scores 9.8 on the ten-point CVSS scale and covers a buffet of buffering issues, the potential for out-of-bounds writes, and the chance to initialize resources with an insecure default. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has warned its customers of three critical-rated flaws in its products.. ماذا: Cisco has warned its customers of three critical-rated flaws in its products.. متى: 2026-09-04T02:18:36+00:00. كيف: CVE-2026-20274 scores 9.8 on the ten-point CVSS scale and covers a buffet of buffering issues, the potential for out-of-bounds writes, and the chance to initialize resources with an insecure default.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20212",
+      "CVE-2026-20274",
+      "CVE-2026-20279"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5294415.jpg?imageId=5294415&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410"
+    ]
+  },
+  {
     "id": "22ebdc62aa02fe8f0b9c891f",
     "title": "OpenAI commits $1B in AI credits to frontline cyber defenders",
     "link": "https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
@@ -862,8 +884,8 @@
     "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
     "published": "2026-09-03T06:26:59+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.. What: Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon. When: 2026-09-03T06:26:59+00:00. How: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. Action: See Arabic action below.",
-    "summary_ar": "من: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.. ماذا: Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon. متى: 2026-09-03T06:26:59+00:00. كيف: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.. What: Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon. When: 2026-09-03T06:26:59+00:00. How: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon. Action: See Arabic action below.",
+    "summary_ar": "من: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.. ماذا: Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon. متى: 2026-09-03T06:26:59+00:00. كيف: The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
