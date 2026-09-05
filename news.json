@@ -54,6 +54,44 @@
     ]
   },
   {
+    "id": "21ba9ecf17eb79c288aeb5c8",
+    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+    "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "published": "2026-09-05T16:52:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials. What: JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.. When: 2026-09-05T16:52:33+00:00. How: Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials. ماذا: JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.. متى: 2026-09-05T16:52:33+00:00. كيف: Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html"
+    ]
+  },
+  {
+    "id": "ca7ece09a157d6d85f783bb9",
+    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+    "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "published": "2026-09-05T16:05:08+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.. What: Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.. When: 2026-09-05T16:05:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.. ماذا: Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.. متى: 2026-09-05T16:05:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-59346"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
+    ]
+  },
+  {
     "id": "b0588f2d7af5cd84780c1090",
     "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
     "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
@@ -69,6 +107,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/Blockchain.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/"
+    ]
+  },
+  {
+    "id": "2d965a358adc2b75184604ee",
+    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+    "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "published": "2026-09-05T14:17:02+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted. What: Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S.. When: 2026-09-05T14:17:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted. ماذا: Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S.. متى: 2026-09-05T14:17:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
     ]
   },
   {
@@ -155600,222 +155656,6 @@
     "image": "https://www.zdnet.com/a/img/resize/04fbd9f1fc6a92822e9f272a6a891633f92f4482/2026/03/05/a33ff652-b81e-44b0-ac60-41e4eb0bb72f/more-than-40-of-18-24-year-olds-have-fallen-for-tax-scams-heres-how-to-protect-yourself2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/tax-scam-irs/"
-    ]
-  },
-  {
-    "id": "5d326da397fcd46e79027a45",
-    "title": "Microsoft Teams will tag third-party bots trying to join meetings",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/",
-    "published": "2026-03-09T17:12:49+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says Teams will soon automatically tag third-party bots in lobbies, allowing organizers to control whether they can join meetings.. What: Microsoft Teams will tag third-party bots trying to join meetings. When: 2026-03-09T17:12:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says Teams will soon automatically tag third-party bots in lobbies, allowing organizers to control whether they can join meetings.. ماذا: Microsoft Teams will tag third-party bots trying to join meetings. متى: 2026-03-09T17:12:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/08/20/Microsoft-Teams.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-tag-third-party-bots-in-meeting-lobbies/"
-    ]
-  },
-  {
-    "id": "334b38b5197b6b563352a751",
-    "title": "ShinyHunters claims ongoing Salesforce Aura data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/",
-    "published": "2026-03-09T17:12:22+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: ShinyHunters claims ongoing Salesforce Aura data theft attacks. What: ShinyHunters claims ongoing Salesforce Aura data theft attacks. When: 2026-03-09T17:12:22+00:00. How: Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more data than intended. Action: See Arabic action below.",
-    "summary_ar": "من: ShinyHunters claims ongoing Salesforce Aura data theft attacks. ماذا: ShinyHunters claims ongoing Salesforce Aura data theft attacks. متى: 2026-03-09T17:12:22+00:00. كيف: Salesforce is warning customers that hackers are targeting websites with misconfigured Experience Cloud platforms that give guest users access to more data than intended.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/20/Salesforce.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-ongoing-salesforce-aura-data-theft-attacks/"
-    ]
-  },
-  {
-    "id": "1d5a04e79578e7842d88febc",
-    "title": "Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/",
-    "published": "2026-03-09T16:54:12+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance. What: Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance. When: 2026-03-09T16:54:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance. ماذا: Amazon will give you a $200 gift card when you preorder the Galaxy S26, plus $400 off: Last chance. متى: 2026-03-09T16:54:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fb0a19d92ce3d45dc955277a80375bf701c6d596/2026/02/25/56755e30-2bc9-40ab-b3dd-99d90dc01b66/untitled-design-2026-02-25t132703-321.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-amazon-deal/"
-    ]
-  },
-  {
-    "id": "682e158852017e52cec481e0",
-    "title": "How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports)",
-    "link": "https://www.zdnet.com/article/save-money-on-youtube-tv-choose-from-12-cheaper-packages/",
-    "published": "2026-03-09T16:52:26+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports). What: How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports). When: 2026-03-09T16:52:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports). ماذا: How to save money on YouTube TV: Consider these 12 cheaper packages (including live sports). متى: 2026-03-09T16:52:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d9ca79b35f8d28e3a8f95a09d24626bb2149b9d3/2026/03/09/1ca0cb03-fd41-4861-9a20-56d520235535/yttvgettyimages-2259379088.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/save-money-on-youtube-tv-choose-from-12-cheaper-packages/"
-    ]
-  },
-  {
-    "id": "8b61fde6ed356aeba10d5ec9",
-    "title": "You can still save up to $1,300 on the Samsung Galaxy S26 Ultra at AT&T - here's the details",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-att-preorder-deal/",
-    "published": "2026-03-09T16:06:19+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can still save up to $1,300 on the Samsung Galaxy S26 Ultra at AT&T - here's the details. What: You can still save up to $1,300 on the Samsung Galaxy S26 Ultra at AT&T - here's the details. When: 2026-03-09T16:06:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can still save up to $1,300 on the Samsung Galaxy S26 Ultra at AT&T - here's the details. ماذا: You can still save up to $1,300 on the Samsung Galaxy S26 Ultra at AT&T - here's the details. متى: 2026-03-09T16:06:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4c748ef6be84760f33c564a83f60c0d6e809956c/2026/02/24/40761905-4921-4b8b-b786-4bd8e6feacdd/img-20260224-012337.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-att-preorder-deal/"
-    ]
-  },
-  {
-    "id": "739fc30b25fb6a66e22679a7",
-    "title": "EV charger biz ELECQ zapped by ransomware crooks, customer contact data stolen",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ransomware_crooks_hit_ev_charger/",
-    "published": "2026-03-09T16:02:48+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: An attack on the company’s AWS platform may have exposed customers' names and home addresses Exclusive ELECQ, maker of smart electric vehicle (EV) chargers, is warning customers that their personal details may have been stolen in a ransomware attack that encrypted and copied user data from its cloud systems.… EV charger biz ELECQ zapped by ransomware crooks, customer contact data stolen. What: EV charger biz ELECQ zapped by ransomware crooks, customer contact data stolen. When: 2026-03-09T16:02:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: An attack on the company’s AWS platform may have exposed customers' names and home addresses Exclusive ELECQ, maker of smart electric vehicle (EV) chargers, is warning customers that their personal details may have been stolen in a ransomware attack that encrypted and copied user data from its cloud systems.… EV charger biz ELECQ zapped by ransomware crooks, customer contact data stolen. ماذا: EV charger biz ELECQ zapped by ransomware crooks, customer contact data stolen. متى: 2026-03-09T16:02:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/12/12/ev_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/09/ransomware_crooks_hit_ev_charger/"
-    ]
-  },
-  {
-    "id": "d65a3e51522241636707666f",
-    "title": "I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on",
-    "link": "https://www.zdnet.com/article/ai-job-scams-linkedin/",
-    "published": "2026-03-09T16:00:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on. What: I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on. When: 2026-03-09T16:00:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on. ماذا: I'm a tech professional, and an AI job scam almost fooled me - here's how I caught on. متى: 2026-03-09T16:00:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/357bab076341517e30677ee75a9b989b07cc577b/2026/03/09/a2bf32bc-52e7-4b1c-af5d-38bcd8919d7c/gettyimages-2264564161.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-job-scams-linkedin/"
-    ]
-  },
-  {
-    "id": "174ee65eea8c6114c6f787f5",
-    "title": "Apple might launch a new class of 'Ultra' devices in 2026 - including a foldable iPhone",
-    "link": "https://www.zdnet.com/article/apple-ultra-devices-2026-foldable-iphone-touchscreen-macbook/",
-    "published": "2026-03-09T15:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Perhaps Apple's long-rumored touchscreen MacBook will also be an 'Ultra' device.. What: Apple might launch a new class of 'Ultra' devices in 2026 - including a foldable iPhone. When: 2026-03-09T15:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Perhaps Apple's long-rumored touchscreen MacBook will also be an 'Ultra' device.. ماذا: Apple might launch a new class of 'Ultra' devices in 2026 - including a foldable iPhone. متى: 2026-03-09T15:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b52baf002b0fbe115c7b9794ca53f5b5d523fc52/2026/02/28/2395a92b-79a3-4fdd-967f-6b7bb0406d5d/dsc09253.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-ultra-devices-2026-foldable-iphone-touchscreen-macbook/"
-    ]
-  },
-  {
-    "id": "5fc35685dd5a99626a24cc39",
-    "title": "Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data",
-    "link": "https://www.infosecurity-magazine.com/news/elastic-cloud-siem-manage-stolen/",
-    "published": "2026-03-09T15:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Huntress researchers uncover campaign exploiting vulnerabilities to steal data using Elastic Cloud as a data hub Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data. What: Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data. When: 2026-03-09T15:45:00+00:00. How: Huntress researchers uncover campaign exploiting vulnerabilities to steal data using Elastic Cloud as a data hub Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data Action: See Arabic action below.",
-    "summary_ar": "من: Huntress researchers uncover campaign exploiting vulnerabilities to steal data using Elastic Cloud as a data hub Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data. ماذا: Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data. متى: 2026-03-09T15:45:00+00:00. كيف: Huntress researchers uncover campaign exploiting vulnerabilities to steal data using Elastic Cloud as a data hub Threat Actor Exploits Flaws and Uses Elastic Cloud SIEM to Manage Stolen Data. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/1bc21241-7343-45da-8545-ff0cd6164a7e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/elastic-cloud-siem-manage-stolen/"
-    ]
-  },
-  {
-    "id": "11c82ab7a4470e1a677ba9e1",
-    "title": "I've used Tor browser for years, but now I'm using it on my Android phone - here's why",
-    "link": "https://www.zdnet.com/article/tor-browser-android/",
-    "published": "2026-03-09T15:32:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've used Tor browser for years, but now I'm using it on my Android phone - here's why. What: I've used Tor browser for years, but now I'm using it on my Android phone - here's why. When: 2026-03-09T15:32:00+00:00. How: I've used Tor browser for years, but now I'm using it on my Android phone - here's why Action: See Arabic action below.",
-    "summary_ar": "من: I've used Tor browser for years, but now I'm using it on my Android phone - here's why. ماذا: I've used Tor browser for years, but now I'm using it on my Android phone - here's why. متى: 2026-03-09T15:32:00+00:00. كيف: I've used Tor browser for years, but now I'm using it on my Android phone - here's why. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4cd15b1aa0934708d4df5fa7dc9137818a8f9151/2026/03/09/fe291434-03d9-4852-bd1d-ce407a6c6ceb/i-started-using-tor-browser-on-android-and-you-should-too.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/tor-browser-android/"
-    ]
-  },
-  {
-    "id": "e5e23a9d88701db5c5b3f1cc",
-    "title": "FBI warns of phishing attacks impersonating US city, county officials",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/",
-    "published": "2026-03-09T15:30:50+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: FBI warns of phishing attacks impersonating US city, county officials. What: FBI warns of phishing attacks impersonating US city, county officials. When: 2026-03-09T15:30:50+00:00. How: officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning permits. Action: See Arabic action below.",
-    "summary_ar": "من: FBI warns of phishing attacks impersonating US city, county officials. ماذا: FBI warns of phishing attacks impersonating US city, county officials. متى: 2026-03-09T15:30:50+00:00. كيف: officials in phishing attacks targeting businesses and individuals who request city and county planning and zoning permits.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI__headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fbi-warns-of-phishing-attacks-impersonating-us-city-county-officials/"
-    ]
-  },
-  {
-    "id": "4d12307447bda2ce1e558670",
-    "title": "Getting your Android phone repaired? Turn on this setting first - and lock down your data",
-    "link": "https://www.zdnet.com/article/android-repair-mode-protect-data-during-phone-repair/",
-    "published": "2026-03-09T15:25:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Getting your Android phone repaired? Turn on this setting first - and lock down your data. What: Repair Mode lets technicians fix your Android phone without seeing your personal files or apps.. When: 2026-03-09T15:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Getting your Android phone repaired? Turn on this setting first - and lock down your data. ماذا: Repair Mode lets technicians fix your Android phone without seeing your personal files or apps.. متى: 2026-03-09T15:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f3100b9a68adc91cf4cbbd5628ec3090f738ba87/2026/03/09/57346494-e155-4bd2-a6a9-acff3e47ccea/what-is-android-repair-mode-and-when-should-you-use-it.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-repair-mode-protect-data-during-phone-repair/"
     ]
   }
 ]
