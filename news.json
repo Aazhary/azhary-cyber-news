@@ -54,6 +54,45 @@
     ]
   },
   {
+    "id": "b0588f2d7af5cd84780c1090",
+    "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+    "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "published": "2026-09-05T14:29:13+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain. What: A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC).. When: 2026-09-05T14:29:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain. ماذا: A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC).. متى: 2026-09-05T14:29:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/Blockchain.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/"
+    ]
+  },
+  {
+    "id": "c131a8c620ce99fa0cd0a67b",
+    "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+    "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+    "published": "2026-09-05T13:00:28+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites. What: The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .. When: 2026-09-05T13:00:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites. ماذا: The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek .. متى: 2026-09-05T13:00:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-32475"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+      "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/"
+    ]
+  },
+  {
     "id": "99654aef2752f0ba6416d225",
     "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
     "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
@@ -76898,24 +76937,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/06/08/Qilin.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/"
-    ]
-  },
-  {
-    "id": "ecf27bf3a10825002cf5200e",
-    "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-    "link": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-    "published": "2026-06-08T12:16:09+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Everest Forms Vulnerability Exploited to Hack WordPress Sites. What: The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.. When: 2026-06-08T12:16:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Everest Forms Vulnerability Exploited to Hack WordPress Sites. ماذا: The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.. متى: 2026-06-08T12:16:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg",
-    "sources": [
-      "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/"
     ]
   },
   {
@@ -155795,366 +155816,6 @@
     "image": "https://www.zdnet.com/a/img/resize/f3100b9a68adc91cf4cbbd5628ec3090f738ba87/2026/03/09/57346494-e155-4bd2-a6a9-acff3e47ccea/what-is-android-repair-mode-and-when-should-you-use-it.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/android-repair-mode-protect-data-during-phone-repair/"
-    ]
-  },
-  {
-    "id": "bc416f663e329d4946bb3654",
-    "title": "Scosche FoundIt review: The first car charger with Apple and Google tracking spoiled me",
-    "link": "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/",
-    "published": "2026-03-09T15:00:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Scosche FoundIt 12V charger has dual USB ports and a built-in finder for Apple Find My and Google Find Hub.. What: Scosche FoundIt review: The first car charger with Apple and Google tracking spoiled me. When: 2026-03-09T15:00:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Scosche FoundIt 12V charger has dual USB ports and a built-in finder for Apple Find My and Google Find Hub.. ماذا: Scosche FoundIt review: The first car charger with Apple and Google tracking spoiled me. متى: 2026-03-09T15:00:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d76245361890fe77d81ec752c7e058bde03c2567/2026/02/15/f7e9c3d2-7a1d-4bb0-bc05-0317f0a7e007/img-2259.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/scosche-foundit-car-charger-and-finder-tag-review/"
-    ]
-  },
-  {
-    "id": "3e11ce6120ab0700ea9d5414",
-    "title": "Trump Administration Unveils New Cyber Strategy for America",
-    "link": "https://www.infosecurity-magazine.com/news/usa-unveils-new-cyber-strategy/",
-    "published": "2026-03-09T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Trump Administration Unveils New Cyber Strategy for America. What: Trump Administration Unveils New Cyber Strategy for America. When: 2026-03-09T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Trump Administration Unveils New Cyber Strategy for America. ماذا: Trump Administration Unveils New Cyber Strategy for America. متى: 2026-03-09T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/c60cee72-d9d1-493a-9d3e-f82c634daf45.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/usa-unveils-new-cyber-strategy/"
-    ]
-  },
-  {
-    "id": "2c9b7c4776a3e02a507e1b39",
-    "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-    "link": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-    "published": "2026-03-09T14:50:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device. What: UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device. When: 2026-03-09T14:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device. ماذا: UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device. متى: 2026-03-09T14:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html"
-    ]
-  },
-  {
-    "id": "26cfa0adf35d864647617d31",
-    "title": "I tested GPT-5.4, and the answers were really good - just not always what I asked",
-    "link": "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/",
-    "published": "2026-03-09T14:42:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm a little concerned about OpenAI's claims that GPT-5.4 Thinking can do professional tasks.. What: I tested GPT-5.4, and the answers were really good - just not always what I asked. When: 2026-03-09T14:42:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm a little concerned about OpenAI's claims that GPT-5.4 Thinking can do professional tasks.. ماذا: I tested GPT-5.4, and the answers were really good - just not always what I asked. متى: 2026-03-09T14:42:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/063e2dddb7e64691467da757cd3ab018e76290ad/2026/03/09/5cfbdba2-e607-425f-89e5-987d81326912/i-tested-gpt-5-4-and-the-answers-were-really-good-just-not-always-what-i-asked.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/gpt-5-4-thinking-tests-review/"
-    ]
-  },
-  {
-    "id": "2f40cd4b87c34ff14a952abf",
-    "title": "BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw)",
-    "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
-    "published": "2026-03-09T14:23:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw). What: BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw). When: 2026-03-09T14:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw). ماذا: BMX SolidSafe 10K review: This solid-sate battery has so many benefits (and an obvious flaw). متى: 2026-03-09T14:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3d286f8fdf0bcb04048ca0f52cb0cdc8a58f2f0c/2026/02/23/19d6ff74-58a0-4851-b5a8-d9344d0d8a77/img-2549.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bmx-solidsafe-10k-review/"
-    ]
-  },
-  {
-    "id": "27d0de4321d3fb57a70b1519",
-    "title": "Why Password Audits Miss the Accounts Attackers Actually Want",
-    "link": "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/",
-    "published": "2026-03-09T14:10:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Why Password Audits Miss the Accounts Attackers Actually Want. What: Why Password Audits Miss the Accounts Attackers Actually Want. When: 2026-03-09T14:10:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Password Audits Miss the Accounts Attackers Actually Want. ماذا: Why Password Audits Miss the Accounts Attackers Actually Want. متى: 2026-03-09T14:10:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/04/control-panel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/why-password-audits-miss-the-accounts-attackers-actually-want/"
-    ]
-  },
-  {
-    "id": "ec461a204f80fcac57b344fe",
-    "title": "Microsoft still working to fix Windows Explorer white flashes",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/",
-    "published": "2026-03-09T14:10:17+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems.. What: [...] Microsoft still working to fix Windows Explorer white flashes. When: 2026-03-09T14:10:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has confirmed that it's still working to fully address a known issue that causes bright white flashes when opening the File Explorer on some Windows 11 systems.. ماذا: [...] Microsoft still working to fix Windows Explorer white flashes. متى: 2026-03-09T14:10:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/11/19/Windows-11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-windows-explorer-white-flashes/"
-    ]
-  },
-  {
-    "id": "135866db97e188021664b554",
-    "title": "UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source",
-    "link": "https://www.infosecurity-magazine.com/news/uk-new-crackdown-unit-cyber-fraud/",
-    "published": "2026-03-09T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source. What: UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source. When: 2026-03-09T14:00:00+00:00. How: New UK Online Crime Centre will combine expertise from a range of sources to takedown online channels cyber-scammers rely on UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source Action: See Arabic action below.",
-    "summary_ar": "من: UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source. ماذا: UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source. متى: 2026-03-09T14:00:00+00:00. كيف: New UK Online Crime Centre will combine expertise from a range of sources to takedown online channels cyber-scammers rely on UK Launches New Crackdown Unit to Tackle Cyber-Fraud at the Source. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/7fec49f2-d2df-443d-95be-b25c205ae3be.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/uk-new-crackdown-unit-cyber-fraud/"
-    ]
-  },
-  {
-    "id": "46f8fdaf03df61ad5b1e626e",
-    "title": "Can Meta workers see through your Ray-Ban smart glasses? Here's what security experts say",
-    "link": "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/",
-    "published": "2026-03-09T13:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Can Meta workers see through your Ray-Ban smart glasses?. What: Can Meta workers see through your Ray-Ban smart glasses? Here's what security experts say. When: 2026-03-09T13:58:00+00:00. How: Can Meta workers see through your Ray-Ban smart glasses? Action: See Arabic action below.",
-    "summary_ar": "من: Can Meta workers see through your Ray-Ban smart glasses?. ماذا: Can Meta workers see through your Ray-Ban smart glasses? Here's what security experts say. متى: 2026-03-09T13:58:00+00:00. كيف: Can Meta workers see through your Ray-Ban smart glasses?. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e4fd749607d36e3f109519487b370bf0966aad79/2025/09/17/5f003e20-75ab-494c-bfb4-21298db81f5a/ray-ban-meta-gen2-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meta-ray-ban-smart-glasses-privacy-concerns/"
-    ]
-  },
-  {
-    "id": "76bd47e310a8a15f6c199323",
-    "title": "Soundcore P31i review: I replaced my AirPods with these $40 earbuds, and didn't regret it",
-    "link": "https://www.zdnet.com/article/anker-soundcore-p31i-review/",
-    "published": "2026-03-09T13:51:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Soundcore P31i review: I replaced my AirPods with these $40 earbuds, and didn't regret it. What: Soundcore P31i review: I replaced my AirPods with these $40 earbuds, and didn't regret it. When: 2026-03-09T13:51:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Soundcore P31i review: I replaced my AirPods with these $40 earbuds, and didn't regret it. ماذا: Soundcore P31i review: I replaced my AirPods with these $40 earbuds, and didn't regret it. متى: 2026-03-09T13:51:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2c52884dde99ba605231599e6806909dbd90a1ad/2026/03/07/4472b610-1379-401d-bb84-af8497551381/img-2870.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anker-soundcore-p31i-review/"
-    ]
-  },
-  {
-    "id": "ea380f1d70d9ea33b6a27ae5",
-    "title": "⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-    "published": "2026-03-09T13:46:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware. What: ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware. When: 2026-03-09T13:46:00+00:00. How: It doesn't always ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware Action: See Arabic action below.",
-    "summary_ar": "من: ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware. ماذا: ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware. متى: 2026-03-09T13:46:00+00:00. كيف: It doesn't always ⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html"
-    ]
-  },
-  {
-    "id": "c12190d2c63dfdc210322a6d",
-    "title": "iPad Air (M4, 2026) review: I benchmarked Apple's tablet with the Pro model, and it's very close",
-    "link": "https://www.zdnet.com/article/ipad-air-m4-review/",
-    "published": "2026-03-09T13:41:22+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: iPad Air (M4, 2026) review: I benchmarked Apple's tablet with the Pro model, and it's very close. What: iPad Air (M4, 2026) review: I benchmarked Apple's tablet with the Pro model, and it's very close. When: 2026-03-09T13:41:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: iPad Air (M4, 2026) review: I benchmarked Apple's tablet with the Pro model, and it's very close. ماذا: iPad Air (M4, 2026) review: I benchmarked Apple's tablet with the Pro model, and it's very close. متى: 2026-03-09T13:41:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/07dcbf6c4c834fc1b57d53479b1e7f266460adc6/2026/03/06/08098a02-642a-43b1-9875-a9452a1883ed/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ipad-air-m4-review/"
-    ]
-  },
-  {
-    "id": "584e87cb8a474ce0727325ac",
-    "title": "AI Security Startups Dominate New Cyber Innovation Awards",
-    "link": "https://www.infosecurity-magazine.com/news/ai-security-startups-cyber/",
-    "published": "2026-03-09T13:25:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: AI Security Startups Dominate New Cyber Innovation Awards. What: AI Security Startups Dominate New Cyber Innovation Awards. When: 2026-03-09T13:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Security Startups Dominate New Cyber Innovation Awards. ماذا: AI Security Startups Dominate New Cyber Innovation Awards. متى: 2026-03-09T13:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a09e65a1-3f7e-4db3-961b-6fb0770ba78d.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ai-security-startups-cyber/"
-    ]
-  },
-  {
-    "id": "6f292b6f4a363fbfe3d263de",
-    "title": "Roku just made browsing its free live TV channels so much easier - how the 'Search' button works",
-    "link": "https://www.zdnet.com/article/roku-free-tv-search-button/",
-    "published": "2026-03-09T13:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Roku just made browsing its free live TV channels so much easier - how the 'Search' button works. What: Roku just made browsing its free live TV channels so much easier - how the 'Search' button works. When: 2026-03-09T13:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Roku just made browsing its free live TV channels so much easier - how the 'Search' button works. ماذا: Roku just made browsing its free live TV channels so much easier - how the 'Search' button works. متى: 2026-03-09T13:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a39c6a40f350d6c1e447c14752af9b2d9a152604/2024/10/25/c06a9b48-a850-4f90-9046-75c097904913/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/roku-free-tv-search-button/"
-    ]
-  },
-  {
-    "id": "71f2d2a9e22d0d4b378f6d70",
-    "title": "Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_police_fraud_shaming/",
-    "published": "2026-03-09T13:08:28+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma. What: Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma. When: 2026-03-09T13:08:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma. ماذا: Dutch cops warn 100 alleged scammers: Turn yourselves in or we tell Grandma. متى: 2026-03-09T13:08:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/09/politie_game_over_campaign_poster1.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_police_fraud_shaming/"
-    ]
-  },
-  {
-    "id": "91a592bdbc9998f4199ba45b",
-    "title": "Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link",
-    "link": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
-    "published": "2026-03-09T13:00:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to secure them.. What: Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link. When: 2026-03-09T13:00:47+00:00. How: Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link Action: See Arabic action below.",
-    "summary_ar": "من: Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to secure them.. ماذا: Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link. متى: 2026-03-09T13:00:47+00:00. كيف: Cybercriminals are using AI to attack the cloud faster - and third-party software is the weak link. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/688863551c9a1e08375dd27635be467736fabd6b/2026/03/09/33144c01-d4b7-4b78-8462-9a9faa56865d/gettyimages-1286936912.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/"
-    ]
-  },
-  {
-    "id": "05226d5465aec2419adc2791",
-    "title": "Microsoft's Agent 365 helps you spot risky AI agents before they cause trouble - here's how",
-    "link": "https://www.zdnet.com/article/microsoft-introduces-agent-365/",
-    "published": "2026-03-09T13:00:35+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft has a new centralized dashboard that lets IT teams track AI agents' visibility, permissions, and security risks to prevent them from becoming insider threats to corporate systems.. What: Microsoft's Agent 365 helps you spot risky AI agents before they cause trouble - here's how. When: 2026-03-09T13:00:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has a new centralized dashboard that lets IT teams track AI agents' visibility, permissions, and security risks to prevent them from becoming insider threats to corporate systems.. ماذا: Microsoft's Agent 365 helps you spot risky AI agents before they cause trouble - here's how. متى: 2026-03-09T13:00:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/78ccf3cf8ef7a56e3a5c31e038acfcd974a5c464/2026/03/09/24d4c606-1786-4326-9e32-c76354d07cb0/gettyimages-2170273841.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-introduces-agent-365/"
-    ]
-  },
-  {
-    "id": "0b0d762f945216e2cc04669f",
-    "title": "ClickFix Attack Uses Windows Terminal to Evade Detection",
-    "link": "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/",
-    "published": "2026-03-09T12:51:29+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ClickFix Attack Uses Windows Terminal to Evade Detection. What: The post ClickFix Attack Uses Windows Terminal to Evade Detection appeared first on SecurityWeek .. When: 2026-03-09T12:51:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ClickFix Attack Uses Windows Terminal to Evade Detection. ماذا: The post ClickFix Attack Uses Windows Terminal to Evade Detection appeared first on SecurityWeek .. متى: 2026-03-09T12:51:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/clickfix-attack-uses-windows-terminal-to-evade-detection/"
-    ]
-  },
-  {
-    "id": "e24080198f990b56d8b73297",
-    "title": "Russian cybercrims phish their way into officials' Signal and WhatsApp accounts",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_spies_say_russian_cybercrims/",
-    "published": "2026-03-09T12:40:53+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Russian cybercrims phish their way into officials' Signal and WhatsApp accounts. What: Russian cybercrims phish their way into officials' Signal and WhatsApp accounts. When: 2026-03-09T12:40:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russian cybercrims phish their way into officials' Signal and WhatsApp accounts. ماذا: Russian cybercrims phish their way into officials' Signal and WhatsApp accounts. متى: 2026-03-09T12:40:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/06/17/russia_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/09/dutch_spies_say_russian_cybercrims/"
-    ]
-  },
-  {
-    "id": "7f307cd2415e2a0f824752e9",
-    "title": "How much RAM does your PC actually need in 2026? A Windows and Mac expert weighs in",
-    "link": "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/",
-    "published": "2026-03-09T12:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How much RAM does your PC actually need in 2026? A Windows and Mac expert weighs in. What: How much RAM does your PC actually need in 2026? A Windows and Mac expert weighs in. When: 2026-03-09T12:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How much RAM does your PC actually need in 2026? A Windows and Mac expert weighs in. ماذا: How much RAM does your PC actually need in 2026? A Windows and Mac expert weighs in. متى: 2026-03-09T12:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c1c0758f61817069d8ac473042021f8e44956d71/2026/03/04/9fb921f4-3a31-4f88-9b9b-45625774df77/dsc09761.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/"
     ]
   }
 ]
