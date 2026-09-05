@@ -54,6 +54,42 @@
     ]
   },
   {
+    "id": "99654aef2752f0ba6416d225",
+    "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+    "published": "2026-09-05T11:11:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach.. What: OpenAI admits it didn't disclose rogue AI wiki hijacking incident. When: 2026-09-05T11:11:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach.. ماذا: OpenAI admits it didn't disclose rogue AI wiki hijacking incident. متى: 2026-09-05T11:11:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/28/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/"
+    ]
+  },
+  {
+    "id": "e2da645b2e416dcac0aec5e3",
+    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+    "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "published": "2026-09-05T07:55:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.. What: Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel. When: 2026-09-05T07:55:10+00:00. How: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. Action: See Arabic action below.",
+    "summary_ar": "من: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.. ماذا: Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel. متى: 2026-09-05T07:55:10+00:00. كيف: A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+    ]
+  },
+  {
     "id": "85374d9698432a43e51c260d",
     "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
     "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
@@ -156119,168 +156155,6 @@
     "image": "https://www.zdnet.com/a/img/resize/c1c0758f61817069d8ac473042021f8e44956d71/2026/03/04/9fb921f4-3a31-4f88-9b9b-45625774df77/dsc09761.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-much-ram-pc-mac-2026/"
-    ]
-  },
-  {
-    "id": "2305b8b7c31a4b983f1fb952",
-    "title": "Internet Infrastructure TLD .arpa Abused in Phishing Attacks",
-    "link": "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/",
-    "published": "2026-03-09T12:06:25+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.. What: Internet Infrastructure TLD .arpa Abused in Phishing Attacks. When: 2026-03-09T12:06:25+00:00. How: Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare. Action: See Arabic action below.",
-    "summary_ar": "من: Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.. ماذا: Internet Infrastructure TLD .arpa Abused in Phishing Attacks. متى: 2026-03-09T12:06:25+00:00. كيف: Abusing DNS record management controls, the threat actor hides the location of malicious content via Cloudflare.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/internet-infrastructure-tld-arpa-abused-in-phishing-attacks/"
-    ]
-  },
-  {
-    "id": "5bccdb8fe6e6f8d2b899878d",
-    "title": "Chinese Cyber Threat Lurks In Critical Asian Sectors for Years",
-    "link": "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors",
-    "published": "2026-03-09T12:05:06+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Chinese Cyber Threat Lurks In Critical Asian Sectors for Years. What: Chinese Cyber Threat Lurks In Critical Asian Sectors for Years. When: 2026-03-09T12:05:06+00:00. How: An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying. Action: See Arabic action below.",
-    "summary_ar": "من: Chinese Cyber Threat Lurks In Critical Asian Sectors for Years. ماذا: Chinese Cyber Threat Lurks In Critical Asian Sectors for Years. متى: 2026-03-09T12:05:06+00:00. كيف: An undefined Chinese-speaking actor wields a combo of custom malware, open source tools, and LOTL binaries against Windows and Linux, likely for spying.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/chinese-cyber-threat-critical-asian-sectors"
-    ]
-  },
-  {
-    "id": "383de02dcf53eac5b479d7e9",
-    "title": "Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/",
-    "published": "2026-03-09T11:58:46+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: This isn't just a nostalgia trip – billions of legacy microcontrollers may be at risk AI can reverse engineer machine code and find vulnerabilities in ancient legacy architectures, says Microsoft Azure CTO Mark Russinovich, who used his own Apple II code from 40 years ago as an example.… Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns. What: Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns. When: 2026-03-09T11:58:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This isn't just a nostalgia trip – billions of legacy microcontrollers may be at risk AI can reverse engineer machine code and find vulnerabilities in ancient legacy architectures, says Microsoft Azure CTO Mark Russinovich, who used his own Apple II code from 40 years ago as an example.… Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns. ماذا: Microsoft Azure CTO set Claude on his 1986 Apple II code, says it found vulns. متى: 2026-03-09T11:58:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/08/21/warning_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/09/claude_legacy_code_vulns/"
-    ]
-  },
-  {
-    "id": "5178b6afdc61ce238dbe198a",
-    "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-    "link": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-    "published": "2026-03-09T11:45:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Can the Security Platform Finally Deliver for the Mid-Market?. What: Can the Security Platform Finally Deliver for the Mid-Market?. When: 2026-03-09T11:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Can the Security Platform Finally Deliver for the Mid-Market?. ماذا: Can the Security Platform Finally Deliver for the Mid-Market?. متى: 2026-03-09T11:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html"
-    ]
-  },
-  {
-    "id": "8f2182fbbbfe056a0aa35b23",
-    "title": "Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign",
-    "link": "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/",
-    "published": "2026-03-09T11:42:07+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign. What: The post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on SecurityWeek .. When: 2026-03-09T11:42:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign. ماذا: The post Cloned AI Tool Sites Distribute Malware in ‘InstallFix’ Campaign appeared first on SecurityWeek .. متى: 2026-03-09T11:42:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/cloned-ai-tool-sites-distribute-malware-in-installfix-campaign/"
-    ]
-  },
-  {
-    "id": "699c337c6eee7ff4cb6b455c",
-    "title": "TriZetto Provider Solutions Breach Hits 3.4 Million Patients",
-    "link": "https://www.infosecurity-magazine.com/news/trizetto-provider-solutions-breach/",
-    "published": "2026-03-09T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: TriZetto Provider Solutions Breach Hits 3.4 Million Patients. What: TriZetto Provider Solutions Breach Hits 3.4 Million Patients. When: 2026-03-09T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TriZetto Provider Solutions Breach Hits 3.4 Million Patients. ماذا: TriZetto Provider Solutions Breach Hits 3.4 Million Patients. متى: 2026-03-09T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/dd739e6e-08f5-49a7-baee-35e3fd5fab8e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/trizetto-provider-solutions-breach/"
-    ]
-  },
-  {
-    "id": "afeb41f8683f02b6ca8877dc",
-    "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-    "link": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-    "published": "2026-03-09T10:28:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.. What: Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft. When: 2026-03-09T10:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.. ماذا: Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft. متى: 2026-03-09T10:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html"
-    ]
-  },
-  {
-    "id": "b08371d5d78f0c84a74b375d",
-    "title": "Ghanaian Pleads Guilty to Role in $100m Romance Scam",
-    "link": "https://www.infosecurity-magazine.com/news/ghanaian-pleads-guilty-100m/",
-    "published": "2026-03-09T10:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Ghanaian Pleads Guilty to Role in $100m Romance Scam. What: Ghanaian Pleads Guilty to Role in $100m Romance Scam. When: 2026-03-09T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ghanaian Pleads Guilty to Role in $100m Romance Scam. ماذا: Ghanaian Pleads Guilty to Role in $100m Romance Scam. متى: 2026-03-09T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/23f3f9b5-43dc-460e-bcbc-28391d548068.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ghanaian-pleads-guilty-100m/"
-    ]
-  },
-  {
-    "id": "399b573e1c79a3e5f543e5ad",
-    "title": "Royal Navy races to arm ships against drone threat",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/uks_royal_navy_desperately_seeking/",
-    "published": "2026-03-09T09:30:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Royal Navy races to arm ships against drone threat. What: Royal Navy races to arm ships against drone threat. When: 2026-03-09T09:30:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Royal Navy races to arm ships against drone threat. ماذا: Royal Navy races to arm ships against drone threat. متى: 2026-03-09T09:30:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/04/18/shutterstock_roughsea.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/09/uks_royal_navy_desperately_seeking/"
     ]
   }
 ]
