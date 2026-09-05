@@ -54,6 +54,27 @@
     ]
   },
   {
+    "id": "85374d9698432a43e51c260d",
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+    "published": "2026-09-05T07:31:53+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S.. What: Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S.. When: 2026-09-05T07:31:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S.. ماذا: Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S.. متى: 2026-09-05T07:31:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-81578",
+      "CVE-2026-82078"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+    ]
+  },
+  {
     "id": "680bad5aa943a5735811d2c5",
     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
     "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
@@ -156260,24 +156281,6 @@
     "image": "https://regmedia.co.uk/2023/04/18/shutterstock_roughsea.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/03/09/uks_royal_navy_desperately_seeking/"
-    ]
-  },
-  {
-    "id": "b638aa291ac4a9ae5795e7a9",
-    "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-    "link": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-    "published": "2026-03-09T07:21:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure. What: Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure. When: 2026-03-09T07:21:00+00:00. How: The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure Action: See Arabic action below.",
-    "summary_ar": "من: The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure. ماذا: Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure. متى: 2026-03-09T07:21:00+00:00. كيف: The activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png",
-    "sources": [
-      "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html"
     ]
   }
 ]
