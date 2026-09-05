@@ -72,6 +72,24 @@
     ]
   },
   {
+    "id": "e6a069b23ae4b8c4a88ffe25",
+    "title": "ASCII smuggling isn't just an AI security risk",
+    "link": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
+    "published": "2026-09-04T19:23:25+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Microsoft uncovered a massive phishing campaign using invisible Unicode tag characters that peaked at more than 2.37 million messages in late February, remained elevated during weekdays over the next three months, and gradually declined by mid-June.. What: “Instead, the invisible tag characters were inserted inside common financial keywords, splitting them apart so that a literal signature or keyword match would fail.” Redmond first detected the ASCII-smuggling signature in early February, flagging about 21,000 messages on February 8 before the number skyrocketed to more than 1.3 million the next day.. When: 2026-09-04T19:23:25+00:00. How: Fraudsters have found a new use for ASCII smuggling, typically used to hide malicious prompts intended for AI models, in an old-school attack method: email phishing. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft uncovered a massive phishing campaign using invisible Unicode tag characters that peaked at more than 2.37 million messages in late February, remained elevated during weekdays over the next three months, and gradually declined by mid-June.. ماذا: “Instead, the invisible tag characters were inserted inside common financial keywords, splitting them apart so that a literal signature or keyword match would fail.” Redmond first detected the ASCII-smuggling signature in early February, flagging about 21,000 messages on February 8 before the number skyrocketed to more than 1.3 million the next day.. متى: 2026-09-04T19:23:25+00:00. كيف: Fraudsters have found a new use for ASCII smuggling, typically used to hide malicious prompts intended for AI models, in an old-school attack method: email phishing.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/258480.jpg?imageId=258480&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595"
+    ]
+  },
+  {
     "id": "289c57109448005063ce0c82",
     "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
     "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
@@ -156296,60 +156314,6 @@
     "image": "https://regmedia.co.uk/2017/03/07/iranphones.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/03/09/kettle_2026_episode_01_iran_war/"
-    ]
-  },
-  {
-    "id": "a8872083347716754a00f640",
-    "title": "3 tiny gadgets I trust to block electrical surges, data-stealing software, and more",
-    "link": "https://www.zdnet.com/article/3-tiny-gadgets-protect-your-devices-from-surges-malware/",
-    "published": "2026-03-09T00:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 3 tiny gadgets I trust to block electrical surges, data-stealing software, and more. What: 3 tiny gadgets I trust to block electrical surges, data-stealing software, and more. When: 2026-03-09T00:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 3 tiny gadgets I trust to block electrical surges, data-stealing software, and more. ماذا: 3 tiny gadgets I trust to block electrical surges, data-stealing software, and more. متى: 2026-03-09T00:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7796640193cd63da23abae5127abed96f4984192/2025/12/11/a1a8b615-c7b5-46e1-9192-96f276ffa0d8/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/3-tiny-gadgets-protect-your-devices-from-surges-malware/"
-    ]
-  },
-  {
-    "id": "0bef1949a26ec105d63f8631",
-    "title": "How AI Assistants are Moving the Security Goalposts",
-    "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-    "published": "2026-03-08T23:35:42+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: Other more established AI assistants like Anthropic’s Claude and Microsoft’s Copilot also can do these things, but OpenClaw isn’t just a passive digital butler waiting for commands.. What: “Developers building websites from their phones while putting babies to sleep; users running entire companies through a lobster-themed AI; engineers who’ve set up autonomous code loops that fix tests, capture errors through webhooks, and open pull requests, all while they’re away from their desks.” You can probably already see how this experimental technology could go sideways in a hurry.. When: 2026-03-08T23:35:42+00:00. How: OpenClaw is an open-source autonomous AI agent designed to run locally on your computer and proactively take actions on your behalf without needing to be prompted. Action: See Arabic action below.",
-    "summary_ar": "من: Other more established AI assistants like Anthropic’s Claude and Microsoft’s Copilot also can do these things, but OpenClaw isn’t just a passive digital butler waiting for commands.. ماذا: “Developers building websites from their phones while putting babies to sleep; users running entire companies through a lobster-themed AI; engineers who’ve set up autonomous code loops that fix tests, capture errors through webhooks, and open pull requests, all while they’re away from their desks.” You can probably already see how this experimental technology could go sideways in a hurry.. متى: 2026-03-08T23:35:42+00:00. كيف: OpenClaw is an open-source autonomous AI agent designed to run locally on your computer and proactively take actions on your behalf without needing to be prompted.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/"
-    ]
-  },
-  {
-    "id": "18754db87127077ec61cb0cb",
-    "title": "FBI is investigating breach that may have hit its wiretapping tools",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/08/fbi_investigates_wiretap_system_breach/",
-    "published": "2026-03-08T23:14:54+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: FBI is investigating breach that may have hit its wiretapping tools. What: PLUS: Europol takes down two crime gangs; LastPass users phished (again); Crooks increase crypto hauls; And more Infosec In Brief The FBI is investigating a breach of its systems which reportedly affected systems related to wiretapping and surveillance.… FBI is investigating breach that may have hit its wiretapping tools. When: 2026-03-08T23:14:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FBI is investigating breach that may have hit its wiretapping tools. ماذا: PLUS: Europol takes down two crime gangs; LastPass users phished (again); Crooks increase crypto hauls; And more Infosec In Brief The FBI is investigating a breach of its systems which reportedly affected systems related to wiretapping and surveillance.… FBI is investigating breach that may have hit its wiretapping tools. متى: 2026-03-08T23:14:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2016/02/18/fbi-splat.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/08/fbi_investigates_wiretap_system_breach/"
     ]
   }
 ]
