@@ -54,6 +54,159 @@
     ]
   },
   {
+    "id": "c7e7ad60970c425199403415",
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "published": "2026-09-08T21:44:22+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Microsoft Corp.. What: today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.. When: 2026-09-08T21:44:22+00:00. How: There are two “zero-day” flaws fixed this month that are being actively exploited: both CVE-2026-81963 and CVE-2026-85880 allow an attacker to elevate their privileges on Windows system. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft Corp.. ماذا: today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever.. متى: 2026-09-08T21:44:22+00:00. كيف: There are two “zero-day” flaws fixed this month that are being actively exploited: both CVE-2026-81963 and CVE-2026-85880 allow an attacker to elevate their privileges on Windows system.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-62832",
+      "CVE-2026-68820",
+      "CVE-2026-69730",
+      "CVE-2026-69829",
+      "CVE-2026-72971",
+      "CVE-2026-81963",
+      "CVE-2026-85880"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
+    ]
+  },
+  {
+    "id": "7af7024d72f7017eadb9686d",
+    "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+    "published": "2026-09-08T21:26:02+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.. What: Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.. When: 2026-09-08T21:26:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.. ماذا: Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.. متى: 2026-09-08T21:26:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves"
+    ]
+  },
+  {
+    "id": "394ebaf29f294a93c1bd62e9",
+    "title": "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
+    "link": "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
+    "published": "2026-09-08T21:12:19+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The threat hunters found and disclosed the covert channel to OpenAI in late June - the same day that OpenAI’s agents exploited a zero-day bug in Artifactory to gain internet access and ultimately hack Hugging Face, Pedro Drimel Neto, Check Point’s malware analyst team leader, told The Register.. What: The threat hunters found and disclosed the covert channel to OpenAI in late June - the same day that OpenAI’s agents exploited a zero-day bug in Artifactory to gain internet access and ultimately hack Hugging Face, Pedro Drimel Neto, Check Point’s malware analyst team leader, told The Register.. When: 2026-09-08T21:12:19+00:00. How: A secret channel running through ChatGPT's internal JFrog Artifactory instance allowed one account to send hidden tasks - such as retrieving email data from a connected Gmail account - to a ChatGPT session under another account, according to Check Point Research. Action: See Arabic action below.",
+    "summary_ar": "من: The threat hunters found and disclosed the covert channel to OpenAI in late June - the same day that OpenAI’s agents exploited a zero-day bug in Artifactory to gain internet access and ultimately hack Hugging Face, Pedro Drimel Neto, Check Point’s malware analyst team leader, told The Register.. ماذا: The threat hunters found and disclosed the covert channel to OpenAI in late June - the same day that OpenAI’s agents exploited a zero-day bug in Artifactory to gain internet access and ultimately hack Hugging Face, Pedro Drimel Neto, Check Point’s malware analyst team leader, told The Register.. متى: 2026-09-08T21:12:19+00:00. كيف: A secret channel running through ChatGPT's internal JFrog Artifactory instance allowed one account to send hidden tasks - such as retrieving email data from a connected Gmail account - to a ChatGPT session under another account, according to Check Point Research.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5295128.jpg?imageId=5295128&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124"
+    ]
+  },
+  {
+    "id": "bf8c2b1da340d9c0e6fb2a59",
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "published": "2026-09-08T21:11:46+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.. What: Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.. When: 2026-09-08T21:11:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.. ماذا: Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.. متى: 2026-09-08T21:11:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
+    ]
+  },
+  {
+    "id": "224e1ddd301df5e873528894",
+    "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+    "published": "2026-09-08T21:03:46+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.. What: Attackers Use Multi-Hop Google Redirects for Phishing Campaign. When: 2026-09-08T21:03:46+00:00. How: Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.. ماذا: Attackers Use Multi-Hop Google Redirects for Phishing Campaign. متى: 2026-09-08T21:03:46+00:00. كيف: Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign"
+    ]
+  },
+  {
+    "id": "bf2dd02ab9ceb3a5c230b98f",
+    "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+    "published": "2026-09-08T20:36:15+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.. What: OpenAI Agents Took Over Wiki Site Before Hugging Face Attack. When: 2026-09-08T20:36:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.. ماذا: OpenAI Agents Took Over Wiki Site Before Hugging Face Attack. متى: 2026-09-08T20:36:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack"
+    ]
+  },
+  {
+    "id": "0c20ebb12067e93738ae2f50",
+    "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+    "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+    "published": "2026-09-08T20:35:14+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: DoppelCart fraud network uses 119,000 fake shops to steal credit cards. What: DoppelCart fraud network uses 119,000 fake shops to steal credit cards. When: 2026-09-08T20:35:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: DoppelCart fraud network uses 119,000 fake shops to steal credit cards. ماذا: DoppelCart fraud network uses 119,000 fake shops to steal credit cards. متى: 2026-09-08T20:35:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/09/magecart.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/"
+    ]
+  },
+  {
+    "id": "02ffb96a500231121c32e167",
+    "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+    "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+    "published": "2026-09-08T20:24:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws.. What: The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws.. When: 2026-09-08T20:24:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws.. ماذا: The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws.. متى: 2026-09-08T20:24:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/09/08/activestate-what-shipped.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/"
+    ]
+  },
+  {
     "id": "c4daab286910b6cf3b0dd305",
     "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
@@ -21150,28 +21303,6 @@
     "image": "https://image.theregister.com/1683286.jpg?imageId=1683286&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
-    ]
-  },
-  {
-    "id": "cff573d711d0832681486b99",
-    "title": "Microsoft Plugs Nearly 400 Security Holes",
-    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-    "published": "2026-08-11T21:28:35+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. What: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. When: 2026-08-11T21:28:35+00:00. How: The 7.0 score reflects the high attack complexity, because race conditions are fiddly. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. ماذا: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.. متى: 2026-08-11T21:28:35+00:00. كيف: The 7.0 score reflects the high attack complexity, because race conditions are fiddly.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-62832",
-      "CVE-2026-68820",
-      "CVE-2026-72971"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
     ]
   },
   {
@@ -152832,150 +152963,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b780b3240174f70a86bfd83aa534430507d04b8a/2026/03/05/5e83ab3a-9bbb-4034-a95c-40168ba5a695/galaxy-book6-pro-image-12.png?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/samsung-galaxy-book6-pro-review/"
-    ]
-  },
-  {
-    "id": "71f7d07778574717f18192b2",
-    "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
-    "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
-    "published": "2026-03-12T22:18:11+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Stryker said Thursday that it’s in the midst of responding to a “global network disruption to our Microsoft environment as a result of a cyber attack.” The update went on to say responders have no indication that ransomware or malware—the usual causes for such outages—were involved.. What: Within hours of the US and Israel launching airstrikes on Iran two weeks ago, security professionals warned organizations around the world to be on heightened watch for destructive retaliatory hacks.. When: 2026-03-12T22:18:11+00:00. How: A report the Irish Examiner published Wednesday morning, citing multiple anonymous sources, made the same claims and said some employees witnessed login pages on wiped devices displaying the logo of Handala Hack, a group that researchers who have followed it for years say is aligned with the Iranian government. Action: See Arabic action below.",
-    "summary_ar": "من: Stryker said Thursday that it’s in the midst of responding to a “global network disruption to our Microsoft environment as a result of a cyber attack.” The update went on to say responders have no indication that ransomware or malware—the usual causes for such outages—were involved.. ماذا: Within hours of the US and Israel launching airstrikes on Iran two weeks ago, security professionals warned organizations around the world to be on heightened watch for destructive retaliatory hacks.. متى: 2026-03-12T22:18:11+00:00. كيف: A report the Irish Examiner published Wednesday morning, citing multiple anonymous sources, made the same claims and said some employees witnessed login pages on wiped devices displaying the logo of Handala Hack, a group that researchers who have followed it for years say is aligned with the Iranian government.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/data-wiper-malware-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/"
-    ]
-  },
-  {
-    "id": "76f115dedaf6dff4b3f3d328",
-    "title": "Insights: Increased Risk of Wiper Attacks",
-    "link": "https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/",
-    "published": "2026-03-12T22:10:00+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: We are observing an increase of wiper attacks by the Iran-linked Handala Hack group (aka Void Manticore) through phishing and misuse of Microsoft Intune.. What: Insights: Increased Risk of Wiper Attacks. When: 2026-03-12T22:10:00+00:00. How: We are observing an increase of wiper attacks by the Iran-linked Handala Hack group (aka Void Manticore) through phishing and misuse of Microsoft Intune. Action: See Arabic action below.",
-    "summary_ar": "من: We are observing an increase of wiper attacks by the Iran-linked Handala Hack group (aka Void Manticore) through phishing and misuse of Microsoft Intune.. ماذا: Insights: Increased Risk of Wiper Attacks. متى: 2026-03-12T22:10:00+00:00. كيف: We are observing an increase of wiper attacks by the Iran-linked Handala Hack group (aka Void Manticore) through phishing and misuse of Microsoft Intune.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/AdobeStock_1208849028.jpeg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/handala-hack-wiper-attacks/"
-    ]
-  },
-  {
-    "id": "814d1ab884a34086fb9fbe25",
-    "title": "Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia",
-    "link": "https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/",
-    "published": "2026-03-12T22:00:57+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia. What: Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia. When: 2026-03-12T22:00:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia. ماذا: Suspected China-Based Espionage Operation Against Military Targets in Southeast Asia. متى: 2026-03-12T22:00:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/09_Nation-State-cyberattacks_1920x900-1.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/espionage-campaign-against-military-targets/"
-    ]
-  },
-  {
-    "id": "a8d0aa011881f8d2be27df32",
-    "title": "Why Post-Quantum Cryptography Can't Wait",
-    "link": "https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait",
-    "published": "2026-03-12T21:45:25+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Why Post-Quantum Cryptography Can't Wait. What: Why Post-Quantum Cryptography Can't Wait. When: 2026-03-12T21:45:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Post-Quantum Cryptography Can't Wait. ماذا: Why Post-Quantum Cryptography Can't Wait. متى: 2026-03-12T21:45:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/why-post-quantum-cryptography-cant-wait"
-    ]
-  },
-  {
-    "id": "6207fcd66e715ff9893ee064",
-    "title": "Canadian retail giant Loblaw notifies customers of data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/",
-    "published": "2026-03-12T21:32:21+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Canadian retail giant Loblaw notifies customers of data breach. What: Canadian retail giant Loblaw notifies customers of data breach. When: 2026-03-12T21:32:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Canadian retail giant Loblaw notifies customers of data breach. ماذا: Canadian retail giant Loblaw notifies customers of data breach. متى: 2026-03-12T21:32:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/loblaws.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/"
-    ]
-  },
-  {
-    "id": "81b7eba68cc63637473a9aee",
-    "title": "Iran MOIS Colludes With Criminals to Boost Cyberattacks",
-    "link": "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks",
-    "published": "2026-03-12T21:11:20+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Iran MOIS Colludes With Criminals to Boost Cyberattacks. What: Iran MOIS Colludes With Criminals to Boost Cyberattacks. When: 2026-03-12T21:11:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran MOIS Colludes With Criminals to Boost Cyberattacks. ماذا: Iran MOIS Colludes With Criminals to Boost Cyberattacks. متى: 2026-03-12T21:11:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks"
-    ]
-  },
-  {
-    "id": "a094f8c069d4b446738b1f28",
-    "title": "England Hockey investigating ransomware data breach",
-    "link": "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/",
-    "published": "2026-03-12T20:37:16+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: England Hockey investigating ransomware data breach. What: England Hockey investigating ransomware data breach. When: 2026-03-12T20:37:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: England Hockey investigating ransomware data breach. ماذا: England Hockey investigating ransomware data breach. متى: 2026-03-12T20:37:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/England_Hockey.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/"
-    ]
-  },
-  {
-    "id": "694586e4abf0196537352292",
-    "title": "Commercial Spyware Opponents Fear US Policy Shifting",
-    "link": "https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting",
-    "published": "2026-03-12T20:35:25+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Rescinded sanctions and reactivated contracts have created confusion about the Trump administration's spyware policy and where it draws the line.. What: Commercial Spyware Opponents Fear US Policy Shifting. When: 2026-03-12T20:35:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rescinded sanctions and reactivated contracts have created confusion about the Trump administration's spyware policy and where it draws the line.. ماذا: Commercial Spyware Opponents Fear US Policy Shifting. متى: 2026-03-12T20:35:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/commercial-spyware-opponents-fear-us-policy-shifting"
     ]
   }
 ]
