@@ -54,6 +54,31 @@
     ]
   },
   {
+    "id": "0bdc0242248cc5924dbd30b8",
+    "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
+    "link": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
+    "published": "2026-09-09T00:25:22+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Microsoft delivered a record number of patches to address 974 CVEs in its own products this month, including two bugs that Redmond says are already under exploitation.. What: September's record-breaking collection of security updates come after Microsoft served up 421 fixes in August, and 622 in July.. When: 2026-09-09T00:25:22+00:00. How: In addition to Microsoft’s massive patch drop, Adobe on Tuesday issued 10 bulletins addressing 172 CVEs, including a max-severity vulnerability exploited as a zero day in Magento and its successor product Adobe Commerce. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft delivered a record number of patches to address 974 CVEs in its own products this month, including two bugs that Redmond says are already under exploitation.. ماذا: September's record-breaking collection of security updates come after Microsoft served up 421 fixes in August, and 622 in July.. متى: 2026-09-09T00:25:22+00:00. كيف: In addition to Microsoft’s massive patch drop, Adobe on Tuesday issued 10 bulletins addressing 172 CVEs, including a max-severity vulnerability exploited as a zero day in Magento and its successor product Adobe Commerce.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-55007",
+      "CVE-2026-75650",
+      "CVE-2026-81963",
+      "CVE-2026-85045",
+      "CVE-2026-85046",
+      "CVE-2026-85880"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5295166.jpg?imageId=5295166&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
+    ]
+  },
+  {
     "id": "c7e7ad60970c425199403415",
     "title": "Microsoft Plugs Nearly 1,000 Security Holes",
     "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -152927,42 +152952,6 @@
     "image": "https://www.zdnet.com/a/img/resize/338e65d6624dd6645e0825231a0da6ebd8c8b3c3/2026/03/13/6c42859f-7351-48f3-abae-426937ac67fa/gettyimages-187243775.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/macbook-neo-microsoft-surface-rt-right-idea-wrong-execution/"
-    ]
-  },
-  {
-    "id": "6f6e6e880c3410e3fd21c652",
-    "title": "Rogue AI agents can work together to hack systems and steal secrets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/",
-    "published": "2026-03-12T23:49:32+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Rogue AI agents can work together to hack systems and steal secrets. What: Rogue AI agents can work together to hack systems and steal secrets. When: 2026-03-12T23:49:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rogue AI agents can work together to hack systems and steal secrets. ماذا: Rogue AI agents can work together to hack systems and steal secrets. متى: 2026-03-12T23:49:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/12/shutterstock_edited.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/"
-    ]
-  },
-  {
-    "id": "71b72c4b8f60b9779aaa9b80",
-    "title": "Samsung Galaxy Book 6 Pro review: The smarter buy for professionals on a budget",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-book6-pro-review/",
-    "published": "2026-03-12T23:00:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy Book 6 Pro review: The smarter buy for professionals on a budget. What: Samsung Galaxy Book 6 Pro review: The smarter buy for professionals on a budget. When: 2026-03-12T23:00:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy Book 6 Pro review: The smarter buy for professionals on a budget. ماذا: Samsung Galaxy Book 6 Pro review: The smarter buy for professionals on a budget. متى: 2026-03-12T23:00:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b780b3240174f70a86bfd83aa534430507d04b8a/2026/03/05/5e83ab3a-9bbb-4034-a95c-40168ba5a695/galaxy-book6-pro-image-12.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-book6-pro-review/"
     ]
   }
 ]
