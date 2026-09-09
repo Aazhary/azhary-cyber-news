@@ -54,6 +54,116 @@
     ]
   },
   {
+    "id": "0174d74ba099dc84fb74ef7d",
+    "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+    "published": "2026-09-09T21:40:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks.. What: Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks.. When: 2026-09-09T21:40:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks.. ماذا: Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks.. متى: 2026-09-09T21:40:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20079"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Cisco.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "56efd949aedf050dc11f1044",
+    "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+    "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+    "published": "2026-09-09T21:30:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: AdaptHealth confirms 4.1 million people exposed in July cyberattack. What: AdaptHealth confirms 4.1 million people exposed in July cyberattack. When: 2026-09-09T21:30:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AdaptHealth confirms 4.1 million people exposed in July cyberattack. ماذا: AdaptHealth confirms 4.1 million people exposed in July cyberattack. متى: 2026-09-09T21:30:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/healthcare.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/"
+    ]
+  },
+  {
+    "id": "b7c0dd10fdf357acb1f662fd",
+    "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+    "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+    "published": "2026-09-09T21:19:55+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Mythos Vulnerability Firehose Hits a Human Bottleneck. What: An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.. When: 2026-09-09T21:19:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Mythos Vulnerability Firehose Hits a Human Bottleneck. ماذا: An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.. متى: 2026-09-09T21:19:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt439f596f6fab9438/6aa1bda507331dcf89c77c60/firehose_sirloh_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck"
+    ]
+  },
+  {
+    "id": "2797a83a98a0fef2cec59254",
+    "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+    "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+    "published": "2026-09-09T21:02:14+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking. What: Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking. When: 2026-09-09T21:02:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking. ماذا: Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking. متى: 2026-09-09T21:02:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/skullcandy.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/"
+    ]
+  },
+  {
+    "id": "eca0578fed4853fc9470dfde",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "published": "2026-09-09T20:55:02+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: 4 groups caught using the same Chrome and Windows exploit kit. What: 4 groups caught using the same Chrome and Windows exploit kit. When: 2026-09-09T20:55:02+00:00. How: Researchers from security firm Proofpoint said Wednesday that BlueMoon, the name they gave to the kit, chains three vulnerabilities together so the attackers using it can install malware of their choice. Action: See Arabic action below.",
+    "summary_ar": "من: 4 groups caught using the same Chrome and Windows exploit kit. ماذا: 4 groups caught using the same Chrome and Windows exploit kit. متى: 2026-09-09T20:55:02+00:00. كيف: Researchers from security firm Proofpoint said Wednesday that BlueMoon, the name they gave to the kit, chains three vulnerabilities together so the attackers using it can install malware of their choice.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
+    "sources": [
+      "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
+    ]
+  },
+  {
+    "id": "272c95de9836a13e7713a03e",
+    "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+    "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+    "published": "2026-09-09T19:47:50+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.. What: US Government Accuses Chinese AI Firms of Distilling Frontier Models. When: 2026-09-09T19:47:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs.. ماذا: US Government Accuses Chinese AI Firms of Distilling Frontier Models. متى: 2026-09-09T19:47:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b13b556aa2e63e/6aa1a92888ea9adc3dabaf29/distillery-ArtistGNDphotography-GettyImages-2195175104.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models"
+    ]
+  },
+  {
     "id": "097219eaecd991ee496f49bf",
     "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
     "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
@@ -152347,114 +152457,6 @@
     "image": "https://www.zdnet.com/a/img/resize/bc061af1e914ac28e5d49d6192a606494b8a1180/2026/03/13/f677ffc6-b287-42c4-9e66-e80c91738ff1/untitled-design-2026-03-13t140211-684.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/milwaukee-wrench-set-deal-home-depot/"
-    ]
-  },
-  {
-    "id": "98495ec8674cbe230df498a8",
-    "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/",
-    "published": "2026-03-13T22:11:57+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:&#092; drive and are unable to launch applications.. What: Microsoft: Windows 11 users can't access C: drive on some Samsung PCs. When: 2026-03-13T22:11:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:&#092; drive and are unable to launch applications.. ماذا: Microsoft: Windows 11 users can't access C: drive on some Samsung PCs. متى: 2026-03-13T22:11:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/26/Windows_11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
-    ]
-  },
-  {
-    "id": "31f9ef4e6a1cdbffe628fcae",
-    "title": "FBI seeks victims of Steam games used to spread malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/",
-    "published": "2026-03-13T20:52:31+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: FBI seeks victims of Steam games used to spread malware. What: FBI seeks victims of Steam games used to spread malware. When: 2026-03-13T20:52:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FBI seeks victims of Steam games used to spread malware. ماذا: FBI seeks victims of Steam games used to spread malware. متى: 2026-03-13T20:52:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/09/12/steam-header-new.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/"
-    ]
-  },
-  {
-    "id": "88aa7dc608b79691e7f1aa8c",
-    "title": "Netflix Premium vs. Netflix Standard: I compared the subscriptions plans to find the best deal",
-    "link": "https://www.zdnet.com/article/netflix-premium-vs-netflix-standard/",
-    "published": "2026-03-13T20:40:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Netflix Premium vs. Netflix Standard: I compared the subscriptions plans to find the best deal. What: Netflix Premium vs. Netflix Standard: I compared the subscriptions plans to find the best deal. When: 2026-03-13T20:40:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Netflix Premium vs. Netflix Standard: I compared the subscriptions plans to find the best deal. ماذا: Netflix Premium vs. Netflix Standard: I compared the subscriptions plans to find the best deal. متى: 2026-03-13T20:40:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0f7d04c45f20ae681e19d8f3aed85cbed66c6205/2025/04/25/05020b03-2b42-4829-9b43-9f14cfe2c7ae/netflix-introduces-a-new-dialogue-only-subtitles-option-heres-what-makes-it-different.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/netflix-premium-vs-netflix-standard/"
-    ]
-  },
-  {
-    "id": "ae9634f7867688b3b3068309",
-    "title": "Amazon is selling LG's premium home audio system for nearly half off - soundbar included",
-    "link": "https://www.zdnet.com/article/lg-s95tr-amazon-deal/",
-    "published": "2026-03-13T20:33:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon is selling LG's premium home audio system for nearly half off - soundbar included. What: Amazon is selling LG's premium home audio system for nearly half off - soundbar included. When: 2026-03-13T20:33:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon is selling LG's premium home audio system for nearly half off - soundbar included. ماذا: Amazon is selling LG's premium home audio system for nearly half off - soundbar included. متى: 2026-03-13T20:33:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/34fe7da4229b6d3fd55797a99fdb938e0bee4e10/2024/06/13/95f6cf91-23d7-404c-ad47-d247efbd41a4/pxl-20240613-142436656-portrait.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lg-s95tr-amazon-deal/"
-    ]
-  },
-  {
-    "id": "f9402fc1f1c1cbeb5de759ee",
-    "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-    "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-    "published": "2026-03-13T20:18:08+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: The researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9.. What: Supply-chain attack using invisible code hits GitHub and other repositories. When: 2026-03-13T20:18:08+00:00. How: Read full article Comments Supply-chain attack using invisible code hits GitHub and other repositories Action: See Arabic action below.",
-    "summary_ar": "من: The researchers, from firm Aikido Security, said Friday that they found 151 malicious packages that were uploaded to GitHub from March 3 to March 9.. ماذا: Supply-chain attack using invisible code hits GitHub and other repositories. متى: 2026-03-13T20:18:08+00:00. كيف: Read full article Comments Supply-chain attack using invisible code hits GitHub and other repositories. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
-    ]
-  },
-  {
-    "id": "e65069be98403df3e5364c34",
-    "title": "Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch",
-    "link": "https://www.zdnet.com/article/macbook-neo-best-buy-deal/",
-    "published": "2026-03-13T20:16:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch. What: Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch. When: 2026-03-13T20:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch. ماذا: Best Buy is already selling the MacBook Neo for less than retail - and yes, there's a catch. متى: 2026-03-13T20:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b583a40631cdb972d7f2b5cacdc30f8ed85af977/2026/03/13/6acf88bb-95a4-4ef6-ae6f-be9bd1458e00/dsc09771.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macbook-neo-best-buy-deal/"
     ]
   }
 ]
