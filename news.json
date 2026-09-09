@@ -54,6 +54,44 @@
     ]
   },
   {
+    "id": "23a085d641863d447a9186f3",
+    "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+    "published": "2026-09-09T04:27:51+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.. When: 2026-09-09T04:27:51+00:00. How: The vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a N-able N-central Pre-Auth RCE Flaw Exploited in the Wild Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.. متى: 2026-09-09T04:27:51+00:00. كيف: The vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a N-able N-central Pre-Auth RCE Flaw Exploited in the Wild. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-86218"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html"
+    ]
+  },
+  {
+    "id": "137c050163098c31662d159e",
+    "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+    "published": "2026-09-09T01:16:27+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth.. What: Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults. When: 2026-09-09T01:16:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth.. ماذا: Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults. متى: 2026-09-09T01:16:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/"
+    ]
+  },
+  {
     "id": "0bdc0242248cc5924dbd30b8",
     "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
     "link": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
@@ -152841,117 +152879,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s16000/router.jpg",
     "sources": [
       "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
-    ]
-  },
-  {
-    "id": "f34b9cdd4d88e7512e8850ce",
-    "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-    "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
-    "published": "2026-03-13T04:15:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: CVE-2026-21667 ( Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution. What: Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.. When: 2026-03-13T04:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CVE-2026-21667 ( Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution. ماذا: Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.. متى: 2026-03-13T04:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-21666",
-      "CVE-2026-21667"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png",
-    "sources": [
-      "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html"
-    ]
-  },
-  {
-    "id": "d23c72e7f646590e25486f7d",
-    "title": "I set up smart switches to power my home, and they've made this lazy man into a genius",
-    "link": "https://www.zdnet.com/article/switchbot-smart-switch-review/",
-    "published": "2026-03-13T01:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I set up smart switches to power my home, and they've made this lazy man into a genius. What: I set up smart switches to power my home, and they've made this lazy man into a genius. When: 2026-03-13T01:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I set up smart switches to power my home, and they've made this lazy man into a genius. ماذا: I set up smart switches to power my home, and they've made this lazy man into a genius. متى: 2026-03-13T01:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/04ff9e8bb8803166cda04e20e4e03da847ccea90/2026/03/10/e8025739-ed4b-49c3-912d-7a2c1a9f1741/img-2971.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/switchbot-smart-switch-review/"
-    ]
-  },
-  {
-    "id": "e7844a7599298f28398ba49b",
-    "title": "It's time to admit your router's built-in firewall isn't enough - here's what is",
-    "link": "https://www.zdnet.com/article/firewalla-orange-review/",
-    "published": "2026-03-13T01:29:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: It's time to admit your router's built-in firewall isn't enough - here's what is. What: It's time to admit your router's built-in firewall isn't enough - here's what is. When: 2026-03-13T01:29:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: It's time to admit your router's built-in firewall isn't enough - here's what is. ماذا: It's time to admit your router's built-in firewall isn't enough - here's what is. متى: 2026-03-13T01:29:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/48f50202bf583824713f6a469c16661ed554965d/2026/03/05/8763fa8a-133b-4e13-ae68-8b2df54ab795/img-2776.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/firewalla-orange-review/"
-    ]
-  },
-  {
-    "id": "7642abd0f8e9d4f96bad077a",
-    "title": "Can you trust AI with your medical history? I asked a doctor to weigh in",
-    "link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
-    "published": "2026-03-13T01:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools.. What: Can you trust AI with your medical history? I asked a doctor to weigh in. When: 2026-03-13T01:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools.. ماذا: Can you trust AI with your medical history? I asked a doctor to weigh in. متى: 2026-03-13T01:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/31c38e7511de67fd33e160650914c726495efda8/2026/03/13/d6c807dc-7d4d-4f65-bc95-bbd9be588eb2/gettyimages-2217535730.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/"
-    ]
-  },
-  {
-    "id": "69c40a78ab7f18c22808fdfe",
-    "title": "Google Maps just got its 'biggest update in over a decade' - it may change your driving for good",
-    "link": "https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/",
-    "published": "2026-03-13T01:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google Maps just got its 'biggest update in over a decade' - it may change your driving for good. What: Google Maps just got its 'biggest update in over a decade' - it may change your driving for good. When: 2026-03-13T01:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google Maps just got its 'biggest update in over a decade' - it may change your driving for good. ماذا: Google Maps just got its 'biggest update in over a decade' - it may change your driving for good. متى: 2026-03-13T01:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1672bf4890edc911c713933f80e6a5837bf70c26/2025/11/20/cce71fbb-72b4-4832-8407-2bb126440cbc/20251119-112924.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/"
-    ]
-  },
-  {
-    "id": "f3116d183ed48fdc1b7f60f9",
-    "title": "MacBook Neo proves that Microsoft had the right idea, but the wrong execution",
-    "link": "https://www.zdnet.com/article/macbook-neo-microsoft-surface-rt-right-idea-wrong-execution/",
-    "published": "2026-03-13T01:02:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The success of Apple's budget laptop has a lot to do with Microsoft's Surface RT failure.. What: MacBook Neo proves that Microsoft had the right idea, but the wrong execution. When: 2026-03-13T01:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The success of Apple's budget laptop has a lot to do with Microsoft's Surface RT failure.. ماذا: MacBook Neo proves that Microsoft had the right idea, but the wrong execution. متى: 2026-03-13T01:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/338e65d6624dd6645e0825231a0da6ebd8c8b3c3/2026/03/13/6c42859f-7351-48f3-abae-426937ac67fa/gettyimages-187243775.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macbook-neo-microsoft-surface-rt-right-idea-wrong-execution/"
     ]
   }
 ]
