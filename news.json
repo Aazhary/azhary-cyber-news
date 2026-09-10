@@ -54,6 +54,81 @@
     ]
   },
   {
+    "id": "674bef063e251fb47f73b2f2",
+    "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+    "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+    "published": "2026-09-10T19:15:07+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Surfshark VPN says hackers breached internal testing, proxy servers. What: Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet.. When: 2026-09-10T19:15:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Surfshark VPN says hackers breached internal testing, proxy servers. ماذا: Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet.. متى: 2026-09-10T19:15:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/10/surfshark.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/"
+    ]
+  },
+  {
+    "id": "9414623aee522d6b63f7bf8a",
+    "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+    "published": "2026-09-10T19:07:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality.. What: Microsoft Excel KB5002914 update breaks copy and paste for some users. When: 2026-09-10T19:07:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality.. ماذا: Microsoft Excel KB5002914 update breaks copy and paste for some users. متى: 2026-09-10T19:07:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/07/31/Microsoft-Excel.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/"
+    ]
+  },
+  {
+    "id": "3fcc5a757d9e9f228cccc79f",
+    "title": "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
+    "link": "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
+    "published": "2026-09-10T18:49:43+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: These agents, powered by OpenAI’s Codex harness and a DeepSeek model, also allowed the miscreant to attack organizations at scale, according to threat-intel firm GreyNoise, which traced the campaign’s orchestration to 45.142.193.132 on August 31.. What: The security provider attributes these intrusions to a “likely Russian-speaking” criminal who used AI to develop exploits against the pair of PaperCut vulnerabilities disclosed just days earlier.. When: 2026-09-10T18:49:43+00:00. How: “The adversary went from an empty workspace to first achieving RCE against a real victim in just under four hours, first domain admin in an additional two hours, and once the full campaign launched, compromised at least 11 organizations in 26 seconds,” GreyNoise analysts said in a Wednesday report. Action: See Arabic action below.",
+    "summary_ar": "من: These agents, powered by OpenAI’s Codex harness and a DeepSeek model, also allowed the miscreant to attack organizations at scale, according to threat-intel firm GreyNoise, which traced the campaign’s orchestration to 45.142.193.132 on August 31.. ماذا: The security provider attributes these intrusions to a “likely Russian-speaking” criminal who used AI to develop exploits against the pair of PaperCut vulnerabilities disclosed just days earlier.. متى: 2026-09-10T18:49:43+00:00. كيف: “The adversary went from an empty workspace to first achieving RCE against a real victim in just under four hours, first domain admin in an additional two hours, and once the full campaign launched, compromised at least 11 organizations in 26 seconds,” GreyNoise analysts said in a Wednesday report.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-81578",
+      "CVE-2026-82078"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5224165.jpg?imageId=5224165&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
+    ]
+  },
+  {
+    "id": "96788d5a772f9a8a3f902529",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+    "published": "2026-09-10T17:47:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Different stories, same basic problem: the path in was often already ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories. What: ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories. When: 2026-09-10T17:47:38+00:00. How: A trusted service becomes part of a phishing chain. Action: See Arabic action below.",
+    "summary_ar": "من: Different stories, same basic problem: the path in was often already ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories. ماذا: ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories. متى: 2026-09-10T17:47:38+00:00. كيف: A trusted service becomes part of a phishing chain.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html"
+    ]
+  },
+  {
     "id": "d793ad6955486324d2e20a44",
     "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
     "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
