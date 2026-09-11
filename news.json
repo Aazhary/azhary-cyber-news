@@ -54,6 +54,210 @@
     ]
   },
   {
+    "id": "965fe78ce34f0dc9ebe866a0",
+    "title": "Why AI Is So Good at Scamming Humans",
+    "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+    "published": "2026-09-11T18:14:06+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Why AI Is So Good at Scamming Humans. What: Why AI Is So Good at Scamming Humans. When: 2026-09-11T18:14:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why AI Is So Good at Scamming Humans. ماذا: Why AI Is So Good at Scamming Humans. متى: 2026-09-11T18:14:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d66507ff638e8a0/6aa431c763177a6fe1776c1a/fredheiding.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/ai-scamming-humans"
+    ]
+  },
+  {
+    "id": "a8477b7cb2315b12fe1f48fd",
+    "title": "More JFrog Artifactory bugs under attack, and all 3 have patches",
+    "link": "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943",
+    "published": "2026-09-11T17:43:30+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting an Artifactory zero-day in July, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet.. What: JFrog patched this vulnerability on August 12.. When: 2026-09-11T17:43:30+00:00. How: Multiple attackers are exploiting three JFrog Artifactory bugs to gain administrative control over vulnerable instances - in some cases, just days after the vendor published a patch - and then using this illicit access to install malicious plugins and backdoors. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI and JFrog revealed that OpenAI’s models broke out of their cages to hack Hugging Face by exploiting an Artifactory zero-day in July, and at Black Hat, the model provider said agents used Artifactory to build message boards and help each other access the open internet.. ماذا: JFrog patched this vulnerability on August 12.. متى: 2026-09-11T17:43:30+00:00. كيف: Multiple attackers are exploiting three JFrog Artifactory bugs to gain administrative control over vulnerable instances - in some cases, just days after the vendor published a patch - and then using this illicit access to install malicious plugins and backdoors.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-42016",
+      "CVE-2026-42018",
+      "CVE-2026-82329"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943"
+    ]
+  },
+  {
+    "id": "8f5f50198141b88a365359ce",
+    "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+    "published": "2026-09-11T17:26:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services.. What: Passkey-themed phishing attacks lead to Microsoft 365 data theft. When: 2026-09-11T17:26:50+00:00. How: Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services.. ماذا: Passkey-themed phishing attacks lead to Microsoft 365 data theft. متى: 2026-09-11T17:26:50+00:00. كيف: Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/04/Microsoft-365.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
+    ]
+  },
+  {
+    "id": "53a67ba5f82861cf51e49f9a",
+    "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+    "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+    "published": "2026-09-11T17:23:36+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Phishing Research Challenges Conventional Security Awareness Testing. What: Phishing Research Challenges Conventional Security Awareness Testing. When: 2026-09-11T17:23:36+00:00. How: The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Phishing Research Challenges Conventional Security Awareness Testing. ماذا: Phishing Research Challenges Conventional Security Awareness Testing. متى: 2026-09-11T17:23:36+00:00. كيف: The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek .. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/"
+    ]
+  },
+  {
+    "id": "36a0e7fdf45494648da6933d",
+    "title": "AI Governance Can't Wait",
+    "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+    "published": "2026-09-11T17:10:56+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Governance Can't Wait. What: AI Governance Can't Wait. When: 2026-09-11T17:10:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Governance Can't Wait. ماذا: AI Governance Can't Wait. متى: 2026-09-11T17:10:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait"
+    ]
+  },
+  {
+    "id": "2a6fb06b18d16fc31c7e6d16",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+    "published": "2026-09-11T16:30:18+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.. What: GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.. When: 2026-09-11T16:30:18+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.. ماذا: GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.. متى: 2026-09-11T16:30:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-85706"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+    ]
+  },
+  {
+    "id": "3055121a8599caa7126ad8f3",
+    "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+    "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+    "published": "2026-09-11T16:29:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Artifactory flaws chained in attacks deploying backdoor malware. What: Artifactory flaws chained in attacks deploying backdoor malware. When: 2026-09-11T16:29:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Artifactory flaws chained in attacks deploying backdoor malware. ماذا: Artifactory flaws chained in attacks deploying backdoor malware. متى: 2026-09-11T16:29:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+    ]
+  },
+  {
+    "id": "394b762a6a3c3b13adbab548",
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+    "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+    "published": "2026-09-11T16:15:29+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks. What: Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks. When: 2026-09-11T16:15:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks. ماذا: Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks. متى: 2026-09-11T16:15:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html"
+    ]
+  },
+  {
+    "id": "009376dbc313fbfaa3f92398",
+    "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+    "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+    "published": "2026-09-11T16:11:08+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: GitLab Vulnerability Exploited One Day After Disclosure. What: The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .. When: 2026-09-11T16:11:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitLab Vulnerability Exploited One Day After Disclosure. ماذا: The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek .. متى: 2026-09-11T16:11:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/GitLab.jpeg",
+    "sources": [
+      "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/"
+    ]
+  },
+  {
+    "id": "88dd12e21e1357f900cbe062",
+    "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+    "published": "2026-09-11T15:48:27+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain. What: Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain. When: 2026-09-11T15:48:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain. ماذا: Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain. متى: 2026-09-11T15:48:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain"
+    ]
+  },
+  {
+    "id": "7d9c766ebea8ab0983f05f4f",
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+    "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+    "published": "2026-09-11T14:29:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Claude Used to Automate Exploitation and Data Theft Across Multiple Victims. What: Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.. When: 2026-09-11T14:29:47+00:00. How: Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. Action: See Arabic action below.",
+    "summary_ar": "من: Claude Used to Automate Exploitation and Data Theft Across Multiple Victims. ماذا: Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.. متى: 2026-09-11T14:29:47+00:00. كيف: Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+    ]
+  },
+  {
     "id": "231dff4f0510038c6f9dc252",
     "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
     "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
@@ -69,6 +273,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
     "sources": [
       "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/"
+    ]
+  },
+  {
+    "id": "4697000491090f0e9bf1e6dc",
+    "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+    "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+    "published": "2026-09-11T14:10:20+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection. What: Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection. When: 2026-09-11T14:10:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection. ماذا: Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection. متى: 2026-09-11T14:10:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html"
     ]
   },
   {
