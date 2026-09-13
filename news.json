@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "39200ce3f8f5c522b27cf8ea",
+    "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+    "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+    "published": "2026-09-13T13:27:25+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up. What: Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet.. When: 2026-09-13T13:27:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up. ماذا: Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet.. متى: 2026-09-13T13:27:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/AI_Risks.jpg",
+    "sources": [
+      "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/"
+    ]
+  },
+  {
+    "id": "a51cde05e603b140e1675145",
+    "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+    "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+    "published": "2026-09-13T11:21:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “The latest models were able to break those and say, ‘yeah, there’s significant vulnerabilities in here.’” Whether or not security through obscurity is dead “isn't even an opinion question,” Trend Micro’s Zero Day Initiative chief bug hunter Dustin Childs told The Register, the day after Microsoft’s record-breaking Patch Tuesday addressed 974 CVEs.. What: “When you look at all of the components patched by Adobe and Microsoft yesterday, you see components no one has talked about in years,” Childs said.. When: 2026-09-13T11:21:00+00:00. How: The term \"security through obscurity\" describes an old idea that networks and systems will remain secure so long as their architecture, along with any vulnerabilities or other weaknesses, remains secret or hidden. Action: See Arabic action below.",
+    "summary_ar": "من: “The latest models were able to break those and say, ‘yeah, there’s significant vulnerabilities in here.’” Whether or not security through obscurity is dead “isn't even an opinion question,” Trend Micro’s Zero Day Initiative chief bug hunter Dustin Childs told The Register, the day after Microsoft’s record-breaking Patch Tuesday addressed 974 CVEs.. ماذا: “When you look at all of the components patched by Adobe and Microsoft yesterday, you see components no one has talked about in years,” Childs said.. متى: 2026-09-13T11:21:00+00:00. كيف: The term \"security through obscurity\" describes an old idea that networks and systems will remain secure so long as their architecture, along with any vulnerabilities or other weaknesses, remains secret or hidden.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5296004.jpg?imageId=5296004&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000"
+    ]
+  },
+  {
+    "id": "8d32a587d798415ebe79d97d",
+    "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+    "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+    "published": "2026-09-13T10:11:48+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.. What: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.. When: 2026-09-13T10:11:48+00:00. How: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.. ماذا: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.. متى: 2026-09-13T10:11:48+00:00. كيف: Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html"
+    ]
+  },
+  {
     "id": "3be9058c0a3e93a1a457f074",
     "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
     "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
@@ -151930,477 +151984,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/"
-    ]
-  },
-  {
-    "id": "a595b71cf9b562704e8c2cd9",
-    "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-    "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/",
-    "published": "2026-03-17T14:02:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Top 5 Things CISOs Need to Do Today to Secure AI Agents. What: Top 5 Things CISOs Need to Do Today to Secure AI Agents. When: 2026-03-17T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Top 5 Things CISOs Need to Do Today to Secure AI Agents. ماذا: Top 5 Things CISOs Need to Do Today to Secure AI Agents. متى: 2026-03-17T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/16/token-security-ai-gents.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
-    ]
-  },
-  {
-    "id": "5b424e45fe4b5e0783f2ba32",
-    "title": "New font-rendering trick hides malicious commands from AI tools",
-    "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/",
-    "published": "2026-03-17T13:59:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New font-rendering trick hides malicious commands from AI tools. What: New font-rendering trick hides malicious commands from AI tools. When: 2026-03-17T13:59:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New font-rendering trick hides malicious commands from AI tools. ماذا: New font-rendering trick hides malicious commands from AI tools. متى: 2026-03-17T13:59:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/11/ai-extract.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"
-    ]
-  },
-  {
-    "id": "2cc3dab2ff98d8d56f57705a",
-    "title": "This $5 USB-C connector solved my biggest problem with charging phones and laptops",
-    "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review/",
-    "published": "2026-03-17T13:57:27+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This $5 USB-C connector solved my biggest problem with charging phones and laptops. What: This $5 USB-C connector solved my biggest problem with charging phones and laptops. When: 2026-03-17T13:57:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This $5 USB-C connector solved my biggest problem with charging phones and laptops. ماذا: This $5 USB-C connector solved my biggest problem with charging phones and laptops. متى: 2026-03-17T13:57:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/882d879c32e239a7e56e203615e5f73c682efa6a/2026/03/15/9bf20db2-ad20-46c1-9ffa-aa8085a22b1e/img-3008.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review/"
-    ]
-  },
-  {
-    "id": "49698a0d03ffc4e874bf56f9",
-    "title": "Microsoft stops force-installing the Microsoft 365 Copilot app",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/",
-    "published": "2026-03-17T13:54:37+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps.. What: Microsoft stops force-installing the Microsoft 365 Copilot app. When: 2026-03-17T13:54:37+00:00. How: [...] Microsoft stops force-installing the Microsoft 365 Copilot app Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has stopped automatically installing the Microsoft 365 Copilot app on Windows devices that have the Microsoft 365 desktop client apps.. ماذا: Microsoft stops force-installing the Microsoft 365 Copilot app. متى: 2026-03-17T13:54:37+00:00. كيف: [...] Microsoft stops force-installing the Microsoft 365 Copilot app. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/05/Microsoft-365.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-force-installing-the-microsoft-365-copilot-app/"
-    ]
-  },
-  {
-    "id": "6e57ed93b09e8eda8024854a",
-    "title": "After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable",
-    "link": "https://www.zdnet.com/article/sandisk-high-endurance-microsd-cards-review/",
-    "published": "2026-03-17T13:53:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable. What: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable. When: 2026-03-17T13:53:00+00:00. How: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable Action: See Arabic action below.",
-    "summary_ar": "من: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable. ماذا: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable. متى: 2026-03-17T13:53:00+00:00. كيف: After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/788ef4e3f2ef83e5c7417bc43796a93a6d24cae1/2026/03/06/c71a041f-e7e7-4514-a65f-c6744de12d1b/img-2827.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sandisk-high-endurance-microsd-cards-review/"
-    ]
-  },
-  {
-    "id": "5e04c1966351f08f228a3b9f",
-    "title": "You can score a Paramount+ subscription for only $3 a month - how the deal works",
-    "link": "https://www.zdnet.com/article/paramount-plus-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-17T13:39:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can score a Paramount+ subscription for only $3 a month - how the deal works. What: You can score a Paramount+ subscription for only $3 a month - how the deal works. When: 2026-03-17T13:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can score a Paramount+ subscription for only $3 a month - how the deal works. ماذا: You can score a Paramount+ subscription for only $3 a month - how the deal works. متى: 2026-03-17T13:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bf99a975997eb86c056e393a088b41c4dc23c3e8/2026/03/16/75d417b8-cca1-45db-940c-c2b32733f2ae/untitled-design-2026-03-16t162236-415.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/paramount-plus-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "c4d1d17c88d342bcac14bdd2",
-    "title": "I compared this Amazfit with my $1,300 Garmin for outdoor tracking, and it was surprisingly close",
-    "link": "https://www.zdnet.com/article/amazfit-t-rex-ultra-2-review/",
-    "published": "2026-03-17T13:32:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I compared this Amazfit with my $1,300 Garmin for outdoor tracking, and it was surprisingly close. What: I compared this Amazfit with my $1,300 Garmin for outdoor tracking, and it was surprisingly close. When: 2026-03-17T13:32:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I compared this Amazfit with my $1,300 Garmin for outdoor tracking, and it was surprisingly close. ماذا: I compared this Amazfit with my $1,300 Garmin for outdoor tracking, and it was surprisingly close. متى: 2026-03-17T13:32:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cb2ceee7272066318361200e54c62422c6d7c7b9/2026/02/19/df516eb7-12c0-4a88-b9e5-8625fe64ff52/amazfit-trex-ultra26.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazfit-t-rex-ultra-2-review/"
-    ]
-  },
-  {
-    "id": "b923478764ac31bb7d5a961c",
-    "title": "Robotic Surgery Giant Intuitive Discloses Cyberattack",
-    "link": "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/",
-    "published": "2026-03-17T13:28:20+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Robotic Surgery Giant Intuitive Discloses Cyberattack. What: Robotic Surgery Giant Intuitive Discloses Cyberattack. When: 2026-03-17T13:28:20+00:00. How: The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack. Action: See Arabic action below.",
-    "summary_ar": "من: Robotic Surgery Giant Intuitive Discloses Cyberattack. ماذا: Robotic Surgery Giant Intuitive Discloses Cyberattack. متى: 2026-03-17T13:28:20+00:00. كيف: The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/"
-    ]
-  },
-  {
-    "id": "a585db8b5c39e33dc9f4d302",
-    "title": "Traditional Wi-Fi router vs. mesh: How to decide between the 2 popular networking options",
-    "link": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
-    "published": "2026-03-17T13:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Traditional Wi-Fi router vs. mesh: How to decide between the 2 popular networking options. What: Traditional Wi-Fi router vs. mesh: How to decide between the 2 popular networking options. When: 2026-03-17T13:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Traditional Wi-Fi router vs. mesh: How to decide between the 2 popular networking options. ماذا: Traditional Wi-Fi router vs. mesh: How to decide between the 2 popular networking options. متى: 2026-03-17T13:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2fe783a1f684ef4ff4cd0c3fc81656e66f82ebbf/2025/01/10/1d50f3c0-1975-4639-bc51-a5ea37b5647d/s.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wifi-router-vs-mesh/"
-    ]
-  },
-  {
-    "id": "ef67b535ba870421e194fbaa",
-    "title": "As AI agents spread, 1Password's new tool tackles a rising security threat",
-    "link": "https://www.zdnet.com/article/1password-introduces-unified-credential-security-platform/",
-    "published": "2026-03-17T13:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: As AI agents spread, 1Password's new tool tackles a rising security threat. What: As AI agents spread, 1Password's new tool tackles a rising security threat. When: 2026-03-17T13:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: As AI agents spread, 1Password's new tool tackles a rising security threat. ماذا: As AI agents spread, 1Password's new tool tackles a rising security threat. متى: 2026-03-17T13:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1e04d71d043363cafc4030b24e34660938eb81af/2026/03/16/13a6fbb4-1329-4374-940d-0033cb371d3f/use-as-ai-agents-spread-1password-introduces-unified-credential-security-platform.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/1password-introduces-unified-credential-security-platform/"
-    ]
-  },
-  {
-    "id": "c8c2a6495ad602fa63d59a53",
-    "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
-    "link": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
-    "published": "2026-03-17T12:37:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 174 Vulnerabilities Targeted by RondoDox Botnet. What: 174 Vulnerabilities Targeted by RondoDox Botnet. When: 2026-03-17T12:37:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 174 Vulnerabilities Targeted by RondoDox Botnet. ماذا: 174 Vulnerabilities Targeted by RondoDox Botnet. متى: 2026-03-17T12:37:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "dd14903d2661febab14e1106",
-    "title": "Google, Meta, Microsoft Among Signatories of Pact to Combat Scams",
-    "link": "https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/",
-    "published": "2026-03-17T12:10:52+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google, Meta, Microsoft Among Signatories of Pact to Combat Scams appeared first on SecurityWeek .. What: Google, Meta, Microsoft Among Signatories of Pact to Combat Scams. When: 2026-03-17T12:10:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google, Meta, Microsoft Among Signatories of Pact to Combat Scams appeared first on SecurityWeek .. ماذا: Google, Meta, Microsoft Among Signatories of Pact to Combat Scams. متى: 2026-03-17T12:10:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/"
-    ]
-  },
-  {
-    "id": "d9e7d612a4bd64a18c8f3fd5",
-    "title": "LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/",
-    "published": "2026-03-17T12:09:35+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks. What: The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript.. When: 2026-03-17T12:09:35+00:00. How: The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript. Action: See Arabic action below.",
-    "summary_ar": "من: LeakNet ransomware uses ClickFix, Deno runtime in stealthy attacks. ماذا: The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript.. متى: 2026-03-17T12:09:35+00:00. كيف: The LeakNet ransomware gang is now using the ClickFix technique for initial access into corporate environments and deploys a malware loader based on the open-source Deno runtime for JavaScript and TypeScript.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/02/12/ransomware-3.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/leaknet-ransomware-uses-clickfix-and-deno-runtime-for-stealthy-attacks/"
-    ]
-  },
-  {
-    "id": "88f0d561e1002f4778173c61",
-    "title": "I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy",
-    "link": "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/",
-    "published": "2026-03-17T12:05:15+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy. What: I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy. When: 2026-03-17T12:05:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy. ماذا: I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy. متى: 2026-03-17T12:05:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3ac2f3ff600bf6946112b3071dac4d30bfabb9e2/2026/03/16/5afbb547-7072-42ff-85b1-0ec6e3a2514f/ml4w-simplifies-customizing-hyprland-so-you-can-have-an-efficient-and-crazy-cool-desktop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/"
-    ]
-  },
-  {
-    "id": "e5d1a069977af6b1b8806086",
-    "title": "Microsoft shares fix for Windows C: drive access issues on Samsung PCs",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/",
-    "published": "2026-03-17T12:03:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2.. What: Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2.. When: 2026-03-17T12:03:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2.. ماذا: Microsoft has shared guidance to fix C:&#092; drive access issues and app failures on some Samsung laptops running Windows 11, versions 25H2 and 24H2.. متى: 2026-03-17T12:03:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-windows-c-drive-access-issues-on-samsung-pcs/"
-    ]
-  },
-  {
-    "id": "f95009b0e5e852be0f346e73",
-    "title": "Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears",
-    "link": "https://www.infosecurity-magazine.com/news/nation-state-attacks-uk-firms/",
-    "published": "2026-03-17T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears. What: Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears. When: 2026-03-17T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears. ماذا: Surge in Nation State Attacks on UK Firms Amid Cyber Warfare Fears. متى: 2026-03-17T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/17920779-4200-401f-a5c1-2c736e2d615b.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/nation-state-attacks-uk-firms/"
-    ]
-  },
-  {
-    "id": "174e6435120dbc127971c37e",
-    "title": "Tracebit Raises $20M for Cloud-Native Deception Technology",
-    "link": "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/",
-    "published": "2026-03-17T11:52:34+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Tracebit Raises $20M for Cloud-Native Deception Technology. What: Tracebit Raises $20M for Cloud-Native Deception Technology. When: 2026-03-17T11:52:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Tracebit Raises $20M for Cloud-Native Deception Technology. ماذا: Tracebit Raises $20M for Cloud-Native Deception Technology. متى: 2026-03-17T11:52:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/"
-    ]
-  },
-  {
-    "id": "cf5d89ec696b617dbdf1a3f4",
-    "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
-    "link": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
-    "published": "2026-03-17T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds. What: AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds. When: 2026-03-17T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds. ماذا: AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds. متى: 2026-03-17T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html"
-    ]
-  },
-  {
-    "id": "1e6beefbedac4c431d3f3703",
-    "title": "New Windows 11 hotpatch fixes Bluetooth device visibility issue",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/",
-    "published": "2026-03-17T11:07:05+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices.. What: Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices.. When: 2026-03-17T11:07:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices.. ماذا: Microsoft has released an emergency update to fix a Bluetooth device visibility issue on hotpatch-enabled Windows 11 Enterprise devices.. متى: 2026-03-17T11:07:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/"
-    ]
-  },
-  {
-    "id": "76347c4c238b36851955c8de",
-    "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
-    "link": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
-    "published": "2026-03-17T10:55:55+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on SecurityWeek .. What: The post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on SecurityWeek .. When: 2026-03-17T10:55:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on SecurityWeek .. ماذا: The post CISA Flags Year-Old Wing FTP Vulnerability as Exploited appeared first on SecurityWeek .. متى: 2026-03-17T10:55:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-47813"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
-      "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html"
-    ]
-  },
-  {
-    "id": "29d0b83fce50f0636c7c1947",
-    "title": "Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/",
-    "published": "2026-03-17T10:37:19+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in.. What: Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic. When: 2026-03-17T10:37:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is working to address a known issue that renders the classic Outlook email client unusable for users who have enabled the Microsoft Teams Meeting Add-in.. ماذا: Microsoft: Enabling Teams Meeting add-in breaks Outlook Classic. متى: 2026-03-17T10:37:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/22/Outlook.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-enabling-teams-meeting-add-in-breaks-outlook-classic/"
-    ]
-  },
-  {
-    "id": "fa19408a27921e47f372dc00",
-    "title": "Average Number of Daily API Attacks Up 113% Annually",
-    "link": "https://www.infosecurity-magazine.com/news/average-number-daily-api-attacks/",
-    "published": "2026-03-17T10:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Average Number of Daily API Attacks Up 113% Annually. What: Average Number of Daily API Attacks Up 113% Annually. When: 2026-03-17T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Average Number of Daily API Attacks Up 113% Annually. ماذا: Average Number of Daily API Attacks Up 113% Annually. متى: 2026-03-17T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/d7ff66cc-41d0-4022-8dfa-b64a33014221.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/average-number-daily-api-attacks/"
-    ]
-  },
-  {
-    "id": "6b4fa2568917e71ed11743f5",
-    "title": "AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks",
-    "link": "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/",
-    "published": "2026-03-17T10:30:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks. What: AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks. When: 2026-03-17T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks. ماذا: AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks. متى: 2026-03-17T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/"
-    ]
-  },
-  {
-    "id": "858fefbe642c56f9f59dcbc7",
-    "title": "UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch",
-    "link": "https://www.infosecurity-magazine.com/news/uk-cyber-monitoring-centre-us/",
-    "published": "2026-03-17T10:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch. What: UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch. When: 2026-03-17T10:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch. ماذا: UK Cyber Monitoring Centre Sets Its Sights on US Expansion One Year After Launch. متى: 2026-03-17T10:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/20b24954-67cf-44e3-bb51-c40b66b268c9.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/uk-cyber-monitoring-centre-us/"
-    ]
-  },
-  {
-    "id": "90286be5d871fb956dcfc342",
-    "title": "I found 20+ tiny gadgets that can handle big tasks (and they're under $50)",
-    "link": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/",
-    "published": "2026-03-17T10:00:56+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found 20+ tiny gadgets that can handle big tasks (and they're under $50). What: I found 20+ tiny gadgets that can handle big tasks (and they're under $50). When: 2026-03-17T10:00:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I found 20+ tiny gadgets that can handle big tasks (and they're under $50). ماذا: I found 20+ tiny gadgets that can handle big tasks (and they're under $50). متى: 2026-03-17T10:00:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8658e535302d3b82bd08ea0225413ba9639fb9ed/2025/04/03/65d57a26-6da9-4a39-aa3f-599a3ac0e399/airfly-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/"
-    ]
-  },
-  {
-    "id": "1dcf7cfcc2da19f9b5cb4bc2",
-    "title": "Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models",
-    "link": "https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/",
-    "published": "2026-03-17T10:00:38+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models. What: Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models. When: 2026-03-17T10:00:38+00:00. How: Unit 42 research unveils LLM guardrail fragility using genetic algorithm-inspired prompt fuzzing. Action: See Arabic action below.",
-    "summary_ar": "من: Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models. ماذا: Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models. متى: 2026-03-17T10:00:38+00:00. كيف: Unit 42 research unveils LLM guardrail fragility using genetic algorithm-inspired prompt fuzzing.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/AdobeStock_652069707.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/"
     ]
   }
 ]
