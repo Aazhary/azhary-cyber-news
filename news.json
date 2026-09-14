@@ -54,6 +54,296 @@
     ]
   },
   {
+    "id": "ca1339ef77642c0b7148cab5",
+    "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+    "published": "2026-09-14T18:34:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers hijack HBO Max Reddit account to push malware in ClickFix ads. What: Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware.. When: 2026-09-14T18:34:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers hijack HBO Max Reddit account to push malware in ClickFix ads. ماذا: Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware.. متى: 2026-09-14T18:34:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/06/18/hbo-max-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/"
+    ]
+  },
+  {
+    "id": "3c49997b3859dc3437123630",
+    "title": "New hardware device can RAM into encrypted memory, expose your data",
+    "link": "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377",
+    "published": "2026-09-14T18:31:33+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Boffins affiliated with KU Leuven, ETH Zurich, Durham University, and Google have found that scalable memory encryption hardware fails to check whether the data in memory is fresh.. What: There's no easy fix for Intel's and AMD's current scalable memory-encryption designs, said Van Bulck, and no simple software or hardware patch that can address the root cause.. When: 2026-09-14T18:31:33+00:00. How: We are releasing the complete interposer design as open-source hardware.\" The attack breaks the integrity of Intel TDX, Scalable SGX, and AMD SEV-SNP, used in trusted execution environments (TEEs). Action: See Arabic action below.",
+    "summary_ar": "من: Boffins affiliated with KU Leuven, ETH Zurich, Durham University, and Google have found that scalable memory encryption hardware fails to check whether the data in memory is fresh.. ماذا: There's no easy fix for Intel's and AMD's current scalable memory-encryption designs, said Van Bulck, and no simple software or hardware patch that can address the root cause.. متى: 2026-09-14T18:31:33+00:00. كيف: We are releasing the complete interposer design as open-source hardware.\" The attack breaks the integrity of Intel TDX, Scalable SGX, and AMD SEV-SNP, used in trusted execution environments (TEEs).. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5296381.jpg?imageId=5296381&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377"
+    ]
+  },
+  {
+    "id": "00396e44ab52af384cbf0423",
+    "title": "OpenAI's malicious bot swarm attacked RubyGems",
+    "link": "https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356",
+    "published": "2026-09-14T18:03:58+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI agents appear to have flooded RubyGems with malicious packages, adding to a near-daily deluge of rogue AI models engaging in potentially unlawful activity while their human creators face growing questions over responsibility for their agents’ bad behavior.. What: In light of the increasingly apocalyptic warnings around AI - or perhaps in a self-serving attempt at regulatory capture - several of the industry’s biggest bosses over the weekend backed a collective slowdown of AI training and development, after Anthropic CEO Dario Amodei warned that future agents could become “capable of taking over the entire internet with a persistent botnet.” Meanwhile, President Trump said on Truth Social, \"the only control or 'guardrails' that AI needs is a strong and smart (high IQ!) president,\" and claimed his administration has stopped \"AI 'people' from doing bad, or potentially bad, 'things.'\"® OpenAI's malicious bot swarm attacked RubyGems. When: 2026-09-14T18:03:58+00:00. How: Also according to the researchers, more than 100 of the malicious packages followed the same exploitation path, submitting a malicious package to the public library and triggering a documentation request to force RubyDoc.info to build the package. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI agents appear to have flooded RubyGems with malicious packages, adding to a near-daily deluge of rogue AI models engaging in potentially unlawful activity while their human creators face growing questions over responsibility for their agents’ bad behavior.. ماذا: In light of the increasingly apocalyptic warnings around AI - or perhaps in a self-serving attempt at regulatory capture - several of the industry’s biggest bosses over the weekend backed a collective slowdown of AI training and development, after Anthropic CEO Dario Amodei warned that future agents could become “capable of taking over the entire internet with a persistent botnet.” Meanwhile, President Trump said on Truth Social, \"the only control or 'guardrails' that AI needs is a strong and smart (high IQ!) president,\" and claimed his administration has stopped \"AI 'people' from doing bad, or potentially bad, 'things.'\"® OpenAI's malicious bot swarm attacked RubyGems. متى: 2026-09-14T18:03:58+00:00. كيف: Also according to the researchers, more than 100 of the malicious packages followed the same exploitation path, submitting a malicious package to the public library and triggering a documentation request to force RubyDoc.info to build the package.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/254748.jpg?imageId=254748&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356"
+    ]
+  },
+  {
+    "id": "57f27f5de735fa100d685940",
+    "title": "The latest Windows 11 update may mess with your device’s audio – here’s the workaround",
+    "link": "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/",
+    "published": "2026-09-14T17:27:48+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The latest Windows 11 update may mess with your device’s audio – here’s the workaround. What: The latest Windows 11 update may mess with your device’s audio – here’s the workaround. When: 2026-09-14T17:27:48+00:00. How: The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself. Action: See Arabic action below.",
+    "summary_ar": "من: The latest Windows 11 update may mess with your device’s audio – here’s the workaround. ماذا: The latest Windows 11 update may mess with your device’s audio – here’s the workaround. متى: 2026-09-14T17:27:48+00:00. كيف: The September Patch Tuesday update is causing audio problems with certain USB devices, but you may be able to resolve it yourself.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-sound-controls-with-USB-audio-device.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/windows-11-sept-update-audio-glitch-fix-2/"
+    ]
+  },
+  {
+    "id": "2b09b943f4f50636af0bc0a0",
+    "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+    "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+    "published": "2026-09-14T16:58:42+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing. What: Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.. When: 2026-09-14T16:58:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing. ماذا: Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current.. متى: 2026-09-14T16:58:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif",
+    "sources": [
+      "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
+    ]
+  },
+  {
+    "id": "8cbdb00573dcd2cf13f69bf1",
+    "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+    "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "published": "2026-09-14T16:56:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries. What: A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.. When: 2026-09-14T16:56:30+00:00. How: \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries Action: See Arabic action below.",
+    "summary_ar": "من: Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries. ماذا: A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.. متى: 2026-09-14T16:56:30+00:00. كيف: \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html"
+    ]
+  },
+  {
+    "id": "f0e2e2ddc7004e2d73e7ca94",
+    "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
+    "link": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+    "published": "2026-09-14T16:41:10+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Anthropic CEO: Time to Shift From Improving to Controlling AI. What: Anthropic CEO: Time to Shift From Improving to Controlling AI. When: 2026-09-14T16:41:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic CEO: Time to Shift From Improving to Controlling AI. ماذا: Anthropic CEO: Time to Shift From Improving to Controlling AI. متى: 2026-09-14T16:41:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai"
+    ]
+  },
+  {
+    "id": "baf342173ebff3994c09a774",
+    "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+    "published": "2026-09-14T16:15:58+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments.. What: Hackers target exposed Vite dev servers to steal AWS, Azure secrets. When: 2026-09-14T16:15:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments.. ماذا: Hackers target exposed Vite dev servers to steal AWS, Azure secrets. متى: 2026-09-14T16:15:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/"
+    ]
+  },
+  {
+    "id": "c993406fa2aac5aa283e8aa4",
+    "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+    "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+    "published": "2026-09-14T16:00:04+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution. What: WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.. When: 2026-09-14T16:00:04+00:00. How: WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution. ماذا: WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.. متى: 2026-09-14T16:00:04+00:00. كيف: WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
+    ]
+  },
+  {
+    "id": "d9bdeb92883d6c6f556e57ef",
+    "title": "Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens",
+    "link": "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/",
+    "published": "2026-09-14T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens. What: Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens. When: 2026-09-14T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens. ماذا: Malicious Twitch Extension Exposes 31,000 Users' OAuth Tokens. متى: 2026-09-14T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/67265cb3-e857-4815-8e85-05532fec5e5c.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/malicious-twitch-extension-oauth/"
+    ]
+  },
+  {
+    "id": "a229e9d73263ff87a27618e0",
+    "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+    "published": "2026-09-14T14:40:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits. What: ⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits. When: 2026-09-14T14:40:34+00:00. How: Attackers are using it to speed up exploits, test defenses, and automate more of the job. Action: See Arabic action below.",
+    "summary_ar": "من: ⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits. ماذا: ⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits. متى: 2026-09-14T14:40:34+00:00. كيف: Attackers are using it to speed up exploits, test defenses, and automate more of the job.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
+    ]
+  },
+  {
+    "id": "f0fd013b183c1920ebf16670",
+    "title": "Perfect-10 GitLab bug under attack days after patch lands",
+    "link": "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176",
+    "published": "2026-09-14T14:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10.. What: CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10.. When: 2026-09-14T14:30:00+00:00. How: Under certain conditions, an attacker doesn't need to log in before abusing the flaw to read arbitrary files from the GitLab server. Action: See Arabic action below.",
+    "summary_ar": "من: CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10.. ماذا: CISA says attackers are exploiting a maximum-severity GitLab flaw that lets unauthenticated miscreants read arbitrary files from vulnerable servers after the code shack released fixes on September 10.. متى: 2026-09-14T14:30:00+00:00. كيف: Under certain conditions, an attacker doesn't need to log in before abusing the flaw to read arbitrary files from the GitLab server.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-85706"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5279434.jpg?imageId=5279434&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/14/perfect-10-gitlab-bug-under-attack-days-after-patch-lands/5296176"
+    ]
+  },
+  {
+    "id": "d847dc5baadfcbfd58553979",
+    "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
+    "link": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
+    "published": "2026-09-14T14:28:26+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development. What: Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development. When: 2026-09-14T14:28:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development. ماذا: Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development. متى: 2026-09-14T14:28:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/"
+    ]
+  },
+  {
+    "id": "d6f8d7c3645bc382ae4f4acd",
+    "title": "Human Attacker Hits Machine-Speed Exploitation of Marimo RCE",
+    "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
+    "published": "2026-09-14T14:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Human Attacker Hits Machine-Speed Exploitation of Marimo RCE. What: A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds Human Attacker Hits Machine-Speed Exploitation of Marimo RCE. When: 2026-09-14T14:15:00+00:00. How: A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds Human Attacker Hits Machine-Speed Exploitation of Marimo RCE Action: See Arabic action below.",
+    "summary_ar": "من: Human Attacker Hits Machine-Speed Exploitation of Marimo RCE. ماذا: A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds Human Attacker Hits Machine-Speed Exploitation of Marimo RCE. متى: 2026-09-14T14:15:00+00:00. كيف: A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds Human Attacker Hits Machine-Speed Exploitation of Marimo RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/86323d4a-8f1c-4154-9f3f-5c953f872633.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/"
+    ]
+  },
+  {
+    "id": "e09b53171f8697f1eab2c740",
+    "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+    "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+    "published": "2026-09-14T14:01:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Why Patch Automation Needs Brakes, Not Just an Accelerator. What: Why Patch Automation Needs Brakes, Not Just an Accelerator. When: 2026-09-14T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why Patch Automation Needs Brakes, Not Just an Accelerator. ماذا: Why Patch Automation Needs Brakes, Not Just an Accelerator. متى: 2026-09-14T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/09/09/action1-cybersecurity-lock.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/"
+    ]
+  },
+  {
+    "id": "cbd0c52a698d8bcb590c1b5a",
+    "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+    "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+    "published": "2026-09-14T13:31:15+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate. What: New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate. When: 2026-09-14T13:31:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate. ماذا: New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate. متى: 2026-09-14T13:31:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-model-frontier.webp",
+    "sources": [
+      "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/"
+    ]
+  },
+  {
     "id": "425b2e10fc315e175e6d435a",
     "title": "Personal, Financial Info Exposed in Revolut Data Breach",
     "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
@@ -656,6 +946,24 @@
     ]
   },
   {
+    "id": "1449c697649258a79bb0bdf8",
+    "title": "Switzerland takes a Swiss Army knife to Microsoft 365",
+    "link": "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/",
+    "published": "2026-09-11T18:57:47+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk.. What: Switzerland takes a Swiss Army knife to Microsoft 365. When: 2026-09-11T18:57:47+00:00. How: Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk. Action: See Arabic action below.",
+    "summary_ar": "من: Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk.. ماذا: Switzerland takes a Swiss Army knife to Microsoft 365. متى: 2026-09-11T18:57:47+00:00. كيف: Two divisions of Switzerland’s government are shifting from Microsoft 365 to open-source openDesk.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-155097444.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/switzerland-replaces-microsoft-365-open-source-opendesk/"
+    ]
+  },
+  {
     "id": "64db0bc26970ef81c5c43b47",
     "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
     "link": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
@@ -783,6 +1091,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait"
+    ]
+  },
+  {
+    "id": "397ede93e21884f6ea37419f",
+    "title": "Your older iPhone just got free satellite service for another year – here’s why",
+    "link": "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/",
+    "published": "2026-09-11T16:35:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This isn’t the first time that Apple has extended the free two-year trial.. What: Your older iPhone just got free satellite service for another year – here’s why. When: 2026-09-11T16:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: This isn’t the first time that Apple has extended the free two-year trial.. ماذا: Your older iPhone just got free satellite service for another year – here’s why. متى: 2026-09-11T16:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Apple-satellite-service.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/apple-extends-free-satellite-service-to-older-iphones/"
     ]
   },
   {
@@ -986,6 +1312,24 @@
     ]
   },
   {
+    "id": "7692d30ad6bec69b2df1a2fa",
+    "title": "This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead",
+    "link": "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/",
+    "published": "2026-09-11T12:20:31+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead. What: This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead. When: 2026-09-11T12:20:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead. ماذا: This CIO doesn’t ‘hire engineers to write code’: 3 AI fundamentals he prioritizes instead. متى: 2026-09-11T12:20:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/darkcode-GettyImages-814528044.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/chase-cio-ai-fundamentals/"
+    ]
+  },
+  {
     "id": "a561a2631ea36b728dfb9a2c",
     "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
     "link": "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841",
@@ -1001,6 +1345,24 @@
     "image": "https://image.theregister.com/5239008.jpg?imageId=5239008&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841"
+    ]
+  },
+  {
+    "id": "a85f49d4bb24d0a9f588f6ad",
+    "title": "I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced",
+    "link": "https://www.zdnet.com/tech/apple-event-features-android-users-want/",
+    "published": "2026-09-11T12:06:19+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I hate to admit it, but I wish Android would do what Apple just did.. What: I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced. When: 2026-09-11T12:06:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I hate to admit it, but I wish Android would do what Apple just did.. ماذا: I’ve been an Android user all my life, but I’m jealous of 3 things Apple just announced. متى: 2026-09-11T12:06:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00697.jpeg",
+    "sources": [
+      "https://www.zdnet.com/tech/apple-event-features-android-users-want/"
     ]
   },
   {
@@ -1520,6 +1882,24 @@
     ]
   },
   {
+    "id": "d823ad9d1df47a01307bc339",
+    "title": "Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits",
+    "link": "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/",
+    "published": "2026-09-10T18:00:46+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.. What: Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits. When: 2026-09-10T18:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A new Apple support page explains how Siri AI and other AI-powered tools in the new OS will be controlled.. ماذا: Eager to try iOS 27’s cool AI features and upgraded Siri? Get ready for usage limits. متى: 2026-09-10T18:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/figure-top-how-i-use-siri-mode-in-the-ios-27-camera-app-to-ask-questions-about-anything-i-see_06c81e.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/how-apple-will-limit-your-ai-use/"
+    ]
+  },
+  {
     "id": "96788d5a772f9a8a3f902529",
     "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
     "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -1671,6 +2051,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4vbRDTWaQnxiILexae9P_rAk0hzx-re0czK2tM_WNQcoVDPlKblD4M5qOy8FZ9hHJBDLGjHHAyYutmaiacI54o5q1SH5qSbsptviRF16T2r6i8Iywvzk4GJprCm60p12qrK7t3R8h_ZR7CUoG47YfdeOb0iKY0WRapDeObI8_poWklMtKXrmr421Scjzi/s1600/play.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+    ]
+  },
+  {
+    "id": "0732d9a2eebfd9e3b314dcb9",
+    "title": "Your friend with ‘nothing to hide’ is more likely to spy on you, study shows",
+    "link": "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/",
+    "published": "2026-09-10T14:31:03+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Your friend with ‘nothing to hide’ is more likely to spy on you, study shows. What: Your friend with ‘nothing to hide’ is more likely to spy on you, study shows. When: 2026-09-10T14:31:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your friend with ‘nothing to hide’ is more likely to spy on you, study shows. ماذا: Your friend with ‘nothing to hide’ is more likely to spy on you, study shows. متى: 2026-09-10T14:31:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/jealousphone-GettyImages-2259698776.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/partner-has-nothing-to-hide-theyre-more-likely-to-spy-on-you/"
     ]
   },
   {
@@ -2271,6 +2669,24 @@
     ]
   },
   {
+    "id": "fd63dd37e5113782924c441e",
+    "title": "The iPhone 17 and other older models just got a surprise $100 price hike",
+    "link": "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/",
+    "published": "2026-09-09T22:22:42+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple quietly increased prices across its existing lineup after revealing its latest devices.. What: The iPhone 17 and other older models just got a surprise $100 price hike. When: 2026-09-09T22:22:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple quietly increased prices across its existing lineup after revealing its latest devices.. ماذا: The iPhone 17 and other older models just got a surprise $100 price hike. متى: 2026-09-09T22:22:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00529.jpeg",
+    "sources": [
+      "https://www.zdnet.com/business/iphone-17-older-models-100-price-hike/"
+    ]
+  },
+  {
     "id": "0174d74ba099dc84fb74ef7d",
     "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -2363,6 +2779,24 @@
     ]
   },
   {
+    "id": "58b6e615184681cc2aaf33c0",
+    "title": "5 biggest Apple announcements from the iPhone Duo event",
+    "link": "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/",
+    "published": "2026-09-09T20:54:09+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino.. What: Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino.. When: 2026-09-09T20:54:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino.. ماذا: Apple announced a new foldable called the iPhone Duo, the iPhone 18 Pro, AirPods 5, and new Apple Watches at its Surprise and Shine event in Cupertino.. متى: 2026-09-09T20:54:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00514.jpeg",
+    "sources": [
+      "https://www.zdnet.com/business/everything-apple-announced-at-its-iphone-18-event-duo/"
+    ]
+  },
+  {
     "id": "272c95de9836a13e7713a03e",
     "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
     "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
@@ -2378,6 +2812,60 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b13b556aa2e63e/6aa1a92888ea9adc3dabaf29/distillery-ArtistGNDphotography-GettyImages-2195175104.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models"
+    ]
+  },
+  {
+    "id": "01c578a7340b1286bf77346f",
+    "title": "This LG TV jailbreak turns smart devices into spies, say researchers",
+    "link": "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/",
+    "published": "2026-09-09T18:59:45+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: This LG TV jailbreak turns smart devices into spies, say researchers. What: This LG TV jailbreak turns smart devices into spies, say researchers. When: 2026-09-09T18:59:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: This LG TV jailbreak turns smart devices into spies, say researchers. ماذا: This LG TV jailbreak turns smart devices into spies, say researchers. متى: 2026-09-09T18:59:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/05f2a39f-76e8-4fc0-8ef9-69c550c2e76e.jpg",
+    "sources": [
+      "https://www.zdnet.com/uncategorized/lg-tv-can-spy-on-you-say-researchers-how-to-prevent-it/"
+    ]
+  },
+  {
+    "id": "1db1dfee5148649784a252ee",
+    "title": "T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder",
+    "link": "https://www.zdnet.com/business/tmobile-iphone-18-deal/",
+    "published": "2026-09-09T18:39:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder. What: T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder. When: 2026-09-09T18:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder. ماذا: T-Mobile will give you the iPhone 18 Pro for free – here’s how to preorder. متى: 2026-09-09T18:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00611.jpeg",
+    "sources": [
+      "https://www.zdnet.com/business/tmobile-iphone-18-deal/"
+    ]
+  },
+  {
+    "id": "0663169a3b6cedbaac76bc70",
+    "title": "iOS 27 release date confirmed: 9 things your iPhone can do once you update",
+    "link": "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/",
+    "published": "2026-09-09T18:33:23+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Apple event revealed much more than a new lineup of iPhones.. What: iOS 27 release date confirmed: 9 things your iPhone can do once you update. When: 2026-09-09T18:33:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Apple event revealed much more than a new lineup of iPhones.. ماذا: iOS 27 release date confirmed: 9 things your iPhone can do once you update. متى: 2026-09-09T18:33:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/5_b557f5.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/ios-27-release-date-new-iphone-features/"
     ]
   },
   {
@@ -2528,6 +3016,24 @@
     ]
   },
   {
+    "id": "f5a9af02620348e33d5cb2bb",
+    "title": "You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it",
+    "link": "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/",
+    "published": "2026-09-09T16:17:35+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it. What: You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it. When: 2026-09-09T16:17:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it. ماذا: You can doodle in ChatGPT now, and it’ll transform your drawings into polished images – how to try it. متى: 2026-09-09T16:17:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-I-used-ChatGPTs-new-Sketch-tool-to-turn-my-crude-drawings-into-cool-images.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/chatgpt-sketch-ai-image-generator-tutorial/"
+    ]
+  },
+  {
     "id": "8b764ec7a24f4600633b2695",
     "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
     "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
@@ -2561,6 +3067,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/6cfe6b14-5752-44e2-9ad0-22a3a211ebc6.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/"
+    ]
+  },
+  {
+    "id": "9c2b1550ffd41ac2bb2c88da",
+    "title": "Want iOS 27 on day one? Don’t skip this last-minute iPhone update",
+    "link": "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/",
+    "published": "2026-09-09T14:53:03+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Want iOS 27 on day one? Don’t skip this last-minute iPhone update. What: Want iOS 27 on day one? Don’t skip this last-minute iPhone update. When: 2026-09-09T14:53:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Want iOS 27 on day one? Don’t skip this last-minute iPhone update. ماذا: Want iOS 27 on day one? Don’t skip this last-minute iPhone update. متى: 2026-09-09T14:53:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Apple-iOS-2662.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/iphone-update-fixes-cellular-download-bug-before-ios-27-releases/"
     ]
   },
   {
@@ -2672,6 +3196,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/02533265-847b-47e2-a851-0a83e3b97cff.jpeg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/"
+    ]
+  },
+  {
+    "id": "8a3c9b8c974fdf76093bf4cd",
+    "title": "Apple event 2026 live updates: The first foldable iPhone and more in real time",
+    "link": "https://www.zdnet.com/business/apple-september-event-live-blog-2026/",
+    "published": "2026-09-09T13:00:30+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple event 2026 live updates: The first foldable iPhone and more in real time. What: Apple event 2026 live updates: The first foldable iPhone and more in real time. When: 2026-09-09T13:00:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple event 2026 live updates: The first foldable iPhone and more in real time. ماذا: Apple event 2026 live updates: The first foldable iPhone and more in real time. متى: 2026-09-09T13:00:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/eduo.png",
+    "sources": [
+      "https://www.zdnet.com/business/apple-september-event-live-blog-2026/"
     ]
   },
   {
@@ -3317,6 +3859,24 @@
     ]
   },
   {
+    "id": "f4d4d46b1bf4d865660a1593",
+    "title": "Latest Windows 11 update restores your taskbar control, patches 995 security flaws",
+    "link": "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/",
+    "published": "2026-09-08T20:48:06+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.. What: The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.. When: 2026-09-08T20:48:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.. ماذا: The September Windows 11 update set a new patching record with almost 1,000 security flaws fixed.. متى: 2026-09-08T20:48:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-moveable-taskbar-1.jpg",
+    "sources": [
+      "https://www.zdnet.com/uncategorized/windows-11-september-2026-update/"
+    ]
+  },
+  {
     "id": "bf2dd02ab9ceb3a5c230b98f",
     "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
@@ -3898,6 +4458,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/09/08/google-workspace-hacker.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/"
+    ]
+  },
+  {
+    "id": "64069b19c7162032583ddf36",
+    "title": "I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh",
+    "link": "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/",
+    "published": "2026-09-08T12:27:18+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh. What: I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh. When: 2026-09-08T12:27:18+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh. ماذا: I demoed Sony’s new 2026 budget over-ear headphones – including a WH-1000XM4 refresh. متى: 2026-09-08T12:27:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/sonybud.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/sony-budget-over-ear-headphones-2026-demo/"
     ]
   },
   {
@@ -4883,6 +5461,24 @@
     ]
   },
   {
+    "id": "9770d9ebfd2b5b25901bbe57",
+    "title": "Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down",
+    "link": "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/",
+    "published": "2026-09-06T18:46:41+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch.. What: Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down. When: 2026-09-06T18:46:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In the final round of our Big Guessing Game, you shared your predictions on the iPhone event to win a new Apple Watch.. ماذا: Apple will announce the iPhone 18 this week – here’s how ZDNET readers think it’ll go down. متى: 2026-09-06T18:46:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/big-guessing-game-guesses-revealed-zdnet.png",
+    "sources": [
+      "https://www.zdnet.com/business/apple-guessing-game-round-3-answers/"
+    ]
+  },
+  {
     "id": "091e6b1057933e2f7d3e7732",
     "title": "Attackers conceal phishing lures using invisible Unicode characters",
     "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
@@ -4934,6 +5530,42 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html"
+    ]
+  },
+  {
+    "id": "d36441e077bf67a4b6652014",
+    "title": "The 5 coolest phones I saw at IFA 2026 – including a new foldable",
+    "link": "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/",
+    "published": "2026-09-06T06:52:05+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The 5 coolest phones I saw at IFA 2026 – including a new foldable. What: The 5 coolest phones I saw at IFA 2026 – including a new foldable. When: 2026-09-06T06:52:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The 5 coolest phones I saw at IFA 2026 – including a new foldable. ماذا: The 5 coolest phones I saw at IFA 2026 – including a new foldable. متى: 2026-09-06T06:52:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IFA-2026-coolest-phones.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/the-5-coolest-phones-i-saw-at-ifa-2026/"
+    ]
+  },
+  {
+    "id": "8f67b7f85e6fab4e1bb0252d",
+    "title": "Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day",
+    "link": "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/",
+    "published": "2026-09-05T23:16:53+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day. What: Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day. When: 2026-09-05T23:16:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day. ماذا: Save almost 50% on this 85-inch Hisense TV at Amazon for Labor Day. متى: 2026-09-05T23:16:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/a7ba1a96-c7d3-40d2-b051-1ff2b72ca219.jpg",
+    "sources": [
+      "https://www.zdnet.com/home-and-office/save-almost-50-on-this-85-inch-hisense-tv-at-amazon-for-labor-day/"
     ]
   },
   {
@@ -5421,6 +6053,24 @@
     ]
   },
   {
+    "id": "acf6dd4c8f6070ec193f43c0",
+    "title": "This AI tool found 6 Curl vulnerabilities Mythos and Codex missed – even Greg KH is impressed",
+    "link": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
+    "published": "2026-09-04T12:23:47+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Aisle found six Curl flaws after Mythos and Codex reported none.. What: Aisle found six Curl flaws after Mythos and Codex reported none.. When: 2026-09-04T12:23:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Aisle found six Curl flaws after Mythos and Codex reported none.. ماذا: Aisle found six Curl flaws after Mythos and Codex reported none.. متى: 2026-09-04T12:23:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1435604927.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/"
+    ]
+  },
+  {
     "id": "4628543919410bbcfc1a891d",
     "title": "Exchange Online outage causes email delays, 'Server busy' errors",
     "link": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
@@ -5869,6 +6519,24 @@
     ]
   },
   {
+    "id": "612b0a41ecd16516ed8e9bf9",
+    "title": "OpenAI’s new Astra model is finally here – why safety experts are worried",
+    "link": "https://www.zdnet.com/innovation/openai-astra-finally-here-experts-worried/",
+    "published": "2026-09-03T18:00:17+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: OpenAI’s new Astra model is finally here – why safety experts are worried. What: OpenAI’s new Astra model is finally here – why safety experts are worried. When: 2026-09-03T18:00:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI’s new Astra model is finally here – why safety experts are worried. ماذا: OpenAI’s new Astra model is finally here – why safety experts are worried. متى: 2026-09-03T18:00:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/openais-gpt-5-launch-could-be-as-early-as-this-week-heres-what-to-expect_87a620.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/openai-astra-finally-here-experts-worried/"
+    ]
+  },
+  {
     "id": "c8043b5ca62452e6f9ed3b7e",
     "title": "What the AI Warning Letter Completely Missed",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
@@ -5884,6 +6552,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0238701b3b59da5d/6a9b00948fc952ee7af9f806/AI_warning_-J_Studios-getty-2189472651.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people"
+    ]
+  },
+  {
+    "id": "cafb9775b6b322e4d133cd6f",
+    "title": "I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?",
+    "link": "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/",
+    "published": "2026-09-03T16:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?. What: I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?. When: 2026-09-03T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?. ماذا: I went hands-on with Lenovo’s latest rollable laptop – is it finally practical?. متى: 2026-09-03T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Lenovo-Event-8.3.26-65.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/lenovo-rollable-display-laptop-ifa-2026/"
     ]
   },
   {
@@ -30070,6 +30756,24 @@
     "image": "https://image.theregister.com/252578.jpg?imageId=252578&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165"
+    ]
+  },
+  {
+    "id": "595aba03e60d94fc7b4a9fd6",
+    "title": "The moment a business outgrows DIY payroll and what to do next",
+    "link": "https://www.zdnet.com/paid-content/article/the-moment-a-business-outgrows-diy-payroll-and-what-to-do-next/",
+    "published": "2026-08-05T00:23:53+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The moment a business outgrows DIY payroll and what to do next. What: The moment a business outgrows DIY payroll and what to do next. When: 2026-08-05T00:23:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The moment a business outgrows DIY payroll and what to do next. ماذا: The moment a business outgrows DIY payroll and what to do next. متى: 2026-08-05T00:23:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/onpay_584cf6.png",
+    "sources": [
+      "https://www.zdnet.com/paid-content/article/the-moment-a-business-outgrows-diy-payroll-and-what-to-do-next/"
     ]
   },
   {
@@ -112255,20 +112959,21 @@
     ]
   },
   {
-    "id": "114e5ce77993f5a17c3521b2",
+    "id": "012292397b6e80db2f428e98",
     "title": "The payroll errors costing small businesses thousands, and how to avoid them",
-    "link": "https://www.zdnet.com/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
-    "published": "2026-04-30T22:23:00+00:00",
+    "link": "https://www.zdnet.com/paid-content/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
+    "published": "2026-04-30T22:23:35+00:00",
     "source": "zdnet.com",
-    "summary_en": "Who: The payroll errors costing small businesses thousands, and how to avoid them. What: The payroll errors costing small businesses thousands, and how to avoid them. When: 2026-04-30T22:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The payroll errors costing small businesses thousands, and how to avoid them. ماذا: The payroll errors costing small businesses thousands, and how to avoid them. متى: 2026-04-30T22:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: The payroll errors costing small businesses thousands, and how to avoid them. What: The payroll errors costing small businesses thousands, and how to avoid them. When: 2026-04-30T22:23:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The payroll errors costing small businesses thousands, and how to avoid them. ماذا: The payroll errors costing small businesses thousands, and how to avoid them. متى: 2026-04-30T22:23:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3685b651670747a76fbce388ea85982a453c91fb/2026/04/29/65099c94-2e49-454c-8765-5f35d74e2182/cnet-lead-image.png?auto=webp&fit=crop&height=675&width=1200",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/onpay-lead-image-1_3ffbcc.jpg",
     "sources": [
+      "https://www.zdnet.com/paid-content/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/",
       "https://www.zdnet.com/article/the-payroll-errors-costing-small-businesses-thousands-and-how-to-avoid-them/"
     ]
   },
@@ -150783,500 +151488,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a5a0ac0e905a182bdaf5aede9541277717fb6f6b/2026/03/18/727bee8a-a17e-4155-afae-b80642265ef5/11pixel9gettyimages-2205278606.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/i-tested-android-desktop-mode-on-my-pixel-phone/"
-    ]
-  },
-  {
-    "id": "88f0d561e1002f4778173c61",
-    "title": "I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it",
-    "link": "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/",
-    "published": "2026-03-18T18:38:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it. What: I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it. When: 2026-03-18T18:38:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it. ماذا: I tried a highly-customized Hyprland desktop that's meant for Linux pros - and didn't hate it. متى: 2026-03-18T18:38:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3ac2f3ff600bf6946112b3071dac4d30bfabb9e2/2026/03/16/5afbb547-7072-42ff-85b1-0ec6e3a2514f/ml4w-simplifies-customizing-hyprland-so-you-can-have-an-efficient-and-crazy-cool-desktop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/"
-    ]
-  },
-  {
-    "id": "dc489b5036f3a93458218f6b",
-    "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-    "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/",
-    "published": "2026-03-18T18:10:35+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: ConnectWise patches new flaw allowing ScreenConnect hijacking. What: ConnectWise patches new flaw allowing ScreenConnect hijacking. When: 2026-03-18T18:10:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ConnectWise patches new flaw allowing ScreenConnect hijacking. ماذا: ConnectWise patches new flaw allowing ScreenConnect hijacking. متى: 2026-03-18T18:10:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/29/connectwise-logo.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"
-    ]
-  },
-  {
-    "id": "a0980e8262e5f4f91047419c",
-    "title": "Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/",
-    "published": "2026-03-18T17:40:31+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss. What: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss. When: 2026-03-18T17:40:31+00:00. How: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss Action: See Arabic action below.",
-    "summary_ar": "من: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss. ماذا: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss. متى: 2026-03-18T17:40:31+00:00. كيف: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Ransomware crims abused Cisco 0-day weeks before disclosure, says Amazon security boss. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20131"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/18/ransomware_multiscreen.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/"
-    ]
-  },
-  {
-    "id": "a0980e8262e5f4f91047419c",
-    "title": "Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/",
-    "published": "2026-03-18T17:40:31+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure. What: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure. When: 2026-03-18T17:40:31+00:00. How: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure Action: See Arabic action below.",
-    "summary_ar": "من: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure. ماذا: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure. متى: 2026-03-18T17:40:31+00:00. كيف: Interlock's post-exploit toolkit exposed Ransomware criminals exploited CVE-2026-20131, a maximum-severity bug in Cisco Secure Firewall Management Center software, as a zero-day vulnerability more than a month before Cisco patched the hole, according to Amazon security boss CJ Moses.… Amazon security boss says crims abused max-security Cisco firewall flaw weeks before disclosure. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20131"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/18/ransomware_multiscreen.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/18/amazon_cisco_firewall_0_day_ransomware/"
-    ]
-  },
-  {
-    "id": "c76ac38a6eb1dd0a1224b2a3",
-    "title": "OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs",
-    "link": "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html",
-    "published": "2026-03-18T17:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs. What: OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs. When: 2026-03-18T17:26:00+00:00. How: \"The North Korean OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs Action: See Arabic action below.",
-    "summary_ar": "من: OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs. ماذا: OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs. متى: 2026-03-18T17:26:00+00:00. كيف: \"The North Korean OFAC Sanctions DPRK IT Worker Network Funding WMD Programs Through Fake Remote Jobs. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXJqNKU2E3XuLpHv5iNIyXUsNHiw2sKZHX26AXk9X2bIlFfmTfRYdKkvL40FGg6dAccgemC93VDZ_l8uIFrzaxPY5OMtWeujIO4CS4XvbQQI-Y_B36j1wl5nFWFjXp968S6iTFFZlwdO9Qx8tNHBALQHagYFSFBGjncE6OJdk3ZOGZFWFnucDua1CawKd/s1600/1000061563.png",
-    "sources": [
-      "https://thehackernews.com/2026/03/ofac-sanctions-dprk-it-worker-network.html"
-    ]
-  },
-  {
-    "id": "9f60cea2b200c31431afca0b",
-    "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-    "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/",
-    "published": "2026-03-18T16:53:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January.. What: Ransomware gang exploits Cisco flaw in zero-day attacks since January. When: 2026-03-18T16:53:42+00:00. How: The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January. Action: See Arabic action below.",
-    "summary_ar": "من: The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January.. ماذا: Ransomware gang exploits Cisco flaw in zero-day attacks since January. متى: 2026-03-18T16:53:42+00:00. كيف: The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since late January.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/"
-    ]
-  },
-  {
-    "id": "78cb7c24ac0c7830d8a99e23",
-    "title": "What's a minimal install for Linux? 6 reasons it can come in handy",
-    "link": "https://www.zdnet.com/article/minimal-installs-linux/",
-    "published": "2026-03-18T16:48:29+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: What's a minimal install for Linux? 6 reasons it can come in handy. What: What's a minimal install for Linux? 6 reasons it can come in handy. When: 2026-03-18T16:48:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: What's a minimal install for Linux? 6 reasons it can come in handy. ماذا: What's a minimal install for Linux? 6 reasons it can come in handy. متى: 2026-03-18T16:48:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5499d14519f4b1d7449227f496ccd1c60db9a9be/2025/09/10/57422a93-0ccd-4358-8d1b-3be49e2c4560/7-linux-terminal-basics-every-beginner-should-learn-first-and-why.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/minimal-installs-linux/"
-    ]
-  },
-  {
-    "id": "5c0625c0eedda68d390fb13f",
-    "title": "Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off)",
-    "link": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
-    "published": "2026-03-18T16:35:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off). What: Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off). When: 2026-03-18T16:35:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off). ماذا: Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off). متى: 2026-03-18T16:35:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/88f8f44366c896cb4de3f0d98a9c41b1d962bb09/2026/03/18/2fa9c338-6942-4d8e-9f3d-91e3764cc6c3/11gemini-gettyimages-2264430614.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/"
-    ]
-  },
-  {
-    "id": "bea4d52bc02a2e468f93ae0c",
-    "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-    "link": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-    "published": "2026-03-18T16:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.. What: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.. When: 2026-03-18T16:00:00+00:00. How: The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access Action: See Arabic action below.",
-    "summary_ar": "من: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.. ماذا: Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.. متى: 2026-03-18T16:00:00+00:00. كيف: The vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20131"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html"
-    ]
-  },
-  {
-    "id": "c256c410be8206a1e224968b",
-    "title": "Cloud Security Startup Native Exits Stealth With $42 Million in Funding",
-    "link": "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/",
-    "published": "2026-03-18T15:59:50+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Phil Venables, former CISO of Google Cloud and now a venture partner at Ballistic Ventures, has joined Native’s board of directors.. What: Cloud Security Startup Native Exits Stealth With $42 Million in Funding. When: 2026-03-18T15:59:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Phil Venables, former CISO of Google Cloud and now a venture partner at Ballistic Ventures, has joined Native’s board of directors.. ماذا: Cloud Security Startup Native Exits Stealth With $42 Million in Funding. متى: 2026-03-18T15:59:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/cloud-security-startup-native-exits-stealth-with-42-million-in-funding/"
-    ]
-  },
-  {
-    "id": "fe3f12065ba4211e26a7e923",
-    "title": "You can buy Amazon 4K Fire TV Sticks for up to 50% off right now - these models included",
-    "link": "https://www.zdnet.com/article/fire-tv-stick-deals-amazon-big-spring-sale-2026/",
-    "published": "2026-03-18T15:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can buy Amazon 4K Fire TV Sticks for up to 50% off right now - these models included. What: You can buy Amazon 4K Fire TV Sticks for up to 50% off right now - these models included. When: 2026-03-18T15:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can buy Amazon 4K Fire TV Sticks for up to 50% off right now - these models included. ماذا: You can buy Amazon 4K Fire TV Sticks for up to 50% off right now - these models included. متى: 2026-03-18T15:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8927e1f07ff7f75de4a4ad3bebcec01d87663bb6/2025/09/30/c7a5313a-6eea-4649-8d5f-cddcb7ffae79/dsc07834.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/fire-tv-stick-deals-amazon-big-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "468a3492365bdcd7bf5677ba",
-    "title": "New Ubuntu Flaw Enables Local Attackers to Gain Root Access",
-    "link": "https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/",
-    "published": "2026-03-18T15:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: New Ubuntu Flaw Enables Local Attackers to Gain Root Access. What: New Ubuntu Flaw Enables Local Attackers to Gain Root Access. When: 2026-03-18T15:45:00+00:00. How: CVE-2026-3888 Ubuntu snap flaw lets local users escalate to root via timing-based exploit New Ubuntu Flaw Enables Local Attackers to Gain Root Access Action: See Arabic action below.",
-    "summary_ar": "من: New Ubuntu Flaw Enables Local Attackers to Gain Root Access. ماذا: New Ubuntu Flaw Enables Local Attackers to Gain Root Access. متى: 2026-03-18T15:45:00+00:00. كيف: CVE-2026-3888 Ubuntu snap flaw lets local users escalate to root via timing-based exploit New Ubuntu Flaw Enables Local Attackers to Gain Root Access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-3888"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f9f46b8a-7a35-467b-915e-a3c1f02621d5.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ubuntu-flaw-enables-root-access/"
-    ]
-  },
-  {
-    "id": "cbcd81f634fa66ca2f6278f6",
-    "title": "Marquis: Ransomware gang stole data of 672K people in cyberattack",
-    "link": "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/",
-    "published": "2026-03-18T15:32:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Marquis: Ransomware gang stole data of 672K people in cyberattack. What: Marquis: Ransomware gang stole data of 672K people in cyberattack. When: 2026-03-18T15:32:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Marquis: Ransomware gang stole data of 672K people in cyberattack. ماذا: Marquis: Ransomware gang stole data of 672K people in cyberattack. متى: 2026-03-18T15:32:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/01/29/Marquis.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/marquis-ransomware-gang-stole-data-of-672-000-people-in-2025-cyberattack/"
-    ]
-  },
-  {
-    "id": "3ce1fa2d6efac1019c433f7c",
-    "title": "‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors",
-    "link": "https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/",
-    "published": "2026-03-18T15:30:50+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors. What: ‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors. When: 2026-03-18T15:30:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors. ماذا: ‘DarkSword’ iOS Exploit Kit Used by State-Sponsored Hackers, Spyware Vendors. متى: 2026-03-18T15:30:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/darksword-ios-exploit-kit-used-by-state-sponsored-hackers-spyware-vendors/"
-    ]
-  },
-  {
-    "id": "336a4033047cd92e8dbb3449",
-    "title": "This one iPhone setting immediately stops all apps from tracking you - turn it off today",
-    "link": "https://www.zdnet.com/article/how-to-stop-iphone-apps-from-tracking-you/",
-    "published": "2026-03-18T15:26:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This one iPhone setting immediately stops all apps from tracking you - turn it off today. What: This one iPhone setting immediately stops all apps from tracking you - turn it off today. When: 2026-03-18T15:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This one iPhone setting immediately stops all apps from tracking you - turn it off today. ماذا: This one iPhone setting immediately stops all apps from tracking you - turn it off today. متى: 2026-03-18T15:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5fc7ebbc1ece7748172a6fdbdd4d5a463f462fb8/2026/03/18/82420c1d-5ea4-4281-a063-81a86f1d0988/how-to-stop-iphone-apps-from-tracking-you-and-why-you-shouldnt-wait-to-do-it.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-stop-iphone-apps-from-tracking-you/"
-    ]
-  },
-  {
-    "id": "5ce712f912dccf1f1aade7a8",
-    "title": "'Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft",
-    "published": "2026-03-18T15:05:58+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.. What: 'Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft. When: 2026-03-18T15:05:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A prompt injection vulnerability paired with other flaws can turn a Google search into a full attack chain that could threaten enterprise networks.. ماذا: 'Claudy Day’ Trio of Flaws Exposes Claude Users to Data Theft. متى: 2026-03-18T15:05:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-claude-users-data-theft"
-    ]
-  },
-  {
-    "id": "078bc637b70a3f4b3af14f36",
-    "title": "Virtual Summit Today: Supply Chain & Third-Party Risk Summit",
-    "link": "https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/",
-    "published": "2026-03-18T14:57:28+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Virtual Summit Today: Supply Chain & Third-Party Risk Summit. What: Virtual Summit Today: Supply Chain & Third-Party Risk Summit. When: 2026-03-18T14:57:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Virtual Summit Today: Supply Chain & Third-Party Risk Summit. ماذا: Virtual Summit Today: Supply Chain & Third-Party Risk Summit. متى: 2026-03-18T14:57:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/virtual-summit-today-supply-chain-third-party-risk-summit/"
-    ]
-  },
-  {
-    "id": "ca54477d9f314695503a63cb",
-    "title": "EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations",
-    "link": "https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/",
-    "published": "2026-03-18T14:54:51+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations. What: EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations. When: 2026-03-18T14:54:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations. ماذا: EU Sanctions Chinese, Iranian Firms Supporting Hacking Operations. متى: 2026-03-18T14:54:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/eu-sanctions-chinese-iranian-firms-supporting-hacking-operations/"
-    ]
-  },
-  {
-    "id": "fe848899d3dd706efc2bb9ca",
-    "title": "Crypto Scam \"ShieldGuard\" Dismantled After Malware Discovery",
-    "link": "https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/",
-    "published": "2026-03-18T14:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Crypto Scam \"ShieldGuard\" Dismantled After Malware Discovery. What: Crypto Scam \"ShieldGuard\" Dismantled After Malware Discovery. When: 2026-03-18T14:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Crypto Scam \"ShieldGuard\" Dismantled After Malware Discovery. ماذا: Crypto Scam \"ShieldGuard\" Dismantled After Malware Discovery. متى: 2026-03-18T14:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/caf0465a-dccc-453a-a200-ce5b67f17c79.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/crypto-scam-shieldguard-dismantled/"
-    ]
-  },
-  {
-    "id": "dd408e3065acfaf314c8590e",
-    "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
-    "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/",
-    "published": "2026-03-18T14:05:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms. What: The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms. When: 2026-03-18T14:05:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms. ماذا: The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms. متى: 2026-03-18T14:05:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/15/shopping-bad-refund-fraud.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/"
-    ]
-  },
-  {
-    "id": "dc63150e83c246da43721e93",
-    "title": "New DarkSword iOS exploit used in infostealer attack on iPhones",
-    "link": "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/",
-    "published": "2026-03-18T14:02:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New DarkSword iOS exploit used in infostealer attack on iPhones. What: New DarkSword iOS exploit used in infostealer attack on iPhones. When: 2026-03-18T14:02:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New DarkSword iOS exploit used in infostealer attack on iPhones. ماذا: New DarkSword iOS exploit used in infostealer attack on iPhones. متى: 2026-03-18T14:02:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/11/Apple.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-darksword-ios-exploit-used-in-infostealer-attack-on-iphones/"
-    ]
-  },
-  {
-    "id": "56c7a42e1dd08f5ad513f605",
-    "title": "I expected Samsung's new flagship earbuds to bore me, but I fell in love with them instead",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-buds-4-review/",
-    "published": "2026-03-18T14:00:36+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I expected Samsung's new flagship earbuds to bore me, but I fell in love with them instead. What: I expected Samsung's new flagship earbuds to bore me, but I fell in love with them instead. When: 2026-03-18T14:00:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I expected Samsung's new flagship earbuds to bore me, but I fell in love with them instead. ماذا: I expected Samsung's new flagship earbuds to bore me, but I fell in love with them instead. متى: 2026-03-18T14:00:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9714795134447e3b4f70daf7abee012564c7561c/2026/03/16/116d9940-f082-4210-9002-e2360afb2aa5/4pro-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-buds-4-review/"
-    ]
-  },
-  {
-    "id": "e8e561faf955adaf089c662a",
-    "title": "Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches",
-    "link": "https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/",
-    "published": "2026-03-18T14:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches. What: Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches. When: 2026-03-18T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches. ماذا: Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches. متى: 2026-03-18T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/"
-    ]
-  },
-  {
-    "id": "d5192c67dcf939a6463e19b5",
-    "title": "Manifold Raises $8 Million for AI Detection and Response",
-    "link": "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/",
-    "published": "2026-03-18T13:59:23+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Manifold Raises $8 Million for AI Detection and Response. What: Manifold Raises $8 Million for AI Detection and Response. When: 2026-03-18T13:59:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Manifold Raises $8 Million for AI Detection and Response. ماذا: Manifold Raises $8 Million for AI Detection and Response. متى: 2026-03-18T13:59:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/"
-    ]
-  },
-  {
-    "id": "1c3fafb412da553d0fa01c95",
-    "title": "North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/researchers_lift_the_lid_on/",
-    "published": "2026-03-18T13:57:07+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un. What: North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un. When: 2026-03-18T13:57:07+00:00. How: Researchers map full org chart of the scam from dodgy recruiters to helpful Western collaborators Researchers at IBM X‑Force and Flare Research have uncovered data that sheds light on how North Korea's fake IT worker schemes operate and infiltrate companies in order to funnel money back to the regime and steal sensitive information.… North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un Action: See Arabic action below.",
-    "summary_ar": "من: North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un. ماذا: North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un. متى: 2026-03-18T13:57:07+00:00. كيف: Researchers map full org chart of the scam from dodgy recruiters to helpful Western collaborators Researchers at IBM X‑Force and Flare Research have uncovered data that sheds light on how North Korea's fake IT worker schemes operate and infiltrate companies in order to funnel money back to the regime and steal sensitive information.… North Korea's 100,000-strong fake IT worker army rake in $500M a year for Kim Jong Un. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/18/northk.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/18/researchers_lift_the_lid_on/"
-    ]
-  },
-  {
-    "id": "68f70a5a77d4bba237364147",
-    "title": "Nordstrom's email system abused to send crypto scams to customers",
-    "link": "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/",
-    "published": "2026-03-18T13:55:49+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Nordstrom's email system abused to send crypto scams to customers. What: Nordstrom's email system abused to send crypto scams to customers. When: 2026-03-18T13:55:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Nordstrom's email system abused to send crypto scams to customers. ماذا: Nordstrom's email system abused to send crypto scams to customers. متى: 2026-03-18T13:55:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/18/Nordstrom.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/nordstroms-email-system-abused-to-send-crypto-scams-to-customers/"
-    ]
-  },
-  {
-    "id": "4a0a74cd7d1cef4e6ef38a0c",
-    "title": "A headphone maker is offering an audio loophole Apple likely won't be happy about",
-    "link": "https://www.zdnet.com/article/jbls-live-770-nc-news/",
-    "published": "2026-03-18T13:42:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: A headphone maker is offering an audio loophole Apple likely won't be happy about. What: A headphone maker is offering an audio loophole Apple likely won't be happy about. When: 2026-03-18T13:42:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A headphone maker is offering an audio loophole Apple likely won't be happy about. ماذا: A headphone maker is offering an audio loophole Apple likely won't be happy about. متى: 2026-03-18T13:42:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d2526911389f2eee0848c55502b28b8a6d96548/2025/11/24/6e03337f-b3c9-40e4-a168-d6052116392c/img-20251124-183813.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/jbls-live-770-nc-news/"
     ]
   }
 ]
