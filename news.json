@@ -54,6 +54,182 @@
     ]
   },
   {
+    "id": "abbfd892821509e36d23f912",
+    "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+    "link": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679",
+    "published": "2026-09-15T21:38:31+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Apple has addressed more than 260 CVEs across all of its operating systems, browsers, and other software products, marking the largest single patch cycle in Cupertino's history.. What: While this CVE count is hardly notable compared to some vendors - hello, Microsoft’s record-breaking 974 bugs disclosed earlier this month - it does set a company record for Apple.. When: 2026-09-15T21:38:31+00:00. How: And we promise you that they are using AI. Action: See Arabic action below.",
+    "summary_ar": "من: Apple has addressed more than 260 CVEs across all of its operating systems, browsers, and other software products, marking the largest single patch cycle in Cupertino's history.. ماذا: While this CVE count is hardly notable compared to some vendors - hello, Microsoft’s record-breaking 974 bugs disclosed earlier this month - it does set a company record for Apple.. متى: 2026-09-15T21:38:31+00:00. كيف: And we promise you that they are using AI.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-43677",
+      "CVE-2026-43689",
+      "CVE-2026-43690",
+      "CVE-2026-43692",
+      "CVE-2026-43719",
+      "CVE-2026-43791",
+      "CVE-2026-64790",
+      "CVE-2026-65374",
+      "CVE-2026-65375",
+      "CVE-2026-65376",
+      "CVE-2026-65406",
+      "CVE-2026-65409",
+      "CVE-2026-65410"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5296699.jpg?imageId=5296699&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679"
+    ]
+  },
+  {
+    "id": "f3463d1e16101b1ad43dd2fd",
+    "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+    "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+    "published": "2026-09-15T21:37:35+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Acronis warns of actively exploited flaw in its cPanel backup plugin. What: Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild.. When: 2026-09-15T21:37:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Acronis warns of actively exploited flaw in its cPanel backup plugin. ماذا: Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild.. متى: 2026-09-15T21:37:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/26/Acronis.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/"
+    ]
+  },
+  {
+    "id": "d97cf7bf1f8941660cf6bb38",
+    "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+    "published": "2026-09-15T20:34:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites. What: Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites. When: 2026-09-15T20:34:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites. ماذا: Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites. متى: 2026-09-15T20:34:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
+    ]
+  },
+  {
+    "id": "e43bafcac31ead8e31e3e0d2",
+    "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+    "link": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+    "published": "2026-09-15T20:24:51+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.. What: Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?. When: 2026-09-15T20:24:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.. ماذا: Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?. متى: 2026-09-15T20:24:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/"
+    ]
+  },
+  {
+    "id": "693dfdf4ac9e52c551626666",
+    "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+    "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+    "published": "2026-09-15T20:16:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Microsoft Issues Emergency Fixes After Massive Patch Tuesday. What: Microsoft Issues Emergency Fixes After Massive Patch Tuesday. When: 2026-09-15T20:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft Issues Emergency Fixes After Massive Patch Tuesday. ماذا: Microsoft Issues Emergency Fixes After Massive Patch Tuesday. متى: 2026-09-15T20:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday"
+    ]
+  },
+  {
+    "id": "e05c91be5980befc9b75f2f9",
+    "title": "Low-quality casino sites conceal highly dangerous threat actors",
+    "link": "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652",
+    "published": "2026-09-15T19:38:58+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: \"Major US hosting companies (Amazon, Microsoft, Cloudflare, and Google) continue to host infrastructure associated with these domains,\" the Infoblox report explains.. What: \"One likely explanation is account theft at those providers, a practice documented previously as 'infrastructure laundering.'\" That refers to hosting companies like Funnull that have reportedly rented IP addresses from Amazon Web Services and Microsoft and made those resources available to clients carrying out illegal activities.. When: 2026-09-15T19:38:58+00:00. How: A report from Infoblox urges the security community to pay closer attention to these websites, because some double as command-and-control (C2) infrastructure for espionage and malware distribution. Action: See Arabic action below.",
+    "summary_ar": "من: \"Major US hosting companies (Amazon, Microsoft, Cloudflare, and Google) continue to host infrastructure associated with these domains,\" the Infoblox report explains.. ماذا: \"One likely explanation is account theft at those providers, a practice documented previously as 'infrastructure laundering.'\" That refers to hosting companies like Funnull that have reportedly rented IP addresses from Amazon Web Services and Microsoft and made those resources available to clients carrying out illegal activities.. متى: 2026-09-15T19:38:58+00:00. كيف: A report from Infoblox urges the security community to pay closer attention to these websites, because some double as command-and-control (C2) infrastructure for espionage and malware distribution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5296669.jpg?imageId=5296669&x=0&y=6.94&cropw=100&croph=71.67&panox=0&panoy=6.94&panow=100&panoh=71.67&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652"
+    ]
+  },
+  {
+    "id": "341d2d73c1d1aef747654fe6",
+    "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
+    "link": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+    "published": "2026-09-15T19:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: “We Think the Security Control Is Working” Is No Longer Good Enough. What: “We Think the Security Control Is Working” Is No Longer Good Enough. When: 2026-09-15T19:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: “We Think the Security Control Is Working” Is No Longer Good Enough. ماذا: “We Think the Security Control Is Working” Is No Longer Good Enough. متى: 2026-09-15T19:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/"
+    ]
+  },
+  {
+    "id": "3f06b0b072199eafb299b8bc",
+    "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+    "published": "2026-09-15T19:27:19+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment.. What: The session will trace the models' attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure.. When: 2026-09-15T19:27:19+00:00. How: Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community. Action: See Arabic action below.",
+    "summary_ar": "من: The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment.. ماذا: The session will trace the models' attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure.. متى: 2026-09-15T19:27:19+00:00. كيف: Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk"
+    ]
+  },
+  {
+    "id": "72927b789e325ff3249746be",
+    "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+    "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+    "published": "2026-09-15T18:54:14+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens. What: KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens. When: 2026-09-15T18:54:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens. ماذا: KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens. متى: 2026-09-15T18:54:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
+    ]
+  },
+  {
     "id": "047d99bbbc95e2a796ea0cfd",
     "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
     "link": "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
@@ -16840,6 +17016,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png",
     "sources": [
       "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/"
+    ]
+  },
+  {
+    "id": "8b40a1613ef5dc1f794afae3",
+    "title": "How Cisco is confronting the security crisis of agentic AI",
+    "link": "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/",
+    "published": "2026-08-22T00:13:27+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: “There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.. What: How Cisco is confronting the security crisis of agentic AI. When: 2026-08-22T00:13:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: “There are shadow agents running in almost every environment we look at,” warns Cisco’s VP of product for identity, who oversees the company’s Duo Agentic Identity product designed to solve the problem.. ماذا: How Cisco is confronting the security crisis of agentic AI. متى: 2026-08-22T00:13:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/zdnet-cisco-duo-interview-article-header_06c6b8.jpg",
+    "sources": [
+      "https://www.zdnet.com/paid-content/article/how-cisco-is-confronting-the-security-crisis-of-agentic-ai/"
     ]
   },
   {
@@ -150921,168 +151115,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/application-security/mcp-security-patched"
-    ]
-  },
-  {
-    "id": "27335d686130c1522cb4b8bc",
-    "title": "How to turn your Pixel phone into a PC - with the new Android Desktop Mode",
-    "link": "https://www.zdnet.com/article/how-to-use-android-desktop-mode/",
-    "published": "2026-03-19T21:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to turn your Pixel phone into a PC - with the new Android Desktop Mode. What: How to turn your Pixel phone into a PC - with the new Android Desktop Mode. When: 2026-03-19T21:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to turn your Pixel phone into a PC - with the new Android Desktop Mode. ماذا: How to turn your Pixel phone into a PC - with the new Android Desktop Mode. متى: 2026-03-19T21:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b078182d05fd89bd3597a119ef81f4fa76a3d248/2025/03/18/07f3a11d-fd2b-4288-82ff-9cafc18a7163/dsc04863.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-use-android-desktop-mode/"
-    ]
-  },
-  {
-    "id": "5705ed0aa40a203406e1e1be",
-    "title": "Navia discloses data breach impacting 2.7 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/",
-    "published": "2026-03-19T20:43:54+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Navia discloses data breach impacting 2.7 million people. What: Navia discloses data breach impacting 2.7 million people. When: 2026-03-19T20:43:54+00:00. How: Navia Benefit Solutions, Inc. Action: See Arabic action below.",
-    "summary_ar": "من: Navia discloses data breach impacting 2.7 million people. ماذا: Navia discloses data breach impacting 2.7 million people. متى: 2026-03-19T20:43:54+00:00. كيف: Navia Benefit Solutions, Inc.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/navia.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/"
-    ]
-  },
-  {
-    "id": "d7ffa83f9bec42735c778d82",
-    "title": "With Government's Role Uncertain, Businesses Unite to Combat Fraud",
-    "link": "https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud",
-    "published": "2026-03-19T20:43:01+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: With Government's Role Uncertain, Businesses Unite to Combat Fraud. What: With Government's Role Uncertain, Businesses Unite to Combat Fraud. When: 2026-03-19T20:43:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: With Government's Role Uncertain, Businesses Unite to Combat Fraud. ماذا: With Government's Role Uncertain, Businesses Unite to Combat Fraud. متى: 2026-03-19T20:43:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/with-government-role-uncertain-businesses-unite-to-combat-fraud"
-    ]
-  },
-  {
-    "id": "01f270c3852e2403bbe6c8d4",
-    "title": "Millions of iPhones can be hacked with a new tool found in the wild",
-    "link": "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-    "published": "2026-03-19T20:11:36+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Researchers at Google and cybersecurity firms iVerify and Lookout on Wednesday jointly revealed the discovery of a sophisticated iPhone hacking technique known as DarkSword that they've seen in use on infected websites, capable of instantly and silently hacking iOS devices that visit those sites.. What: Millions of iPhones can be hacked with a new tool found in the wild. When: 2026-03-19T20:11:36+00:00. How: “Hundreds of millions of people who are still using older Apple devices or older operating system versions remain vulnerable.” Read full article Comments Millions of iPhones can be hacked with a new tool found in the wild Action: See Arabic action below.",
-    "summary_ar": "من: Researchers at Google and cybersecurity firms iVerify and Lookout on Wednesday jointly revealed the discovery of a sophisticated iPhone hacking technique known as DarkSword that they've seen in use on infected websites, capable of instantly and silently hacking iOS devices that visit those sites.. ماذا: Millions of iPhones can be hacked with a new tool found in the wild. متى: 2026-03-19T20:11:36+00:00. كيف: “Hundreds of millions of people who are still using older Apple devices or older operating system versions remain vulnerable.” Read full article Comments Millions of iPhones can be hacked with a new tool found in the wild. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2266672989-2560x1440.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/"
-    ]
-  },
-  {
-    "id": "a258d809e572d32590026b44",
-    "title": "Native Launches With Security Control Plane for Multicloud",
-    "link": "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud",
-    "published": "2026-03-19T20:08:11+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.. What: Native Launches With Security Control Plane for Multicloud. When: 2026-03-19T20:08:11+00:00. How: The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls. Action: See Arabic action below.",
-    "summary_ar": "من: The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.. ماذا: Native Launches With Security Control Plane for Multicloud. متى: 2026-03-19T20:08:11+00:00. كيف: The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud"
-    ]
-  },
-  {
-    "id": "ebc3000d8ffc4a43683eca14",
-    "title": "New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores",
-    "link": "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/",
-    "published": "2026-03-19T20:01:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores. What: A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover.. When: 2026-03-19T20:01:03+00:00. How: A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover. Action: See Arabic action below.",
-    "summary_ar": "من: New ‘PolyShell’ flaw allows unauthenticated RCE on Magento e-stores. ماذا: A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover.. متى: 2026-03-19T20:01:03+00:00. كيف: A newly disclosed vulnerability dubbed 'PolyShell' affects all Magento Open Source and Adobe Commerce stable version 2 installations, allowing unauthenticated code execution and account takeover.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/07/19/adobe-header-cyber.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-polyshell-flaw-allows-unauthenticated-rce-on-magento-e-stores/"
-    ]
-  },
-  {
-    "id": "28d20dc697296d7b16632118",
-    "title": "Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers",
-    "link": "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html",
-    "published": "2026-03-19T19:16:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers. What: Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers. When: 2026-03-19T19:16:00+00:00. How: \"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers Action: See Arabic action below.",
-    "summary_ar": "من: Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers. ماذا: Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers. متى: 2026-03-19T19:16:00+00:00. كيف: \"Speagle is designed to surreptitiously harvest sensitive information from infected computers and transmit it to a Cobra DocGuard server that has been compromised by the attackers, masking the data exfiltration process as legitimate Speagle Malware Hijacks Cobra DocGuard to Steal Data via Compromised Servers. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSgCN7uAT0GxA_9D78X0Q9nRTRmUKPnhIvtgPrg32f62joth8HoaFjuZ68g1l10CVcTjQXiaw3ueNoItw0YN8edclDT-c6IHodK_nSRjPFqUH2hTfceviQi1UZ_6Mo2NvGlkVNIdx3CvxpobdFm3jVUuvvdIDcn5LIKQFNNFe7MScF824trW9pajXcM3l/s1600/locks.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/speagle-malware-hijacks-cobra-docguard.html"
-    ]
-  },
-  {
-    "id": "c642d755b363278bb9f122fc",
-    "title": "Unknown attackers exploit yet another critical SharePoint bug",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/unknown_attackers_exploit_yet_another/",
-    "published": "2026-03-19T18:54:19+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug. What: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug. When: 2026-03-19T18:54:19+00:00. How: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug Action: See Arabic action below.",
-    "summary_ar": "من: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug. ماذا: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug. متى: 2026-03-19T18:54:19+00:00. كيف: Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.… Unknown attackers exploit yet another critical SharePoint bug. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/06/02/bug.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/19/unknown_attackers_exploit_yet_another/"
-    ]
-  },
-  {
-    "id": "dd4a3e7d6e7d80bccd1af05f",
-    "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
-    "link": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-    "published": "2026-03-19T18:52:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: 54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security. What: 54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security. When: 2026-03-19T18:52:00+00:00. How: A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers. Action: See Arabic action below.",
-    "summary_ar": "من: 54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security. ماذا: 54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security. متى: 2026-03-19T18:52:00+00:00. كيف: A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html"
     ]
   }
 ]
