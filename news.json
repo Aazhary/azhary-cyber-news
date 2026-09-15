@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "68c5f60d4b6b6b05510f615d",
+    "title": "HBO Max Reddit account compromised to serve ClickFix attacks",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408",
+    "published": "2026-09-14T22:43:01+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “Because the C2 domain is hosted directly on the blockchain, the infrastructure demonstrates dynamic resilience, allowing the threat actors to easily rotate burned domains.” In addition to HBO Max, the attackers used developer-tool, disk-cleaner, and AI-themed lures, including fake OpenAI Codex ads, which crims have previously used to push Mac malware.. What: Someone compromised the official HBO Max Reddit account and used it to push more than 100 malicious ads serving up ClickFix attacks targeting both Windows and macOS devices with information-stealing malware.. When: 2026-09-14T22:43:01+00:00. How: Researchers at Hudson Rock and ADAMnetworks analyzed the ads, and in a couple of reports said the HBO Max account hijacking was part of a “massive 48-hour malvertising blitz” that pushed 108 distinct ads using multiple software lures. Action: See Arabic action below.",
+    "summary_ar": "من: “Because the C2 domain is hosted directly on the blockchain, the infrastructure demonstrates dynamic resilience, allowing the threat actors to easily rotate burned domains.” In addition to HBO Max, the attackers used developer-tool, disk-cleaner, and AI-themed lures, including fake OpenAI Codex ads, which crims have previously used to push Mac malware.. ماذا: Someone compromised the official HBO Max Reddit account and used it to push more than 100 malicious ads serving up ClickFix attacks targeting both Windows and macOS devices with information-stealing malware.. متى: 2026-09-14T22:43:01+00:00. كيف: Researchers at Hudson Rock and ADAMnetworks analyzed the ads, and in a couple of reports said the HBO Max account hijacking was part of a “massive 48-hour malvertising blitz” that pushed 108 distinct ads using multiple software lures.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5296419.jpg?imageId=5296419&x=0&y=19.17&cropw=100&croph=71.67&panox=0&panoy=19.17&panow=100&panoh=71.67&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/14/hbo-max-reddit-account-compromised-to-serve-clickfix-attacks/5296408"
+    ]
+  },
+  {
     "id": "2084a36d335402ea561bbf20",
     "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -151419,60 +151437,6 @@
     "image": "https://www.zdnet.com/a/img/resize/62a4f0e53ace26866beb625b76ca1d1823d24ad2/2026/02/16/82c83abe-dddf-4f5b-b490-44ef6795201e/dsc09323.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-use-android-desktop-mode/"
-    ]
-  },
-  {
-    "id": "777abf7b43e02adbdca71b92",
-    "title": "Okta made a nightmare micromanager for your AI agents",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/okta_agent_micromanager/",
-    "published": "2026-03-18T23:05:31+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Okta made a nightmare micromanager for your AI agents. What: Identity access and management platform Okta announced the general availability of its Okta for AI Agents, which will give customers the ability to do three things: locate agents, see what they’re doing, and shut them down if need be.… Okta made a nightmare micromanager for your AI agents. When: 2026-03-18T23:05:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Okta made a nightmare micromanager for your AI agents. ماذا: Identity access and management platform Okta announced the general availability of its Okta for AI Agents, which will give customers the ability to do three things: locate agents, see what they’re doing, and shut them down if need be.… Okta made a nightmare micromanager for your AI agents. متى: 2026-03-18T23:05:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/18/micromanager_giant_magnifying_glass.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/18/okta_agent_micromanager/"
-    ]
-  },
-  {
-    "id": "447670372fef1025866884e1",
-    "title": "Navigating Security Tradeoffs of AI Agents",
-    "link": "https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/",
-    "published": "2026-03-18T23:00:28+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Navigating Security Tradeoffs of AI Agents. What: Navigating Security Tradeoffs of AI Agents. When: 2026-03-18T23:00:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Navigating Security Tradeoffs of AI Agents. ماذا: Navigating Security Tradeoffs of AI Agents. متى: 2026-03-18T23:00:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/06_Opinion_Category_1505x922-1.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/navigating-security-tradeoffs-ai-agents/"
-    ]
-  },
-  {
-    "id": "86dc7806e01ae6f850695493",
-    "title": "Aura confirms data breach exposing 900,000 marketing contacts",
-    "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/",
-    "published": "2026-03-18T22:56:50+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Aura confirms data breach exposing 900,000 marketing contacts. What: Aura confirms data breach exposing 900,000 marketing contacts. When: 2026-03-18T22:56:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Aura confirms data breach exposing 900,000 marketing contacts. ماذا: Aura confirms data breach exposing 900,000 marketing contacts. متى: 2026-03-18T22:56:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"
     ]
   }
 ]
