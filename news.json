@@ -54,6 +54,62 @@
     ]
   },
   {
+    "id": "f841d0174bc8a6f870e40253",
+    "title": "Mythos has made 2026 patching hell. It might make 2027 a breeze",
+    "link": "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747",
+    "published": "2026-09-16T05:54:47+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: When Microsoft delivered over 970 patches last week, many saw a nightmare for beleaguered security staff.. What: The high number of CVEs reported in 2026 is a positive signal.. When: 2026-09-16T05:54:47+00:00. How: Lawson pointed to the fact security vendors, who in theory know what it takes to create secure products, are also using AI to find flaws in their wares. Action: See Arabic action below.",
+    "summary_ar": "من: When Microsoft delivered over 970 patches last week, many saw a nightmare for beleaguered security staff.. ماذا: The high number of CVEs reported in 2026 is a positive signal.. متى: 2026-09-16T05:54:47+00:00. كيف: Lawson pointed to the fact security vendors, who in theory know what it takes to create secure products, are also using AI to find flaws in their wares.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747"
+    ]
+  },
+  {
+    "id": "98f91b85111c2c808be5ef0e",
+    "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+    "published": "2026-09-16T05:48:28+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells. What: Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells. When: 2026-09-16T05:48:28+00:00. How: Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells. ماذا: Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells. متى: 2026-09-16T05:48:28+00:00. كيف: Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html"
+    ]
+  },
+  {
+    "id": "9c461222ca4f36d9314cb716",
+    "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+    "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+    "published": "2026-09-16T05:18:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens. What: Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens. When: 2026-09-16T05:18:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens. ماذا: Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens. متى: 2026-09-16T05:18:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-5430"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"
+    ]
+  },
+  {
     "id": "eca7935e8d01bb260f6ae5b2",
     "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
@@ -902,6 +958,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg",
     "sources": [
       "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/"
+    ]
+  },
+  {
+    "id": "826579dae88454ea1bddad34",
+    "title": "PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting",
+    "link": "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/",
+    "published": "2026-09-15T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting. What: PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting. When: 2026-09-15T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting. ماذا: PhantomRaven: An LLM-Generated Information Stealer Developed for Bug Bounty Hunting. متى: 2026-09-15T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/"
     ]
   },
   {
@@ -150916,115 +150990,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/03/20/Extortion_hacker_scammer.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/data-analyst-found-guilty-of-extorting-brightly-software-of-25-million/"
-    ]
-  },
-  {
-    "id": "edcc24e1e70e29db9870d52c",
-    "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
-    "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html",
-    "published": "2026-03-20T06:25:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks. What: Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.. When: 2026-03-20T06:25:00+00:00. How: Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation. Action: See Arabic action below.",
-    "summary_ar": "من: DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks. ماذا: Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.. متى: 2026-03-20T06:25:00+00:00. كيف: Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid, and Mossad as part of a court-authorized law enforcement operation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuGXmHjiDQoCgH14v3lddFUEZQ96DLgTZ_Q8k7l7lpnGTX4zzeJ78e0MLRH8L3Bah3_zMnLI4kVNn3RDbnlzXpzchm5mg_1SDo0mCETmOylAS9qCPuMVRhtAfVWDzHUDwK2fRNiACoXo3oPWR8VV0E3m5svUSuDATtF4O_CIC05Vco5m3dN9MR9D7V-JP/s16000/botnet-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
-    ]
-  },
-  {
-    "id": "7c308b58a7a9c959fa6ba969",
-    "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
-    "link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
-    "published": "2026-03-20T05:16:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.. What: Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks. When: 2026-03-20T05:16:00+00:00. How: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword. Action: See Arabic action below.",
-    "summary_ar": "من: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.. ماذا: Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks. متى: 2026-03-20T05:16:00+00:00. كيف: Apple is urging users who are still running an outdated version of iOS to update their iPhones to secure against web-based attacks carried out via powerful exploit kits like Coruna and DarkSword.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwgJpN_6bTBVT2q2xpQB_QFewyV2cp-Acaxnjpc4-KQKGpQZiz339xOYJ9ew_UlCgScvvWA940DyAf2E_HomGHQXljbHclluIiK57hJKo00KBdTXh8BeVi0toqDVevMaRY_fSlTzyYkkJjdKU0pA7iKX6_yTwsOveceby7OB08v9V2GAoasiLsl1Cu2DS/s16000/apple-logo.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
-    ]
-  },
-  {
-    "id": "ce748c1a7cff16afbbe7cc36",
-    "title": "Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown",
-    "link": "https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/",
-    "published": "2026-03-20T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown. What: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown. When: 2026-03-20T05:00:00+00:00. How: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown Action: See Arabic action below.",
-    "summary_ar": "من: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown. ماذا: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown. متى: 2026-03-20T05:00:00+00:00. كيف: Tycoon2FA Phishing-as-a-Service Platform Persists Following Takedown. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/tycoon2fa-phishing-as-a-service-platform-persists-following-takedown/"
-    ]
-  },
-  {
-    "id": "9e8b61fb4152f95ea8fc7227",
-    "title": "From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise",
-    "link": "https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/",
-    "published": "2026-03-20T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise. What: From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise. When: 2026-03-20T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise. ماذا: From Scanner to Stealer: Inside the trivy-action Supply Chain Compromise. متى: 2026-03-20T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/from-scanner-to-stealer-inside-the-trivy-action-supply-chain-compromise/"
-    ]
-  },
-  {
-    "id": "a0784919af52263acd68df54",
-    "title": "I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu",
-    "link": "https://www.zdnet.com/article/i-tested-omega-linux-revive-old-pc/",
-    "published": "2026-03-20T03:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu. What: I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu. When: 2026-03-20T03:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu. ماذا: I used Omega Linux to revitalize a junk PC, and it's noticeably better than Ubuntu. متى: 2026-03-20T03:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d3779c9652e16f13ef17d6a79eb168aed1395e33/2026/03/20/238024d4-f013-4a97-8329-a41ef51ac5f2/gettyimages-2202669020.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/i-tested-omega-linux-revive-old-pc/"
-    ]
-  },
-  {
-    "id": "89ad26db7ec4264aeaff1a5f",
-    "title": "EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why",
-    "link": "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
-    "published": "2026-03-20T02:30:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why. What: EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why. When: 2026-03-20T02:30:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why. ماذا: EndeavorOS Titan is one of the most unique Arch-based Linux distros I've tried - here's why. متى: 2026-03-20T02:30:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/268dab37ac60fa1059766336c60ba299e467d189/2026/03/17/147597f0-a5a0-48e2-898b-bf3e1b08b4c3/endeavortitanhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/endeavoros-titan-hands-on/",
-      "https://www.zdnet.com/article/endeavoros-titan/"
     ]
   }
 ]
