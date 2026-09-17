@@ -54,6 +54,42 @@
     ]
   },
   {
+    "id": "84259df9ff470bba94f35c7e",
+    "title": "AI coding agents' 0-click RCE flaw could hand attackers keys to the kingdom",
+    "link": "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
+    "published": "2026-09-17T22:42:29+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A zero-click vulnerability that allows remote code execution affects all of the major AI coding agents - Anthropic’s Claude Code, OpenAI’s Codex, Google's Gemini CLI, Microsoft’s Copilot, and Microsoft-owned GitHub Copilot - and could give attackers full access to every asset and piece of data that the agent can reach, researchers say.. What: “The fix has to ship in the agent, and updating is the only complete mitigation where one exists,” Air researchers Or Nevo, Dor Granat, and Niv Hoffman said in a Thursday report.. When: 2026-09-17T22:42:29+00:00. How: Almost 90 percent of Fortune 500 companies use Copilot, according to Microsoft, which also happens to be one of the two that didn’t ship a patch for the flaw. Action: See Arabic action below.",
+    "summary_ar": "من: A zero-click vulnerability that allows remote code execution affects all of the major AI coding agents - Anthropic’s Claude Code, OpenAI’s Codex, Google's Gemini CLI, Microsoft’s Copilot, and Microsoft-owned GitHub Copilot - and could give attackers full access to every asset and piece of data that the agent can reach, researchers say.. ماذا: “The fix has to ship in the agent, and updating is the only complete mitigation where one exists,” Air researchers Or Nevo, Dor Granat, and Niv Hoffman said in a Thursday report.. متى: 2026-09-17T22:42:29+00:00. كيف: Almost 90 percent of Fortune 500 companies use Copilot, according to Microsoft, which also happens to be one of the two that didn’t ship a patch for the flaw.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5297339.jpg?imageId=5297339&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335"
+    ]
+  },
+  {
+    "id": "c9c87b84069c0472d85377ff",
+    "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
+    "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
+    "published": "2026-09-17T22:00:33+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Inside the Modern SOC: Defending the Cross-Environment Pivot. What: Inside the Modern SOC: Defending the Cross-Environment Pivot. When: 2026-09-17T22:00:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Inside the Modern SOC: Defending the Cross-Environment Pivot. ماذا: Inside the Modern SOC: Defending the Cross-Environment Pivot. متى: 2026-09-17T22:00:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/01_Myth-Busting_Overview_1920x900_Resized.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/"
+    ]
+  },
+  {
     "id": "f07e8957808585992c1a0b25",
     "title": "New RatHat Android malware uses AI to automate device control",
     "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
@@ -87,6 +123,24 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus"
+    ]
+  },
+  {
+    "id": "e158f7fa3bf72c060aace64d",
+    "title": "Researchers find way to listen in on headphones from afar",
+    "link": "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
+    "published": "2026-09-17T19:36:10+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Tested devices include: Sony ZX110AP (2014, wired headphones); Apple Earbuds (2016, wired earbuds); UGreen MAX2, Philips TAH2020, HP H231R (2024, 2025, 2023 wireless headphones); Flyingvoice P23GW (2023, VoIP landline); OIDIRE ODI-MF10A and Xiaomi BPLDS10DM (2023, 2025 smart fans); and JINGZAO JDO-06 and Xiaomi 1S (2024, 2019 smart lamps).. What: \"Hardware-aware mitigations such as twisted-pair wiring, shielding, and filtering can lower the energy that the injected carrier couples into the device, reducing the exposure.. When: 2026-09-17T19:36:10+00:00. How: But these techniques often prove impractical for passive EM capture because of the low signal-to-noise ratio. Action: See Arabic action below.",
+    "summary_ar": "من: Tested devices include: Sony ZX110AP (2014, wired headphones); Apple Earbuds (2016, wired earbuds); UGreen MAX2, Philips TAH2020, HP H231R (2024, 2025, 2023 wireless headphones); Flyingvoice P23GW (2023, VoIP landline); OIDIRE ODI-MF10A and Xiaomi BPLDS10DM (2023, 2025 smart fans); and JINGZAO JDO-06 and Xiaomi 1S (2024, 2019 smart lamps).. ماذا: \"Hardware-aware mitigations such as twisted-pair wiring, shielding, and filtering can lower the energy that the injected carrier couples into the device, reducing the exposure.. متى: 2026-09-17T19:36:10+00:00. كيف: But these techniques often prove impractical for passive EM capture because of the low signal-to-noise ratio.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5297307.jpg?imageId=5297307&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303"
     ]
   },
   {
@@ -162,6 +216,24 @@
     ]
   },
   {
+    "id": "26056f2e2843345fa073ed87",
+    "title": "China's Salt Typhoon backdoors Latin American orgs with new snooping malware",
+    "link": "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286",
+    "published": "2026-09-17T18:00:17+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The malware researchers also published a full indicators-of-compromise list and samples in ESET’s GitHub repository, so give those a read, too.. What: China's Salt Typhoon backdoors Latin American orgs with new snooping malware. When: 2026-09-17T18:00:17+00:00. How: The PRC-backed espionage crew shifted its focus to Latin America a month prior, and from mid-2025 into 2026, the vast majority - 90 percent - of Salt Typhoon’s targets were located in that region, ESET, which tracks the group as FamousSparrow, said in a Thursday report. Action: See Arabic action below.",
+    "summary_ar": "من: The malware researchers also published a full indicators-of-compromise list and samples in ESET’s GitHub repository, so give those a read, too.. ماذا: China's Salt Typhoon backdoors Latin American orgs with new snooping malware. متى: 2026-09-17T18:00:17+00:00. كيف: The PRC-backed espionage crew shifted its focus to Latin America a month prior, and from mid-2025 into 2026, the vast majority - 90 percent - of Salt Typhoon’s targets were located in that region, ESET, which tracks the group as FamousSparrow, said in a Thursday report.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1681600.jpg?imageId=1681600&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/chinas-salt-typhoon-backdoors-latin-american-orgs-with-new-snooping-malware/5297286"
+    ]
+  },
+  {
     "id": "9e1edda0cb7281f18f9d6661",
     "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
     "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -231,6 +303,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg",
     "sources": [
       "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/"
+    ]
+  },
+  {
+    "id": "9298478d73197da542e284fd",
+    "title": "London property manager breach may have exposed bank details and lockbox codes",
+    "link": "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
+    "published": "2026-09-17T15:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: London property management biz City Relay has warned customers that intruders may have stolen financial data, passwords, and codes used to access keys after compromising its Metabase Cloud instance.. What: London property management biz City Relay has warned customers that intruders may have stolen financial data, passwords, and codes used to access keys after compromising its Metabase Cloud instance.. When: 2026-09-17T15:30:00+00:00. How: City Relay, marketing itself as \"London's most trusted property management company,\" told landlords via email - seen by The Reg - that attackers accessed the third-party provided cloud twice \"as a result of a vulnerability in the platform that we were unaware of.\" The message to customers stated: \"Personal data was extracted from the platform.\" The potentially compromised data on the platform includes names, email and physical addresses, telephone numbers, financial information, property access details, and account passwords. Action: See Arabic action below.",
+    "summary_ar": "من: London property management biz City Relay has warned customers that intruders may have stolen financial data, passwords, and codes used to access keys after compromising its Metabase Cloud instance.. ماذا: London property management biz City Relay has warned customers that intruders may have stolen financial data, passwords, and codes used to access keys after compromising its Metabase Cloud instance.. متى: 2026-09-17T15:30:00+00:00. كيف: City Relay, marketing itself as \"London's most trusted property management company,\" told landlords via email - seen by The Reg - that attackers accessed the third-party provided cloud twice \"as a result of a vulnerability in the platform that we were unaware of.\" The message to customers stated: \"Personal data was extracted from the platform.\" The potentially compromised data on the platform includes names, email and physical addresses, telephone numbers, financial information, property access details, and account passwords.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/4094087.jpg?imageId=4094087&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232"
     ]
   },
   {
@@ -570,14 +660,14 @@
     "link": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
     "published": "2026-09-17T11:28:00+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: Test environment let anyone access live customer data. What: Even if the test server was live for only a day, that’s a day where it could be exploited.. When: 2026-09-17T11:28:00+00:00. How: PWNED Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness. Action: See Arabic action below.",
-    "summary_ar": "من: Test environment let anyone access live customer data. ماذا: Even if the test server was live for only a day, that’s a day where it could be exploited.. متى: 2026-09-17T11:28:00+00:00. كيف: PWNED Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Test environment let anyone access live customer data. What: Even if the test server was live for only a day, that’s a day where it could be exploited.. When: 2026-09-17T11:28:00+00:00. How: Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness. Action: See Arabic action below.",
+    "summary_ar": "من: Test environment let anyone access live customer data. ماذا: Even if the test server was live for only a day, that’s a day where it could be exploited.. متى: 2026-09-17T11:28:00+00:00. كيف: Welcome back to PWNED, the weekly column where we learn important life lessons about how we let cybercrims access our data through carelessness.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Vulnerability",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5296981.jpg?imageId=5296981&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977"
     ]
@@ -632,7 +722,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5254826.jpg?imageId=5254826&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110"
     ]
@@ -925,6 +1015,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/"
+    ]
+  },
+  {
+    "id": "f0347e4307b756d4afe5d374",
+    "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
+    "published": "2026-09-17T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike SafeMind: When the Best Offense Builds the Best Defense. What: CrowdStrike SafeMind: When the Best Offense Builds the Best Defense. When: 2026-09-17T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike SafeMind: When the Best Offense Builds the Best Defense. ماذا: CrowdStrike SafeMind: When the Best Offense Builds the Best Defense. متى: 2026-09-17T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/"
     ]
   },
   {
