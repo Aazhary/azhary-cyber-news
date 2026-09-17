@@ -1,5 +1,23 @@
 [
   {
+    "id": "f451f7682a61b9e84394dee1",
+    "title": "[Virtual Event] Cybersecurity Outlook 2027",
+    "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+    "published": "2026-12-03T16:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: [Virtual Event] Cybersecurity Outlook 2027. What: [Virtual Event] Cybersecurity Outlook 2027. When: 2026-12-03T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [Virtual Event] Cybersecurity Outlook 2027. ماذا: [Virtual Event] Cybersecurity Outlook 2027. متى: 2026-12-03T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
+    ]
+  },
+  {
     "id": "380057f0504a39b0b1f45092",
     "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
     "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
@@ -33,6 +51,114 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026"
+    ]
+  },
+  {
+    "id": "e7c5247c346312db8998d044",
+    "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+    "published": "2026-09-17T18:55:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys.. What: OpenAI details more cases of AI agents taking unauthorized actions. When: 2026-09-17T18:55:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys.. ماذا: OpenAI details more cases of AI agents taking unauthorized actions. متى: 2026-09-17T18:55:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/"
+    ]
+  },
+  {
+    "id": "168e3a7edc7326171115c7d8",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "published": "2026-09-17T18:33:13+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source.. What: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source.. When: 2026-09-17T18:33:13+00:00. How: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source.. ماذا: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source.. متى: 2026-09-17T18:33:13+00:00. كيف: Anthropic recently disclosed its future Claude models will use SynthID-Text , an approach Google created and released as open source.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+    ]
+  },
+  {
+    "id": "9e1edda0cb7281f18f9d6661",
+    "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+    "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+    "published": "2026-09-17T17:11:34+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.. What: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.. When: 2026-09-17T17:11:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.. ماذا: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.. متى: 2026-09-17T17:11:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/"
+    ]
+  },
+  {
+    "id": "e5735190f53652ca653f5670",
+    "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+    "link": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+    "published": "2026-09-17T17:09:40+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels. What: Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels. When: 2026-09-17T17:09:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels. ماذا: Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels. متى: 2026-09-17T17:09:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/oil-tanker-ship-maritime-vessel.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/"
+    ]
+  },
+  {
+    "id": "b560d389abd91d0df5b115d2",
+    "title": "Claude Code’s revised projects adds AI orchestration, but local developers must wait",
+    "link": "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/",
+    "published": "2026-09-17T17:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Claude Code’s revised projects adds AI orchestration, but local developers must wait. What: Claude Code’s revised projects adds AI orchestration, but local developers must wait. When: 2026-09-17T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Claude Code’s revised projects adds AI orchestration, but local developers must wait. ماذا: Claude Code’s revised projects adds AI orchestration, but local developers must wait. متى: 2026-09-17T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Claude-projects-bg.png",
+    "sources": [
+      "https://www.zdnet.com/innovation/claude-code-revised-projects-threads/"
+    ]
+  },
+  {
+    "id": "1d094d4e270eff8602b90946",
+    "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+    "link": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+    "published": "2026-09-17T15:45:29+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.. What: OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training. When: 2026-09-17T15:45:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI published a framework for disclosing model misalignment alongside six reports describing problematic behavior.. ماذا: OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training. متى: 2026-09-17T15:45:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg",
+    "sources": [
+      "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/"
     ]
   },
   {
@@ -709,6 +835,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiizrhUTj3tjdgb7IhljezkW3bnwYpTrYnUKKPyx7s7RWalycDu2JiqKhRZDgnpZdafbKxkyBrx4kjkpGTNSNXYZ-nL2wFQ_kKcRBVo14lJ5Da5SF2sq2-eOzHeRXxuJ3skSWSn5AC0XA4NjwQrhTWFOuFxvSRsmOC63AIKBxV-9bfmABkLGW4BgyfV3CSM/s1600/domain.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html"
+    ]
+  },
+  {
+    "id": "66f9635bd7cd247bbf22fd04",
+    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/",
+    "published": "2026-09-17T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026. What: CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026. When: 2026-09-17T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026. ماذا: CrowdStrike Named a Leader in The Forrester Wave&trade;: External Threat Intelligence Service Providers, Q3 2026. متى: 2026-09-17T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-external-threat-intelligence-q3-2026/"
     ]
   },
   {
@@ -151480,24 +151624,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1c82572529f4176ecc7b3d7c3d9aab8569252189/2026/03/17/123d4a67-0a71-458b-a9a0-ba6bee6eb4ce/this-free-privacy-tool-makes-it-super-easy-to-stop-websites-from-selling-my-data-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/optmeowt-free-privacy-tool-stop-sites-selling-data/"
-    ]
-  },
-  {
-    "id": "d90ce307de88a473eb7c2996",
-    "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
-    "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
-    "published": "2026-03-21T17:30:41+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions.. What: Trivy vulnerability scanner breach pushed infostealer via GitHub Actions. When: 2026-03-21T17:30:41+00:00. How: The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions. Action: See Arabic action below.",
-    "summary_ar": "من: The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions.. ماذا: Trivy vulnerability scanner breach pushed infostealer via GitHub Actions. متى: 2026-03-21T17:30:41+00:00. كيف: The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/21/trivy-2.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
     ]
   }
 ]
