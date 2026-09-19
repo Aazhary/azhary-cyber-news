@@ -54,6 +54,82 @@
     ]
   },
   {
+    "id": "d36262dc668404e06cedf9c3",
+    "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+    "published": "2026-09-19T08:18:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.. What: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.. When: 2026-09-19T08:18:54+00:00. How: \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild Action: See Arabic action below.",
+    "summary_ar": "من: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.. ماذا: A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.. متى: 2026-09-19T08:18:54+00:00. كيف: \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-58138"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    ]
+  },
+  {
+    "id": "71746d073e508b6a03b03454",
+    "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+    "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+    "published": "2026-09-19T07:51:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.. What: The development was first reported by The Wall Street Journal.. When: 2026-09-19T07:51:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation.. ماذا: The development was first reported by The Wall Street Journal.. متى: 2026-09-19T07:51:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+    ]
+  },
+  {
+    "id": "bf0f679dfdf491d776d5b3f1",
+    "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+    "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+    "published": "2026-09-19T07:14:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.. What: CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories. When: 2026-09-19T07:14:54+00:00. How: An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18. Action: See Arabic action below.",
+    "summary_ar": "من: An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.. ماذا: CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories. متى: 2026-09-19T07:14:54+00:00. كيف: An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&nbsp;said on September 18.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html"
+    ]
+  },
+  {
+    "id": "9de6b003d2fd18fe20eb3d1b",
+    "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+    "published": "2026-09-19T06:24:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. When: 2026-09-19T06:24:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. متى: 2026-09-19T06:24:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-39682"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+    ]
+  },
+  {
     "id": "db8364d968460c74744b80cc",
     "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
@@ -151918,134 +151994,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/"
-    ]
-  },
-  {
-    "id": "aa2b2589e788ad86a2eabc5b",
-    "title": "The drone swarm is coming, and NATO air defenses are too expensive to cope",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nato_air_defenses/",
-    "published": "2026-03-23T10:14:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The drone swarm is coming, and NATO air defenses are too expensive to cope. What: The drone swarm is coming, and NATO air defenses are too expensive to cope. When: 2026-03-23T10:14:12+00:00. How: Ukraine's battlefield lessons show quantity and affordability now trump exquisite hardware NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.… The drone swarm is coming, and NATO air defenses are too expensive to cope Action: See Arabic action below.",
-    "summary_ar": "من: The drone swarm is coming, and NATO air defenses are too expensive to cope. ماذا: The drone swarm is coming, and NATO air defenses are too expensive to cope. متى: 2026-03-23T10:14:12+00:00. كيف: Ukraine's battlefield lessons show quantity and affordability now trump exquisite hardware NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.… The drone swarm is coming, and NATO air defenses are too expensive to cope. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/04/06/shutterstock_drone_army.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nato_air_defenses/"
-    ]
-  },
-  {
-    "id": "c8c4bb9713dfac3b2c88ba9a",
-    "title": "FBI warns of Handala hackers using Telegram in malware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/",
-    "published": "2026-03-23T09:45:55+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: FBI warns of Handala hackers using Telegram in malware attacks. What: Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks.. When: 2026-03-23T09:45:55+00:00. How: Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks. Action: See Arabic action below.",
-    "summary_ar": "من: FBI warns of Handala hackers using Telegram in malware attacks. ماذا: Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks.. متى: 2026-03-23T09:45:55+00:00. كيف: Federal Bureau of Investigation (FBI) warned network defenders that Iranian hackers linked to the country's Ministry of Intelligence and Security (MOIS) are using Telegram in malware attacks.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/23/Iran_flag.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/"
-    ]
-  },
-  {
-    "id": "a8b1192eabd2349dfa466636",
-    "title": "Operation Alice Takes Down 370,000+ Dark Web Sites",
-    "link": "https://www.infosecurity-magazine.com/news/operation-alice-370000-dark-web/",
-    "published": "2026-03-23T09:10:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Operation Alice Takes Down 370,000+ Dark Web Sites. What: Operation Alice Takes Down 370,000+ Dark Web Sites. When: 2026-03-23T09:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Operation Alice Takes Down 370,000+ Dark Web Sites. ماذا: Operation Alice Takes Down 370,000+ Dark Web Sites. متى: 2026-03-23T09:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/2c9ca71b-e9a5-48ce-b717-ec9b075644c0.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/operation-alice-370000-dark-web/"
-    ]
-  },
-  {
-    "id": "8df0bfc01612784c34bd6c25",
-    "title": "CISA orders feds to patch DarkSword iOS flaws exploited attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/",
-    "published": "2026-03-23T08:37:28+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CISA ordered U.S.. What: CISA ordered U.S.. When: 2026-03-23T08:37:28+00:00. How: government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit. Action: See Arabic action below.",
-    "summary_ar": "من: CISA ordered U.S.. ماذا: CISA ordered U.S.. متى: 2026-03-23T08:37:28+00:00. كيف: government agencies to patch three iOS vulnerabilities targeted in cryptocurrency theft and cyberespionage attacks using the DarkSword exploit kit.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/11/Apple_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-darksword-ios-flaws-exploited-attacks/"
-    ]
-  },
-  {
-    "id": "4653c4346e5ead8a3a182851",
-    "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
-    "link": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
-    "published": "2026-03-23T08:31:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper. What: Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper. When: 2026-03-23T08:31:00+00:00. How: Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments. Action: See Arabic action below.",
-    "summary_ar": "من: Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper. ماذا: Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper. متى: 2026-03-23T08:31:00+00:00. كيف: Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tECPxIu-t1cl5YE211vm5q8dB99cO4mW6hbz0jCRbtDjalNgI7gX42M9MQAkty0IsWyxB3cJDMOpKbqQlLSKMnjbGaBOJHB9QslmSQB6-96o4RlaFLKuTHEAq8HpO-KbprLYPIjSR64H9twUcA-fuV0CrB2qw7RlzNWhQUHEmyKboascQm-Udl5GPdwA/s1600/docker.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html"
-    ]
-  },
-  {
-    "id": "3503f92be906e2d3fb581cac",
-    "title": "New KB5085516 emergency update fixes Microsoft account sign-in",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/",
-    "published": "2026-03-23T08:04:30+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive.. What: Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive.. When: 2026-03-23T08:04:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive.. ماذا: Microsoft has released an emergency update to address a major issue that breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive.. متى: 2026-03-23T08:04:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/09/Windows_11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/new-kb5085516-emergency-update-fixes-microsoft-account-sign-in/"
-    ]
-  },
-  {
-    "id": "a160608bf4339f49b6d3bffc",
-    "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
-    "link": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
-    "published": "2026-03-23T06:15:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems. What: The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet.. When: 2026-03-23T06:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems. ماذا: The cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet.. متى: 2026-03-23T06:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-32975"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html"
     ]
   }
 ]
