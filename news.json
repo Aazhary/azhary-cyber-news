@@ -54,6 +54,80 @@
     ]
   },
   {
+    "id": "c1d5bcc89f74e8452a3ac0e8",
+    "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+    "published": "2026-09-19T13:48:32+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ShinyHunters hacks Clop leak site, threatens to extort ransomware gang. What: ShinyHunters hacks Clop leak site, threatens to extort ransomware gang. When: 2026-09-19T13:48:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters hacks Clop leak site, threatens to extort ransomware gang. ماذا: ShinyHunters hacks Clop leak site, threatens to extort ransomware gang. متى: 2026-09-19T13:48:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/"
+    ]
+  },
+  {
+    "id": "1aa8b6344e5bf7dfc28e1ab2",
+    "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
+    "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+    "published": "2026-09-19T11:38:20+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Calling viral AI actress Tilly Norwood? Agree to a face scan first. What: Calling viral AI actress Tilly Norwood? Agree to a face scan first. When: 2026-09-19T11:38:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Calling viral AI actress Tilly Norwood? Agree to a face scan first. ماذا: Calling viral AI actress Tilly Norwood? Agree to a face scan first. متى: 2026-09-19T11:38:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/19/tilly-norwood-face-scan-header-1600x900.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/"
+    ]
+  },
+  {
+    "id": "cc2fd48c518b89fdd196794b",
+    "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+    "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+    "published": "2026-09-19T10:01:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.. What: Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws. When: 2026-09-19T10:01:10+00:00. How: The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. Action: See Arabic action below.",
+    "summary_ar": "من: Three researchers at the security firm&nbsp;Hacktron&nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.. ماذا: Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws. متى: 2026-09-19T10:01:10+00:00. كيف: The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    ]
+  },
+  {
+    "id": "c8019563e962e9deb9e211b7",
+    "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+    "published": "2026-09-19T09:31:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE. What: SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.. When: 2026-09-19T09:31:17+00:00. How: \"SolarWinds SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE Action: See Arabic action below.",
+    "summary_ar": "من: SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE. ماذا: SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.. متى: 2026-09-19T09:31:17+00:00. كيف: \"SolarWinds SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-28326"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    ]
+  },
+  {
     "id": "d36262dc668404e06cedf9c3",
     "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
     "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
@@ -151505,495 +151579,6 @@
     "image": "https://www.bleepstatic.com/content/posts/2026/03/18/varonis-atlas.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/"
-    ]
-  },
-  {
-    "id": "a665dcb5706b4a7a8e645ddf",
-    "title": "Firefox is adding a free VPN for all users - but can you trust it?",
-    "link": "https://www.zdnet.com/article/firefox-free-vpn-guide/",
-    "published": "2026-03-23T13:50:25+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Firefox is adding a free VPN for all users - but can you trust it?. What: Firefox is adding a free VPN for all users - but can you trust it?. When: 2026-03-23T13:50:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Firefox is adding a free VPN for all users - but can you trust it?. ماذا: Firefox is adding a free VPN for all users - but can you trust it?. متى: 2026-03-23T13:50:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b1a41851809f75e9a8e9637fb1aeb9e50070b82c/2026/03/23/6ae306e0-2d73-472a-ba4a-ced3125e116f/firefox.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/firefox-free-vpn-guide/"
-    ]
-  },
-  {
-    "id": "ea4117018ff82c852b50c7e9",
-    "title": "Consider my 4-step Android refresh routine before switching to a new phone",
-    "link": "https://www.zdnet.com/article/how-to-refresh-android-phone-clear-cache-unused-aps/",
-    "published": "2026-03-23T13:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Consider my 4-step Android refresh routine before switching to a new phone. What: Consider my 4-step Android refresh routine before switching to a new phone. When: 2026-03-23T13:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Consider my 4-step Android refresh routine before switching to a new phone. ماذا: Consider my 4-step Android refresh routine before switching to a new phone. متى: 2026-03-23T13:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fe540038ad2804404660c2a5477c5ccb11a8732a/2026/02/16/3e8bda35-5518-401b-93aa-371ac060124a/dsc09328.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-refresh-android-phone-clear-cache-unused-aps/"
-    ]
-  },
-  {
-    "id": "8c9af5105dc359a6c06eb220",
-    "title": "Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack",
-    "link": "https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/",
-    "published": "2026-03-23T13:40:52+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack. What: Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack. When: 2026-03-23T13:40:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack. ماذا: Aqua’s Trivy Vulnerability Scanner Hit by Supply Chain Attack. متى: 2026-03-23T13:40:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Vulnerability",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "c4bc49d5bc3204f7a8a09fb0",
-    "title": "Your Samsung phone is getting AirDrop-style sharing with iPhone - these models first",
-    "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
-    "published": "2026-03-23T13:40:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.. What: Your Samsung phone is getting AirDrop-style sharing with iPhone - these models first. When: 2026-03-23T13:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.. ماذا: Your Samsung phone is getting AirDrop-style sharing with iPhone - these models first. متى: 2026-03-23T13:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c494190dd385347efaff7cf68d528abe3d5116a6/2026/03/17/7a52739c-b8d3-4a44-b56f-2ef94a06d9fe/img-20260317-204146.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/"
-    ]
-  },
-  {
-    "id": "88aa7dc608b79691e7f1aa8c",
-    "title": "Is Netflix Premium worth it? I compared the standard and ad-free plans to find the best deal",
-    "link": "https://www.zdnet.com/article/netflix-premium-vs-netflix-standard/",
-    "published": "2026-03-23T13:38:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Is Netflix Premium worth it? I compared the standard and ad-free plans to find the best deal. What: Is Netflix Premium worth it? I compared the standard and ad-free plans to find the best deal. When: 2026-03-23T13:38:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is Netflix Premium worth it? I compared the standard and ad-free plans to find the best deal. ماذا: Is Netflix Premium worth it? I compared the standard and ad-free plans to find the best deal. متى: 2026-03-23T13:38:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2b0033f7a8d090478ff1ab76cf6a04dbbf358f7c/2024/01/14/c39799b7-8745-4bd5-b616-b0f3c749fa30/dsc00727.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/netflix-premium-vs-netflix-standard/"
-    ]
-  },
-  {
-    "id": "0c0a041cdc734350a1f2c688",
-    "title": "This touchscreen smart speaker is the HomePod successor I've been waiting for",
-    "link": "https://www.zdnet.com/article/wiim-sound-smart-speaker-review/",
-    "published": "2026-03-23T13:26:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This touchscreen smart speaker is the HomePod successor I've been waiting for. What: This touchscreen smart speaker is the HomePod successor I've been waiting for. When: 2026-03-23T13:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This touchscreen smart speaker is the HomePod successor I've been waiting for. ماذا: This touchscreen smart speaker is the HomePod successor I've been waiting for. متى: 2026-03-23T13:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/12cf6da24608f908a919858dde7d28429a0eeefc/2026/03/05/d9812ca8-af54-4c6f-a174-08f8245fef35/wiim-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wiim-sound-smart-speaker-review/"
-    ]
-  },
-  {
-    "id": "8c6cc36f3e6f6c3f6910005c",
-    "title": "I tested a $499 Android phone that beats Samsung and Google in meaningful ways",
-    "link": "https://www.zdnet.com/article/nothing-phone-4a-pro-review/",
-    "published": "2026-03-23T13:23:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested a $499 Android phone that beats Samsung and Google in meaningful ways. What: I tested a $499 Android phone that beats Samsung and Google in meaningful ways. When: 2026-03-23T13:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested a $499 Android phone that beats Samsung and Google in meaningful ways. ماذا: I tested a $499 Android phone that beats Samsung and Google in meaningful ways. متى: 2026-03-23T13:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e8672764316db77479db7ac722f051e812112017/2026/03/19/3d0d859d-f2cb-4816-8642-2d5c27f87682/img-20260305-122930.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/nothing-phone-4a-pro-review/"
-    ]
-  },
-  {
-    "id": "36acbbb403efbc3699ffe5a1",
-    "title": "⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-    "published": "2026-03-23T13:14:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More. What: ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More. When: 2026-03-23T13:14:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More. ماذا: ⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More. متى: 2026-03-23T13:14:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html"
-    ]
-  },
-  {
-    "id": "57d7cc006a23913c5abc4dde",
-    "title": "The secret to USB port colors: Why your device feels slow in the wrong slot",
-    "link": "https://www.zdnet.com/article/what-your-usb-port-color-means/",
-    "published": "2026-03-23T13:05:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The secret to USB port colors: Why your device feels slow in the wrong slot. What: The secret to USB port colors: Why your device feels slow in the wrong slot. When: 2026-03-23T13:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The secret to USB port colors: Why your device feels slow in the wrong slot. ماذا: The secret to USB port colors: Why your device feels slow in the wrong slot. متى: 2026-03-23T13:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d1469a54460e0a15260bc416ca741bc34d33d45/2025/11/03/d26bc05d-eb4b-4bda-90b5-a1daa4891b5f/img-4375.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-your-usb-port-color-means/"
-    ]
-  },
-  {
-    "id": "1155bafffe29c20c88fce939",
-    "title": "The Flipper One looks like a serious hacking tool, and I can't wait to try it - here's why",
-    "link": "https://www.zdnet.com/article/flipper-one-hacking-tool-tiny-linux-pc/",
-    "published": "2026-03-23T12:53:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Flipper One looks like a serious hacking tool, and I can't wait to try it - here's why. What: The Flipper One looks like a serious hacking tool, and I can't wait to try it - here's why. When: 2026-03-23T12:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Flipper One looks like a serious hacking tool, and I can't wait to try it - here's why. ماذا: The Flipper One looks like a serious hacking tool, and I can't wait to try it - here's why. متى: 2026-03-23T12:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/88339054dd043cae5fbefcc5d150c450dca053ea/2026/03/23/a00c566d-e35a-406f-8dc1-8d9814baa961/flipper-one.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/flipper-one-hacking-tool-tiny-linux-pc/"
-    ]
-  },
-  {
-    "id": "6ab3cf6184ff9f9aed28d85c",
-    "title": "US chip testing firm shrugged off ransomware hit as minor – then came the data leak",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/us_chip_testing_firm_shrugged/",
-    "published": "2026-03-23T12:33:15+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: US chip testing firm shrugged off ransomware hit as minor – then came the data leak. What: Trio-Tech International initially said hack wasn't 'material,' but then stolen data was published Trio-Tech International initially shrugged off a ransomware attack at a Singapore subsidiary as immaterial, only to reverse course days later after discovering stolen data had been disclosed.… US chip testing firm shrugged off ransomware hit as minor – then came the data leak. When: 2026-03-23T12:33:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US chip testing firm shrugged off ransomware hit as minor – then came the data leak. ماذا: Trio-Tech International initially said hack wasn't 'material,' but then stolen data was published Trio-Tech International initially shrugged off a ransomware attack at a Singapore subsidiary as immaterial, only to reverse course days later after discovering stolen data had been disclosed.… US chip testing firm shrugged off ransomware hit as minor – then came the data leak. متى: 2026-03-23T12:33:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/01/28/ransomware.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/23/us_chip_testing_firm_shrugged/"
-    ]
-  },
-  {
-    "id": "001819c278398ca2c35950a5",
-    "title": "I replaced all my chargers with this 205W GaN adapter - now I never travel without it",
-    "link": "https://www.zdnet.com/article/momox-205w-9-in-1-universal-travel-adapter-review/",
-    "published": "2026-03-23T12:30:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I replaced all my chargers with this 205W GaN adapter - now I never travel without it. What: I replaced all my chargers with this 205W GaN adapter - now I never travel without it. When: 2026-03-23T12:30:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I replaced all my chargers with this 205W GaN adapter - now I never travel without it. ماذا: I replaced all my chargers with this 205W GaN adapter - now I never travel without it. متى: 2026-03-23T12:30:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/765bf6e746cefa17812fc03c2a9432493b1e75fa/2026/03/20/651d11e5-72c3-4dfe-bb04-e2540d14d811/img-3050.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/momox-205w-9-in-1-universal-travel-adapter-review/"
-    ]
-  },
-  {
-    "id": "88c7649243d4cf9eaa13818f",
-    "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
-    "published": "2026-03-23T12:24:50+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Infosec pros descend on San Francisco kettle When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she's expecting agentic AI to be on everyone's lips - at least those who aren't busy gossiping about the lack of presence from any representatives of the US federal government.… RSAC 2026: Uncle Sam backs out, and AI agents are everywhere. What: RSAC 2026: Uncle Sam backs out, and AI agents are everywhere. When: 2026-03-23T12:24:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Infosec pros descend on San Francisco kettle When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she's expecting agentic AI to be on everyone's lips - at least those who aren't busy gossiping about the lack of presence from any representatives of the US federal government.… RSAC 2026: Uncle Sam backs out, and AI agents are everywhere. ماذا: RSAC 2026: Uncle Sam backs out, and AI agents are everywhere. متى: 2026-03-23T12:24:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/04/29/fbi_cynthia_kaiser.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/"
-    ]
-  },
-  {
-    "id": "6f8d8fc5e74e236b73da8b14",
-    "title": "Microsoft Exchange Online service change causes email access issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/",
-    "published": "2026-03-23T12:17:18+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday.. What: Microsoft Exchange Online service change causes email access issues. When: 2026-03-23T12:17:18+00:00. How: Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday.. ماذا: Microsoft Exchange Online service change causes email access issues. متى: 2026-03-23T12:17:18+00:00. كيف: Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop clients since Thursday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/09/Exchange_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/"
-    ]
-  },
-  {
-    "id": "d6e1e2bcaef5ea405148b7d2",
-    "title": "How to get free AI headshots that don't look fake - with Nano Banana 2",
-    "link": "https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/",
-    "published": "2026-03-23T12:16:56+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to get free AI headshots that don't look fake - with Nano Banana 2. What: How to get free AI headshots that don't look fake - with Nano Banana 2. When: 2026-03-23T12:16:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to get free AI headshots that don't look fake - with Nano Banana 2. ماذا: How to get free AI headshots that don't look fake - with Nano Banana 2. متى: 2026-03-23T12:16:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d9ec1ed95e4f9d837ac8117aa2c8e70daf624e56/2026/03/23/9a30ce37-e154-4f35-8e83-95a864806175/headshots.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/"
-    ]
-  },
-  {
-    "id": "6ea8ef2bbe545e0d08fbd982",
-    "title": "After testing this Anker, I wish every wireless charger had a thermoelectric cooler",
-    "link": "https://www.zdnet.com/article/anker-prime-magsafe-3-in-1-is-a-qi2-25w-charging-station-review/",
-    "published": "2026-03-23T12:00:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After testing this Anker, I wish every wireless charger had a thermoelectric cooler. What: After testing this Anker, I wish every wireless charger had a thermoelectric cooler. When: 2026-03-23T12:00:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: After testing this Anker, I wish every wireless charger had a thermoelectric cooler. ماذا: After testing this Anker, I wish every wireless charger had a thermoelectric cooler. متى: 2026-03-23T12:00:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9732afc630520b9e4f18d0285ea3ab6d1f0bb987/2026/03/14/ea10821e-7bec-455b-bcef-d69ec0b67a02/img-2999.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anker-prime-magsafe-3-in-1-is-a-qi2-25w-charging-station-review/"
-    ]
-  },
-  {
-    "id": "14371e5dddba59dde70c1063",
-    "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-    "link": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-    "published": "2026-03-23T11:55:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: AWS Bedrock is Amazon's platform for building AI-powered applications.. What: We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them. When: 2026-03-23T11:55:00+00:00. How: When an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint We Found Eight Attack Vectors Inside AWS Bedrock. Action: See Arabic action below.",
-    "summary_ar": "من: AWS Bedrock is Amazon's platform for building AI-powered applications.. ماذا: We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them. متى: 2026-03-23T11:55:00+00:00. كيف: When an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint We Found Eight Attack Vectors Inside AWS Bedrock.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNP5vhVrLuEm9El_BgbLywUuexUg6KzaMreEfpqeSpQnonIKWfB4fcCX_bXrkxTwUoqXqxjrXZdZbppYseQBmTTSXeZT3PLsXoUIKdVUxawVdz4e33n_E6iPxNLCL3mAypW2di8w755oQGTcP1dFoBaOXV9D7LuASxn-43LJ1JCxtOtTFZ_qUsBzlY878/s1600/xmcyber.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html"
-    ]
-  },
-  {
-    "id": "57d7cc006a23913c5abc4dde",
-    "title": "I researched into USB color codes - and now I use my ports differently",
-    "link": "https://www.zdnet.com/article/what-your-usb-port-color-means/",
-    "published": "2026-03-23T11:30:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I researched into USB color codes - and now I use my ports differently. What: I researched into USB color codes - and now I use my ports differently. When: 2026-03-23T11:30:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I researched into USB color codes - and now I use my ports differently. ماذا: I researched into USB color codes - and now I use my ports differently. متى: 2026-03-23T11:30:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d1469a54460e0a15260bc416ca741bc34d33d45/2025/11/03/d26bc05d-eb4b-4bda-90b5-a1daa4891b5f/img-4375.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-your-usb-port-color-means/"
-    ]
-  },
-  {
-    "id": "60e192b4fa615f7b44ab17d8",
-    "title": "Microsoft fixes broken Windows update days after vowing fewer broken updates",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/",
-    "published": "2026-03-23T11:24:37+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: right after this out-of-band patch Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.… Microsoft fixes broken Windows update days after vowing fewer broken updates. What: right after this out-of-band patch Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.… Microsoft fixes broken Windows update days after vowing fewer broken updates. When: 2026-03-23T11:24:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: right after this out-of-band patch Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.… Microsoft fixes broken Windows update days after vowing fewer broken updates. ماذا: right after this out-of-band patch Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.… Microsoft fixes broken Windows update days after vowing fewer broken updates. متى: 2026-03-23T11:24:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/05/25/shutterstock_rush.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/"
-    ]
-  },
-  {
-    "id": "c4bc49d5bc3204f7a8a09fb0",
-    "title": "Samsung adopting AirDrop compatibility is exactly what Android needs right now",
-    "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
-    "published": "2026-03-23T11:12:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.. What: Samsung adopting AirDrop compatibility is exactly what Android needs right now. When: 2026-03-23T11:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.. ماذا: Samsung adopting AirDrop compatibility is exactly what Android needs right now. متى: 2026-03-23T11:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/209b553d214c850b97dbd9f2ac6bd941c56f5951/2026/03/17/6d45ade8-96b8-4312-ae27-d5cec2f67050/img-20260317-205218.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/"
-    ]
-  },
-  {
-    "id": "400c983a88d51b52f2952408",
-    "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
-    "link": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
-    "published": "2026-03-23T11:09:16+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.. What: The post QNAP Patches Four Vulnerabilities Exploited at Pwn2Own appeared first on SecurityWeek .. When: 2026-03-23T11:09:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.. ماذا: The post QNAP Patches Four Vulnerabilities Exploited at Pwn2Own appeared first on SecurityWeek .. متى: 2026-03-23T11:09:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
-      "https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own-ireland/"
-    ]
-  },
-  {
-    "id": "d111525b55f43ea7f7746791",
-    "title": "This hidden Windows 11 feature can help you spot battery issues early - how to find it",
-    "link": "https://www.zdnet.com/article/how-to-use-microsoft-battery-health-report-windows-11-pc/",
-    "published": "2026-03-23T11:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This hidden Windows 11 feature can help you spot battery issues early - how to find it. What: This hidden Windows 11 feature can help you spot battery issues early - how to find it. When: 2026-03-23T11:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This hidden Windows 11 feature can help you spot battery issues early - how to find it. ماذا: This hidden Windows 11 feature can help you spot battery issues early - how to find it. متى: 2026-03-23T11:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/54d84bba5009c004df59619b87e33655506f64ac/2026/02/28/53d009f8-af27-4496-903d-ecdb3c1f0061/dsc09265.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-use-microsoft-battery-health-report-windows-11-pc/"
-    ]
-  },
-  {
-    "id": "755f361edd035d7c0d6ae247",
-    "title": "A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be",
-    "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-2026-review/",
-    "published": "2026-03-23T11:02:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be. What: A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be. When: 2026-03-23T11:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be. ماذا: A month with Lenovo's premium ThinkPad made me rethink what a work laptop should be. متى: 2026-03-23T11:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/45ff2a401dc0fc86ee2a4c8bea10618b64946765/2026/01/21/97fa462c-9a56-4193-b9a7-e43a43efcb07/img-5372.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lenovo-thinkpad-p1-2026-review/"
-    ]
-  },
-  {
-    "id": "064f60c6ab0bc5847d9b59e9",
-    "title": "Secure Your Spot at RSAC 2026 Conference",
-    "link": "https://www.darkreading.com/events/rsac-2026-conference",
-    "published": "2026-03-23T11:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Secure Your Spot at RSAC 2026 Conference. What: Secure Your Spot at RSAC 2026 Conference. When: 2026-03-23T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Secure Your Spot at RSAC 2026 Conference. ماذا: Secure Your Spot at RSAC 2026 Conference. متى: 2026-03-23T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/events/rsac-2026-conference"
-    ]
-  },
-  {
-    "id": "4c77b45560e666d70a18e722",
-    "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-    "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-    "published": "2026-03-23T10:55:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S.. What: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S.. When: 2026-03-23T10:55:00+00:00. How: The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S.. ماذا: Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S.. متى: 2026-03-23T10:55:00+00:00. كيف: The email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9fqlMd4OuFVtXiIjViNTGyYhyol3qoSCp1VC7Au7Zp3ccwTT2YriDd5iWY7vc67FF0inmVd16ko0WfG3C57cyOs-I3RNaQXnk2eyfKefaJajCkfjvD1rfZp1hnOqyICcY5-dPdADaKq7bl74F4bocmJHp1W3sI6ZBGKIXiOI-phZVHwwyqtDQz1kNQty/s1600/irs.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
-    ]
-  },
-  {
-    "id": "3675ce4916fd8258edbeb9c1",
-    "title": "CISA Orders US Government to Patch Maximum Severity Cisco Flaw",
-    "link": "https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/",
-    "published": "2026-03-23T10:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: CISA added CVE-2026-20131 to its KEV catalog as it is being used in ransomware campaigns CISA Orders US Government to Patch Maximum Severity Cisco Flaw. What: CISA Orders US Government to Patch Maximum Severity Cisco Flaw. When: 2026-03-23T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CISA added CVE-2026-20131 to its KEV catalog as it is being used in ransomware campaigns CISA Orders US Government to Patch Maximum Severity Cisco Flaw. ماذا: CISA Orders US Government to Patch Maximum Severity Cisco Flaw. متى: 2026-03-23T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20131"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/1cdd4eea-deee-42b7-a2da-44b4dcfcdbef.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/cisa-orders-us-government-patch/"
-    ]
-  },
-  {
-    "id": "0847152137836aa14d83f6cc",
-    "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
-    "link": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
-    "published": "2026-03-23T10:29:52+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Tycoon 2FA Fully Operational Despite Law Enforcement Takedown. What: Tycoon 2FA Fully Operational Despite Law Enforcement Takedown. When: 2026-03-23T10:29:52+00:00. How: The post Tycoon 2FA Fully Operational Despite Law Enforcement Takedown appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Tycoon 2FA Fully Operational Despite Law Enforcement Takedown. ماذا: Tycoon 2FA Fully Operational Despite Law Enforcement Takedown. متى: 2026-03-23T10:29:52+00:00. كيف: The post Tycoon 2FA Fully Operational Despite Law Enforcement Takedown appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/"
     ]
   }
 ]
