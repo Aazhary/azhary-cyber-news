@@ -54,6 +54,42 @@
     ]
   },
   {
+    "id": "5abf59fedffa2476418885fa",
+    "title": "Malicious npm packages evade install-script defenses at runtime",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "published": "2026-09-20T14:11:21+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Malicious npm packages evade install-script defenses at runtime. What: Malicious npm packages evade install-script defenses at runtime. When: 2026-09-20T14:11:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious npm packages evade install-script defenses at runtime. ماذا: Malicious npm packages evade install-script defenses at runtime. متى: 2026-09-20T14:11:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/"
+    ]
+  },
+  {
+    "id": "533b089bb91a7157cc43aab9",
+    "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+    "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+    "published": "2026-09-20T12:00:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode.. What: OpenAI has patched both.. When: 2026-09-20T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode.. ماذا: OpenAI has patched both.. متى: 2026-09-20T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
+    ]
+  },
+  {
     "id": "2fab1312f6e2614f623449c5",
     "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
     "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
@@ -150098,385 +150134,6 @@
     "image": "https://www.zdnet.com/a/img/resize/bb33d59c8b8f75003ac140fb675ddc4b6cd29534/2026/03/24/e1c9e4fb-3a50-42c6-aa30-4e572ebcf6c4/img-3139.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/blue-light-glasses-cortisol-test-results/"
-    ]
-  },
-  {
-    "id": "b09057e7e40cd1e03492cb38",
-    "title": "New Npm 'Ghost Campaign' Uses Fake Install Logs to Hide Malware",
-    "link": "https://www.infosecurity-magazine.com/news/npm-ghost-campaign-fake-install/",
-    "published": "2026-03-24T14:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: New Npm 'Ghost Campaign' Uses Fake Install Logs to Hide Malware. What: New Npm 'Ghost Campaign' Uses Fake Install Logs to Hide Malware. When: 2026-03-24T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Npm 'Ghost Campaign' Uses Fake Install Logs to Hide Malware. ماذا: New Npm 'Ghost Campaign' Uses Fake Install Logs to Hide Malware. متى: 2026-03-24T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f0ce58d3-e08c-46eb-a389-c72fea3c778e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/npm-ghost-campaign-fake-install/"
-    ]
-  },
-  {
-    "id": "53d8eb3d739ec48227d271f2",
-    "title": "Zero Trust: Bridging the Gap Between Authentication and Trust",
-    "link": "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/",
-    "published": "2026-03-24T14:02:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Zero Trust: Bridging the Gap Between Authentication and Trust. What: Zero Trust: Bridging the Gap Between Authentication and Trust. When: 2026-03-24T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Zero Trust: Bridging the Gap Between Authentication and Trust. ماذا: Zero Trust: Bridging the Gap Between Authentication and Trust. متى: 2026-03-24T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/19/specops-laptop-lock.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/zero-trust-bridging-the-gap-between-authentication-and-trust/"
-    ]
-  },
-  {
-    "id": "049ee7e6675c00c3e8f4d795",
-    "title": "HackerOne discloses employee data breach after Navia hack",
-    "link": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
-    "published": "2026-03-24T14:01:02+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: HackerOne discloses employee data breach after Navia hack. What: HackerOne discloses employee data breach after Navia hack. When: 2026-03-24T14:01:02+00:00. How: Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S. Action: See Arabic action below.",
-    "summary_ar": "من: HackerOne discloses employee data breach after Navia hack. ماذا: HackerOne discloses employee data breach after Navia hack. متى: 2026-03-24T14:01:02+00:00. كيف: Bug bounty platform HackerOne is notifying hundreds of employees that their data was stolen after attackers hacked Navia, one of its U.S.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/02/HackerOne.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/"
-    ]
-  },
-  {
-    "id": "2e9efd7985f7cb7efbb1370a",
-    "title": "Former Ukrainian Foreign Minister Dmytro Kuleba to Address the New Cyber Frontline at Infosecurity Europe",
-    "link": "https://www.infosecurity-magazine.com/news/foreign-minister-kuleba/",
-    "published": "2026-03-24T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Former Ukrainian Foreign Minister Dmytro Kuleba to Address the New Cyber Frontline at Infosecurity Europe. What: Former Ukrainian Foreign Minister Dmytro Kuleba to Address the New Cyber Frontline at Infosecurity Europe. When: 2026-03-24T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Former Ukrainian Foreign Minister Dmytro Kuleba to Address the New Cyber Frontline at Infosecurity Europe. ماذا: Former Ukrainian Foreign Minister Dmytro Kuleba to Address the New Cyber Frontline at Infosecurity Europe. متى: 2026-03-24T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/b7b1dad2-3716-4d9a-9e08-e5ec06343d3c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/foreign-minister-kuleba/"
-    ]
-  },
-  {
-    "id": "c0b83b24447523538484d73d",
-    "title": "Extortion Group Claims It Hacked AstraZeneca",
-    "link": "https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/",
-    "published": "2026-03-24T13:54:47+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Extortion Group Claims It Hacked AstraZeneca. What: Extortion Group Claims It Hacked AstraZeneca. When: 2026-03-24T13:54:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Extortion Group Claims It Hacked AstraZeneca. ماذا: Extortion Group Claims It Hacked AstraZeneca. متى: 2026-03-24T13:54:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/extortion-group-claims-it-hacked-astrazeneca/"
-    ]
-  },
-  {
-    "id": "456b9b75c14b29f15c051f29",
-    "title": "Infinite Campus warns of breach after ShinyHunters claims data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/",
-    "published": "2026-03-24T13:48:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Infinite Campus warns of breach after ShinyHunters claims data theft. What: Infinite Campus warns of breach after ShinyHunters claims data theft. When: 2026-03-24T13:48:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Infinite Campus warns of breach after ShinyHunters claims data theft. ماذا: Infinite Campus warns of breach after ShinyHunters claims data theft. متى: 2026-03-24T13:48:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/04/School_hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/infinite-campus-warns-of-breach-after-shinyhunters-claims-data-theft/"
-    ]
-  },
-  {
-    "id": "67d98946a87cc07f8c29e4c3",
-    "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
-    "published": "2026-03-24T13:27:07+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: HackerOne slams supplier for delayed breach notice after staff data exposed. What: HackerOne slams supplier for delayed breach notice after staff data exposed. When: 2026-03-24T13:27:07+00:00. How: Nearly 300 employees caught up in intrusion at benefits provider Navia Almost 300 HackerOne employees are caught up in a data breach, with the bug bounty biz slamming a third-party benefits provider for a weeks-long delay in notification.… HackerOne slams supplier for delayed breach notice after staff data exposed Action: See Arabic action below.",
-    "summary_ar": "من: HackerOne slams supplier for delayed breach notice after staff data exposed. ماذا: HackerOne slams supplier for delayed breach notice after staff data exposed. متى: 2026-03-24T13:27:07+00:00. كيف: Nearly 300 employees caught up in intrusion at benefits provider Navia Almost 300 HackerOne employees are caught up in a data breach, with the bug bounty biz slamming a third-party benefits provider for a weeks-long delay in notification.… HackerOne slams supplier for delayed breach notice after staff data exposed. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/08/24/rage_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/"
-    ]
-  },
-  {
-    "id": "dd74b0b9c1a6aa1e39b2a1a2",
-    "title": "How a Large Bank Uses AI Digital Twins for Threat Hunting",
-    "link": "https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting",
-    "published": "2026-03-24T13:16:21+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: How a Large Bank Uses AI Digital Twins for Threat Hunting. What: How a Large Bank Uses AI Digital Twins for Threat Hunting. When: 2026-03-24T13:16:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How a Large Bank Uses AI Digital Twins for Threat Hunting. ماذا: How a Large Bank Uses AI Digital Twins for Threat Hunting. متى: 2026-03-24T13:16:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/how-large-bank-uses-ai-digital-twins-threat-hunting"
-    ]
-  },
-  {
-    "id": "150db1cbfae6e2a2f2478ac7",
-    "title": "Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security",
-    "link": "https://www.infosecurity-magazine.com/news/cybersecurity-software-failure-20/",
-    "published": "2026-03-24T13:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security. What: Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security. When: 2026-03-24T13:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security. ماذا: Enterprise Cybersecurity Software Fails 20% of the Time, Warns Absolute Security. متى: 2026-03-24T13:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/49418640-929f-48de-904b-d761f99da4f9.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/cybersecurity-software-failure-20/"
-    ]
-  },
-  {
-    "id": "9b33c7fd09bc45efae4c12ac",
-    "title": "Yanluowang ransomware access broker gets 81 months in prison",
-    "link": "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-    "published": "2026-03-24T13:06:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Yanluowang ransomware access broker gets 81 months in prison. What: Yanluowang ransomware access broker gets 81 months in prison. When: 2026-03-24T13:06:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Yanluowang ransomware access broker gets 81 months in prison. ماذا: Yanluowang ransomware access broker gets 81 months in prison. متى: 2026-03-24T13:06:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/yanluowang-ransomware-access-broker-gets-81-months-in-prison/",
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/24/russian_iab_sentenced/"
-    ]
-  },
-  {
-    "id": "442e0c97f55a366c3aa360b5",
-    "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-    "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-    "published": "2026-03-24T12:38:09+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Late last week, it compromised virtually all versions of the widely used Trivy vulnerability scanner in a supply-chain attack after gaining privileged access to the GitHub account of Aqua Security, the Trivy creator.. What: Self-propagating malware poisons open source software and wipes Iran-based machines. When: 2026-03-24T12:38:09+00:00. How: Read full article Comments Self-propagating malware poisons open source software and wipes Iran-based machines Action: See Arabic action below.",
-    "summary_ar": "من: Late last week, it compromised virtually all versions of the widely used Trivy vulnerability scanner in a supply-chain attack after gaining privileged access to the GitHub account of Aqua Security, the Trivy creator.. ماذا: Self-propagating malware poisons open source software and wipes Iran-based machines. متى: 2026-03-24T12:38:09+00:00. كيف: Read full article Comments Self-propagating malware poisons open source software and wipes Iran-based machines. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-1000x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
-    ]
-  },
-  {
-    "id": "46ef35bc3cc68ba9ef4fc72d",
-    "title": "Webinar Today: Putting CIS Controls and Benchmarks into Practice",
-    "link": "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/",
-    "published": "2026-03-24T12:30:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Webinar Today: Putting CIS Controls and Benchmarks into Practice. What: Webinar Today: Putting CIS Controls and Benchmarks into Practice. When: 2026-03-24T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Webinar Today: Putting CIS Controls and Benchmarks into Practice. ماذا: Webinar Today: Putting CIS Controls and Benchmarks into Practice. متى: 2026-03-24T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/"
-    ]
-  },
-  {
-    "id": "02501d8ba6400ecf63b3aa8d",
-    "title": "Microsoft Proposes Better Identity, Guardrails for AI Agents",
-    "link": "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents",
-    "published": "2026-03-24T12:28:25+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Microsoft Proposes Better Identity, Guardrails for AI Agents. What: Microsoft Proposes Better Identity, Guardrails for AI Agents. When: 2026-03-24T12:28:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft Proposes Better Identity, Guardrails for AI Agents. ماذا: Microsoft Proposes Better Identity, Guardrails for AI Agents. متى: 2026-03-24T12:28:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents"
-    ]
-  },
-  {
-    "id": "d2d12bddba72b6267448c0fd",
-    "title": "3.1 Million Impacted by QualDerm Data Breach",
-    "link": "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/",
-    "published": "2026-03-24T12:23:59+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 3.1 Million Impacted by QualDerm Data Breach. What: 3.1 Million Impacted by QualDerm Data Breach. When: 2026-03-24T12:23:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 3.1 Million Impacted by QualDerm Data Breach. ماذا: 3.1 Million Impacted by QualDerm Data Breach. متى: 2026-03-24T12:23:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/"
-    ]
-  },
-  {
-    "id": "eb55c11f5350f3a2ba208065",
-    "title": "My 5-step security checklist for every new Windows PC",
-    "link": "https://www.zdnet.com/article/windows-11-security/",
-    "published": "2026-03-24T12:20:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My 5-step security checklist for every new Windows PC. What: My 5-step security checklist for every new Windows PC. When: 2026-03-24T12:20:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My 5-step security checklist for every new Windows PC. ماذا: My 5-step security checklist for every new Windows PC. متى: 2026-03-24T12:20:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/458512d3d0e8739be68aaddcf1de746ef3399b55/2026/01/27/e98f17de-4a83-4d8c-8c7b-44e58dc1a554/dsc04886.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/windows-11-security/"
-    ]
-  },
-  {
-    "id": "fd5799812ac7ab7b2aaf2022",
-    "title": "Country that put backdoors into Cisco routers to spy on world bans foreign routers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/",
-    "published": "2026-03-24T12:19:36+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Unfortunately, there aren't many options unless you're Starlink Citing national security fears, America is effectively banning any new consumer-grade network routers made abroad.… Country that put backdoors into Cisco routers to spy on world bans foreign routers. What: Country that put backdoors into Cisco routers to spy on world bans foreign routers. When: 2026-03-24T12:19:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Unfortunately, there aren't many options unless you're Starlink Citing national security fears, America is effectively banning any new consumer-grade network routers made abroad.… Country that put backdoors into Cisco routers to spy on world bans foreign routers. ماذا: Country that put backdoors into Cisco routers to spy on world bans foreign routers. متى: 2026-03-24T12:19:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/03/07/shutterstock_router.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/"
-    ]
-  },
-  {
-    "id": "fd5799812ac7ab7b2aaf2022",
-    "title": "New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/",
-    "published": "2026-03-24T12:19:36+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam. What: New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam. When: 2026-03-24T12:19:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam. ماذا: New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam. متى: 2026-03-24T12:19:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/03/07/shutterstock_router.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/"
-    ]
-  },
-  {
-    "id": "f6c7e2285998b3b8978e0913",
-    "title": "Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool",
-    "link": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
-    "published": "2026-03-24T12:10:23+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool. What: Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool. When: 2026-03-24T12:10:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool. ماذا: Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool. متى: 2026-03-24T12:10:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/"
-    ]
-  },
-  {
-    "id": "ae60397d09e59d332331b0cb",
-    "title": "Dutch Ministry of Finance discloses breach affecting employees",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/",
-    "published": "2026-03-24T12:03:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Dutch Ministry of Finance discloses breach affecting employees. What: The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week.. When: 2026-03-24T12:03:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dutch Ministry of Finance discloses breach affecting employees. ماذا: The Dutch Ministry of Finance confirmed on Monday that some of its systems were breached in a cyberattack detected last week.. متى: 2026-03-24T12:03:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/Netherlands_Dutch_Ministry_of_Finance.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/dutch-ministry-of-finance-discloses-breach-affecting-employees/"
-    ]
-  },
-  {
-    "id": "1834ba104e5201920199b057",
-    "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
-    "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
-    "published": "2026-03-24T12:01:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills. What: The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills. When: 2026-03-24T12:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills. ماذا: The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills. متى: 2026-03-24T12:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1600/cloud-network.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html"
-    ]
-  },
-  {
-    "id": "631d4d6268a857b22048b9f8",
-    "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
-    "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
-    "published": "2026-03-24T12:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials. What: Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials. When: 2026-03-24T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials. ماذا: Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials. متى: 2026-03-24T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh6CuYJhvsInqih03x9cvHFvmbF-F8DFJF_Y9VQMslT9g5yp_jhDewDUjcvUlAMzyKbfOHz0eMdFqHdIGwbtOY0MOHDGr_lA1TraO34SwYiKrieNnOQsAo5DbKhpJCp2X60_0epyBiBDs-KRgFjhR0QEPMmTRBCvJCiiQaJg7MaRCLf3EHcrIdluUrmJ-/s1600/1000062391.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
     ]
   }
 ]
