@@ -54,6 +54,152 @@
     ]
   },
   {
+    "id": "4c094eabbf43bbae9533017c",
+    "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+    "link": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+    "published": "2026-09-21T22:32:51+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: As such, Anthropic restricted access to Mythos Preview to vetted Glasswing participants, who use the model for defensive security work, including finding and fixing flaws in their own software products and open source dependencies.. What: Garrity began tracking CVEs attributed to Project Glasswing, Anthropic’s initiative to give select partners access to its Claude Mythos Preview model, shortly after the AI company announced the program in April.. When: 2026-09-21T22:32:51+00:00. How: Despite the concern that advanced AI models’ bug-hunting prowess will lead to attackers exploiting more newly uncovered CVEs, fewer than 0.5 percent of the vulnerabilities linked to Anthropic or Project Glasswing are being batttered in the wild, according to VulnCheck security researcher Patrick Garrity. Action: See Arabic action below.",
+    "summary_ar": "من: As such, Anthropic restricted access to Mythos Preview to vetted Glasswing participants, who use the model for defensive security work, including finding and fixing flaws in their own software products and open source dependencies.. ماذا: Garrity began tracking CVEs attributed to Project Glasswing, Anthropic’s initiative to give select partners access to its Claude Mythos Preview model, shortly after the AI company announced the program in April.. متى: 2026-09-21T22:32:51+00:00. كيف: Despite the concern that advanced AI models’ bug-hunting prowess will lead to attackers exploiting more newly uncovered CVEs, fewer than 0.5 percent of the vulnerabilities linked to Anthropic or Project Glasswing are being batttered in the wild, according to VulnCheck security researcher Patrick Garrity.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-26980"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298025.jpg?imageId=5298025&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018"
+    ]
+  },
+  {
+    "id": "b2c543ac59e1c4518c6ada1d",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "published": "2026-09-21T22:24:38+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts.. What: Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day. When: 2026-09-21T22:24:38+00:00. How: Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Action: See Arabic action below.",
+    "summary_ar": "من: Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts.. ماذا: Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day. متى: 2026-09-21T22:24:38+00:00. كيف: Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+    ]
+  },
+  {
+    "id": "961e3a5a473dae9e52d23399",
+    "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+    "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+    "published": "2026-09-21T21:39:59+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: How AI Agents Can Trigger Runaway Costs for Enterprises. What: How AI Agents Can Trigger Runaway Costs for Enterprises. When: 2026-09-21T21:39:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How AI Agents Can Trigger Runaway Costs for Enterprises. ماذا: How AI Agents Can Trigger Runaway Costs for Enterprises. متى: 2026-09-21T21:39:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4d507c20a824455e/6ab1a65e4e44f033edad8e57/computecosts-Cristina_Bustiuc-Getty-2290322223.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs"
+    ]
+  },
+  {
+    "id": "1a49f4625fa1204c769a923d",
+    "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+    "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+    "published": "2026-09-21T21:18:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: BigCommerce alerts merchants of data breach linked to Ribon apps. What: BigCommerce alerts merchants of data breach linked to Ribon apps. When: 2026-09-21T21:18:49+00:00. How: Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. Action: See Arabic action below.",
+    "summary_ar": "من: BigCommerce alerts merchants of data breach linked to Ribon apps. ماذا: BigCommerce alerts merchants of data breach linked to Ribon apps. متى: 2026-09-21T21:18:49+00:00. كيف: Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/11/25/OnlineShopping.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
+    ]
+  },
+  {
+    "id": "26767520db52c2221450903d",
+    "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+    "published": "2026-09-21T20:12:17+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical.. What: CISA alerts of active exploitation of three Linux kernel flaws. When: 2026-09-21T20:12:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical.. ماذا: CISA alerts of active exploitation of three Linux kernel flaws. متى: 2026-09-21T20:12:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
+    ]
+  },
+  {
+    "id": "556946de78a2cd3db4cca65d",
+    "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+    "published": "2026-09-21T20:07:56+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: ShinyHunters Hacked Clop. Now What About Clop's Victims?. What: ShinyHunters Hacked Clop. Now What About Clop's Victims?. When: 2026-09-21T20:07:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters Hacked Clop. Now What About Clop's Victims?. ماذا: ShinyHunters Hacked Clop. Now What About Clop's Victims?. متى: 2026-09-21T20:07:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "General",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e0bef42c03290a5/6ab183286295de5dae48dbb1/horses_running-winhorse-GettyImages-157523740.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims"
+    ]
+  },
+  {
+    "id": "12555d18a30641999d6e9715",
+    "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+    "published": "2026-09-21T19:59:52+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Meta made much of the security of its AI assistant app Muse at launch earlier this month, calling out the app's reliance on Muse Secure VM.. What: Meta Muse AI app flaw lets local malware redirect dictation traffic. When: 2026-09-21T19:59:52+00:00. How: But Meta's musing about Muse appears to be a bit overstated: an attacker capable of executing local code may be able to gain more access than a Muse user might expect. Action: See Arabic action below.",
+    "summary_ar": "من: Meta made much of the security of its AI assistant app Muse at launch earlier this month, calling out the app's reliance on Muse Secure VM.. ماذا: Meta Muse AI app flaw lets local malware redirect dictation traffic. متى: 2026-09-21T19:59:52+00:00. كيف: But Meta's musing about Muse appears to be a bit overstated: an attacker capable of executing local code may be able to gain more access than a Muse user might expect.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298012.jpg?imageId=5298012&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980"
+    ]
+  },
+  {
+    "id": "f7abe72a6af740eb659967f7",
+    "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+    "published": "2026-09-21T19:11:26+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Cybercriminals Are Hiding New Malware in Torrents for Popular Films. What: Cybercriminals Are Hiding New Malware in Torrents for Popular Films. When: 2026-09-21T19:11:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybercriminals Are Hiding New Malware in Torrents for Popular Films. ماذا: Cybercriminals Are Hiding New Malware in Torrents for Popular Films. متى: 2026-09-21T19:11:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films"
+    ]
+  },
+  {
     "id": "3705922b155e26816bd6d9f0",
     "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
     "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
@@ -66,7 +212,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/226050.jpg?imageId=226050&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965"
     ]
@@ -148587,222 +148733,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/GitHub.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/"
-    ]
-  },
-  {
-    "id": "117c6bf98c9ed813a5f3838c",
-    "title": "How I used Gemini to replace YouTube's missing comment alerts - in under an hour",
-    "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
-    "published": "2026-03-25T22:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I used Gemini to replace YouTube's missing comment alerts - in under an hour. What: How I used Gemini to replace YouTube's missing comment alerts - in under an hour. When: 2026-03-25T22:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I used Gemini to replace YouTube's missing comment alerts - in under an hour. ماذا: How I used Gemini to replace YouTube's missing comment alerts - in under an hour. متى: 2026-03-25T22:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a82ccc6d95f4bd6da8d0f15483fb4af70216c0cb/2026/03/25/eb132336-0584-4dc8-9599-ed51e08640f9/gettyimages-2144483621.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/"
-    ]
-  },
-  {
-    "id": "c6b74f28ff1f25780ed974af",
-    "title": "This digital photo frame is my favorite gift to give (and it's on sale)",
-    "link": "https://www.zdnet.com/article/pexar-digital-photo-frame-amazon-spring-sale-2026/",
-    "published": "2026-03-25T21:58:07+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This digital photo frame is my favorite gift to give (and it's on sale). What: This digital photo frame is my favorite gift to give (and it's on sale). When: 2026-03-25T21:58:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This digital photo frame is my favorite gift to give (and it's on sale). ماذا: This digital photo frame is my favorite gift to give (and it's on sale). متى: 2026-03-25T21:58:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b22e382b38a1e63b4270bc822ba56d8381f22166/2026/03/25/ccfce767-4f3f-45f0-8ecc-946af57c4f12/pexar-frame-spring-sale-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/pexar-digital-photo-frame-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "af6ca8372038d76173ede38b",
-    "title": "At RSAC, the EU Leads While US Officials Are Sidelined",
-    "link": "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined",
-    "published": "2026-03-25T21:52:38+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.. What: At RSAC, the EU Leads While US Officials Are Sidelined. When: 2026-03-25T21:52:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: While US government sits out this year, EU officials are on the ground in San Francisco leading the conversations on today's top cybersecurity challenges.. ماذا: At RSAC, the EU Leads While US Officials Are Sidelined. متى: 2026-03-25T21:52:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/rsac-eu-leads-us-officials-sidelined"
-    ]
-  },
-  {
-    "id": "cc59c28e8f0957a7f51b39f8",
-    "title": "PolyShell attacks target 56% of all vulnerable Magento stores",
-    "link": "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/",
-    "published": "2026-03-25T21:40:21+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: PolyShell attacks target 56% of all vulnerable Magento stores. What: PolyShell attacks target 56% of all vulnerable Magento stores. When: 2026-03-25T21:40:21+00:00. How: Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores. Action: See Arabic action below.",
-    "summary_ar": "من: PolyShell attacks target 56% of all vulnerable Magento stores. ماذا: PolyShell attacks target 56% of all vulnerable Magento stores. متى: 2026-03-25T21:40:21+00:00. كيف: Attacks leveraging the 'PolyShell' vulnerability in version 2 of Magento Open Source and Adobe Commerce installations are underway, targeting more than half of all vulnerable stores.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Magento.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/"
-    ]
-  },
-  {
-    "id": "fdd103c37b09f6ffacfe34bf",
-    "title": "Get your pup the smart Halo Collar 5 that's 25% off",
-    "link": "https://www.zdnet.com/article/halo-collar-5-amazon-spring-sale-2026/",
-    "published": "2026-03-25T21:29:54+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Get your pup the smart Halo Collar 5 that's 25% off. What: Get your pup the smart Halo Collar 5 that's 25% off. When: 2026-03-25T21:29:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Get your pup the smart Halo Collar 5 that's 25% off. ماذا: Get your pup the smart Halo Collar 5 that's 25% off. متى: 2026-03-25T21:29:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/37f4cc3819f0498be89fc27423ea0fecb5c80474/2026/03/25/1a8f95af-7ca3-42d2-978d-2be36fdf3266/halo-collar-5-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/halo-collar-5-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "a4912785277f1795c539a1e9",
-    "title": "I've tested every Apple Watch model - my top pick is on sale for $299",
-    "link": "https://www.zdnet.com/article/apple-watch-series-11-review/",
-    "published": "2026-03-25T20:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Apple Watch Series 11 is on sale for the first time this year.. What: I've tested every Apple Watch model - my top pick is on sale for $299. When: 2026-03-25T20:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Apple Watch Series 11 is on sale for the first time this year.. ماذا: I've tested every Apple Watch model - my top pick is on sale for $299. متى: 2026-03-25T20:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6ceddc60bd9a0231022591f7cd9acf8f88af8bca/2025/09/16/16d0a141-409a-4197-a2b0-362014b4e8ff/43daabdc-a2fd-4353-a794-6850b32aeaf1-1-105-c.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-watch-series-11-review/"
-    ]
-  },
-  {
-    "id": "8719e6fb22d48d951ff97426",
-    "title": "AI supply chain attacks don’t even require malware…just post poisoned documentation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
-    "published": "2026-03-25T20:50:59+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: AI supply chain attacks don’t even require malware…just post poisoned documentation. What: AI supply chain attacks don’t even require malware…just post poisoned documentation. When: 2026-03-25T20:50:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI supply chain attacks don’t even require malware…just post poisoned documentation. ماذا: AI supply chain attacks don’t even require malware…just post poisoned documentation. متى: 2026-03-25T20:50:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Vulnerability",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2020/02/21/shutterstock_poison_pills.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/"
-    ]
-  },
-  {
-    "id": "8719e6fb22d48d951ff97426",
-    "title": "Attackers can embed malicious instructions for AI agents in documentation",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/",
-    "published": "2026-03-25T20:50:59+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Attackers can embed malicious instructions for AI agents in documentation. What: Attackers can embed malicious instructions for AI agents in documentation. When: 2026-03-25T20:50:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers can embed malicious instructions for AI agents in documentation. ماذا: Attackers can embed malicious instructions for AI agents in documentation. متى: 2026-03-25T20:50:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2020/02/21/shutterstock_poison_pills.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/25/ai_agents_supply_chain_attack_context_hub/"
-    ]
-  },
-  {
-    "id": "b91a805856b62bf313b7abda",
-    "title": "Scammers have virtual smartphones on speed dial for fraud",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/",
-    "published": "2026-03-25T20:25:53+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Scammers have virtual smartphones on speed dial for fraud. What: Scammers have virtual smartphones on speed dial for fraud. When: 2026-03-25T20:25:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Scammers have virtual smartphones on speed dial for fraud. ماذا: Scammers have virtual smartphones on speed dial for fraud. متى: 2026-03-25T20:25:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2020/04/08/many_smartphones.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/"
-    ]
-  },
-  {
-    "id": "6a8afd36de59d6c2c47b4148",
-    "title": "Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon",
-    "link": "https://www.zdnet.com/article/dyson-v15-detect-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-25T20:20:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon. What: Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon. When: 2026-03-25T20:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon. ماذا: Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon. متى: 2026-03-25T20:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c28696d293511c0496bebd128c5702848479f89d/2026/03/25/46eaab33-3b92-4b99-86ba-b72d59beb8f3/untitled-design-2026-03-25t161925-817.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dyson-v15-detect-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "caac38b107a9919044cb7720",
-    "title": "Bubble AI app builder abused to steal Microsoft account credentials",
-    "link": "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/",
-    "published": "2026-03-25T19:48:36+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps.. What: Bubble AI app builder abused to steal Microsoft account credentials. When: 2026-03-25T19:48:36+00:00. How: Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps. Action: See Arabic action below.",
-    "summary_ar": "من: Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps.. ماذا: Bubble AI app builder abused to steal Microsoft account credentials. متى: 2026-03-25T19:48:36+00:00. كيف: Threat actors are evading phishing detection in campaigns targeting Microsoft accounts by abusing the no-code app-building platform Bubble to generate and host malicious web apps.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/phishing-bubble.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/"
-    ]
-  },
-  {
-    "id": "ca30bef6718f93b42f05079b",
-    "title": "Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/",
-    "published": "2026-03-25T19:39:29+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Ex-CISA boss also says no reason to panic about AI and security RSAC 2026 \"Everybody feels massive FOMO if they don't get to RSAC,\" Jen Easterly says.… Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year. What: Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year. When: 2026-03-25T19:39:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ex-CISA boss also says no reason to panic about AI and security RSAC 2026 \"Everybody feels massive FOMO if they don't get to RSAC,\" Jen Easterly says.… Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year. ماذا: Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year. متى: 2026-03-25T19:39:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/25/jen_easterly.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/"
     ]
   }
 ]
