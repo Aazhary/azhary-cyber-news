@@ -54,6 +54,313 @@
     ]
   },
   {
+    "id": "3705922b155e26816bd6d9f0",
+    "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+    "link": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+    "published": "2026-09-21T19:10:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “The Hugging Face incident is the responsibility of the OpenAI management, not a bunch of agents.\" He also referenced current and former OpenAI and Anthropic employees’ dire warnings about AI eradicating humanity by the end of the decade.. What: “When President Trump talked about appointing an AI czar, I think it is to put context, shape, and contours around these questions, and they're very important.\" Trump, over the weekend, announced he is “forming the AI Force, much like I did Space Force” – a reference to the new branch of the US military the president created in his first term.. When: 2026-09-21T19:10:53+00:00. How: Meanwhile, the model makers' proposed framework to slow AI development omits strict legal liability for damages caused by rogue systems. Action: See Arabic action below.",
+    "summary_ar": "من: “The Hugging Face incident is the responsibility of the OpenAI management, not a bunch of agents.\" He also referenced current and former OpenAI and Anthropic employees’ dire warnings about AI eradicating humanity by the end of the decade.. ماذا: “When President Trump talked about appointing an AI czar, I think it is to put context, shape, and contours around these questions, and they're very important.\" Trump, over the weekend, announced he is “forming the AI Force, much like I did Space Force” – a reference to the new branch of the US military the president created in his first term.. متى: 2026-09-21T19:10:53+00:00. كيف: Meanwhile, the model makers' proposed framework to slow AI development omits strict legal liability for damages caused by rogue systems.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965"
+    ]
+  },
+  {
+    "id": "d7973e7942dd43af3d8ccf63",
+    "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+    "published": "2026-09-21T18:23:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: WordPress Click2Shell flaw lets hackers execute PHP on the server. What: WordPress Click2Shell flaw lets hackers execute PHP on the server. When: 2026-09-21T18:23:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress Click2Shell flaw lets hackers execute PHP on the server. ماذا: WordPress Click2Shell flaw lets hackers execute PHP on the server. متى: 2026-09-21T18:23:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/WordPress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
+    ]
+  },
+  {
+    "id": "3729eed0ac751d6fbb176e40",
+    "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+    "published": "2026-09-21T17:54:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices.. What: Microsoft to retire Microsoft 365 Companion apps in December. When: 2026-09-21T17:54:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices.. ماذا: Microsoft to retire Microsoft 365 Companion apps in December. متى: 2026-09-21T17:54:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/05/Microsoft-365.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/"
+    ]
+  },
+  {
+    "id": "98fe946df30dd12793a090c4",
+    "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+    "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+    "published": "2026-09-21T17:31:01+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.. What: Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR. When: 2026-09-21T17:31:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.. ماذا: Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR. متى: 2026-09-21T17:31:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html"
+    ]
+  },
+  {
+    "id": "d37072722296eadf0bd8a2a0",
+    "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+    "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+    "published": "2026-09-21T17:19:53+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.. What: Google Hit With $463 Million Fine for EU Location Data Rule Breach. When: 2026-09-21T17:19:53+00:00. How: Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. Action: See Arabic action below.",
+    "summary_ar": "من: Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.. ماذا: Google Hit With $463 Million Fine for EU Location Data Rule Breach. متى: 2026-09-21T17:19:53+00:00. كيف: Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Google.jpeg",
+    "sources": [
+      "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/"
+    ]
+  },
+  {
+    "id": "1dcb430bc406c3fd538b77b7",
+    "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+    "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+    "published": "2026-09-21T17:19:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto. What: Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto. When: 2026-09-21T17:19:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto. ماذا: Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto. متى: 2026-09-21T17:19:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/contagious-interview-campaign.html"
+    ]
+  },
+  {
+    "id": "2a6260ae36a8474615d388d5",
+    "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+    "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+    "published": "2026-09-21T16:57:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.. What: Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months.. When: 2026-09-21T16:57:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google has been&nbsp;fined €403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.. ماذا: Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months.. متى: 2026-09-21T16:57:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjOPn27sYW7sjjV6-SlFPjlnnAtZ2bVGvrJRbbussed8ddYCwrRnmyIBKOsJy9p3QGdwzMuxmxhtyNvyPQD9u53V0T84o-Pi1Euo1SPlHX9DiaFzVby2cKpyfdma7mA0b4F1gqDCvjWBrk3n916K6Su1Y1TaJcOKXHsuzNn0cxOmVzlUK1NIjPtElIXM/s1600/google-location.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+    ]
+  },
+  {
+    "id": "4dcfcbe12f6f83b9a29449d7",
+    "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
+    "link": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
+    "published": "2026-09-21T16:07:21+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.. What: Claim up to $95 today from Apple’s Siri AI settlement – here’s how. When: 2026-09-21T16:07:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.. ماذا: Claim up to $95 today from Apple’s Siri AI settlement – here’s how. متى: 2026-09-21T16:07:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/622a165b-db60-4c0b-ad1c-e6c0aaa53c01.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/"
+    ]
+  },
+  {
+    "id": "d046944ddf74253cd71af104",
+    "title": "Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer",
+    "link": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+    "published": "2026-09-21T15:46:58+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer. What: Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer. When: 2026-09-21T15:46:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer. ماذا: Fake LastPass Installers Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer. متى: 2026-09-21T15:46:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/malware-infection.webp",
+    "sources": [
+      "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/"
+    ]
+  },
+  {
+    "id": "e6a784b7041bd45103044708",
+    "title": "Google fined €403 million over location data privacy violations",
+    "link": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+    "published": "2026-09-21T15:41:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data.. What: Google fined €403 million over location data privacy violations. When: 2026-09-21T15:41:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data.. ماذا: Google fined €403 million over location data privacy violations. متى: 2026-09-21T15:41:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/Google.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/"
+    ]
+  },
+  {
+    "id": "04103e30e21eaa64ed288b75",
+    "title": "Google Hit with €403m GDPR Fine Over Location Data Practices",
+    "link": "https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/",
+    "published": "2026-09-21T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: The Irish DPC found that Google users were unaware that their location was being used to influence them with ads Google Hit with €403m GDPR Fine Over Location Data Practices. What: Google Hit with €403m GDPR Fine Over Location Data Practices. When: 2026-09-21T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Irish DPC found that Google users were unaware that their location was being used to influence them with ads Google Hit with €403m GDPR Fine Over Location Data Practices. ماذا: Google Hit with €403m GDPR Fine Over Location Data Practices. متى: 2026-09-21T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/5c406ca5-ebad-48a6-9214-ad19bbebff41.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/"
+    ]
+  },
+  {
+    "id": "7ad1c982803a14054a5f6cac",
+    "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
+    "link": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
+    "published": "2026-09-21T14:47:19+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents. What: The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.. When: 2026-09-21T14:47:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents. ماذا: The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.. متى: 2026-09-21T14:47:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41e8b038eeab1c52/6ab128df417cfc426c650132/balance-balls-1800-sondem_Alamy-Stock-Photo.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents"
+    ]
+  },
+  {
+    "id": "81a650142c3f1ad29ace9cb3",
+    "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+    "published": "2026-09-21T14:42:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates.. What: Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates.. When: 2026-09-21T14:42:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates.. ماذا: Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates.. متى: 2026-09-21T14:42:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft-Excel.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/"
+    ]
+  },
+  {
+    "id": "317d6d1a2ef8ce883d9a5f63",
+    "title": "CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast",
+    "link": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+    "published": "2026-09-21T14:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast. What: CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast. When: 2026-09-21T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast. ماذا: CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast. متى: 2026-09-21T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/CISO_Noopur-Davis.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/"
+    ]
+  },
+  {
+    "id": "b5a1592bb0ace35c94d66bff",
+    "title": "New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code",
+    "link": "https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/",
+    "published": "2026-09-21T14:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code. What: Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code. When: 2026-09-21T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code. ماذا: Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic New Exvicy ClickFix Framework Built on Rival ErrTraffic's Code. متى: 2026-09-21T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/0105bfd9-7782-4354-a437-1255aa2cf2b2.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/exvicy-clickfix-framework/"
+    ]
+  },
+  {
+    "id": "5997c3e8371dff869745fdf8",
+    "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+    "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+    "published": "2026-09-21T14:24:13+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Even the research side is getting messy, with more findings, more automation, and not ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks. What: The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy.. When: 2026-09-21T14:24:13+00:00. How: Even the research side is getting messy, with more findings, more automation, and not ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks Action: See Arabic action below.",
+    "summary_ar": "من: Even the research side is getting messy, with more findings, more automation, and not ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks. ماذا: The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy.. متى: 2026-09-21T14:24:13+00:00. كيف: Even the research side is getting messy, with more findings, more automation, and not ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html"
+    ]
+  },
+  {
+    "id": "1554d5146d5bf90144657911",
+    "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+    "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+    "published": "2026-09-21T14:15:40+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data. What: Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.. When: 2026-09-21T14:15:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data. ماذا: Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.. متى: 2026-09-21T14:15:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html"
+    ]
+  },
+  {
     "id": "10a0c0121134e7a1ba457813",
     "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
     "link": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
@@ -1439,24 +1746,6 @@
     ]
   },
   {
-    "id": "b195acf073742003d90addbc",
-    "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-    "published": "2026-09-18T07:35:31+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.. What: Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.. When: 2026-09-18T07:35:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.. ماذا: Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update.. متى: 2026-09-18T07:35:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft_Excel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/"
-    ]
-  },
-  {
     "id": "6ce2b4a277854b1a78550c54",
     "title": "MIND Secures $72 Million for AI-Powered DLP",
     "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
@@ -2002,12 +2291,12 @@
   },
   {
     "id": "add245d425eeb8bcca648b85",
-    "title": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents",
+    "title": "The Odyssey and Trojans again: MovieReaper attacks users in multiple countries through compromised torrents",
     "link": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/",
     "published": "2026-09-17T13:00:53+00:00",
     "source": "securelist.com",
-    "summary_en": "Who: Kaspersky products detect this threat as HEUR:Trojan.Win64.Agent.gen.. What: For example, a user of a popular movie torrent tracker reported the following case on Reddit: Further analysis of the attack revealed that the threat actors did not compromise the torrent trackers themselves.. When: 2026-09-17T13:00:53+00:00. How: Our previous research has shown that cybercriminals repeatedly turn torrents as an initial infection vector, using trojanized cracks and installers to reach a large number of users. Action: See Arabic action below.",
-    "summary_ar": "من: Kaspersky products detect this threat as HEUR:Trojan.Win64.Agent.gen.. ماذا: For example, a user of a popular movie torrent tracker reported the following case on Reddit: Further analysis of the attack revealed that the threat actors did not compromise the torrent trackers themselves.. متى: 2026-09-17T13:00:53+00:00. كيف: Our previous research has shown that cybercriminals repeatedly turn torrents as an initial infection vector, using trojanized cracks and installers to reach a large number of users.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "summary_en": "Who: Kaspersky products detect this threat as HEUR:Trojan.Win64.Agent.gen.. What: For example, a user of a popular movie torrent tracker reported the following case on Reddit: Further analysis of the attack revealed that instead of compromising torrent trackers, the threat actor modified a widely used public repository of torrent files, itorrents[.]org .. When: 2026-09-17T13:00:53+00:00. How: Our previous research has shown that cybercriminals repeatedly turn to torrents as an initial infection vector, using trojanized cracks and installers to reach a large number of users. Action: See Arabic action below.",
+    "summary_ar": "من: Kaspersky products detect this threat as HEUR:Trojan.Win64.Agent.gen.. ماذا: For example, a user of a popular movie torrent tracker reported the following case on Reddit: Further analysis of the attack revealed that instead of compromising torrent trackers, the threat actor modified a widely used public repository of torrent files, itorrents[.]org .. متى: 2026-09-17T13:00:53+00:00. كيف: Our previous research has shown that cybercriminals repeatedly turn to torrents as an initial infection vector, using trojanized cracks and installers to reach a large number of users.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "category": "Threat/Attack",
     "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "cves": [],
@@ -148514,568 +148803,6 @@
     "image": "https://regmedia.co.uk/2026/03/25/jen_easterly.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/"
-    ]
-  },
-  {
-    "id": "d5fb950c396a0d29d14a315c",
-    "title": "Only Trump can decide when cyberwar turns into real war",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/whats_scarier_than_a_swarm/",
-    "published": "2026-03-25T18:55:14+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Only Trump can decide when cyberwar turns into real war. What: Only Trump can decide when cyberwar turns into real war. When: 2026-03-25T18:55:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Only Trump can decide when cyberwar turns into real war. ماذا: Only Trump can decide when cyberwar turns into real war. متى: 2026-03-25T18:55:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/25/rsac_nsa_directors_keynote.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/25/whats_scarier_than_a_swarm/"
-    ]
-  },
-  {
-    "id": "25f249e05a129c9fae826b9e",
-    "title": "The robot lawn mower I recommend most is $347 off for Amazon's Spring Sale",
-    "link": "https://www.zdnet.com/article/husqvarna-automower-430x-review/",
-    "published": "2026-03-25T18:51:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The robot lawn mower I recommend most is $347 off for Amazon's Spring Sale. What: The robot lawn mower I recommend most is $347 off for Amazon's Spring Sale. When: 2026-03-25T18:51:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The robot lawn mower I recommend most is $347 off for Amazon's Spring Sale. ماذا: The robot lawn mower I recommend most is $347 off for Amazon's Spring Sale. متى: 2026-03-25T18:51:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0de83fd394a9e0244f600c958cea228a80d078cf/2023/04/13/00c57104-0294-4b0a-9a27-717eeac2510c/automower-430x.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/husqvarna-automower-430x-review/"
-    ]
-  },
-  {
-    "id": "9eaf7420cd017bd500601011",
-    "title": "New Torg Grabber infostealer malware targets 728 crypto wallets",
-    "link": "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/",
-    "published": "2026-03-25T18:32:37+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New Torg Grabber infostealer malware targets 728 crypto wallets. What: New Torg Grabber infostealer malware targets 728 crypto wallets. When: 2026-03-25T18:32:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Torg Grabber infostealer malware targets 728 crypto wallets. ماذا: New Torg Grabber infostealer malware targets 728 crypto wallets. متى: 2026-03-25T18:32:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/09/03/data-theft.jpeg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/"
-    ]
-  },
-  {
-    "id": "ab3620a613e4cce861baca32",
-    "title": "What is antivirus software and do you still need it in 2026?",
-    "link": "https://www.zdnet.com/article/what-is-antivirus/",
-    "published": "2026-03-25T17:43:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: What is antivirus software and do you still need it in 2026?. What: What is antivirus software and do you still need it in 2026?. When: 2026-03-25T17:43:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: What is antivirus software and do you still need it in 2026?. ماذا: What is antivirus software and do you still need it in 2026?. متى: 2026-03-25T17:43:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c57051e4c40dcb76d8ce5f657891c30b5b86c70f/2026/03/25/8eeda016-d9b7-4fdc-b860-1a9cab3e3a94/gettyimages-1080843044.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-is-antivirus/"
-    ]
-  },
-  {
-    "id": "c8371a3b11a40adfb446899e",
-    "title": "Sony's latest headphones are the only ones I'd splurge on (and they're on sale)",
-    "link": "https://www.zdnet.com/article/sony-wh1000xm6-amazon-spring-sale-2026/",
-    "published": "2026-03-25T17:39:56+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Sony's latest headphones are the only ones I'd splurge on (and they're on sale). What: Sony's latest headphones are the only ones I'd splurge on (and they're on sale). When: 2026-03-25T17:39:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sony's latest headphones are the only ones I'd splurge on (and they're on sale). ماذا: Sony's latest headphones are the only ones I'd splurge on (and they're on sale). متى: 2026-03-25T17:39:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/38594589504d2bdb95ab0b154b72b2963ca8b4b0/2025/05/14/584ffa6b-08db-4cf2-8eb7-2b5214f107ef/xm6-8.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-wh1000xm6-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "1df093fc754921683cb7292c",
-    "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-    "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html",
-    "published": "2026-03-25T17:35:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace. What: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.. When: 2026-03-25T17:35:00+00:00. How: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. Action: See Arabic action below.",
-    "summary_ar": "من: LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace. ماذا: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.. متى: 2026-03-25T17:35:00+00:00. كيف: The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9UqvCgUXI-P9n0pHIj0a2d6gtlUe5ioSOzReAYnBthLWrwGhD0B9EKIlrrhiA8gsF61npoVKP8y1HftTKWD9xgTg0qBOHw2N3qn0Gak0BUAV9Jt2s8BmhzR9cLjOE5ynzKm8obB3G-fECJQ3bN1G8GVv2wgyKkLZ5JpYQKUyuVtTa2z27pHL9IN-th1k/s1600/leakbase.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"
-    ]
-  },
-  {
-    "id": "b93a1152ab57d24180555ac3",
-    "title": "I cracked open cheap charging gadgets from Temu - and it was worse than I expected",
-    "link": "https://www.zdnet.com/article/temu-charging-gadgets-teardown-safety-concerns/",
-    "published": "2026-03-25T17:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I cracked open cheap charging gadgets from Temu - and it was worse than I expected. What: I cracked open cheap charging gadgets from Temu - and it was worse than I expected. When: 2026-03-25T17:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I cracked open cheap charging gadgets from Temu - and it was worse than I expected. ماذا: I cracked open cheap charging gadgets from Temu - and it was worse than I expected. متى: 2026-03-25T17:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cc407657606e5917c091c38d0b1488b89c96c411/2026/03/22/54b8ef58-908d-48ab-a20d-a10e1f2fac73/img-3078.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/temu-charging-gadgets-teardown-safety-concerns/"
-    ]
-  },
-  {
-    "id": "55a5200b74d10b6ea89bfc72",
-    "title": "This Anker portable power station will keep your devices running during an outage - and it's 46% off",
-    "link": "https://www.zdnet.com/article/anker-solix-c1000-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-25T17:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This Anker portable power station will keep your devices running during an outage - and it's 46% off. What: This Anker portable power station will keep your devices running during an outage - and it's 46% off. When: 2026-03-25T17:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This Anker portable power station will keep your devices running during an outage - and it's 46% off. ماذا: This Anker portable power station will keep your devices running during an outage - and it's 46% off. متى: 2026-03-25T17:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f17aa0914fc4edc207bfa4299de2a0a0dd0828a8/2026/03/25/42df8c1f-34b1-4635-be20-b94445ab8159/anker-solix-c1000.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anker-solix-c1000-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "f7a3dc1ee224061a2abab37a",
-    "title": "This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale",
-    "link": "https://www.zdnet.com/article/airfly-pro-2-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-25T16:51:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale. What: This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale. When: 2026-03-25T16:51:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale. ماذا: This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale. متى: 2026-03-25T16:51:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/aa52de6de9c15dedcedfadc798be2aea293ac40a/2026/03/25/0d08544e-b8df-4e94-bd4b-ee741503a093/screenshot-2026-03-25-at-12-40-46-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airfly-pro-2-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "cd03c5a8e4c870877d82085f",
-    "title": "Not sold on the MacBook Neo? This premium Chromebook has an OLED and 2x the RAM for $599",
-    "link": "https://www.zdnet.com/article/lenovo-chromebook-plus-14-amazon-spring-sale-2026/",
-    "published": "2026-03-25T16:37:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Not sold on the MacBook Neo? This premium Chromebook has an OLED and 2x the RAM for $599. What: Not sold on the MacBook Neo? This premium Chromebook has an OLED and 2x the RAM for $599. When: 2026-03-25T16:37:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Not sold on the MacBook Neo? This premium Chromebook has an OLED and 2x the RAM for $599. ماذا: Not sold on the MacBook Neo? This premium Chromebook has an OLED and 2x the RAM for $599. متى: 2026-03-25T16:37:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c42796a4e84f4ed98b1753aa84676e5d48ce9ba4/2025/06/26/8a7fecf4-5736-42ad-9839-a0607fb4f095/img-2898.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lenovo-chromebook-plus-14-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "22246025a501fa5c184075cc",
-    "title": "Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux",
-    "link": "https://www.zdnet.com/article/wine-11-linux-gaming-windows-switch/",
-    "published": "2026-03-25T16:15:54+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux. What: Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux. When: 2026-03-25T16:15:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux. ماذا: Wine 11 might be the tipping point that finally pushes gamers from Windows to Linux. متى: 2026-03-25T16:15:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1d80d73202590343ac1213b7ccad4c2db7ec6bdb/2026/03/25/01177ed7-eb6c-4f0d-9f1f-b0beea586331/gettyimages-534969766.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wine-11-linux-gaming-windows-switch/"
-    ]
-  },
-  {
-    "id": "cc877a2bb46445461d517fb3",
-    "title": "5 ways to use AI when your budget is tight",
-    "link": "https://www.zdnet.com/article/how-to-use-ai-on-a-budget-professonals/",
-    "published": "2026-03-25T16:08:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 ways to use AI when your budget is tight. What: 5 ways to use AI when your budget is tight. When: 2026-03-25T16:08:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 ways to use AI when your budget is tight. ماذا: 5 ways to use AI when your budget is tight. متى: 2026-03-25T16:08:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5870da42fbfd9a159c51b4de1c36360d8ba349bd/2026/03/25/871bf875-49be-48c6-9083-007e3acebcf4/gettyimages-1503994217.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-use-ai-on-a-budget-professonals/"
-    ]
-  },
-  {
-    "id": "85cddfdfbc5763440f433c48",
-    "title": "Cloud Phones Linked to Rising Financial Fraud Threat",
-    "link": "https://www.infosecurity-magazine.com/news/cloud-phones-financial-fraud/",
-    "published": "2026-03-25T16:05:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Cloud Phones Linked to Rising Financial Fraud Threat. What: Cloud Phones Linked to Rising Financial Fraud Threat. When: 2026-03-25T16:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cloud Phones Linked to Rising Financial Fraud Threat. ماذا: Cloud Phones Linked to Rising Financial Fraud Threat. متى: 2026-03-25T16:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/38422af4-0906-4749-ae60-4c6802024ad1.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/cloud-phones-financial-fraud/"
-    ]
-  },
-  {
-    "id": "30faa2217fbb7499a6936d78",
-    "title": "Blame Game: Why Public Cyber Attribution Carries Risks",
-    "link": "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks",
-    "published": "2026-03-25T16:03:29+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Blame Game: Why Public Cyber Attribution Carries Risks. What: Blame Game: Why Public Cyber Attribution Carries Risks. When: 2026-03-25T16:03:29+00:00. How: Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge. Action: See Arabic action below.",
-    "summary_ar": "من: Blame Game: Why Public Cyber Attribution Carries Risks. ماذا: Blame Game: Why Public Cyber Attribution Carries Risks. متى: 2026-03-25T16:03:29+00:00. كيف: Publicly accusing an entity of a cyberattack could have negative consequences that organizations should consider before taking the plunge.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/blame-game-public-cyber-attribution-risks"
-    ]
-  },
-  {
-    "id": "224fc26e0b6963eea38a4cad",
-    "title": "This tiny device quietly monitors your home for electrical hazards - and it's on sale",
-    "link": "https://www.zdnet.com/article/ting-smart-sensor-review/",
-    "published": "2026-03-25T16:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This tiny device quietly monitors your home for electrical hazards - and it's on sale. What: This tiny device quietly monitors your home for electrical hazards - and it's on sale. When: 2026-03-25T16:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This tiny device quietly monitors your home for electrical hazards - and it's on sale. ماذا: This tiny device quietly monitors your home for electrical hazards - and it's on sale. متى: 2026-03-25T16:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/09c1a0fcb3cf41f2284ca65af537c3de534cd2b2/2025/07/23/b3e62408-25a9-41a1-b3e1-064e7f6e9266/ting.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ting-smart-sensor-review/"
-    ]
-  },
-  {
-    "id": "0cdff3b95f4f982dd63b20ee",
-    "title": "Stop telling AI your secrets - 5 reasons why, and what to do if you already overshared",
-    "link": "https://www.zdnet.com/article/6-reasons-you-should-be-more-tight-lipped-with-your-chatbot/",
-    "published": "2026-03-25T16:00:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Stop telling AI your secrets - 5 reasons why, and what to do if you already overshared. What: Stop telling AI your secrets - 5 reasons why, and what to do if you already overshared. When: 2026-03-25T16:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Stop telling AI your secrets - 5 reasons why, and what to do if you already overshared. ماذا: Stop telling AI your secrets - 5 reasons why, and what to do if you already overshared. متى: 2026-03-25T16:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/47972cf172522251d5b86fb6707169f0b9662c2f/2026/03/25/b94019ea-e54f-4b36-9c33-5a520e1a280a/gettyimages-128130882.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/6-reasons-you-should-be-more-tight-lipped-with-your-chatbot/"
-    ]
-  },
-  {
-    "id": "4f695737bbb620387afb5122",
-    "title": "Sony's new theater system lets you upgrade your TV setup gradually - how it works",
-    "link": "https://www.zdnet.com/article/sony-new-bravia-home-theater-system-2026/",
-    "published": "2026-03-25T16:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Sony's new theater system lets you upgrade your TV setup gradually - how it works. What: Sony's new theater system lets you upgrade your TV setup gradually - how it works. When: 2026-03-25T16:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sony's new theater system lets you upgrade your TV setup gradually - how it works. ماذا: Sony's new theater system lets you upgrade your TV setup gradually - how it works. متى: 2026-03-25T16:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/848fc1e170e7bec108f36532429681de7ea033bd/2026/03/25/53f54e35-cfef-4c3b-a02c-9f08865626bd/bar7-fin.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-new-bravia-home-theater-system-2026/"
-    ]
-  },
-  {
-    "id": "7248d99f0cf74d9e32d9a78a",
-    "title": "Onit Security Raises $11 Million for Exposure Management Platform",
-    "link": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
-    "published": "2026-03-25T15:58:16+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Onit Security Raises $11 Million for Exposure Management Platform. What: Onit Security Raises $11 Million for Exposure Management Platform. When: 2026-03-25T15:58:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Onit Security Raises $11 Million for Exposure Management Platform. ماذا: Onit Security Raises $11 Million for Exposure Management Platform. متى: 2026-03-25T15:58:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
-      "https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/",
-      "https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/",
-      "https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/",
-      "https://www.securityweek.com/flare-raises-30-million-for-threat-exposure-management-platform/"
-    ]
-  },
-  {
-    "id": "13e0c462f1509e14ba21f7a3",
-    "title": "This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale",
-    "link": "https://www.zdnet.com/article/samsung-essential-s3-monitor-amazon-spring-sale-2026/",
-    "published": "2026-03-25T15:56:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale. What: This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale. When: 2026-03-25T15:56:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale. ماذا: This 24-inch Samsung monitor is less than $100 during the Amazon Spring Sale. متى: 2026-03-25T15:56:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b5281698a839530591be7cc4b9c09ddffcaebdcf/2026/03/25/d47c1015-99c7-40f3-b29a-0511d5c509d8/samsung-essential-s3-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-essential-s3-monitor-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "c233f395363f4da747227a00",
-    "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-    "link": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/",
-    "published": "2026-03-25T15:49:17+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Google is dramatically shortening its readiness deadline for the arrival of Q Day, the point at which existing quantum computers can break public-key cryptography algorithms that secure decades' worth of secrets belonging to militaries, banks, governments, and nearly every individual on earth.. What: Google bumps up Q Day deadline to 2029, far sooner than previously thought. When: 2026-03-25T15:49:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google is dramatically shortening its readiness deadline for the arrival of Q Day, the point at which existing quantum computers can break public-key cryptography algorithms that secure decades' worth of secrets belonging to militaries, banks, governments, and nearly every individual on earth.. ماذا: Google bumps up Q Day deadline to 2029, far sooner than previously thought. متى: 2026-03-25T15:49:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
-    ]
-  },
-  {
-    "id": "07761239d0727b96981cde82",
-    "title": "How to delete your personal info from the internet (while saving money)",
-    "link": "https://www.zdnet.com/article/amazon-spring-sale-2026-data-removal-services/",
-    "published": "2026-03-25T15:47:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to delete your personal info from the internet (while saving money). What: How to delete your personal info from the internet (while saving money). When: 2026-03-25T15:47:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to delete your personal info from the internet (while saving money). ماذا: How to delete your personal info from the internet (while saving money). متى: 2026-03-25T15:47:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9d2aaf6c2736635a606b094ac734aa8808be185a/2026/03/19/8332f499-2ae3-4e73-b59b-1d5901ae53ae/optery-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-spring-sale-2026-data-removal-services/"
-    ]
-  },
-  {
-    "id": "0c50730af101fe0fdae4c933",
-    "title": "Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne",
-    "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-id-industrial-scale/",
-    "published": "2026-03-25T15:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne. What: Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne. When: 2026-03-25T15:30:00+00:00. How: Cybersecurity company’s annual report issues warning over a “mass-marketed impersonation crisis” over attackers abusing legitimate credentials Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne. ماذا: Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne. متى: 2026-03-25T15:30:00+00:00. كيف: Cybersecurity company’s annual report issues warning over a “mass-marketed impersonation crisis” over attackers abusing legitimate credentials Hackers Exploit Compromised Enterprise Identities at Industrial Scale, Warns SentinelOne. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/fc81fc21-750e-40b0-8b1e-e298f1a11763.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/hackers-exploit-id-industrial-scale/"
-    ]
-  },
-  {
-    "id": "9708877f0796e6a0eabd5146",
-    "title": "5 telltale signs that your phone has been compromised (and how to combat them)",
-    "link": "https://www.zdnet.com/article/5-warning-signs-your-phone-has-been-hacked/",
-    "published": "2026-03-25T15:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 telltale signs that your phone has been compromised (and how to combat them). What: 5 telltale signs that your phone has been compromised (and how to combat them). When: 2026-03-25T15:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 telltale signs that your phone has been compromised (and how to combat them). ماذا: 5 telltale signs that your phone has been compromised (and how to combat them). متى: 2026-03-25T15:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/50ecc990f2f6d3642b19dfd4a93dd3222b52c226/2026/03/24/c00b0e17-5040-4087-8107-9f9fea61488b/dsc09910.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-warning-signs-your-phone-has-been-hacked/"
-    ]
-  },
-  {
-    "id": "395305fbccfa92901a52fe08",
-    "title": "RayNeo's Air 4 Pro are the best cheap XR glasses we've tried - and they're on sale",
-    "link": "https://www.zdnet.com/article/rayneo-air-4-pro-glasses-amazon-spring-sale-2026/",
-    "published": "2026-03-25T15:07:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: RayNeo's Air 4 Pro are the best cheap XR glasses we've tried - and they're on sale. What: RayNeo's Air 4 Pro are the best cheap XR glasses we've tried - and they're on sale. When: 2026-03-25T15:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: RayNeo's Air 4 Pro are the best cheap XR glasses we've tried - and they're on sale. ماذا: RayNeo's Air 4 Pro are the best cheap XR glasses we've tried - and they're on sale. متى: 2026-03-25T15:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bb396038bd7a547c613f8203a432f0d86b0464ca/2026/01/06/05b4aeec-4b88-4a71-96c9-9d936b6c0b35/dsc08896.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/rayneo-air-4-pro-glasses-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "27b7cb644b3a195d8db9d225",
-    "title": "Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam",
-    "published": "2026-03-25T15:05:52+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam. What: Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam. When: 2026-03-25T15:05:52+00:00. How: A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles. Action: See Arabic action below.",
-    "summary_ar": "من: Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam. ماذا: Phishers Pose as Palo Alto Networks' Recruiters for Months in Job Scam. متى: 2026-03-25T15:05:52+00:00. كيف: A series of campaigns that began in August aim to defraud job candidates, using psychological tactics and data scraped from LinkedIn profiles.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/phishers-pose-palo-alto-networks-recruiters-job-scam"
-    ]
-  },
-  {
-    "id": "602b73b7649a6533b6c78fbb",
-    "title": "AI Dominates RSAC Innovation Sandbox",
-    "link": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
-    "published": "2026-03-25T15:03:45+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: AI Dominates RSAC Innovation Sandbox. What: AI Dominates RSAC Innovation Sandbox. When: 2026-03-25T15:03:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Dominates RSAC Innovation Sandbox. ماذا: AI Dominates RSAC Innovation Sandbox. متى: 2026-03-25T15:03:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox"
-    ]
-  },
-  {
-    "id": "d6e1e2bcaef5ea405148b7d2",
-    "title": "I turned casual selfies into professional headshots with Gemini - and the results blew me away",
-    "link": "https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/",
-    "published": "2026-03-25T14:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I turned casual selfies into professional headshots with Gemini - and the results blew me away. What: I turned casual selfies into professional headshots with Gemini - and the results blew me away. When: 2026-03-25T14:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I turned casual selfies into professional headshots with Gemini - and the results blew me away. ماذا: I turned casual selfies into professional headshots with Gemini - and the results blew me away. متى: 2026-03-25T14:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/15149acb7025c7b89ab99d7b201b5a6b845bb5da/2026/03/25/0742aba7-9279-4d7f-b97e-4fa3b0ad91bc/gemini-headshots-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/"
-    ]
-  },
-  {
-    "id": "c5d9e938e19c450a27bf1178",
-    "title": "SANS: Top 5 Most Dangerous New Attack Techniques to Watch",
-    "link": "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques",
-    "published": "2026-03-25T14:40:33+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: SANS: Top 5 Most Dangerous New Attack Techniques to Watch. What: SANS: Top 5 Most Dangerous New Attack Techniques to Watch. When: 2026-03-25T14:40:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: SANS: Top 5 Most Dangerous New Attack Techniques to Watch. ماذا: SANS: Top 5 Most Dangerous New Attack Techniques to Watch. متى: 2026-03-25T14:40:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/sans-most-dangerous-attack-techniques"
-    ]
-  },
-  {
-    "id": "09a31fcb611af1e245705e60",
-    "title": "The Sony Bravia 8 II is one of our most-recommended TVs - and it's nearly 50% off at Amazon",
-    "link": "https://www.zdnet.com/article/sony-bravia-8-ii-deal-amazon-big-spring-sale-2026/",
-    "published": "2026-03-25T14:30:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Sony Bravia 8 II is one of our most-recommended TVs - and it's nearly 50% off at Amazon. What: The Sony Bravia 8 II is one of our most-recommended TVs - and it's nearly 50% off at Amazon. When: 2026-03-25T14:30:46+00:00. How: Sony's Bravia 8 II is worth every penny of its retail price, but it's even better when you can snag one for this much off. Action: See Arabic action below.",
-    "summary_ar": "من: The Sony Bravia 8 II is one of our most-recommended TVs - and it's nearly 50% off at Amazon. ماذا: The Sony Bravia 8 II is one of our most-recommended TVs - and it's nearly 50% off at Amazon. متى: 2026-03-25T14:30:46+00:00. كيف: Sony's Bravia 8 II is worth every penny of its retail price, but it's even better when you can snag one for this much off.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2c77ee6fb3734a8a7063df78482135afc2ddb13b/2025/09/12/01ad0f8a-9d17-4ac6-9089-641aaff4a298/sony-bravia-8-mark-ii-65-inch-2025-06.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-bravia-8-ii-deal-amazon-big-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "fb933ee3c278b2a816dd1a7b",
-    "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
-    "link": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
-    "published": "2026-03-25T14:30:32+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Russian Cybercriminal Gets 2-Year Prison Sentence in US. What: Russian Cybercriminal Gets 2-Year Prison Sentence in US. When: 2026-03-25T14:30:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russian Cybercriminal Gets 2-Year Prison Sentence in US. ماذا: Russian Cybercriminal Gets 2-Year Prison Sentence in US. متى: 2026-03-25T14:30:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/"
-    ]
-  },
-  {
-    "id": "1479b8373f9b8ed291d50a83",
-    "title": "GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data",
-    "link": "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html",
-    "published": "2026-03-25T14:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.. What: GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data. When: 2026-03-25T14:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have flagged a new evolution of the GlassWorm campaign that delivers a multi-stage framework capable of comprehensive data theft and installing a remote access trojan (RAT), which deploys an information-stealing Google Chrome extension masquerading as an offline version of Google Docs.. ماذا: GlassWorm Malware Uses Solana Dead Drops to Deliver RAT and Steal Browser, Crypto Data. متى: 2026-03-25T14:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvLAu4RdpX-vvdNOKVtvqBhpnDMoSdpatgQ3X32zeCmcAhOUZxJo37kHAf-0sBO3tTY8Pc6i4Jr9CWHwZ1nR7ikRy86CVMizlgDH40OF0kr3P7otHCE9-3ghivGFG1bBoRrWsW-gD-OAqt7DI6pRuPA_NtnUkoQbW_FPB1NdgNmQwdhiFLqiWo1dHnsu2P/s1600/main-s.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/glassworm-malware-uses-solana-dead.html"
     ]
   }
 ]
