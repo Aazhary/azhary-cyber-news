@@ -54,6 +54,132 @@
     ]
   },
   {
+    "id": "e37c24c05934b869d1e04a7f",
+    "title": "Rogue external MFA providers can steal passwords during logins",
+    "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+    "published": "2026-09-22T21:45:45+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Rogue external MFA providers can steal passwords during logins. What: Rogue external MFA providers can steal passwords during logins. When: 2026-09-22T21:45:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Rogue external MFA providers can steal passwords during logins. ماذا: Rogue external MFA providers can steal passwords during logins. متى: 2026-09-22T21:45:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/09/19/MFA.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/"
+    ]
+  },
+  {
+    "id": "d9492125df20bf2fe01ee1f1",
+    "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+    "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+    "published": "2026-09-22T21:40:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Sweden fines Miljödata $183,000 over breach affecting 2.2 million. What: Sweden fines Miljödata $183,000 over breach affecting 2.2 million. When: 2026-09-22T21:40:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Sweden fines Miljödata $183,000 over breach affecting 2.2 million. ماذا: Sweden fines Miljödata $183,000 over breach affecting 2.2 million. متى: 2026-09-22T21:40:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/27/sweden.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/"
+    ]
+  },
+  {
+    "id": "bdc6b949fce849805502a45c",
+    "title": "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+    "link": "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+    "published": "2026-09-22T21:33:29+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A new Windows malware called CLOSEDQUORUM can query up to four LLM providers - Google Gemini, DeepSeek, Qwen, and Mistral - to autonomously select from predefined post-compromise actions, including stealing users’ credentials and cryptocurrency wallets.. What: Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions. When: 2026-09-22T21:33:29+00:00. How: Talos discovered the binary with its new CAIRN (Cognitive Artifact Intelligence Research Network) toolkit for hunting, classifying, and tracking emerging AI-integrated malware, which the security shop also made available as an open source repository on Tuesday. Action: See Arabic action below.",
+    "summary_ar": "من: A new Windows malware called CLOSEDQUORUM can query up to four LLM providers - Google Gemini, DeepSeek, Qwen, and Mistral - to autonomously select from predefined post-compromise actions, including stealing users’ credentials and cryptocurrency wallets.. ماذا: Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions. متى: 2026-09-22T21:33:29+00:00. كيف: Talos discovered the binary with its new CAIRN (Cognitive Artifact Intelligence Research Network) toolkit for hunting, classifying, and tracking emerging AI-integrated malware, which the security shop also made available as an open source repository on Tuesday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298442.jpg?imageId=5298442&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435"
+    ]
+  },
+  {
+    "id": "f75ef52960e167ac04354ec4",
+    "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+    "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+    "published": "2026-09-22T21:12:37+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Relays Are Masking Chinese Access to Frontier AI Models in the US. What: Relays Are Masking Chinese Access to Frontier AI Models in the US. When: 2026-09-22T21:12:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Relays Are Masking Chinese Access to Frontier AI Models in the US. ماذا: Relays Are Masking Chinese Access to Frontier AI Models in the US. متى: 2026-09-22T21:12:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d51b19d4c1fd6ff/6ab2e505f707d04dc9ded8c1/proxy_Josie_Elias_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models"
+    ]
+  },
+  {
+    "id": "6a783479a6e49b7b493d93bd",
+    "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+    "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+    "published": "2026-09-22T20:35:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data. What: Chinese hackers exploit WordPress, Zyxel flaws to steal govt data. When: 2026-09-22T20:35:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data. ماذا: Chinese hackers exploit WordPress, Zyxel flaws to steal govt data. متى: 2026-09-22T20:35:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/05/chinese-hacker-flag.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/"
+    ]
+  },
+  {
+    "id": "da2613f7ae841eae1b9c2463",
+    "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+    "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+    "published": "2026-09-22T20:02:02+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.. What: Microsoft Disrupts EvilTokens Device Code Phishing Service. When: 2026-09-22T20:02:02+00:00. How: Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.. ماذا: Microsoft Disrupts EvilTokens Device Code Phishing Service. متى: 2026-09-22T20:02:02+00:00. كيف: Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3163f248ce2f1013/6ab2d46dc8295fafe642a234/skull_coins-breakermaximus-GettyImages-2092767456.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
+    ]
+  },
+  {
+    "id": "69bd5b227657faccb6a82f66",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "published": "2026-09-22T19:45:47+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span.. What: Microsoft disrupts AI-assisted platform that compromised 12,000 accounts. When: 2026-09-22T19:45:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft said Tuesday that it led an industry-wide disruption of a subscription-based scam platform that used an AI chatbot to compromise 12,000 Microsoft accounts over a few-month span.. ماذا: Microsoft disrupts AI-assisted platform that compromised 12,000 accounts. متى: 2026-09-22T19:45:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+    ]
+  },
+  {
     "id": "69879410fc78a38e5f3ce557",
     "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
@@ -189,6 +315,24 @@
     ]
   },
   {
+    "id": "86731cd95e8f895bf33d229e",
+    "title": "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+    "link": "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+    "published": "2026-09-22T17:24:13+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers.. What: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers.. When: 2026-09-22T17:24:13+00:00. How: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers. Action: See Arabic action below.",
+    "summary_ar": "من: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers.. ماذا: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers.. متى: 2026-09-22T17:24:13+00:00. كيف: According to a ShinyHunters spokesperson, the extortion group exploited an Oracle PeopleSoft zero-day vulnerability on the FBI jobs webpage, which it says allowed remote code execution (RCE) on the servers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298402.jpg?imageId=5298402&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385"
+    ]
+  },
+  {
     "id": "4e315a001d19e9f60ea656e1",
     "title": "Reducing shadow IT visibility gaps with Wazuh",
     "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
@@ -263,6 +407,24 @@
     ]
   },
   {
+    "id": "60ade2ea554680c78d6ff8c8",
+    "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
+    "link": "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320",
+    "published": "2026-09-22T16:36:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Serial Microsoft zero-day leaker NightmareEclipse has found another way to mess with Windows Defender, this time by stopping the antivirus from updating itself.. What: The security researcher, also known as Abdelhamid Naceri, released a proof-of-concept dubbed “BigDiskBuster” that is designed to prevent Microsoft Defender Antivirus from installing platform and security intelligence updates.. When: 2026-09-22T16:36:00+00:00. How: Serial Microsoft zero-day leaker NightmareEclipse has found another way to mess with Windows Defender, this time by stopping the antivirus from updating itself. Action: See Arabic action below.",
+    "summary_ar": "من: Serial Microsoft zero-day leaker NightmareEclipse has found another way to mess with Windows Defender, this time by stopping the antivirus from updating itself.. ماذا: The security researcher, also known as Abdelhamid Naceri, released a proof-of-concept dubbed “BigDiskBuster” that is designed to prevent Microsoft Defender Antivirus from installing platform and security intelligence updates.. متى: 2026-09-22T16:36:00+00:00. كيف: Serial Microsoft zero-day leaker NightmareEclipse has found another way to mess with Windows Defender, this time by stopping the antivirus from updating itself.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5295963.jpg?imageId=5295963&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320"
+    ]
+  },
+  {
     "id": "60c73829357487ff9977bb8e",
     "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
     "link": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
@@ -296,6 +458,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
+    ]
+  },
+  {
+    "id": "92471988f3ac71c3945af97f",
+    "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+    "link": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+    "published": "2026-09-22T15:59:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: ZCode also open sourced the entire project on GitHub, “placing the code under community scrutiny and making ZCode more open and transparent.” “Once again, we sincerely apologize and welcome continued scrutiny from the community.. What: ZCode released a statement on Monday apologizing for the “security issues” and confirming the data it uploaded had never been used to train its models.. When: 2026-09-22T15:59:00+00:00. How: ZCode also open sourced the entire project on GitHub, “placing the code under community scrutiny and making ZCode more open and transparent.” “Once again, we sincerely apologize and welcome continued scrutiny from the community. Action: See Arabic action below.",
+    "summary_ar": "من: ZCode also open sourced the entire project on GitHub, “placing the code under community scrutiny and making ZCode more open and transparent.” “Once again, we sincerely apologize and welcome continued scrutiny from the community.. ماذا: ZCode released a statement on Monday apologizing for the “security issues” and confirming the data it uploaded had never been used to train its models.. متى: 2026-09-22T15:59:00+00:00. كيف: ZCode also open sourced the entire project on GitHub, “placing the code under community scrutiny and making ZCode more open and transparent.” “Once again, we sincerely apologize and welcome continued scrutiny from the community.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5254719.jpg?imageId=5254719&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300"
     ]
   },
   {
@@ -148205,132 +148385,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b7bb9a81f2f3e6051b9101ba2440d2c4ad0d0054/2024/01/31/6720dab7-f405-4321-8729-04a2cf51313d/keychain-tools.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/10-tiny-gadgets-edc-tools-review/"
-    ]
-  },
-  {
-    "id": "b2160aeda0f45c313c902c8a",
-    "title": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government",
-    "link": "https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/",
-    "published": "2026-03-26T22:00:32+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government. What: Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government. When: 2026-03-26T22:00:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government. ماذا: Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government. متى: 2026-03-26T22:00:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/08_Nation-State-cyberattacks_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/"
-    ]
-  },
-  {
-    "id": "67cdf4daef802c3d9d23483a",
-    "title": "Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips",
-    "link": "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/",
-    "published": "2026-03-26T21:04:31+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips. What: P3 promises on its websites that \"your anonymity is protected at all times.\" But earlier this month, hackers calling themselves the, err, \"Internet Yiff Machine\" released 93GB of data that they claim was pilfered from P3's tip-taking system.. When: 2026-03-26T21:04:31+00:00. How: P3 Global Intel claims that it has \"quickly become the new standard in tip management for Crime Stoppers programs, [Law Enforcement Agencies], and government agencies helping to solve and prevent crimes around the world.\" Its software does what it says on the tin: It accepts tips from the general public and then manages conversations between law enforcement and the tipper. Action: See Arabic action below.",
-    "summary_ar": "من: Internet Yiff Machine: We hacked 93GB of \"anonymous\" crime tips. ماذا: P3 promises on its websites that \"your anonymity is protected at all times.\" But earlier this month, hackers calling themselves the, err, \"Internet Yiff Machine\" released 93GB of data that they claim was pilfered from P3's tip-taking system.. متى: 2026-03-26T21:04:31+00:00. كيف: P3 Global Intel claims that it has \"quickly become the new standard in tip management for Crime Stoppers programs, [Law Enforcement Agencies], and government agencies helping to solve and prevent crimes around the world.\" Its software does what it says on the tin: It accepts tips from the general public and then manages conversations between law enforcement and the tipper.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/p3-app-1152x648-1774557739.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/"
-    ]
-  },
-  {
-    "id": "51a4551aa21094d6b2ff6f43",
-    "title": "Ajax football club hack exposed fan data, enabled ticket hijack",
-    "link": "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/",
-    "published": "2026-03-26T20:37:25+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Ajax football club hack exposed fan data, enabled ticket hijack. What: Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people.. When: 2026-03-26T20:37:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ajax football club hack exposed fan data, enabled ticket hijack. ماذا: Dutch professional football club Ajax Amsterdam (AFC Ajax) disclosed that a hacker exploited vulnerabilities in its IT systems and accessed data belonging to a few hundred people.. متى: 2026-03-26T20:37:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/26/Ajax.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/ajax-football-club-hack-exposed-fan-data-enabled-ticket-hijack/"
-    ]
-  },
-  {
-    "id": "6ff75f274a8a16f41e952c0d",
-    "title": "One of our favorite TCL Mini-LED TVs just dropped under $1,000 at Amazon",
-    "link": "https://www.zdnet.com/article/tcl-qm8-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-26T20:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: One of our favorite TCL Mini-LED TVs just dropped under $1,000 at Amazon. What: One of our favorite TCL Mini-LED TVs just dropped under $1,000 at Amazon. When: 2026-03-26T20:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: One of our favorite TCL Mini-LED TVs just dropped under $1,000 at Amazon. ماذا: One of our favorite TCL Mini-LED TVs just dropped under $1,000 at Amazon. متى: 2026-03-26T20:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d12c868a5f0cdda489b8d389884ce3ac3c063c42/2024/07/03/6a3d76b3-fbe9-4e70-82d7-07a72c134589/tcl-qm8-65in-02.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/tcl-qm8-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "ea66934ac0c2689bf252b018",
-    "title": "Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits",
-    "link": "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits",
-    "published": "2026-03-26T19:56:41+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.. What: Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits. When: 2026-03-26T19:56:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Nation-state malware is being sold on the Dark Web and leaked to GitHub; and ordinary organizations might not stand much of a chance of defending themselves.. ماذا: Coruna, DarkSword &amp; Democratizing Nation-State Exploit Kits. متى: 2026-03-26T19:56:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/coruna-darksword-democratizing-nation-state-exploit-kits"
-    ]
-  },
-  {
-    "id": "de1ca0924437c8fc7095717c",
-    "title": "Is the FCC's Router Ban the Wrong Fix?",
-    "link": "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix",
-    "published": "2026-03-26T19:48:32+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Is the FCC's Router Ban the Wrong Fix?. What: Is the FCC's Router Ban the Wrong Fix?. When: 2026-03-26T19:48:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is the FCC's Router Ban the Wrong Fix?. ماذا: Is the FCC's Router Ban the Wrong Fix?. متى: 2026-03-26T19:48:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/fcc-router-ban-wrong-fix"
-    ]
-  },
-  {
-    "id": "5cb85f7288a2ae2b190ce802",
-    "title": "Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles",
-    "published": "2026-03-26T19:48:21+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles. What: Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles. When: 2026-03-26T19:48:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles. ماذا: Automotive Cybersecurity Threats Grow in Era of Connected, Autonomous Vehicles. متى: 2026-03-26T19:48:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles"
     ]
   }
 ]
