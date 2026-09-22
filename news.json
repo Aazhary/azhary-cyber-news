@@ -54,6 +54,251 @@
     ]
   },
   {
+    "id": "69879410fc78a38e5f3ce557",
+    "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+    "published": "2026-09-22T19:13:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants.. What: ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach. When: 2026-09-22T19:13:29+00:00. How: The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. Action: See Arabic action below.",
+    "summary_ar": "من: The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants.. ماذا: ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach. متى: 2026-09-22T19:13:29+00:00. كيف: The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/12/16/FBI__headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/"
+    ]
+  },
+  {
+    "id": "767190fea91564fad0783a00",
+    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+    "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+    "published": "2026-09-22T18:29:39+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks. What: Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.. When: 2026-09-22T18:29:39+00:00. How: Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks Action: See Arabic action below.",
+    "summary_ar": "من: Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks. ماذا: Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&nbsp;the company said.. متى: 2026-09-22T18:29:39+00:00. كيف: Check Point released a fix on September 22 for the server that controls firewall policies for the Check Point Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-21509",
+      "CVE-2026-58704",
+      "CVE-2026-6973",
+      "CVE-2026-93616"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+      "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
+      "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
+      "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/"
+    ]
+  },
+  {
+    "id": "e30c0cffbd325e1691f6c56e",
+    "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+    "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+    "published": "2026-09-22T18:04:39+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack.. What: New ClosedQuorum Windows malware uses AI for attack decisions. When: 2026-09-22T18:04:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack.. ماذا: New ClosedQuorum Windows malware uses AI for attack decisions. متى: 2026-09-22T18:04:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/21/Robot.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/"
+    ]
+  },
+  {
+    "id": "ddea315ed260eaafb320b477",
+    "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+    "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+    "published": "2026-09-22T18:03:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers. What: WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.. When: 2026-09-22T18:03:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers. ماذا: WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.. متى: 2026-09-22T18:03:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html"
+    ]
+  },
+  {
+    "id": "4c4975005e97cd7ce3f5e34d",
+    "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+    "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+    "published": "2026-09-22T17:58:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials. What: Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data.. When: 2026-09-22T17:58:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials. ماذا: Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data.. متى: 2026-09-22T17:58:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
+    ]
+  },
+  {
+    "id": "dace937c271171a59b5381cc",
+    "title": "BigCommerce Data Stolen via Ribon Apps Hack",
+    "link": "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+    "published": "2026-09-22T17:58:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: BigCommerce Data Stolen via Ribon Apps Hack. What: BigCommerce Data Stolen via Ribon Apps Hack. When: 2026-09-22T17:58:00+00:00. How: The attackers used a compromised BigCommerce application key held by Ribon to access customer data. Action: See Arabic action below.",
+    "summary_ar": "من: BigCommerce Data Stolen via Ribon Apps Hack. ماذا: BigCommerce Data Stolen via Ribon Apps Hack. متى: 2026-09-22T17:58:00+00:00. كيف: The attackers used a compromised BigCommerce application key held by Ribon to access customer data.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/12/blockchain-cryptocurrency-Solana.jpeg",
+    "sources": [
+      "https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/"
+    ]
+  },
+  {
+    "id": "8c4e4ffe7f8c0dfdcadf986d",
+    "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+    "published": "2026-09-22T17:32:49+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data. What: Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data. When: 2026-09-22T17:32:49+00:00. How: Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack. Action: See Arabic action below.",
+    "summary_ar": "من: Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data. ماذا: Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data. متى: 2026-09-22T17:32:49+00:00. كيف: Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69385daa466aeca3/6ab2586609bf6b1d17c9b926/sandworms_FlixPix_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+    ]
+  },
+  {
+    "id": "4e315a001d19e9f60ea656e1",
+    "title": "Reducing shadow IT visibility gaps with Wazuh",
+    "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+    "published": "2026-09-22T17:17:41+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Reducing shadow IT visibility gaps with Wazuh. What: Reducing shadow IT visibility gaps with Wazuh. When: 2026-09-22T17:17:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Reducing shadow IT visibility gaps with Wazuh. ماذا: Reducing shadow IT visibility gaps with Wazuh. متى: 2026-09-22T17:17:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/09/22/IMG_7712.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/"
+    ]
+  },
+  {
+    "id": "a089dce24e36ecc7de149d03",
+    "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
+    "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+    "published": "2026-09-22T17:12:26+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real. What: Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real. When: 2026-09-22T17:12:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real. ماذا: Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real. متى: 2026-09-22T17:12:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt120d94fd93398e39/6aac5bbc223abe3d28c993b3/AI-dangers-laptop-hands-Digineer_Station-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real"
+    ]
+  },
+  {
+    "id": "f069687e4a1d7fdbdacddbe1",
+    "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+    "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+    "published": "2026-09-22T17:03:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S.. What: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S.. When: 2026-09-22T17:03:31+00:00. How: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S.. ماذا: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S.. متى: 2026-09-22T17:03:31+00:00. كيف: Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html"
+    ]
+  },
+  {
+    "id": "375f4910d184ba60e89e2350",
+    "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+    "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+    "published": "2026-09-22T16:41:12+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials. What: Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials. When: 2026-09-22T16:41:12+00:00. How: A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials. ماذا: Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials. متى: 2026-09-22T16:41:12+00:00. كيف: A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-90898"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
+    ]
+  },
+  {
+    "id": "60c73829357487ff9977bb8e",
+    "title": "Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less",
+    "link": "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/",
+    "published": "2026-09-22T16:30:05+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less. What: Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less. When: 2026-09-22T16:30:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less. ماذا: Claude Opus 5.5 delivers Fable 5.1 performance – and costs 40% less. متى: 2026-09-22T16:30:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Opus-5.5.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/anthropic-claude-opus-5-5-fable-5-1-performance-costs-less/"
+    ]
+  },
+  {
+    "id": "d1d540cc10415e578fd67d2e",
+    "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+    "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+    "published": "2026-09-22T16:14:04+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.. What: Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates. When: 2026-09-22T16:14:04+00:00. How: A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19. Action: See Arabic action below.",
+    "summary_ar": "من: A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.. ماذا: Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates. متى: 2026-09-22T16:14:04+00:00. كيف: A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&nbsp;published on GitHub&nbsp;on September 19.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html"
+    ]
+  },
+  {
     "id": "bbe00974ebe14bb0ff318153",
     "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
     "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
@@ -725,12 +970,12 @@
   },
   {
     "id": "556946de78a2cd3db4cca65d",
-    "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+    "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
     "published": "2026-09-21T20:07:56+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: ShinyHunters Hacked Clop. Now What About Clop's Victims?. What: ShinyHunters Hacked Clop. Now What About Clop's Victims?. When: 2026-09-21T20:07:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ShinyHunters Hacked Clop. Now What About Clop's Victims?. ماذا: ShinyHunters Hacked Clop. Now What About Clop's Victims?. متى: 2026-09-21T20:07:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?. What: ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?. When: 2026-09-21T20:07:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?. ماذا: ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?. متى: 2026-09-21T20:07:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "General",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -4123,30 +4368,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html"
-    ]
-  },
-  {
-    "id": "38d13a60e2df0b8bd8855835",
-    "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
-    "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-    "published": "2026-09-16T13:10:54+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15.. What: Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15.. When: 2026-09-16T13:10:54+00:00. How: The post Pixel Modem Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15.. ماذا: Google announced patches for the exploited privilege escalation vulnerability (CVE-2026-58704) on September 15.. متى: 2026-09-16T13:10:54+00:00. كيف: The post Pixel Modem Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-21509",
-      "CVE-2026-58704",
-      "CVE-2026-6973"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Pixel-10.jpeg",
-    "sources": [
-      "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
-      "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
-      "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/"
     ]
   },
   {
@@ -12602,24 +12823,6 @@
     ]
   },
   {
-    "id": "868b93039e496fe831e0f64b",
-    "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
-    "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-    "published": "2026-09-03T12:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. What: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. When: 2026-09-03T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. ماذا: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. متى: 2026-09-03T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems"
-    ]
-  },
-  {
     "id": "f91d2e23772d89c01bb73c5f",
     "title": "US and Canadian Court Records Breached Following Thomson Reuters Incident",
     "link": "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/",
@@ -12635,6 +12838,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/94994b34-3392-4e4e-b92a-5e16ff62746d.jpeg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/us-canada-court-breach-thomson/"
+    ]
+  },
+  {
+    "id": "868b93039e496fe831e0f64b",
+    "title": "'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems",
+    "link": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+    "published": "2026-09-03T12:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. What: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. When: 2026-09-03T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. ماذا: 'Breeze Comet' Tears Into Brazilian &amp; Global Financial Systems. متى: 2026-09-03T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems"
     ]
   },
   {
@@ -148110,314 +148331,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/automotive-cybersecurity-threats-grow-connected-autonomous-vehicles"
-    ]
-  },
-  {
-    "id": "bddbcb1e1467b64e78f54b00",
-    "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/",
-    "published": "2026-03-26T19:17:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents.. What: [...] CISA: New Langflow flaw actively exploited to hijack AI workflows. When: 2026-03-26T19:17:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework for building AI agents.. ماذا: [...] CISA: New Langflow flaw actively exploited to hijack AI workflows. متى: 2026-03-26T19:17:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-33017"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/"
-    ]
-  },
-  {
-    "id": "40e94f773b50f0bfa293b284",
-    "title": "Critical Flaw in Langflow AI Platform Under Attack",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack",
-    "published": "2026-03-26T19:14:05+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Critical Flaw in Langflow AI Platform Under Attack. What: Critical Flaw in Langflow AI Platform Under Attack. When: 2026-03-26T19:14:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Flaw in Langflow AI Platform Under Attack. ماذا: Critical Flaw in Langflow AI Platform Under Attack. متى: 2026-03-26T19:14:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/critical-flaw-langflow-ai-platform-under-attack"
-    ]
-  },
-  {
-    "id": "77d155781a614a2b6ff1dcde",
-    "title": "I measured my stress levels while working with blue light glasses - and was surprised by the results",
-    "link": "https://www.zdnet.com/article/blue-light-glasses-cortisol-test-results/",
-    "published": "2026-03-26T18:46:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I measured my stress levels while working with blue light glasses - and was surprised by the results. What: I measured my stress levels while working with blue light glasses - and was surprised by the results. When: 2026-03-26T18:46:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I measured my stress levels while working with blue light glasses - and was surprised by the results. ماذا: I measured my stress levels while working with blue light glasses - and was surprised by the results. متى: 2026-03-26T18:46:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d0284f72d7daf272814a7dca294f78fc5fe23363/2026/03/24/ca8f6344-62fc-43a1-8218-68edfe29e8e5/img-3141.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/blue-light-glasses-cortisol-test-results/"
-    ]
-  },
-  {
-    "id": "1f2e05d870fbcfef1a44c725",
-    "title": "WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more)",
-    "link": "https://www.zdnet.com/article/whatsapp-easy-transfer-from-ios-to-android-multiple-iphone-accounts/",
-    "published": "2026-03-26T18:43:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more). What: WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more). When: 2026-03-26T18:43:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more). ماذا: WhatsApp's March update finally fixes the big iPhone-to-Android concern (and more). متى: 2026-03-26T18:43:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5733cb399455b1845637face83dd088c3bb071c7/2026/03/26/4f16b879-3033-4151-b535-9404e655be2d/111whatsappgettyimages-1048818328.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/whatsapp-easy-transfer-from-ios-to-android-multiple-iphone-accounts/"
-    ]
-  },
-  {
-    "id": "7910ba81dd70054bc4cf93ac",
-    "title": "10 Amazon Spring Sale car gadget deals that are worth every penny",
-    "link": "https://www.zdnet.com/article/car-gadgets-amazon-spring-sale-2026/",
-    "published": "2026-03-26T18:38:08+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 10 Amazon Spring Sale car gadget deals that are worth every penny. What: 10 Amazon Spring Sale car gadget deals that are worth every penny. When: 2026-03-26T18:38:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 10 Amazon Spring Sale car gadget deals that are worth every penny. ماذا: 10 Amazon Spring Sale car gadget deals that are worth every penny. متى: 2026-03-26T18:38:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/13109d382547004624617be43d4f37456df1eafe/2026/02/15/ae71eee2-41ca-4023-a0bf-8530a4c1d161/img-2268.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/car-gadgets-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "d01d3e5a93e2ddd10a7f8589",
-    "title": "The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver",
-    "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review-amazon-spring-sale-2026/",
-    "published": "2026-03-26T18:35:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver. What: The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver. When: 2026-03-26T18:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver. ماذا: The best $5 I've spent this year is on these breakaway USB-C connectors that overdeliver. متى: 2026-03-26T18:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5216ff62239c7013f8832650ea3028f9f2d9d97e/2026/03/15/1c4b8361-067f-4282-801e-5800b3498ccc/img-3020.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "c712016420a6cf2582ac0ceb",
-    "title": "The Samsung S95F OLED is one of our highest-rated TVs - and it's $800 off at Amazon",
-    "link": "https://www.zdnet.com/article/samung-s95f-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-26T18:19:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Samsung S95F OLED is one of our highest-rated TVs - and it's $800 off at Amazon. What: The Samsung S95F OLED is one of our highest-rated TVs - and it's $800 off at Amazon. When: 2026-03-26T18:19:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Samsung S95F OLED is one of our highest-rated TVs - and it's $800 off at Amazon. ماذا: The Samsung S95F OLED is one of our highest-rated TVs - and it's $800 off at Amazon. متى: 2026-03-26T18:19:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b55a9bf774c69acceced02f7c33abeaef8b011d4/2025/09/12/3715272a-de14-4576-9630-f5d61327e96f/dsc07637.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samung-s95f-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "e4d5e93e5ff17190ab6d38df",
-    "title": "These warning signs could mean spyware is on your phone - and 9 ways to keep it secure",
-    "link": "https://www.zdnet.com/article/spyware-hiding-on-phone-how-to-find-remove-fast/",
-    "published": "2026-03-26T17:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These warning signs could mean spyware is on your phone - and 9 ways to keep it secure. What: These warning signs could mean spyware is on your phone - and 9 ways to keep it secure. When: 2026-03-26T17:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These warning signs could mean spyware is on your phone - and 9 ways to keep it secure. ماذا: These warning signs could mean spyware is on your phone - and 9 ways to keep it secure. متى: 2026-03-26T17:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9978c3dc0a2207622e8dfadc3840bc544be46cca/2026/03/26/1673afd3-f4e5-4e4e-b7eb-f8d3de97a0ec/gettyimages-2237093321.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/spyware-hiding-on-phone-how-to-find-remove-fast/"
-    ]
-  },
-  {
-    "id": "2ad345672299ee506366ff90",
-    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-    "link": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-    "published": "2026-03-26T17:40:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks. What: China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks. When: 2026-03-26T17:40:00+00:00. How: The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow, China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks Action: See Arabic action below.",
-    "summary_ar": "من: China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks. ماذا: China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks. متى: 2026-03-26T17:40:00+00:00. كيف: The strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow, China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsXRdaBMsOY-JUezvB02i5xzt_pSMJYGGGmt3ujh5C7VDZ7YLODicjiwDHF0vR9Y6P7XfPJJ-sIzu3aElQOfOExYn15O9tjCrOubY531cg1hKVN7U1aGCq5avhsEBdxu0qCTuwgXQEHS4mkHExgUQbsR8iU2CS7fBZAlTyXlD9o0hmU0oJ8jCip_fok4G/s1600/tower-hack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html"
-    ]
-  },
-  {
-    "id": "bb6c4ea6741b26b6c6570a87",
-    "title": "How my portable wind turbine compares to solar panels - 2 years of testing later",
-    "link": "https://www.zdnet.com/article/shine-turbine-portable-wind-generator-long-term-test-vs-solar-panels/",
-    "published": "2026-03-26T17:30:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How my portable wind turbine compares to solar panels - 2 years of testing later. What: How my portable wind turbine compares to solar panels - 2 years of testing later. When: 2026-03-26T17:30:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How my portable wind turbine compares to solar panels - 2 years of testing later. ماذا: How my portable wind turbine compares to solar panels - 2 years of testing later. متى: 2026-03-26T17:30:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e6820f0fdf916d99ae3c342ffe1e3137c4d780aa/2026/03/26/30927a76-89f3-4600-b859-6c72977b33a9/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/shine-turbine-portable-wind-generator-long-term-test-vs-solar-panels/"
-    ]
-  },
-  {
-    "id": "90286be5d871fb956dcfc342",
-    "title": "The best Amazon Spring Sale deals on tiny gadgets that can handle big tasks",
-    "link": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/",
-    "published": "2026-03-26T17:16:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best Amazon Spring Sale deals on tiny gadgets that can handle big tasks. What: The best Amazon Spring Sale deals on tiny gadgets that can handle big tasks. When: 2026-03-26T17:16:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best Amazon Spring Sale deals on tiny gadgets that can handle big tasks. ماذا: The best Amazon Spring Sale deals on tiny gadgets that can handle big tasks. متى: 2026-03-26T17:16:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2823e316b72175aa1eae23b57b31623acd4c3251/2026/02/02/ebdff448-c28f-4f00-bddd-65435c1cb4f1/img-3831.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/"
-    ]
-  },
-  {
-    "id": "89d1061a6b56afeb11ab9f74",
-    "title": "Why YouTube Premium is the only streaming service I'm willing to pay to skip ads",
-    "link": "https://www.zdnet.com/article/why-i-pay-for-youtube-premium/",
-    "published": "2026-03-26T17:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why YouTube Premium is the only streaming service I'm willing to pay to skip ads. What: Why YouTube Premium is the only streaming service I'm willing to pay to skip ads. When: 2026-03-26T17:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why YouTube Premium is the only streaming service I'm willing to pay to skip ads. ماذا: Why YouTube Premium is the only streaming service I'm willing to pay to skip ads. متى: 2026-03-26T17:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/695a110ab69e4161aa22261f8e16f32518743289/2026/03/26/a269ff2b-2bcf-47de-9834-2eab6c81cd4c/youtube-is-the-only-streaming-service-i-pay-to-skip-ads-heres-why.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-i-pay-for-youtube-premium/"
-    ]
-  },
-  {
-    "id": "4fb75f85fb9f2881406317a0",
-    "title": "I went biking with this $100 bone conduction headset and it rocked for 6 hours",
-    "link": "https://www.zdnet.com/article/h20-audio-tri-run-headset-review/",
-    "published": "2026-03-26T16:53:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I went biking with this $100 bone conduction headset and it rocked for 6 hours. What: I went biking with this $100 bone conduction headset and it rocked for 6 hours. When: 2026-03-26T16:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I went biking with this $100 bone conduction headset and it rocked for 6 hours. ماذا: I went biking with this $100 bone conduction headset and it rocked for 6 hours. متى: 2026-03-26T16:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/39809aeec3feb746bbdf4e489eccf6fe13653c71/2026/03/26/84058c21-b376-4d82-8f0a-36412c68b277/tri-run5.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/h20-audio-tri-run-headset-review/"
-    ]
-  },
-  {
-    "id": "3686287bbb9440350b2eac8e",
-    "title": "Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code",
-    "link": "https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/",
-    "published": "2026-03-26T16:40:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code. What: Security researchers from Georgia Tech have observed a surge in reported CVEs for which the flaw was introduced by AI-generated code Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code. When: 2026-03-26T16:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code. ماذا: Security researchers from Georgia Tech have observed a surge in reported CVEs for which the flaw was introduced by AI-generated code Security Researchers Sound the Alarm on Vulnerabilities in AI-Generated Code. متى: 2026-03-26T16:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/33f28c1b-d0af-4465-8066-4f95b78fd93b.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ai-generated-code-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "08686bd2fc1c823ce60bdb75",
-    "title": "YouTube Premium cost me 30% extra for months until I noticed - check your plan ASAP",
-    "link": "https://www.zdnet.com/article/youtube-premium-overpaying-check-plan/",
-    "published": "2026-03-26T16:29:25+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: YouTube Premium cost me 30% extra for months until I noticed - check your plan ASAP. What: Here's why, and how I fixed it.. When: 2026-03-26T16:29:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: YouTube Premium cost me 30% extra for months until I noticed - check your plan ASAP. ماذا: Here's why, and how I fixed it.. متى: 2026-03-26T16:29:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ea11df83bd13200212cfa38edd2283d312180f8c/2026/03/26/73e7b595-c290-4c29-8445-064851416c25/youtube-premium-price.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/youtube-premium-overpaying-check-plan/"
-    ]
-  },
-  {
-    "id": "45f4efb5aec6999b3eb95243",
-    "title": "My favorite iPad for reading is $100 off on Amazon",
-    "link": "https://www.zdnet.com/article/ipad-mini-amazon-spring-sale-2026/",
-    "published": "2026-03-26T16:19:35+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite iPad for reading is $100 off on Amazon. What: My favorite iPad for reading is $100 off on Amazon. When: 2026-03-26T16:19:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite iPad for reading is $100 off on Amazon. ماذا: My favorite iPad for reading is $100 off on Amazon. متى: 2026-03-26T16:19:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b389429ec0f97f5f5f6235fe1e5a02ccbe391a30/2025/05/27/782800fe-03f2-43ec-9f81-7ebf8f2cc351/figure-top-why-i-use-an-ipad-mini-instead-of-a-kindle-as-my-ebook-reader-and-why-you-might-too.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ipad-mini-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "b2bde3fd0eacbcf01b476a59",
-    "title": "Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds",
-    "link": "https://www.infosecurity-magazine.com/news/critical-oracle-weblogic-rce/",
-    "published": "2026-03-26T16:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds. What: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds. When: 2026-03-26T16:00:00+00:00. How: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds Action: See Arabic action below.",
-    "summary_ar": "من: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds. ماذا: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds. متى: 2026-03-26T16:00:00+00:00. كيف: Attackers rapidly exploited a critical Oracle WebLogic RCE flaw the same day exploit code was released, according to a CloudSEK honeypot study Attackers Rapidly Weaponize Critical Oracle WebLogic RCE, Honeypot Study Finds. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/8148aa3e-89fe-47fd-b46b-d5ae6bf3efe7.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/critical-oracle-weblogic-rce/"
     ]
   }
 ]
