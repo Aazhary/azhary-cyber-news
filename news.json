@@ -54,6 +54,122 @@
     ]
   },
   {
+    "id": "f57d633897e465420615f907",
+    "title": "Hackers start exploiting critical WordPress flaw for code execution",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+    "published": "2026-09-23T18:31:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers start exploiting critical WordPress flaw for code execution. What: Hackers start exploiting critical WordPress flaw for code execution. When: 2026-09-23T18:31:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers start exploiting critical WordPress flaw for code execution. ماذا: Hackers start exploiting critical WordPress flaw for code execution. متى: 2026-09-23T18:31:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-87902"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/"
+    ]
+  },
+  {
+    "id": "6a91aaa7750826fca0a21452",
+    "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
+    "link": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
+    "published": "2026-09-23T18:09:28+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Also on Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) added CVE-2026-94127 to its Known Exploited Vulnerabilities catalog, and gave federal agencies a Friday deadline to apply patches.. What: F5 has fixed a critical zero-day bug in its BIG-IP Access Policy Manager (APM) that unknown miscreants are exploiting to remotely execute malicious code.. When: 2026-09-23T18:09:28+00:00. How: F5 has fixed a critical zero-day bug in its BIG-IP Access Policy Manager (APM) that unknown miscreants are exploiting to remotely execute malicious code. Action: See Arabic action below.",
+    "summary_ar": "من: Also on Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) added CVE-2026-94127 to its Known Exploited Vulnerabilities catalog, and gave federal agencies a Friday deadline to apply patches.. ماذا: F5 has fixed a critical zero-day bug in its BIG-IP Access Policy Manager (APM) that unknown miscreants are exploiting to remotely execute malicious code.. متى: 2026-09-23T18:09:28+00:00. كيف: F5 has fixed a critical zero-day bug in its BIG-IP Access Policy Manager (APM) that unknown miscreants are exploiting to remotely execute malicious code.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2023-46747",
+      "CVE-2026-94127"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/260240.jpg?imageId=260240&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659"
+    ]
+  },
+  {
+    "id": "25dd9c1866ee5e8c6794b73a",
+    "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+    "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+    "published": "2026-09-23T18:05:58+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios. What: Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios. When: 2026-09-23T18:05:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios. ماذا: Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios. متى: 2026-09-23T18:05:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/05/AI-Hallucinations.jpg",
+    "sources": [
+      "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/"
+    ]
+  },
+  {
+    "id": "246d3ca38d1b8d5900cf013b",
+    "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+    "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+    "published": "2026-09-23T16:53:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You. What: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You. When: 2026-09-23T16:53:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You. ماذا: A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You. متى: 2026-09-23T16:53:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html"
+    ]
+  },
+  {
+    "id": "3aebaca07a52969cff864045",
+    "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+    "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+    "published": "2026-09-23T16:20:54+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers. What: Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers. When: 2026-09-23T16:20:54+00:00. How: A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. Action: See Arabic action below.",
+    "summary_ar": "من: Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers. ماذا: Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers. متى: 2026-09-23T16:20:54+00:00. كيف: A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/23/robot-card.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/"
+    ]
+  },
+  {
+    "id": "4ed7569264881bae52c731bb",
+    "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+    "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+    "published": "2026-09-23T16:06:41+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key. What: MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key. When: 2026-09-23T16:06:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key. ماذا: MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key. متى: 2026-09-23T16:06:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-67279",
+      "CVE-2026-86060"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+    ]
+  },
+  {
     "id": "affa11854209f5a5affa3161",
     "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
     "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
@@ -69,6 +185,132 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39d212f369d2f318/6ab3d536eb663180d5ee85fb/middleeast-200mm-Getty-168644028.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks"
+    ]
+  },
+  {
+    "id": "8926d0f5a49b55fd1157eabd",
+    "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
+    "link": "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
+    "published": "2026-09-23T15:08:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: LAPSUS$, meanwhile, is better known for its criminal enterprises, namely big-name cyberattacks on the likes of Rockstar Games, which led to the earliest high-profile Grand Theft Auto VI leaks, and more recently, attacks on Adidas and GitHub.. What: Academic publisher Elsevier hit by LAPSUS$ redirect attack. When: 2026-09-23T15:08:00+00:00. How: Other victims included BT, Microsoft, Okta, Samsung, and Vodafone, which in turn stoked a concentrated law enforcement operation to disrupt the teenage criminals behind it. Action: See Arabic action below.",
+    "summary_ar": "من: LAPSUS$, meanwhile, is better known for its criminal enterprises, namely big-name cyberattacks on the likes of Rockstar Games, which led to the earliest high-profile Grand Theft Auto VI leaks, and more recently, attacks on Adidas and GitHub.. ماذا: Academic publisher Elsevier hit by LAPSUS$ redirect attack. متى: 2026-09-23T15:08:00+00:00. كيف: Other victims included BT, Microsoft, Okta, Samsung, and Vodafone, which in turn stoked a concentrated law enforcement operation to disrupt the teenage criminals behind it.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5241973.jpg?imageId=5241973&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592"
+    ]
+  },
+  {
+    "id": "02b6ae1bf5a227c0c56a5836",
+    "title": "How to fix your Windows File History if the September update broke it",
+    "link": "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/",
+    "published": "2026-09-23T15:01:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: How to fix your Windows File History if the September update broke it. What: But a new optional update fixes it.. When: 2026-09-23T15:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How to fix your Windows File History if the September update broke it. ماذا: But a new optional update fixes it.. متى: 2026-09-23T15:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Lance-Windows-laptop.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/windows-update-break-file-history-fix-available/"
+    ]
+  },
+  {
+    "id": "5a182e4023be87d9d9ded81d",
+    "title": "Hundreds of Leaked GitHub App Keys Still Authenticate",
+    "link": "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/",
+    "published": "2026-09-23T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access Hundreds of Leaked GitHub App Keys Still Authenticate. What: Hundreds of Leaked GitHub App Keys Still Authenticate. When: 2026-09-23T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access Hundreds of Leaked GitHub App Keys Still Authenticate. ماذا: Hundreds of Leaked GitHub App Keys Still Authenticate. متى: 2026-09-23T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/568d9ac0-db71-47ee-aa11-35976eb73f5c.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/"
+    ]
+  },
+  {
+    "id": "0a9baa874015c70c7eec32e0",
+    "title": "Closing the observability gap for the AI-ready enterprise",
+    "link": "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+    "published": "2026-09-23T15:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Closing the observability gap for the AI-ready enterprise. What: Context essentially means being able to reconstruct a single, complete and ordered chain of events across different systems — including what kick-started an event, how it propagated, and what happened at each step.. When: 2026-09-23T15:00:00+00:00. How: \"So when you have a disruption, whether that's a cyber-attack, a DDoS attack, or someone pushing a bad update to the network, the first executive problem is the same: figuring out whether it’s material.\" With each technical team pointing fingers at each other, observability becomes the single source of truth that organizations need to identify root cause, accelerate resolution, and improve reliability. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the observability gap for the AI-ready enterprise. ماذا: Context essentially means being able to reconstruct a single, complete and ordered chain of events across different systems — including what kick-started an event, how it propagated, and what happened at each step.. متى: 2026-09-23T15:00:00+00:00. كيف: \"So when you have a disruption, whether that's a cyber-attack, a DDoS attack, or someone pushing a bad update to the network, the first executive problem is the same: figuring out whether it’s material.\" With each technical team pointing fingers at each other, observability becomes the single source of truth that organizations need to identify root cause, accelerate resolution, and improve reliability.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298357.jpg?imageId=5298357&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070"
+    ]
+  },
+  {
+    "id": "7bde49b556ca2ceab47967c8",
+    "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+    "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+    "published": "2026-09-23T14:47:09+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.. What: Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign. When: 2026-09-23T14:47:09+00:00. How: Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.. ماذا: Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign. متى: 2026-09-23T14:47:09+00:00. كيف: Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign"
+    ]
+  },
+  {
+    "id": "5b292a46fb9b62720bad5867",
+    "title": "InfraTrust report warns network management systems under attack",
+    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+    "published": "2026-09-23T14:35:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: InfraTrust report warns network management systems under attack. What: Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them.. When: 2026-09-23T14:35:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: InfraTrust report warns network management systems under attack. ماذا: Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them.. متى: 2026-09-23T14:35:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/23/network-management-vulnerability-blue.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/"
+    ]
+  },
+  {
+    "id": "19134da9e252acae94369201",
+    "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+    "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+    "published": "2026-09-23T14:17:58+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.. What: This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move. When: 2026-09-23T14:17:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&nbsp;Cisco Talos said&nbsp;on September 22.. ماذا: This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move. متى: 2026-09-23T14:17:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html"
     ]
   },
   {
@@ -217,9 +459,9 @@
     ]
   },
   {
-    "id": "65165f8280379c08e9924202",
-    "title": "Ofcom takes a hard look at Pornhub's Apple-powered age checks",
-    "link": "https://www.theregister.com/security/2026/09/23/ofcom-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
+    "id": "047a899d961cff22a3873a0f",
+    "title": "British regulator takes a hard look at Pornhub's Apple-powered age checks",
+    "link": "https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
     "published": "2026-09-23T11:53:37+00:00",
     "source": "theregister.com",
     "summary_en": "Who: Ofcom has opened an investigation into whether Pornhub's Apple-based age checks are effective enough to keep children away from its adult content.. What: The decision followed a steep decline in traffic: Pornhub's UK visits fell 47 percent shortly after the rules took effect and were reportedly down 77 percent by October.. When: 2026-09-23T11:53:37+00:00. How: The investigation will examine whether Pornhub owner Aylo complied with age assurance duties that came into force under the Online Safety Act (OSA) in July 2025. Action: See Arabic action below.",
@@ -231,6 +473,7 @@
     "impacted": [],
     "image": "https://image.theregister.com/5220278.jpg?imageId=5220278&x=0&y=3.06&cropw=100&croph=71.67&panox=0&panoy=3.06&panow=100&panoh=71.67&width=1200&height=683",
     "sources": [
+      "https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
       "https://www.theregister.com/security/2026/09/23/ofcom-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558"
     ]
   },
@@ -1123,24 +1366,6 @@
     ]
   },
   {
-    "id": "bbe00974ebe14bb0ff318153",
-    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-    "published": "2026-09-22T15:00:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU).. What: EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts. When: 2026-09-22T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU).. ماذا: EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts. متى: 2026-09-22T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/22/phishing.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/"
-    ]
-  },
-  {
     "id": "b548e5907b43cc7847e34921",
     "title": "UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites",
     "link": "https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317",
@@ -1174,6 +1399,24 @@
     "image": "https://image.theregister.com/5297696.jpg?imageId=5297696&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/22/sponsored/5297693"
+    ]
+  },
+  {
+    "id": "bbe00974ebe14bb0ff318153",
+    "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+    "published": "2026-09-22T15:00:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU).. What: EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts. When: 2026-09-22T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU).. ماذا: EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts. متى: 2026-09-22T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/22/phishing.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/"
     ]
   },
   {
@@ -147910,240 +148153,6 @@
     "image": "https://www.zdnet.com/a/img/resize/688c70e5af42bd2ecfa6d34ae941337d1d48160c/2026/02/14/a5b2b71c-2f80-4b4b-855a-59f47a8d4272/img-2243.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/anker-nano-smart-display-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "94e03f76812431441cb191aa",
-    "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-    "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html",
-    "published": "2026-03-27T17:22:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.. What: The development was first reported by MacRumors.. When: 2026-03-27T17:22:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update.. ماذا: The development was first reported by MacRumors.. متى: 2026-03-27T17:22:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN7dxzt-3rxkQ1A-6Sd9EzxINF3V70WAx4hsUUNPofdWcCO6hp0vEHavIsQsCUyXY7hOUOk7kDGIt2zN__gnigtzyYJyc31aiwpivHd4GEMPh0CHZHIBm58PtiyDXn7XNzI4hoZzmqVpErPty3VvEoyZCC4heyU0FE0uvM8_Ad_mWtXpSj5bcLIcTBwLNi/s1600/apple.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html"
-    ]
-  },
-  {
-    "id": "50043d71bf32327999e37b3d",
-    "title": "Hisense will give you a free Canvas TV with this Mini LED offer - how the deal works",
-    "link": "https://www.zdnet.com/article/hisense-ur9-preorder-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-27T17:17:31+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Hisense will give you a free Canvas TV with this Mini LED offer - how the deal works. What: Hisense just announced the new UR9 RGB Mini LED TV, and if you preorder, you'll get a 55-inch Hisense Canvas TV for free.. When: 2026-03-27T17:17:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hisense will give you a free Canvas TV with this Mini LED offer - how the deal works. ماذا: Hisense just announced the new UR9 RGB Mini LED TV, and if you preorder, you'll get a 55-inch Hisense Canvas TV for free.. متى: 2026-03-27T17:17:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6eeec42e2a4c3f7e39053652fa2377dd2b9f1dd3/2025/03/24/72756fdf-730e-45fc-82c8-875f247bc76e/dsc05097-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hisense-ur9-preorder-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "134518316f7a756d5baf871a",
-    "title": "I test TV refresh rates - here's when 60Hz is enough (and when it's not)",
-    "link": "https://www.zdnet.com/article/how-high-of-a-refresh-rate-does-your-tv-really-need/",
-    "published": "2026-03-27T16:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I test TV refresh rates - here's when 60Hz is enough (and when it's not). What: I test TV refresh rates - here's when 60Hz is enough (and when it's not). When: 2026-03-27T16:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I test TV refresh rates - here's when 60Hz is enough (and when it's not). ماذا: I test TV refresh rates - here's when 60Hz is enough (and when it's not). متى: 2026-03-27T16:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/530c21ce426fcbe93469664f5ab627999184c3d4/2025/07/10/56e9c9ce-1ffa-41e1-8753-87dfea1417b6/samsung-frame-pro-tv-2025-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-high-of-a-refresh-rate-does-your-tv-really-need/"
-    ]
-  },
-  {
-    "id": "9f66ea4b6e2d34b105905b87",
-    "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
-    "link": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
-    "published": "2026-03-27T16:53:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files. What: TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files. When: 2026-03-27T16:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files. ماذا: TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files. متى: 2026-03-27T16:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1CMUCCEUOX5JczcW-qUC2Bw8_3GmKNoLItyUq-AeuCUvFrJJL0t6aW5EhyJzNT5OyQJulbqwy847fK_EEBieTmTHEKn33suBcHss0AflwRWkPdmqT7FUbX5Rahkwz09g0Fw2GDZr00dAqHeEouzWvFVKMLgNshyO2HQ6QcD5qtbNu59djr1cdm0iV_ksj/s1600/wave.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html"
-    ]
-  },
-  {
-    "id": "7f18c9cd0927a1d26eb648cc",
-    "title": "Fake VS Code alerts on GitHub spread malware to developers",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/",
-    "published": "2026-03-27T16:51:52+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware.. What: Fake VS Code alerts on GitHub spread malware to developers. When: 2026-03-27T16:51:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A large-scale campaign is targeting developers on GitHub with fake Visual Studio Code (VS Code) security alerts posted in the Discussions section of various projects, to trick users into downloading malware.. ماذا: Fake VS Code alerts on GitHub spread malware to developers. متى: 2026-03-27T16:51:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/06/GitHub.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fake-vs-code-alerts-on-github-spread-malware-to-developers/"
-    ]
-  },
-  {
-    "id": "57c8c27db366fe2c2e7def9f",
-    "title": "China Upgrades the Backdoor It Uses to Spy on Telcos Globally",
-    "link": "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos",
-    "published": "2026-03-27T16:48:49+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: China Upgrades the Backdoor It Uses to Spy on Telcos Globally. What: China Upgrades the Backdoor It Uses to Spy on Telcos Globally. When: 2026-03-27T16:48:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: China Upgrades the Backdoor It Uses to Spy on Telcos Globally. ماذا: China Upgrades the Backdoor It Uses to Spy on Telcos Globally. متى: 2026-03-27T16:48:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos"
-    ]
-  },
-  {
-    "id": "dd14d2b94c248eedd9f27bad",
-    "title": "Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account",
-    "link": "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/",
-    "published": "2026-03-27T16:42:22+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account. What: Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account. When: 2026-03-27T16:42:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account. ماذا: Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel’s Personal Account. متى: 2026-03-27T16:42:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/"
-    ]
-  },
-  {
-    "id": "4f6aa01d4d26097c3a728446",
-    "title": "I didn't have to drill these renter-friendly smart lights into my wall - and I love them for it",
-    "link": "https://www.zdnet.com/article/poplight-wall-sconce-no-drill-amazon-spring-sale-deal-2026/",
-    "published": "2026-03-27T16:38:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I didn't have to drill these renter-friendly smart lights into my wall - and I love them for it. What: I didn't have to drill these renter-friendly smart lights into my wall - and I love them for it. When: 2026-03-27T16:38:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I didn't have to drill these renter-friendly smart lights into my wall - and I love them for it. ماذا: I didn't have to drill these renter-friendly smart lights into my wall - and I love them for it. متى: 2026-03-27T16:38:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bd2afb9959049445c60ba2469e4bcbf2bebd29a4/2025/05/23/f2712d36-313b-4dd1-83d8-6e9194858239/img-6476.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/poplight-wall-sconce-no-drill-amazon-spring-sale-deal-2026/"
-    ]
-  },
-  {
-    "id": "ce5f82e282545aabea83e5d1",
-    "title": "Gemini just made it super easy for me to switch from ChatGPT  - here's how",
-    "link": "https://www.zdnet.com/article/switching-to-googles-gemini-from-another-ai-is-now-much-easier-heres-how/",
-    "published": "2026-03-27T16:24:59+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Gemini just made it super easy for me to switch from ChatGPT  - here's how. What: Gemini just made it super easy for me to switch from ChatGPT  - here's how. When: 2026-03-27T16:24:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Gemini just made it super easy for me to switch from ChatGPT  - here's how. ماذا: Gemini just made it super easy for me to switch from ChatGPT  - here's how. متى: 2026-03-27T16:24:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b0088840b1b41448dff3ffd28469712f9d31a982/2026/03/27/018c6575-a076-4344-b1c6-cce0b6ee6842/gettyimages-2197411652.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/switching-to-googles-gemini-from-another-ai-is-now-much-easier-heres-how/"
-    ]
-  },
-  {
-    "id": "5a31f84c982337ced77aecfd",
-    "title": "How NiCE Cognigy envisions the human-agent balancing act for delivering top customer service",
-    "link": "https://www.zdnet.com/article/contact-center-platform-cx-orchestration-layer-takeaways-nice-cognigy-nexus-2026/",
-    "published": "2026-03-27T16:22:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How NiCE Cognigy envisions the human-agent balancing act for delivering top customer service. What: How NiCE Cognigy envisions the human-agent balancing act for delivering top customer service. When: 2026-03-27T16:22:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How NiCE Cognigy envisions the human-agent balancing act for delivering top customer service. ماذا: How NiCE Cognigy envisions the human-agent balancing act for delivering top customer service. متى: 2026-03-27T16:22:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7dba13924a967270c00f7d24e28e37c2bc6070fb/2026/03/26/946a22de-89df-4c09-b4a0-737159b51420/act-screenshot-2026-03-26-145107.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/contact-center-platform-cx-orchestration-layer-takeaways-nice-cognigy-nexus-2026/"
-    ]
-  },
-  {
-    "id": "9945c1528742edc7204b3749",
-    "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
-    "link": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
-    "published": "2026-03-27T16:21:48+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Wartime Usage of Compromised IP Cameras Highlight Their Danger. What: Wartime Usage of Compromised IP Cameras Highlight Their Danger. When: 2026-03-27T16:21:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Wartime Usage of Compromised IP Cameras Highlight Their Danger. ماذا: Wartime Usage of Compromised IP Cameras Highlight Their Danger. متى: 2026-03-27T16:21:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger"
-    ]
-  },
-  {
-    "id": "4529def530283e6a6eb04eeb",
-    "title": "New Wave of AiTM Phishing Targets TikTok for Business",
-    "link": "https://www.infosecurity-magazine.com/news/phishing-targets-tiktok-for/",
-    "published": "2026-03-27T16:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Push Security has uncovered a new AiTM phishing campaign targeting TikTok for Business accounts using Google and TikTok themed login pages New Wave of AiTM Phishing Targets TikTok for Business. What: New Wave of AiTM Phishing Targets TikTok for Business. When: 2026-03-27T16:01:00+00:00. How: Push Security has uncovered a new AiTM phishing campaign targeting TikTok for Business accounts using Google and TikTok themed login pages New Wave of AiTM Phishing Targets TikTok for Business Action: See Arabic action below.",
-    "summary_ar": "من: Push Security has uncovered a new AiTM phishing campaign targeting TikTok for Business accounts using Google and TikTok themed login pages New Wave of AiTM Phishing Targets TikTok for Business. ماذا: New Wave of AiTM Phishing Targets TikTok for Business. متى: 2026-03-27T16:01:00+00:00. كيف: Push Security has uncovered a new AiTM phishing campaign targeting TikTok for Business accounts using Google and TikTok themed login pages New Wave of AiTM Phishing Targets TikTok for Business. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/df32fb8a-0a2f-4503-ba58-0c735bcf761a.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/phishing-targets-tiktok-for/"
-    ]
-  },
-  {
-    "id": "e6253e154763307769fc2822",
-    "title": "TeamPCP Targets Telnyx Package in Latest PyPI Software Supply Chain Attack",
-    "link": "https://www.infosecurity-magazine.com/news/teampcp-targets-telnyx-pypi-package/",
-    "published": "2026-03-27T15:06:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: TeamPCP Targets Telnyx Package in Latest PyPI Software Supply Chain Attack. What: TeamPCP Targets Telnyx Package in Latest PyPI Software Supply Chain Attack. When: 2026-03-27T15:06:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TeamPCP Targets Telnyx Package in Latest PyPI Software Supply Chain Attack. ماذا: TeamPCP Targets Telnyx Package in Latest PyPI Software Supply Chain Attack. متى: 2026-03-27T15:06:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/dd189dfc-c505-4038-ab38-5d0a035f2de0.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/teampcp-targets-telnyx-pypi-package/"
     ]
   }
 ]
