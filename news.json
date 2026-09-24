@@ -54,6 +54,260 @@
     ]
   },
   {
+    "id": "bfbf7cb5870522d0565716d2",
+    "title": "Exposed GitLab project email addresses let attackers push code",
+    "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+    "published": "2026-09-24T17:47:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Exposed GitLab project email addresses let attackers push code. What: Exposed GitLab project email addresses let attackers push code. When: 2026-09-24T17:47:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Exposed GitLab project email addresses let attackers push code. ماذا: Exposed GitLab project email addresses let attackers push code. متى: 2026-09-24T17:47:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/01/GitLab.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
+    ]
+  },
+  {
+    "id": "47f5fabf00fb46d812c38401",
+    "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
+    "link": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
+    "published": "2026-09-24T17:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Security researchers affiliated with Austria's Graz University of Technology have found flaws in the implementation of file notification systems on Android, Linux, macOS, and Windows that leak potentially compromising system information.. What: The Linux vulnerability (CVE-2025-68788) was partially fixed in December 2025 in kernels 5.10.248, 5.15.198, 6.1.160, 6.6.120, 6.12.64, and 6.18.3.. When: 2026-09-24T17:00:00+00:00. How: Neela said, \"On Linux, watching a readable directory leaks events on files inside it you cannot even read: watching /dev/input gives a notification on every keystroke, which we turn into a local inter-keystroke timing attack with a 93.1–100 percent [keystroke accuracy] score across seven users and a remote (SSH) one at 100 percent.\" He added that the group also carried out an authentication-prompt redress attack on KDE Plasma 6 under Wayland, and website fingerprinting on the top 100 sites at 87.9 percent. Action: See Arabic action below.",
+    "summary_ar": "من: Security researchers affiliated with Austria's Graz University of Technology have found flaws in the implementation of file notification systems on Android, Linux, macOS, and Windows that leak potentially compromising system information.. ماذا: The Linux vulnerability (CVE-2025-68788) was partially fixed in December 2025 in kernels 5.10.248, 5.15.198, 6.1.160, 6.6.120, 6.12.64, and 6.18.3.. متى: 2026-09-24T17:00:00+00:00. كيف: Neela said, \"On Linux, watching a readable directory leaks events on files inside it you cannot even read: watching /dev/input gives a notification on every keystroke, which we turn into a local inter-keystroke timing attack with a 93.1–100 percent [keystroke accuracy] score across seven users and a remote (SSH) one at 100 percent.\" He added that the group also carried out an authentication-prompt redress attack on KDE Plasma 6 under Wayland, and website fingerprinting on the top 100 sites at 87.9 percent.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-68788"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298676.jpg?imageId=5298676&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672"
+    ]
+  },
+  {
+    "id": "84b7313c26c3ad1c719fed34",
+    "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
+    "link": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
+    "published": "2026-09-24T16:33:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: CVE flood pushes Ubuntu onto weekly kernel release cycle. What: Canonical says the change is needed because the number of reported vulnerabilities has exploded, with AI deserving some of the credit – or blame, depending on which side of the patch queue you're sitting.. When: 2026-09-24T16:33:00+00:00. How: Canonical says the change is needed because the number of reported vulnerabilities has exploded, with AI deserving some of the credit – or blame, depending on which side of the patch queue you're sitting. Action: See Arabic action below.",
+    "summary_ar": "من: CVE flood pushes Ubuntu onto weekly kernel release cycle. ماذا: Canonical says the change is needed because the number of reported vulnerabilities has exploded, with AI deserving some of the credit – or blame, depending on which side of the patch queue you're sitting.. متى: 2026-09-24T16:33:00+00:00. كيف: Canonical says the change is needed because the number of reported vulnerabilities has exploded, with AI deserving some of the credit – or blame, depending on which side of the patch queue you're sitting.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5293976.jpg?imageId=5293976&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912"
+    ]
+  },
+  {
+    "id": "570503962d099e6e809c5d70",
+    "title": "Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it",
+    "link": "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/",
+    "published": "2026-09-24T16:22:13+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it. What: Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it. When: 2026-09-24T16:22:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it. ماذا: Microsoft’s Surface Mouse is back, now with haptic feedback – and I need it. متى: 2026-09-24T16:22:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Microsoft-Surface-mouse.jpg",
+    "sources": [
+      "https://www.zdnet.com/home-and-office/microsoft-surface-mouse-haptic-feedback-customizable/"
+    ]
+  },
+  {
+    "id": "0bc82c99f965b0e0e20204da",
+    "title": "AI agent kill switch urged by Okta-led alliance – how businesses could make it work",
+    "link": "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/",
+    "published": "2026-09-24T16:01:19+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: AI agent kill switch urged by Okta-led alliance – how businesses could make it work. What: AI agent kill switch urged by Okta-led alliance – how businesses could make it work. When: 2026-09-24T16:01:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI agent kill switch urged by Okta-led alliance – how businesses could make it work. ماذا: AI agent kill switch urged by Okta-led alliance – how businesses could make it work. متى: 2026-09-24T16:01:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/stopswitch-GettyImages-851328230.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/okta-blueprint-alliance-ai-agents-oauth-kill-switch/"
+    ]
+  },
+  {
+    "id": "d3a63d20e0c7a53621ead4c5",
+    "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+    "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+    "published": "2026-09-24T15:52:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Kontext Security Emerges With $4 Million for AI Agent Runtime Controls. What: Kontext Security Emerges With $4 Million for AI Agent Runtime Controls. When: 2026-09-24T15:52:00+00:00. How: The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. Action: See Arabic action below.",
+    "summary_ar": "من: Kontext Security Emerges With $4 Million for AI Agent Runtime Controls. ماذا: Kontext Security Emerges With $4 Million for AI Agent Runtime Controls. متى: 2026-09-24T15:52:00+00:00. كيف: The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg",
+    "sources": [
+      "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/"
+    ]
+  },
+  {
+    "id": "5229719d60e41846ea7bb662",
+    "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+    "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+    "published": "2026-09-24T15:27:32+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content. What: The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.. When: 2026-09-24T15:27:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content. ماذا: The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.. متى: 2026-09-24T15:27:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html"
+    ]
+  },
+  {
+    "id": "cf6699ade1fd81d412a153c4",
+    "title": "Someone went shopping in ASUS's eShop – for customer data",
+    "link": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
+    "published": "2026-09-24T15:13:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Someone went shopping in ASUS's eShop – for customer data. What: Asus has warned eShop customers that an intruder got into part of its online store and may have helped themselves to contact details and order records.. When: 2026-09-24T15:13:00+00:00. How: Asus warned that the stolen details could give scammers enough to make phishing emails, texts, and phone calls about its products or customers' orders look rather more convincing. Action: See Arabic action below.",
+    "summary_ar": "من: Someone went shopping in ASUS's eShop – for customer data. ماذا: Asus has warned eShop customers that an intruder got into part of its online store and may have helped themselves to contact details and order records.. متى: 2026-09-24T15:13:00+00:00. كيف: Asus warned that the stolen details could give scammers enough to make phishing emails, texts, and phone calls about its products or customers' orders look rather more convincing.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5275290.jpg?imageId=5275290&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860"
+    ]
+  },
+  {
+    "id": "f021346e5266d30fe791fcba",
+    "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
+    "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
+    "published": "2026-09-24T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims. What: Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims. When: 2026-09-24T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims. ماذا: Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims. متى: 2026-09-24T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/9720e053-9870-414e-8c70-5433a964dce5.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/"
+    ]
+  },
+  {
+    "id": "f6b5e79f4ed9767848cf18ed",
+    "title": "3 Cyber Threats That Defined the Summer of 2026",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+    "published": "2026-09-24T14:44:12+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 3 Cyber Threats That Defined the Summer of 2026. What: 3 Cyber Threats That Defined the Summer of 2026. When: 2026-09-24T14:44:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 3 Cyber Threats That Defined the Summer of 2026. ماذا: 3 Cyber Threats That Defined the Summer of 2026. متى: 2026-09-24T14:44:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026"
+    ]
+  },
+  {
+    "id": "8cb1291af7d173670b575094",
+    "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+    "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+    "published": "2026-09-24T14:43:13+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.. What: Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.. When: 2026-09-24T14:43:13+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.. ماذا: Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information.. متى: 2026-09-24T14:43:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/AI-artificial-intelligence.webp",
+    "sources": [
+      "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/"
+    ]
+  },
+  {
+    "id": "f08eddd0d2c7e58a53147fe5",
+    "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+    "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+    "published": "2026-09-24T14:29:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.. What: An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.. When: 2026-09-24T14:29:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.. ماذا: An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.. متى: 2026-09-24T14:29:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html"
+    ]
+  },
+  {
+    "id": "30aaeec28b11b2288da8cdb0",
+    "title": "How to Build A SASE Framework for Modern Cybersecurity",
+    "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
+    "published": "2026-09-24T14:02:43+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: How to Build A SASE Framework for Modern Cybersecurity. What: How to Build A SASE Framework for Modern Cybersecurity. When: 2026-09-24T14:02:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How to Build A SASE Framework for Modern Cybersecurity. ماذا: How to Build A SASE Framework for Modern Cybersecurity. متى: 2026-09-24T14:02:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/how-to-build-sase-framework"
+    ]
+  },
+  {
+    "id": "65df89b28e254788ecd583ea",
+    "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+    "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+    "published": "2026-09-24T14:02:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: FedRAMP VDR & VER: Daily Scans Are Only the Beginning. What: FedRAMP VDR & VER: Daily Scans Are Only the Beginning. When: 2026-09-24T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FedRAMP VDR & VER: Daily Scans Are Only the Beginning. ماذا: FedRAMP VDR & VER: Daily Scans Are Only the Beginning. متى: 2026-09-24T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/09/23/anecdotes-fedramp.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/"
+    ]
+  },
+  {
     "id": "eeff25e43ab41eb6f8e6c4b3",
     "title": "Is your Apple Watch 12 or Ultra 4 randomly restarting? Here’s the fix",
     "link": "https://www.zdnet.com/tech/apple-watch-series-12-ultra-4-random-restarts-fix-update/",
@@ -252,8 +506,8 @@
     "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
     "published": "2026-09-24T11:15:44+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: There's a new way to break RSA that's faster than anything we've seen before. What: There's a new way to break RSA that's faster than anything we've seen before. When: 2026-09-24T11:15:44+00:00. How: Even applying the attack against the deprecated use of 1024-bit keys, the method requires more computation than just about anybody—short of nation-states or companies with massive resources—can achieve. Action: See Arabic action below.",
-    "summary_ar": "من: There's a new way to break RSA that's faster than anything we've seen before. ماذا: There's a new way to break RSA that's faster than anything we've seen before. متى: 2026-09-24T11:15:44+00:00. كيف: Even applying the attack against the deprecated use of 1024-bit keys, the method requires more computation than just about anybody—short of nation-states or companies with massive resources—can achieve.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: There's a new way to break RSA that's faster than anything we've seen before. What: There's a new way to break RSA that's faster than anything we've seen before. When: 2026-09-24T11:15:44+00:00. How: Applying the attack against the deprecated use of 1024-bit keys took a handful of months on an academic CPU cluster, significantly less than the current estimates for 1024-bit factoring that would require resources that only nations or companies with massive resources could achieve. Action: See Arabic action below.",
+    "summary_ar": "من: There's a new way to break RSA that's faster than anything we've seen before. ماذا: There's a new way to break RSA that's faster than anything we've seen before. متى: 2026-09-24T11:15:44+00:00. كيف: Applying the attack against the deprecated use of 1024-bit keys took a handful of months on an academic CPU cluster, significantly less than the current estimates for 1024-bit factoring that would require resources that only nations or companies with massive resources could achieve.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -612,6 +866,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+    ]
+  },
+  {
+    "id": "1ca80923db673288f4b19686",
+    "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
+    "published": "2026-09-24T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026. What: CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026. When: 2026-09-24T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026. ماذا: CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026. متى: 2026-09-24T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/"
     ]
   },
   {
@@ -148520,60 +148792,6 @@
     "image": "https://www.zdnet.com/a/img/resize/56acc3059dc0a3fbd95e7979671fcec87c2a0a7f/2026/03/26/f119b0d8-8d9f-464c-96b1-ff6867fc2a1e/untitled-design-2026-03-26t144523-302.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/kitchen-splurges-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "1a25ce66ec1dfcd44d98e283",
-    "title": "You can get a free iPhone 17e at Visible for a limited time - no trade-in required",
-    "link": "https://www.zdnet.com/article/iphone-17e-deal-visible/",
-    "published": "2026-03-28T16:00:40+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can get a free iPhone 17e at Visible for a limited time - no trade-in required. What: You can get a free iPhone 17e at Visible for a limited time - no trade-in required. When: 2026-03-28T16:00:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can get a free iPhone 17e at Visible for a limited time - no trade-in required. ماذا: You can get a free iPhone 17e at Visible for a limited time - no trade-in required. متى: 2026-03-28T16:00:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/dc161116a72049b727c08a175ff4b2db36d6184a/2026/03/13/aee7dc41-5a61-4af9-a02d-6a580129b85d/dsc09793.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/iphone-17e-deal-visible/"
-    ]
-  },
-  {
-    "id": "b54ca42ca390bef27b487b27",
-    "title": "Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack",
-    "link": "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html",
-    "published": "2026-03-28T15:40:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack. What: Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack. When: 2026-03-28T15:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack. ماذا: Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack. متى: 2026-03-28T15:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB5PedpQX_DQaCrJ76V6gQtAUKvDiV1udgR3vPrPp8k7dcP8jACbAPITTEwRpl7dS05Dz_hYFlt2v4H6KTukko0Sg8vRZpDGgWNbGzVqQDwcntdMVmhb3x5v0q3d0gRcbedgOxZLiVeiDCaxb8TNO8dEaE7Bn54TCqxKvbb7Ct_5Wxsxx5WSn2bqEIJqB4/s1600/iran-hacking.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html"
-    ]
-  },
-  {
-    "id": "ff91eda2eaed9f18413f8d82",
-    "title": "New Infinity Stealer malware grabs macOS data via ClickFix lures",
-    "link": "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/",
-    "published": "2026-03-28T14:35:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New Infinity Stealer malware grabs macOS data via ClickFix lures. What: [...] New Infinity Stealer malware grabs macOS data via ClickFix lures. When: 2026-03-28T14:35:10+00:00. How: A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler. Action: See Arabic action below.",
-    "summary_ar": "من: New Infinity Stealer malware grabs macOS data via ClickFix lures. ماذا: [...] New Infinity Stealer malware grabs macOS data via ClickFix lures. متى: 2026-03-28T14:35:10+00:00. كيف: A new info-stealing malware named Infinity Stealer is targeting macOS systems with a Python payload packaged as an executable using the open-source Nuitka compiler.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Apple2.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/"
     ]
   }
 ]
