@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "28c4ceb99ab9a280f6fa3330",
+    "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
+    "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
+    "published": "2026-09-24T23:32:15+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: From there the agent uploaded a web shell, escalated privileges through a misconfigured sudo rule, and accessed AWS credentials, ultimately dumping 46 secrets, totaling 102KB.. What: “We also detected instructions in the attacker’s playbook that could disrupt the operations of a company as a result of data deletion or cleanup procedures run by the agent - and this has indeed happened in some of the breaches.” The operator also used OpenRouter for AI model access, and according to an August 25 account balance, they spent $7,005.71 over the previous four weeks.. When: 2026-09-24T23:32:15+00:00. How: A crook has been using three open source AI harnesses to target hundreds of online retailers and other companies, swiping more than 600,000 credit card records and installing card-stealing skimmers - and all at trivial cost. Action: See Arabic action below.",
+    "summary_ar": "من: From there the agent uploaded a web shell, escalated privileges through a misconfigured sudo rule, and accessed AWS credentials, ultimately dumping 46 secrets, totaling 102KB.. ماذا: “We also detected instructions in the attacker’s playbook that could disrupt the operations of a company as a result of data deletion or cleanup procedures run by the agent - and this has indeed happened in some of the breaches.” The operator also used OpenRouter for AI model access, and according to an August 25 account balance, they spent $7,005.71 over the previous four weeks.. متى: 2026-09-24T23:32:15+00:00. كيف: A crook has been using three open source AI harnesses to target hundreds of online retailers and other companies, swiping more than 600,000 credit card records and installing card-stealing skimmers - and all at trivial cost.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5299019.jpg?imageId=5299019&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012"
+    ]
+  },
+  {
     "id": "84fafbac5110ff7bea94c5bb",
     "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
     "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
