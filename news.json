@@ -54,6 +54,114 @@
     ]
   },
   {
+    "id": "82e9a8b128c3791a7fd314a2",
+    "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+    "published": "2026-09-25T20:57:55+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw. What: The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability.. When: 2026-09-25T20:57:55+00:00. How: The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw. ماذا: The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability.. متى: 2026-09-25T20:57:55+00:00. كيف: The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/"
+    ]
+  },
+  {
+    "id": "b56e7f94adf4254dea74506b",
+    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "published": "2026-09-25T19:38:59+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Researchers say they recently found Google ads delivering a sophisticated tech support scam that freezes the screens of both Windows and Mac devices and displays messages urgently instructing them to phone a bogus call center.. What: Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?. When: 2026-09-25T19:38:59+00:00. How: From August 31 to September 14, security firm Netskope observed users from 619 customer organizations click on the malicious ads, although none of them were actually scammed because Netskope blocked the content. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers say they recently found Google ads delivering a sophisticated tech support scam that freezes the screens of both Windows and Mac devices and displays messages urgently instructing them to phone a bogus call center.. ماذا: Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?. متى: 2026-09-25T19:38:59+00:00. كيف: From August 31 to September 14, security firm Netskope observed users from 619 customer organizations click on the malicious ads, although none of them were actually scammed because Netskope blocked the content.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
+    ]
+  },
+  {
+    "id": "8f8a3d149aa4c44a9ff86b27",
+    "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script",
+    "link": "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
+    "published": "2026-09-25T19:13:20+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A Telegram user recruiting callers to work in an apparent Google Security Team voice-phishing scam told applicants that they weren’t allowed to read from scripts – in the same ad that also included the exact script they had to read during these scam calls.. What: They don't have superpowers.\" The FBI’s Internet Crime Complaint Center (IC3) recently reported its most damaging year for internet scams, with 2025’s data pegging reported losses at $20.87 billion, and English-language social engineering is among the most in-demand skill sets on underground forums.. When: 2026-09-25T19:13:20+00:00. How: A Telegram user recruiting callers to work in an apparent Google Security Team voice-phishing scam told applicants that they weren’t allowed to read from scripts – in the same ad that also included the exact script they had to read during these scam calls. Action: See Arabic action below.",
+    "summary_ar": "من: A Telegram user recruiting callers to work in an apparent Google Security Team voice-phishing scam told applicants that they weren’t allowed to read from scripts – in the same ad that also included the exact script they had to read during these scam calls.. ماذا: They don't have superpowers.\" The FBI’s Internet Crime Complaint Center (IC3) recently reported its most damaging year for internet scams, with 2025’s data pegging reported losses at $20.87 billion, and English-language social engineering is among the most in-demand skill sets on underground forums.. متى: 2026-09-25T19:13:20+00:00. كيف: A Telegram user recruiting callers to work in an apparent Google Security Team voice-phishing scam told applicants that they weren’t allowed to read from scripts – in the same ad that also included the exact script they had to read during these scam calls.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/254809.jpg?imageId=254809&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264"
+    ]
+  },
+  {
+    "id": "4e93802753c25b609a4980ab",
+    "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+    "published": "2026-09-25T18:39:32+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment. What: AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment. When: 2026-09-25T18:39:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment. ماذا: AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment. متى: 2026-09-25T18:39:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33c1376950d82e3b/6ab6c3109aed719a106d58d7/sandbox-almaphoto-Getty-2255089996.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness"
+    ]
+  },
+  {
+    "id": "bb5970b0a45b68cb96a646e6",
+    "title": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'",
+    "link": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250",
+    "published": "2026-09-25T18:23:31+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday.. What: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday.. When: 2026-09-25T18:23:31+00:00. How: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday. Action: See Arabic action below.",
+    "summary_ar": "من: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday.. ماذا: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday.. متى: 2026-09-25T18:23:31+00:00. كيف: \"While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk.\" On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5254486.jpg?imageId=5254486&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250"
+    ]
+  },
+  {
+    "id": "407121c5fd6884f419b091a6",
+    "title": "Elementor WordPress flaw lets attackers create admin accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+    "published": "2026-09-25T18:13:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Elementor WordPress flaw lets attackers create admin accounts. What: Elementor WordPress flaw lets attackers create admin accounts. When: 2026-09-25T18:13:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Elementor WordPress flaw lets attackers create admin accounts. ماذا: Elementor WordPress flaw lets attackers create admin accounts. متى: 2026-09-25T18:13:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/"
+    ]
+  },
+  {
     "id": "3e0e6523ebd60b54cbb58c88",
     "title": "What We Missed: Google Gemini Joins the AI Escape Party",
     "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
@@ -149466,24 +149574,6 @@
     "image": "https://www.zdnet.com/a/img/resize/7348581b147e1a2da18cfda29ce4dad5962f4a7c/2026/03/24/c74265ad-a779-4746-80ac-d153ae9603c4/sony-wh-ch520-headphones-amazon-big-spring-sale-image-1.png?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/sony-wh-ch520-headphones-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "93a5aa879d8fd08223d9325d",
-    "title": "FBI confirms hack of Director Patel's personal email inbox",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/",
-    "published": "2026-03-29T21:09:50+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: FBI confirms hack of Director Patel's personal email inbox. What: FBI confirms hack of Director Patel's personal email inbox. When: 2026-03-29T21:09:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FBI confirms hack of Director Patel's personal email inbox. ماذا: FBI confirms hack of Director Patel's personal email inbox. متى: 2026-03-29T21:09:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/29/Iran_personal_email_hack.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/"
     ]
   }
 ]
