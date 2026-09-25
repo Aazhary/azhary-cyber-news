@@ -54,6 +54,82 @@
     ]
   },
   {
+    "id": "75ab585d275425c67ba592a0",
+    "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
+    "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+    "published": "2026-09-25T07:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Russia's Hybrid Cyber-Physical War in Europe Heats Up. What: Russia's Hybrid Cyber-Physical War in Europe Heats Up. When: 2026-09-25T07:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russia's Hybrid Cyber-Physical War in Europe Heats Up. ماذا: Russia's Hybrid Cyber-Physical War in Europe Heats Up. متى: 2026-09-25T07:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe"
+    ]
+  },
+  {
+    "id": "ac5e91c66b8353245937ddc0",
+    "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
+    "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+    "published": "2026-09-25T06:57:40+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Roundcube Webmail Vulnerability in Attackers’ Crosshairs. What: Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.. When: 2026-09-25T06:57:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Roundcube Webmail Vulnerability in Attackers’ Crosshairs. ماذا: Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.. متى: 2026-09-25T06:57:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-48842"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Email-Security.jpg",
+    "sources": [
+      "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/"
+    ]
+  },
+  {
+    "id": "a80caea957f6b5ac89c49677",
+    "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+    "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+    "published": "2026-09-25T04:49:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.. What: The company Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data. When: 2026-09-25T04:49:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.. ماذا: The company Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data. متى: 2026-09-25T04:49:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
+    ]
+  },
+  {
+    "id": "e85a70b763dc1deca4d6c969",
+    "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+    "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+    "published": "2026-09-25T04:46:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. When: 2026-09-25T04:46:34+00:00. How: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. متى: 2026-09-25T04:46:34+00:00. كيف: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-5430"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
+    ]
+  },
+  {
     "id": "28c4ceb99ab9a280f6fa3330",
     "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
     "link": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
