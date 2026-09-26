@@ -54,6 +54,116 @@
     ]
   },
   {
+    "id": "8f8f3ea9305c64dd5d7c49f3",
+    "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+    "published": "2026-09-26T12:28:41+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks.. What: OpenAI's AI agents accidentally uploaded user-provided images to third-party sites. When: 2026-09-26T12:28:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks.. ماذا: OpenAI's AI agents accidentally uploaded user-provided images to third-party sites. متى: 2026-09-26T12:28:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/08/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/"
+    ]
+  },
+  {
+    "id": "f6ae1f4fa767f1125a738d2f",
+    "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+    "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+    "published": "2026-09-26T12:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining. What: New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining. When: 2026-09-26T12:00:00+00:00. How: The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. Action: See Arabic action below.",
+    "summary_ar": "من: New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining. ماذا: New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining. متى: 2026-09-26T12:00:00+00:00. كيف: The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/botnet.jpeg",
+    "sources": [
+      "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/"
+    ]
+  },
+  {
+    "id": "64b05937032a2216438d7fb6",
+    "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+    "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "published": "2026-09-26T10:15:41+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek .. What: OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure. When: 2026-09-26T10:15:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek .. ماذا: OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure. متى: 2026-09-26T10:15:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
+    ]
+  },
+  {
+    "id": "06ab9a4d91a46080af41bfa9",
+    "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+    "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "published": "2026-09-26T09:55:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link. What: Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.. When: 2026-09-26T09:55:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link. ماذا: Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.. متى: 2026-09-26T09:55:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+    ]
+  },
+  {
+    "id": "917fda2ee0646d31af32394c",
+    "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+    "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "published": "2026-09-26T08:49:53+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. When: 2026-09-26T08:49:53+00:00. How: The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. متى: 2026-09-26T08:49:53+00:00. كيف: The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-65660"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+    ]
+  },
+  {
+    "id": "41696cb4303777f8b259706b",
+    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+    "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "published": "2026-09-26T07:48:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack. What: Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack. When: 2026-09-26T07:48:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack. ماذا: Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack. متى: 2026-09-26T07:48:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html"
+    ]
+  },
+  {
     "id": "e9160c0adae6864466a869d5",
     "title": "3 Consulting Myths Debunked by Unit 42 Experts",
     "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
@@ -148998,350 +149108,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/ba3768d6-fe54-4ce3-960c-1a1bca7d2bc1.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/"
-    ]
-  },
-  {
-    "id": "76e3f633b5e969d8710c5e76",
-    "title": "⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More",
-    "link": "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html",
-    "published": "2026-03-30T13:56:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Persistence plays, legal wins, influence ops, and at least one thing that looks boring ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K.. What: ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More. When: 2026-03-30T13:56:00+00:00. How: Persistence plays, legal wins, influence ops, and at least one thing that looks boring ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Action: See Arabic action below.",
-    "summary_ar": "من: Persistence plays, legal wins, influence ops, and at least one thing that looks boring ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K.. ماذا: ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More. متى: 2026-03-30T13:56:00+00:00. كيف: Persistence plays, legal wins, influence ops, and at least one thing that looks boring ⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2e5F9xrNGflqGG3Z7UcoPHMKZnF1j1FJBpwnPfV0MBCUweDKegb97Kcry4OK2kQgx0bQ91Lhem0BdasOpiN9UoKz7rNTAVgBuJzbM9jCaF4APqUsXlkiZfbC35xNWAd0z7T0qZoTN3GdVW9exy7BcEIjV64hinG5pxmbX69KdF_u7qXUpuEZZX_R8vaMP/s1600/recapss.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html"
-    ]
-  },
-  {
-    "id": "59b071949e80348559a74e58",
-    "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
-    "published": "2026-03-30T13:49:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Researchers say attackers are already looting vulnerable boxes In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.… Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat. What: Researchers say attackers are already looting vulnerable boxes In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.… Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat. When: 2026-03-30T13:49:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers say attackers are already looting vulnerable boxes In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.… Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat. ماذا: Researchers say attackers are already looting vulnerable boxes In-the-wild exploitation of a critical Citrix NetScaler bug has begun less than a week after disclosure, with researchers warning that attackers are already poking and pillaging vulnerable boxes.… Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat. متى: 2026-03-30T13:49:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/06/29/shutterstock_computer_bug.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/"
-    ]
-  },
-  {
-    "id": "d370211aa9c054461ade6d4a",
-    "title": "This single power station is keeping my off-grid cabin running - here's why I picked it",
-    "link": "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/",
-    "published": "2026-03-30T13:38:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This single power station is keeping my off-grid cabin running - here's why I picked it. What: This single power station is keeping my off-grid cabin running - here's why I picked it. When: 2026-03-30T13:38:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This single power station is keeping my off-grid cabin running - here's why I picked it. ماذا: This single power station is keeping my off-grid cabin running - here's why I picked it. متى: 2026-03-30T13:38:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/43437f27d8245d024bd272c3f1e5b74d9846dd4c/2026/03/30/dd90c4eb-00d8-41d0-86cb-21a664db7b69/img-3303.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/"
-    ]
-  },
-  {
-    "id": "2027089ecfd78315c61809dc",
-    "title": "3 SOC Process Fixes That Unlock Tier 1 Productivity",
-    "link": "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html",
-    "published": "2026-03-30T13:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: 3 SOC Process Fixes That Unlock Tier 1 Productivity. What: Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure 3 SOC Process Fixes That Unlock Tier 1 Productivity. When: 2026-03-30T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 3 SOC Process Fixes That Unlock Tier 1 Productivity. ماذا: Fixing those process gaps can help Tier 1 move faster, reduce unnecessary escalations, and improve how the entire SOC responds under pressure 3 SOC Process Fixes That Unlock Tier 1 Productivity. متى: 2026-03-30T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFh5EaxE3C26MNKxziPoKvAK16f1ctGNYf_S1E7IY1tfyazizZwtmHaqHaTHSqBwWAMtENhtk5K1GzWLRln80K-vm2S9lkVeE3tpfQeVTaptm_T8kNoeCFLDbJLKMwqNsmD9y2iUDnLUJw4b6BQpST8M5h3dk7yRGyBcrl29nD8rw045i5roI91mRrEQs/s1600/soc.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html"
-    ]
-  },
-  {
-    "id": "b003d8c0ab470e3cd785b785",
-    "title": "This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why",
-    "link": "https://www.zdnet.com/article/ai-job-apocalypse-not-happening-for-coders/",
-    "published": "2026-03-30T12:23:01+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why. What: This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why. When: 2026-03-30T12:23:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why. ماذا: This AI expert says the job apocalypse isn't coming, even if you're a coder - here's why. متى: 2026-03-30T12:23:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/33aa5e20aad6c4c76b3d453d79e4c6b0b8c8f3db/2026/03/30/6aaabead-24ae-4a3d-8c03-fa2a1df998f3/gettyimages-1425988570.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-job-apocalypse-not-happening-for-coders/"
-    ]
-  },
-  {
-    "id": "8c60ff84a024f4af84d2bab9",
-    "title": "Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels",
-    "link": "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html",
-    "published": "2026-03-30T12:18:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels. What: Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels. When: 2026-03-30T12:18:00+00:00. How: Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders. Action: See Arabic action below.",
-    "summary_ar": "من: Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels. ماذا: Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels. متى: 2026-03-30T12:18:00+00:00. كيف: Cybersecurity researchers have discovered a remote access toolkit of Russian-origin that's distributed via malicious Windows shortcut (LNK) files that are disguised as private key folders.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05CEOtp0cIlsi1qDK4HRH2PPOFyvB5jca65pAQVsnCfBHZ-wRGt0s8VhvzO_l-4Q9H_xGKQsO_efVGzJ46ElLQNaq_FEp6wPUou4aqTvEKMPlEEGOTyEtISTj0VkC5QmO38HuxWehNDTUkdvCVCCp-GrIPWJyFt4dTLp1TIbqW8hAiVEJ-vxnoKUexR6-/s1600/ctrl-ctrl.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html"
-    ]
-  },
-  {
-    "id": "2dfc3b82cad7bc7faa3d9c20",
-    "title": "Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now",
-    "link": "https://www.zdnet.com/article/t-mobile-visa-deals/",
-    "published": "2026-03-30T12:00:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now. What: Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now. When: 2026-03-30T12:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now. ماذا: Earn 5% in rewards on phones, devices, and accessories with the T-Mobile Visa right now. متى: 2026-03-30T12:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ff94cced2b8bd1005c21eb2b17a1a1e686a0de76/2026/03/16/af4c384b-d842-4c88-99c7-8f347428d58e/screenshot-2026-03-16-at-2-51-48pm.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/t-mobile-visa-deals/"
-    ]
-  },
-  {
-    "id": "667054b998b8f7b6fb7dfa6d",
-    "title": "DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection",
-    "link": "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/",
-    "published": "2026-03-30T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection. What: Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection. When: 2026-03-30T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection. ماذا: Researchers at ReliaQuest warn of persistent malware campaign targeting enterprise credentials DeepLoad Malware Combines ClickFix With AI-Generated Code to Avoid Detection. متى: 2026-03-30T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/8a8e3ff5-673f-4773-968b-418136613b52.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/deepload-malware-clickfix-ai-code/"
-    ]
-  },
-  {
-    "id": "73419714977c493d3243a51f",
-    "title": "Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit",
-    "link": "https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/",
-    "published": "2026-03-30T11:54:15+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit. What: Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit. When: 2026-03-30T11:54:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit. ماذا: Russian APT Star Blizzard Adopts DarkSword iOS Exploit Kit. متى: 2026-03-30T11:54:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/russian-apt-star-blizzard-adopts-darksword-ios-exploit-kit/"
-    ]
-  },
-  {
-    "id": "b1c0a5008655823b7edab91e",
-    "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-    "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html",
-    "published": "2026-03-30T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.. What: The State of Secrets Sprawl 2026: 9 Takeaways for CISOs. When: 2026-03-30T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public GitHub and uncovered 29 million new hardcoded secrets in 2025 alone, a 34% increase year over year and the largest single-year jump ever recorded.. ماذا: The State of Secrets Sprawl 2026: 9 Takeaways for CISOs. متى: 2026-03-30T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tVpFBDvdU-vz8vM1T6SJZwd3AiySFqEyonUutxGPNimXEqTVOKN-pCI_lF5Ti2GngFUPtEphVI4Qep03CBciF7NhaWEIKYdDfkVY-VleTTcqYJvcMTKrd-EJ4kh2zLk3cY7pqqxI7bfEghuxGAV7lwUPjTD6nTa5dKj5e8_RJD9UjHn12015puG8P4o/s1600/key.gif",
-    "sources": [
-      "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
-    ]
-  },
-  {
-    "id": "d77833f1fb43f358000c13f3",
-    "title": "European Commission Reports Cyber Intrusion and Data Theft",
-    "link": "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/",
-    "published": "2026-03-30T11:29:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: European Commission Reports Cyber Intrusion and Data Theft. What: European Commission Reports Cyber Intrusion and Data Theft. When: 2026-03-30T11:29:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: European Commission Reports Cyber Intrusion and Data Theft. ماذا: European Commission Reports Cyber Intrusion and Data Theft. متى: 2026-03-30T11:29:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/european-commission-reports-cyber-intrusion-and-data-theft/"
-    ]
-  },
-  {
-    "id": "5e381c5697e1557c9945148c",
-    "title": "How I'm using a smart calendar to effectively keep my large family organized",
-    "link": "https://www.zdnet.com/article/skylight-calendar-2-review/",
-    "published": "2026-03-30T11:10:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I'm using a smart calendar to effectively keep my large family organized. What: How I'm using a smart calendar to effectively keep my large family organized. When: 2026-03-30T11:10:00+00:00. How: How I'm using a smart calendar to effectively keep my large family organized Action: See Arabic action below.",
-    "summary_ar": "من: How I'm using a smart calendar to effectively keep my large family organized. ماذا: How I'm using a smart calendar to effectively keep my large family organized. متى: 2026-03-30T11:10:00+00:00. كيف: How I'm using a smart calendar to effectively keep my large family organized. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d071eeaab0d051a2d1ffef1b97932221b7c26391/2026/03/06/0b43f5f8-9764-4e14-b073-e8c0d51645ad/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/skylight-calendar-2-review/"
-    ]
-  },
-  {
-    "id": "cbbcb1b3eac42f2a57b5b7f3",
-    "title": "Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare",
-    "link": "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/",
-    "published": "2026-03-30T11:09:49+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare. What: Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare. When: 2026-03-30T11:09:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare. ماذا: Hacked Hospitals, Hidden Spyware: Iran Conflict Shows How Digital Fight Is Ingrained in Warfare. متى: 2026-03-30T11:09:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare/"
-    ]
-  },
-  {
-    "id": "612d27930cf5549380ae8e89",
-    "title": "Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/",
-    "published": "2026-03-30T10:59:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now. What: F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices.. When: 2026-03-30T10:59:38+00:00. How: F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploiting critical F5 BIG-IP flaw in attacks, patch now. ماذا: F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices.. متى: 2026-03-30T10:59:38+00:00. كيف: F5 has reclassified a BIG-IP APM denial-of-service (DoS) vulnerability as a critical-severity remote code execution (RCE) flaw, warning that attackers are exploiting it to deploy webshells on unpatched devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/15/F5.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/"
-    ]
-  },
-  {
-    "id": "f59a4908369c67911be133d1",
-    "title": "How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP",
-    "link": "https://www.zdnet.com/article/how-to-turn-on-iphone-private-dns/",
-    "published": "2026-03-30T10:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP. What: How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP. When: 2026-03-30T10:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP. ماذا: How to enable Private DNS mode on your iPhone - and why it's important to do so ASAP. متى: 2026-03-30T10:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bc13355db86575a4b483b55dd6847d42dc92ab4f/2026/03/24/5a65f4dd-0b5b-4c55-9e8a-b77b4edd10cb/dsc09906.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-on-iphone-private-dns/",
-      "https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-phone/",
-      "https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-phones-and-why-you-should-asap/"
-    ]
-  },
-  {
-    "id": "71884f9803e2943bec76328e",
-    "title": "Telnyx Targeted in Growing TeamPCP Supply Chain Attack",
-    "link": "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/",
-    "published": "2026-03-30T10:53:46+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Telnyx Targeted in Growing TeamPCP Supply Chain Attack. What: Telnyx Targeted in Growing TeamPCP Supply Chain Attack. When: 2026-03-30T10:53:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Telnyx Targeted in Growing TeamPCP Supply Chain Attack. ماذا: Telnyx Targeted in Growing TeamPCP Supply Chain Attack. متى: 2026-03-30T10:53:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/telnyx-targeted-in-growing-teampcp-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "f98462536433f16f0b6f4b4e",
-    "title": "It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of",
-    "link": "https://www.zdnet.com/article/macbook-air-m5-review/",
-    "published": "2026-03-30T10:46:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of. What: It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of. When: 2026-03-30T10:46:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of. ماذا: It's not the MacBook Neo, but the MacBook Air that Windows should be most afraid of. متى: 2026-03-30T10:46:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8b7b475b4d3cb82146eaf24fd43fefbd1694863a/2026/03/18/830daa9d-c2c1-42ee-9b2f-39abad48113c/dsc09884.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macbook-air-m5-review/"
-    ]
-  },
-  {
-    "id": "5710ce5c4dc53a73754cb06a",
-    "title": "European Commission admits attackers broke into public web systems, but says little else",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/european_commission_breach/",
-    "published": "2026-03-30T10:15:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: European Commission admits attackers broke into public web systems, but says little else. What: European Commission admits attackers broke into public web systems, but says little else. When: 2026-03-30T10:15:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: European Commission admits attackers broke into public web systems, but says little else. ماذا: European Commission admits attackers broke into public web systems, but says little else. متى: 2026-03-30T10:15:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2015/10/08/european_commission_photo_via_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/30/european_commission_breach/"
-    ]
-  },
-  {
-    "id": "5a49ab52136c21db6bb0e4d0",
-    "title": "Microsoft pulls KB5079391 Windows update over install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/",
-    "published": "2026-03-30T09:38:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation.. What: Microsoft pulls KB5079391 Windows update over install issues. When: 2026-03-30T09:38:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation.. ماذا: Microsoft pulls KB5079391 Windows update over install issues. متى: 2026-03-30T09:38:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/11/Windows_11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"
     ]
   }
 ]
