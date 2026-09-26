@@ -54,6 +54,62 @@
     ]
   },
   {
+    "id": "d8143f817f623613bfcef2d1",
+    "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+    "published": "2026-09-26T19:03:34+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers.. What: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers.. When: 2026-09-26T19:03:34+00:00. How: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. Action: See Arabic action below.",
+    "summary_ar": "من: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers.. ماذا: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers.. متى: 2026-09-26T19:03:34+00:00. كيف: The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/21/Oracle.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
+    ]
+  },
+  {
+    "id": "d0389279f56227f3aa2cc930",
+    "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+    "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+    "published": "2026-09-26T18:22:52+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.. What: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.. When: 2026-09-26T18:22:52+00:00. How: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. Action: See Arabic action below.",
+    "summary_ar": "من: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.. ماذا: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.. متى: 2026-09-26T18:22:52+00:00. كيف: The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html"
+    ]
+  },
+  {
+    "id": "24bae0f5520c72422a557cc4",
+    "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
+    "link": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
+    "published": "2026-09-26T18:09:28+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks. What: China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks. When: 2026-09-26T18:09:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks. ماذا: China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks. متى: 2026-09-26T18:09:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/China-APT-AI-artificial-intelligence.jpeg",
+    "sources": [
+      "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/"
+    ]
+  },
+  {
     "id": "7843e0df28888ae6a153647f",
     "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
@@ -148672,209 +148728,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/03/30/road.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/"
-    ]
-  },
-  {
-    "id": "8086a58b0a3050c88d3d4346",
-    "title": "What Google's TurboQuant can and can't do for AI's spiraling cost",
-    "link": "https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/",
-    "published": "2026-03-30T19:59:16+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google's real-time quantization could be important for running local AI.. What: What Google's TurboQuant can and can't do for AI's spiraling cost. When: 2026-03-30T19:59:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google's real-time quantization could be important for running local AI.. ماذا: What Google's TurboQuant can and can't do for AI's spiraling cost. متى: 2026-03-30T19:59:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5153c23d0e034ceee30078bcdce4d0c77f558e40/2026/03/30/66963fb6-6721-4333-ac3d-ea49af3ae9f2/aiiiboard-gettyimages-1462023760.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/"
-    ]
-  },
-  {
-    "id": "d6e40443db333930c9030168",
-    "title": "OpenAI patches ChatGPT flaw that smuggled data over DNS",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/",
-    "published": "2026-03-30T19:36:29+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS. What: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS. When: 2026-03-30T19:36:29+00:00. How: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS Action: See Arabic action below.",
-    "summary_ar": "من: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS. ماذا: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS. متى: 2026-03-30T19:36:29+00:00. كيف: Check Point says outbound controls blocked web traffic but overlooked DNS OpenAI talks up data security for its AI services, yet Check Point says that ChatGPT allowed data to leak through a DNS side channel before the flaw was fixed.… OpenAI patches ChatGPT flaw that smuggled data over DNS. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/08/18/shutterstock_678594721.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/"
-    ]
-  },
-  {
-    "id": "ac3912098b9edd64ef9d0330",
-    "title": "I used an M.2 PCIe enclosure for data storage, and it made file transfers so much faster",
-    "link": "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/",
-    "published": "2026-03-30T18:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I used an M.2 PCIe enclosure for data storage, and it made file transfers so much faster. What: I used an M.2 PCIe enclosure for data storage, and it made file transfers so much faster. When: 2026-03-30T18:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I used an M.2 PCIe enclosure for data storage, and it made file transfers so much faster. ماذا: I used an M.2 PCIe enclosure for data storage, and it made file transfers so much faster. متى: 2026-03-30T18:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/48d78842499d30349d61092c10a85b1e4f6252dc/2026/02/11/5c6ba977-87ab-43fc-a2b0-f557113364ab/hyperdrive-enclosure-image-5.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hyper-drive-usb4-enclosure-review/"
-    ]
-  },
-  {
-    "id": "6471a65e1a98056f5ebcad47",
-    "title": "AI-Driven Code Surge Is Forcing a Rethink of AppSec",
-    "link": "https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec",
-    "published": "2026-03-30T18:42:33+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: AI-Driven Code Surge Is Forcing a Rethink of AppSec. What: AI-Driven Code Surge Is Forcing a Rethink of AppSec. When: 2026-03-30T18:42:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI-Driven Code Surge Is Forcing a Rethink of AppSec. ماذا: AI-Driven Code Surge Is Forcing a Rethink of AppSec. متى: 2026-03-30T18:42:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/ai-driven-code-surge-is-forcing-a-rethink-of-appsec"
-    ]
-  },
-  {
-    "id": "6c274dc4b27a37e0c174ad43",
-    "title": "AirPods Pro 3 vs. Bose QuietComfort Ultra 2: I listened to both, and there's a sonic difference",
-    "link": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-bose-quietcomfort-ultra-earbuds-2/",
-    "published": "2026-03-30T18:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: AirPods Pro 3 vs. Bose QuietComfort Ultra 2: I listened to both, and there's a sonic difference. What: AirPods Pro 3 vs. Bose QuietComfort Ultra 2: I listened to both, and there's a sonic difference. When: 2026-03-30T18:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AirPods Pro 3 vs. Bose QuietComfort Ultra 2: I listened to both, and there's a sonic difference. ماذا: AirPods Pro 3 vs. Bose QuietComfort Ultra 2: I listened to both, and there's a sonic difference. متى: 2026-03-30T18:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/30a5cd7022eb11aac81dc5baaa478db73a2ce233/2025/12/01/3962da26-f636-4347-8bcf-f2caeb671c17/applevbose.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-airpods-pro-3-vs-bose-quietcomfort-ultra-earbuds-2/"
-    ]
-  },
-  {
-    "id": "f0775730bfb4d9bf50743b9b",
-    "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/",
-    "published": "2026-03-30T18:28:37+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Critical Citrix NetScaler memory flaw actively exploited in attacks. What: [...] Critical Citrix NetScaler memory flaw actively exploited in attacks. When: 2026-03-30T18:28:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Citrix NetScaler memory flaw actively exploited in attacks. ماذا: [...] Critical Citrix NetScaler memory flaw actively exploited in attacks. متى: 2026-03-30T18:28:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-3055"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/07/02/Citrix.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
-    ]
-  },
-  {
-    "id": "00e5814e2074f51fc39bbfe3",
-    "title": "F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation",
-    "link": "https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation",
-    "published": "2026-03-30T18:24:02+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation. What: CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.. When: 2026-03-30T18:24:02+00:00. How: F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation Action: See Arabic action below.",
-    "summary_ar": "من: F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation. ماذا: CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.. متى: 2026-03-30T18:24:02+00:00. كيف: F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-53521"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/f5-big-ip-vulnerability-reclassified-rce-exploitation",
-      "https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation"
-    ]
-  },
-  {
-    "id": "bde5f89487a19c733d5a0985",
-    "title": "OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability",
-    "link": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
-    "published": "2026-03-30T18:05:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.. What: OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability. When: 2026-03-30T18:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A previously unknown vulnerability in OpenAI ChatGPT allowed sensitive conversation data to be exfiltrated without user knowledge or consent, according to new findings from Check Point.. ماذا: OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability. متى: 2026-03-30T18:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSleuSc-PdTH7u0CSOLasljqQ-HO4A5sIqzvVeeVlGlqynCVYSdgU1c-7zoVavi1OADQiN3-_KS93PbMbmc4daNULqCXV21ChjnRUvqXIPT9mnLRCmbHdVy0YeaMnRuzGBAo8JoJPE5Wnzl3Sf0b_3d1-OV6VB3PKhKy_olGs9mi1YLIOJnAl7uQkYkdjI/s1600/cpr.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html"
-    ]
-  },
-  {
-    "id": "cb0ff60410e7f8da46bbac98",
-    "title": "I've been WFH for 7 years. These are the home office gadgets I want right now",
-    "link": "https://www.zdnet.com/article/home-office-gadgets-amazon-spring-sale-2026/",
-    "published": "2026-03-30T18:01:33+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've been WFH for 7 years. These are the home office gadgets I want right now. What: I've been WFH for 7 years. These are the home office gadgets I want right now. When: 2026-03-30T18:01:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've been WFH for 7 years. These are the home office gadgets I want right now. ماذا: I've been WFH for 7 years. These are the home office gadgets I want right now. متى: 2026-03-30T18:01:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1b449ccee7813ae5bc8d5caa2648e3e495e4e616/2023/04/20/766149ac-ee3a-434d-9dac-ab50a5673c4c/rocketbook.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/home-office-gadgets-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "353cbf67fdd5ca0aca774708",
-    "title": "Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/",
-    "published": "2026-03-30T17:42:55+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach. What: Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach. When: 2026-03-30T17:42:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach. ماذا: Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach. متى: 2026-03-30T17:42:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/03/29/chain_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/"
-    ]
-  },
-  {
-    "id": "662283492945d522d961f6db",
-    "title": "YouTube is coming to Android Auto - but you can't watch it",
-    "link": "https://www.zdnet.com/article/youtube-is-coming-to-android-auto-but-you-cant-watch-it/",
-    "published": "2026-03-30T17:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: YouTube is coming to Android Auto - but you can't watch it. What: YouTube is coming to Android Auto - but you can't watch it. When: 2026-03-30T17:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: YouTube is coming to Android Auto - but you can't watch it. ماذا: YouTube is coming to Android Auto - but you can't watch it. متى: 2026-03-30T17:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0dffd326b36ec6aea8e5aeb87f800d5df052178f/2026/03/30/c9a0af1f-c9ab-4e9d-9982-57637cba508c/ytappgettyimages-2191665387.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/youtube-is-coming-to-android-auto-but-you-cant-watch-it/"
     ]
   }
 ]
