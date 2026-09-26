@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "7843e0df28888ae6a153647f",
+    "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+    "published": "2026-09-26T16:26:58+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer. What: Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer. When: 2026-09-26T16:26:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer. ماذا: Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer. متى: 2026-09-26T16:26:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/"
+    ]
+  },
+  {
+    "id": "5fe3eb5897178d7a28d2e600",
+    "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+    "published": "2026-09-26T15:50:38+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.. What: Microsoft pauses KB5002907 update after Office license deactivations. When: 2026-09-26T15:50:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations.. ماذا: Microsoft pauses KB5002907 update after Office license deactivations. متى: 2026-09-26T15:50:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/"
+    ]
+  },
+  {
+    "id": "7cfbf8cc3081e75d10a7c7d4",
+    "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+    "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+    "published": "2026-09-26T14:19:46+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code.. What: GitHub Actions re-enabled with Mini Shai-Hulud payload still active. When: 2026-09-26T14:19:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code.. ماذا: GitHub Actions re-enabled with Mini Shai-Hulud payload still active. متى: 2026-09-26T14:19:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/Hackerbox.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/"
+    ]
+  },
+  {
     "id": "8f8f3ea9305c64dd5d7c49f3",
     "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
@@ -87,6 +141,44 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/12/botnet.jpeg",
     "sources": [
       "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/"
+    ]
+  },
+  {
+    "id": "05d26f439898d6641efe72b9",
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+    "published": "2026-09-26T11:46:40+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.. What: The vulnerability was first exploited as a zero-day Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells. When: 2026-09-26T11:46:40+00:00. How: The vulnerability was first exploited as a zero-day Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells Action: See Arabic action below.",
+    "summary_ar": "من: Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.. ماذا: The vulnerability was first exploited as a zero-day Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells. متى: 2026-09-26T11:46:40+00:00. كيف: The vulnerability was first exploited as a zero-day Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
+    ]
+  },
+  {
+    "id": "4e66adccc3e470f43e5d5f1a",
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "published": "2026-09-26T10:30:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to Zero Trust for AI Agents Starts With Fixing Zero Visibility. What: While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to Zero Trust for AI Agents Starts With Fixing Zero Visibility. When: 2026-09-26T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to Zero Trust for AI Agents Starts With Fixing Zero Visibility. ماذا: While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at Hugging Face during an evaluation of OpenAI agents, has spurred organizations to Zero Trust for AI Agents Starts With Fixing Zero Visibility. متى: 2026-09-26T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTXTCeNSvaPIRWOUJJxKPfYp45QnSjl24XZ1Set210zScJhg03o_TYX0QKPQdcSq-vkiWnymSqBu-bSwcCm1Kb2Te5do1VIcbCQjc_-TOOR6VwqRiHu5LE-tBb0gdrDjmPuDADfUraASQenGh-1gI4PF_xa2GwREsDM4vq4_C-aEU8EJsBBvhykJ1E0/s1600/sans-article.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html"
     ]
   },
   {
@@ -148783,331 +148875,6 @@
     "image": "https://www.zdnet.com/a/img/resize/0dffd326b36ec6aea8e5aeb87f800d5df052178f/2026/03/30/c9a0af1f-c9ab-4e9d-9982-57637cba508c/ytappgettyimages-2191665387.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/youtube-is-coming-to-android-auto-but-you-cant-watch-it/"
-    ]
-  },
-  {
-    "id": "2a882d39e772a4691d235ad0",
-    "title": "This is hands-down the best juicer I've ever used - and it's on sale",
-    "link": "https://www.zdnet.com/article/dreamfarm-fluicer-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-30T17:32:35+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This is hands-down the best juicer I've ever used - and it's on sale. What: This is hands-down the best juicer I've ever used - and it's on sale. When: 2026-03-30T17:32:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This is hands-down the best juicer I've ever used - and it's on sale. ماذا: This is hands-down the best juicer I've ever used - and it's on sale. متى: 2026-03-30T17:32:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8ff887b5f96d20ca90565506e3222e7859c4ecd6/2026/03/30/a8c5f6c4-0de6-4888-937a-abd215d2647a/img-0866.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dreamfarm-fluicer-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "2c4c4b72fae66503421c6ee9",
-    "title": "I tried a command-line-only distro that can seriously improve your Linux skills",
-    "link": "https://www.zdnet.com/article/peropesis-linux-operating-system/",
-    "published": "2026-03-30T17:23:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried a command-line-only distro that can seriously improve your Linux skills. What: I tried a command-line-only distro that can seriously improve your Linux skills. When: 2026-03-30T17:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried a command-line-only distro that can seriously improve your Linux skills. ماذا: I tried a command-line-only distro that can seriously improve your Linux skills. متى: 2026-03-30T17:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0475c260235daffaea129e27789ad11a628c491e/2026/03/30/5d596f03-06f1-44a6-bde7-851c5ff9965d/gettyimages-121800653.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/peropesis-linux-operating-system/"
-    ]
-  },
-  {
-    "id": "aa7bd171fff6ad037d9f2d18",
-    "title": "Manufacturing &amp; Healthcare Share Struggles with Passwords",
-    "link": "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords",
-    "published": "2026-03-30T16:25:19+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Manufacturing &amp; Healthcare Share Struggles with Passwords. What: Manufacturing &amp; Healthcare Share Struggles with Passwords. When: 2026-03-30T16:25:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Manufacturing &amp; Healthcare Share Struggles with Passwords. ماذا: Manufacturing &amp; Healthcare Share Struggles with Passwords. متى: 2026-03-30T16:25:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords"
-    ]
-  },
-  {
-    "id": "9d21f82902caf091a861dd71",
-    "title": "The most popular Amazon Spring Sale deals, according to thousands of readers",
-    "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
-    "published": "2026-03-30T16:25:16+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The most popular Amazon Spring Sale deals, according to thousands of readers. What: The most popular Amazon Spring Sale deals, according to thousands of readers. When: 2026-03-30T16:25:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The most popular Amazon Spring Sale deals, according to thousands of readers. ماذا: The most popular Amazon Spring Sale deals, according to thousands of readers. متى: 2026-03-30T16:25:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/39274863a09e247415364d9b74fe9ca898a70b64/2026/03/24/d648f750-93c7-41b6-b0d2-190f12bcab1c/untitled-design-2026-03-24t141836-621.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "4f680358b6cd67a826a32f15",
-    "title": "The best streaming deals right now: Paramount+, Roku sticks, and more",
-    "link": "https://www.zdnet.com/article/best-streaming-deals-last-minute-amazon-spring-sale-2026/",
-    "published": "2026-03-30T16:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best streaming deals right now: Paramount+, Roku sticks, and more. What: The best streaming deals right now: Paramount+, Roku sticks, and more. When: 2026-03-30T16:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best streaming deals right now: Paramount+, Roku sticks, and more. ماذا: The best streaming deals right now: Paramount+, Roku sticks, and more. متى: 2026-03-30T16:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d4b66186045321c7697e3423f936df2cc899c764/2025/05/05/369c550c-7117-4c04-ab58-a4627d676ce5/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-streaming-deals-last-minute-amazon-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-streaming-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "30542e909ba7bfe8813d68db",
-    "title": "DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials",
-    "link": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
-    "published": "2026-03-30T15:47:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials. What: A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad.. When: 2026-03-30T15:47:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials. ماذا: A new campaign has leveraged the ClickFix social engineering tactic as a way to distribute a previously undocumented malware loader referred to as DeepLoad.. متى: 2026-03-30T15:47:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2icgdVOmzM5pZsm88HvvmzcWKRBBXvG94z4fSZMEVPzb7GDoJ_MGDckeaK2dYVEoId5bhMbBtB0bTc0xWJshdOQ-fJEUH5nPIo028Cpm1bmmR1Qlrv5M6atg6oMz0wc0hX4phKfXivitHkWqMiE_Rl7PaD0qIrGMyaq9D_QwAMm62Bw5iaMBlHvwAnIa_/s1600/deepload.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
-    ]
-  },
-  {
-    "id": "7c944afffc97487e6a6fc346",
-    "title": "Storm Brews Over Critical, No-Click Telegram Flaw",
-    "link": "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw",
-    "published": "2026-03-30T15:01:59+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Storm Brews Over Critical, No-Click Telegram Flaw. What: Storm Brews Over Critical, No-Click Telegram Flaw. When: 2026-03-30T15:01:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Storm Brews Over Critical, No-Click Telegram Flaw. ماذا: Storm Brews Over Critical, No-Click Telegram Flaw. متى: 2026-03-30T15:01:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw"
-    ]
-  },
-  {
-    "id": "10dc931ad100589977aa3942",
-    "title": "Amazon is discounting these popular DeWalt power tools by up to $200 off",
-    "link": "https://www.zdnet.com/article/dewalt-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-30T15:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon is discounting these popular DeWalt power tools by up to $200 off. What: Amazon is discounting these popular DeWalt power tools by up to $200 off. When: 2026-03-30T15:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon is discounting these popular DeWalt power tools by up to $200 off. ماذا: Amazon is discounting these popular DeWalt power tools by up to $200 off. متى: 2026-03-30T15:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/550db11ee893f738b7e6187243074a1e5dbf33a4/2025/05/19/c5814f57-b5cd-437d-b278-bef8d0ca3942/img-3751.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dewalt-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "d64c80c34181125b3a47ab59",
-    "title": "Cybercriminals Exploit Tax Season With New Phishing Tactics",
-    "link": "https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/",
-    "published": "2026-03-30T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Cybercriminals Exploit Tax Season With New Phishing Tactics. What: Cybercriminals Exploit Tax Season With New Phishing Tactics. When: 2026-03-30T15:00:00+00:00. How: Tax-season phishing floods deliver RMM malware, credential theft, BEC and tax-form scams Cybercriminals Exploit Tax Season With New Phishing Tactics Action: See Arabic action below.",
-    "summary_ar": "من: Cybercriminals Exploit Tax Season With New Phishing Tactics. ماذا: Cybercriminals Exploit Tax Season With New Phishing Tactics. متى: 2026-03-30T15:00:00+00:00. كيف: Tax-season phishing floods deliver RMM malware, credential theft, BEC and tax-form scams Cybercriminals Exploit Tax Season With New Phishing Tactics. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/09dd444b-911b-4c77-b1c9-609b8984fb6f.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/tax-season-new-phishing-tactics/"
-    ]
-  },
-  {
-    "id": "32c1d24b6cee76be2d04c232",
-    "title": "I found rare DDR5 RAM deals for up to $350 off during Amazon's Spring Sale",
-    "link": "https://www.zdnet.com/article/ddr5-ram-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-30T14:55:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found rare DDR5 RAM deals for up to $350 off during Amazon's Spring Sale. What: I found rare DDR5 RAM deals for up to $350 off during Amazon's Spring Sale. When: 2026-03-30T14:55:00+00:00. How: The RAM-pocalypse is causing sky-high prices, but you can snag upgrades from Corsair, Kingston, and more during Amazon's Spring Sale. Action: See Arabic action below.",
-    "summary_ar": "من: I found rare DDR5 RAM deals for up to $350 off during Amazon's Spring Sale. ماذا: I found rare DDR5 RAM deals for up to $350 off during Amazon's Spring Sale. متى: 2026-03-30T14:55:00+00:00. كيف: The RAM-pocalypse is causing sky-high prices, but you can snag upgrades from Corsair, Kingston, and more during Amazon's Spring Sale.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bacf33e2494d015f6a54f93c442bfec0f167dc9e/2026/03/27/2295b604-aa3d-4406-ae1d-ef092e1c4958/corsair-vengeance-rgb-ram.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ddr5-ram-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "ebc2b9a95f428c4ff1774f1e",
-    "title": "These Western Digital SSDs are over 60% off during Amazon's Spring Sale",
-    "link": "https://www.zdnet.com/article/ssd-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-30T14:42:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These Western Digital SSDs are over 60% off during Amazon's Spring Sale. What: These Western Digital SSDs are over 60% off during Amazon's Spring Sale. When: 2026-03-30T14:42:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These Western Digital SSDs are over 60% off during Amazon's Spring Sale. ماذا: These Western Digital SSDs are over 60% off during Amazon's Spring Sale. متى: 2026-03-30T14:42:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c444fd130d2cd01c0a64fba75fc3a2ff59577e1e/2026/03/24/730b8be1-4abd-4bf4-a088-f297cb277549/wd-black-sn850x.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ssd-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "52c9371c1880a855b94161e7",
-    "title": "Apple adds macOS Terminal warning to block ClickFix attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/",
-    "published": "2026-03-30T14:32:34+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks.. What: [...] Apple adds macOS Terminal warning to block ClickFix attacks. When: 2026-03-30T14:32:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple has introduced a security feature in macOS Tahoe 26.4 that blocks pasting and executing potentially harmful commands in Terminal and alerts users to possible risks.. ماذا: [...] Apple adds macOS Terminal warning to block ClickFix attacks. متى: 2026-03-30T14:32:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/06/05/apple-triangle.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/"
-    ]
-  },
-  {
-    "id": "8e548e907f9a54758f22afe1",
-    "title": "Save big on Switch 2 consoles, SSDs, and more with these anti-Amazon Spring Sale deals",
-    "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-30T14:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Save big on Switch 2 consoles, SSDs, and more with these anti-Amazon Spring Sale deals. What: Save big on Switch 2 consoles, SSDs, and more with these anti-Amazon Spring Sale deals. When: 2026-03-30T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Save big on Switch 2 consoles, SSDs, and more with these anti-Amazon Spring Sale deals. ماذا: Save big on Switch 2 consoles, SSDs, and more with these anti-Amazon Spring Sale deals. متى: 2026-03-30T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5f6ae9be96f6e64cede4cf3e4b2ad5c1fd839871/2026/03/05/295f77dc-7954-4727-8352-c51bcdc3c9b5/gaming.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "75cc87cfcb8be12c00ad539f",
-    "title": "Healthcare IT Platform CareCloud Probing Potential Data Breach",
-    "link": "https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/",
-    "published": "2026-03-30T14:16:49+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Healthcare IT Platform CareCloud Probing Potential Data Breach. What: The company has disclosed a cybersecurity incident involving one of its electronic health record environments.. When: 2026-03-30T14:16:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Healthcare IT Platform CareCloud Probing Potential Data Breach. ماذا: The company has disclosed a cybersecurity incident involving one of its electronic health record environments.. متى: 2026-03-30T14:16:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/healthcare-it-platform-carecloud-probing-potential-data-breach/"
-    ]
-  },
-  {
-    "id": "72b2a99faeda3aa7a908bb9a",
-    "title": "Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control",
-    "link": "https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/",
-    "published": "2026-03-30T14:15:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control. What: Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control. When: 2026-03-30T14:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control. ماذا: Silent Drift: How LLMs Are Quietly Breaking Organizational Access Control. متى: 2026-03-30T14:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/silent-drift-how-llms-are-quietly-breaking-organizational-access-control/"
-    ]
-  },
-  {
-    "id": "529ac5248a3b40174769aa72",
-    "title": "This smart desktop charger is a WFH staple for me - and 40% off right now",
-    "link": "https://www.zdnet.com/article/hi-rise-deluxe-2-charger-amazon-spring-sale-2026/",
-    "published": "2026-03-30T14:09:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This smart desktop charger is a WFH staple for me - and 40% off right now. What: This smart desktop charger is a WFH staple for me - and 40% off right now. When: 2026-03-30T14:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This smart desktop charger is a WFH staple for me - and 40% off right now. ماذا: This smart desktop charger is a WFH staple for me - and 40% off right now. متى: 2026-03-30T14:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/99a7bd3b4a26bbe26bda1be6a478ff5135701e38/2024/10/09/e44b589b-0fa7-4cfd-8961-b5f9426e5677/img-7774.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hi-rise-deluxe-2-charger-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "394c121083ccf1a22f25b502",
-    "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/",
-    "published": "2026-03-30T14:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking. What: How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking. When: 2026-03-30T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking. ماذا: How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking. متى: 2026-03-30T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/24/prophet-banner.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/"
-    ]
-  },
-  {
-    "id": "7fd1a0b4c5f67e3f0f2990c0",
-    "title": "Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers",
-    "link": "https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/",
-    "published": "2026-03-30T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers. What: Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers. When: 2026-03-30T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers. ماذا: Lloyds IT Glitch Exposed Data of Nearly 500,000 Banking Customers. متى: 2026-03-30T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/ba3768d6-fe54-4ce3-960c-1a1bca7d2bc1.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/lloyds-glitch-exposed-500000/"
     ]
   }
 ]
