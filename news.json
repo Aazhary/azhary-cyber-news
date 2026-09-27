@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "44db897d4935fdb77c40477f",
+    "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "published": "2026-09-27T16:02:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week.. What: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week.. When: 2026-09-27T16:02:37+00:00. How: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. Action: See Arabic action below.",
+    "summary_ar": "من: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week.. ماذا: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week.. متى: 2026-09-27T16:02:37+00:00. كيف: Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+    ]
+  },
+  {
+    "id": "150c2b68e8ba2b40d6d8b1c0",
+    "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+    "published": "2026-09-27T14:13:31+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.. What: Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.. When: 2026-09-27T14:13:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.. ماذا: Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host.. متى: 2026-09-27T14:13:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/02/cloudflare.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/"
+    ]
+  },
+  {
+    "id": "c56cfa0ca04b2e556da9414f",
+    "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+    "published": "2026-09-27T13:38:40+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors. What: Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more.. When: 2026-09-27T13:38:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors. ماذا: Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more.. متى: 2026-09-27T13:38:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/"
+    ]
+  },
+  {
     "id": "7219d26ae079e0f408204563",
     "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
     "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
@@ -147575,510 +147629,6 @@
     "sources": [
       "https://www.zdnet.com/article/travel-gadgets-last-minute-amazon-spring-sale-2026/",
       "https://www.zdnet.com/article/travel-gadgets-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "32a93f5baea30e5a781c7ed4",
-    "title": "Best Walmart deals to compete with Amazon's Big Spring Sale 2026: Last chance to save",
-    "link": "https://www.zdnet.com/article/best-walmart-deals-last-minute-amazon-big-spring-sale-2026/",
-    "published": "2026-03-31T16:02:03+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon's Big Spring Sale is almost over, but some of these Walmart sales are even better, including up to 60% off on Apple products, Roku devices, and more.. What: Best Walmart deals to compete with Amazon's Big Spring Sale 2026: Last chance to save. When: 2026-03-31T16:02:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon's Big Spring Sale is almost over, but some of these Walmart sales are even better, including up to 60% off on Apple products, Roku devices, and more.. ماذا: Best Walmart deals to compete with Amazon's Big Spring Sale 2026: Last chance to save. متى: 2026-03-31T16:02:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9d521f8e1b8c0a986c739f777817d13149eb83d2/2026/03/05/f909db40-3d6e-495a-8a3b-a9f167eb805e/walmart.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-walmart-deals-last-minute-amazon-big-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "72d470a983ac0629d0482068",
-    "title": "I bought my AirPods Pro 3 at full price. Don't be like me - get them for 20% off at Walmart",
-    "link": "https://www.zdnet.com/article/airpods-pro-3-amazon-spring-sale-2026/",
-    "published": "2026-03-31T16:00:57+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The AirPods Pro 3 are the best earbuds for Apple users.. What: I bought my AirPods Pro 3 at full price. Don't be like me - get them for 20% off at Walmart. When: 2026-03-31T16:00:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The AirPods Pro 3 are the best earbuds for Apple users.. ماذا: I bought my AirPods Pro 3 at full price. Don't be like me - get them for 20% off at Walmart. متى: 2026-03-31T16:00:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6a7d11075362a4d22f5d7925c668c7ed515de938/2025/09/27/568920fd-d70f-4f8e-8cb3-d734885ddb9f/spp3-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airpods-pro-3-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "d9976fdc3f077705bc4847f0",
-    "title": "Rethinking Vulnerability Management Strategies for Mid-Market Security",
-    "link": "https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security",
-    "published": "2026-03-31T15:35:55+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Rethinking Vulnerability Management Strategies for Mid-Market Security. What: Rethinking Vulnerability Management Strategies for Mid-Market Security. When: 2026-03-31T15:35:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rethinking Vulnerability Management Strategies for Mid-Market Security. ماذا: Rethinking Vulnerability Management Strategies for Mid-Market Security. متى: 2026-03-31T15:35:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/rethinking-vulnerability-management-strategies-for-mid-market-security"
-    ]
-  },
-  {
-    "id": "b540f1dae8cbc867ca384253",
-    "title": "The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust",
-    "link": "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/",
-    "published": "2026-03-31T15:35:33+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust. What: The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust. When: 2026-03-31T15:35:33+00:00. How: Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue. Action: See Arabic action below.",
-    "summary_ar": "من: The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust. ماذا: The Next Cybersecurity Crisis Isn’t Breaches—It’s Data You Can’t Trust. متى: 2026-03-31T15:35:33+00:00. كيف: Data integrity shouldn’t be seen only through the prism of a technical concern but also as a leadership issue.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/the-next-cybersecurity-crisis-isnt-breaches-its-data-you-cant-trust/"
-    ]
-  },
-  {
-    "id": "db7cc31cfcf8f58538281e5f",
-    "title": "Maryland Man Charged Over $53m Uranium Finance Crypto Hack",
-    "link": "https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/",
-    "published": "2026-03-31T15:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds Maryland Man Charged Over $53m Uranium Finance Crypto Hack. What: Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds Maryland Man Charged Over $53m Uranium Finance Crypto Hack. When: 2026-03-31T15:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds Maryland Man Charged Over $53m Uranium Finance Crypto Hack. ماذا: Maryland man accused of $53m Uranium Finance hack, exploited smart contract flaws, laundered funds Maryland Man Charged Over $53m Uranium Finance Crypto Hack. متى: 2026-03-31T15:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/d8bc8ee2-ebf0-4fde-adc8-2ff1fd46cbe3.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/man-charged-uranium-crypto-hack/"
-    ]
-  },
-  {
-    "id": "ca57f2b9fae372cfecc7c440",
-    "title": "AI and Quantum Are Forcing a Rethink of Digital Trust",
-    "link": "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust",
-    "published": "2026-03-31T15:29:11+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: AI and Quantum Are Forcing a Rethink of Digital Trust. What: AI and Quantum Are Forcing a Rethink of Digital Trust. When: 2026-03-31T15:29:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI and Quantum Are Forcing a Rethink of Digital Trust. ماذا: AI and Quantum Are Forcing a Rethink of Digital Trust. متى: 2026-03-31T15:29:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/ai-and-quantum-are-forcing-a-rethink-of-digital-trust"
-    ]
-  },
-  {
-    "id": "10dc931ad100589977aa3942",
-    "title": "Last chance to save on DeWalt power tools and accessories during Amazon's Spring Sale",
-    "link": "https://www.zdnet.com/article/dewalt-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-31T15:11:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Last chance to save on DeWalt power tools and accessories during Amazon's Spring Sale. What: Last chance to save on DeWalt power tools and accessories during Amazon's Spring Sale. When: 2026-03-31T15:11:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Last chance to save on DeWalt power tools and accessories during Amazon's Spring Sale. ماذا: Last chance to save on DeWalt power tools and accessories during Amazon's Spring Sale. متى: 2026-03-31T15:11:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/550db11ee893f738b7e6187243074a1e5dbf33a4/2025/05/19/c5814f57-b5cd-437d-b278-bef8d0ca3942/img-3751.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dewalt-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "32c1d24b6cee76be2d04c232",
-    "title": "Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale",
-    "link": "https://www.zdnet.com/article/ddr5-ram-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-31T15:05:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale. What: Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale. When: 2026-03-31T15:05:00+00:00. How: The RAM-pocalypse is causing sky-high prices, but you can snag upgrades from Corsair, Kingston, and more during Amazon's Spring Sale. Action: See Arabic action below.",
-    "summary_ar": "من: Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale. ماذا: Last chance on these rare DDR5 RAM deals during Amazon's Spring Sale. متى: 2026-03-31T15:05:00+00:00. كيف: The RAM-pocalypse is causing sky-high prices, but you can snag upgrades from Corsair, Kingston, and more during Amazon's Spring Sale.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bacf33e2494d015f6a54f93c442bfec0f167dc9e/2026/03/27/2295b604-aa3d-4406-ae1d-ef092e1c4958/corsair-vengeance-rgb-ram.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ddr5-ram-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "a52c84e9be0cc99891bd01c8",
-    "title": "Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks",
-    "link": "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/",
-    "published": "2026-03-31T15:04:58+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks. What: Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks. When: 2026-03-31T15:04:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks. ماذا: Stolen Logins Are Fueling Everything From Ransomware to Nation-State Cyberattacks. متى: 2026-03-31T15:04:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/stolen-logins-are-fueling-everything-from-ransomware-to-nation-state-cyberattacks/"
-    ]
-  },
-  {
-    "id": "58011ae41efb09246fd9853c",
-    "title": "Venom Stealer Raises Stakes With Continuous Credential Harvesting",
-    "link": "https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/",
-    "published": "2026-03-31T14:51:59+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Venom Stealer Raises Stakes With Continuous Credential Harvesting. What: Venom Stealer Raises Stakes With Continuous Credential Harvesting. When: 2026-03-31T14:51:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Venom Stealer Raises Stakes With Continuous Credential Harvesting. ماذا: Venom Stealer Raises Stakes With Continuous Credential Harvesting. متى: 2026-03-31T14:51:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/venom-stealer-raises-stakes-with-continuous-credential-harvesting/"
-    ]
-  },
-  {
-    "id": "ebc2b9a95f428c4ff1774f1e",
-    "title": "Final hours to save up to 60% on select Western Digital SSDs during the Amazon Spring Sale",
-    "link": "https://www.zdnet.com/article/ssd-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-31T14:48:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Final hours to save up to 60% on select Western Digital SSDs during the Amazon Spring Sale. What: Final hours to save up to 60% on select Western Digital SSDs during the Amazon Spring Sale. When: 2026-03-31T14:48:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Final hours to save up to 60% on select Western Digital SSDs during the Amazon Spring Sale. ماذا: Final hours to save up to 60% on select Western Digital SSDs during the Amazon Spring Sale. متى: 2026-03-31T14:48:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c444fd130d2cd01c0a64fba75fc3a2ff59577e1e/2026/03/24/730b8be1-4abd-4bf4-a088-f297cb277549/wd-black-sn850x.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ssd-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "df07edb67da00541bbbef36e",
-    "title": "The best way to protect your phone from a warrantless search in 2026",
-    "link": "https://www.zdnet.com/article/how-to-protect-your-phone-from-warrantless-search/",
-    "published": "2026-03-31T14:34:25+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best way to protect your phone from a warrantless search in 2026. What: The best way to protect your phone from a warrantless search in 2026. When: 2026-03-31T14:34:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best way to protect your phone from a warrantless search in 2026. ماذا: The best way to protect your phone from a warrantless search in 2026. متى: 2026-03-31T14:34:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/42092e6cf6eccb298f1a43702d5317549a37edf6/2026/03/31/f57d5f55-6c3d-4dd2-a4af-395cdbff3714/gettyimages-1496871646.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-protect-your-phone-from-warrantless-search/"
-    ]
-  },
-  {
-    "id": "8e548e907f9a54758f22afe1",
-    "title": "Last chance to save on PS5, Switch 2, and more in these anti-Amazon Spring Sale deals",
-    "link": "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-spring-sale-2026/",
-    "published": "2026-03-31T14:19:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Last chance to save on PS5, Switch 2, and more in these anti-Amazon Spring Sale deals. What: Last chance to save on PS5, Switch 2, and more in these anti-Amazon Spring Sale deals. When: 2026-03-31T14:19:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Last chance to save on PS5, Switch 2, and more in these anti-Amazon Spring Sale deals. ماذا: Last chance to save on PS5, Switch 2, and more in these anti-Amazon Spring Sale deals. متى: 2026-03-31T14:19:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5f6ae9be96f6e64cede4cf3e4b2ad5c1fd839871/2026/03/05/295f77dc-7954-4727-8352-c51bcdc3c9b5/gaming.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-buy-gaming-deals-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "a5155c769de1838a3a03ac40",
-    "title": "How to Categorize AI Agents and Prioritize Risk",
-    "link": "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/",
-    "published": "2026-03-31T14:00:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: How to Categorize AI Agents and Prioritize Risk. What: How to Categorize AI Agents and Prioritize Risk. When: 2026-03-31T14:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to Categorize AI Agents and Prioritize Risk. ماذا: How to Categorize AI Agents and Prioritize Risk. متى: 2026-03-31T14:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/31/ai-agent-security.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/how-to-categorize-ai-agents-and-prioritize-risk/"
-    ]
-  },
-  {
-    "id": "f226e8e5aa07a9d237f46a6c",
-    "title": "Phantom Project Bundles Infostealer, Crypter and RAT For Sale",
-    "link": "https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/",
-    "published": "2026-03-31T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Phantom Project Bundles Infostealer, Crypter and RAT For Sale. What: Phantom Project Bundles Infostealer, Crypter and RAT For Sale. When: 2026-03-31T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Phantom Project Bundles Infostealer, Crypter and RAT For Sale. ماذا: Phantom Project Bundles Infostealer, Crypter and RAT For Sale. متى: 2026-03-31T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/edc2fa5a-b756-4e81-91b3-386bffc4141c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/phantom-project-infostealer-nov-25/"
-    ]
-  },
-  {
-    "id": "b7417d04b5a1ff093fb183e5",
-    "title": "Why these older Sony headphones are still worth buying in 2026 - especially at this price",
-    "link": "https://www.zdnet.com/article/sony-wh1000xm5-amazon-spring-sale-deal/",
-    "published": "2026-03-31T13:57:24+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why these older Sony headphones are still worth buying in 2026 - especially at this price. What: Why these older Sony headphones are still worth buying in 2026 - especially at this price. When: 2026-03-31T13:57:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why these older Sony headphones are still worth buying in 2026 - especially at this price. ماذا: Why these older Sony headphones are still worth buying in 2026 - especially at this price. متى: 2026-03-31T13:57:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d53c10c294928d064b7df2033e0cb69d9e39701/2022/05/12/ea62f6c1-6772-442e-b88e-fe04734c524b/wh1000xm5-black-product.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-wh1000xm5-amazon-spring-sale-deal/"
-    ]
-  },
-  {
-    "id": "f8c95e77714672548a01aca6",
-    "title": "Hackers compromise Axios npm package to drop cross-platform malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/",
-    "published": "2026-03-31T13:53:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers compromise Axios npm package to drop cross-platform malware. What: Hackers compromise Axios npm package to drop cross-platform malware. When: 2026-03-31T13:53:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers compromise Axios npm package to drop cross-platform malware. ماذا: Hackers compromise Axios npm package to drop cross-platform malware. متى: 2026-03-31T13:53:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/07/05/NPM_head_pic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-compromise-axios-npm-package-to-drop-cross-platform-malware/"
-    ]
-  },
-  {
-    "id": "6c77610ee14a8868a11475bf",
-    "title": "TeamPCP Moves From OSS to AWS Environments",
-    "link": "https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/",
-    "published": "2026-03-31T13:53:43+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities.. What: TeamPCP Moves From OSS to AWS Environments. When: 2026-03-31T13:53:43+00:00. How: After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities. Action: See Arabic action below.",
-    "summary_ar": "من: After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities.. ماذا: TeamPCP Moves From OSS to AWS Environments. متى: 2026-03-31T13:53:43+00:00. كيف: After validating stolen credentials using TruffleHog, the hacking group started AWS services enumeration and lateral movement activities.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/teampcp-moves-from-oss-to-aws-environments/"
-    ]
-  },
-  {
-    "id": "e13567c13aa108a3c0789ba9",
-    "title": "Iran's hackers are on the offensive against the US and Israel",
-    "link": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
-    "published": "2026-03-31T13:37:48+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Iran's hackers are on the offensive against the US and Israel. What: Iran's hackers are on the offensive against the US and Israel. When: 2026-03-31T13:37:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran's hackers are on the offensive against the US and Israel. ماذا: Iran's hackers are on the offensive against the US and Israel. متى: 2026-03-31T13:37:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/iranhax-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/"
-    ]
-  },
-  {
-    "id": "a4615ec04ab5efebd7dc15d8",
-    "title": "CrewAI Vulnerabilities Expose Devices to Hacking",
-    "link": "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/",
-    "published": "2026-03-31T13:37:30+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: CrewAI Vulnerabilities Expose Devices to Hacking. What: CrewAI Vulnerabilities Expose Devices to Hacking. When: 2026-03-31T13:37:30+00:00. How: Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code. Action: See Arabic action below.",
-    "summary_ar": "من: CrewAI Vulnerabilities Expose Devices to Hacking. ماذا: CrewAI Vulnerabilities Expose Devices to Hacking. متى: 2026-03-31T13:37:30+00:00. كيف: Attackers can exploit the bugs through prompt injection, chaining them together to escape the sandbox and execute arbitrary code.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/crewai-vulnerabilities-expose-devices-to-hacking/"
-    ]
-  },
-  {
-    "id": "95a63b3b85b159f3e83806dd",
-    "title": "Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations",
-    "link": "https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations",
-    "published": "2026-03-31T13:31:33+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations. What: Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations. When: 2026-03-31T13:31:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations. ماذا: Iran Deploys 'Pseudo-Ransomware,' Revives Pay2Key Operations. متى: 2026-03-31T13:31:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/iran-pseudo-ransomware-pay2key-operations"
-    ]
-  },
-  {
-    "id": "70d195dabf74765cfae723f4",
-    "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-    "link": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-    "published": "2026-03-31T13:09:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.. What: Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.. When: 2026-03-31T13:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.. ماذا: Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.. متى: 2026-03-31T13:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLtnrJRJvkUE-IMtV6DuDmg7t1XhaGyItG6cXmd2cz0-3sd8fgZi5jHZE9valO1-CdJjGcqkkeHxNPM2Y7lLK0lrtJXOEwXscylBbYfyCXtvvAfGeFR5Q7Zwv0Mxsg-iiEjbaN2junJWYJmJmUEBuFDjRXH_X9gYYwR4Jyu-79dMfL1MQPLpKU6O6PtN_R/s1600/google-vertex.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html"
-    ]
-  },
-  {
-    "id": "b6ca8d0644096b5b2d8684cc",
-    "title": "Meta Ray-Bans vs. Optics: Why glasses wearers should consider the new model",
-    "link": "https://www.zdnet.com/article/meta-ray-bans-vs-optics/",
-    "published": "2026-03-31T13:01:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The new Optics smart glasses might be the first pair of Meta Ray-Bans you can wear all day.. What: Meta Ray-Bans vs. Optics: Why glasses wearers should consider the new model. When: 2026-03-31T13:01:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The new Optics smart glasses might be the first pair of Meta Ray-Bans you can wear all day.. ماذا: Meta Ray-Bans vs. Optics: Why glasses wearers should consider the new model. متى: 2026-03-31T13:01:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/929e813fed3751c0e76734afb3afe367c49aca43/2026/03/31/80dd6e01-1017-4f0e-8d00-38c3a42ab4af/essilor-luxottica.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meta-ray-bans-vs-optics/"
-    ]
-  },
-  {
-    "id": "e22271039207006dcc8df08d",
-    "title": "The overselling of AI - and how to resist it",
-    "link": "https://www.zdnet.com/article/the-overselling-of-ai-and-how-to-resist-it/",
-    "published": "2026-03-31T13:01:08+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The overselling of AI - and how to resist it. What: The overselling of AI - and how to resist it. When: 2026-03-31T13:01:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The overselling of AI - and how to resist it. ماذا: The overselling of AI - and how to resist it. متى: 2026-03-31T13:01:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/76ec60890dcfa0e29e694ac382ccd016381b0e93/2026/03/30/d1475de3-6bb2-4a6a-86af-eae8434c6c4b/gettyimages-1611521361-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-overselling-of-ai-and-how-to-resist-it/"
-    ]
-  },
-  {
-    "id": "3b8a7b56e6dfa635de1af8a4",
-    "title": "ChatGPT Security Issue Enabled Data Theft via Single Prompt",
-    "link": "https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/",
-    "published": "2026-03-31T13:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt. What: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt. When: 2026-03-31T13:01:00+00:00. How: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt. ماذا: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt. متى: 2026-03-31T13:01:00+00:00. كيف: OpenAI has patched vulnerability, which Check Point said was because of a DNS loophole ChatGPT Security Issue Enabled Data Theft via Single Prompt. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/8aa17c13-8fba-4a99-bcb5-77a56e1ae033.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/chatgpt-security-issue-steal-data/"
-    ]
-  },
-  {
-    "id": "9af791150165da4414758a25",
-    "title": "I replaced my Sony WH-1000XM6 with the AirPods Max 2 for a week - and didn't miss a beat",
-    "link": "https://www.zdnet.com/article/airpods-max-2-review/",
-    "published": "2026-03-31T13:00:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Review: Apple's latest over-ear headphones have arrived, but they're probably not what you were hoping for in a successor.. What: I replaced my Sony WH-1000XM6 with the AirPods Max 2 for a week - and didn't miss a beat. When: 2026-03-31T13:00:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Review: Apple's latest over-ear headphones have arrived, but they're probably not what you were hoping for in a successor.. ماذا: I replaced my Sony WH-1000XM6 with the AirPods Max 2 for a week - and didn't miss a beat. متى: 2026-03-31T13:00:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a8a1f382c8ce9b2145576991da8a61a5fa54daf4/2026/03/30/2592a8bc-3813-4964-8459-bc7bd43eabd7/airpodsmax2-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airpods-max-2-review/"
-    ]
-  },
-  {
-    "id": "a3d0553debade93277d1a5aa",
-    "title": "TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets",
-    "link": "https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/",
-    "published": "2026-03-31T12:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets. What: TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets. When: 2026-03-31T12:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets. ماذا: TeamPCP Explores Ways to Exploit Stolen Supply Chain Secrets. متى: 2026-03-31T12:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/efe7ed76-9e4c-420e-8cd7-f474d8329ae8.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/teampcp-exploit-stolen-supply/"
-    ]
-  },
-  {
-    "id": "6d73b6ef175e877c8993f45e",
-    "title": "Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/",
-    "published": "2026-03-31T12:04:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: ​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in.. What: [...] Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in. When: 2026-03-31T12:04:15+00:00. How: [...] Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in Action: See Arabic action below.",
-    "summary_ar": "من: ​Microsoft has resolved a known issue that rendered the classic Outlook email client unusable for users who enabled the Microsoft Teams Meeting Add-in.. ماذا: [...] Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in. متى: 2026-03-31T12:04:15+00:00. كيف: [...] Microsoft fixes Outlook Classic crashes caused by Teams Meeting add-in. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/04/29/Outlook.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/"
     ]
   }
 ]
