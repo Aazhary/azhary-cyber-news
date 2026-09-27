@@ -55,6 +55,27 @@
   },
   {
     "id": "44db897d4935fdb77c40477f",
+    "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+    "published": "2026-09-27T16:02:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.. What: Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.. When: 2026-09-27T16:02:37+00:00. How: [...] Citrix confirms two NetScaler RCE zero-days exploited in attacks Action: See Arabic action below.",
+    "summary_ar": "من: Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.. ماذا: Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws.. متى: 2026-09-27T16:02:37+00:00. كيف: [...] Citrix confirms two NetScaler RCE zero-days exploited in attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+    ]
+  },
+  {
+    "id": "44db897d4935fdb77c40477f",
     "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
     "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
     "published": "2026-09-27T16:02:37+00:00",
@@ -134,8 +155,8 @@
     "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
     "published": "2026-09-27T07:47:57+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Citrix has not confirmed the flaws or published a fix.. What: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. When: 2026-09-27T07:47:57+00:00. How: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Action: See Arabic action below.",
-    "summary_ar": "من: Citrix has not confirmed the flaws or published a fix.. ماذا: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. متى: 2026-09-27T07:47:57+00:00. كيف: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: It released fixes for both, along with six other flaws.. What: Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27.. When: 2026-09-27T07:47:57+00:00. How: The bulletin came a day after security firm watchTowr Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation Action: See Arabic action below.",
+    "summary_ar": "من: It released fixes for both, along with six other flaws.. ماذا: Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27.. متى: 2026-09-27T07:47:57+00:00. كيف: The bulletin came a day after security firm watchTowr Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -147358,277 +147379,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/cloud-security/teampcp-breaches-cloud-saas-instances-stolen-credentials"
-    ]
-  },
-  {
-    "id": "96f5632f41e569f2cc13252a",
-    "title": "The Apple Pencil alternative I use daily is on sale for $28 - but not for long",
-    "link": "https://www.zdnet.com/article/esr-geo-pencil-apple-pencil-amazon-spring-sale-deal/",
-    "published": "2026-03-31T19:45:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Apple Pencil alternative I use daily is on sale for $28 - but not for long. What: The Apple Pencil alternative I use daily is on sale for $28 - but not for long. When: 2026-03-31T19:45:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Apple Pencil alternative I use daily is on sale for $28 - but not for long. ماذا: The Apple Pencil alternative I use daily is on sale for $28 - but not for long. متى: 2026-03-31T19:45:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8fe980355dfc5b24317dc98319b66bbc1c10ec58/2025/06/14/97f2b0c9-9962-4f46-b0cc-8782da12c9c4/img-2915.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/esr-geo-pencil-apple-pencil-amazon-spring-sale-deal/"
-    ]
-  },
-  {
-    "id": "d62515b7b6d6da63b24f4efe",
-    "title": "How SentinelOne’s AI EDR Autonomously Discovered and Stopped Anthropic’s Claude from Executing a Zero Day Supply Chain Attack, Globally",
-    "link": "https://www.sentinelone.com/blog/how-sentinelones-ai-edr-autonomously-discovered-and-stopped-anthropics-claude-from-executing-a-zero-day-supply-chain-attack-globally/",
-    "published": "2026-03-31T19:12:26+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: How SentinelOne’s AI EDR Autonomously Discovered and Stopped Anthropic’s Claude from Executing a Zero Day Supply Chain Attack, Globally. What: SentinelOne detected and blocked this attack autonomously, on the same day it was launched, across multiple customer environments.. When: 2026-03-31T19:12:26+00:00. How: They first compromised Trivy, a widely trusted open-source security scanner, on March 19. Action: See Arabic action below.",
-    "summary_ar": "من: How SentinelOne’s AI EDR Autonomously Discovered and Stopped Anthropic’s Claude from Executing a Zero Day Supply Chain Attack, Globally. ماذا: SentinelOne detected and blocked this attack autonomously, on the same day it was launched, across multiple customer environments.. متى: 2026-03-31T19:12:26+00:00. كيف: They first compromised Trivy, a widely trusted open-source security scanner, on March 19.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2026/03/LiteLLM_blog_post.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/how-sentinelones-ai-edr-autonomously-discovered-and-stopped-anthropics-claude-from-executing-a-zero-day-supply-chain-attack-globally/"
-    ]
-  },
-  {
-    "id": "942d9711d1d11f0f4f622125",
-    "title": "Iran targets M365 accounts with password-spraying attacks",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/iran_password_spraying_m365/",
-    "published": "2026-03-31T19:09:53+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Iran targets M365 accounts with password-spraying attacks. What: Iran targets M365 accounts with password-spraying attacks. When: 2026-03-31T19:09:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran targets M365 accounts with password-spraying attacks. ماذا: Iran targets M365 accounts with password-spraying attacks. متى: 2026-03-31T19:09:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/03/17/iran_flag_keyhole.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/31/iran_password_spraying_m365/"
-    ]
-  },
-  {
-    "id": "e4343f7414b72a1bb0067dbd",
-    "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-    "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html",
-    "published": "2026-03-31T18:28:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.. What: Android Developer Verification Rollout Begins Ahead of September Enforcement. When: 2026-03-31T18:28:00+00:00. How: As part of this Android Developer Verification Rollout Begins Ahead of September Enforcement Action: See Arabic action below.",
-    "summary_ar": "من: Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The development comes ahead of a planned verification mandate that goes into effect in Brazil, Indonesia, Singapore, and Thailand this September, before it expands globally next year.. ماذا: Android Developer Verification Rollout Begins Ahead of September Enforcement. متى: 2026-03-31T18:28:00+00:00. كيف: As part of this Android Developer Verification Rollout Begins Ahead of September Enforcement. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
-    ]
-  },
-  {
-    "id": "f0539d189729b914bd88c178",
-    "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-    "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-    "published": "2026-03-31T18:25:33+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: In a second paper, Google researchers demonstrated how to break ECC-securing blockchains for bitcoin and other cryptocurrencies in less than nine minutes while achieving a 20-fold resource reduction.. What: Quantum computers need vastly fewer resources than thought to break vital encryption. When: 2026-03-31T18:25:33+00:00. How: Building a utility-scale quantum computer that can crack one of the most vital cryptosystems—elliptic curves—doesn’t require nearly the resources anticipated just a year or two ago, two independently written whitepapers have concluded. Action: See Arabic action below.",
-    "summary_ar": "من: In a second paper, Google researchers demonstrated how to break ECC-securing blockchains for bitcoin and other cryptocurrencies in less than nine minutes while achieving a 20-fold resource reduction.. ماذا: Quantum computers need vastly fewer resources than thought to break vital encryption. متى: 2026-03-31T18:25:33+00:00. كيف: Building a utility-scale quantum computer that can crack one of the most vital cryptosystems—elliptic curves—doesn’t require nearly the resources anticipated just a year or two ago, two independently written whitepapers have concluded.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
-    ]
-  },
-  {
-    "id": "f0539d189729b914bd88c178",
-    "title": "New quantum-computing advances heighten threat to elliptic curve cryptosystems",
-    "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
-    "published": "2026-03-31T18:25:33+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: In a second paper, Google researchers demonstrated how to break ECC-securing blockchains for Bitcoin and other cryptocurrencies in less than 9 minutes while achieving a 20-fold resource reduction.. What: New quantum-computing advances heighten threat to elliptic curve cryptosystems. When: 2026-03-31T18:25:33+00:00. How: Building a utility-scale quantum computer that can crack one of the most vital cryptosystems—elliptic curves—doesn’t require nearly the resources anticipated just a year or two ago, two independently written whitepapers have concluded. Action: See Arabic action below.",
-    "summary_ar": "من: In a second paper, Google researchers demonstrated how to break ECC-securing blockchains for Bitcoin and other cryptocurrencies in less than 9 minutes while achieving a 20-fold resource reduction.. ماذا: New quantum-computing advances heighten threat to elliptic curve cryptosystems. متى: 2026-03-31T18:25:33+00:00. كيف: Building a utility-scale quantum computer that can crack one of the most vital cryptosystems—elliptic curves—doesn’t require nearly the resources anticipated just a year or two ago, two independently written whitepapers have concluded.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
-    ]
-  },
-  {
-    "id": "28f678e0e3d1f45b9778a593",
-    "title": "7 WFH gadgets that improved my home office - Last chance for sale prices",
-    "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/",
-    "published": "2026-03-31T18:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 7 WFH gadgets that improved my home office - Last chance for sale prices. What: 7 WFH gadgets that improved my home office - Last chance for sale prices. When: 2026-03-31T18:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 7 WFH gadgets that improved my home office - Last chance for sale prices. ماذا: 7 WFH gadgets that improved my home office - Last chance for sale prices. متى: 2026-03-31T18:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/dc99c95923ecb2008a4bae07ce7f97c0ec7fa25c/2025/09/02/e1bfc325-f850-479e-96f5-1d91dcb93773/move-edit-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "7b463ab23b13828b62f9ef45",
-    "title": "Cisco source code stolen in Trivy-linked dev environment breach",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/",
-    "published": "2026-03-31T17:53:04+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers.. What: Cisco source code stolen in Trivy-linked dev environment breach. When: 2026-03-31T17:53:04+00:00. How: Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers.. ماذا: Cisco source code stolen in Trivy-linked dev environment breach. متى: 2026-03-31T17:53:04+00:00. كيف: Cisco has suffered a cyberattack after threat actors used stolen credentials from the recent Trivy supply chain attack to breach its internal development environment and steal source code belonging to the company and its customers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/"
-    ]
-  },
-  {
-    "id": "9d21f82902caf091a861dd71",
-    "title": "The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop",
-    "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
-    "published": "2026-03-31T17:46:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop. What: The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop. When: 2026-03-31T17:46:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop. ماذا: The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop. متى: 2026-03-31T17:46:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5216ff62239c7013f8832650ea3028f9f2d9d97e/2026/03/15/1c4b8361-067f-4282-801e-5800b3498ccc/img-3020.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "b3190bf1a64e45107f6d8c52",
-    "title": "This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse",
-    "link": "https://www.zdnet.com/article/hp-victus-15-deal-amazon-spring-sale-2026/",
-    "published": "2026-03-31T17:10:56+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse. What: This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse. When: 2026-03-31T17:10:56+00:00. How: The price of gaming laptops is through the roof, but right now at HP, you can snag the Victus 15 at a big discount. Action: See Arabic action below.",
-    "summary_ar": "من: This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse. ماذا: This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse. متى: 2026-03-31T17:10:56+00:00. كيف: The price of gaming laptops is through the roof, but right now at HP, you can snag the Victus 15 at a big discount.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/32905adf38a252e6aadbb430ba2fd24923671eea/2026/03/31/6473d1e3-3e8a-4778-8b6d-c084e3e72a10/hp-victus-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hp-victus-15-deal-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "f07d01ee8de2d3b03c851b01",
-    "title": "Samsung Watch users in the US can finally track their blood pressure - but it's tricky",
-    "link": "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/",
-    "published": "2026-03-31T17:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Watch users in the US can finally track their blood pressure - but it's tricky. What: Samsung Watch users in the US can finally track their blood pressure - but it's tricky. When: 2026-03-31T17:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Watch users in the US can finally track their blood pressure - but it's tricky. ماذا: Samsung Watch users in the US can finally track their blood pressure - but it's tricky. متى: 2026-03-31T17:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5ce136fce411cd6ff4d0bdd109cb69f920b3d3bd/2025/07/28/c84f8631-eb8d-4b55-b2ac-07eb2efd7b86/2025-galaxy-watch-ultra4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/"
-    ]
-  },
-  {
-    "id": "7316c8fdf9ae997abb9391a5",
-    "title": "VRP 2025 Year in Review",
-    "link": "http://security.googleblog.com/2026/03/vrp-2025-year-in-review.html",
-    "published": "2026-03-31T16:55:00.002000+00:00",
-    "source": "googleblog.com",
-    "summary_en": "Who: Posted by Dirk G ö hmann, Tony Mendez, and the Vulnerability Rewards Program Team 2025 marked a special year in the history of vulnerability rewards and bug bounty programs at Google: our 15th anniversary 🎉🎉🎉!. What: bugSWAT, our special invite-only live hacking event, saw several editions in 2025 and delivered some outstanding findings across different areas: We hosted our first dedicated AI bugSWAT (Tokyo) in April which yielded a whopping 70+ reports filed and over $400,000 in rewards issued.. When: 2026-03-31T16:55:00.002000+00:00. How: VRP Highlights in 2025 In 2025 we made a series of changes and improvements to our VRP and related initiatives, and continued to invest in the security research community through a series of focused events: The new, dedicated AI VRP was launched , underscoring the importance of this space to Google and its relevance for external researchers. Action: See Arabic action below.",
-    "summary_ar": "من: Posted by Dirk G ö hmann, Tony Mendez, and the Vulnerability Rewards Program Team 2025 marked a special year in the history of vulnerability rewards and bug bounty programs at Google: our 15th anniversary 🎉🎉🎉!. ماذا: bugSWAT, our special invite-only live hacking event, saw several editions in 2025 and delivered some outstanding findings across different areas: We hosted our first dedicated AI bugSWAT (Tokyo) in April which yielded a whopping 70+ reports filed and over $400,000 in rewards issued.. متى: 2026-03-31T16:55:00.002000+00:00. كيف: VRP Highlights in 2025 In 2025 we made a series of changes and improvements to our VRP and related initiatives, and continued to invest in the security research community through a series of focused events: The new, dedicated AI VRP was launched , underscoring the importance of this space to Google and its relevance for external researchers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260902-1737",
-    "sources": [
-      "http://security.googleblog.com/2026/03/vrp-2025-year-in-review.html"
-    ]
-  },
-  {
-    "id": "63a784fac20dea585ad69b3b",
-    "title": "Want to change your Gmail address? Now you can, without losing any data - here's how",
-    "link": "https://www.zdnet.com/article/how-to-change-your-gmail-address/",
-    "published": "2026-03-31T16:41:16+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Want to change your Gmail address? Now you can, without losing any data - here's how. What: Want to change your Gmail address? Now you can, without losing any data - here's how. When: 2026-03-31T16:41:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Want to change your Gmail address? Now you can, without losing any data - here's how. ماذا: Want to change your Gmail address? Now you can, without losing any data - here's how. متى: 2026-03-31T16:41:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/61e08597894fc5b78e07eb3c7e64d5b73d508ffd/2026/01/13/9bfde33b-4732-43e0-9cc0-4b680c303522/gettyimages-1237932948.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-change-your-gmail-address/"
-    ]
-  },
-  {
-    "id": "3df9316351439a59bc912b13",
-    "title": "I've tracked Apple for nearly 50 years: How a garage rebel became a multitrillion-dollar empire",
-    "link": "https://www.zdnet.com/article/apple-at-50-from-garage-rebel-to-multitrillion-dollar-empire/",
-    "published": "2026-03-31T16:31:57+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Opinion: On Apple's 50th anniversary, here's a look at what the company gained - and lost - on its journey from a tech geeks' dream to a luxury device brand.. What: I've tracked Apple for nearly 50 years: How a garage rebel became a multitrillion-dollar empire. When: 2026-03-31T16:31:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Opinion: On Apple's 50th anniversary, here's a look at what the company gained - and lost - on its journey from a tech geeks' dream to a luxury device brand.. ماذا: I've tracked Apple for nearly 50 years: How a garage rebel became a multitrillion-dollar empire. متى: 2026-03-31T16:31:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/12890d5f9e60e1d9dd91e2e432bdcc599d00bc92/2026/03/23/2d7edbc7-05d4-42f4-89fe-b3f18ad72427/jobsshadow-gettyimages-109715897.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-at-50-from-garage-rebel-to-multitrillion-dollar-empire/"
-    ]
-  },
-  {
-    "id": "36d41eef78460d9293e00698",
-    "title": "12 travel gadgets that can upgrade your spring break (and they're on sale)",
-    "link": "https://www.zdnet.com/article/travel-gadgets-last-minute-amazon-spring-sale-2026/",
-    "published": "2026-03-31T16:29:16+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 12 travel gadgets that can upgrade your spring break (and they're on sale). What: 12 travel gadgets that can upgrade your spring break (and they're on sale). When: 2026-03-31T16:29:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 12 travel gadgets that can upgrade your spring break (and they're on sale). ماذا: 12 travel gadgets that can upgrade your spring break (and they're on sale). متى: 2026-03-31T16:29:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/79c99db94696a325f08767c8ac13295fcb176aef/2025/05/12/fef58034-0992-4889-92ab-af2cfe171b59/img-2813.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/travel-gadgets-last-minute-amazon-spring-sale-2026/",
-      "https://www.zdnet.com/article/travel-gadgets-amazon-spring-sale-2026/"
     ]
   }
 ]
