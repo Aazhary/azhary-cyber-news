@@ -54,6 +54,45 @@
     ]
   },
   {
+    "id": "7219d26ae079e0f408204563",
+    "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+    "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+    "published": "2026-09-27T09:23:09+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.. What: The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .. When: 2026-09-27T09:23:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.. ماذا: The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek .. متى: 2026-09-27T09:23:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-65660",
+      "cve-2026-65660"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/SharePoint.jpeg",
+    "sources": [
+      "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "1e3a7f249c71b49d684c53f5",
+    "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+    "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+    "published": "2026-09-27T07:47:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Citrix has not confirmed the flaws or published a fix.. What: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. When: 2026-09-27T07:47:57+00:00. How: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Action: See Arabic action below.",
+    "summary_ar": "من: Citrix has not confirmed the flaws or published a fix.. ماذا: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. متى: 2026-09-27T07:47:57+00:00. كيف: Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
+    ]
+  },
+  {
     "id": "d8143f817f623613bfcef2d1",
     "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
@@ -148040,422 +148079,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/04/29/Outlook.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-classic-crashes-caused-by-teams-meeting-add-in/"
-    ]
-  },
-  {
-    "id": "88d6f70d8defc693a42eb640",
-    "title": "Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption",
-    "link": "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/",
-    "published": "2026-03-31T11:51:43+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits.. What: Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption. When: 2026-03-31T11:51:43+00:00. How: The post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Google researchers have shown that breaking the encryption of Bitcoin and Ethereum requires 20x fewer qubits.. ماذا: Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption. متى: 2026-03-31T11:51:43+00:00. كيف: The post Google Slashes Quantum Resource Requirements for Breaking Cryptocurrency Encryption appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/google-slashes-quantum-resource-requirements-for-breaking-cryptocurrency-encryption/"
-    ]
-  },
-  {
-    "id": "711b6c2138cbb62d8de50451",
-    "title": "The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority",
-    "link": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-    "published": "2026-03-31T11:50:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority. What: The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority. When: 2026-03-31T11:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority. ماذا: The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority. متى: 2026-03-31T11:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1600/ai-power.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html"
-    ]
-  },
-  {
-    "id": "a1ca47a9f1d731bd96719816",
-    "title": "Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains",
-    "link": "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html",
-    "published": "2026-03-31T11:46:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains. What: Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains. When: 2026-03-31T11:46:00+00:00. How: \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains Action: See Arabic action below.",
-    "summary_ar": "من: Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains. ماذا: Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains. متى: 2026-03-31T11:46:00+00:00. كيف: \"The operation covers VPN clients, encrypted messengers, video conferencing tools, cryptocurrency trackers, and e-commerce applications, with eleven confirmed delivery domains impersonating Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQmoJ2iwUTLR-DicdD0xa7_oYXgpGalL3L_-4LyX9YMApiotQC-omFlhdcQByUQat1YJdd7ElMqhp8FDYpoaljcvVmCFPXS4yRRh0_KnKa6FgqoEpiaKHJhoecKKap1MgoPWw1a6H7LfJrYo9m_YXqh3BaoES1tPEmuCbgO3snV34jtkrK7j8t4Qk30jj/s1600/cyberattacks-asia.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html"
-    ]
-  },
-  {
-    "id": "ba32d5c6d021a803f8953d35",
-    "title": "Exploitation of Critical Fortinet FortiClient EMS Flaw Begins",
-    "link": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
-    "published": "2026-03-31T11:39:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins appeared first on SecurityWeek .. What: Exploitation of Critical Fortinet FortiClient EMS Flaw Begins. When: 2026-03-31T11:39:45+00:00. How: The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests. Action: See Arabic action below.",
-    "summary_ar": "من: The post Exploitation of Critical Fortinet FortiClient EMS Flaw Begins appeared first on SecurityWeek .. ماذا: Exploitation of Critical Fortinet FortiClient EMS Flaw Begins. متى: 2026-03-31T11:39:45+00:00. كيف: The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/"
-    ]
-  },
-  {
-    "id": "5c34cf52c68b711399f1c609",
-    "title": "5 HSA/FSA eligible gadgets that are on sale now",
-    "link": "https://www.zdnet.com/article/amazon-spring-sale-2026-deals-hsa-fsa-eligible/",
-    "published": "2026-03-31T11:30:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 HSA/FSA eligible gadgets that are on sale now. What: 5 HSA/FSA eligible gadgets that are on sale now. When: 2026-03-31T11:30:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 HSA/FSA eligible gadgets that are on sale now. ماذا: 5 HSA/FSA eligible gadgets that are on sale now. متى: 2026-03-31T11:30:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/37b4ff58e09ef582db39a7459b84c2e621a57e3d/2026/03/26/239db3ff-398c-4f37-858e-87fb43792e8b/screenshot-2026-03-26-at-2-50-15-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-spring-sale-2026-deals-hsa-fsa-eligible/"
-    ]
-  },
-  {
-    "id": "e8250745d75587948f36c24b",
-    "title": "Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra",
-    "link": "https://www.zdnet.com/article/sonos-arc-ultra-vs-marshall-heston-120/",
-    "published": "2026-03-31T11:01:06+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra. What: Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra. When: 2026-03-31T11:01:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra. ماذا: Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra. متى: 2026-03-31T11:01:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7c0c8d013ebe5030eecf4eca1e168c7bb4ae3109/2025/09/03/07baca9f-86f8-4c4f-ae70-399263b0b5c9/arcvshest.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sonos-arc-ultra-vs-marshall-heston-120/"
-    ]
-  },
-  {
-    "id": "07761239d0727b96981cde82",
-    "title": "Deleting yourself from the internet could cost less than your daily coffee - here's how",
-    "link": "https://www.zdnet.com/article/amazon-spring-sale-2026-data-removal-services/",
-    "published": "2026-03-31T11:01:04+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Deleting yourself from the internet could cost less than your daily coffee - here's how. What: Deleting yourself from the internet could cost less than your daily coffee - here's how. When: 2026-03-31T11:01:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Deleting yourself from the internet could cost less than your daily coffee - here's how. ماذا: Deleting yourself from the internet could cost less than your daily coffee - here's how. متى: 2026-03-31T11:01:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9d2aaf6c2736635a606b094ac734aa8808be185a/2026/03/19/8332f499-2ae3-4e73-b59b-1d5901ae53ae/optery-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/amazon-spring-sale-2026-data-removal-services/"
-    ]
-  },
-  {
-    "id": "70cac4340e60719365613c53",
-    "title": "Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/",
-    "published": "2026-03-31T10:29:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines. What: Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines. When: 2026-03-31T10:29:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines. ماذا: Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines. متى: 2026-03-31T10:29:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/03/28/shutterstock_trojan_horse_inside_computer.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/"
-    ]
-  },
-  {
-    "id": "62298ef904eabd0501197cc5",
-    "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-    "link": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-    "published": "2026-03-31T10:21:05+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs. What: StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs. When: 2026-03-31T10:21:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs. ماذا: StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs. متى: 2026-03-31T10:21:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/"
-    ]
-  },
-  {
-    "id": "cb628219fbd95faf4d10a855",
-    "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
-    "link": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
-    "published": "2026-03-31T10:07:40+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Lloyds Data Security Incident Impacts 450,000 Individuals. What: Lloyds Data Security Incident Impacts 450,000 Individuals. When: 2026-03-31T10:07:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Lloyds Data Security Incident Impacts 450,000 Individuals. ماذا: Lloyds Data Security Incident Impacts 450,000 Individuals. متى: 2026-03-31T10:07:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/"
-    ]
-  },
-  {
-    "id": "aedf97af46bb75668a4475f8",
-    "title": "These MagSafe wireless chargers are so much better than cords - and they're on sale",
-    "link": "https://www.zdnet.com/article/wireless-chargers-amazon-spring-sale-2026/",
-    "published": "2026-03-31T10:01:07+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These MagSafe wireless chargers are so much better than cords - and they're on sale. What: These MagSafe wireless chargers are so much better than cords - and they're on sale. When: 2026-03-31T10:01:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These MagSafe wireless chargers are so much better than cords - and they're on sale. ماذا: These MagSafe wireless chargers are so much better than cords - and they're on sale. متى: 2026-03-31T10:01:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/928051cbc3f7020eb5e77e49654d81921b572cf2/2025/01/20/8e219371-e776-440a-bf2d-aeed9ffba078/img-2505.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wireless-chargers-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "d098fee86026c4ae29501896",
-    "title": "It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price)",
-    "link": "https://www.zdnet.com/article/editors-choice-amazon-spring-sale-2026-deals/",
-    "published": "2026-03-31T10:01:05+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price). What: It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price). When: 2026-03-31T10:01:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price). ماذا: It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price). متى: 2026-03-31T10:01:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ff834f354a4847499bc41f5efccd4335d54b58a4/2024/10/28/af55f65c-f904-443c-a154-67e2ace5e969/pixelbuds-6.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/editors-choice-amazon-spring-sale-2026-deals/"
-    ]
-  },
-  {
-    "id": "758f07f4f5c24c868dbc8e50",
-    "title": "Proton Workspace boasts privacy-first alternative to Google, Microsoft",
-    "link": "https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/",
-    "published": "2026-03-31T10:01:02+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Proton Workspace boasts privacy-first alternative to Google, Microsoft. What: Proton Workspace boasts privacy-first alternative to Google, Microsoft. When: 2026-03-31T10:01:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Proton Workspace boasts privacy-first alternative to Google, Microsoft. ماذا: Proton Workspace boasts privacy-first alternative to Google, Microsoft. متى: 2026-03-31T10:01:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ee9ba98511cb70ff9352f0a968d8c26c7bb187c/2026/03/30/5c0a0f80-64df-442f-a57a-5b640418d266/sdds.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/"
-    ]
-  },
-  {
-    "id": "02fbd744faf6f5041be2e201",
-    "title": "Employee Data Breaches Surge to Seven-Year High",
-    "link": "https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/",
-    "published": "2026-03-31T10:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Employee Data Breaches Surge to Seven-Year High. What: Employee Data Breaches Surge to Seven-Year High. When: 2026-03-31T10:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Employee Data Breaches Surge to Seven-Year High. ماذا: Employee Data Breaches Surge to Seven-Year High. متى: 2026-03-31T10:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/dce44d1e-07e8-4711-ae8c-c236c7740edd.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/employee-data-breaches-surge/"
-    ]
-  },
-  {
-    "id": "758f07f4f5c24c868dbc8e50",
-    "title": "Proton just launched a Google Workspace alternative - and it's fully encrypted",
-    "link": "https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/",
-    "published": "2026-03-31T10:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Proton just launched a Google Workspace alternative - and it's fully encrypted. What: Proton just launched a Google Workspace alternative - and it's fully encrypted. When: 2026-03-31T10:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Proton just launched a Google Workspace alternative - and it's fully encrypted. ماذا: Proton just launched a Google Workspace alternative - and it's fully encrypted. متى: 2026-03-31T10:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ee9ba98511cb70ff9352f0a968d8c26c7bb187c/2026/03/30/5c0a0f80-64df-442f-a57a-5b640418d266/sdds.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/"
-    ]
-  },
-  {
-    "id": "8ae2bdfeae12d56ca1fff1f0",
-    "title": "Double Agents: Exposing Security Blind Spots in GCP Vertex AI",
-    "link": "https://unit42.paloaltonetworks.com/double-agents-vertex-ai/",
-    "published": "2026-03-31T10:00:56+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Unit 42 uncovers a \"double agent\" flaw in Google Cloud's Vertex AI, demonstrating how overprivileged AI agents can compromise cloud environments.. What: Double Agents: Exposing Security Blind Spots in GCP Vertex AI. When: 2026-03-31T10:00:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Unit 42 uncovers a \"double agent\" flaw in Google Cloud's Vertex AI, demonstrating how overprivileged AI agents can compromise cloud environments.. ماذا: Double Agents: Exposing Security Blind Spots in GCP Vertex AI. متى: 2026-03-31T10:00:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/AdobeStock_1246251272-scaled.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/double-agents-vertex-ai/"
-    ]
-  },
-  {
-    "id": "3f04cfecb3882d954d602e91",
-    "title": "Hacker charged with stealing $53 million from Uranium crypto exchange",
-    "link": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/",
-    "published": "2026-03-31T09:15:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hacker charged with stealing $53 million from Uranium crypto exchange. What: Hacker charged with stealing $53 million from Uranium crypto exchange. When: 2026-03-31T09:15:45+00:00. How: prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer. Action: See Arabic action below.",
-    "summary_ar": "من: Hacker charged with stealing $53 million from Uranium crypto exchange. ماذا: Hacker charged with stealing $53 million from Uranium crypto exchange. متى: 2026-03-31T09:15:45+00:00. كيف: prosecutors have charged a Maryland man with stealing more than $53 million after hacking the Uranium Finance crypto exchange twice and laundering the proceeds through a cryptocurrency mixer.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/31/cryptocurrency.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/"
-    ]
-  },
-  {
-    "id": "89ff2cc0956a0bb4b989556a",
-    "title": "It turns out, FaceTime on an Android phone is not as complicated as you may think",
-    "link": "https://www.zdnet.com/article/how-to-facetime-on-android/",
-    "published": "2026-03-31T09:00:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: It turns out, FaceTime on an Android phone is not as complicated as you may think. What: It turns out, FaceTime on an Android phone is not as complicated as you may think. When: 2026-03-31T09:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: It turns out, FaceTime on an Android phone is not as complicated as you may think. ماذا: It turns out, FaceTime on an Android phone is not as complicated as you may think. متى: 2026-03-31T09:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/31a845857e9bd298bbbef3f988bd58628b282416/2025/08/27/fd29c485-755d-437c-bac1-6f303b055607/dsc07582.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-facetime-on-android/"
-    ]
-  },
-  {
-    "id": "c276fe2bec346122468b6f4e",
-    "title": "NCSC Urges Immediate Patching of F5 BIG-IP Bug",
-    "link": "https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/",
-    "published": "2026-03-31T08:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: NCSC Urges Immediate Patching of F5 BIG-IP Bug. What: NCSC Urges Immediate Patching of F5 BIG-IP Bug. When: 2026-03-31T08:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: NCSC Urges Immediate Patching of F5 BIG-IP Bug. ماذا: NCSC Urges Immediate Patching of F5 BIG-IP Bug. متى: 2026-03-31T08:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-53521"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/0de29d96-c15d-42c8-a47d-b3033a020412.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ncsc-urges-immediate-patching-f5/"
-    ]
-  },
-  {
-    "id": "cfbf85793db995d25798de87",
-    "title": "Dutch Finance Ministry takes treasury banking portal offline after breach",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/",
-    "published": "2026-03-31T07:52:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Dutch Finance Ministry takes treasury banking portal offline after breach. What: The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago.. When: 2026-03-31T07:52:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dutch Finance Ministry takes treasury banking portal offline after breach. ماذا: The Dutch Ministry of Finance took some of its systems offline, including the digital portal for treasury banking, while investigating a cyberattack detected two weeks ago.. متى: 2026-03-31T07:52:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/31/Dutch_Ministry_of_Finance.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/dutch-finance-ministry-takes-treasury-banking-portal-offline-after-breach/"
-    ]
-  },
-  {
-    "id": "cdeecc4649b2221c4915e471",
-    "title": "Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/",
-    "published": "2026-03-31T07:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences. What: Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences. When: 2026-03-31T07:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences. ماذا: Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences. متى: 2026-03-31T07:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fa586cc06be19e8823ed981f91ee37bcdbcdf9c2/2026/02/26/2a264210-d9d9-4ea5-b707-749e32d8a66b/galaxy-s26-vs-s24.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/"
-    ]
-  },
-  {
-    "id": "c089f4633b1b090f7f0a1cc2",
-    "title": "Critical Vulnerability in OpenAI Codex Allowed GitHub Token Compromise",
-    "link": "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/",
-    "published": "2026-03-31T06:35:48+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.. What: Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.. When: 2026-03-31T06:35:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.. ماذا: Researchers found an OpenAI Codex vulnerability that could have been exploited to compromise GitHub tokens.. متى: 2026-03-31T06:35:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/critical-vulnerability-in-openai-codex-allowed-github-token-compromise/"
-    ]
-  },
-  {
-    "id": "219202b958739277faafe80f",
-    "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account",
-    "link": "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html",
-    "published": "2026-03-31T06:08:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account. What: Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account. When: 2026-03-31T06:08:00+00:00. How: According to StepSecurity, the two Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account Action: See Arabic action below.",
-    "summary_ar": "من: Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account. ماذا: Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account. متى: 2026-03-31T06:08:00+00:00. كيف: According to StepSecurity, the two Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdY8iKA7o-K-4HkIjPMiBRWAn5vCvSNDu1sm09t10vWMzXO6cIblLHQyu1no-KBhq4W7EWS03zqvI4n_k9mYWCDsCVoiX4cwsV9T862WTq1yGb6VkX1ZGTa7MKZE43llbF9n2Py1mC2yhCIfRlXGkvya_NQ9lX7vZ32YW8pHZlw1dPZcI9eCrgysiWqSSR/s1600/Axios-attack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html"
     ]
   }
 ]
