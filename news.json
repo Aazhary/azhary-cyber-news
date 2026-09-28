@@ -54,6 +54,391 @@
     ]
   },
   {
+    "id": "f6437873fa8f0b79d91eb370",
+    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+    "published": "2026-09-28T20:31:16+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Times Car confirms data breach affecting 6.6 million user accounts. What: Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week.. When: 2026-09-28T20:31:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Times Car confirms data breach affecting 6.6 million user accounts. ماذا: Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week.. متى: 2026-09-28T20:31:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/28/timescar.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/"
+    ]
+  },
+  {
+    "id": "97d48c50ae789aeaffb07424",
+    "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+    "link": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+    "published": "2026-09-28T20:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft.. What: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft.. When: 2026-09-28T20:30:00+00:00. How: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft. Action: See Arabic action below.",
+    "summary_ar": "من: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft.. ماذا: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft.. متى: 2026-09-28T20:30:00+00:00. كيف: The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5299599.jpg?imageId=5299599&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591"
+    ]
+  },
+  {
+    "id": "13e059bb849e027febf65560",
+    "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+    "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+    "published": "2026-09-28T20:23:58+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts. What: Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts. When: 2026-09-28T20:23:58+00:00. How: The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts. Action: See Arabic action below.",
+    "summary_ar": "من: Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts. ماذا: Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts. متى: 2026-09-28T20:23:58+00:00. كيف: The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts"
+    ]
+  },
+  {
+    "id": "9b2769919d577d6893ce66e5",
+    "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+    "published": "2026-09-28T19:49:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Dutch police confirm arrest in ShinyHunters hacking investigation. What: Dutch police confirm arrest in ShinyHunters hacking investigation. When: 2026-09-28T19:49:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Dutch police confirm arrest in ShinyHunters hacking investigation. ماذا: Dutch police confirm arrest in ShinyHunters hacking investigation. متى: 2026-09-28T19:49:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/10/29/arrest-cuffs.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/"
+    ]
+  },
+  {
+    "id": "cbf3cfa45f59f9f59520b5f3",
+    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+    "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "published": "2026-09-28T19:18:01+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.. What: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.. When: 2026-09-28T19:18:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.. ماذا: Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.. متى: 2026-09-28T19:18:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-86950"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+    ]
+  },
+  {
+    "id": "51f3f2ec27aaa07241148a11",
+    "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+    "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+    "published": "2026-09-28T18:50:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Over 16,000 Supabase databases expose PII, passwords, auth tokens. What: Over 16,000 Supabase databases expose PII, passwords, auth tokens. When: 2026-09-28T18:50:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Over 16,000 Supabase databases expose PII, passwords, auth tokens. ماذا: Over 16,000 Supabase databases expose PII, passwords, auth tokens. متى: 2026-09-28T18:50:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/29/DataLeak.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/"
+    ]
+  },
+  {
+    "id": "7df979e3443dc6ced51e8bc6",
+    "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+    "published": "2026-09-28T18:44:22+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Agents Are Privileged Users; Who Is Auditing Their Access?. What: AI Agents Are Privileged Users; Who Is Auditing Their Access?. When: 2026-09-28T18:44:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Agents Are Privileged Users; Who Is Auditing Their Access?. ماذا: AI Agents Are Privileged Users; Who Is Auditing Their Access?. متى: 2026-09-28T18:44:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access"
+    ]
+  },
+  {
+    "id": "e7f8e7a928b1f9222f28e79c",
+    "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+    "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+    "published": "2026-09-28T18:35:42+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.. What: Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks. When: 2026-09-28T18:35:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.. ماذا: Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks. متى: 2026-09-28T18:35:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgqNtFBBtX_6em5nY1VC9Q4M6HMG7gzxiQspFHsQRfQgm3LK5kTsHi-9SbwEx8kaeVv7BtKGFq3u1SmTGFEOe0z78fxFCxRFVEb09v0FMZ5tT-FNl7sUBnsGPPpDlAaQh4E_CSQQnwFakxNll2AvKiBvidb9ljEatmOzdJV4T4z8r5lmYG3DINHy-wR0/s1600/hackers.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html"
+    ]
+  },
+  {
+    "id": "953a9269e98f5345bad16850",
+    "title": "IAM for AI agents: A Practical Enterprise Framework",
+    "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+    "published": "2026-09-28T18:20:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: IAM for AI agents: A Practical Enterprise Framework. What: IAM for AI agents: A Practical Enterprise Framework. When: 2026-09-28T18:20:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: IAM for AI agents: A Practical Enterprise Framework. ماذا: IAM for AI agents: A Practical Enterprise Framework. متى: 2026-09-28T18:20:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5iI5XAgqXDB1IvqmdWgs2QFGVb5cAbMuJgwtgpKwvRtamF2xs9Od5F4Xwv7JhH8HC0yDOUx1ErLjZaeOBSu8mkCR3ewFb3x3VTV-IFbfXwUR2Pzoqf6_JKFq9de2wf1enmkMSK8M5QU2FBGovMkMkhLzI2qV90LuQYTgdMW-ymc5zxrv_yieHXBUr4Ck/s1600/OR.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/iam-for-ai-agent.html"
+    ]
+  },
+  {
+    "id": "c79231d6db94d82b32851e29",
+    "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+    "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+    "published": "2026-09-28T17:42:18+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M. What: The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.. When: 2026-09-28T17:42:18+00:00. How: The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. Action: See Arabic action below.",
+    "summary_ar": "من: Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M. ماذا: The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.. متى: 2026-09-28T17:42:18+00:00. كيف: The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8s-yMULxIXnKcHnHw7w1dF9pt58MDYc_-_wfJPo8ifPgGoD0GZcgE408ZdC1GbZvjp2wOOEYrlR8obpFEXZ-KUSjIBXFFb3LcswKfAd3EODISE5hSkU-QplYeZDnK95i0QrJhNZKcKEVgedmkKjAme9PV4vDLV-OY7Bh9KhCINbGuglY49greoPLCJQ/s1600/bitget-hacker.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html"
+    ]
+  },
+  {
+    "id": "26cc36978970074fef377924",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "published": "2026-09-28T17:38:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims. What: RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims. When: 2026-09-28T17:38:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims. ماذا: RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims. متى: 2026-09-28T17:38:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html"
+    ]
+  },
+  {
+    "id": "b1e3e519f863ae0a32c06f08",
+    "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
+    "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+    "published": "2026-09-28T17:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Modulate Raises $25 Million to Advance Deepfake Detection. What: Modulate Raises $25 Million to Advance Deepfake Detection. When: 2026-09-28T17:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Modulate Raises $25 Million to Advance Deepfake Detection. ماذا: Modulate Raises $25 Million to Advance Deepfake Detection. متى: 2026-09-28T17:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/"
+    ]
+  },
+  {
+    "id": "2a1fced464bdfccbe1e1f32f",
+    "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
+    "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+    "published": "2026-09-28T16:51:25+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.. What: Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions. When: 2026-09-28T16:51:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.. ماذا: Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions. متى: 2026-09-28T16:51:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt58ef6fb504edd4a8/6ab6fbfc80fa6786057ac6ea/Spying-DrAfter123-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions"
+    ]
+  },
+  {
+    "id": "db274977753dd4a7ffdb9757",
+    "title": "Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed",
+    "link": "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/",
+    "published": "2026-09-28T16:15:17+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed. What: Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed. When: 2026-09-28T16:15:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed. ماذا: Bose’s new wired earbuds aim for the same great sound and ANC – no charging needed. متى: 2026-09-28T16:15:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Comp_Export_5091d1.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/bose-new-hybrid-wired-earbuds-anc/"
+    ]
+  },
+  {
+    "id": "be5ce4a651a9d68ae593642b",
+    "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+    "published": "2026-09-28T15:49:27+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components.. What: JadePuffer agentic AI attacks target Azure, destroy cloud resources. When: 2026-09-28T15:49:27+00:00. How: [...] JadePuffer agentic AI attacks target Azure, destroy cloud resources Action: See Arabic action below.",
+    "summary_ar": "من: The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components.. ماذا: JadePuffer agentic AI attacks target Azure, destroy cloud resources. متى: 2026-09-28T15:49:27+00:00. كيف: [...] JadePuffer agentic AI attacks target Azure, destroy cloud resources. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/Azure.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/"
+    ]
+  },
+  {
+    "id": "b783a4aa9a9a167350ef009c",
+    "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+    "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+    "published": "2026-09-28T15:33:21+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack. What: JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack. When: 2026-09-28T15:33:21+00:00. How: The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases. Action: See Arabic action below.",
+    "summary_ar": "من: JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack. ماذا: JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack. متى: 2026-09-28T15:33:21+00:00. كيف: The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack"
+    ]
+  },
+  {
+    "id": "3273adb42f73db2052a22d09",
+    "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
+    "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
+    "published": "2026-09-28T15:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Call for Presentations Open for 2026 CISO Forum Virtual Summit. What: Call for Presentations Open for 2026 CISO Forum Virtual Summit. When: 2026-09-28T15:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Call for Presentations Open for 2026 CISO Forum Virtual Summit. ماذا: Call for Presentations Open for 2026 CISO Forum Virtual Summit. متى: 2026-09-28T15:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/CISO_Forum-CFP-2026.jpg",
+    "sources": [
+      "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/"
+    ]
+  },
+  {
+    "id": "9eea57edb89b54636f2899fa",
+    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+    "link": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+    "published": "2026-09-28T15:08:57+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Van der Stap said he was still dealing with civil lawsuits and restitution related to his previous cybercrime victims, and that he was trying his best to make amends.. What: He was released from prison in December 2025.. When: 2026-09-28T15:08:57+00:00. How: According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Action: See Arabic action below.",
+    "summary_ar": "من: Van der Stap said he was still dealing with civil lawsuits and restitution related to his previous cybercrime victims, and that he was trying his best to make amends.. ماذا: He was released from prison in December 2025.. متى: 2026-09-28T15:08:57+00:00. كيف: According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
+    ]
+  },
+  {
+    "id": "2649de53cd92a5de56bc25ec",
+    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
+    "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "published": "2026-09-28T15:02:04+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild. What: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. When: 2026-09-28T15:02:04+00:00. How: Unit 42 is aware of possible 0-day activity against NetScaler devices. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild. ماذا: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. متى: 2026-09-28T15:02:04+00:00. كيف: Unit 42 is aware of possible 0-day activity against NetScaler devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/06_Vulnerabilities_1920x900-5.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+    ]
+  },
+  {
+    "id": "bd6b19d59d260584b178498e",
+    "title": "Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach",
+    "link": "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/",
+    "published": "2026-09-28T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach. What: Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach. When: 2026-09-28T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach. ماذا: Bitget Restarts Bitcoin Withdrawals Following $387.5m Wallet Breach. متى: 2026-09-28T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/629e177e-cefc-4a90-a142-84755394d0c6.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/"
+    ]
+  },
+  {
+    "id": "b59ade817b530fc5571c9f17",
+    "title": "Your Bose headphones are getting a major Bluetooth upgrade – what to expect",
+    "link": "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/",
+    "published": "2026-09-28T14:40:43+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Your Bose headphones are getting a major Bluetooth upgrade – what to expect. What: Your Bose headphones are getting a major Bluetooth upgrade – what to expect. When: 2026-09-28T14:40:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your Bose headphones are getting a major Bluetooth upgrade – what to expect. ماذا: Your Bose headphones are getting a major Bluetooth upgrade – what to expect. متى: 2026-09-28T14:40:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/0969a659-9c73-4b4c-9670-9e14e0bc8474.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/your-bose-headphones-are-getting-a-major-bluetooth-upgrade-what-to-expect/"
+    ]
+  },
+  {
     "id": "7d4f95884d68b25b7a27ed4f",
     "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
     "link": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
@@ -146290,437 +146675,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/11/10/Hacker-IAB.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/"
-    ]
-  },
-  {
-    "id": "5eb2ad130f1146e54604b472",
-    "title": "Still running iOS 18? Install this critical update ASAP",
-    "link": "https://www.zdnet.com/article/ios-18-darksword-security-patch/",
-    "published": "2026-04-01T20:00:29+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Still running iOS 18? Install this critical update ASAP. What: Still running iOS 18? Install this critical update ASAP. When: 2026-04-01T20:00:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Still running iOS 18? Install this critical update ASAP. ماذا: Still running iOS 18? Install this critical update ASAP. متى: 2026-04-01T20:00:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3573b640e44159ec5da086362971f52545968fd7/2026/04/01/61a5d1b7-67f9-4587-b96c-c6924314620f/blackapplegettyimages-1076542330.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ios-18-darksword-security-patch/"
-    ]
-  },
-  {
-    "id": "1b1239e8cda32fd97d331ee5",
-    "title": "Amazon security boss: AI makes pentesting 40% more efficient",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/amazon_security_boss_ai_efficiency/",
-    "published": "2026-04-01T20:00:21+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Amazon security boss: AI makes pentesting 40% more efficient. What: Amazon security boss: AI makes pentesting 40% more efficient. When: 2026-04-01T20:00:21+00:00. How: Plus: how to train your human AI interview Amazon has seen a 40 percent efficiency gain by using AI tools to pentest its products before and after launch, according to security chief CJ Moses.… Amazon security boss: AI makes pentesting 40% more efficient Action: See Arabic action below.",
-    "summary_ar": "من: Amazon security boss: AI makes pentesting 40% more efficient. ماذا: Amazon security boss: AI makes pentesting 40% more efficient. متى: 2026-04-01T20:00:21+00:00. كيف: Plus: how to train your human AI interview Amazon has seen a 40 percent efficiency gain by using AI tools to pentest its products before and after launch, according to security chief CJ Moses.… Amazon security boss: AI makes pentesting 40% more efficient. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/01/amazon_ciso_cj_moses.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/01/amazon_security_boss_ai_efficiency/"
-    ]
-  },
-  {
-    "id": "1a86c6edd9f233f844a52110",
-    "title": "New EvilTokens service fuels Microsoft device code phishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/",
-    "published": "2026-04-01T19:42:25+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks.. What: New EvilTokens service fuels Microsoft device code phishing attacks. When: 2026-04-01T19:42:25+00:00. How: A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks. Action: See Arabic action below.",
-    "summary_ar": "من: A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks.. ماذا: New EvilTokens service fuels Microsoft device code phishing attacks. متى: 2026-04-01T19:42:25+00:00. كيف: A new malicious kit called EvilTokens integrates device code phishing capabilities, allowing attackers to hijack Microsoft accounts and provide advanced features for business email compromise attacks.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/tokens.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-eviltokens-service-fuels-microsoft-device-code-phishing-attacks/"
-    ]
-  },
-  {
-    "id": "dde4892b95993a9186a160fc",
-    "title": "We still highly recommend these 3 older laptop models - especially while they're on sale",
-    "link": "https://www.zdnet.com/article/best-older-laptop-deals-last-minute-amazon-spring-sale/",
-    "published": "2026-04-01T19:01:02+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: We still highly recommend these 3 older laptop models - especially while they're on sale. What: We still highly recommend these 3 older laptop models - especially while they're on sale. When: 2026-04-01T19:01:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: We still highly recommend these 3 older laptop models - especially while they're on sale. ماذا: We still highly recommend these 3 older laptop models - especially while they're on sale. متى: 2026-04-01T19:01:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f7bf74d68793f819942df0cc0d2b101d30796c57/2025/08/05/fc8d13ae-7d61-4d58-9bc0-f16990ebe02a/img-3247.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-older-laptop-deals-last-minute-amazon-spring-sale/"
-    ]
-  },
-  {
-    "id": "ad43d05376d3c16fcff9db77",
-    "title": "LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut",
-    "link": "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut",
-    "published": "2026-04-01T19:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut. What: A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.. When: 2026-04-01T19:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LatAm's Self-Taught Cyber Talent Overlooked Amid Cyberattack Glut. ماذا: A newly released study exclusively shared with Dark Reading details the unique circumstances that make up Latin America's labor pool, and why organizations may want to expand their talent search.. متى: 2026-04-01T19:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/remote-workforce/latam-cyber-talent-overlooked-cyberattack-glut"
-    ]
-  },
-  {
-    "id": "f4f826e6a47318950190f842",
-    "title": "Best Amazon Big Spring Sale headphone deals 2026 - last chance to save",
-    "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-headphones-deals/",
-    "published": "2026-04-01T18:51:59+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best Amazon Big Spring Sale headphone deals 2026 - last chance to save. What: Best Amazon Big Spring Sale headphone deals 2026 - last chance to save. When: 2026-04-01T18:51:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Best Amazon Big Spring Sale headphone deals 2026 - last chance to save. ماذا: Best Amazon Big Spring Sale headphone deals 2026 - last chance to save. متى: 2026-04-01T18:51:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8e6f111ef5c4596c626a9001de2d62942eaaeb37/2026/03/05/95aa0e00-012b-4e99-8563-3e856c7f0add/headphones.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-headphones-deals/",
-      "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-laptop-deals/",
-      "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-tablet-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-smart-ring-smartwatch-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
-      "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-robot-vacuum-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-headphones-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-tablet-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-laptop-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-headphones-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-tablet-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-deals-under-25/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-laptop-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-smart-ring-smartwatch-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-tv-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-phone-deals/"
-    ]
-  },
-  {
-    "id": "7e732fbc91991778f32d4593",
-    "title": "Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings",
-    "link": "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-robot-vacuum-deals/",
-    "published": "2026-04-01T18:39:13+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings. What: Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings. When: 2026-04-01T18:39:13+00:00. How: A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Action: See Arabic action below.",
-    "summary_ar": "من: Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings. ماذا: Best Amazon Spring Sale robot vacuum deals 2026 - last call for savings. متى: 2026-04-01T18:39:13+00:00. كيف: A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fa86b69e0973d4fbb98ff2728654f17d1d88fbb4/2026/03/05/d0886333-2c93-4463-9fc3-70bd7285a660/vacuums.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-robot-vacuum-deals/"
-    ]
-  },
-  {
-    "id": "5c7b4905f93cfd660fae8725",
-    "title": "Threat Brief: Widespread Impact of the Axios Supply Chain Attack",
-    "link": "https://unit42.paloaltonetworks.com/axios-supply-chain-attack/",
-    "published": "2026-04-01T18:30:10+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Widespread Impact of the Axios Supply Chain Attack. What: Threat Brief: Widespread Impact of the Axios Supply Chain Attack. When: 2026-04-01T18:30:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Widespread Impact of the Axios Supply Chain Attack. ماذا: Threat Brief: Widespread Impact of the Axios Supply Chain Attack. متى: 2026-04-01T18:30:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/02_Security-Technology_Category_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/axios-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "ac79d4ed94813808ae34627d",
-    "title": "We're tracking the best still live tech deals under $50 after Amazon's Big Spring Sale",
-    "link": "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
-    "published": "2026-04-01T18:08:11+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: We're tracking the best still live tech deals under $50 after Amazon's Big Spring Sale. What: We're tracking the best still live tech deals under $50 after Amazon's Big Spring Sale. When: 2026-04-01T18:08:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: We're tracking the best still live tech deals under $50 after Amazon's Big Spring Sale. ماذا: We're tracking the best still live tech deals under $50 after Amazon's Big Spring Sale. متى: 2026-04-01T18:08:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ef8ef95e8ee094c1e683701872d7ec732a2ea8ab/2026/03/18/5323a4eb-6ee1-4e39-b065-9444476db038/lisen-car-charger-spring-sale-2026.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
-      "https://www.zdnet.com/article/best-deals-under-100-amazon-spring-sale/",
-      "https://www.zdnet.com/article/best-deals-under-50-amazon-spring-sale/"
-    ]
-  },
-  {
-    "id": "afad684dd980c5a97ad0998e",
-    "title": "'NoVoice' Android malware on Google Play infected 2.3 million devices",
-    "link": "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/",
-    "published": "2026-04-01T18:07:21+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads.. What: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads.. When: 2026-04-01T18:07:21+00:00. How: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads. Action: See Arabic action below.",
-    "summary_ar": "من: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads.. ماذا: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads.. متى: 2026-04-01T18:07:21+00:00. كيف: A new Android malware dubbed NoVoice exploited known vulnerabilities to gain root access and has been distributed through more than 50 apps on Google Play Store, with at least 2.3 million downloads.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/android.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/novoice-android-malware-on-google-play-infected-23-million-devices/"
-    ]
-  },
-  {
-    "id": "cabbab6e63c5d34755b68d09",
-    "title": "The best still-live phone deals from T-Mobile, Verizon, AT&T and other carriers",
-    "link": "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-last-minute-amazon-spring-sale/",
-    "published": "2026-04-01T17:19:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best still-live phone deals from T-Mobile, Verizon, AT&T and other carriers. What: The best still-live phone deals from T-Mobile, Verizon, AT&T and other carriers. When: 2026-04-01T17:19:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best still-live phone deals from T-Mobile, Verizon, AT&T and other carriers. ماذا: The best still-live phone deals from T-Mobile, Verizon, AT&T and other carriers. متى: 2026-04-01T17:19:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8dbf5af77307bb9e38545804e2108444bd97ca1c/2026/02/28/f529c93b-2d35-4a3b-a5c3-ae339c5c930e/dsc09241.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-last-minute-amazon-spring-sale/",
-      "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "08d4bdb3b66aeaa60d1fb8ce",
-    "title": "Microsoft account vs. local account: How to choose and set up your pick in Windows 11",
-    "link": "https://www.zdnet.com/article/local-vs-microsoft-account-in-windows-11-how-to-decide/",
-    "published": "2026-04-01T17:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Windows 11 setup program really, really wants you to use a Microsoft account instead of a local account.. What: Microsoft account vs. local account: How to choose and set up your pick in Windows 11. When: 2026-04-01T17:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Windows 11 setup program really, really wants you to use a Microsoft account instead of a local account.. ماذا: Microsoft account vs. local account: How to choose and set up your pick in Windows 11. متى: 2026-04-01T17:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2a51ee3480495b2b4a97a03d3eccdcedaf5a739c/2026/03/02/4f09b654-163e-43e0-b990-186f778c5e35/dsc04934.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/local-vs-microsoft-account-in-windows-11-how-to-decide/"
-    ]
-  },
-  {
-    "id": "d8370e8dc619be8895384b14",
-    "title": "Cyberattacks Intensify Pressure on Latin American Governments",
-    "link": "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments",
-    "published": "2026-04-01T16:52:54+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Cyberattacks Intensify Pressure on Latin American Governments. What: Cyberattacks Intensify Pressure on Latin American Governments. When: 2026-04-01T16:52:54+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cyberattacks Intensify Pressure on Latin American Governments. ماذا: Cyberattacks Intensify Pressure on Latin American Governments. متى: 2026-04-01T16:52:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/cyberattacks-latin-american-governments"
-    ]
-  },
-  {
-    "id": "6309da1321f8b82095494290",
-    "title": "Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts",
-    "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-phone-deals/",
-    "published": "2026-04-01T16:49:40+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more.. What: Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts. When: 2026-04-01T16:49:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more.. ماذا: Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts. متى: 2026-04-01T16:49:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/aa62ad1a023e82b9b0b27907ec9e5dbf417d4bf0/2026/03/05/4c138fdf-54da-471f-b955-366527d40e1e/phone.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-phone-deals/",
-      "https://www.zdnet.com/article/best-last-minute-amazon-big-spring-sale-2026-tv-deals/",
-      "https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-deals-under-25/",
-      "https://www.zdnet.com/article/best-amazon-big-spring-sale-2026-tv-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-tv-deals/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-deals-under-25/",
-      "https://www.zdnet.com/article/best-amazon-big-spring-sale-2026-phone-deals/",
-      "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-phone-deals/",
-      "https://www.zdnet.com/article/best-costco-deals-last-minute-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-walmart-deals-last-minute-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-costco-deals-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-walmart-deals-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-early-costco-deals-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-early-walmart-deals-amazon-big-spring-sale-2026/",
-      "https://www.zdnet.com/article/best-amazon-spring-sale-2026-deals-under-25/"
-    ]
-  },
-  {
-    "id": "1e98ffe4c5423162ebc64248",
-    "title": "Depthfirst Raises $80 Million in Series B Funding",
-    "link": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
-    "published": "2026-04-01T16:47:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Depthfirst Raises $80 Million in Series B Funding. What: Depthfirst Raises $80 Million in Series B Funding. When: 2026-04-01T16:47:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Depthfirst Raises $80 Million in Series B Funding. ماذا: Depthfirst Raises $80 Million in Series B Funding. متى: 2026-04-01T16:47:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/"
-    ]
-  },
-  {
-    "id": "f88f9be65e2b70852d57b7f7",
-    "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-    "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-    "published": "2026-04-01T16:10:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails. What: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.. When: 2026-04-01T16:10:00+00:00. How: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE. Action: See Arabic action below.",
-    "summary_ar": "من: CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails. ماذا: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.. متى: 2026-04-01T16:10:00+00:00. كيف: The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4SwwNEiRJL3-C8lgR_Sj7XKNGuxhA-uAdcUZBQRRzmC16xbgg4bYkHTBz2VTfXOle8Su66hHz8vDXIOOQ2nFXlNo8wOIVWYGmVW-c9X4Luqx1-qFCiLmOMzUzwW8T5g0S73q4sr66bEAhjy9BrGmiz_pj52J3ug92X8hO5gMR6j9v_Fg8Iqu8lzqczge3/s1600/cert.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
-    ]
-  },
-  {
-    "id": "9656b7481f85f18b24caaa28",
-    "title": "Toy Giant Hasbro Hit by Cyberattack",
-    "link": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
-    "published": "2026-04-01T15:35:47+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Toy Giant Hasbro Hit by Cyberattack. What: Toy Giant Hasbro Hit by Cyberattack. When: 2026-04-01T15:35:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Toy Giant Hasbro Hit by Cyberattack. ماذا: Toy Giant Hasbro Hit by Cyberattack. متى: 2026-04-01T15:35:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/"
-    ]
-  },
-  {
-    "id": "4e2a7b3ace709966f2e3f3f2",
-    "title": "I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts",
-    "link": "https://www.zdnet.com/article/gmail-ai-workflow/",
-    "published": "2026-04-01T15:14:08+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts. What: I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts. When: 2026-04-01T15:14:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts. ماذا: I used Gmail's AI tool to do hours of work for me in 10 minutes - with 3 prompts. متى: 2026-04-01T15:14:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/516234161f9b6328e8293417e84e76449a038ff2/2026/04/01/d1f3ca77-1674-4f5f-8c79-c4be14806a4b/gmail-gemini-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/gmail-ai-workflow/"
-    ]
-  },
-  {
-    "id": "e0a63683fa94ee03838a9e44",
-    "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
-    "link": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
-    "published": "2026-04-01T15:04:43+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New DeepLoad Malware Dropped in ClickFix Attacks. What: The post New DeepLoad Malware Dropped in ClickFix Attacks appeared first on SecurityWeek .. When: 2026-04-01T15:04:43+00:00. How: The malware steals credentials, installs a malicious browser extension, and can spread via USB drives. Action: See Arabic action below.",
-    "summary_ar": "من: New DeepLoad Malware Dropped in ClickFix Attacks. ماذا: The post New DeepLoad Malware Dropped in ClickFix Attacks appeared first on SecurityWeek .. متى: 2026-04-01T15:04:43+00:00. كيف: The malware steals credentials, installs a malicious browser extension, and can spread via USB drives.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/"
-    ]
-  },
-  {
-    "id": "b7fe340b800ddb1b3f7ab2e9",
-    "title": "Google Introduces Android Dev Verification Amid Openness Debate",
-    "link": "https://www.infosecurity-magazine.com/news/google-android-dev-verification/",
-    "published": "2026-04-01T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Android requires dev identity verification for sideloaded apps; phased global rollout from September Google Introduces Android Dev Verification Amid Openness Debate. What: Google Introduces Android Dev Verification Amid Openness Debate. When: 2026-04-01T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Android requires dev identity verification for sideloaded apps; phased global rollout from September Google Introduces Android Dev Verification Amid Openness Debate. ماذا: Google Introduces Android Dev Verification Amid Openness Debate. متى: 2026-04-01T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/19d7257d-027b-429c-bd01-3e32e7fad65b.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/google-android-dev-verification/"
-    ]
-  },
-  {
-    "id": "0de1ab9d331bf6b69f43e057",
-    "title": "Venom Stealer MaaS Platform Commoditizes ClickFix Attacks",
-    "link": "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks",
-    "published": "2026-04-01T14:54:23+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Venom Stealer MaaS Platform Commoditizes ClickFix Attacks. What: Venom Stealer MaaS Platform Commoditizes ClickFix Attacks. When: 2026-04-01T14:54:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Venom Stealer MaaS Platform Commoditizes ClickFix Attacks. ماذا: Venom Stealer MaaS Platform Commoditizes ClickFix Attacks. متى: 2026-04-01T14:54:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/venom-stealer-maas-commoditizes-clickfix-attacks"
-    ]
-  },
-  {
-    "id": "62eb6a52ad7b073aa7d91314",
-    "title": "This Android camera accessory helped me spot a hidden electrical hazard just in time",
-    "link": "https://www.zdnet.com/article/thermal-master-p4-thermal-camera-review/",
-    "published": "2026-04-01T14:49:40+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This Android camera accessory helped me spot a hidden electrical hazard just in time. What: This Android camera accessory helped me spot a hidden electrical hazard just in time. When: 2026-04-01T14:49:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This Android camera accessory helped me spot a hidden electrical hazard just in time. ماذا: This Android camera accessory helped me spot a hidden electrical hazard just in time. متى: 2026-04-01T14:49:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/41c18be7d96599e2cd9c0f5007830592ef713b92/2026/03/27/c5a92f52-9d7a-4095-9fb2-71ea76732a59/img-3228.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/thermal-master-p4-thermal-camera-review/"
     ]
   }
 ]
