@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "f03c17914eb5524ff0f4b173",
+    "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+    "published": "2026-09-27T23:40:39+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.. What: OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.. When: 2026-09-27T23:40:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.. ماذا: OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website.. متى: 2026-09-27T23:40:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/"
+    ]
+  },
+  {
     "id": "44db897d4935fdb77c40477f",
     "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
@@ -147069,80 +147087,6 @@
     "image": "https://www.zdnet.com/a/img/resize/569218862b213a221f59e40e7dd1f6ecae1ede41/2026/03/31/91ab303b-bed2-472b-82e8-10f75bda7d3a/aicodescreenshot-2026-03-31-153221.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
-    ]
-  },
-  {
-    "id": "9ecb0dfe213705201698d063",
-    "title": "Claude Code source code accidentally leaked in NPM package",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/",
-    "published": "2026-04-01T00:32:25+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Claude Code source code accidentally leaked in NPM package. What: Claude Code source code accidentally leaked in NPM package. When: 2026-04-01T00:32:25+00:00. How: Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. Action: See Arabic action below.",
-    "summary_ar": "من: Claude Code source code accidentally leaked in NPM package. ماذا: Claude Code source code accidentally leaked in NPM package. متى: 2026-04-01T00:32:25+00:00. كيف: Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/ClaudeAI.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
-    ]
-  },
-  {
-    "id": "f07d01ee8de2d3b03c851b01",
-    "title": "Samsung's advances in blood pressure tracking are why I'm coming back (for good)",
-    "link": "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/",
-    "published": "2026-04-01T00:28:26+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung's advances in blood pressure tracking are why I'm coming back (for good). What: Samsung's advances in blood pressure tracking are why I'm coming back (for good). When: 2026-04-01T00:28:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung's advances in blood pressure tracking are why I'm coming back (for good). ماذا: Samsung's advances in blood pressure tracking are why I'm coming back (for good). متى: 2026-04-01T00:28:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/21e277c8c2ea10749f95ebc8b85c95960c209046/2025/07/08/a1ef298c-b957-4b2b-930b-980c62317549/dsc06396.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/"
-    ]
-  },
-  {
-    "id": "b37b6e18c230c40f0ad4c241",
-    "title": "Google now allows you to change your @gmail.com address",
-    "link": "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-    "published": "2026-03-31T23:13:56+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google is rolling out a new feature in the U.S.. What: Google now allows you to change your @gmail.com address. When: 2026-03-31T23:13:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google is rolling out a new feature in the U.S.. ماذا: Google now allows you to change your @gmail.com address. متى: 2026-03-31T23:13:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/03/Gmail.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/",
-      "https://www.bleepingcomputer.com/news/technology/google-now-lets-you-change-your-gmailcom-address-rolling-out/",
-      "https://www.bleepingcomputer.com/news/google/google-will-finally-allow-you-to-change-your-gmailcom-address/"
-    ]
-  },
-  {
-    "id": "30aad66488423959f572f7ce",
-    "title": "Proton launches new \"Meet\" privacy-focused conferencing platform",
-    "link": "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/",
-    "published": "2026-03-31T22:42:07+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams.. What: Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams.. When: 2026-03-31T22:42:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams.. ماذا: Proton has announced a new video conferencing service named Meet and positioned it as a privacy-focused alternative to mainstream services like Google Meet, Zoom, and Microsoft Teams.. متى: 2026-03-31T22:42:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/31/Proton_Meet.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/"
     ]
   }
 ]
