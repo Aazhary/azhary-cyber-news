@@ -54,6 +54,64 @@
     ]
   },
   {
+    "id": "f00c9bff5cec658dfee9b674",
+    "title": "Certainties in life: Death, taxes, and critical Citrix vulns under attack",
+    "link": "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369",
+    "published": "2026-09-28T06:49:03+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Perhaps it’s time to add attackers targeting newly discovered critical flaws in Citrix’s NetScaler application delivery controller and gateway products to that grim list.. What: That sad fact saw the United States’ Cybersecurity and Infrastructure Security Agency on Sunday issue an alert because it too “has received reports and partner threat intelligence confirming that threat actors are actively exploiting these vulnerabilities globally.” “Because updating Citrix NetScaler appliances can be complex and may require downtime, CISA is issuing this Alert to help organizations assess exposure, prioritize mitigation, and account for these vulnerabilities into their risk-management activities,” the alert adds.. When: 2026-09-28T06:49:03+00:00. How: That sad fact saw the United States’ Cybersecurity and Infrastructure Security Agency on Sunday issue an alert because it too “has received reports and partner threat intelligence confirming that threat actors are actively exploiting these vulnerabilities globally.” “Because updating Citrix NetScaler appliances can be complex and may require downtime, CISA is issuing this Alert to help organizations assess exposure, prioritize mitigation, and account for these vulnerabilities into their risk-management activities,” the alert adds. Action: See Arabic action below.",
+    "summary_ar": "من: Perhaps it’s time to add attackers targeting newly discovered critical flaws in Citrix’s NetScaler application delivery controller and gateway products to that grim list.. ماذا: That sad fact saw the United States’ Cybersecurity and Infrastructure Security Agency on Sunday issue an alert because it too “has received reports and partner threat intelligence confirming that threat actors are actively exploiting these vulnerabilities globally.” “Because updating Citrix NetScaler appliances can be complex and may require downtime, CISA is issuing this Alert to help organizations assess exposure, prioritize mitigation, and account for these vulnerabilities into their risk-management activities,” the alert adds.. متى: 2026-09-28T06:49:03+00:00. كيف: That sad fact saw the United States’ Cybersecurity and Infrastructure Security Agency on Sunday issue an alert because it too “has received reports and partner threat intelligence confirming that threat actors are actively exploiting these vulnerabilities globally.” “Because updating Citrix NetScaler appliances can be complex and may require downtime, CISA is issuing this Alert to help organizations assess exposure, prioritize mitigation, and account for these vulnerabilities into their risk-management activities,” the alert adds.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772",
+      "CVE-2026-88773"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5299380.jpg?imageId=5299380&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369"
+    ]
+  },
+  {
+    "id": "bc1df5baf666f3da23252efb",
+    "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+    "published": "2026-09-28T06:24:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. What: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. When: 2026-09-28T06:24:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. ماذا: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S.. متى: 2026-09-28T06:24:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/"
+    ]
+  },
+  {
+    "id": "72f2d46b86ce6555af2557e8",
+    "title": "OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
+    "published": "2026-09-28T05:30:50+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The fun started on Friday when OpenAI quietly disclosed it had paused training of its most advanced models.. What: The fun started on Friday when OpenAI quietly disclosed it had paused training of its most advanced models.. When: 2026-09-28T05:30:50+00:00. How: The bad news is that the agent, which was attempting to complete a search-based training task, was able to reach the chatbot due to insufficient DNS filtering in a training sandbox. Action: See Arabic action below.",
+    "summary_ar": "من: The fun started on Friday when OpenAI quietly disclosed it had paused training of its most advanced models.. ماذا: The fun started on Friday when OpenAI quietly disclosed it had paused training of its most advanced models.. متى: 2026-09-28T05:30:50+00:00. كيف: The bad news is that the agent, which was attempting to complete a search-based training task, was able to reach the chatbot due to insufficient DNS filtering in a training sandbox.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/261387.jpg?imageId=261387&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350"
+    ]
+  },
+  {
     "id": "f03c17914eb5524ff0f4b173",
     "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
@@ -146925,168 +146983,6 @@
     "image": "",
     "sources": [
       "https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/"
-    ]
-  },
-  {
-    "id": "a03832572a7c43aac17e53b7",
-    "title": "Google Drive ransomware detection now on by default for paying users",
-    "link": "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/",
-    "published": "2026-04-01T06:35:34+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users.. What: Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users.. When: 2026-04-01T06:35:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users.. ماذا: Google announced that the AI-powered Google Drive ransomware detection feature has reached general availability and is now enabled by default for all paying users.. متى: 2026-04-01T06:35:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Google-Drive.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-drive-ransomware-detection-now-on-by-default-for-paying-users/"
-    ]
-  },
-  {
-    "id": "965dbcee4ca3147bfe4c8cdd",
-    "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-    "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
-    "published": "2026-04-01T06:12:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms. What: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.. When: 2026-04-01T06:12:00+00:00. How: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. Action: See Arabic action below.",
-    "summary_ar": "من: Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms. ماذا: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.. متى: 2026-04-01T06:12:00+00:00. كيف: Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
-    ]
-  },
-  {
-    "id": "0e22215fa819ebf7a95734a1",
-    "title": "A laughing RAT: CrystalX combines spyware, stealer, and prankware features",
-    "link": "https://securelist.com/crystalx-rat-with-prankware-features/119283/",
-    "published": "2026-04-01T06:00:09+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: Kaspersky’s products detect this threat as Backdoor.Win64.CrystalX.*, Trojan.Win64.Agent.*, Trojan.Win32.Agentb.gen.. What: A laughing RAT: CrystalX combines spyware, stealer, and prankware features. When: 2026-04-01T06:00:09+00:00. How: It caught our attention because of its extensive arsenal of capabilities. Action: See Arabic action below.",
-    "summary_ar": "من: Kaspersky’s products detect this threat as Backdoor.Win64.CrystalX.*, Trojan.Win64.Agent.*, Trojan.Win32.Agentb.gen.. ماذا: A laughing RAT: CrystalX combines spyware, stealer, and prankware features. متى: 2026-04-01T06:00:09+00:00. كيف: It caught our attention because of its extensive arsenal of capabilities.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/03/01052848/SL-CrystalX-RAT-and-prankware-featured.jpg",
-    "sources": [
-      "https://securelist.com/crystalx-rat-with-prankware-features/119283/"
-    ]
-  },
-  {
-    "id": "76507887008f4f35f6b3e8b2",
-    "title": "New Windows 11 emergency update fixes preview update install issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/",
-    "published": "2026-04-01T05:33:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues.. What: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues.. When: 2026-04-01T05:33:43+00:00. How: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues.. ماذا: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues.. متى: 2026-04-01T05:33:43+00:00. كيف: Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows-11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
-    ]
-  },
-  {
-    "id": "961ef64e0190da7b51492142",
-    "title": "STARDUST CHOLLIMA Likely Compromises Axios npm Package",
-    "link": "https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/",
-    "published": "2026-04-01T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: STARDUST CHOLLIMA Likely Compromises Axios npm Package. What: STARDUST CHOLLIMA Likely Compromises Axios npm Package. When: 2026-04-01T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: STARDUST CHOLLIMA Likely Compromises Axios npm Package. ماذا: STARDUST CHOLLIMA Likely Compromises Axios npm Package. متى: 2026-04-01T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/stardust-chollima-likely-compromises-axios-npm-package/"
-    ]
-  },
-  {
-    "id": "0c8f75a649fc197beb215516",
-    "title": "Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management",
-    "link": "https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/",
-    "published": "2026-04-01T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management. What: Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management. When: 2026-04-01T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management. ماذا: Falcon for IT Supports Windows Secure Boot Certificate Lifecycle Management. متى: 2026-04-01T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/falcon-for-it-supports-windows-secure-boot-certificate-lifecycle-management/"
-    ]
-  },
-  {
-    "id": "d36e7ae11037eab245a0cd44",
-    "title": "Windows might be hiding some of your PC's storage by default - here's how to reclaim it",
-    "link": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
-    "published": "2026-04-01T03:02:21+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Windows might be hiding some of your PC's storage by default - here's how to reclaim it. What: Windows might be hiding some of your PC's storage by default - here's how to reclaim it. When: 2026-04-01T03:02:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Windows might be hiding some of your PC's storage by default - here's how to reclaim it. ماذا: Windows might be hiding some of your PC's storage by default - here's how to reclaim it. متى: 2026-04-01T03:02:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/93f9693c4ee378b3a0fa5a85b983cfca67c678ff/2025/12/31/89b79864-26bc-4a4e-98a8-6d9ecee0839c/dsc04250.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/"
-    ]
-  },
-  {
-    "id": "0666e1ed2ea308c9efb86d5c",
-    "title": "AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: Why I'm looking past brand ecosystems now",
-    "link": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
-    "published": "2026-04-01T02:30:53+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung's latest wireless earbuds close the gap in audio fidelity and ANC performance with Apple - here's how to choose the right pair.. What: AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: Why I'm looking past brand ecosystems now. When: 2026-04-01T02:30:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung's latest wireless earbuds close the gap in audio fidelity and ANC performance with Apple - here's how to choose the right pair.. ماذا: AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: Why I'm looking past brand ecosystems now. متى: 2026-04-01T02:30:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c8b3c0c2d3131746565997b2839197852745d2c4/2026/03/31/f7137f38-1891-425d-89c2-ef80597f8009/app3gb4p.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/"
-    ]
-  },
-  {
-    "id": "fb01a8da6e7ae04a5886faa5",
-    "title": "How AI has suddenly become much more useful to open-source developers",
-    "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-    "published": "2026-04-01T01:40:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How AI has suddenly become much more useful to open-source developers. What: How AI has suddenly become much more useful to open-source developers. When: 2026-04-01T01:40:49+00:00. How: More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. Action: See Arabic action below.",
-    "summary_ar": "من: How AI has suddenly become much more useful to open-source developers. ماذا: How AI has suddenly become much more useful to open-source developers. متى: 2026-04-01T01:40:49+00:00. كيف: More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/569218862b213a221f59e40e7dd1f6ecae1ede41/2026/03/31/91ab303b-bed2-472b-82e8-10f75bda7d3a/aicodescreenshot-2026-03-31-153221.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/maybe-open-source-needs-ai/"
     ]
   }
 ]
