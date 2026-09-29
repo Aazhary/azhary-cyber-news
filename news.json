@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "9781d3f6a1487e869f7febe0",
+    "title": "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+    "link": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+    "published": "2026-09-29T02:13:51+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI has detailed the extent of the dirty deeds its agents indulged in Down Under in a Tuesday blog post titled How we will do better for Australia, which addresses last week’s news that one of its models improperly accessed a website that stores data related to national health scheme Medicare.. What: In another incident disclosed in the new post, the company’s bots visited the Australian Institute of Health and Welfare and tried, unsuccessfully, to bypass access controls.. When: 2026-09-29T02:13:51+00:00. How: It then used this access to review technical system information and source code related to the service – all still with the objective of trying to find the information it was originally looking for.” The Register last week asked OpenAI if the company conducted the tests itself or used a partner. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has detailed the extent of the dirty deeds its agents indulged in Down Under in a Tuesday blog post titled How we will do better for Australia, which addresses last week’s news that one of its models improperly accessed a website that stores data related to national health scheme Medicare.. ماذا: In another incident disclosed in the new post, the company’s bots visited the Australian Institute of Health and Welfare and tried, unsuccessfully, to bypass access controls.. متى: 2026-09-29T02:13:51+00:00. كيف: It then used this access to review technical system information and source code related to the service – all still with the objective of trying to find the information it was originally looking for.” The Register last week asked OpenAI if the company conducted the tests itself or used a partner.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666"
+    ]
+  },
+  {
     "id": "af90707fd724ed58cd0be85d",
     "title": "One Packet Can Crash OT Servers in Industrial Sectors",
     "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
