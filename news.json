@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "af90707fd724ed58cd0be85d",
+    "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+    "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+    "published": "2026-09-28T21:13:04+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: One Packet Can Crash OT Servers in Industrial Sectors. What: One Packet Can Crash OT Servers in Industrial Sectors. When: 2026-09-28T21:13:04+00:00. How: A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments. Action: See Arabic action below.",
+    "summary_ar": "من: One Packet Can Crash OT Servers in Industrial Sectors. ماذا: One Packet Can Crash OT Servers in Industrial Sectors. متى: 2026-09-28T21:13:04+00:00. كيف: A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a4e2e84866c963b/6abad9206f2a1229af4c529c/bugconcept_Elena_Abrazhevich_shutterstock_REVISED_FOR_16_BY_9.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine"
+    ]
+  },
+  {
+    "id": "a4c9989360ae6705fce1c115",
+    "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+    "published": "2026-09-28T20:56:47+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Japan's Keio confirms ransomware attack disrupted business systems. What: Japan's Keio confirms ransomware attack disrupted business systems. When: 2026-09-28T20:56:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Japan's Keio confirms ransomware attack disrupted business systems. ماذا: Japan's Keio confirms ransomware attack disrupted business systems. متى: 2026-09-28T20:56:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/28/tokyo-train.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/"
+    ]
+  },
+  {
+    "id": "e6cde0b75b83a99039bc830d",
+    "title": "iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues",
+    "link": "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/",
+    "published": "2026-09-28T20:39:56+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues. What: iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues. When: 2026-09-28T20:39:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues. ماذا: iOS 27.0.1 released: Apple fixes annoying iPhone 18 Pro restart and freezing issues. متى: 2026-09-28T20:39:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ios-2701.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
+    ]
+  },
+  {
     "id": "f6437873fa8f0b79d91eb370",
     "title": "Times Car confirms data breach affecting 6.6 million user accounts",
     "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
@@ -861,6 +915,24 @@
     "image": "https://image.theregister.com/261387.jpg?imageId=261387&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350"
+    ]
+  },
+  {
+    "id": "330df04f27e6a050c85c09ab",
+    "title": "A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/",
+    "published": "2026-09-28T04:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack. What: A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack. When: 2026-09-28T04:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack. ماذا: A Win for Defenders: CrowdStrike and NVIDIA Extend Security Across the AI Stack. متى: 2026-09-28T04:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-extend-security-across-ai-stack/"
     ]
   },
   {
@@ -146585,96 +146657,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg",
     "sources": [
       "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html"
-    ]
-  },
-  {
-    "id": "602acd62c8e7250f2f4f5b99",
-    "title": "AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/mercor_supply_chain_attack/",
-    "published": "2026-04-02T00:02:58+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack. What: AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack. When: 2026-04-02T00:02:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack. ماذا: AI recruiting biz Mercor says it was 'one of thousands' hit in LiteLLM supply-chain attack. متى: 2026-04-02T00:02:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/02/28/shutterstock_broken_link.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/02/mercor_supply_chain_attack/"
-    ]
-  },
-  {
-    "id": "b89c31d16851253a282f0cd3",
-    "title": "New CrystalRAT malware adds RAT, stealer and prankware features",
-    "link": "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/",
-    "published": "2026-04-01T23:17:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New CrystalRAT malware adds RAT, stealer and prankware features. What: New CrystalRAT malware adds RAT, stealer and prankware features. When: 2026-04-01T23:17:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New CrystalRAT malware adds RAT, stealer and prankware features. ماذا: New CrystalRAT malware adds RAT, stealer and prankware features. متى: 2026-04-01T23:17:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/09/hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/"
-    ]
-  },
-  {
-    "id": "ad03a094228f831dbfdd196a",
-    "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense",
-    "link": "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense",
-    "published": "2026-04-01T22:04:43+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense. What: Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense. When: 2026-04-01T22:04:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense. ماذا: Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense. متى: 2026-04-01T22:04:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense"
-    ]
-  },
-  {
-    "id": "6ea1aed7bd824f1653b8f2be",
-    "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/",
-    "published": "2026-04-01T21:50:49+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit.. What: Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit.. When: 2026-04-01T21:50:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit.. ماذا: Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit.. متى: 2026-04-01T21:50:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/29/apple-lights.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/"
-    ]
-  },
-  {
-    "id": "64c99a51d649363638f7af45",
-    "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/",
-    "published": "2026-04-01T21:35:47+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploit TrueConf zero-day to push malicious software updates. What: Hackers exploit TrueConf zero-day to push malicious software updates. When: 2026-04-01T21:35:47+00:00. How: Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploit TrueConf zero-day to push malicious software updates. ماذا: Hackers exploit TrueConf zero-day to push malicious software updates. متى: 2026-04-01T21:35:47+00:00. كيف: Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/10/Hacker-IAB.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/"
     ]
   }
 ]
