@@ -54,6 +54,190 @@
     ]
   },
   {
+    "id": "2e214347ffb20564cb344c5a",
+    "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+    "link": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+    "published": "2026-09-29T21:34:39+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “We have found instances of our GPT models being susceptible to an AI-version of a worm attack that we call ‘self-replicating prompt injection,’” OpenAI said in a Friday alignment research blog.. What: Add one more AI worry to the nightmare scenario: self-replicating prompt injections. When: 2026-09-29T21:34:39+00:00. How: To address this threat before it turns into a security nightmare, OpenAI said that it's using its automated red-teaming agent, GPT-Red, to train future models on self-reproduction as an example of attacker goals. Action: See Arabic action below.",
+    "summary_ar": "من: “We have found instances of our GPT models being susceptible to an AI-version of a worm attack that we call ‘self-replicating prompt injection,’” OpenAI said in a Friday alignment research blog.. ماذا: Add one more AI worry to the nightmare scenario: self-replicating prompt injections. متى: 2026-09-29T21:34:39+00:00. كيف: To address this threat before it turns into a security nightmare, OpenAI said that it's using its automated red-teaming agent, GPT-Red, to train future models on self-reproduction as an example of attacker goals.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5299934.jpg?imageId=5299934&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922"
+    ]
+  },
+  {
+    "id": "dad7f1e98924bb6931a3cf2f",
+    "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+    "published": "2026-09-29T21:31:29+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.. What: Apple Zero-Day Vulnerability Weaponized in Targeted Attacks. When: 2026-09-29T21:31:29+00:00. How: Apple Zero-Day Vulnerability Weaponized in Targeted Attacks Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.. ماذا: Apple Zero-Day Vulnerability Weaponized in Targeted Attacks. متى: 2026-09-29T21:31:29+00:00. كيف: Apple Zero-Day Vulnerability Weaponized in Targeted Attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-86950"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks"
+    ]
+  },
+  {
+    "id": "aae08bb6a99ba21280b62804",
+    "title": "Signal adds encypted local backup support to iOS, desktop apps",
+    "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+    "published": "2026-09-29T21:30:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Signal adds encypted local backup support to iOS, desktop apps. What: Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows).. When: 2026-09-29T21:30:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Signal adds encypted local backup support to iOS, desktop apps. ماذا: Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows).. متى: 2026-09-29T21:30:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/"
+    ]
+  },
+  {
+    "id": "af597f3c7c0de65ff1fce165",
+    "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+    "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+    "published": "2026-09-29T21:08:42+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution. What: A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.. When: 2026-09-29T21:08:42+00:00. How: A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting. Action: See Arabic action below.",
+    "summary_ar": "من: Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution. ماذا: A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.. متى: 2026-09-29T21:08:42+00:00. كيف: A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution"
+    ]
+  },
+  {
+    "id": "76547738eddeddbd34899bd2",
+    "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+    "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+    "published": "2026-09-29T20:59:39+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware.. What: Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware.. When: 2026-09-29T20:59:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware.. ماذا: Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware.. متى: 2026-09-29T20:59:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/29/chatgpt.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/"
+    ]
+  },
+  {
+    "id": "7b7f6019738814dc5232e67d",
+    "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+    "link": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+    "published": "2026-09-29T20:14:44+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeared first on SecurityWeek .. What: OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference. When: 2026-09-29T20:14:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference appeared first on SecurityWeek .. ماذا: OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference. متى: 2026-09-29T20:14:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/"
+    ]
+  },
+  {
+    "id": "269e738f0981750fd77ae376",
+    "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+    "published": "2026-09-29T20:09:55+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: FBI tells ShinyHunters members to turn themselves in after recent arrest. What: FBI tells ShinyHunters members to turn themselves in after recent arrest. When: 2026-09-29T20:09:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI tells ShinyHunters members to turn themselves in after recent arrest. ماذا: FBI tells ShinyHunters members to turn themselves in after recent arrest. متى: 2026-09-29T20:09:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/29/fbi-danger.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/"
+    ]
+  },
+  {
+    "id": "b513f59d09898c70f0767f25",
+    "title": "FBI to ShinyHunters: 'We know how to find you'",
+    "link": "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
+    "published": "2026-09-29T19:38:33+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: FBI to ShinyHunters: 'We know how to find you'. What: FBI to ShinyHunters: 'We know how to find you'. When: 2026-09-29T19:38:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI to ShinyHunters: 'We know how to find you'. ماذا: FBI to ShinyHunters: 'We know how to find you'. متى: 2026-09-29T19:38:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/256583.jpg?imageId=256583&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901"
+    ]
+  },
+  {
+    "id": "e3cb4e6e1ea8774cd5333e50",
+    "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
+    "link": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
+    "published": "2026-09-29T19:09:53+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.. What: LLMjacking can run up your business’ AI bill fast – how to stop it. When: 2026-09-29T19:09:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.. ماذا: LLMjacking can run up your business’ AI bill fast – how to stop it. متى: 2026-09-29T19:09:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1818127161.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/"
+    ]
+  },
+  {
+    "id": "7255110665bf355ddd275e58",
+    "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+    "published": "2026-09-29T18:37:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit Citrix NetScaler zero-day to deploy web shells. What: Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks.. When: 2026-09-29T18:37:12+00:00. How: Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit Citrix NetScaler zero-day to deploy web shells. ماذا: Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks.. متى: 2026-09-29T18:37:12+00:00. كيف: Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88772"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/07/21/citrix_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+    ]
+  },
+  {
     "id": "4c461b4fc05e4c83c5719595",
     "title": "Former US Air Force members sent to prison over BEC attacks",
     "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
@@ -111,6 +295,24 @@
     ]
   },
   {
+    "id": "d6d690a45d2cd808509e80e8",
+    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+    "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "published": "2026-09-29T17:47:01+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks. What: The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks. When: 2026-09-29T17:47:01+00:00. How: The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks Action: See Arabic action below.",
+    "summary_ar": "من: French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks. ماذا: The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks. متى: 2026-09-29T17:47:01+00:00. كيف: The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html"
+    ]
+  },
+  {
     "id": "ec353bd22dd49d81766e7a3e",
     "title": "Windows 11 2026 Update released, here's everything you need to know",
     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
@@ -165,6 +367,42 @@
     ]
   },
   {
+    "id": "47cf7b5d49a9d48747bf353a",
+    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "published": "2026-09-29T17:20:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses. What: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.. When: 2026-09-29T17:20:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses. ماذا: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.. متى: 2026-09-29T17:20:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
+    ]
+  },
+  {
+    "id": "643a969864727d3f41c3e627",
+    "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+    "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+    "published": "2026-09-29T17:20:08+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.. What: Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor. When: 2026-09-29T17:20:08+00:00. How: Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft. Action: See Arabic action below.",
+    "summary_ar": "من: Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.. ماذا: Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor. متى: 2026-09-29T17:20:08+00:00. كيف: Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html"
+    ]
+  },
+  {
     "id": "1a6e8346e1829c87b42d4619",
     "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
     "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
@@ -198,24 +436,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web"
-    ]
-  },
-  {
-    "id": "47cf7b5d49a9d48747bf353a",
-    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-    "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-    "published": "2026-09-29T17:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses. What: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.. When: 2026-09-29T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses. ماذا: A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.. متى: 2026-09-29T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html"
     ]
   },
   {
@@ -800,6 +1020,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html"
+    ]
+  },
+  {
+    "id": "79324070eec8eef538d15a79",
+    "title": "Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/",
+    "published": "2026-09-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them. What: Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them. When: 2026-09-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them. ماذا: Copy, Paste, Compromised: How ClickFix Attacks Work and How CrowdStrike Stops Them. متى: 2026-09-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/how-clickfix-attacks-work-and-how-to-stop-them/"
     ]
   },
   {
@@ -4029,7 +4267,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1aba9e4e1417374b/6ab51eee31241669d655f164/SASE-Zoonar_GmbH_via_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud"
     ]
@@ -146518,171 +146756,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b39b0504a24614347d71dc2f185df7366ab08d02/2026/03/18/4a2b1d74-1c34-41ba-8745-8f018776a160/dsc09849.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/privacybee-data-removal-review/"
-    ]
-  },
-  {
-    "id": "16ba4da73e382a6d0f1ff0a3",
-    "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
-    "link": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
-    "published": "2026-04-02T21:14:27+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026. What: Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026. When: 2026-04-02T21:14:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026. ماذا: Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026. متى: 2026-04-02T21:14:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt52c682d1b06fcea2/69cc3ebb4642d5670041150e/quantum_computing1800_jvphoto_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026"
-    ]
-  },
-  {
-    "id": "2e510c2defc44e91cb2edb3d",
-    "title": "Claude Code leak used to push infostealer malware on GitHub",
-    "link": "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/",
-    "published": "2026-04-02T20:30:55+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware.. What: Claude Code leak used to push infostealer malware on GitHub. When: 2026-04-02T20:30:55+00:00. How: Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware. Action: See Arabic action below.",
-    "summary_ar": "من: Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware.. ماذا: Claude Code leak used to push infostealer malware on GitHub. متى: 2026-04-02T20:30:55+00:00. كيف: Threat actors are exploiting the recent Claude Code source code leak by using fake GitHub repositories to deliver Vidar information-stealing malware.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/GitHub.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/"
-    ]
-  },
-  {
-    "id": "354599b25ca7e091a7542d9a",
-    "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
-    "published": "2026-04-02T20:28:36+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate. What: Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate. When: 2026-04-02T20:28:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate. ماذا: Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate. متى: 2026-04-02T20:28:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate"
-    ]
-  },
-  {
-    "id": "e749d705d255a07ff3362c65",
-    "title": "Securing the Supply Chain: How SentinelOne®’s AI EDR Stops the Axios Attack Autonomously",
-    "link": "https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/",
-    "published": "2026-04-02T19:50:56+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: What Happened: The Anatomy of a State-Level Supply Chain Weapon The attacker, tracked as UNC1069 by Google Threat Intelligence and Sapphire Sleet by Microsoft, compromised maintainer credentials and published axios@1.14.1 (tagged “latest”) and axios@0.30.4 (tagged “legacy”).. What: In March 2026, Google Threat Intelligence reported that UNC1069 leverages ClickFix, a social engineering technique that weaponizes user verification fatigue, as an initial access vector for credential harvesting.. When: 2026-04-02T19:50:56+00:00. How: None of it mattered because the old key was still under the mat. Action: See Arabic action below.",
-    "summary_ar": "من: What Happened: The Anatomy of a State-Level Supply Chain Weapon The attacker, tracked as UNC1069 by Google Threat Intelligence and Sapphire Sleet by Microsoft, compromised maintainer credentials and published axios@1.14.1 (tagged “latest”) and axios@0.30.4 (tagged “legacy”).. ماذا: In March 2026, Google Threat Intelligence reported that UNC1069 leverages ClickFix, a social engineering technique that weaponizes user verification fatigue, as an initial access vector for credential harvesting.. متى: 2026-04-02T19:50:56+00:00. كيف: None of it mattered because the old key was still under the mat.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2026/04/Blog_Axios_Supply_Chain_02_1200x627.png",
-    "sources": [
-      "https://www.sentinelone.com/blog/securing-the-supply-chain-how-sentinelones-ai-edr-stops-the-axios-attack-autonomously/"
-    ]
-  },
-  {
-    "id": "5dea1e4bb2c7a6623f5bf9fc",
-    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-    "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-    "published": "2026-04-02T19:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp;scale.. What: Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials. When: 2026-04-02T19:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp;scale.. ماذا: Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials. متى: 2026-04-02T19:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-55182"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8T48UROZtSjRXtkxVcNT2VmXbB1texWQPAqLbm06uwmJ8VsYFb_HeXOnZx9uz9QL-LB3aWdwcLm9TbuRler7w7jjXJlL_tQweQualaW4XEVav7Ysulqx_CJyc9a0P1dO1a69W_eQhroxV1LA_p5VB9T38Xubc3zXHgwd-4sAAc2whuv4ElnC5WtFSn7SH/s1600/nextjs.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
-    ]
-  },
-  {
-    "id": "f17b44cf6ceec5d2bcaee26d",
-    "title": "Security Bosses Are All in on AI: Here's Why",
-    "link": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
-    "published": "2026-04-02T19:12:45+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Security Bosses Are All in on AI: Here's Why. What: Security Bosses Are All in on AI: Here's Why. When: 2026-04-02T19:12:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Security Bosses Are All in on AI: Here's Why. ماذا: Security Bosses Are All in on AI: Here's Why. متى: 2026-04-02T19:12:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai"
-    ]
-  },
-  {
-    "id": "aa63cbce1610a09066e5ab1e",
-    "title": "How to switch from ChatGPT to Gemini - without starting from scratch",
-    "link": "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/",
-    "published": "2026-04-02T19:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to switch from ChatGPT to Gemini - without starting from scratch. What: How to switch from ChatGPT to Gemini - without starting from scratch. When: 2026-04-02T19:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to switch from ChatGPT to Gemini - without starting from scratch. ماذا: How to switch from ChatGPT to Gemini - without starting from scratch. متى: 2026-04-02T19:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/25acc127272074f56bdda470af69a6574ef704a1/2026/04/02/a3c48a1f-26e3-42fd-8a01-d380b077432a/gettyimages-2259187250.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-switch-from-chatgpt-to-gemini-without-starting-from-scratch/"
-    ]
-  },
-  {
-    "id": "3f309df2e2b41352df35b26c",
-    "title": "I highly recommend this car charger for quick charging on the go - and it's cheap",
-    "link": "https://www.zdnet.com/article/lisen-retractable-car-charger-amazon-spring-sale-2026/",
-    "published": "2026-04-02T19:05:25+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I highly recommend this car charger for quick charging on the go - and it's cheap. What: I highly recommend this car charger for quick charging on the go - and it's cheap. When: 2026-04-02T19:05:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I highly recommend this car charger for quick charging on the go - and it's cheap. ماذا: I highly recommend this car charger for quick charging on the go - and it's cheap. متى: 2026-04-02T19:05:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ef8ef95e8ee094c1e683701872d7ec732a2ea8ab/2026/03/18/5323a4eb-6ee1-4e39-b065-9444476db038/lisen-car-charger-spring-sale-2026.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lisen-retractable-car-charger-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "2de50bca010c94e4324fd974",
-    "title": "Drift loses $280 million as North Korean hackers seize Security Council powers",
-    "link": "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-    "published": "2026-04-02T19:03:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Drift loses $280 million as North Korean hackers seize Security Council powers. What: Drift loses $280 million as North Korean hackers seize Security Council powers. When: 2026-04-02T19:03:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Drift loses $280 million as North Korean hackers seize Security Council powers. ماذا: Drift loses $280 million as North Korean hackers seize Security Council powers. متى: 2026-04-02T19:03:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/31/cryptocurrency.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/",
-      "https://www.bleepingcomputer.com/news/security/drift-loses-280-million-as-hackers-seize-security-council-powers/"
     ]
   }
 ]
