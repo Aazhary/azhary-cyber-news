@@ -54,6 +54,62 @@
     ]
   },
   {
+    "id": "57fe96c5439413ac689ae5ce",
+    "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+    "link": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+    "published": "2026-09-30T06:55:50+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL. What: Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries.. When: 2026-09-30T06:55:50+00:00. How: Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries. Action: See Arabic action below.",
+    "summary_ar": "من: High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL. ماذا: Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries.. متى: 2026-09-30T06:55:50+00:00. كيف: Roughly a dozen vulnerabilities have been patched in each of the open source cryptographic libraries.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/OpenSSL-communications-traffic.jpg",
+    "sources": [
+      "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/"
+    ]
+  },
+  {
+    "id": "308509a3caca0dbf4f7f75dc",
+    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+    "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+    "published": "2026-09-30T05:30:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution. What: Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.. When: 2026-09-30T05:30:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution. ماذا: Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.. متى: 2026-09-30T05:30:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88772"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
+    ]
+  },
+  {
+    "id": "ffcfe767e0d543cfa4cd36bb",
+    "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+    "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+    "published": "2026-09-30T01:48:21+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development. What: Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development. When: 2026-09-30T01:48:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development. ماذا: Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development. متى: 2026-09-30T01:48:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Whitehouse-Cybersecurity.jpg",
+    "sources": [
+      "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/"
+    ]
+  },
+  {
     "id": "c4d73e08fd9c163045b96bd4",
     "title": "Microsoft is rolling out Linux container support to WSL",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
@@ -805,24 +861,6 @@
     ]
   },
   {
-    "id": "8fc9367798351e80219ca75d",
-    "title": "Four Cyber Threats Harboring Big Plans for the Future",
-    "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
-    "published": "2026-09-29T11:30:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Four Cyber Threats Harboring Big Plans for the Future. What: Four Cyber Threats Harboring Big Plans for the Future. When: 2026-09-29T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Four Cyber Threats Harboring Big Plans for the Future. ماذا: Four Cyber Threats Harboring Big Plans for the Future. متى: 2026-09-29T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/"
-    ]
-  },
-  {
     "id": "2e4bbd9fff13de594f7abde1",
     "title": "Former X-Force hackers chase the offensive cyber gold rush",
     "link": "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
@@ -838,6 +876,24 @@
     "image": "https://image.theregister.com/235817.jpg?imageId=235817&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662"
+    ]
+  },
+  {
+    "id": "8fc9367798351e80219ca75d",
+    "title": "Four Cyber Threats Harboring Big Plans for the Future",
+    "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+    "published": "2026-09-29T11:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Four Cyber Threats Harboring Big Plans for the Future. What: Four Cyber Threats Harboring Big Plans for the Future. When: 2026-09-29T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Four Cyber Threats Harboring Big Plans for the Future. ماذا: Four Cyber Threats Harboring Big Plans for the Future. متى: 2026-09-29T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/"
     ]
   },
   {
@@ -146720,24 +146776,6 @@
     "image": "https://www.zdnet.com/a/img/resize/d27ab4d677eb023850e476e1d405f9b82d8cc801/2026/03/30/5cd43083-d3f1-42d3-888c-79e0ac5fbc72/airpodsmax2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/apple-airpods-max-2-vs-airpods-pro-2-comparison/"
-    ]
-  },
-  {
-    "id": "01f4eed64cd50a16944919b0",
-    "title": "CERT-EU: European Commission hack exposes data of 30 EU entities",
-    "link": "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/",
-    "published": "2026-04-03T06:33:34+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CERT-EU: European Commission hack exposes data of 30 EU entities. What: CERT-EU: European Commission hack exposes data of 30 EU entities. When: 2026-04-03T06:33:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CERT-EU: European Commission hack exposes data of 30 EU entities. ماذا: CERT-EU: European Commission hack exposes data of 30 EU entities. متى: 2026-04-03T06:33:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/0_European_Union_flag.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/"
     ]
   }
 ]
