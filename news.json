@@ -54,6 +54,298 @@
     ]
   },
   {
+    "id": "e60d9fc4f3119305cc84f9e3",
+    "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows",
+    "link": "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240",
+    "published": "2026-09-30T18:29:41+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A 16-year-old security researcher named Faav found an authentication flaw in Microsoft’s Titan analytics service that allowed him to gain administrator access, submit unauthorized SQL queries with no valid credentials, and potentially reach analytics databases containing an estimated 17.3 trillion stored rows.. What: “We appreciate the opportunity to investigate the findings reported by Faav,” Microsoft said in a statement provided to Faav for his blog.. When: 2026-09-30T18:29:41+00:00. How: Titan is an internal analytics platform, and Redmond restricts access via its web interface to Microsoft employees. Action: See Arabic action below.",
+    "summary_ar": "من: A 16-year-old security researcher named Faav found an authentication flaw in Microsoft’s Titan analytics service that allowed him to gain administrator access, submit unauthorized SQL queries with no valid credentials, and potentially reach analytics databases containing an estimated 17.3 trillion stored rows.. ماذا: “We appreciate the opportunity to investigate the findings reported by Faav,” Microsoft said in a statement provided to Faav for his blog.. متى: 2026-09-30T18:29:41+00:00. كيف: Titan is an internal analytics platform, and Redmond restricts access via its web interface to Microsoft employees.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5300248.jpg?imageId=5300248&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240"
+    ]
+  },
+  {
+    "id": "9c9742ebbf4e85dc3d733f70",
+    "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+    "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+    "published": "2026-09-30T18:08:34+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data.. What: Over 543,000 valid credentials exposed in public GitHub repositories. When: 2026-09-30T18:08:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data.. ماذا: Over 543,000 valid credentials exposed in public GitHub repositories. متى: 2026-09-30T18:08:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/21/GitHub_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/"
+    ]
+  },
+  {
+    "id": "538eed88da90c379a312d310",
+    "title": "openSUSE Leap adds a new security layer: Immutable mode",
+    "link": "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/",
+    "published": "2026-09-30T17:58:06+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: openSUSE Leap adds a new security layer: Immutable mode. What: openSUSE Leap adds a new security layer: Immutable mode. When: 2026-09-30T17:58:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: openSUSE Leap adds a new security layer: Immutable mode. ماذا: openSUSE Leap adds a new security layer: Immutable mode. متى: 2026-09-30T17:58:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/opensuseleap.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/opensuse-leap-immutable-mode-security/"
+    ]
+  },
+  {
+    "id": "03776a47da597a08ee1a9ff1",
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+    "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+    "published": "2026-09-30T16:46:29+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.. What: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.. When: 2026-09-30T16:46:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.. ماذا: Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.. متى: 2026-09-30T16:46:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-73570"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
+    ]
+  },
+  {
+    "id": "b930a91aa3d24e4be006642a",
+    "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+    "published": "2026-09-30T16:32:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.. What: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.. When: 2026-09-30T16:32:59+00:00. How: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.. ماذا: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.. متى: 2026-09-30T16:32:59+00:00. كيف: Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html"
+    ]
+  },
+  {
+    "id": "3af86a4f04c86bfb63f0fc49",
+    "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+    "published": "2026-09-30T15:49:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition.. What: CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS. When: 2026-09-30T15:49:29+00:00. How: [...] CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition.. ماذا: CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS. متى: 2026-09-30T15:49:29+00:00. كيف: [...] CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/07/mikrotik.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/"
+    ]
+  },
+  {
+    "id": "e01fe7af809de1cabf0b0946",
+    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
+    "link": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
+    "published": "2026-09-30T15:45:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it. What: Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it. When: 2026-09-30T15:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it. ماذا: Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it. متى: 2026-09-30T15:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Impersonation-Risk-Detection.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/"
+    ]
+  },
+  {
+    "id": "31db54260bd2f67fdc81e8f9",
+    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+    "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "published": "2026-09-30T15:24:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30.. What: Fixed releases are available, and there is no workaround.. When: 2026-09-30T15:24:54+00:00. How: Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30.. ماذا: Fixed releases are available, and there is no workaround.. متى: 2026-09-30T15:24:54+00:00. كيف: Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&nbsp;advisory&nbsp;on September 30.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-76504"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html"
+    ]
+  },
+  {
+    "id": "11103d94604fae78aea594f3",
+    "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
+    "link": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+    "published": "2026-09-30T15:02:25+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net. What: Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net. When: 2026-09-30T15:02:25+00:00. How: The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor. Action: See Arabic action below.",
+    "summary_ar": "من: Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net. ماذا: Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net. متى: 2026-09-30T15:02:25+00:00. كيف: The APT actor is using a new tactic, dubbed &quot;RedFlick,&quot; against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f6d60565804fe81/6abcff0189b51bddd40e0d6e/snowflakes-Ulrick-T-Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net"
+    ]
+  },
+  {
+    "id": "29c4859e9f3e8746f2a01082",
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+    "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+    "published": "2026-09-30T15:00:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures. What: Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.. When: 2026-09-30T15:00:15+00:00. How: Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures. ماذا: Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.. متى: 2026-09-30T15:00:15+00:00. كيف: Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
+    ]
+  },
+  {
+    "id": "7c31dfd80ffc3b571511333b",
+    "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+    "published": "2026-09-30T14:46:40+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges.. What: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges.. When: 2026-09-30T14:46:40+00:00. How: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges.. ماذا: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges.. متى: 2026-09-30T14:46:40+00:00. كيف: Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-1281",
+      "CVE-2026-1340",
+      "CVE-2026-20182",
+      "CVE-2026-20245",
+      "CVE-2026-20262",
+      "CVE-2026-20316",
+      "CVE-2026-76504"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "1d161c5d2740bcbf9f653e3c",
+    "title": "Google: AI Is Changing the Pace and Profile of Vulnerability Discovery",
+    "link": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
+    "published": "2026-09-30T14:05:58+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.. What: Google: AI Is Changing the Pace and Profile of Vulnerability Discovery. When: 2026-09-30T14:05:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google’s analysis found that AI-discovered vulnerabilities are more likely to enable remote code execution.. ماذا: Google: AI Is Changing the Pace and Profile of Vulnerability Discovery. متى: 2026-09-30T14:05:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg",
+    "sources": [
+      "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/"
+    ]
+  },
+  {
+    "id": "f02e730c7b1238c79748757e",
+    "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+    "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+    "published": "2026-09-30T14:01:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: AI's Third Wave: Coworkers Break the Security Model That Worked for Agents. What: AI's Third Wave: Coworkers Break the Security Model That Worked for Agents. When: 2026-09-30T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI's Third Wave: Coworkers Break the Security Model That Worked for Agents. ماذا: AI's Third Wave: Coworkers Break the Security Model That Worked for Agents. متى: 2026-09-30T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/09/29/token-security-ai-agent.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/"
+    ]
+  },
+  {
+    "id": "c944bc30bb7217ab9e9aa142",
+    "title": "AI-Found Vulnerabilities More Likely to Enable RCE, Google Says",
+    "link": "https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/",
+    "published": "2026-09-30T14:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise AI-Found Vulnerabilities More Likely to Enable RCE, Google Says. What: AI-Found Vulnerabilities More Likely to Enable RCE, Google Says. When: 2026-09-30T14:00:00+00:00. How: AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise AI-Found Vulnerabilities More Likely to Enable RCE, Google Says Action: See Arabic action below.",
+    "summary_ar": "من: AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise AI-Found Vulnerabilities More Likely to Enable RCE, Google Says. ماذا: AI-Found Vulnerabilities More Likely to Enable RCE, Google Says. متى: 2026-09-30T14:00:00+00:00. كيف: AI-discovered vulnerabilities are more likely to enable RCE, as disclosures and exploitation rise AI-Found Vulnerabilities More Likely to Enable RCE, Google Says. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/5838bc56-7b51-4361-8ff6-2991b75925e0.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-found-vulnerabilities-rce/"
+    ]
+  },
+  {
+    "id": "3fbdf9fddda9b6c39057c142",
+    "title": "Microsoft to block Entra ID script injection attacks starting October",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+    "published": "2026-09-30T13:37:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month.. What: Microsoft to block Entra ID script injection attacks starting October. When: 2026-09-30T13:37:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month.. ماذا: Microsoft to block Entra ID script injection attacks starting October. متى: 2026-09-30T13:37:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/09/15/Microsoft_passwordless.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/"
+    ]
+  },
+  {
     "id": "6cbd3c5f9f6f1ce3b1b0f6f1",
     "title": "WatchGuard Patches Critical Fireware OS Code Injection Vulnerability",
     "link": "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
@@ -66,7 +358,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg",
     "sources": [
       "https://www.securityweek.com/watchguard-patches-critical-fireware-os-code-injection-vulnerability/",
       "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/"
@@ -361,7 +653,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5299999.jpg?imageId=5299999&x=0&y=13.61&cropw=100&croph=71.67&panox=0&panoy=13.61&panow=100&panoh=71.67&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991"
     ]
@@ -400,7 +692,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5299807.jpg?imageId=5299807&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793"
     ]
@@ -457,7 +749,7 @@
     ],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/244349.jpg?imageId=244349&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937"
     ]
@@ -1601,10 +1893,10 @@
     "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
     "published": "2026-09-28T21:13:04+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: One Packet Can Crash OT Servers in Industrial Sectors. What: One Packet Can Crash OT Servers in Industrial Sectors. When: 2026-09-28T21:13:04+00:00. How: A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments. Action: See Arabic action below.",
-    "summary_ar": "من: One Packet Can Crash OT Servers in Industrial Sectors. ماذا: One Packet Can Crash OT Servers in Industrial Sectors. متى: 2026-09-28T21:13:04+00:00. كيف: A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: One Packet Can Crash OT Servers in Industrial Sectors. What: One Packet Can Crash OT Servers in Industrial Sectors. When: 2026-09-28T21:13:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: One Packet Can Crash OT Servers in Industrial Sectors. ماذا: One Packet Can Crash OT Servers in Industrial Sectors. متى: 2026-09-28T21:13:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
     "impacted": [],
@@ -4188,7 +4480,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc94608acf452fd67/655cf371ab171e040a838b2a/329050_DR23_Graphics_Website_V5_Default_Image_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus"
     ]
@@ -9599,24 +9891,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_VMcM5A8FocwrVqXOjmk-BvMd3D_JA6RIur9wT4Gca5jQjiLLinldpcu3u2hWmJQeJZg5nhVRBwxHe2y0BHg1TZEd046RkPLatyX5JN-7_WtuRyPMX3VnMCAs7tfCYOSghFuBCUT6HFyCBH-bLeAPWlAj9TPtAn1sitCktd2vp_pJr6VtzHd2_EFDpo/s1600/gyazo.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html"
-    ]
-  },
-  {
-    "id": "7238e34645fcb6eef20727ea",
-    "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-    "published": "2026-09-17T07:20:54+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild.. What: Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild.. When: 2026-09-17T07:20:54+00:00. How: [...] Cisco warns of max severity ISE zero-day exploited in attacks Action: See Arabic action below.",
-    "summary_ar": "من: Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild.. ماذا: Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild.. متى: 2026-09-17T07:20:54+00:00. كيف: [...] Cisco warns of max severity ISE zero-day exploited in attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/02/Cisco.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
     ]
   },
   {
@@ -15362,25 +15636,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html"
-    ]
-  },
-  {
-    "id": "fa10c233fda1e92880b49488",
-    "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-    "published": "2026-09-09T06:25:48+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.. What: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.. When: 2026-09-09T06:25:48+00:00. How: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. Action: See Arabic action below.",
-    "summary_ar": "من: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.. ماذا: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.. متى: 2026-09-09T06:25:48+00:00. كيف: Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/Google_Chrome.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/"
     ]
   },
   {
@@ -46985,26 +47240,6 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
     "sources": [
       "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-    ]
-  },
-  {
-    "id": "5b47dfb06d8e2d02536b4475",
-    "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-    "published": "2026-07-29T21:35:40+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. What: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. When: 2026-07-29T21:35:40+00:00. How: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. ماذا: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. متى: 2026-07-29T21:35:40+00:00. كيف: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20316"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/"
     ]
   },
   {
@@ -86768,26 +87003,6 @@
     ]
   },
   {
-    "id": "8116241225e1b45a99361886",
-    "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-    "published": "2026-06-15T17:12:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges.. What: Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges.. When: 2026-06-15T17:12:42+00:00. How: [...] Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks Action: See Arabic action below.",
-    "summary_ar": "من: Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges.. ماذا: Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges.. متى: 2026-06-15T17:12:42+00:00. كيف: [...] Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-20262"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Cisco.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/"
-    ]
-  },
-  {
     "id": "6e21fcaed693b1227dcf2178",
     "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
     "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
@@ -95337,33 +95552,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg",
     "sources": [
       "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
-    ]
-  },
-  {
-    "id": "2c9f40bc5727ef5238a1230a",
-    "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-    "published": "2026-06-05T06:24:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation.. What: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation.. When: 2026-06-05T06:24:20+00:00. How: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. Action: See Arabic action below.",
-    "summary_ar": "من: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation.. ماذا: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation.. متى: 2026-06-05T06:24:20+00:00. كيف: On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-1281",
-      "CVE-2026-1340",
-      "CVE-2026-20182",
-      "CVE-2026-20245"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-two-epmm-flaws-exploited-in-zero-day-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisco-warns-of-unpatched-asyncos-zero-day-exploited-in-attacks/"
     ]
   },
   {
@@ -146368,402 +146556,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1075eb6fb5c94a844fd306956e4ddf62933bf57d/2026/03/31/8b952f41-0f27-4d93-841b-1a9352b11f55/prompplay-2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/apple-music-playlist-playground/"
-    ]
-  },
-  {
-    "id": "c87d9bb69de45255beaad20b",
-    "title": "Hims & Hers warns of data breach after Zendesk support ticket breach",
-    "link": "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/",
-    "published": "2026-04-03T17:41:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hims & Hers warns of data breach after Zendesk support ticket breach. What: Hims & Hers warns of data breach after Zendesk support ticket breach. When: 2026-04-03T17:41:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hims & Hers warns of data breach after Zendesk support ticket breach. ماذا: Hims & Hers warns of data breach after Zendesk support ticket breach. متى: 2026-04-03T17:41:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/hims-hers.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/"
-    ]
-  },
-  {
-    "id": "5523793d39c5750a060a8efd",
-    "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
-    "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
-    "published": "2026-04-03T17:34:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing. What: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing. When: 2026-04-03T17:34:00+00:00. How: \"This TA416 activity included multiple China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing Action: See Arabic action below.",
-    "summary_ar": "من: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing. ماذا: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing. متى: 2026-04-03T17:34:00+00:00. كيف: \"This TA416 activity included multiple China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-dKCldJqtZI1CocMVxHNKusU5tcnMKjx7mzG9EfehvGacnTy4tsTfZLMfhyphenhyphenC5W210OxrxijBNAP8UumXAZH15ZSOM4x8xb9VTIHxN1HCouzROU0pn7sCJki9zJOkk9_8SRns73KxO1KvxUY4YgKGbbme6ZcKdbt4cqSHUkG5WQQPgDDTx_OLRbms35Dv/s1600/chinese-hackers.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
-    ]
-  },
-  {
-    "id": "cf665421bfe5855e1e89842e",
-    "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
-    "link": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
-    "published": "2026-04-03T17:08:57+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Apple Breaks Precedent, Patches DarkSword for iOS 18. What: Apple Breaks Precedent, Patches DarkSword for iOS 18. When: 2026-04-03T17:08:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple Breaks Precedent, Patches DarkSword for iOS 18. ماذا: Apple Breaks Precedent, Patches DarkSword for iOS 18. متى: 2026-04-03T17:08:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18"
-    ]
-  },
-  {
-    "id": "29e3064483b9c8e3b76e6468",
-    "title": "You can use Google Meet with CarPlay now: How to join meetings safely in your car",
-    "link": "https://www.zdnet.com/article/how-to-use-google-meet-in-carplay-safely/",
-    "published": "2026-04-03T16:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google said support is coming soon for Meet.. What: You can use Google Meet with CarPlay now: How to join meetings safely in your car. When: 2026-04-03T16:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google said support is coming soon for Meet.. ماذا: You can use Google Meet with CarPlay now: How to join meetings safely in your car. متى: 2026-04-03T16:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/085430bd3df209754a7a3072945e08ffaa1ea684/2026/04/03/2a180db4-7c4b-4e12-a6be-761d5d22a29d/meet-in-carplay.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-use-google-meet-in-carplay-safely/"
-    ]
-  },
-  {
-    "id": "0724ae4c1deadf6720931a2a",
-    "title": "Die Linke German political party confirms data stolen by Qilin ransomware",
-    "link": "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/",
-    "published": "2026-04-03T16:36:44+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Die Linke German political party confirms data stolen by Qilin ransomware. What: Die Linke German political party confirms data stolen by Qilin ransomware. When: 2026-04-03T16:36:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Die Linke German political party confirms data stolen by Qilin ransomware. ماذا: Die Linke German political party confirms data stolen by Qilin ransomware. متى: 2026-04-03T16:36:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/DieLinke.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/"
-    ]
-  },
-  {
-    "id": "3f104c7cb1c9a43e1bd67a13",
-    "title": "I tested cheap monitors for the office - this $80 MSI is one of the few I'd actually recommend",
-    "link": "https://www.zdnet.com/article/msi-pro-mp243w-24-inch-monitor-review/",
-    "published": "2026-04-03T16:27:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested cheap monitors for the office - this $80 MSI is one of the few I'd actually recommend. What: I tested cheap monitors for the office - this $80 MSI is one of the few I'd actually recommend. When: 2026-04-03T16:27:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested cheap monitors for the office - this $80 MSI is one of the few I'd actually recommend. ماذا: I tested cheap monitors for the office - this $80 MSI is one of the few I'd actually recommend. متى: 2026-04-03T16:27:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/92de99b25206d55aff156b165d1dc3eb57f95d0c/2026/04/01/7f4cb818-559e-4496-a39d-142dc0603b76/img-6327.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/msi-pro-mp243w-24-inch-monitor-review/"
-    ]
-  },
-  {
-    "id": "801c3ba3be6ad3cecb3ca1bc",
-    "title": "I've worn the Oura Ring and Apple Watch for years: Here's which of two is more essential",
-    "link": "https://www.zdnet.com/article/oura-ring-vs-apple-watch/",
-    "published": "2026-04-03T16:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Deciding between Oura's smart ring and an Apple Watch?. What: I've worn the Oura Ring and Apple Watch for years: Here's which of two is more essential. When: 2026-04-03T16:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Deciding between Oura's smart ring and an Apple Watch?. ماذا: I've worn the Oura Ring and Apple Watch for years: Here's which of two is more essential. متى: 2026-04-03T16:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/086dbb4f19b84c3d03d602df447673d5db1c4040/2026/02/13/98118784-91d9-422f-8756-d76b81a22cdd/ring-4-vs-aw-11.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-vs-apple-watch/"
-    ]
-  },
-  {
-    "id": "1c001edfa8593da58c5958e3",
-    "title": "Hybrid work, expanded risk: what needs to change",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/hybrid_work_expanded_risk/",
-    "published": "2026-04-03T16:00:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Hybrid work, expanded risk: what needs to change. What: Hybrid work, expanded risk: what needs to change. When: 2026-04-03T16:00:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hybrid work, expanded risk: what needs to change. ماذا: Hybrid work, expanded risk: what needs to change. متى: 2026-04-03T16:00:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/04/23/shutterstock_login.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/03/hybrid_work_expanded_risk/"
-    ]
-  },
-  {
-    "id": "54d05721bf60a83923911f89",
-    "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
-    "link": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
-    "published": "2026-04-03T15:32:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team.. What: Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers. When: 2026-04-03T15:32:00+00:00. How: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team. Action: See Arabic action below.",
-    "summary_ar": "من: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team.. ماذا: Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers. متى: 2026-04-03T15:32:00+00:00. كيف: Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2zEf8l08MTElI1sGlJPVVWtscud2RAXdsivOvcby3pO4NUWMBioT3FNaFL7Bw0GeEqnX_WqY10FVqXhVNBTOrl0UMPoyun7AvshwpvfJIdfdJ0yJ1V2mz7ZHQDE9motXuuW6urvTJYu0kLGvpZf10Qx1hNeobD4YV25tJY9nvNoW9Sqd8nSsWK7NWQP0/s1600/php-linux.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html"
-    ]
-  },
-  {
-    "id": "20a0823f1a34ca91dd6d1cbb",
-    "title": "How to pay less for gas: 5 free apps I use to find the lowest fuel prices nearby",
-    "link": "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/",
-    "published": "2026-04-03T15:27:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to pay less for gas: 5 free apps I use to find the lowest fuel prices nearby. What: How to pay less for gas: 5 free apps I use to find the lowest fuel prices nearby. When: 2026-04-03T15:27:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to pay less for gas: 5 free apps I use to find the lowest fuel prices nearby. ماذا: How to pay less for gas: 5 free apps I use to find the lowest fuel prices nearby. متى: 2026-04-03T15:27:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7298d5c3c943fc50be13a5e6f8b5ad9a0f1bc52e/2026/04/02/a3d3a0a7-13b5-4f27-bc60-bbddd418e6b8/figure-top-socked-by-high-gas-prices.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/"
-    ]
-  },
-  {
-    "id": "c2869a8f98c56fae1a6e08e2",
-    "title": "Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting",
-    "link": "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting",
-    "published": "2026-04-03T15:11:16+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting. What: Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting. When: 2026-04-03T15:11:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting. ماذا: Blast Radius of TeamPCP Attacks Expands Amid Hacker Infighting. متى: 2026-04-03T15:11:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/teampcp-attacks-hacker-infighting"
-    ]
-  },
-  {
-    "id": "90f85a4eb2803877600c4ea0",
-    "title": "Your TV may be tracking your viewing data - here's how to stop it (beyond disabling ACR)",
-    "link": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
-    "published": "2026-04-03T15:08:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your TV may be tracking your viewing data - here's how to stop it (beyond disabling ACR). What: Your TV may be tracking your viewing data - here's how to stop it (beyond disabling ACR). When: 2026-04-03T15:08:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your TV may be tracking your viewing data - here's how to stop it (beyond disabling ACR). ماذا: Your TV may be tracking your viewing data - here's how to stop it (beyond disabling ACR). متى: 2026-04-03T15:08:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7796640193cd63da23abae5127abed96f4984192/2025/12/11/a1a8b615-c7b5-46e1-9192-96f276ffa0d8/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/"
-    ]
-  },
-  {
-    "id": "a64f3f568dc7fd01bdd309a3",
-    "title": "Windows 11 Home vs. Windows 11 Pro: I found the differences that truly matter",
-    "link": "https://www.zdnet.com/article/windows-11-home-windows-11-pro-compared/",
-    "published": "2026-04-03T14:58:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Windows 11 Home vs. Windows 11 Pro: I found the differences that truly matter. What: Windows 11 Home vs. Windows 11 Pro: I found the differences that truly matter. When: 2026-04-03T14:58:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Windows 11 Home vs. Windows 11 Pro: I found the differences that truly matter. ماذا: Windows 11 Home vs. Windows 11 Pro: I found the differences that truly matter. متى: 2026-04-03T14:58:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/72f712aa9f0b7d8c123ded020b22b4575780d5c1/2026/02/28/de11fc9e-741e-4f62-835d-56e006adf3dc/dsc09294.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/windows-11-home-windows-11-pro-compared/"
-    ]
-  },
-  {
-    "id": "89d1061a6b56afeb11ab9f74",
-    "title": "Why YouTube with ads just isn't worth it for me anymore - even if it's free",
-    "link": "https://www.zdnet.com/article/why-i-pay-for-youtube-premium/",
-    "published": "2026-04-03T14:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why YouTube with ads just isn't worth it for me anymore - even if it's free. What: Why YouTube with ads just isn't worth it for me anymore - even if it's free. When: 2026-04-03T14:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why YouTube with ads just isn't worth it for me anymore - even if it's free. ماذا: Why YouTube with ads just isn't worth it for me anymore - even if it's free. متى: 2026-04-03T14:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/daef7af4f463c394bb98829e2e8a8dad36af414d/2026/03/27/58529944-5239-415d-a352-3c8abb60a18f/youtube-premium-overpaying.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-i-pay-for-youtube-premium/"
-    ]
-  },
-  {
-    "id": "0666e1ed2ea308c9efb86d5c",
-    "title": "Samsung Galaxy Buds 4 Pro vs. AirPods Pro 3: Why it's no longer about brand loyalty for me",
-    "link": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
-    "published": "2026-04-03T14:39:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung's newest wireless earbuds are closing in on Apple's audio and ANC.. What: Samsung Galaxy Buds 4 Pro vs. AirPods Pro 3: Why it's no longer about brand loyalty for me. When: 2026-04-03T14:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung's newest wireless earbuds are closing in on Apple's audio and ANC.. ماذا: Samsung Galaxy Buds 4 Pro vs. AirPods Pro 3: Why it's no longer about brand loyalty for me. متى: 2026-04-03T14:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c8b3c0c2d3131746565997b2839197852745d2c4/2026/03/31/f7137f38-1891-425d-89c2-ef80597f8009/app3gb4p.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/"
-    ]
-  },
-  {
-    "id": "fe268cb955a57e76111a65c9",
-    "title": "How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally",
-    "link": "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/",
-    "published": "2026-04-03T14:24:01+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally. What: How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally. When: 2026-04-03T14:24:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally. ماذا: How Flipboard's new Surf app lets you merge social feeds, YouTube, and RSS to escape the algorithm - finally. متى: 2026-04-03T14:24:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d4559fb536226b63346bc36a74d77d9f99ee4177/2026/04/03/c49ae59d-d35d-4650-a4c9-241eaa4d00af/flipboards-surf-marries-social-networks-and-rss-readers.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-flipboard-surf-merges-social-feeds-youtube-rss/"
-    ]
-  },
-  {
-    "id": "81d67bc51b09abfa8c5b9037",
-    "title": "Evolution of Ransomware: Multi-Extortion Ransomware Attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/",
-    "published": "2026-04-03T14:05:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Evolution of Ransomware: Multi-Extortion Ransomware Attacks. What: Evolution of Ransomware: Multi-Extortion Ransomware Attacks. When: 2026-04-03T14:05:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Evolution of Ransomware: Multi-Extortion Ransomware Attacks. ماذا: Evolution of Ransomware: Multi-Extortion Ransomware Attacks. متى: 2026-04-03T14:05:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/03/31/cyber-hand.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/"
-    ]
-  },
-  {
-    "id": "1df504f7458c7581daad6627",
-    "title": "I found an M.2 dock that handles SSD cloning without a computer - and with only one click",
-    "link": "https://www.zdnet.com/article/icy-box-docking-and-clonestation-review/",
-    "published": "2026-04-03T13:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found an M.2 dock that handles SSD cloning without a computer - and with only one click. What: I found an M.2 dock that handles SSD cloning without a computer - and with only one click. When: 2026-04-03T13:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I found an M.2 dock that handles SSD cloning without a computer - and with only one click. ماذا: I found an M.2 dock that handles SSD cloning without a computer - and with only one click. متى: 2026-04-03T13:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c1505375817c0cca01db9da326d35911c06526bd/2026/03/31/a3033fbb-70e7-417c-ba47-78d402623c37/img-3357.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/icy-box-docking-and-clonestation-review/"
-    ]
-  },
-  {
-    "id": "85de34a107103c9185369e4d",
-    "title": "I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer",
-    "link": "https://www.zdnet.com/article/chatgpt-iphone-ios-apple-carplay/",
-    "published": "2026-04-03T13:33:31+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer. What: I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer. When: 2026-04-03T13:33:31+00:00. How: Here's how I'm using it. Action: See Arabic action below.",
-    "summary_ar": "من: I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer. ماذا: I tried ChatGPT's new CarPlay integration: It's my new go-to for the questions Siri can't answer. متى: 2026-04-03T13:33:31+00:00. كيف: Here's how I'm using it.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c9b1950ba8bf8f4ce3077cc55e51f681b908cbfc/2026/04/03/c0a8585d-1108-483e-adab-ee40f9c2ab9f/carplay-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpt-iphone-ios-apple-carplay/"
-    ]
-  },
-  {
-    "id": "62eb6a52ad7b073aa7d91314",
-    "title": "I bought a thermal camera for my Android and it spotted a hidden hazard right away",
-    "link": "https://www.zdnet.com/article/thermal-master-p4-thermal-camera-review/",
-    "published": "2026-04-03T13:32:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I bought a thermal camera for my Android and it spotted a hidden hazard right away. What: I bought a thermal camera for my Android and it spotted a hidden hazard right away. When: 2026-04-03T13:32:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I bought a thermal camera for my Android and it spotted a hidden hazard right away. ماذا: I bought a thermal camera for my Android and it spotted a hidden hazard right away. متى: 2026-04-03T13:32:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/41c18be7d96599e2cd9c0f5007830592ef713b92/2026/03/27/c5a92f52-9d7a-4095-9fb2-71ea76732a59/img-3228.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/thermal-master-p4-thermal-camera-review/"
-    ]
-  },
-  {
-    "id": "dc6214efdbfe311fffd06596",
-    "title": "Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication",
-    "link": "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication",
-    "published": "2026-04-03T13:30:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication. What: Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication. When: 2026-04-03T13:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication. ماذا: Picking Up 'Skull Vibrations'? Could Be XR Headset Authentication. متى: 2026-04-03T13:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/remote-workforce/skull-vibrations-could-be-xr-headset-authentication"
-    ]
-  },
-  {
-    "id": "c305b90ef931fab757c335f8",
-    "title": "I drove over this AirTag alternative with my car, but it wouldn't crack - unlike others",
-    "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
-    "published": "2026-04-03T13:25:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I drove over this AirTag alternative with my car, but it wouldn't crack - unlike others. What: I drove over this AirTag alternative with my car, but it wouldn't crack - unlike others. When: 2026-04-03T13:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I drove over this AirTag alternative with my car, but it wouldn't crack - unlike others. ماذا: I drove over this AirTag alternative with my car, but it wouldn't crack - unlike others. متى: 2026-04-03T13:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/dfb482fd356e46e8c3ecf762eb22757ff1508c27/2026/03/31/9b3e6eb4-04c5-4b70-b3b1-6fe4abac6c09/img-3355.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/"
     ]
   }
 ]
