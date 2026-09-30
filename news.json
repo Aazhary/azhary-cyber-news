@@ -54,6 +54,156 @@
     ]
   },
   {
+    "id": "bceec0e71a1a071d86e2e932",
+    "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+    "link": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+    "published": "2026-09-30T21:36:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI, which hoovered up vast amounts of internet content amid copyright fights, has accused individuals associated with China’s Moonshot AI of being involved in a \"distillation attack\" that began July 1.. What: Anthropic’s Claude Opus 5.5 model, released a week ago, comes with a defense against distillation called \"preserved thinking\" that it introduced with Fable 5.1.. When: 2026-09-30T21:36:00+00:00. How: Model distillation is a machine learning technique that can involve using one model’s outputs to train another – in adversarial cases, by sending bulk queries designed to reproduce the larger model’s reasoning and capabilities. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI, which hoovered up vast amounts of internet content amid copyright fights, has accused individuals associated with China’s Moonshot AI of being involved in a \"distillation attack\" that began July 1.. ماذا: Anthropic’s Claude Opus 5.5 model, released a week ago, comes with a defense against distillation called \"preserved thinking\" that it introduced with Fable 5.1.. متى: 2026-09-30T21:36:00+00:00. كيف: Model distillation is a machine learning technique that can involve using one model’s outputs to train another – in adversarial cases, by sending bulk queries designed to reproduce the larger model’s reasoning and capabilities.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5300289.jpg?imageId=5300289&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285"
+    ]
+  },
+  {
+    "id": "f50f760b0e339e405d7db786",
+    "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
+    "published": "2026-09-30T21:25:47+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.. What: In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.. When: 2026-09-30T21:25:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.. ماذا: In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.. متى: 2026-09-30T21:25:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure"
+    ]
+  },
+  {
+    "id": "2f52b27c8c9419304c937125",
+    "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
+    "link": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
+    "published": "2026-09-30T20:51:15+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Trump, Tech Giants Strike Voluntary AI Safety Accord. What: Trump, Tech Giants Strike Voluntary AI Safety Accord. When: 2026-09-30T20:51:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Trump, Tech Giants Strike Voluntary AI Safety Accord. ماذا: Trump, Tech Giants Strike Voluntary AI Safety Accord. متى: 2026-09-30T20:51:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted75aa7be03abe55/6abd84dda482eccacf21ff51/whitehouse_VideoFlow_shutterstock_REVISED_FOR_16_BY_9.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord"
+    ]
+  },
+  {
+    "id": "0c186fe5e0a12676bd3070e2",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "published": "2026-09-30T20:44:48+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzations, Microsoft has warned .. What: Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzations, Microsoft has warned .. When: 2026-09-30T20:44:48+00:00. How: Eventually, the attackers began using their command injection capability to install malicious payloads. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzations, Microsoft has warned .. ماذا: Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzations, Microsoft has warned .. متى: 2026-09-30T20:44:48+00:00. كيف: Eventually, the attackers began using their command injection capability to install malicious payloads.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-73570",
+      "cve-2026-73570"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/"
+    ]
+  },
+  {
+    "id": "b53252a3687bf524f1f85846",
+    "title": "Russian state hackers use new RedFlick technique to push malware",
+    "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+    "published": "2026-09-30T20:34:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Russian state hackers use new RedFlick technique to push malware. What: Russian state hackers use new RedFlick technique to push malware. When: 2026-09-30T20:34:01+00:00. How: The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. Action: See Arabic action below.",
+    "summary_ar": "من: Russian state hackers use new RedFlick technique to push malware. ماذا: Russian state hackers use new RedFlick technique to push malware. متى: 2026-09-30T20:34:01+00:00. كيف: The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/Russia.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/"
+    ]
+  },
+  {
+    "id": "2649de53cd92a5de56bc25ec",
+    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+    "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
+    "published": "2026-09-30T20:00:04+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30). What: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. When: 2026-09-30T20:00:04+00:00. How: Unit 42 is aware of possible 0-day activity against NetScaler devices. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30). ماذا: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. متى: 2026-09-30T20:00:04+00:00. كيف: Unit 42 is aware of possible 0-day activity against NetScaler devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88771",
+      "CVE-2026-88772"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/06_Vulnerabilities_1920x900-5.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+    ]
+  },
+  {
+    "id": "736b5634430d03f1cf9cba2a",
+    "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+    "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+    "published": "2026-09-30T19:49:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: DIVD says Zammad zero-days enabled AI-driven network breach. What: DIVD says Zammad zero-days enabled AI-driven network breach. When: 2026-09-30T19:49:15+00:00. How: The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. Action: See Arabic action below.",
+    "summary_ar": "من: DIVD says Zammad zero-days enabled AI-driven network breach. ماذا: DIVD says Zammad zero-days enabled AI-driven network breach. متى: 2026-09-30T19:49:15+00:00. كيف: The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/30/zammad.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/"
+    ]
+  },
+  {
+    "id": "984f7e86d7197d0e52ea1800",
+    "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+    "link": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+    "published": "2026-09-30T18:56:56+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half. What: As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half. When: 2026-09-30T18:56:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half. ماذا: As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half. متى: 2026-09-30T18:56:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder"
+    ]
+  },
+  {
     "id": "e60d9fc4f3119305cc84f9e3",
     "title": "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows",
     "link": "https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240",
@@ -2247,27 +2397,6 @@
     "image": "",
     "sources": [
       "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/"
-    ]
-  },
-  {
-    "id": "2649de53cd92a5de56bc25ec",
-    "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
-    "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/",
-    "published": "2026-09-28T15:02:04+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild. What: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. When: 2026-09-28T15:02:04+00:00. How: Unit 42 is aware of possible 0-day activity against NetScaler devices. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild. ماذا: Citrix reports CVE-2026-88771, CVE-2026-88772 have been exploited in the wild.. متى: 2026-09-28T15:02:04+00:00. كيف: Unit 42 is aware of possible 0-day activity against NetScaler devices.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-88771",
-      "CVE-2026-88772"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/06_Vulnerabilities_1920x900-5.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
     ]
   },
   {
@@ -146425,137 +146554,6 @@
     "image": "https://regmedia.co.uk/2020/12/16/trump.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/"
-    ]
-  },
-  {
-    "id": "39d2788e28bafdb7cfd4e5eb",
-    "title": "When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications",
-    "link": "https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/",
-    "published": "2026-04-03T22:00:38+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications. What: When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications. When: 2026-04-03T22:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications. ماذا: When an Attacker Meets a Group of Agents: Navigating Amazon Bedrock's Multi-Agent Applications. متى: 2026-04-03T22:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/AdobeStock_260323351-2.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/amazon-bedrock-multiagent-applications/"
-    ]
-  },
-  {
-    "id": "559f65cbaac7497275b8e7c7",
-    "title": "Inconsistent Privacy Labels Don't Tell Users What They Are Getting",
-    "link": "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough",
-    "published": "2026-04-03T21:05:07+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Inconsistent Privacy Labels Don't Tell Users What They Are Getting. What: Inconsistent Privacy Labels Don't Tell Users What They Are Getting. When: 2026-04-03T21:05:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Inconsistent Privacy Labels Don't Tell Users What They Are Getting. ماذا: Inconsistent Privacy Labels Don't Tell Users What They Are Getting. متى: 2026-04-03T21:05:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough"
-    ]
-  },
-  {
-    "id": "c2e6cbb70d693f460af51337",
-    "title": "LinkedIn secretly scans for 6,000+ Chrome extensions, collects data",
-    "link": "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-    "published": "2026-04-03T20:40:22+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data.. What: LinkedIn secretly scans for 6,000+ Chrome extensions, collects data. When: 2026-04-03T20:40:22+00:00. How: A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data. Action: See Arabic action below.",
-    "summary_ar": "من: A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data.. ماذا: LinkedIn secretly scans for 6,000+ Chrome extensions, collects data. متى: 2026-04-03T20:40:22+00:00. كيف: A new report dubbed \"BrowserGate\" warns that Microsoft's LinkedIn is using hidden JavaScript scripts on its website to scan visitors' browsers for installed extensions and collect device data.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/07/20/linkedin.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/linkedin-secretly-scans-for-6-000-plus-chrome-extensions-collects-data/",
-      "https://www.bleepingcomputer.com/news/security/linkedin-secretely-scans-for-6-000-plus-chrome-extensions-collects-data/"
-    ]
-  },
-  {
-    "id": "bafb7f75d833305cc225fc6a",
-    "title": "OpenClaw gives users yet another reason to be freaked out about security",
-    "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "published": "2026-04-03T20:30:15+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: OpenClaw, which was introduced in November and now boasts 347,000 stars on Github, by design takes control of a user’s computer and interacts with other apps and platforms to assist with a host of tasks, including organizing files, doing research, and shopping online.. What: A recently fixed vulnerability provides an object lesson for why.. When: 2026-04-03T20:30:15+00:00. How: For more than a month, security practitioners have been warning about the perils of using OpenClaw, the viral AI agentic tool that has taken the development community by storm. Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw, which was introduced in November and now boasts 347,000 stars on Github, by design takes control of a user’s computer and interacts with other apps and platforms to assist with a host of tasks, including organizing files, doing research, and shopping online.. ماذا: A recently fixed vulnerability provides an object lesson for why.. متى: 2026-04-03T20:30:15+00:00. كيف: For more than a month, security practitioners have been warning about the perils of using OpenClaw, the viral AI agentic tool that has taken the development community by storm.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-33579"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
-    ]
-  },
-  {
-    "id": "bafb7f75d833305cc225fc6a",
-    "title": "Here's why it's prudent for OpenClaw users to assume compromise",
-    "link": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
-    "published": "2026-04-03T20:30:15+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: OpenClaw, which was introduced in November and now boasts 347,000 stars on Github, by design takes control of a user’s computer and interacts with other apps and platforms to assist with a host of tasks, including organizing files, doing research, and shopping online.. What: A recently fixed vulnerability provides an object lesson for why.. When: 2026-04-03T20:30:15+00:00. How: For more than a month, security practitioners have been warning about the perils of using OpenClaw, the viral AI agentic tool that has taken the development community by storm. Action: See Arabic action below.",
-    "summary_ar": "من: OpenClaw, which was introduced in November and now boasts 347,000 stars on Github, by design takes control of a user’s computer and interacts with other apps and platforms to assist with a host of tasks, including organizing files, doing research, and shopping online.. ماذا: A recently fixed vulnerability provides an object lesson for why.. متى: 2026-04-03T20:30:15+00:00. كيف: For more than a month, security practitioners have been warning about the perils of using OpenClaw, the viral AI agentic tool that has taken the development community by storm.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-33579"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/bluecrayfish-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
-    ]
-  },
-  {
-    "id": "2a08236a5ed894bf953964df",
-    "title": "The 5 most surprising things our readers bought on Amazon this week (No. 1 is a great gadget)",
-    "link": "https://www.zdnet.com/article/weird-top-sellers-amazon-spring-sale-2026/",
-    "published": "2026-04-03T19:44:59+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The 5 most surprising things our readers bought on Amazon this week (No. 1 is a great gadget). What: The 5 most surprising things our readers bought on Amazon this week (No. 1 is a great gadget). When: 2026-04-03T19:44:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The 5 most surprising things our readers bought on Amazon this week (No. 1 is a great gadget). ماذا: The 5 most surprising things our readers bought on Amazon this week (No. 1 is a great gadget). متى: 2026-04-03T19:44:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8ff887b5f96d20ca90565506e3222e7859c4ecd6/2026/03/30/a8c5f6c4-0de6-4888-937a-abd215d2647a/img-0866.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/weird-top-sellers-amazon-spring-sale-2026/"
-    ]
-  },
-  {
-    "id": "ecc5d218f4bc61a30226e08e",
-    "title": "I let Apple Music's new AI tool curate my playlists for 24 hours - and discovered new hits",
-    "link": "https://www.zdnet.com/article/apple-music-playlist-playground/",
-    "published": "2026-04-03T18:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I let Apple Music's new AI tool curate my playlists for 24 hours - and discovered new hits. What: I let Apple Music's new AI tool curate my playlists for 24 hours - and discovered new hits. When: 2026-04-03T18:45:00+00:00. How: I usually cycle through my years-old playlists, but I tried AI-generated ones for a weekend and found some key learnings. Action: See Arabic action below.",
-    "summary_ar": "من: I let Apple Music's new AI tool curate my playlists for 24 hours - and discovered new hits. ماذا: I let Apple Music's new AI tool curate my playlists for 24 hours - and discovered new hits. متى: 2026-04-03T18:45:00+00:00. كيف: I usually cycle through my years-old playlists, but I tried AI-generated ones for a weekend and found some key learnings.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1075eb6fb5c94a844fd306956e4ddf62933bf57d/2026/03/31/8b952f41-0f27-4d93-841b-1a9352b11f55/prompplay-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-music-playlist-playground/"
     ]
   }
 ]
