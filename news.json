@@ -54,6 +54,100 @@
     ]
   },
   {
+    "id": "1b7e6404a90b72ee70e876d5",
+    "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+    "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+    "published": "2026-10-02T08:38:46+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI.. What: AI Agents Aimed SQL Injection at US and Canadian Government Sites. When: 2026-10-02T08:38:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The attacks targeted the US Department of Education and Library and Archives Canada, and researchers linked some agents to OpenAI.. ماذا: AI Agents Aimed SQL Injection at US and Canadian Government Sites. متى: 2026-10-02T08:38:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/"
+    ]
+  },
+  {
+    "id": "92a0130480ed5d9cd733dfc7",
+    "title": "Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure",
+    "link": "https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/",
+    "published": "2026-10-02T08:25:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure. What: The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure. When: 2026-10-02T08:25:00+00:00. How: The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure Action: See Arabic action below.",
+    "summary_ar": "من: Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure. ماذا: The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure. متى: 2026-10-02T08:25:00+00:00. كيف: The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days Two Zero-Days Exploited in Attack on Dutch Institute for Vulnerability Disclosure. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/89775442-4f94-4982-99bf-fff74485dff7.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/zerodays-dutch-institute/"
+    ]
+  },
+  {
+    "id": "6468fcbb7bba6d15d171c127",
+    "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+    "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+    "published": "2026-10-02T08:07:33+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .. What: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .. When: 2026-10-02T08:07:33+00:00. How: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .. ماذا: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .. متى: 2026-10-02T08:07:33+00:00. كيف: The post Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-104286"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg",
+    "sources": [
+      "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/"
+    ]
+  },
+  {
+    "id": "5a9c1aeb912f65015309f2aa",
+    "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+    "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+    "published": "2026-10-02T08:01:30+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.. What: Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.. When: 2026-10-02T08:01:30+00:00. How: With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Action: See Arabic action below.",
+    "summary_ar": "من: Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.. ماذا: Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.. متى: 2026-10-02T08:01:30+00:00. كيف: With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+    ]
+  },
+  {
+    "id": "10ee893b5c5fb515cd8ce29a",
+    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+    "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "published": "2026-10-02T05:49:50+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.. When: 2026-10-02T05:49:50+00:00. How: \"An improper Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.. متى: 2026-10-02T05:49:50+00:00. كيف: \"An improper Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-104286"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+    ]
+  },
+  {
     "id": "7f8ace82a4a3274e74bb92d4",
     "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
     "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
@@ -948,6 +1042,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html"
+    ]
+  },
+  {
+    "id": "267751d9b983b02dbff9dd19",
+    "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/",
+    "published": "2026-10-01T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS. What: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS. When: 2026-10-01T05:00:00+00:00. How: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS. ماذا: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS. متى: 2026-10-01T05:00:00+00:00. كيف: CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-federal-soc-modernization-via-cisa-siemaas/"
     ]
   },
   {
@@ -147177,44 +147289,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a6f56198dcfd1ac84c5fbf57930062f4efbb8518/2026/04/03/0ee7b2ba-fc91-4ca6-8a18-0de172c843ee/gaspricesscreenshot-2026-04-03-122745.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/high-gas-prices-mobile-apps-cheapest-stations/"
-    ]
-  },
-  {
-    "id": "d89f189f8d2c6ff0ddc70089",
-    "title": "36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants",
-    "link": "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html",
-    "published": "2026-04-05T05:07:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants. What: \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository, 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants. When: 2026-04-05T05:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants. ماذا: \"Every package contains three files (package.json, index.js, postinstall.js), has no description, repository, 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants. متى: 2026-04-05T05:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9axxKrcvcFkL99SIB2AlrcEW2RIZ1Ff8PollH7XYSWrYSOgoPXKlF5rsdgyr9BSWVUa5oP07faI_DvxNyUk_rpuz5i2xuiEdlU-e929rCWpkLjDGRs4EBjzfBWQRJVtrWNtR-EKvWsR-PPO-Yfei5ONMyumlI12R7OHmIrsyzJtB5SJRTCSuKiyJQnTfK/s1600/database.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html"
-    ]
-  },
-  {
-    "id": "b5b57dde79742eac31c91f9f",
-    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-    "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-    "published": "2026-04-05T04:32:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.. What: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.. When: 2026-04-05T04:32:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.. ماذا: Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the&nbsp;wild.. متى: 2026-04-05T04:32:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-35616"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s16000/fortinet.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"
     ]
   }
 ]
