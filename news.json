@@ -54,6 +54,24 @@
     ]
   },
   {
+    "id": "1b56ecca67bff61fee0c8324",
+    "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+    "published": "2026-10-03T19:09:38+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ShinyHunters hacker reportedly detained in Jordan, aiding FBI. What: A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group.. When: 2026-10-03T19:09:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters hacker reportedly detained in Jordan, aiding FBI. ماذا: A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group.. متى: 2026-10-03T19:09:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/"
+    ]
+  },
+  {
     "id": "176337226fdb1c104dece9b3",
     "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
     "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
@@ -147238,133 +147256,6 @@
     "image": "",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day"
-    ]
-  },
-  {
-    "id": "c748a0f4b9e1df5c6eb1e1e5",
-    "title": "Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit",
-    "link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/",
-    "published": "2026-04-06T19:19:27+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions.. What: Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions.. When: 2026-04-06T19:19:27+00:00. How: [...] Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit Action: See Arabic action below.",
-    "summary_ar": "من: Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions.. ماذا: Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions.. متى: 2026-04-06T19:19:27+00:00. كيف: [...] Disgruntled researcher leaks “BlueHammer” Windows zero-day exploit. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/"
-    ]
-  },
-  {
-    "id": "25c09b1656a71617c245bba0",
-    "title": "Microsoft fixes Classic Outlook bug causing email delivery issues",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-    "published": "2026-04-06T19:19:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com.. What: [...] Microsoft fixes Classic Outlook bug causing email delivery issues. When: 2026-04-06T19:19:24+00:00. How: Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com.. ماذا: [...] Microsoft fixes Classic Outlook bug causing email delivery issues. متى: 2026-04-06T19:19:24+00:00. كيف: Microsoft has resolved a known issue that was preventing some Classic Outlook users from sending emails via Outlook.com.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/11/03/Outlook.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-sync-issues-for-gmail-users/"
-    ]
-  },
-  {
-    "id": "d7fb2b510cb30bc92372a15a",
-    "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-    "link": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-    "published": "2026-04-06T18:37:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E.. What: Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations. When: 2026-04-06T18:37:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E.. ماذا: Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations. متى: 2026-04-06T18:37:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html"
-    ]
-  },
-  {
-    "id": "2c771dea0a7eb58fc90741de",
-    "title": "Attackers exploited this critical FortiClient EMS bug as a 0-day",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/forticlient_ems_bug_exploited/",
-    "published": "2026-04-06T18:14:25+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day. What: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day. When: 2026-04-06T18:14:25+00:00. How: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day Action: See Arabic action below.",
-    "summary_ar": "من: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day. ماذا: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day. متى: 2026-04-06T18:14:25+00:00. كيف: CISA added the flaw to KEV after Fortinet confirmed exploitation in the wild Fortinet released an emergency patch over the weekend for a critical FortiClient Enterprise Management Server (EMS) bug believed to be under attack since at least March 31.… Attackers exploited this critical FortiClient EMS bug as a 0-day. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/07/25/houseonfire.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/06/forticlient_ems_bug_exploited/"
-    ]
-  },
-  {
-    "id": "a10fa635760c474d46a3844f",
-    "title": "I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails",
-    "link": "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/",
-    "published": "2026-04-06T17:55:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I didn't see much benefit for Google's AI - until now.. What: I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails. When: 2026-04-06T17:55:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I didn't see much benefit for Google's AI - until now.. ماذا: I tested Gemini on Android Auto and now I can't stop talking to it: 5 tasks it nails. متى: 2026-04-06T17:55:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5938d23c8cf20bdea8cca5a35d78e983cc3909ba/2025/11/20/4db39db8-ff46-412a-8afa-09be16ae70f4/20251119-112941.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/gemini-on-android-auto-handles-simple-and-complex-tasks/"
-    ]
-  },
-  {
-    "id": "53e482ef44df8506ea1e6b89",
-    "title": "Microsoft removes Support and Recovery Assistant from Windows",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/",
-    "published": "2026-04-06T17:45:57+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10.. What: Microsoft removes Support and Recovery Assistant from Windows. When: 2026-04-06T17:45:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has deprecated and removed the Support and Recovery Assistant (SaRA) command-line utility from all in-support versions of Windows updates starting March 10.. ماذا: Microsoft removes Support and Recovery Assistant from Windows. متى: 2026-04-06T17:45:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-support-and-recovery-assistant-from-windows/"
-    ]
-  },
-  {
-    "id": "d370211aa9c054461ade6d4a",
-    "title": "I used a single power station to keep my off-grid cabin running - how it all worked out",
-    "link": "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/",
-    "published": "2026-04-06T17:35:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I used a single power station to keep my off-grid cabin running - how it all worked out. What: I used a single power station to keep my off-grid cabin running - how it all worked out. When: 2026-04-06T17:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I used a single power station to keep my off-grid cabin running - how it all worked out. ماذا: I used a single power station to keep my off-grid cabin running - how it all worked out. متى: 2026-04-06T17:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/43437f27d8245d024bd272c3f1e5b74d9846dd4c/2026/03/30/dd90c4eb-00d8-41d0-86cb-21a664db7b69/img-3303.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/"
     ]
   }
 ]
