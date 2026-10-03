@@ -54,6 +54,80 @@
     ]
   },
   {
+    "id": "176337226fdb1c104dece9b3",
+    "title": "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
+    "link": "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
+    "published": "2026-10-03T15:27:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: If you use Rejetto HFS, be sure to update to v3.2.1 or later, which fixes this and other security flaws.. What: The second Anthropic-linked vulnerability known to have been exploited in the wild saw initial activity from an IP address in China targeting vulnerable hosts in the US and Japan.. When: 2026-10-03T15:27:00+00:00. How: HFS is an open source web file server that previously appeared on the US Cybersecurity and Infrastructure Security Agency’s catalog of Known Exploited Vulnerabilities in 2024. Action: See Arabic action below.",
+    "summary_ar": "من: If you use Rejetto HFS, be sure to update to v3.2.1 or later, which fixes this and other security flaws.. ماذا: The second Anthropic-linked vulnerability known to have been exploited in the wild saw initial activity from an IP address in China targeting vulnerable hosts in the US and Japan.. متى: 2026-10-03T15:27:00+00:00. كيف: HFS is an open source web file server that previously appeared on the US Cybersecurity and Infrastructure Security Agency’s catalog of Known Exploited Vulnerabilities in 2024.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-61500"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1684441.jpg?imageId=1684441&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933"
+    ]
+  },
+  {
+    "id": "875077590ba6fbe9e9a37d46",
+    "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+    "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+    "published": "2026-10-03T14:38:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics. What: The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.. When: 2026-10-03T14:38:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics. ماذا: The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.. متى: 2026-10-03T14:38:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html"
+    ]
+  },
+  {
+    "id": "289771d56894fe92351e732b",
+    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+    "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+    "published": "2026-10-03T14:36:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.. What: Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware. When: 2026-10-03T14:36:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.. ماذا: Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware. متى: 2026-10-03T14:36:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
+    ]
+  },
+  {
+    "id": "335aeeb6b42193b1ed7b75f4",
+    "title": "Danish university DTU breach exposes data of up to 200,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+    "published": "2026-10-03T14:35:20+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Danish university DTU breach exposes data of up to 200,000 people. What: Danish university DTU breach exposes data of up to 200,000 people. When: 2026-10-03T14:35:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Danish university DTU breach exposes data of up to 200,000 people. ماذا: Danish university DTU breach exposes data of up to 200,000 people. متى: 2026-10-03T14:35:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/03/DTU.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
+    ]
+  },
+  {
     "id": "1d062f92f7d5e7772fcf1079",
     "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
     "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
@@ -147291,316 +147365,6 @@
     "image": "https://www.zdnet.com/a/img/resize/43437f27d8245d024bd272c3f1e5b74d9846dd4c/2026/03/30/dd90c4eb-00d8-41d0-86cb-21a664db7b69/img-3303.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/bluetti-apex-300-power-station-review/"
-    ]
-  },
-  {
-    "id": "b0681ca574ba8a28b800831c",
-    "title": "Why Microsoft is forcing Windows 11 25H2 update on all eligible PCs",
-    "link": "https://www.zdnet.com/article/microsoft-windows-11-25h2-update-eligible-pcs/",
-    "published": "2026-04-06T17:17:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: With support ending for Windows 11 24H2 in October, Microsoft wants all PCs on the same version for security reasons - but you can postpone the update.. What: Why Microsoft is forcing Windows 11 25H2 update on all eligible PCs. When: 2026-04-06T17:17:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: With support ending for Windows 11 24H2 in October, Microsoft wants all PCs on the same version for security reasons - but you can postpone the update.. ماذا: Why Microsoft is forcing Windows 11 25H2 update on all eligible PCs. متى: 2026-04-06T17:17:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/859185b9d121547ca826c55b2f5c8bfb6155b3af/2026/04/06/3e400185-425e-4119-8d7a-5f0e3ab110a1/windows-11-pc-running-25h2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-windows-11-25h2-update-eligible-pcs/"
-    ]
-  },
-  {
-    "id": "55cbe59cf15ca5ce7b4dc46f",
-    "title": "Microsoft links Medusa ransomware affiliate to zero-day attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/",
-    "published": "2026-04-06T16:56:01+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks.. What: Microsoft links Medusa ransomware affiliate to zero-day attacks. When: 2026-04-06T16:56:01+00:00. How: Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks.. ماذا: Microsoft links Medusa ransomware affiliate to zero-day attacks. متى: 2026-04-06T16:56:01+00:00. كيف: Microsoft says that Storm-1175, a China-based financially motivated cybercriminal group known for deploying Medusa ransomware payloads, has been deploying n-day and zero-day exploits in high-velocity attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/Medusa_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/microsoft-links-medusa-ransomware-affiliate-to-zero-day-attacks/"
-    ]
-  },
-  {
-    "id": "18862e2fab366a6b1c0070f4",
-    "title": "TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi",
-    "link": "https://www.zdnet.com/article/tp-link-roam-7-review/",
-    "published": "2026-04-06T16:44:16+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi. What: TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi. When: 2026-04-06T16:44:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi. ماذا: TP-Link Roam 7 review: How this travel router let me stop stressing about public Wi-Fi. متى: 2026-04-06T16:44:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d0603bdd38f9445775c7f3d3af8888fef51b3721/2026/03/25/fc422490-0647-4479-a1d6-caa5d25bc498/tp-link-roam-7-mobile-router-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/tp-link-roam-7-review/"
-    ]
-  },
-  {
-    "id": "1a8982628ab7a5775731b6c0",
-    "title": "Drift $280M crypto theft linked to 6-month in-person operation",
-    "link": "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/",
-    "published": "2026-04-06T16:35:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Drift $280M crypto theft linked to 6-month in-person operation. What: Drift $280M crypto theft linked to 6-month in-person operation. When: 2026-04-06T16:35:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Drift $280M crypto theft linked to 6-month in-person operation. ماذا: Drift $280M crypto theft linked to 6-month in-person operation. متى: 2026-04-06T16:35:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/drift-280m-crypto-theft-linked-to-6-month-in-person-operation/"
-    ]
-  },
-  {
-    "id": "9a122d1bf280631c05f508fe",
-    "title": "The new MacBook Air M5 is already $150 off as it woos Windows users",
-    "link": "https://www.zdnet.com/article/the-macbook-air-m5-is-already-on-sale-for-its-lowest-price-yet/",
-    "published": "2026-04-06T16:27:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: On Amazon, the 13-inch MacBook Air M5 currently starts at $950, luring Windows laptop users over to Apple's ecosystem.. What: The new MacBook Air M5 is already $150 off as it woos Windows users. When: 2026-04-06T16:27:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: On Amazon, the 13-inch MacBook Air M5 currently starts at $950, luring Windows laptop users over to Apple's ecosystem.. ماذا: The new MacBook Air M5 is already $150 off as it woos Windows users. متى: 2026-04-06T16:27:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ea88b8c1a1606efe5c9225b73047840d769d80c/2026/03/18/ec0f1eaf-8650-473c-9ce2-9dd345b97879/dsc09864.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-macbook-air-m5-is-already-on-sale-for-its-lowest-price-yet/"
-    ]
-  },
-  {
-    "id": "3917fc770b4e03be2fc138da",
-    "title": "DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea",
-    "link": "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html",
-    "published": "2026-04-06T16:24:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea.. What: DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea. When: 2026-04-06T16:24:00+00:00. How: Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea. Action: See Arabic action below.",
-    "summary_ar": "من: Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea.. ماذا: DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea. متى: 2026-04-06T16:24:00+00:00. كيف: Threat&nbsp;actors likely associated with the Democratic People's Republic of Korea (DPRK) have been observed using GitHub as command-and-control (C2) infrastructure in multi-stage attacks targeting organizations in South&nbsp;Korea.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh23Q23hk6n_d_f9evdsf7JVcn5OswTUqwd0B8EvWdftPQXN4K1V6nHICk_MvzLf4jUfCCHpUmaZIzECekbKf3PQ2w2gRlY-AphdBRZgyJHq7XQsyIS_vp6iT_fVLoDQ1TFA4DBLT32Q1sTY_WHjGRtzaYMOqMNThcg8JodZ-Aozj2OO21DQLj2agEojjdp/s1600/github.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html"
-    ]
-  },
-  {
-    "id": "5988893607c59170330b5058",
-    "title": "I tried Peppermint Linux: How this bare-bones distro lets you build your ideal OS",
-    "link": "https://www.zdnet.com/article/peppermint-linux/",
-    "published": "2026-04-06T16:20:57+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried Peppermint Linux: How this bare-bones distro lets you build your ideal OS. What: I tried Peppermint Linux: How this bare-bones distro lets you build your ideal OS. When: 2026-04-06T16:20:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried Peppermint Linux: How this bare-bones distro lets you build your ideal OS. ماذا: I tried Peppermint Linux: How this bare-bones distro lets you build your ideal OS. متى: 2026-04-06T16:20:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2bdf53867511eaaa534d98a4b36e2c0318ac8194/2026/04/06/ab8450f2-3898-4952-8f7c-d690d47004ac/pepperminthero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/peppermint-linux/"
-    ]
-  },
-  {
-    "id": "026997835d7a5e9f490cb974",
-    "title": "I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-review/",
-    "published": "2026-04-06T16:05:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best. What: I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best. When: 2026-04-06T16:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best. ماذا: I've used every Samsung Galaxy S26 model - here's why the Ultra is frustratingly the best. متى: 2026-04-06T16:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d565c06a8b1203640a76c8a19fa9b6bba66b7595/2026/04/06/08fbec20-c682-482a-abc7-a3d3c37b5298/dsc09900.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-review/"
-    ]
-  },
-  {
-    "id": "c8360636dc5d63cb7fbb374b",
-    "title": "CISA orders feds to patch exploited Fortinet EMS flaw by Friday",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-    "published": "2026-04-06T16:02:14+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday.. What: Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday.. When: 2026-04-06T16:02:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) ordered federal agencies to secure FortiClient Enterprise Management Server (EMS) instances against an actively exploited vulnerability by Friday.. متى: 2026-04-06T16:02:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-fortinet-flaw-exploited-in-attacks-by-friday/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-zimbra-xss-flaw-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-n8n-rce-flaw-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-gogs-rce-flaw-exploited-in-zero-day-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-mongobleed-flaw-actively-exploited-in-attacks/"
-    ]
-  },
-  {
-    "id": "018352e6448b4a09444666d3",
-    "title": "Your chatbot is playing a character - why Anthropic says that's dangerous",
-    "link": "https://www.zdnet.com/article/anthropic-report-chatbot-character-consequences/",
-    "published": "2026-04-06T15:44:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your chatbot is playing a character - why Anthropic says that's dangerous. What: Your chatbot is playing a character - why Anthropic says that's dangerous. When: 2026-04-06T15:44:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your chatbot is playing a character - why Anthropic says that's dangerous. ماذا: Your chatbot is playing a character - why Anthropic says that's dangerous. متى: 2026-04-06T15:44:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1ef6b4c4adb26f236c7303a2e6b3e17a5b5f5f84/2026/04/06/a75e6442-1f69-4f05-8c52-3c3465055095/gettyimages-2185380383-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anthropic-report-chatbot-character-consequences/"
-    ]
-  },
-  {
-    "id": "07d9a2a067aafa98676f0e43",
-    "title": "I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins",
-    "link": "https://www.zdnet.com/article/fedora-miracle-tiling-window-manager-needs-broken-flag/",
-    "published": "2026-04-06T15:33:33+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins. What: I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins. When: 2026-04-06T15:33:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins. ماذا: I tested Fedora Miracle: Why Linux needs a 'broken' flag for orphaned spins. متى: 2026-04-06T15:33:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/955064e2185f264fc6b5e9159e83784a243f526f/2026/03/31/43fd9c95-ffcf-4775-ba30-1bff316b4a9d/fedora-miracle-screenshot-2026-03-31-135109.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/fedora-miracle-tiling-window-manager-needs-broken-flag/"
-    ]
-  },
-  {
-    "id": "f2cbc60879c73e67c4ebc287",
-    "title": "Google DeepMind Researchers Map Web Attacks Against AI Agents",
-    "link": "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/",
-    "published": "2026-04-06T15:32:54+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek .. What: Google DeepMind Researchers Map Web Attacks Against AI Agents. When: 2026-04-06T15:32:54+00:00. How: A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google DeepMind Researchers Map Web Attacks Against AI Agents appeared first on SecurityWeek .. ماذا: Google DeepMind Researchers Map Web Attacks Against AI Agents. متى: 2026-04-06T15:32:54+00:00. كيف: A vulnerability named ‘AI Agent Traps’ allows attackers to manipulate, deceive, and exploit visiting agents via malicious web content.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/google-deepmind-researchers-map-web-attacks-against-ai-agents/"
-    ]
-  },
-  {
-    "id": "a33009da205c6ae0a70a8b7d",
-    "title": "Automated Credential Harvesting Campaign Exploits React2Shell Flaw",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell",
-    "published": "2026-04-06T15:31:09+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Automated Credential Harvesting Campaign Exploits React2Shell Flaw. What: Automated Credential Harvesting Campaign Exploits React2Shell Flaw. When: 2026-04-06T15:31:09+00:00. How: An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data. Action: See Arabic action below.",
-    "summary_ar": "من: Automated Credential Harvesting Campaign Exploits React2Shell Flaw. ماذا: Automated Credential Harvesting Campaign Exploits React2Shell Flaw. متى: 2026-04-06T15:31:09+00:00. كيف: An emerging threat cluster tracked as UAT-10608 is exploiting vulnerable Web-exposed Next.js apps and using an automated tool to exfiltrate credentials, secrets, and other system data.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/automated-credential-harvesting-campaign-react2shell"
-    ]
-  },
-  {
-    "id": "8621763f15decdacd16e4120",
-    "title": "I found an Incogni rival that's even better at wiping my data from the web",
-    "link": "https://www.zdnet.com/article/privacybee-data-removal-review/",
-    "published": "2026-04-06T14:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found an Incogni rival that's even better at wiping my data from the web. What: I found an Incogni rival that's even better at wiping my data from the web. When: 2026-04-06T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I found an Incogni rival that's even better at wiping my data from the web. ماذا: I found an Incogni rival that's even better at wiping my data from the web. متى: 2026-04-06T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/54d84bba5009c004df59619b87e33655506f64ac/2026/02/28/53d009f8-af27-4496-903d-ecdb3c1f0061/dsc09265.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/privacybee-data-removal-review/"
-    ]
-  },
-  {
-    "id": "1cefb1e3fd5a0ad712b7df75",
-    "title": "Shadow AI in Healthcare Is Here to Stay",
-    "link": "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay",
-    "published": "2026-04-06T14:07:50+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Shadow AI in Healthcare Is Here to Stay. What: Shadow AI in Healthcare Is Here to Stay. When: 2026-04-06T14:07:50+00:00. How: Medical professionals are not going to stop using AI tools to manage growing workloads. Action: See Arabic action below.",
-    "summary_ar": "من: Shadow AI in Healthcare Is Here to Stay. ماذا: Shadow AI in Healthcare Is Here to Stay. متى: 2026-04-06T14:07:50+00:00. كيف: Medical professionals are not going to stop using AI tools to manage growing workloads.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/shadow-ai-in-healthcare-is-here-to-stay"
-    ]
-  },
-  {
-    "id": "9db46da75f14c55b768459c4",
-    "title": "Why Simple Breach Monitoring is No Longer Enough",
-    "link": "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/",
-    "published": "2026-04-06T14:02:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Why Simple Breach Monitoring is No Longer Enough. What: Why Simple Breach Monitoring is No Longer Enough. When: 2026-04-06T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Simple Breach Monitoring is No Longer Enough. ماذا: Why Simple Breach Monitoring is No Longer Enough. متى: 2026-04-06T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/04/05/webz-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/why-simple-breach-monitoring-is-no-longer-enough/"
-    ]
-  },
-  {
-    "id": "91d163dae35b8f0e8adc1daf",
-    "title": "OWASP GenAI Security Project Gets Update, New Tools Matrix",
-    "link": "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix",
-    "published": "2026-04-06T13:49:27+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: OWASP GenAI Security Project Gets Update, New Tools Matrix. What: OWASP GenAI Security Project Gets Update, New Tools Matrix. When: 2026-04-06T13:49:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OWASP GenAI Security Project Gets Update, New Tools Matrix. ماذا: OWASP GenAI Security Project Gets Update, New Tools Matrix. متى: 2026-04-06T13:49:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/owasp-genai-security-project-update-matrix"
     ]
   }
 ]
