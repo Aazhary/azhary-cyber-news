@@ -54,6 +54,26 @@
     ]
   },
   {
+    "id": "5058e2f27caa8c2c8496a6ac",
+    "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+    "published": "2026-10-04T21:58:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Citrix patches NetScaler SAML zero-day exploited in attacks. What: Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution.. When: 2026-10-04T21:58:01+00:00. How: Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. Action: See Arabic action below.",
+    "summary_ar": "من: Citrix patches NetScaler SAML zero-day exploited in attacks. ماذا: Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution.. متى: 2026-10-04T21:58:01+00:00. كيف: Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-88779"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
     "id": "199ef7dd7a5498cc6a008279",
     "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
     "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
@@ -146096,78 +146116,6 @@
     "image": "https://www.zdnet.com/a/img/resize/cf0a1b1672e29fceefd23e7e53c9bba1ef133712/2025/04/01/9110cb38-5e1c-4dd9-b92f-fcc96e8cae3f/dsc04769.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-subwoofer-placement-in-weird-rooms/"
-    ]
-  },
-  {
-    "id": "cc27b207227fb39c9f35f8f8",
-    "title": "Anthropic: All your zero-days are belong to Mythos",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/",
-    "published": "2026-04-07T23:50:06+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Anthropic: All your zero-days are belong to Mythos. What: Hasn't released it to the public, because it would break the internet - in a bad way For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets.. When: 2026-04-07T23:50:06+00:00. How: Hasn't released it to the public, because it would break the internet - in a bad way For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic: All your zero-days are belong to Mythos. ماذا: Hasn't released it to the public, because it would break the internet - in a bad way For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets.. متى: 2026-04-07T23:50:06+00:00. كيف: Hasn't released it to the public, because it would break the internet - in a bad way For years, the infosec community’s biggest existential worry has been quantum computers blowing away all classical encryption and revealing the world’s secrets.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/05/08/worldserpent.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/"
-    ]
-  },
-  {
-    "id": "4e40393e01189deb2c4c71a2",
-    "title": "Iran cyber actors disrupting US water, energy facilities, FBI warns",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/iran_hackers_disrupting_us_water_energy/",
-    "published": "2026-04-07T23:30:24+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Iran cyber actors disrupting US water, energy facilities, FBI warns. What: Iran cyber actors disrupting US water, energy facilities, FBI warns. When: 2026-04-07T23:30:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Iran cyber actors disrupting US water, energy facilities, FBI warns. ماذا: Iran cyber actors disrupting US water, energy facilities, FBI warns. متى: 2026-04-07T23:30:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2023/11/29/water_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/07/iran_hackers_disrupting_us_water_energy/"
-    ]
-  },
-  {
-    "id": "93a4b1227acb26d4a8e33ce7",
-    "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/",
-    "published": "2026-04-07T22:03:01+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploit critical flaw in Ninja Forms WordPress plugin. What: Hackers exploit critical flaw in Ninja Forms WordPress plugin. When: 2026-04-07T22:03:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploit critical flaw in Ninja Forms WordPress plugin. ماذا: Hackers exploit critical flaw in Ninja Forms WordPress plugin. متى: 2026-04-07T22:03:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/07/NinjaForms.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/"
-    ]
-  },
-  {
-    "id": "55b0471750402a2714a29cc8",
-    "title": "Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox",
-    "link": "https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/",
-    "published": "2026-04-07T22:00:11+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: The post Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox appeared first on Unit 42 .. What: Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox. When: 2026-04-07T22:00:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox appeared first on Unit 42 .. ماذا: Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox. متى: 2026-04-07T22:00:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Cloud_cybersecurity_research_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/bypass-of-aws-sandbox-network-isolation-mode/"
     ]
   }
 ]
