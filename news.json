@@ -54,6 +54,60 @@
     ]
   },
   {
+    "id": "20db35582f2a271b1ca75ade",
+    "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+    "published": "2026-10-06T21:00:27+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ninja Forms plugin flaw exploited to hack WordPress sites. What: [...] Ninja Forms plugin flaw exploited to hack WordPress sites. When: 2026-10-06T21:00:27+00:00. How: Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. Action: See Arabic action below.",
+    "summary_ar": "من: Ninja Forms plugin flaw exploited to hack WordPress sites. ماذا: [...] Ninja Forms plugin flaw exploited to hack WordPress sites. متى: 2026-10-06T21:00:27+00:00. كيف: Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/07/NinjaForms.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/"
+    ]
+  },
+  {
+    "id": "a923f641b026bbc15c41f9ff",
+    "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+    "published": "2026-10-06T20:32:58+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: ClickFix Attacks Evolve to Better Hide Malicious Payloads. What: ClickFix Attacks Evolve to Better Hide Malicious Payloads. When: 2026-10-06T20:32:58+00:00. How: Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages. Action: See Arabic action below.",
+    "summary_ar": "من: ClickFix Attacks Evolve to Better Hide Malicious Payloads. ماذا: ClickFix Attacks Evolve to Better Hide Malicious Payloads. متى: 2026-10-06T20:32:58+00:00. كيف: Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads"
+    ]
+  },
+  {
+    "id": "b53f151bdb97d97ea6bc348c",
+    "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+    "link": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+    "published": "2026-10-06T20:30:27+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Critical Healthcare Systems Aren't Quantum-Ready. What: Critical Healthcare Systems Aren't Quantum-Ready. When: 2026-10-06T20:30:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Healthcare Systems Aren't Quantum-Ready. ماذا: Critical Healthcare Systems Aren't Quantum-Ready. متى: 2026-10-06T20:30:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready"
+    ]
+  },
+  {
     "id": "20fd1067262109e6b22ea9f4",
     "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
@@ -77,8 +131,8 @@
     "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
     "published": "2026-10-06T19:21:14+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. What: The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified the DNS records for selected domains the registries issued.. When: 2026-10-06T19:21:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. ماذا: The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified the DNS records for selected domains the registries issued.. متى: 2026-10-06T19:21:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. What: Hackers obtain counterfeit TLS certificates for Google and other large services. When: 2026-10-06T19:21:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. ماذا: Hackers obtain counterfeit TLS certificates for Google and other large services. متى: 2026-10-06T19:21:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -87,6 +141,42 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
     "sources": [
       "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+    ]
+  },
+  {
+    "id": "ec14eeb066a7343525b2b918",
+    "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+    "published": "2026-10-06T18:38:55+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.. What: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.. When: 2026-10-06T18:38:55+00:00. How: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.. ماذا: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.. متى: 2026-10-06T18:38:55+00:00. كيف: Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png",
+    "sources": [
+      "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html"
+    ]
+  },
+  {
+    "id": "007c3190cf2b720071dba531",
+    "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+    "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+    "published": "2026-10-06T18:24:25+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan. What: Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan. When: 2026-10-06T18:24:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan. ماذا: Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan. متى: 2026-10-06T18:24:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html"
     ]
   },
   {
@@ -477,7 +567,7 @@
     "source": "theregister.com",
     "summary_en": "Who: Asos app delivers a data leak threat instead of fast fashion. What: Asos customers have reported receiving a rogue app notification claiming the online clothing retailer's Snowflake instance has been compromised and threatening to leak data.. When: 2026-10-06T11:51:36+00:00. How: Asos's share price fell by around 12 percent following reports of the notification, although it has recovered slightly since. Action: See Arabic action below.",
     "summary_ar": "من: Asos app delivers a data leak threat instead of fast fashion. ماذا: Asos customers have reported receiving a rogue app notification claiming the online clothing retailer's Snowflake instance has been compromised and threatening to leak data.. متى: 2026-10-06T11:51:36+00:00. كيف: Asos's share price fell by around 12 percent following reports of the notification, although it has recovered slightly since.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
+    "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
     "cvss": [],
@@ -877,6 +967,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html"
+    ]
+  },
+  {
+    "id": "3176965c771102f2f32cccdd",
+    "title": "Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers",
+    "link": "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/",
+    "published": "2026-10-06T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers. What: Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers. When: 2026-10-06T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers. ماذا: Request, Aggregate, Bypass: How Attackers Can Evade LLM Safety Classifiers. متى: 2026-10-06T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/how-attackers-can-bypass-llm-safety-classifiers/"
     ]
   },
   {
@@ -145312,114 +145420,6 @@
     "image": "https://www.zdnet.com/a/img/resize/2c779ffacfad0f0fbe0cab75dd0b75f51e78076f/2026/04/09/216e643b-9459-462f-bfb3-b0cebfbacb9d/dewalt-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/dewalt-power-tool-bundle-deal-home-depot-spring-black-friday-2026/"
-    ]
-  },
-  {
-    "id": "b3552d98d0dde6a26281597c",
-    "title": "New ‘LucidRook’ malware used in targeted attacks on NGOs, universities",
-    "link": "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/",
-    "published": "2026-04-09T22:04:31+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New ‘LucidRook’ malware used in targeted attacks on NGOs, universities. What: New ‘LucidRook’ malware used in targeted attacks on NGOs, universities. When: 2026-04-09T22:04:31+00:00. How: A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan. Action: See Arabic action below.",
-    "summary_ar": "من: New ‘LucidRook’ malware used in targeted attacks on NGOs, universities. ماذا: New ‘LucidRook’ malware used in targeted attacks on NGOs, universities. متى: 2026-04-09T22:04:31+00:00. كيف: A new Lua-based malware, called LucidRook, is being used in spear-phishing campaigns targeting non-governmental organizations and universities in Taiwan.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/09/0_rook.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/"
-    ]
-  },
-  {
-    "id": "74b7cabb8cce56f99c21a9ff",
-    "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
-    "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/",
-    "published": "2026-04-09T21:37:04+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] New VENOM phishing attacks steal senior executives' Microsoft logins. What: New VENOM phishing attacks steal senior executives' Microsoft logins. When: 2026-04-09T21:37:04+00:00. How: Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. Action: See Arabic action below.",
-    "summary_ar": "من: [...] New VENOM phishing attacks steal senior executives' Microsoft logins. ماذا: New VENOM phishing attacks steal senior executives' Microsoft logins. متى: 2026-04-09T21:37:04+00:00. كيف: Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/03/AI-Hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/"
-    ]
-  },
-  {
-    "id": "6bafb3c64d34f24ba1f0d145",
-    "title": "I tried CuerdOS and this niche Debian distro is dramatically fast",
-    "link": "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/",
-    "published": "2026-04-09T21:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried CuerdOS and this niche Debian distro is dramatically fast. What: I tried CuerdOS and this niche Debian distro is dramatically fast. When: 2026-04-09T21:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried CuerdOS and this niche Debian distro is dramatically fast. ماذا: I tried CuerdOS and this niche Debian distro is dramatically fast. متى: 2026-04-09T21:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7111c950fd131fd84acba120b4bcaf14e5673116/2026/04/06/21d7889b-378d-4f76-9904-e9e9aa9129ab/cuerdoshero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/"
-    ]
-  },
-  {
-    "id": "8651f4ee56aed6b483dcc241",
-    "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
-    "link": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-    "published": "2026-04-09T20:50:37+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Russia's 'Fancy Bear' APT Continues Its Global Onslaught. What: Russia's 'Fancy Bear' APT Continues Its Global Onslaught. When: 2026-04-09T20:50:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Russia's 'Fancy Bear' APT Continues Its Global Onslaught. ماذا: Russia's 'Fancy Bear' APT Continues Its Global Onslaught. متى: 2026-04-09T20:50:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught"
-    ]
-  },
-  {
-    "id": "c084f198669c6c704ef48c95",
-    "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
-    "published": "2026-04-09T20:13:34+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.. What: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.. When: 2026-04-09T20:13:34+00:00. How: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft. Action: See Arabic action below.",
-    "summary_ar": "من: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.. ماذا: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.. متى: 2026-04-09T20:13:34+00:00. كيف: Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues"
-    ]
-  },
-  {
-    "id": "35eafa757fab8c4380ba648f",
-    "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-    "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/",
-    "published": "2026-04-09T19:46:44+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Healthcare IT solutions provider ChipSoft hit by ransomware attack. What: Healthcare IT solutions provider ChipSoft hit by ransomware attack. When: 2026-04-09T19:46:44+00:00. How: Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. Action: See Arabic action below.",
-    "summary_ar": "من: Healthcare IT solutions provider ChipSoft hit by ransomware attack. ماذا: Healthcare IT solutions provider ChipSoft hit by ransomware attack. متى: 2026-04-09T19:46:44+00:00. كيف: Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/09/hospital.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
     ]
   }
 ]
