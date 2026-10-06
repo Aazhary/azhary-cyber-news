@@ -54,6 +54,260 @@
     ]
   },
   {
+    "id": "20fd1067262109e6b22ea9f4",
+    "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+    "published": "2026-10-06T19:21:53+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit 32 zero-days on first day of Pwn2Own Ireland. What: Hackers exploit 32 zero-days on first day of Pwn2Own Ireland. When: 2026-10-06T19:21:53+00:00. How: On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit 32 zero-days on first day of Pwn2Own Ireland. ماذا: Hackers exploit 32 zero-days on first day of Pwn2Own Ireland. متى: 2026-10-06T19:21:53+00:00. كيف: On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/01/Pwn2Own-Ireland.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/"
+    ]
+  },
+  {
+    "id": "5690cd69281835fe8a958b92",
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "published": "2026-10-06T19:21:14+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. What: The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified the DNS records for selected domains the registries issued.. When: 2026-10-06T19:21:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday.. ماذا: The attackers launched a series of attacks on the .gh, .sl, and .as country code top-level domains (ccTLDs) and then modified the DNS records for selected domains the registries issued.. متى: 2026-10-06T19:21:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/broken-https-tls-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+    ]
+  },
+  {
+    "id": "a3f12691586b2a31617e335d",
+    "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+    "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
+    "published": "2026-10-06T18:00:57+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Google is cutting off free users from the Flash and Pro models.. What: Use Gemini for free? You’ll soon be limited to its weakest AI model. When: 2026-10-06T18:00:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google is cutting off free users from the Flash and Pro models.. ماذا: Use Gemini for free? You’ll soon be limited to its weakest AI model. متى: 2026-10-06T18:00:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gemini-ai-with-free-access.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/"
+    ]
+  },
+  {
+    "id": "0e963e876be8023b69c02030",
+    "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+    "link": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+    "published": "2026-10-06T17:56:29+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.. What: Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. When: 2026-10-06T17:56:29+00:00. How: The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment. Action: See Arabic action below.",
+    "summary_ar": "من: The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.. ماذا: Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. متى: 2026-10-06T17:56:29+00:00. كيف: The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps"
+    ]
+  },
+  {
+    "id": "0abcb3ba04359f062d7300dc",
+    "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+    "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+    "published": "2026-10-06T17:34:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Atlassian warns of critical file-access flaw in Jira, Confluence. What: Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket.. When: 2026-10-06T17:34:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Atlassian warns of critical file-access flaw in Jira, Confluence. ماذا: Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket.. متى: 2026-10-06T17:34:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-21589"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/31/Atlassian_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/"
+    ]
+  },
+  {
+    "id": "6952c5cbde821b6c33f65074",
+    "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
+    "link": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
+    "published": "2026-10-06T17:32:25+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Trump Mobile customers' data dumped - and some never even received their gold device. What: “Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.” The hackers reportedly told International Cyber Digest that they first infected a Liberty Mobile employee with an infostealer, and then accessed Trump Mobile via the MVNO.. When: 2026-10-06T17:32:25+00:00. How: “Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.” The hackers reportedly told International Cyber Digest that they first infected a Liberty Mobile employee with an infostealer, and then accessed Trump Mobile via the MVNO. Action: See Arabic action below.",
+    "summary_ar": "من: Trump Mobile customers' data dumped - and some never even received their gold device. ماذا: “Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.” The hackers reportedly told International Cyber Digest that they first infected a Liberty Mobile employee with an infostealer, and then accessed Trump Mobile via the MVNO.. متى: 2026-10-06T17:32:25+00:00. كيف: “Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.” The hackers reportedly told International Cyber Digest that they first infected a Liberty Mobile employee with an infostealer, and then accessed Trump Mobile via the MVNO.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5301440.jpg?imageId=5301440&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433"
+    ]
+  },
+  {
+    "id": "3459d34bd6c11318fe35f00e",
+    "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+    "link": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+    "published": "2026-10-06T17:15:24+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams. What: IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams. When: 2026-10-06T17:15:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams. ماذا: IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams. متى: 2026-10-06T17:15:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams"
+    ]
+  },
+  {
+    "id": "ef90afea648e965fb3a35fd3",
+    "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+    "link": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+    "published": "2026-10-06T16:59:24+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates. What: 'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates. When: 2026-10-06T16:59:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates. ماذا: 'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates. متى: 2026-10-06T16:59:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates"
+    ]
+  },
+  {
+    "id": "4764cc8cda80e4ab53a98c09",
+    "title": "Office 2021 support ends this month – you have 5 options",
+    "link": "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/",
+    "published": "2026-10-06T16:40:40+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Microsoft is ending support and updates for Office 2021 on October 13.. What: Office 2021 support ends this month – you have 5 options. When: 2026-10-06T16:40:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is ending support and updates for Office 2021 on October 13.. ماذا: Office 2021 support ends this month – you have 5 options. متى: 2026-10-06T16:40:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/colorsoffice-GettyImages-2294922131.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/microsoft-office-2021-support-ends-your-options/"
+    ]
+  },
+  {
+    "id": "462de0e933caeaff82844289",
+    "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+    "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+    "published": "2026-10-06T16:33:54+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ASOS confirms data breach after “HACKED” in-app notifications. What: ASOS confirms data breach after “HACKED” in-app notifications. When: 2026-10-06T16:33:54+00:00. How: UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. Action: See Arabic action below.",
+    "summary_ar": "من: ASOS confirms data breach after “HACKED” in-app notifications. ماذا: ASOS confirms data breach after “HACKED” in-app notifications. متى: 2026-10-06T16:33:54+00:00. كيف: UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/06/asos-logo.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/"
+    ]
+  },
+  {
+    "id": "26e65fb177375e4a1fea3f03",
+    "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+    "published": "2026-10-06T15:16:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes. What: Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes. When: 2026-10-06T15:16:44+00:00. How: A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes. ماذا: Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes. متى: 2026-10-06T15:16:44+00:00. كيف: A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/13/Phishing.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/"
+    ]
+  },
+  {
+    "id": "c6f44786e5921b716fac72e6",
+    "title": "Microsoft extends the Outlook naughty step with two more file types",
+    "link": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+    "published": "2026-10-06T15:06:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Microsoft is adding two extra file types to its Outlook block list to strengthen security.. What: Microsoft extends the Outlook naughty step with two more file types. When: 2026-10-06T15:06:00+00:00. How: By default, users of the affected clients will no longer be able to download or open attachments with these extensions, which is no bad thing because blindly installing a malicious .msix package could compromise a device. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is adding two extra file types to its Outlook block list to strengthen security.. ماذا: Microsoft extends the Outlook naughty step with two more file types. متى: 2026-10-06T15:06:00+00:00. كيف: By default, users of the affected clients will no longer be able to download or open attachments with these extensions, which is no bad thing because blindly installing a malicious .msix package could compromise a device.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5277792.jpg?imageId=5277792&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350"
+    ]
+  },
+  {
+    "id": "1315c6ebbf3b75194aa64506",
+    "title": "ClickFix Attack Hides VBScript Payload in Browser Cache",
+    "link": "https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/",
+    "published": "2026-10-06T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: ClickFix Attack Hides VBScript Payload in Browser Cache. What: ClickFix sites stage a VBScript payload in the browser cache to bypass the Run dialog's length limit ClickFix Attack Hides VBScript Payload in Browser Cache. When: 2026-10-06T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ClickFix Attack Hides VBScript Payload in Browser Cache. ماذا: ClickFix sites stage a VBScript payload in the browser cache to bypass the Run dialog's length limit ClickFix Attack Hides VBScript Payload in Browser Cache. متى: 2026-10-06T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/6cae3374-f5e3-4ed7-b2c7-d82bf5bb311e.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/clickfix-vbscript-browser-cache/"
+    ]
+  },
+  {
+    "id": "947044d216d7a6933895442a",
+    "title": "FBI Blames Contractor’s Missed Patch for ShinyHunters Breach",
+    "link": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+    "published": "2026-10-06T14:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: FBI Blames Contractor’s Missed Patch for ShinyHunters Breach. What: FBI Blames Contractor’s Missed Patch for ShinyHunters Breach. When: 2026-10-06T14:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI Blames Contractor’s Missed Patch for ShinyHunters Breach. ماذا: FBI Blames Contractor’s Missed Patch for ShinyHunters Breach. متى: 2026-10-06T14:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/hack.jpeg",
+    "sources": [
+      "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/"
+    ]
+  },
+  {
     "id": "fa72bfde42ead31b40d47eab",
     "title": "How to secure RMM software: 8 controls MSPs should test",
     "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
@@ -10268,24 +10522,6 @@
     ]
   },
   {
-    "id": "ce85fbcadf918837ada3c7e4",
-    "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-    "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-    "published": "2026-09-22T12:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. What: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. When: 2026-09-22T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. ماذا: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. متى: 2026-09-22T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle"
-    ]
-  },
-  {
     "id": "d76ffa564b25ba3ce2e4de07",
     "title": "Network Segmentation Failures Are Expanding the Corporate Attack Surface",
     "link": "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/",
@@ -10301,6 +10537,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/79276955-d219-4f3a-8974-7fddf5756677.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/segmentation-failures-expanding/"
+    ]
+  },
+  {
+    "id": "ce85fbcadf918837ada3c7e4",
+    "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+    "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+    "published": "2026-09-22T12:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. What: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. When: 2026-09-22T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. ماذا: More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds. متى: 2026-09-22T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle"
     ]
   },
   {
@@ -145166,330 +145420,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/04/09/hospital.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
-    ]
-  },
-  {
-    "id": "8c0e227e33ae41f0e4b5b57f",
-    "title": "Home Depot will give you a free power tool with this DeWalt deal - what to know",
-    "link": "https://www.zdnet.com/article/dewalt-power-tool-bundle-deal-home-depot-spring-black-friday-2026/",
-    "published": "2026-04-09T18:21:26+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Home Depot will give you a free power tool with this DeWalt deal - what to know. What: Home Depot will give you a free power tool with this DeWalt deal - what to know. When: 2026-04-09T18:21:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Home Depot will give you a free power tool with this DeWalt deal - what to know. ماذا: Home Depot will give you a free power tool with this DeWalt deal - what to know. متى: 2026-04-09T18:21:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2c779ffacfad0f0fbe0cab75dd0b75f51e78076f/2026/04/09/216e643b-9459-462f-bfb3-b0cebfbacb9d/dewalt-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dewalt-power-tool-bundle-deal-home-depot-spring-black-friday-2026/"
-    ]
-  },
-  {
-    "id": "3fc0cf821eb93ba972188964",
-    "title": "Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/crypto_fraud_scam_45_million/",
-    "published": "2026-04-09T18:20:15+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case. What: Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case. When: 2026-04-09T18:20:15+00:00. How: Cops bust latest scam, return $12m to bilked victims US, UK, and Canadian law enforcement Thursday said that they disrupted a $45 million global cryptocurrency scam, freezing $12 million in stolen funds and identifying more than 20,000 cryptocurrency wallet addresses linked to fraud victims across 30 countries.… Crypto? Action: See Arabic action below.",
-    "summary_ar": "من: Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case. ماذا: Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case. متى: 2026-04-09T18:20:15+00:00. كيف: Cops bust latest scam, return $12m to bilked victims US, UK, and Canadian law enforcement Thursday said that they disrupted a $45 million global cryptocurrency scam, freezing $12 million in stolen funds and identifying more than 20,000 cryptocurrency wallet addresses linked to fraud victims across 30 countries.… Crypto?. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/09/crypto_scam_seizure.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/09/crypto_fraud_scam_45_million/"
-    ]
-  },
-  {
-    "id": "615a9f958f8b2c87b52d19b9",
-    "title": "Samsung S95H vs. Samsung S95F: I compared both OLED TVs, and there's a surprise winner",
-    "link": "https://www.zdnet.com/article/samsung-s95h-vs-samsung-s95f/",
-    "published": "2026-04-09T18:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung S95H vs. Samsung S95F: I compared both OLED TVs, and there's a surprise winner. What: Samsung S95H vs. Samsung S95F: I compared both OLED TVs, and there's a surprise winner. When: 2026-04-09T18:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung S95H vs. Samsung S95F: I compared both OLED TVs, and there's a surprise winner. ماذا: Samsung S95H vs. Samsung S95F: I compared both OLED TVs, and there's a surprise winner. متى: 2026-04-09T18:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/18f86cd6762a63d4ef5d60d101475d7ceab7a119/2026/04/09/90ce7c4d-1181-4e40-a670-6ff260f94727/samsung-s95f-vs-s95h-tv.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-s95h-vs-samsung-s95f/"
-    ]
-  },
-  {
-    "id": "c137c7a8c556741d6757c53f",
-    "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not",
-    "link": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
-    "published": "2026-04-09T18:15:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Do Ceasefires Slow Cyberattacks? History Suggests Not. What: Do Ceasefires Slow Cyberattacks? History Suggests Not. When: 2026-04-09T18:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Do Ceasefires Slow Cyberattacks? History Suggests Not. ماذا: Do Ceasefires Slow Cyberattacks? History Suggests Not. متى: 2026-04-09T18:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history"
-    ]
-  },
-  {
-    "id": "6bafb3c64d34f24ba1f0d145",
-    "title": "I tested CuerdOS and its unique app lineup is even better than its blazing speed",
-    "link": "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/",
-    "published": "2026-04-09T17:37:53+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested CuerdOS and its unique app lineup is even better than its blazing speed. What: I tested CuerdOS and its unique app lineup is even better than its blazing speed. When: 2026-04-09T17:37:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested CuerdOS and its unique app lineup is even better than its blazing speed. ماذا: I tested CuerdOS and its unique app lineup is even better than its blazing speed. متى: 2026-04-09T17:37:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/7111c950fd131fd84acba120b4bcaf14e5673116/2026/04/06/21d7889b-378d-4f76-9904-e9e9aa9129ab/cuerdoshero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/cuerdos-debian-based-linux-distro-fast-and-unique/"
-    ]
-  },
-  {
-    "id": "f06c713635f2d793ff7e5104",
-    "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
-    "link": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
-    "published": "2026-04-09T17:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: \"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&nbsp;data,\" the Microsoft Defender EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs. What: Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk.. When: 2026-04-09T17:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: \"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&nbsp;data,\" the Microsoft Defender EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs. ماذا: Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk.. متى: 2026-04-09T17:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigi73Eo-lmEoLh8BcTJmWW5GrmLrm49pUkkl8zyxIg1YTEncbgCaY-wXarkWZuipJhJEubcJx-VEiHOv_NrMtPw1BoEU3Ni8gXNcKcbWX4TqBU8pikOAkRdCl-r_XvLz4oXmQ2IpY25bWzLFkXh_hezhx0jgUYiuRvrYVxhW-6x5J7m84HH_VeRtRzTGbW/s1600/vul-app.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html"
-    ]
-  },
-  {
-    "id": "793cf935f81d4a057222c218",
-    "title": "How I turned my Android tablet into the ultimate Kindle alternative - for free",
-    "link": "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/",
-    "published": "2026-04-09T17:16:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I turned my Android tablet into the ultimate Kindle alternative - for free. What: How I turned my Android tablet into the ultimate Kindle alternative - for free. When: 2026-04-09T17:16:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I turned my Android tablet into the ultimate Kindle alternative - for free. ماذا: How I turned my Android tablet into the ultimate Kindle alternative - for free. متى: 2026-04-09T17:16:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/875660e0053c725d36927ce0f3cde16f105107c4/2026/01/23/00f50196-263e-4544-be7d-e091fc8350c6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-turn-ipad-android-tablet-into-e-reader/"
-    ]
-  },
-  {
-    "id": "b3579f9e2a7662195d196031",
-    "title": "'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/several_dozen_highvalue_corporations_targeted/",
-    "published": "2026-04-09T17:11:41+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Raccoon's claimed Adobe break-in A new extortion crew has targeted “several dozen high-value” corporations through phishing and helpdesk social-engineering, according to Google.… 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree. What: 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree. When: 2026-04-09T17:11:41+00:00. How: Raccoon's claimed Adobe break-in A new extortion crew has targeted “several dozen high-value” corporations through phishing and helpdesk social-engineering, according to Google.… 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree Action: See Arabic action below.",
-    "summary_ar": "من: Raccoon's claimed Adobe break-in A new extortion crew has targeted “several dozen high-value” corporations through phishing and helpdesk social-engineering, according to Google.… 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree. ماذا: 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree. متى: 2026-04-09T17:11:41+00:00. كيف: Raccoon's claimed Adobe break-in A new extortion crew has targeted “several dozen high-value” corporations through phishing and helpdesk social-engineering, according to Google.… 'Several dozen' high-value corporations hit by new extortion crew in helpdesk phishing spree. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/10/26/shutterstock_racoon_pc.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/09/several_dozen_highvalue_corporations_targeted/"
-    ]
-  },
-  {
-    "id": "e0ac92d81d6c119dd089d186",
-    "title": "Protecting Cookies with Device Bound Session Credentials",
-    "link": "http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html",
-    "published": "2026-04-09T17:07:00.001000+00:00",
-    "source": "googleblog.com",
-    "summary_en": "Who: Posted by Ben Ackerman, Chrome team, Daniel Rubery, Chrome team and Guillaume Ehinger, Google Account Security team Following our April 2024 announcement , Device Bound Session Credentials (DBSC) is now entering public availability for Windows users on Chrome 146, and expanding to macOS in an upcoming Chrome release.. What: Historically, mitigating session theft relied on detecting the stolen credentials after the fact using a complex set of abuse heuristics – a reactive approach that persistent attackers could often circumvent.. When: 2026-04-09T17:07:00.001000+00:00. How: Because cookies often have extended lifetimes, attackers can use them to gain unauthorized access to a user’s accounts without ever needing their passwords; this access is then often bundled, traded, or sold among threat actors. Action: See Arabic action below.",
-    "summary_ar": "من: Posted by Ben Ackerman, Chrome team, Daniel Rubery, Chrome team and Guillaume Ehinger, Google Account Security team Following our April 2024 announcement , Device Bound Session Credentials (DBSC) is now entering public availability for Windows users on Chrome 146, and expanding to macOS in an upcoming Chrome release.. ماذا: Historically, mitigating session theft relied on detecting the stolen credentials after the fact using a complex set of abuse heuristics – a reactive approach that persistent attackers could often circumvent.. متى: 2026-04-09T17:07:00.001000+00:00. كيف: Because cookies often have extended lifetimes, attackers can use them to gain unauthorized access to a user’s accounts without ever needing their passwords; this access is then often bundled, traded, or sold among threat actors.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20261001-1719",
-    "sources": [
-      "http://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"
-    ]
-  },
-  {
-    "id": "ef2a8ca8e24dbad176c0ddd4",
-    "title": "Apple's iOS 26.4.1 update enables Stolen Device Protection by default now - grab it today",
-    "link": "https://www.zdnet.com/article/apple-ios-26-4-1-update-stolen-device-protection/",
-    "published": "2026-04-09T16:59:24+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's iOS 26.4.1 update enables Stolen Device Protection by default now - grab it today. What: The latest iOS update also repairs a glitch with iCloud syncing and comes with the usual bug fixes.. When: 2026-04-09T16:59:24+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's iOS 26.4.1 update enables Stolen Device Protection by default now - grab it today. ماذا: The latest iOS update also repairs a glitch with iCloud syncing and comes with the usual bug fixes.. متى: 2026-04-09T16:59:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6a5b81a728875fdd1eb164ea0444a446d1bd62cb/2026/04/09/06a50d05-5711-4918-ba3f-a719bcb06bf5/apples-new-ios-update-is-a-minor-one-but-you-should-still-install-it-heres-why.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-ios-26-4-1-update-stolen-device-protection/"
-    ]
-  },
-  {
-    "id": "1933fe5ee9f31dabc13232cf",
-    "title": "I use ChatGPT's new Tubi app to find free movies and TV shows to watch - here's how",
-    "link": "https://www.zdnet.com/article/chatgpts-tubi-app-movies-tv-shows/",
-    "published": "2026-04-09T16:53:13+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I use ChatGPT's new Tubi app to find free movies and TV shows to watch - here's how. What: I use ChatGPT's new Tubi app to find free movies and TV shows to watch - here's how. When: 2026-04-09T16:53:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I use ChatGPT's new Tubi app to find free movies and TV shows to watch - here's how. ماذا: I use ChatGPT's new Tubi app to find free movies and TV shows to watch - here's how. متى: 2026-04-09T16:53:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/90c173e8a6d918f7bf1be76b41bf3baa86d020b0/2026/04/09/12f2bd5c-4820-4639-8ead-f7ab63d7b0d5/chatgpt-tubi.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpts-tubi-app-movies-tv-shows/"
-    ]
-  },
-  {
-    "id": "47fa2691428185d50c16f712",
-    "title": "Why Ubuntu 26.04 will thrill gamers - and it's not just the performance bump",
-    "link": "https://www.zdnet.com/article/ubuntu-26-04-performance/",
-    "published": "2026-04-09T16:45:05+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why Ubuntu 26.04 will thrill gamers - and it's not just the performance bump. What: Why Ubuntu 26.04 will thrill gamers - and it's not just the performance bump. When: 2026-04-09T16:45:05+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Ubuntu 26.04 will thrill gamers - and it's not just the performance bump. ماذا: Why Ubuntu 26.04 will thrill gamers - and it's not just the performance bump. متى: 2026-04-09T16:45:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8c4f2c4cdcbd2d03664432d23381631e5392b477/2026/04/06/00333ed2-d405-455a-958d-2848b356bee1/ubuntu2604hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ubuntu-26-04-performance/"
-    ]
-  },
-  {
-    "id": "85791652b16755c944644f4d",
-    "title": "UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns",
-    "link": "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html",
-    "published": "2026-04-09T16:23:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns. What: UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns. When: 2026-04-09T16:23:00+00:00. How: A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook. Action: See Arabic action below.",
-    "summary_ar": "من: UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns. ماذا: UAT-10362 Targets Taiwanese NGOs with LucidRook Malware in Spear-Phishing Campaigns. متى: 2026-04-09T16:23:00+00:00. كيف: A previously undocumented threat cluster&nbsp;dubbed UAT-10362 has been attributed to spear-phishing campaigns targeting Taiwanese non-governmental organizations (NGOs) and suspected universities to deploy a new Lua-based malware called LucidRook.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4smwzOHJUhoy2YQYZQpTIp9u5xk7vywCOtewG6WfLl1S3h1EO25k8GY6WSHovGYwTn4vo9uMFcoNX6XDa0-BC0mXJrTdSHtWGJDP1GIXqGvRnlqnqyPwzxxPFyjLx9yxEn1oeWs4r8fqq5xlS__yUA3nwf0DpZBiUh86FUx71PRBGbAP0gaNFAILqYgbT/s1600/phish.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/uat-10362-targets-taiwanese-ngos-with.html"
-    ]
-  },
-  {
-    "id": "e1fc0a520099ca5480596448",
-    "title": "Smart Slider updates hijacked to push malicious WordPress, Joomla versions",
-    "link": "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/",
-    "published": "2026-04-09T16:15:26+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Smart Slider updates hijacked to push malicious WordPress, Joomla versions. What: Smart Slider updates hijacked to push malicious WordPress, Joomla versions. When: 2026-04-09T16:15:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Smart Slider updates hijacked to push malicious WordPress, Joomla versions. ماذا: Smart Slider updates hijacked to push malicious WordPress, Joomla versions. متى: 2026-04-09T16:15:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/smart-slider-updates-hijacked-to-push-malicious-wordpress-joomla-versions/"
-    ]
-  },
-  {
-    "id": "40ac2c0348bf086c067c92d7",
-    "title": "Chevin pulls the handbrake on FleetWave software after security scare",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/chevin_fleetwave_security_incident/",
-    "published": "2026-04-09T15:20:11+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Chevin pulls the handbrake on FleetWave software after security scare. What: Chevin pulls the handbrake on FleetWave software after security scare. When: 2026-04-09T15:20:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Chevin pulls the handbrake on FleetWave software after security scare. ماذا: Chevin pulls the handbrake on FleetWave software after security scare. متى: 2026-04-09T15:20:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2022/07/19/truck_fleet_on_highway_at_sunset_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/09/chevin_fleetwave_security_incident/"
-    ]
-  },
-  {
-    "id": "6281e82983478a255f731a1e",
-    "title": "STX RAT Targets Finance Sector With Advanced Stealth Tactics",
-    "link": "https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/",
-    "published": "2026-04-09T15:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: STX RAT Targets Finance Sector With Advanced Stealth Tactics. What: STX RAT Targets Finance Sector With Advanced Stealth Tactics. When: 2026-04-09T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: STX RAT Targets Finance Sector With Advanced Stealth Tactics. ماذا: STX RAT Targets Finance Sector With Advanced Stealth Tactics. متى: 2026-04-09T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/caff24e4-f6ae-45ae-8e48-3d02b7df7623.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/stx-rat-targets-finance-sector/"
-    ]
-  },
-  {
-    "id": "655d783799103c6e7f41e6f8",
-    "title": "The best Android tablets of 2026: Lab tested, expert recommended",
-    "link": "https://www.zdnet.com/article/best-android-tablet/",
-    "published": "2026-04-09T14:55:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The best Android tablets of 2026: Lab tested, expert recommended. What: The best Android tablets of 2026: Lab tested, expert recommended. When: 2026-04-09T14:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The best Android tablets of 2026: Lab tested, expert recommended. ماذا: The best Android tablets of 2026: Lab tested, expert recommended. متى: 2026-04-09T14:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b16fd8b40cd6bde4940148d146644ce9fd80e787/2025/11/13/b3703d4f-4668-4a04-9d07-a57aef206c76/dsc08604.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/best-android-tablet/"
-    ]
-  },
-  {
-    "id": "64a6047cb9dcf196fbadde5c",
-    "title": "Months-old Adobe Reader zero-day uses PDFs to size up targets",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/",
-    "published": "2026-04-09T14:30:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Months-old Adobe Reader zero-day uses PDFs to size up targets. What: Months-old Adobe Reader zero-day uses PDFs to size up targets. When: 2026-04-09T14:30:13+00:00. How: Malicious PDFs abuse legit features to harvest system data and decide which victims get a 2nd-stage payload Hackers have been quietly exploiting what appears to be a zero-day in Adobe Acrobat Reader for months, using booby-trapped PDFs to profile targets and decide who's worth fully compromising.… Months-old Adobe Reader zero-day uses PDFs to size up targets Action: See Arabic action below.",
-    "summary_ar": "من: Months-old Adobe Reader zero-day uses PDFs to size up targets. ماذا: Months-old Adobe Reader zero-day uses PDFs to size up targets. متى: 2026-04-09T14:30:13+00:00. كيف: Malicious PDFs abuse legit features to harvest system data and decide which victims get a 2nd-stage payload Hackers have been quietly exploiting what appears to be a zero-day in Adobe Acrobat Reader for months, using booby-trapped PDFs to profile targets and decide who's worth fully compromising.… Months-old Adobe Reader zero-day uses PDFs to size up targets. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/03/22/shutterstock_scared_consultant.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/09/monthsold_adobe_reader_zeroday_uses/"
     ]
   }
 ]
