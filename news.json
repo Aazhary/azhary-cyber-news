@@ -54,6 +54,504 @@
     ]
   },
   {
+    "id": "b2908044e05d3403a5b1478c",
+    "title": "Poetry is the new AI security threat as PoeLLM malware infects 3K+ servers",
+    "link": "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
+    "published": "2026-10-07T16:01:08+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “To anyone who comes across it, this is simply a poem on GitHub.. What: Data moves like water through the cracks of ordered thought, and somewhere in the code, the world stays on track.. When: 2026-10-07T16:01:08+00:00. How: “This is a first for us,” the researchers told The Register via email. Action: See Arabic action below.",
+    "summary_ar": "من: “To anyone who comes across it, this is simply a poem on GitHub.. ماذا: Data moves like water through the cracks of ordered thought, and somewhere in the code, the world stays on track.. متى: 2026-10-07T16:01:08+00:00. كيف: “This is a first for us,” the researchers told The Register via email.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-10520"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5301683.jpg?imageId=5301683&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672"
+    ]
+  },
+  {
+    "id": "55445c135805d266e4de7758",
+    "title": "Microsoft Outlook to block MSIX attachments starting November",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+    "published": "2026-10-07T15:44:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month.. What: Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month.. When: 2026-10-07T15:44:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month.. ماذا: Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month.. متى: 2026-10-07T15:44:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/04/29/Outlook.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/"
+    ]
+  },
+  {
+    "id": "85bfd7cabc50bb4c1de0fde1",
+    "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+    "published": "2026-10-07T15:04:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: PoeLLM malware infects exposed AI servers in cryptomining attacks. What: PoeLLM malware infects exposed AI servers in cryptomining attacks. When: 2026-10-07T15:04:08+00:00. How: A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. Action: See Arabic action below.",
+    "summary_ar": "من: PoeLLM malware infects exposed AI servers in cryptomining attacks. ماذا: PoeLLM malware infects exposed AI servers in cryptomining attacks. متى: 2026-10-07T15:04:08+00:00. كيف: A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/10/Hacker_bitcoin.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
+    ]
+  },
+  {
+    "id": "ae71a5aa224ef62283a5045e",
+    "title": "Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts",
+    "link": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+    "published": "2026-10-07T14:15:20+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts. What: Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts. When: 2026-10-07T14:15:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts. ماذا: Georgia Power, Alabama Power Data Breach Hits 400,000 Accounts. متى: 2026-10-07T14:15:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/05/COSMICENERGY-OT-Malware.jpg",
+    "sources": [
+      "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/"
+    ]
+  },
+  {
+    "id": "9d38ce97e40c678b2174d8d9",
+    "title": "OT Coalition Urges CISA to Mandate Federal OT Security",
+    "link": "https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/",
+    "published": "2026-10-07T14:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: OTCC urged CISA to mandate baseline security requirements for federal operational technology OT Coalition Urges CISA to Mandate Federal OT Security. What: OT Coalition Urges CISA to Mandate Federal OT Security. When: 2026-10-07T14:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OTCC urged CISA to mandate baseline security requirements for federal operational technology OT Coalition Urges CISA to Mandate Federal OT Security. ماذا: OT Coalition Urges CISA to Mandate Federal OT Security. متى: 2026-10-07T14:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/9a56f0e8-fa26-4759-98d1-30b456495c23.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ot-coalition-cisa-mandate-federal/"
+    ]
+  },
+  {
+    "id": "aee878c8b09ec70f1f9c2fcf",
+    "title": "Ransomware has a new target. Is your backup ready?",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+    "published": "2026-10-07T14:01:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ransomware has a new target. Is your backup ready?. What: Ransomware has a new target. Is your backup ready?. When: 2026-10-07T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware has a new target. Is your backup ready?. ماذا: Ransomware has a new target. Is your backup ready?. متى: 2026-10-07T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/30/secure-backup-vault.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/"
+    ]
+  },
+  {
+    "id": "4d0ab1e7dd5973407505c684",
+    "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+    "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+    "published": "2026-10-07T13:48:45+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: As noted in our September 28 report, ShinyHunters gained access to the FBI site and other victims by exploiting a vulnerability (CVE-2026-35273) in PeopleSoft , a software-as-a-service platform from the tech giant Oracle that is broadly used by companies to manage hiring and human resources, benefits and payroll.. What: A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang.. When: 2026-10-07T13:48:45+00:00. How: On October 3, Reuters cited three unnamed sources saying a suspected ShinyHunters member in Amman named Saif Al-din Khader was detained by Jordanian authorities and was cooperating with the FBI. Action: See Arabic action below.",
+    "summary_ar": "من: As noted in our September 28 report, ShinyHunters gained access to the FBI site and other victims by exploiting a vulnerability (CVE-2026-35273) in PeopleSoft , a software-as-a-service platform from the tech giant Oracle that is broadly used by companies to manage hiring and human resources, benefits and payroll.. ماذا: A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang.. متى: 2026-10-07T13:48:45+00:00. كيف: On October 3, Reuters cited three unnamed sources saying a suspected ShinyHunters member in Amman named Saif Al-din Khader was detained by Jordanian authorities and was cooperating with the FBI.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+    ]
+  },
+  {
+    "id": "62bfd0328c85a41fcb0c1b03",
+    "title": "Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany",
+    "link": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+    "published": "2026-10-07T13:47:12+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany. What: Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany. When: 2026-10-07T13:47:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany. ماذا: Qilin Ransomware Suspect Arrested in Japan, Extradited to Germany. متى: 2026-10-07T13:47:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Russian-hacking.jpeg",
+    "sources": [
+      "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/"
+    ]
+  },
+  {
+    "id": "2bb51727ac79315b984eaf11",
+    "title": "Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform",
+    "link": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+    "published": "2026-10-07T13:06:10+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform. What: Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform. When: 2026-10-07T13:06:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform. ماذا: Hadrian Raises $40 Million to Expand Autonomous Offensive Security Platform. متى: 2026-10-07T13:06:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-funding.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
+      "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
+      "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
+      "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/"
+    ]
+  },
+  {
+    "id": "78b8968a5e91d42b8cdd331b",
+    "title": "Attackers Hide AI Prompt Injections Inside Phishing Emails",
+    "link": "https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/",
+    "published": "2026-10-07T13:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Attackers Hide AI Prompt Injections Inside Phishing Emails. What: Attackers Hide AI Prompt Injections Inside Phishing Emails. When: 2026-10-07T13:00:00+00:00. How: Barracuda finds phishing emails designed to manipulate both human users and AI assistants Attackers Hide AI Prompt Injections Inside Phishing Emails Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Hide AI Prompt Injections Inside Phishing Emails. ماذا: Attackers Hide AI Prompt Injections Inside Phishing Emails. متى: 2026-10-07T13:00:00+00:00. كيف: Barracuda finds phishing emails designed to manipulate both human users and AI assistants Attackers Hide AI Prompt Injections Inside Phishing Emails. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/466b9136-444a-4eab-b8d6-d120e95d4d92.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/attackers-hide-ai-prompt/"
+    ]
+  },
+  {
+    "id": "49b14ed2d5b24797c8eadf69",
+    "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+    "published": "2026-10-07T12:49:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers exploit critical Atlassian flaw after public PoC release. What: A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication.. When: 2026-10-07T12:49:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploit critical Atlassian flaw after public PoC release. ماذا: A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication.. متى: 2026-10-07T12:49:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-21589"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/04/11/Atlassian-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+    ]
+  },
+  {
+    "id": "61acdfc939132f1c3c623884",
+    "title": "Advantest Discloses Data Breach Months After Ransomware Attack",
+    "link": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
+    "published": "2026-10-07T12:37:24+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Advantest Discloses Data Breach Months After Ransomware Attack. What: Advantest Discloses Data Breach Months After Ransomware Attack. When: 2026-10-07T12:37:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Advantest Discloses Data Breach Months After Ransomware Attack. ماذا: Advantest Discloses Data Breach Months After Ransomware Attack. متى: 2026-10-07T12:37:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Advantest.jpeg",
+    "sources": [
+      "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/"
+    ]
+  },
+  {
+    "id": "12e41dfb9e1f564b52b5ec1e",
+    "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+    "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+    "published": "2026-10-07T11:57:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow. What: The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow. When: 2026-10-07T11:57:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow. ماذا: The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow. متى: 2026-10-07T11:57:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png",
+    "sources": [
+      "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html"
+    ]
+  },
+  {
+    "id": "2de79823b5455a836924b34a",
+    "title": "Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading",
+    "link": "https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/",
+    "published": "2026-10-07T11:57:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading. What: Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading. When: 2026-10-07T11:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading. ماذا: Telegram Account Behind ASOS Rogue Notification Tied to Gaming Trading. متى: 2026-10-07T11:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/01f60e99-3034-47a2-87e7-7ac910563ab0.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/telegram-accoun-asos-tied-gaming/"
+    ]
+  },
+  {
+    "id": "9f1a8977892018e92868669c",
+    "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+    "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+    "published": "2026-10-07T11:56:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.. What: Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.. When: 2026-10-07T11:56:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.. ماذا: Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.. متى: 2026-10-07T11:56:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html"
+    ]
+  },
+  {
+    "id": "78d1d9b56302a600e02cb33a",
+    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+    "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+    "published": "2026-10-07T11:49:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details. What: Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.. When: 2026-10-07T11:49:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details. ماذا: Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.. متى: 2026-10-07T11:49:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-21589"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html"
+    ]
+  },
+  {
+    "id": "ecf0f242fd12abd3ae0958f2",
+    "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+    "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+    "published": "2026-10-07T11:42:24+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: What Is Agentic Pentesting? What It Proves, and Where It Stops.. What: What Is Agentic Pentesting? What It Proves, and Where It Stops.. When: 2026-10-07T11:42:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: What Is Agentic Pentesting? What It Proves, and Where It Stops.. ماذا: What Is Agentic Pentesting? What It Proves, and Where It Stops.. متى: 2026-10-07T11:42:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html"
+    ]
+  },
+  {
+    "id": "f28cb86dc647b9505d45f76f",
+    "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+    "published": "2026-10-07T11:37:07+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: SonicWall warns of max severity SSRF flaw in SMA1000 gateways. What: SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances.. When: 2026-10-07T11:37:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: SonicWall warns of max severity SSRF flaw in SMA1000 gateways. ماذا: SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances.. متى: 2026-10-07T11:37:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/SonicWall.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/"
+    ]
+  },
+  {
+    "id": "2d9c395cb16476831010f5d7",
+    "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+    "link": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+    "published": "2026-10-07T10:52:09+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The FBI and US Secret Service (USSS) say criminals using credentials linked to the FortiBleed campaign are locking organizations out of their Fortinet firewalls.. What: The Register previously reported on the connection, identified by SOCRadar.. When: 2026-10-07T10:52:09+00:00. How: The FBI and US Secret Service (USSS) say criminals using credentials linked to the FortiBleed campaign are locking organizations out of their Fortinet firewalls. Action: See Arabic action below.",
+    "summary_ar": "من: The FBI and US Secret Service (USSS) say criminals using credentials linked to the FortiBleed campaign are locking organizations out of their Fortinet firewalls.. ماذا: The Register previously reported on the connection, identified by SOCRadar.. متى: 2026-10-07T10:52:09+00:00. كيف: The FBI and US Secret Service (USSS) say criminals using credentials linked to the FortiBleed campaign are locking organizations out of their Fortinet firewalls.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/256583.jpg?imageId=256583&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
+    ]
+  },
+  {
+    "id": "2322918b8aa6967a3f5a404d",
+    "title": "Chrome 155 Update Patches 247 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+    "published": "2026-10-07T10:51:57+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Chrome 155 Update Patches 247 Vulnerabilities. What: Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track.. When: 2026-10-07T10:51:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chrome 155 Update Patches 247 Vulnerabilities. ماذا: Four critical-severity use-after-free defects were fixed in Chromecast, Browser, Navigation, and Track.. متى: 2026-10-07T10:51:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [
+      "CVE-2025-12725"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
+    "sources": [
+      "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+      "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
+      "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
+      "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/",
+      "https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/",
+      "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+      "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+      "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+      "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+      "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+      "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
+      "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
+      "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+      "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
+      "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
+      "https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/",
+      "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "ccdbc3d08bf42bd5a5b0440e",
+    "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+    "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+    "published": "2026-10-07T10:35:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.. What: Musician sent to prison for $10 million streaming fraud using AI bots. When: 2026-10-07T10:35:15+00:00. How: [...] Musician sent to prison for $10 million streaming fraud using AI bots Action: See Arabic action below.",
+    "summary_ar": "من: A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.. ماذا: Musician sent to prison for $10 million streaming fraud using AI bots. متى: 2026-10-07T10:35:15+00:00. كيف: [...] Musician sent to prison for $10 million streaming fraud using AI bots. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/Streaming_music_bots.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/"
+    ]
+  },
+  {
+    "id": "e8af94180ff313349bd1710a",
+    "title": "Advantest confirms personal information stolen in ransomware attack",
+    "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+    "published": "2026-10-07T10:27:52+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Advantest confirms personal information stolen in ransomware attack. What: Advantest confirms personal information stolen in ransomware attack. When: 2026-10-07T10:27:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Advantest confirms personal information stolen in ransomware attack. ماذا: Advantest confirms personal information stolen in ransomware attack. متى: 2026-10-07T10:27:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/20/Advantest.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
+    ]
+  },
+  {
+    "id": "27c8334a61d52f2b51d3fac5",
+    "title": "Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns",
+    "link": "https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/",
+    "published": "2026-10-07T10:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns. What: Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns. When: 2026-10-07T10:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns. ماذا: Half of Cybersecurity Pros Still Rely on Passwords Despite Security Concerns. متى: 2026-10-07T10:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/d73e31c4-a6f9-4756-b4f3-9a5ee566fa89.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cybersecurity-pros-rely-passwords/"
+    ]
+  },
+  {
+    "id": "69027c2a225c9a5a321e227c",
+    "title": "Anthropic Introduces 3-Tier Cyber Verification Program for AI Access",
+    "link": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+    "published": "2026-10-07T10:07:09+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Anthropic Introduces 3-Tier Cyber Verification Program for AI Access. What: Anthropic Introduces 3-Tier Cyber Verification Program for AI Access. When: 2026-10-07T10:07:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic Introduces 3-Tier Cyber Verification Program for AI Access. ماذا: Anthropic Introduces 3-Tier Cyber Verification Program for AI Access. متى: 2026-10-07T10:07:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg",
+    "sources": [
+      "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/"
+    ]
+  },
+  {
+    "id": "d203b78524536f10d0510dc1",
+    "title": "ASOS Confirms Cyberattack, Data Breach",
+    "link": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
+    "published": "2026-10-07T09:46:20+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: ASOS Confirms Cyberattack, Data Breach. What: ASOS Confirms Cyberattack, Data Breach. When: 2026-10-07T09:46:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ASOS Confirms Cyberattack, Data Breach. ماذا: ASOS Confirms Cyberattack, Data Breach. متى: 2026-10-07T09:46:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Asos.jpeg",
+    "sources": [
+      "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/"
+    ]
+  },
+  {
+    "id": "55d800a6f1de324b0cde2761",
+    "title": "Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One",
+    "link": "https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/",
+    "published": "2026-10-07T09:25:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One. What: Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One. When: 2026-10-07T09:25:00+00:00. How: Ethical hackers have already found 32 zero days in various products at Pwn2Own Ireland Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One Action: See Arabic action below.",
+    "summary_ar": "من: Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One. ماذا: Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One. متى: 2026-10-07T09:25:00+00:00. كيف: Ethical hackers have already found 32 zero days in various products at Pwn2Own Ireland Pwn2Own Hackers Find 32 Zero-Day Vulnerabilities on Day One. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/d9cce03d-a6b0-4b61-b509-26403d871af7.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/pwn2own-hackers-32-zeroday/"
+    ]
+  },
+  {
     "id": "17d59a0b3ea91ff3fb96234d",
     "title": "Danish CPR Breach Highlights Challenge of Supply Chain Risk",
     "link": "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/",
@@ -69,6 +567,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/33f0679d-196c-4b11-927f-beffcd1cebef.jpeg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/danish-cpr-breach-supply-chain-risk/"
+    ]
+  },
+  {
+    "id": "c6065c24705db99412222b45",
+    "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+    "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+    "published": "2026-10-07T08:07:38+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The company said it also found an additional Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws. What: Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws. When: 2026-10-07T08:07:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The company said it also found an additional Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws. ماذا: Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws. متى: 2026-10-07T08:07:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
     ]
   },
   {
@@ -4549,24 +5065,6 @@
     ]
   },
   {
-    "id": "5cc42976f0638655506d88ba",
-    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-    "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-    "published": "2026-09-30T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.. What: Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released.. When: 2026-09-30T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.. ماذا: Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released.. متى: 2026-09-30T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html"
-    ]
-  },
-  {
     "id": "5c2091ca6d02b7c4bbb04952",
     "title": "Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware",
     "link": "https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/",
@@ -4582,6 +5080,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/1a71027b-33ae-40a6-b6b7-5176ac4ceaab.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/"
+    ]
+  },
+  {
+    "id": "5cc42976f0638655506d88ba",
+    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+    "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+    "published": "2026-09-30T11:30:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.. What: Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released.. When: 2026-09-30T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.. ماذا: Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released.. متى: 2026-09-30T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html"
     ]
   },
   {
@@ -9792,42 +10308,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s1600/linux.gif",
     "sources": [
       "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html"
-    ]
-  },
-  {
-    "id": "8135bfc35f38fbb648ee6641",
-    "title": "Chrome 154 Patches 108 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-    "published": "2026-09-23T10:36:07+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The browser update resolves several critical-severity memory safety and memory corruption flaws.. What: Chrome 154 Patches 108 Vulnerabilities. When: 2026-09-23T10:36:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The browser update resolves several critical-severity memory safety and memory corruption flaws.. ماذا: Chrome 154 Patches 108 Vulnerabilities. متى: 2026-09-23T10:36:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [
-      "CVE-2025-12725"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
-    "sources": [
-      "https://www.securityweek.com/chrome-154-patches-108-vulnerabilities/",
-      "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortimonitoronsight-chrome-extension/",
-      "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
-      "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/",
-      "https://www.securityweek.com/fortinet-patches-critical-authentication-bypass-vulnerabilities/",
-      "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
-      "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
-      "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-      "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-      "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
-      "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
-      "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
-      "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "https://www.securityweek.com/chrome-146-update-patches-high-severity-vulnerabilities/",
-      "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
-      "https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/",
-      "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/"
     ]
   },
   {
@@ -50843,6 +51323,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Data-center-Cybersecurity-1.jpg",
     "sources": [
       "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/"
+    ]
+  },
+  {
+    "id": "12fcc9d543a77ea77b88e53d",
+    "title": "Google Releases Patches for 370 Vulnerabilities in Chrome 151",
+    "link": "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/",
+    "published": "2026-07-30T09:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws Google Releases Patches for 370 Vulnerabilities in Chrome 151. What: Google Releases Patches for 370 Vulnerabilities in Chrome 151. When: 2026-07-30T09:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The new version of Chrome, 151, comes with 370 vulnerability patches, including for seven critical flaws Google Releases Patches for 370 Vulnerabilities in Chrome 151. ماذا: Google Releases Patches for 370 Vulnerabilities in Chrome 151. متى: 2026-07-30T09:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/4ddaf15d-bffb-4f9e-9e22-e580ac88daae.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/google-patches-370-vulnerabilities/"
     ]
   },
   {
@@ -97476,26 +97974,6 @@
     "image": "https://www.zdnet.com/a/img/resize/5c19b1e20ca3bcbb0a6dae74595c8e24b54e9a20/2026/06/08/f2c0a12e-7e57-48d0-b446-ed2d9ba33843/gripeshero.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/after-30-years-using-linux-i-have-few-complaints/"
-    ]
-  },
-  {
-    "id": "ac09dbce218b9a4ed3bd8e5c",
-    "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
-    "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
-    "published": "2026-06-08T17:19:38+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: A Security Raises $37 Million for Autonomous Offensive Security Platform. What: A Security Raises $37 Million for Autonomous Offensive Security Platform. When: 2026-06-08T17:19:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A Security Raises $37 Million for Autonomous Offensive Security Platform. ماذا: A Security Raises $37 Million for Autonomous Offensive Security Platform. متى: 2026-06-08T17:19:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg",
-    "sources": [
-      "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
-      "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
-      "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-120m-at-1b-valuation/"
     ]
   },
   {
@@ -144857,532 +145335,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8d1364c9d0c3dd8c56f59b04892670f1681e3fe6/2026/03/11/84ee2479-a52c-4979-b3b1-d0a687c4beed/tp-link-deco-be77-image-2-vents.png?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/router-vulnerable-russian-hackers-fbi-warning/"
-    ]
-  },
-  {
-    "id": "ba5b2d687a2578dbe4555667",
-    "title": "Nearly 4,000 US industrial devices exposed to Iranian cyberattacks",
-    "link": "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/",
-    "published": "2026-04-10T15:52:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Nearly 4,000 US industrial devices exposed to Iranian cyberattacks. What: Nearly 4,000 US industrial devices exposed to Iranian cyberattacks. When: 2026-04-10T15:52:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Nearly 4,000 US industrial devices exposed to Iranian cyberattacks. ماذا: Nearly 4,000 US industrial devices exposed to Iranian cyberattacks. متى: 2026-04-10T15:52:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/01/28/Hacker-typing.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/"
-    ]
-  },
-  {
-    "id": "d6d860faf4543e7d77e44d6c",
-    "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
-    "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
-    "published": "2026-04-10T15:52:28+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats. What: FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats. When: 2026-04-10T15:52:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats. ماذا: FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats. متى: 2026-04-10T15:52:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center"
-    ]
-  },
-  {
-    "id": "a214b129f3e3ae2b47305d85",
-    "title": "Bringing Rust to the Pixel Baseband",
-    "link": "http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html",
-    "published": "2026-04-10T15:12:00.001000+00:00",
-    "source": "googleblog.com",
-    "summary_en": "Who: Posted by Jiacheng Lu, Software Engineer, Google Pixel Team Google is continuously advancing the security of Pixel devices.. What: Recognizing the risks associated within the complex modem firmware, Pixel 9 shipped with mitigations against a range of memory-safety vulnerabilities.. When: 2026-04-10T15:12:00.001000+00:00. How: We have been focusing on hardening the cellular baseband modem against exploitation. Action: See Arabic action below.",
-    "summary_ar": "من: Posted by Jiacheng Lu, Software Engineer, Google Pixel Team Google is continuously advancing the security of Pixel devices.. ماذا: Recognizing the risks associated within the complex modem firmware, Pixel 9 shipped with mitigations against a range of memory-safety vulnerabilities.. متى: 2026-04-10T15:12:00.001000+00:00. كيف: We have been focusing on hardening the cellular baseband modem against exploitation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2024-27227",
-      "cve-2024-27227"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20261001-1719",
-    "sources": [
-      "http://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html"
-    ]
-  },
-  {
-    "id": "7b745abfe787fb6c0157d4e3",
-    "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
-    "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
-    "published": "2026-04-10T15:05:14+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Orange Business Reimagines Enterprise Voice Communications With Trust and AI. What: Orange Business Reimagines Enterprise Voice Communications With Trust and AI. When: 2026-04-10T15:05:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Orange Business Reimagines Enterprise Voice Communications With Trust and AI. ماذا: Orange Business Reimagines Enterprise Voice Communications With Trust and AI. متى: 2026-04-10T15:05:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms"
-    ]
-  },
-  {
-    "id": "8ee9686d23221afe6bb9f908",
-    "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-    "link": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-    "published": "2026-04-10T14:44:53+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack. What: In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack. When: 2026-04-10T14:44:53+00:00. How: Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware. Action: See Arabic action below.",
-    "summary_ar": "من: In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack. ماذا: In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack. متى: 2026-04-10T14:44:53+00:00. كيف: Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/"
-    ]
-  },
-  {
-    "id": "c678d71e3fb4431cb277e643",
-    "title": "How I check, test, and charge my AA and AAA batteries - and sift out defective ones",
-    "link": "https://www.zdnet.com/article/olight-ostation-2-aa-battery-charger-review/",
-    "published": "2026-04-10T14:33:17+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I check, test, and charge my AA and AAA batteries - and sift out defective ones. What: How I check, test, and charge my AA and AAA batteries - and sift out defective ones. When: 2026-04-10T14:33:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I check, test, and charge my AA and AAA batteries - and sift out defective ones. ماذا: How I check, test, and charge my AA and AAA batteries - and sift out defective ones. متى: 2026-04-10T14:33:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/698bbf8927354e845646bd099c7604491fccc6f9/2026/04/06/a9e2d61d-48a0-42e0-84ba-e3e35d05688a/img-3529.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/olight-ostation-2-aa-battery-charger-review/"
-    ]
-  },
-  {
-    "id": "0bc1f8a1cc274af3dc5ce596",
-    "title": "Analysis of one billion CISA KEV remediation records exposes limits of human-scale security",
-    "link": "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/",
-    "published": "2026-04-10T14:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security.. What: Qualys shows most critical flaws are exploited before defenders can patch them.. When: 2026-04-10T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Analysis of 1 billion CISA KEV remediation records reveal a breaking point for human-scale security.. ماذا: Qualys shows most critical flaws are exploited before defenders can patch them.. متى: 2026-04-10T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/04/08/qualys-looking-over-datacenter.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/"
-    ]
-  },
-  {
-    "id": "647c1271816ac8e10a9f39ca",
-    "title": "My favorite Android Auto find is these hidden shortcuts that are highly customizable",
-    "link": "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/",
-    "published": "2026-04-10T14:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite Android Auto find is these hidden shortcuts that are highly customizable. What: My favorite Android Auto find is these hidden shortcuts that are highly customizable. When: 2026-04-10T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite Android Auto find is these hidden shortcuts that are highly customizable. ماذا: My favorite Android Auto find is these hidden shortcuts that are highly customizable. متى: 2026-04-10T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5938d23c8cf20bdea8cca5a35d78e983cc3909ba/2025/11/20/4db39db8-ff46-412a-8afa-09be16ae70f4/20251119-112941.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-auto-custom-assistant-shortcuts-feature-tips/"
-    ]
-  },
-  {
-    "id": "7bd05a6880208697d6d52009",
-    "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
-    "link": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
-    "published": "2026-04-10T13:44:17+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Juniper Networks Patches Dozens of Junos OS Vulnerabilities. What: A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.. When: 2026-04-10T13:44:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Juniper Networks Patches Dozens of Junos OS Vulnerabilities. ماذا: A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.. متى: 2026-04-10T13:44:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "0fb72ec78c999411a9d0c7ef",
-    "title": "Industrial Controllers Still Vulnerable As Conflicts Move to Cyber",
-    "link": "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber",
-    "published": "2026-04-10T13:30:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Industrial Controllers Still Vulnerable As Conflicts Move to Cyber. What: Industrial Controllers Still Vulnerable As Conflicts Move to Cyber. When: 2026-04-10T13:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Industrial Controllers Still Vulnerable As Conflicts Move to Cyber. ماذا: Industrial Controllers Still Vulnerable As Conflicts Move to Cyber. متى: 2026-04-10T13:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/ics-ot-security/industrial-controllers-vulnerable-conflicts-cyber"
-    ]
-  },
-  {
-    "id": "84122a9348d67268a18fbb29",
-    "title": "GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs",
-    "link": "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html",
-    "published": "2026-04-10T13:23:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs. What: GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs. When: 2026-04-10T13:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs. ماذا: GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs. متى: 2026-04-10T13:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioOU2XpKmyRPz5kTr4GhD1YLJ2t7F6yv7bQD1upkiwmGwmzirnDAz92GvtjckyoBhBjaRqeR9XPm6e0yHdKLowfDDgZNkRlCvCneJEncgiviFu7PgD4wQg3Bo5JDhgg6JTytg_fY2M-iKeykCLebOdStW4A76JKnPbEQazihNOhKOdM9Ou8keMBh4IY4jo/s1600/software.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html"
-    ]
-  },
-  {
-    "id": "c526a648fd21af3c04192a45",
-    "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
-    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-    "published": "2026-04-10T13:12:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads. What: CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads. When: 2026-04-10T13:12:42+00:00. How: [...] CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads Action: See Arabic action below.",
-    "summary_ar": "من: CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads. ماذا: CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads. متى: 2026-04-10T13:12:42+00:00. كيف: [...] CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/09/CPU-Z.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
-    ]
-  },
-  {
-    "id": "c526a648fd21af3c04192a45",
-    "title": "Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor",
-    "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
-    "published": "2026-04-10T13:12:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor. What: Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor. When: 2026-04-10T13:12:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor. ماذا: Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor. متى: 2026-04-10T13:12:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/09/CPU-Z.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
-    ]
-  },
-  {
-    "id": "f17bdea70ff3b3d8cb396f5d",
-    "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
-    "link": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
-    "published": "2026-04-10T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?. What: Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?. When: 2026-04-10T13:00:00+00:00. How: Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said. Action: See Arabic action below.",
-    "summary_ar": "من: Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?. ماذا: Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?. متى: 2026-04-10T13:00:00+00:00. كيف: Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe"
-    ]
-  },
-  {
-    "id": "cef00adc457e304e0e4b80db",
-    "title": "CPUID site hijacked to serve malware instead of HWMonitor downloads",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-    "published": "2026-04-10T12:53:30+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: CPUID site hijacked to serve malware instead of HWMonitor downloads. What: CPUID site hijacked to serve malware instead of HWMonitor downloads. When: 2026-04-10T12:53:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CPUID site hijacked to serve malware instead of HWMonitor downloads. ماذا: CPUID site hijacked to serve malware instead of HWMonitor downloads. متى: 2026-04-10T12:53:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/04/13/malware.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/10/cpuid_site_hijacked/"
-    ]
-  },
-  {
-    "id": "a85ca0e802dd821073ed19fd",
-    "title": "Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday",
-    "link": "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/",
-    "published": "2026-04-10T12:41:08+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday. What: The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.. When: 2026-04-10T12:41:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Industry Reactions to Iran Hacking ICS in Critical Infrastructure: Feedback Friday. ماذا: The US government has warned that Iran-linked hackers are manipulating PLCs and SCADA systems to cause disruption.. متى: 2026-04-10T12:41:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/industry-reactions-to-iran-hacking-ics-in-critical-infrastructure-feedback-friday/"
-    ]
-  },
-  {
-    "id": "c4bc49d5bc3204f7a8a09fb0",
-    "title": "AirDrop is coming to older Samsung phones - is yours supported? How to get it early",
-    "link": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
-    "published": "2026-04-10T12:36:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The latest OneUI 8.5 beta lets Samsung phones, including the Galaxy S24 and S25, share files with Apple devices.. What: AirDrop is coming to older Samsung phones - is yours supported? How to get it early. When: 2026-04-10T12:36:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The latest OneUI 8.5 beta lets Samsung phones, including the Galaxy S24 and S25, share files with Apple devices.. ماذا: AirDrop is coming to older Samsung phones - is yours supported? How to get it early. متى: 2026-04-10T12:36:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d565c06a8b1203640a76c8a19fa9b6bba66b7595/2026/04/06/08fbec20-c682-482a-abc7-a3d3c37b5298/dsc09900.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/"
-    ]
-  },
-  {
-    "id": "72e69975dc40d9103bfc7e46",
-    "title": "Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month",
-    "link": "https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/",
-    "published": "2026-04-10T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month. What: Qilin, Akira and Dragonforce were responsible for 40% of 672 ransomware incidents reported in March, says Check Point Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month. When: 2026-04-10T12:00:00+00:00. How: Qilin, Akira and Dragonforce were responsible for 40% of 672 ransomware incidents reported in March, says Check Point Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month Action: See Arabic action below.",
-    "summary_ar": "من: Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month. ماذا: Qilin, Akira and Dragonforce were responsible for 40% of 672 ransomware incidents reported in March, says Check Point Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month. متى: 2026-04-10T12:00:00+00:00. كيف: Qilin, Akira and Dragonforce were responsible for 40% of 672 ransomware incidents reported in March, says Check Point Just Three Ransomware Gangs Accounted for 40% of Attacks Last Month. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/b4a66ea6-c88f-40df-937e-84dc8ccd86ce.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/three-ransomware-gangs-40-percent/"
-    ]
-  },
-  {
-    "id": "124199f09168826e8016a55d",
-    "title": "Microsoft: Canadian employees targeted in payroll pirate attacks",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/",
-    "published": "2026-04-10T11:56:14+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] Microsoft: Canadian employees targeted in payroll pirate attacks. What: Microsoft: Canadian employees targeted in payroll pirate attacks. When: 2026-04-10T11:56:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: [...] Microsoft: Canadian employees targeted in payroll pirate attacks. ماذا: Microsoft: Canadian employees targeted in payroll pirate attacks. متى: 2026-04-10T11:56:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/10/Canada_pirate_hackers.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/"
-    ]
-  },
-  {
-    "id": "e9d17d478afba82358d21d36",
-    "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
-    "link": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
-    "published": "2026-04-10T11:53:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Orthanc DICOM Vulnerabilities Lead to Crashes, RCE. What: Orthanc DICOM Vulnerabilities Lead to Crashes, RCE. When: 2026-04-10T11:53:45+00:00. How: The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: Orthanc DICOM Vulnerabilities Lead to Crashes, RCE. ماذا: Orthanc DICOM Vulnerabilities Lead to Crashes, RCE. متى: 2026-04-10T11:53:45+00:00. كيف: The post Orthanc DICOM Vulnerabilities Lead to Crashes, RCE appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/"
-    ]
-  },
-  {
-    "id": "b275a8279029b4ab4195ad24",
-    "title": "Project Glasswing and open source software: The good, the bad, and the ugly",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/",
-    "published": "2026-04-10T11:30:08+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Project Glasswing and open source software: The good, the bad, and the ugly. What: Just what FOSS developers need – a flood of AI-discovered vulnerabilities Opinion Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program.. When: 2026-04-10T11:30:08+00:00. How: Just what FOSS developers need – a flood of AI-discovered vulnerabilities Opinion Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program. Action: See Arabic action below.",
-    "summary_ar": "من: Project Glasswing and open source software: The good, the bad, and the ugly. ماذا: Just what FOSS developers need – a flood of AI-discovered vulnerabilities Opinion Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program.. متى: 2026-04-10T11:30:08+00:00. كيف: Just what FOSS developers need – a flood of AI-discovered vulnerabilities Opinion Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/07/25/work_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/"
-    ]
-  },
-  {
-    "id": "9ed40f991cad71d57d41cb61",
-    "title": "Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies",
-    "link": "https://www.infosecurity-magazine.com/news/google-chrome-protection/",
-    "published": "2026-04-10T11:25:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Chrome’s Device Bound Session Credentials is designed to block infostealers from harvesting session cookie Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies. What: Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies. When: 2026-04-10T11:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Chrome’s Device Bound Session Credentials is designed to block infostealers from harvesting session cookie Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies. ماذا: Google Chrome Rolls Out Protection Against Infostealers Targeting Session Cookies. متى: 2026-04-10T11:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/bfe9aaa7-d3df-4b33-be4d-a79f9b951361.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/google-chrome-protection/"
-    ]
-  },
-  {
-    "id": "5eb53f8ea162ae33172ae7c8",
-    "title": "Britain seeks views before it drops the hammer on signal jammers",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/signal_jammer_consultation/",
-    "published": "2026-04-10T11:01:11+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Four-week call for evidence intended to help shape laws aimed at devices linked to crime The UK government is seeking views on radiofrequency jammers as it prepares legislation to ban the controversial devices.… Britain seeks views before it drops the hammer on signal jammers. What: Britain seeks views before it drops the hammer on signal jammers. When: 2026-04-10T11:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Four-week call for evidence intended to help shape laws aimed at devices linked to crime The UK government is seeking views on radiofrequency jammers as it prepares legislation to ban the controversial devices.… Britain seeks views before it drops the hammer on signal jammers. ماذا: Britain seeks views before it drops the hammer on signal jammers. متى: 2026-04-10T11:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2015/05/06/shutterstock_161369036_radio_wave.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/10/signal_jammer_consultation/"
-    ]
-  },
-  {
-    "id": "c92171858e557662665fcacb",
-    "title": "I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app",
-    "link": "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/",
-    "published": "2026-04-10T11:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.. What: I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app. When: 2026-04-10T11:00:38+00:00. How: I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app Action: See Arabic action below.",
-    "summary_ar": "من: Google Photos is much more than just a means to store the pictures and videos you take, and you'll be surprised at what it can do for you.. ماذا: I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app. متى: 2026-04-10T11:00:38+00:00. كيف: I'm no longer using Google Photos as just a cloud storage - 5 tools that elevate the app. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/de6b4f83cbab8120f31564e0162aa1a7f25eea15/2025/11/11/8df2ef6e-ec7a-4f15-83dd-cc1fd5fc8ae7/13.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-photos-hidden-features-for-android-users/"
-    ]
-  },
-  {
-    "id": "b3849512912ba8d3b04851f5",
-    "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
-    "link": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
-    "published": "2026-04-10T11:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Browser Extensions Are the New AI Consumption Channel That No One Is Talking About. What: Browser Extensions Are the New AI Consumption Channel That No One Is Talking About. When: 2026-04-10T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Browser Extensions Are the New AI Consumption Channel That No One Is Talking About. ماذا: Browser Extensions Are the New AI Consumption Channel That No One Is Talking About. متى: 2026-04-10T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9DUEjhk2fpOJYkJSEMuXQKjwHL1MhXzLniQFjNXvUV_iJEcMwk4MacWDYrrCg096uqXg7pJVZYgagJF58e28tr2lOkZsGqpXbnKfnDVStpGIz2fBGvXayNRfbWWaJ2QueaZoYp72PNJHF6g0W4FPBhbw75r_Dm2cuRr1zCmHFHges6gPQ55gr3hI17TM/s1600/layerx.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html"
-    ]
-  },
-  {
-    "id": "903b3b0eb207b124beba7cd0",
-    "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-    "link": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-    "published": "2026-04-10T10:44:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek .. What: The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.. When: 2026-04-10T10:44:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000 appeared first on SecurityWeek .. ماذا: The critical vulnerabilities affect Chrome’s WebML component and they have been reported by anonymous researchers.. متى: 2026-04-10T10:44:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/"
-    ]
-  },
-  {
-    "id": "f3d4ff4d2d12812499aee59a",
-    "title": "Google rolls out Gmail end-to-end encryption on mobile devices",
-    "link": "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/",
-    "published": "2026-04-10T10:44:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools.. What: Google rolls out Gmail end-to-end encryption on mobile devices. When: 2026-04-10T10:44:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google says Gmail end-to-end encryption (E2EE) is now available on all Android and iOS devices, allowing enterprise users to read and compose emails without additional tools.. ماذا: Google rolls out Gmail end-to-end encryption on mobile devices. متى: 2026-04-10T10:44:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/03/Gmail.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/"
-    ]
-  },
-  {
-    "id": "74402a57dcadf05406533e1d",
-    "title": "MITRE Releases Fight Fraud Framework",
-    "link": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
-    "published": "2026-04-10T09:51:03+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: MITRE Releases Fight Fraud Framework. What: MITRE Releases Fight Fraud Framework. When: 2026-04-10T09:51:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: MITRE Releases Fight Fraud Framework. ماذا: MITRE Releases Fight Fraud Framework. متى: 2026-04-10T09:51:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/mitre-releases-fight-fraud-framework/"
-    ]
-  },
-  {
-    "id": "197c8b67db18e98592019c99",
-    "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
-    "link": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
-    "published": "2026-04-10T09:12:48+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Critical Marimo Flaw Exploited Hours After Public Disclosure. What: The post Critical Marimo Flaw Exploited Hours After Public Disclosure appeared first on SecurityWeek .. When: 2026-04-10T09:12:48+00:00. How: Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Marimo Flaw Exploited Hours After Public Disclosure. ماذا: The post Critical Marimo Flaw Exploited Hours After Public Disclosure appeared first on SecurityWeek .. متى: 2026-04-10T09:12:48+00:00. كيف: Within nine hours, a hacker built an exploit from the unauthenticated bug’s advisory and started using it in the wild.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
-      "https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/"
     ]
   }
 ]
