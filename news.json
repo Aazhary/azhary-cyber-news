@@ -36,15 +36,93 @@
     ]
   },
   {
+    "id": "dab4d8e4a33fe928e4170e5d",
+    "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
+    "link": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
+    "published": "2026-10-08T21:59:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “These actors exploit vulnerabilities by using scanning tools, cross-site scripting attacks, and password spraying on Microsoft Exchange servers, while establishing persistence through VPN software and exfiltrating emails and credentials using scripts,” according to the security alert.. What: The FBI announced that it has seized seven web domains linked to hacking tools allegedly operated by a Chinese security firm called Integrity Technology Group and used by Beijing-backed cyber operatives to scan a South Carolina power company's network and other critical infrastructure systems for vulnerabilities.. When: 2026-10-08T21:59:00+00:00. How: In a subsequent advisory, the FBI and other government agencies in the US, UK, Australia, Canada, Japan, New Zealand, and Spain warned that Chinese government-linked attackers, enabled by Integrity Tech, are using botnets, malware, and other intrusion tools to target organizations worldwide and steal sensitive data, including from US critical infrastructure networks. Action: See Arabic action below.",
+    "summary_ar": "من: “These actors exploit vulnerabilities by using scanning tools, cross-site scripting attacks, and password spraying on Microsoft Exchange servers, while establishing persistence through VPN software and exfiltrating emails and credentials using scripts,” according to the security alert.. ماذا: The FBI announced that it has seized seven web domains linked to hacking tools allegedly operated by a Chinese security firm called Integrity Technology Group and used by Beijing-backed cyber operatives to scan a South Carolina power company's network and other critical infrastructure systems for vulnerabilities.. متى: 2026-10-08T21:59:00+00:00. كيف: In a subsequent advisory, the FBI and other government agencies in the US, UK, Australia, Canada, Japan, New Zealand, and Spain warned that Chinese government-linked attackers, enabled by Integrity Tech, are using botnets, malware, and other intrusion tools to target organizations worldwide and steal sensitive data, including from US critical infrastructure networks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2015-3306",
+      "CVE-2015-5477",
+      "CVE-2016-3081",
+      "CVE-2021-3199",
+      "CVE-2023-22894"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5288224.jpg?imageId=5288224&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107"
+    ]
+  },
+  {
+    "id": "290af517c244057778844167",
+    "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+    "published": "2026-10-08T21:42:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: FBI disrupts Chinese hacking tools used to breach critical infrastructure. What: FBI disrupts Chinese hacking tools used to breach critical infrastructure. When: 2026-10-08T21:42:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI disrupts Chinese hacking tools used to breach critical infrastructure. ماذا: FBI disrupts Chinese hacking tools used to breach critical infrastructure. متى: 2026-10-08T21:42:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/01/06/Chinese-hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+    ]
+  },
+  {
+    "id": "f5568cb9bcb2092555478e46",
+    "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+    "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+    "published": "2026-10-08T20:39:44+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.. What: A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.. When: 2026-10-08T20:39:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.. ماذا: A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.. متى: 2026-10-08T20:39:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt"
+    ]
+  },
+  {
+    "id": "b5d504810047c57637e231d9",
+    "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+    "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+    "published": "2026-10-08T20:09:45+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ransomware attack disrupts Japan's IDCF Cloud used by govt clients. What: IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country.. When: 2026-10-08T20:09:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware attack disrupts Japan's IDCF Cloud used by govt clients. ماذا: IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country.. متى: 2026-10-08T20:09:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/10/cloud.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/"
+    ]
+  },
+  {
     "id": "2685ba6348fe63fd1aa8c502",
     "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
     "link": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
     "published": "2026-10-08T19:57:17+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027. What: Prior to Let's Encrypt's launch in early 2016 , certificates were often issued for as long as 1 to 3 years at a time.. When: 2026-10-08T19:57:17+00:00. How: The service launched with 90-day certificates to push renewal automation that didn't previously exist, in the interest of encouraging websites to only validate the more secure HTTPS connection. Action: See Arabic action below.",
-    "summary_ar": "من: Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027. ماذا: Prior to Let's Encrypt's launch in early 2016 , certificates were often issued for as long as 1 to 3 years at a time.. متى: 2026-10-08T19:57:17+00:00. كيف: The service launched with 90-day certificates to push renewal automation that didn't previously exist, in the interest of encouraging websites to only validate the more secure HTTPS connection.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027. What: Prior to Let's Encrypt's launch in early 2016 , certificates were often issued for as long as one to three years.. When: 2026-10-08T19:57:17+00:00. How: The service started with 90-day certificates to force renewal automation that didn't previously exist. Action: See Arabic action below.",
+    "summary_ar": "من: Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027. ماذا: Prior to Let's Encrypt's launch in early 2016 , certificates were often issued for as long as one to three years.. متى: 2026-10-08T19:57:17+00:00. كيف: The service started with 90-day certificates to force renewal automation that didn't previously exist.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
     "cvss": [],
     "impacted": [],
@@ -140,7 +218,7 @@
     ],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5302081.jpg?imageId=5302081&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077"
     ]
@@ -326,7 +404,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5301069.jpg?imageId=5301069&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/08/sponsored-fighting-genai-with-genai-the-new-email-security-landscape/5301063"
     ]
@@ -962,6 +1040,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/"
+    ]
+  },
+  {
+    "id": "77f7a9558cbdc62d938f649f",
+    "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
+    "published": "2026-10-08T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage. What: CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage. When: 2026-10-08T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage. ماذا: CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage. متى: 2026-10-08T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/"
     ]
   },
   {
@@ -146207,24 +146303,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1f90a48f65c86beec2a6dae7134938c4621eeba8/2026/04/08/a65e48f6-4c08-45e7-85de-55ff92bf3c14/lenovo-yoga-7a-2-in-1-image-1.png?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/lenovo-yoga-7a-2-in-1-review/"
-    ]
-  },
-  {
-    "id": "2d1f6ecb25412b8c1a56925c",
-    "title": "The $30 Google TV stick may be the budget Chromecast successor we've been waiting for",
-    "link": "https://www.zdnet.com/article/walmarts-4k-chromecast-replacement/",
-    "published": "2026-04-12T00:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The $30 Google TV stick may be the budget Chromecast successor we've been waiting for. What: The $30 Google TV stick may be the budget Chromecast successor we've been waiting for. When: 2026-04-12T00:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The $30 Google TV stick may be the budget Chromecast successor we've been waiting for. ماذا: The $30 Google TV stick may be the budget Chromecast successor we've been waiting for. متى: 2026-04-12T00:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ecda68a2e998f8603a1a94139f011288afb80a83/2026/04/10/8a6f28fa-7160-4c84-b7b1-5abc26386dfc/chromecast3screenshot-2026-04-10-130726.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/walmarts-4k-chromecast-replacement/"
     ]
   }
 ]
