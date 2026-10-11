@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "6b624d7c6c2e0e4a47056c75",
+    "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+    "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+    "published": "2026-10-11T11:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready. What: AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready. When: 2026-10-11T11:30:00+00:00. How: The models did not receive any source code, engineering documents, or advanced OT or IT guidance so that the testers could determine how much research, attack planning, and execution the models could do without being given access to technical resources. Action: See Arabic action below.",
+    "summary_ar": "من: AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready. ماذا: AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready. متى: 2026-10-11T11:30:00+00:00. كيف: The models did not receive any source code, engineering documents, or advanced OT or IT guidance so that the testers could determine how much research, attack planning, and execution the models could do without being given access to technical resources.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5285618.jpg?imageId=5285618&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450"
+    ]
+  },
+  {
     "id": "dc7b54e8c00ace09f7ca527d",
     "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
     "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
@@ -145786,258 +145804,6 @@
     "image": "https://www.bleepstatic.com/content/posts/2026/04/06/specops-mobile-device-lock.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/5-ways-zero-trust-maximizes-identity-security/"
-    ]
-  },
-  {
-    "id": "e9aa0556905d0fa9fe73bdda",
-    "title": "CISOs Urged to Innovate with Talent Retention as Job Satisfaction Declines",
-    "link": "https://www.infosecurity-magazine.com/news/cisos-innovate-talent-retention/",
-    "published": "2026-04-14T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: CISOs Urged to Innovate with Talent Retention as Job Satisfaction Declines. What: CISOs Urged to Innovate with Talent Retention as Job Satisfaction Declines. When: 2026-04-14T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CISOs Urged to Innovate with Talent Retention as Job Satisfaction Declines. ماذا: CISOs Urged to Innovate with Talent Retention as Job Satisfaction Declines. متى: 2026-04-14T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/3c208023-8f30-4d75-be36-54e1737c169f.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/cisos-innovate-talent-retention/"
-    ]
-  },
-  {
-    "id": "be58940e05ce411a308fd2fe",
-    "title": "No honor among thieves as 0APT threatens rival ransomware gang Krybit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/14/0apt_krybit_spat/",
-    "published": "2026-04-14T12:56:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: No honor among thieves as 0APT threatens rival ransomware gang Krybit. What: No honor among thieves as 0APT threatens rival ransomware gang Krybit. When: 2026-04-14T12:56:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: No honor among thieves as 0APT threatens rival ransomware gang Krybit. ماذا: No honor among thieves as 0APT threatens rival ransomware gang Krybit. متى: 2026-04-14T12:56:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2025/08/18/shutterstock_kangaroos_fighting.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/14/0apt_krybit_spat/"
-    ]
-  },
-  {
-    "id": "fe607e00824e5478b4164d09",
-    "title": "‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats",
-    "link": "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/",
-    "published": "2026-04-14T12:53:55+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats. What: ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats. When: 2026-04-14T12:53:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats. ماذا: ‘Mythos-Ready’ Security: CSA Urges CISOs to Prepare for Accelerated AI Threats. متى: 2026-04-14T12:53:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/mythos-ready-security-csa-urges-cisos-to-prepare-for-accelerated-ai-threats/"
-    ]
-  },
-  {
-    "id": "774a603e16380ecd4a8d2523",
-    "title": "After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose",
-    "link": "https://www.zdnet.com/article/jbl-780-nc-review/",
-    "published": "2026-04-14T12:50:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose. What: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose. When: 2026-04-14T12:50:00+00:00. How: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose Action: See Arabic action below.",
-    "summary_ar": "من: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose. ماذا: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose. متى: 2026-04-14T12:50:00+00:00. كيف: After using these JBL headphones, I'm wondering if we're all too distracted by Sony and Bose. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/93cbed6cf8433b4fd75387df29d6c3e5c99dbf9b/2026/04/13/82f98bb7-db63-4eb6-b0d1-53c5e65c2ce2/780nc-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/jbl-780-nc-review/"
-    ]
-  },
-  {
-    "id": "ba91890ae1cb892a8bf49855",
-    "title": "Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
-    "link": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
-    "published": "2026-04-14T12:43:30+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members. What: Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details.. When: 2026-04-14T12:43:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Europe’s Largest Gym Chain Says Data Breach Impacts 1 Million Members. ماذا: Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details.. متى: 2026-04-14T12:43:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/"
-    ]
-  },
-  {
-    "id": "4c6bd26ea1db3e1077bdd997",
-    "title": "Triad Nexus Expands Global Fraud Operations Despite US Sanctions",
-    "link": "https://www.infosecurity-magazine.com/news/triad-nexus-expands-fraud/",
-    "published": "2026-04-14T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Triad Nexus Expands Global Fraud Operations Despite US Sanctions. What: Triad Nexus Expands Global Fraud Operations Despite US Sanctions. When: 2026-04-14T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Triad Nexus Expands Global Fraud Operations Despite US Sanctions. ماذا: Triad Nexus Expands Global Fraud Operations Despite US Sanctions. متى: 2026-04-14T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/908ac8bc-c851-47f8-9f47-d48ed78fc6a8.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/triad-nexus-expands-fraud/"
-    ]
-  },
-  {
-    "id": "49270ba261e34eea034ef3b4",
-    "title": "Malicious Chrome Extensions Campaign Exposes User Data",
-    "link": "https://www.infosecurity-magazine.com/news/chrome-extensions-expose-user-data/",
-    "published": "2026-04-14T11:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: 108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure Malicious Chrome Extensions Campaign Exposes User Data. What: Malicious Chrome Extensions Campaign Exposes User Data. When: 2026-04-14T11:30:00+00:00. How: 108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure Malicious Chrome Extensions Campaign Exposes User Data Action: See Arabic action below.",
-    "summary_ar": "من: 108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure Malicious Chrome Extensions Campaign Exposes User Data. ماذا: Malicious Chrome Extensions Campaign Exposes User Data. متى: 2026-04-14T11:30:00+00:00. كيف: 108 malicious Chrome extensions steal sessions, Google data, inject ads via single C2 infrastructure Malicious Chrome Extensions Campaign Exposes User Data. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/15001563-4d39-48f1-8189-92563e82d42d.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/chrome-extensions-expose-user-data/"
-    ]
-  },
-  {
-    "id": "223c13ee74bef4f8d9d563b3",
-    "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-    "link": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-    "published": "2026-04-14T10:53:32+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Triad Nexus Evades Sanctions to Fuel Cybercrime. What: Triad Nexus Evades Sanctions to Fuel Cybercrime. When: 2026-04-14T10:53:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Triad Nexus Evades Sanctions to Fuel Cybercrime. ماذا: Triad Nexus Evades Sanctions to Fuel Cybercrime. متى: 2026-04-14T10:53:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/"
-    ]
-  },
-  {
-    "id": "c0c98494d04d6d096b9e9ee3",
-    "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-    "link": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-    "published": "2026-04-14T10:21:33+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on SecurityWeek .. What: The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.. When: 2026-04-14T10:21:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google Adds Rust DNS Parser to Pixel Phones for Better Security appeared first on SecurityWeek .. ماذا: The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.. متى: 2026-04-14T10:21:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/"
-    ]
-  },
-  {
-    "id": "256044fb8312cfd0a3e0a294",
-    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
-    "link": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
-    "published": "2026-04-14T10:20:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.. What: Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads. When: 2026-04-14T10:20:00+00:00. How: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta. Action: See Arabic action below.",
-    "summary_ar": "من: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.. ماذا: Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads. متى: 2026-04-14T10:20:00+00:00. كيف: A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html"
-    ]
-  },
-  {
-    "id": "b777608cc3918426c9734f8c",
-    "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
-    "link": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
-    "published": "2026-04-14T10:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report). What: Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report). When: 2026-04-14T10:00:00+00:00. How: OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. Action: See Arabic action below.",
-    "summary_ar": "من: Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report). ماذا: Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report). متى: 2026-04-14T10:00:00+00:00. كيف: OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html"
-    ]
-  },
-  {
-    "id": "22e7987743af73ffede6519f",
-    "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-    "link": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-    "published": "2026-04-14T09:35:06+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Nightclub Giant RCI Hospitality Reports Data Breach. What: Nightclub Giant RCI Hospitality Reports Data Breach. When: 2026-04-14T09:35:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Nightclub Giant RCI Hospitality Reports Data Breach. ماذا: Nightclub Giant RCI Hospitality Reports Data Breach. متى: 2026-04-14T09:35:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/"
-    ]
-  },
-  {
-    "id": "efe010dede35596cc0cb0b86",
-    "title": "AI Security Institute Advocates Security Best Practices After Mythos Test",
-    "link": "https://www.infosecurity-magazine.com/news/ai-security-institute-best/",
-    "published": "2026-04-14T09:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: AI Security Institute Advocates Security Best Practices After Mythos Test. What: The AISI has issued its judgement on Anthropic’s Mythos Preview model AI Security Institute Advocates Security Best Practices After Mythos Test. When: 2026-04-14T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI Security Institute Advocates Security Best Practices After Mythos Test. ماذا: The AISI has issued its judgement on Anthropic’s Mythos Preview model AI Security Institute Advocates Security Best Practices After Mythos Test. متى: 2026-04-14T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/c30297b2-763a-4ad1-ac4c-f575fac138ce.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ai-security-institute-best/"
-    ]
-  },
-  {
-    "id": "c4ac1963135e5f8e1bf6ad7a",
-    "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
-    "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-    "published": "2026-04-14T08:35:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.. What: 108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users. When: 2026-04-14T08:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.. ماذا: 108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users. متى: 2026-04-14T08:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html"
     ]
   }
 ]
