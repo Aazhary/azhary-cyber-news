@@ -36,6 +36,125 @@
     ]
   },
   {
+    "id": "c9a3f02d710caec5c4ab4165",
+    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+    "published": "2026-10-14T22:56:47+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. What: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. When: 2026-10-14T22:56:47+00:00. How: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. Action: See Arabic action below.",
+    "summary_ar": "من: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. ماذا: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. متى: 2026-10-14T22:56:47+00:00. كيف: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0322"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
+    ]
+  },
+  {
+    "id": "f92c56fe800f3f5c376892e4",
+    "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+    "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+    "published": "2026-10-14T22:00:44+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant. What: We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware.. When: 2026-10-14T22:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant. ماذا: We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware.. متى: 2026-10-14T22:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2024-47575",
+      "cve-2024-47575"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/09_Vulnerabilities_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
+    ]
+  },
+  {
+    "id": "f27922db894b417042e37b93",
+    "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+    "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+    "published": "2026-10-14T21:40:29+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks.. What: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks.. When: 2026-10-14T21:40:29+00:00. How: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks.. ماذا: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks.. متى: 2026-10-14T21:40:29+00:00. كيف: Cisco “strongly” implored customers to patch yet another critical, make-me-root vulnerability in its Secure Email Gateway (SEG), one that has already been exploited in zero-day attacks.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-20393",
+      "CVE-2026-76461"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/4094206.jpg?imageId=4094206&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168"
+    ]
+  },
+  {
+    "id": "e0c7d4aa37e1b26a58a16fa6",
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "published": "2026-10-14T21:35:09+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Fridge hack costing millions and sparking fires stemmed from poor security. What: The hacks that didn't have to happen Multiple security advisories and public research reports show that all three of the controller models reportedly hacked in the incident—sold by Danfoss of Denmark and Dixell and its parent company Copeland in the US—contained critical vulnerabilities that allow attackers to remotely log in to the devices with the same system rights as administrators.. When: 2026-10-14T21:35:09+00:00. How: Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires. Action: See Arabic action below.",
+    "summary_ar": "من: Fridge hack costing millions and sparking fires stemmed from poor security. ماذا: The hacks that didn't have to happen Multiple security advisories and public research reports show that all three of the controller models reportedly hacked in the incident—sold by Danfoss of Denmark and Dixell and its parent company Copeland in the US—contained critical vulnerabilities that allow attackers to remotely log in to the devices with the same system rights as administrators.. متى: 2026-10-14T21:35:09+00:00. كيف: Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
+    ]
+  },
+  {
+    "id": "e1c5b3e9fc3c2f66a9be1310",
+    "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+    "published": "2026-10-14T21:20:13+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles. What: CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.. When: 2026-10-14T21:20:13+00:00. How: CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on. Action: See Arabic action below.",
+    "summary_ar": "من: Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles. ماذا: CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.. متى: 2026-10-14T21:20:13+00:00. كيف: CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-104935"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching"
+    ]
+  },
+  {
+    "id": "b0a791a97e86668c88a89a93",
+    "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+    "published": "2026-10-14T20:57:16+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Yam Store: The Phishing Network Behind a Billion Messages. What: Yam Store: The Phishing Network Behind a Billion Messages. When: 2026-10-14T20:57:16+00:00. How: A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide. Action: See Arabic action below.",
+    "summary_ar": "من: Yam Store: The Phishing Network Behind a Billion Messages. ماذا: Yam Store: The Phishing Network Behind a Billion Messages. متى: 2026-10-14T20:57:16+00:00. كيف: A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages"
+    ]
+  },
+  {
     "id": "7f55a7a9001ea1149f3907b8",
     "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
     "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
@@ -130030,24 +130149,6 @@
     ]
   },
   {
-    "id": "9c1e560966da6dbdf0f05f7c",
-    "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-    "published": "2026-05-06T09:18:16+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks.. What: Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks.. When: 2026-05-06T09:18:16+00:00. How: [...] Palo Alto Networks warns of firewall RCE zero-day exploited in attacks Action: See Arabic action below.",
-    "summary_ar": "من: Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks.. ماذا: Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks.. متى: 2026-05-06T09:18:16+00:00. كيف: [...] Palo Alto Networks warns of firewall RCE zero-day exploited in attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
-    ]
-  },
-  {
     "id": "b2ae90eae831f15e60f83fbd",
     "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
     "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
@@ -144534,60 +144635,6 @@
     "image": "https://www.zdnet.com/a/img/resize/cb4bd75216565b4aa8eb65b22c06f689558fbc55/2024/04/29/02eecfe6-7cf5-4662-963a-ca73ebae233b/4.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-use-an-old-tablet-as-a-smart-home-control-panel/"
-    ]
-  },
-  {
-    "id": "fc0abcf6e9643a8198554c76",
-    "title": "Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17)",
-    "link": "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/",
-    "published": "2026-04-17T22:35:07+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17). What: Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17). When: 2026-04-17T22:35:07+00:00. How: Unit 42 details recent Iranian cyberattack activity, sharing direct observations of phishing, hacktivist activity and cybercrime. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17). ماذا: Threat Brief: Escalation of Cyber Risk Related to Iran (Updated April 17). متى: 2026-04-17T22:35:07+00:00. كيف: Unit 42 details recent Iranian cyberattack activity, sharing direct observations of phishing, hacktivist activity and cybercrime.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/12_Security-Technology_Category_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/iranian-cyberattacks-2026/"
-    ]
-  },
-  {
-    "id": "1f0b75648fa73215fe2e26d3",
-    "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-    "link": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-    "published": "2026-04-17T21:28:35+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\". What: Researchers from TRM, which has confirmed the theft, put the value of stolen assets at $15 million after discovering roughly 70 drained addresses, about 16 more than Grinex reported.. When: 2026-04-17T21:28:35+00:00. How: Damaging \"Russia's financial sovereignty\" “The digital footprints and nature of the attack indicate an unprecedented level of resources and technology available exclusively to the structures of unfriendly states,” Grinex said . Action: See Arabic action below.",
-    "summary_ar": "من: US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\". ماذا: Researchers from TRM, which has confirmed the theft, put the value of stolen assets at $15 million after discovering roughly 70 drained addresses, about 16 more than Grinex reported.. متى: 2026-04-17T21:28:35+00:00. كيف: Damaging \"Russia's financial sovereignty\" “The digital footprints and nature of the attack indicate an unprecedented level of resources and technology available exclusively to the structures of unfriendly states,” Grinex said .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
-    ]
-  },
-  {
-    "id": "a2662c6f01be983622da3ece",
-    "title": "Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever",
-    "link": "https://www.zdnet.com/article/apple-airtag-gen-1-deal/",
-    "published": "2026-04-17T21:00:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever. What: Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever. When: 2026-04-17T21:00:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever. ماذا: Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever. متى: 2026-04-17T21:00:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6e5d3cae0bc5e77fcb8c4e021ceada1f114ef5ea/2024/09/30/5bed40da-613a-40e4-ae02-32af72a2dabb/airtg.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-airtag-gen-1-deal/"
     ]
   }
 ]
