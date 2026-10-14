@@ -36,6 +36,45 @@
     ]
   },
   {
+    "id": "83d130e7ba9f7dd16780b5aa",
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+    "published": "2026-10-13T23:24:53+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.. What: Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.. When: 2026-10-13T23:24:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.. ماذا: Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software.. متى: 2026-10-13T23:24:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-108398",
+      "CVE-2026-96951"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
+    ]
+  },
+  {
+    "id": "0cfb790894cf8cc47c246991",
+    "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+    "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+    "published": "2026-10-13T23:07:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.. What: Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say. When: 2026-10-13T23:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.. ماذا: Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say. متى: 2026-10-13T23:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/OpenAI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/"
+    ]
+  },
+  {
     "id": "ff21bb8aab0186afcf42076c",
     "title": "OpenAI engineer arrested for allegedly planting spy device in office",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
@@ -1081,6 +1120,42 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html"
+    ]
+  },
+  {
+    "id": "15f1ad45be3bfe100624c886",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. What: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. When: 2026-10-13T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. ماذا: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. متى: 2026-10-13T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
+    ]
+  },
+  {
+    "id": "b79fbc206a1a3030a9bf5bc4",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. What: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. When: 2026-10-13T05:00:00+00:00. How: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Action: See Arabic action below.",
+    "summary_ar": "من: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. ماذا: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. متى: 2026-10-13T05:00:00+00:00. كيف: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
     ]
   },
   {
@@ -3813,24 +3888,6 @@
     ]
   },
   {
-    "id": "458ea513ebf4030831b6ff5b",
-    "title": "Solving the Continuous Authorization Conundrum",
-    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-    "published": "2026-10-08T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Solving the Continuous Authorization Conundrum. What: Solving the Continuous Authorization Conundrum. When: 2026-10-08T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Solving the Continuous Authorization Conundrum. ماذا: Solving the Continuous Authorization Conundrum. متى: 2026-10-08T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/"
-    ]
-  },
-  {
     "id": "77f7a9558cbdc62d938f649f",
     "title": "CrowdStrike and Anthropic Give Critical Infrastructure Defenders the AI Advantage",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/",
@@ -3846,6 +3903,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-anthropic-critical-infrastructure-defense-program/"
+    ]
+  },
+  {
+    "id": "458ea513ebf4030831b6ff5b",
+    "title": "Solving the Continuous Authorization Conundrum",
+    "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
+    "published": "2026-10-08T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Solving the Continuous Authorization Conundrum. What: Solving the Continuous Authorization Conundrum. When: 2026-10-08T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Solving the Continuous Authorization Conundrum. ماذا: Solving the Continuous Authorization Conundrum. متى: 2026-10-08T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/"
     ]
   },
   {
@@ -144370,96 +144445,6 @@
     "image": "https://www.zdnet.com/a/img/resize/73a153eeefdb8253dd224717067f47d886305ea6/2026/04/16/107d9e85-1378-4cec-850f-ef61cd00e010/home400cld-2.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/denon-home-400-review/"
-    ]
-  },
-  {
-    "id": "e01a10dbe5901d25afd3dff8",
-    "title": "AI-powered website builders have come a long way - here's your best option in 2026",
-    "link": "https://www.zdnet.com/article/ai-website-builders-your-best-option/",
-    "published": "2026-04-17T01:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: AI-powered website builders have come a long way - here's your best option in 2026. What: AI-powered website builders have come a long way - here's your best option in 2026. When: 2026-04-17T01:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: AI-powered website builders have come a long way - here's your best option in 2026. ماذا: AI-powered website builders have come a long way - here's your best option in 2026. متى: 2026-04-17T01:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/eb64ae8eba4b6032fb4bfc58ec68d9a3fd4ce2c5/2026/04/15/cdc35a77-a721-47af-870e-762fd3dada71/designabstract-gettyimages-2252176226.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-website-builders-your-best-option/"
-    ]
-  },
-  {
-    "id": "e8c9bf4c4a779855d6aa709e",
-    "title": "Amazon just slashed $250 off the Google Pixel 10 - and a Prime subscription isn't required",
-    "link": "https://www.zdnet.com/article/google-pixel-10-amazon-deal/",
-    "published": "2026-04-17T01:18:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Google Pixel 10 has dropped to $549, offering flagship performance and a great camera system at a new low price.. What: Amazon just slashed $250 off the Google Pixel 10 - and a Prime subscription isn't required. When: 2026-04-17T01:18:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Google Pixel 10 has dropped to $549, offering flagship performance and a great camera system at a new low price.. ماذا: Amazon just slashed $250 off the Google Pixel 10 - and a Prime subscription isn't required. متى: 2026-04-17T01:18:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ead81a7c6fb619b0cab7978e3229b2010415551e/2025/08/15/3cd0ee5b-97dd-4387-b8e0-c47c73584c17/dsc06910.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-pixel-10-amazon-deal/"
-    ]
-  },
-  {
-    "id": "4885788df65a3cbf582793b8",
-    "title": "I found the apps slowing down my PC - how to kill the biggest memory hogs",
-    "link": "https://www.zdnet.com/article/apps-slowing-my-pc-how-to-kill-memory-hogs/",
-    "published": "2026-04-17T01:00:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found the apps slowing down my PC - how to kill the biggest memory hogs. What: I found the apps slowing down my PC - how to kill the biggest memory hogs. When: 2026-04-17T01:00:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I found the apps slowing down my PC - how to kill the biggest memory hogs. ماذا: I found the apps slowing down my PC - how to kill the biggest memory hogs. متى: 2026-04-17T01:00:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9e76e8dee592d9a1942ddba55f341d0027ef987b/2026/04/14/786da71f-6521-4911-ba9a-e81b02a8a063/dsc05064.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apps-slowing-my-pc-how-to-kill-memory-hogs/"
-    ]
-  },
-  {
-    "id": "1e6fecc8e41c55723a23bfed",
-    "title": "These companies are actually upskilling their workers for AI - here's how they do it",
-    "link": "https://www.zdnet.com/article/how-companies-are-upskilling-workers-for-ai/",
-    "published": "2026-04-17T01:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These companies are actually upskilling their workers for AI - here's how they do it. What: These companies are actually upskilling their workers for AI - here's how they do it. When: 2026-04-17T01:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: These companies are actually upskilling their workers for AI - here's how they do it. ماذا: These companies are actually upskilling their workers for AI - here's how they do it. متى: 2026-04-17T01:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a6872ae765a48cea98090845f50bb8cd4e186cc0/2026/04/16/1afd58e7-ecbf-4ac2-83b3-4101826a3bb3/colormazes-gettyimages-2177853018.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-companies-are-upskilling-workers-for-ai/"
-    ]
-  },
-  {
-    "id": "63ebd76b8bf589cdbc425c42",
-    "title": "Get a free pair of Meta Ray-Bans with this Verizon Fios Home internet deal - how to redeem it",
-    "link": "https://www.zdnet.com/article/meta-ray-bans-smart-glasses-verizon-deal/",
-    "published": "2026-04-17T00:30:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: When you sign up for - or switch to - one of these Verizon Fios home internet plans, you'll get a pair of Meta Ray-Ban smart glasses absolutely free.. What: Get a free pair of Meta Ray-Bans with this Verizon Fios Home internet deal - how to redeem it. When: 2026-04-17T00:30:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: When you sign up for - or switch to - one of these Verizon Fios home internet plans, you'll get a pair of Meta Ray-Ban smart glasses absolutely free.. ماذا: Get a free pair of Meta Ray-Bans with this Verizon Fios Home internet deal - how to redeem it. متى: 2026-04-17T00:30:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f17e114f6f2491ee496632a26aa1328af3b2969c/2025/10/23/1d270283-92fe-4952-81f8-7fd7782cc53e/dsc08415.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meta-ray-bans-smart-glasses-verizon-deal/"
     ]
   }
 ]
