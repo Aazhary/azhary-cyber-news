@@ -331,8 +331,8 @@
     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
     "published": "2026-10-16T17:48:45+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. What: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. When: 2026-10-16T17:48:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. ماذا: Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. متى: 2026-10-16T17:48:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. What: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. When: 2026-10-16T17:48:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. ماذا: A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug. متى: 2026-10-16T17:48:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -145530,116 +145530,6 @@
     "image": "https://regmedia.co.uk/2024/05/01/shutterstock_generic_claude.jpg",
     "sources": [
       "https://go.theregister.com/feed/www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/"
-    ]
-  },
-  {
-    "id": "6f8d250fb3bb4721fec2b4cf",
-    "title": "Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity",
-    "link": "https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/",
-    "published": "2026-04-20T18:43:49+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity. What: Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity. When: 2026-04-20T18:43:49+00:00. How: While these tools offer unique capabilities, the backbone of modern defense and the source of the real operational advantage is automation. Action: See Arabic action below.",
-    "summary_ar": "من: Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity. ماذا: Automation at Machine Speed: Rethinking Execution in Modern Cybersecurity. متى: 2026-04-20T18:43:49+00:00. كيف: While these tools offer unique capabilities, the backbone of modern defense and the source of the real operational advantage is automation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.sentinelone.com/wp-content/uploads/2026/03/Blog_Beyond_the_Open_Door_.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/automation-at-machine-speed-rethinking-execution-in-modern-cybersecurity/"
-    ]
-  },
-  {
-    "id": "43cd6d189d073204b29fcd7d",
-    "title": "Seiko USA website defaced as hacker claims customer data theft",
-    "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-    "published": "2026-04-20T18:22:31+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Seiko USA website defaced as hacker claims customer data theft. What: Seiko USA website defaced as hacker claims customer data theft. When: 2026-04-20T18:22:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Seiko USA website defaced as hacker claims customer data theft. ماذا: Seiko USA website defaced as hacker claims customer data theft. متى: 2026-04-20T18:22:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/seiko-header-image.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/"
-    ]
-  },
-  {
-    "id": "506c135301d404a4dd071d34",
-    "title": "Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it",
-    "link": "https://www.zdnet.com/article/google-pixel-take-a-message-feature-how-to-use/",
-    "published": "2026-04-20T18:03:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it. What: Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it. When: 2026-04-20T18:03:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it. ماذا: Google Pixel phones have a useful voicemail feature that's hidden by default - how to enable it. متى: 2026-04-20T18:03:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d40c220952743f0315132815a5b41a2ecb7dfb9e/2026/04/20/bb85a532-702a-4680-8ba3-91ff1fdf3097/pixel-spam-call-feature.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-pixel-take-a-message-feature-how-to-use/"
-    ]
-  },
-  {
-    "id": "6462525115fda6d9ae467278",
-    "title": "The new Roku City screensaver game has me hooked - and it's free to play",
-    "link": "https://www.zdnet.com/article/roku-city-dash-interactive-game/",
-    "published": "2026-04-20T17:30:14+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The new Roku City screensaver game has me hooked - and it's free to play. What: The new Roku City screensaver game has me hooked - and it's free to play. When: 2026-04-20T17:30:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The new Roku City screensaver game has me hooked - and it's free to play. ماذا: The new Roku City screensaver game has me hooked - and it's free to play. متى: 2026-04-20T17:30:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/640fd178dbfd35b11b9b3aecce6b22347d441475/2026/04/20/8c9a3d90-8227-4e1a-9bd5-3ebed1b9fd31/pxl-20260420-154156267.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/roku-city-dash-interactive-game/"
-    ]
-  },
-  {
-    "id": "3a72817b6ffd6aa0b5588c72",
-    "title": "Scot becomes second Scattered Spider-linked crook to plead guilty in US",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/scattered_spider_linked_scot_plead_guilty/",
-    "published": "2026-04-20T17:22:17+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Scot becomes second Scattered Spider-linked crook to plead guilty in US. What: Scot becomes second Scattered Spider-linked crook to plead guilty in US. When: 2026-04-20T17:22:17+00:00. How: Tyler Buchanan admits role in scheme that stole at least $8 million in virtual currency A Scottish man linked to the Scattered Spider cybercrime crew has pleaded guilty in the US to a phishing and SIM-swap scheme that stole at least $8 million in cryptocurrency.… Scot becomes second Scattered Spider-linked crook to plead guilty in US Action: See Arabic action below.",
-    "summary_ar": "من: Scot becomes second Scattered Spider-linked crook to plead guilty in US. ماذا: Scot becomes second Scattered Spider-linked crook to plead guilty in US. متى: 2026-04-20T17:22:17+00:00. كيف: Tyler Buchanan admits role in scheme that stole at least $8 million in virtual currency A Scottish man linked to the Scattered Spider cybercrime crew has pleaded guilty in the US to a phishing and SIM-swap scheme that stole at least $8 million in cryptocurrency.… Scot becomes second Scattered Spider-linked crook to plead guilty in US. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/07/16/spider_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/20/scattered_spider_linked_scot_plead_guilty/"
-    ]
-  },
-  {
-    "id": "843c946f64902b48fffd761c",
-    "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-    "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-    "published": "2026-04-20T17:14:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files. What: A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.. When: 2026-04-20T17:14:00+00:00. How: SGLang is a high-performance, open-source serving SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files Action: See Arabic action below.",
-    "summary_ar": "من: SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files. ماذا: A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.. متى: 2026-04-20T17:14:00+00:00. كيف: SGLang is a high-performance, open-source serving SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-5760"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
     ]
   }
 ]
