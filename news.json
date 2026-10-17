@@ -36,6 +36,60 @@
     ]
   },
   {
+    "id": "74a44f824ba0950d0757cee3",
+    "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "published": "2026-10-17T15:18:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.. What: Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. When: 2026-10-17T15:18:51+00:00. How: [...] Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack Action: See Arabic action below.",
+    "summary_ar": "من: ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants.. ماذا: Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. متى: 2026-10-17T15:18:51+00:00. كيف: [...] Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/07/ConnectWise.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
+    ]
+  },
+  {
+    "id": "43fc56afbb2752b58692f206",
+    "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "published": "2026-10-17T14:32:48+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Drupal patches critical RCE flaws, warns exploits may emerge soon. What: Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system.. When: 2026-10-17T14:32:48+00:00. How: [...] Drupal patches critical RCE flaws, warns exploits may emerge soon Action: See Arabic action below.",
+    "summary_ar": "من: [...] Drupal patches critical RCE flaws, warns exploits may emerge soon. ماذا: Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system.. متى: 2026-10-17T14:32:48+00:00. كيف: [...] Drupal patches critical RCE flaws, warns exploits may emerge soon. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Drupal.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+    ]
+  },
+  {
+    "id": "009a1def7dad4e1d241d54a5",
+    "title": "Plug-in solar is legal in these 10 states now – how it could save you money",
+    "link": "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/",
+    "published": "2026-10-17T13:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Plug-in solar is legal in these 10 states now – how it could save you money. What: Plug-in solar is legal in these 10 states now – how it could save you money. When: 2026-10-17T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Plug-in solar is legal in these 10 states now – how it could save you money. ماذا: Plug-in solar is legal in these 10 states now – how it could save you money. متى: 2026-10-17T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/abc106f7-9ae3-4a45-8de8-2da5b0a9b031.jpg",
+    "sources": [
+      "https://www.zdnet.com/uncategorized/plug-in-solar-balcony-solar-legalization-2026/"
+    ]
+  },
+  {
     "id": "ff874f9be1925cec12e16223",
     "title": "Cybercrims go beyond stealing data to attack physical building systems",
     "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
@@ -145586,263 +145640,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg",
     "sources": [
       "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
-    ]
-  },
-  {
-    "id": "83aa2b9c47e5b40422718ff4",
-    "title": "There's a right way to wear your Apple Watch - and it affects your data",
-    "link": "https://www.zdnet.com/article/why-you-should-wear-your-apple-watch-tighter/",
-    "published": "2026-04-20T16:28:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: There's a right way to wear your Apple Watch - and it affects your data. What: There's a right way to wear your Apple Watch - and it affects your data. When: 2026-04-20T16:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: There's a right way to wear your Apple Watch - and it affects your data. ماذا: There's a right way to wear your Apple Watch - and it affects your data. متى: 2026-04-20T16:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2302133080ea5aca458b622149ee5258f8ece9ad/2025/09/17/a5baf4ef-84dc-45bd-8cad-746eaec8b048/img-0044.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-you-should-wear-your-apple-watch-tighter/"
-    ]
-  },
-  {
-    "id": "dcd96584c42bb0cf1eb0b147",
-    "title": "ZionSiphon Malware Targets Water Infrastructure Systems",
-    "link": "https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/",
-    "published": "2026-04-20T16:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: ZionSiphon Malware Targets Water Infrastructure Systems. What: ZionSiphon Malware Targets Water Infrastructure Systems. When: 2026-04-20T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ZionSiphon Malware Targets Water Infrastructure Systems. ماذا: ZionSiphon Malware Targets Water Infrastructure Systems. متى: 2026-04-20T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/304d3709-629a-4657-9353-ed3a49df3eb7.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/zionsiphon-malware-water/"
-    ]
-  },
-  {
-    "id": "70cd7bc4922d007916485178",
-    "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
-    "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
-    "published": "2026-04-20T15:42:22+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking appeared first on SecurityWeek .. What: Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking. When: 2026-04-20T15:42:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking appeared first on SecurityWeek .. ماذا: Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking. متى: 2026-04-20T15:42:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/"
-    ]
-  },
-  {
-    "id": "6d3837c767cf630200990d2c",
-    "title": "Apple's foldable iPhone hinges on one key feature for me - and it's not the hardware",
-    "link": "https://www.zdnet.com/article/foldable-iphone-multitasking-features-im-hoping-for/",
-    "published": "2026-04-20T15:39:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: That will need to change for Apple's most ambitious device yet to succeed.. What: Apple's foldable iPhone hinges on one key feature for me - and it's not the hardware. When: 2026-04-20T15:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: That will need to change for Apple's most ambitious device yet to succeed.. ماذا: Apple's foldable iPhone hinges on one key feature for me - and it's not the hardware. متى: 2026-04-20T15:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5c03375d1f3d148b3cd882feb66a50db451d332b/2024/08/10/ac146c49-1cf5-42b6-92cb-41d343aac31b/dsc01639.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/foldable-iphone-multitasking-features-im-hoping-for/"
-    ]
-  },
-  {
-    "id": "054b001b78817dcd2fc75359",
-    "title": "T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one",
-    "link": "https://www.zdnet.com/article/apple-watch-series-11-deal-tmobile/",
-    "published": "2026-04-20T15:33:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one. What: T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one. When: 2026-04-20T15:33:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one. ماذا: T-Mobile is practically giving away the Apple Watch Series 11 - here's how to get one. متى: 2026-04-20T15:33:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1be0a85adb197d1558f9f6574a9af2247865279b/2025/09/17/223056a5-4d37-4fd0-933c-10a1ff19fdb2/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-watch-series-11-deal-tmobile/"
-    ]
-  },
-  {
-    "id": "84c85287b8675e615a53731a",
-    "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-    "published": "2026-04-20T15:11:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks.. What: Microsoft: Teams increasingly abused in helpdesk impersonation attacks. When: 2026-04-20T15:11:24+00:00. How: Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks.. ماذا: Microsoft: Teams increasingly abused in helpdesk impersonation attacks. متى: 2026-04-20T15:11:24+00:00. كيف: Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft--Teams.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/"
-    ]
-  },
-  {
-    "id": "0e5d182875cf94a3a097ff1a",
-    "title": "Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection",
-    "link": "https://www.infosecurity-magazine.com/news/formbook-malware-multiple/",
-    "published": "2026-04-20T15:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection. What: Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection. When: 2026-04-20T15:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection. ماذا: Formbook Malware Campaign Uses Multiple Obfuscation Techniques to Avoid Detection. متى: 2026-04-20T15:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/9c5d630f-9964-4264-96b0-dcd3ac05238a.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/formbook-malware-multiple/"
-    ]
-  },
-  {
-    "id": "da6f5d5eab3d3b7ee24e15a7",
-    "title": "I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it",
-    "link": "https://www.zdnet.com/article/dji-osmo-nano-review/",
-    "published": "2026-04-20T14:53:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it. What: I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it. When: 2026-04-20T14:53:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it. ماذا: I tested DJI's tiny 4K action camera for weeks - and now I'm ditching my GoPro for it. متى: 2026-04-20T14:53:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/867521086f1e2b6fb57c5e3f56fff3bc399b8589/2026/04/20/5fa88a84-1749-4a4a-a25a-3448db260540/img-3847.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dji-osmo-nano-review/"
-    ]
-  },
-  {
-    "id": "691f4032a6e416e9300383fa",
-    "title": "WhatsApp Leaks User Metadata to Attackers",
-    "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
-    "published": "2026-04-20T14:33:35+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: WhatsApp Leaks User Metadata to Attackers. What: WhatsApp Leaks User Metadata to Attackers. When: 2026-04-20T14:33:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: WhatsApp Leaks User Metadata to Attackers. ماذا: WhatsApp Leaks User Metadata to Attackers. متى: 2026-04-20T14:33:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2f4132144e85dfb/69e291d49ba34f4b11a4782a/WhatsApp-stLegat-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata"
-    ]
-  },
-  {
-    "id": "be0b708cf221ebe858ca51a9",
-    "title": "The backup myth that is putting businesses at risk",
-    "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
-    "published": "2026-04-20T14:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The backup myth that is putting businesses at risk. What: The backup myth that is putting businesses at risk. When: 2026-04-20T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The backup myth that is putting businesses at risk. ماذا: The backup myth that is putting businesses at risk. متى: 2026-04-20T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/04/Hacker_datacenter.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/"
-    ]
-  },
-  {
-    "id": "0666e1ed2ea308c9efb86d5c",
-    "title": "AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: I listened to both pairs, and this one wins",
-    "link": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
-    "published": "2026-04-20T14:00:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung's latest wireless earbuds are closing in on Apple's audio and ANC quality.. What: AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: I listened to both pairs, and this one wins. When: 2026-04-20T14:00:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung's latest wireless earbuds are closing in on Apple's audio and ANC quality.. ماذا: AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: I listened to both pairs, and this one wins. متى: 2026-04-20T14:00:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c8b3c0c2d3131746565997b2839197852745d2c4/2026/03/31/f7137f38-1891-425d-89c2-ef80597f8009/app3gb4p.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
-      "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro/",
-      "https://www.zdnet.com/article/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-3-i-listened-to-both-models-and-this-pair-wins/",
-      "https://www.zdnet.com/article/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-3-i-compared-both-models-and-this-pair-wins/",
-      "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-listened-to-both-and-this-pair-wins/",
-      "https://www.zdnet.com/article/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-3-i-compared-both-and-this-one-wins/"
-    ]
-  },
-  {
-    "id": "c74a7b343e3b729299adc922",
-    "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-    "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-    "published": "2026-04-20T13:41:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More. What: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More. When: 2026-04-20T13:41:00+00:00. How: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More Action: See Arabic action below.",
-    "summary_ar": "من: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More. ماذا: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More. متى: 2026-04-20T13:41:00+00:00. كيف: ⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html"
-    ]
-  },
-  {
-    "id": "7fc5d2e167eb6a7da930ef4c",
-    "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
-    "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
-    "published": "2026-04-20T13:33:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: British Scattered Spider hacker pleads guilty to crypto theft charges. What: British Scattered Spider hacker pleads guilty to crypto theft charges. When: 2026-04-20T13:33:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: British Scattered Spider hacker pleads guilty to crypto theft charges. ماذا: British Scattered Spider hacker pleads guilty to crypto theft charges. متى: 2026-04-20T13:33:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/20/Hacker-spider-large_blue.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/"
-    ]
-  },
-  {
-    "id": "f96c889957cb7826eb95936e",
-    "title": "I tried to wipe my digital footprint without paying for a data removal service - 5 free ways",
-    "link": "https://www.zdnet.com/article/free-ways-to-remove-your-data-without-a-service/",
-    "published": "2026-04-20T13:27:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried to wipe my digital footprint without paying for a data removal service - 5 free ways. What: I tried to wipe my digital footprint without paying for a data removal service - 5 free ways. When: 2026-04-20T13:27:00+00:00. How: It may take a while, but it's possible to remove your personal data from the internet via deletion tools and helpful government resources. Action: See Arabic action below.",
-    "summary_ar": "من: I tried to wipe my digital footprint without paying for a data removal service - 5 free ways. ماذا: I tried to wipe my digital footprint without paying for a data removal service - 5 free ways. متى: 2026-04-20T13:27:00+00:00. كيف: It may take a while, but it's possible to remove your personal data from the internet via deletion tools and helpful government resources.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b15a145beadd5fd662b2131c44a48969cfefe2e4/2026/03/18/b97a1e85-aab0-4f1e-a066-439915f0ba9a/dsc09856.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/free-ways-to-remove-your-data-without-a-service/"
     ]
   }
 ]
