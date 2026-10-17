@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "b3dabcb4d0c0986ad73ee47e",
+    "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+    "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+    "published": "2026-10-17T06:16:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.. What: Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants. When: 2026-10-17T06:16:46+00:00. How: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.. ماذا: Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants. متى: 2026-10-17T06:16:46+00:00. كيف: Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+    ]
+  },
+  {
     "id": "b140e0bf691ca1441f987bed",
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -145971,187 +145989,6 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/06_General_Overview_1920x900.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/ai-software-security-risks/"
-    ]
-  },
-  {
-    "id": "0d601229ff8a0d49ec004674",
-    "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-    "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-    "published": "2026-04-20T09:41:04+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Half of the 6 Million Internet-Facing FTP Servers Lack Encryption. What: Half of the 6 Million Internet-Facing FTP Servers Lack Encryption. When: 2026-04-20T09:41:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Half of the 6 Million Internet-Facing FTP Servers Lack Encryption. ماذا: Half of the 6 Million Internet-Facing FTP Servers Lack Encryption. متى: 2026-04-20T09:41:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/"
-    ]
-  },
-  {
-    "id": "7bd944487947de928d6a2f46",
-    "title": "Microsoft pulls service update causing Teams launch failures",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-    "published": "2026-04-20T09:40:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client.. What: Microsoft pulls service update causing Teams launch failures. When: 2026-04-20T09:40:20+00:00. How: [...] Microsoft pulls service update causing Teams launch failures Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client.. ماذا: Microsoft pulls service update causing Teams launch failures. متى: 2026-04-20T09:40:20+00:00. كيف: [...] Microsoft pulls service update causing Teams launch failures. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/13/Microsoft_Teams.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/"
-    ]
-  },
-  {
-    "id": "187af7aac61854e74b2c59d6",
-    "title": "NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience",
-    "link": "https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/",
-    "published": "2026-04-20T09:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience. What: NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience. When: 2026-04-20T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience. ماذا: NCSC Outlines Coordinated Plan to Boost NHS Cyber Resilience. متى: 2026-04-20T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a052b03d-d18b-4539-a0b8-77232a5dcfa2.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/ncsc-plan-boost-nhs-cyber/"
-    ]
-  },
-  {
-    "id": "e9b00e7ae42efd454989f435",
-    "title": "FakeWallet crypto stealer spreading through iOS apps in the App Store",
-    "link": "https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/",
-    "published": "2026-04-20T09:22:47+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: In March 2026, we uncovered more than twenty phishing apps in the Apple App Store masquerading as popular crypto wallets.. What: Promotional screenshots from apps posing as the official TokenPocket app During our investigation, we identified 26 phishing apps in the App Store mimicking the following major wallets: MetaMask Ledger Trust Wallet Coinbase TokenPocket imToken Bitpie We’ve reported all of these findings to Apple, and several of the malicious apps have already been pulled from the store.. When: 2026-04-20T09:22:47+00:00. How: In March 2026, we uncovered more than twenty phishing apps in the Apple App Store masquerading as popular crypto wallets. Action: See Arabic action below.",
-    "summary_ar": "من: In March 2026, we uncovered more than twenty phishing apps in the Apple App Store masquerading as popular crypto wallets.. ماذا: Promotional screenshots from apps posing as the official TokenPocket app During our investigation, we identified 26 phishing apps in the App Store mimicking the following major wallets: MetaMask Ledger Trust Wallet Coinbase TokenPocket imToken Bitpie We’ve reported all of these findings to Apple, and several of the malicious apps have already been pulled from the store.. متى: 2026-04-20T09:22:47+00:00. كيف: In March 2026, we uncovered more than twenty phishing apps in the Apple App Store masquerading as popular crypto wallets.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/04/20105354/10ad14ce5b0c948208d1485709760bde_f7c9c613-6eb1-4e66-991c-583d50e53865-1-scaled.jpg",
-    "sources": [
-      "https://securelist.com/fakewallet-cryptostealer-ios-app-store/119474/",
-      "https://securelist.com/fakewallet-cryptostealer-ios-app-store/119482/"
-    ]
-  },
-  {
-    "id": "ecfef723519a5ab9fd61667e",
-    "title": "Crypto Exchange Grinex Blames Western Spies for $13m Theft",
-    "link": "https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/",
-    "published": "2026-04-20T09:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Crypto Exchange Grinex Blames Western Spies for $13m Theft. What: Crypto Exchange Grinex Blames Western Spies for $13m Theft. When: 2026-04-20T09:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Crypto Exchange Grinex Blames Western Spies for $13m Theft. ماذا: Crypto Exchange Grinex Blames Western Spies for $13m Theft. متى: 2026-04-20T09:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/24a41386-d0fe-4b2b-8be4-0e28edb1dbbe.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/crypto-exchange-grinex-western/"
-    ]
-  },
-  {
-    "id": "4393c8405e765c97ce66bf15",
-    "title": "Next.js Creator Vercel Hacked",
-    "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-    "published": "2026-04-20T08:30:13+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Next.js Creator Vercel Hacked. What: Next.js Creator Vercel Hacked. When: 2026-04-20T08:30:13+00:00. How: Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million. Action: See Arabic action below.",
-    "summary_ar": "من: Next.js Creator Vercel Hacked. ماذا: Next.js Creator Vercel Hacked. متى: 2026-04-20T08:30:13+00:00. كيف: Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/next-js-creator-vercel-hacked/"
-    ]
-  },
-  {
-    "id": "73915cbbf5c4f5a07249e295",
-    "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-    "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-    "published": "2026-04-20T07:50:01+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers. What: Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers. When: 2026-04-20T07:50:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers. ماذا: Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers. متى: 2026-04-20T07:50:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/"
-    ]
-  },
-  {
-    "id": "60a2d8b38ee8c9dd6a954274",
-    "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-    "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-    "published": "2026-04-20T07:34:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems. What: Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems. When: 2026-04-20T07:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems. ماذا: Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems. متى: 2026-04-20T07:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html"
-    ]
-  },
-  {
-    "id": "b674d9132bace72fdce1c026",
-    "title": "Next.js developer Vercel warns of customer credential compromise",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/",
-    "published": "2026-04-20T07:31:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Next.js developer Vercel warns of customer credential compromise. What: Next.js developer Vercel warns of customer credential compromise. When: 2026-04-20T07:31:13+00:00. How: Blames outfit called Context.ai, which reckons an agentic OAuth tangle caused the incident Vercel, the company that created the open source Next.js web development framework, has a data leak that led to compromise of some customer credentials, and blamed an outfit called Context.ai for the mess.… Next.js developer Vercel warns of customer credential compromise Action: See Arabic action below.",
-    "summary_ar": "من: Next.js developer Vercel warns of customer credential compromise. ماذا: Next.js developer Vercel warns of customer credential compromise. متى: 2026-04-20T07:31:13+00:00. كيف: Blames outfit called Context.ai, which reckons an agentic OAuth tangle caused the incident Vercel, the company that created the open source Next.js web development framework, has a data leak that led to compromise of some customer credentials, and blamed an outfit called Context.ai for the mess.… Next.js developer Vercel warns of customer credential compromise. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/20/shutterstock_tangled_network.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/"
-    ]
-  },
-  {
-    "id": "20f5a73a06c3ec28a87312f5",
-    "title": "Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.",
-    "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/",
-    "published": "2026-04-20T07:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.. What: Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.. When: 2026-04-20T07:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.. ماذا: Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.. متى: 2026-04-20T07:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/"
     ]
   }
 ]
