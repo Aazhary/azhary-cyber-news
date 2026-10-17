@@ -36,6 +36,60 @@
     ]
   },
   {
+    "id": "ff874f9be1925cec12e16223",
+    "title": "Cybercrims go beyond stealing data to attack physical building systems",
+    "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+    "published": "2026-10-17T11:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cybercrims go beyond stealing data to attack physical building systems. What: Armis Labs found 73 percent of organizations own BAS that have been used in ransomware attacks, and this same percentage have known exploited vulnerabilities in at least one of their building automation systems.. When: 2026-10-17T11:30:00+00:00. How: And three years ago, cyberattacks hit Las Vegas casinos, causing slot machines to go dark, preventing payment kiosks and ATMs from spitting out cash, and locking guests out of their rooms when the electronic keys stopped working. Action: See Arabic action below.",
+    "summary_ar": "من: Cybercrims go beyond stealing data to attack physical building systems. ماذا: Armis Labs found 73 percent of organizations own BAS that have been used in ransomware attacks, and this same percentage have known exploited vulnerabilities in at least one of their building automation systems.. متى: 2026-10-17T11:30:00+00:00. كيف: And three years ago, cyberattacks hit Las Vegas casinos, causing slot machines to go dark, preventing payment kiosks and ATMs from spitting out cash, and locking guests out of their rooms when the electronic keys stopped working.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5303687.jpg?imageId=5303687&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677"
+    ]
+  },
+  {
+    "id": "1fae9cde44bf146fc8470e1b",
+    "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+    "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "published": "2026-10-17T11:11:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon. What: Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.. When: 2026-10-17T11:11:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon. ماذا: Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.. متى: 2026-10-17T11:11:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+    ]
+  },
+  {
+    "id": "2956b1e39e10f98f1f057b25",
+    "title": "Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel",
+    "link": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+    "published": "2026-10-17T11:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel. What: Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel. When: 2026-10-17T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel. ماذا: Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel. متى: 2026-10-17T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/01/spyware-predator.jpg",
+    "sources": [
+      "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/"
+    ]
+  },
+  {
     "id": "b3dabcb4d0c0986ad73ee47e",
     "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
     "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -2410,8 +2464,8 @@
     "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
     "published": "2026-10-14T14:22:49+00:00",
     "source": "krebsonsecurity.com",
-    "summary_en": "Who: U.K. Sanctions Cryptomus for RU Money Laundering. What: The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.. When: 2026-10-14T14:22:49+00:00. How: sanctions on Cryptomus are important because Canada’s sanctions against the platform were ultimately unenforceable and uncollectible. Action: See Arabic action below.",
-    "summary_ar": "من: U.K. Sanctions Cryptomus for RU Money Laundering. ماذا: The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.. متى: 2026-10-14T14:22:49+00:00. كيف: sanctions on Cryptomus are important because Canada’s sanctions against the platform were ultimately unenforceable and uncollectible.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: U.K. Sanctions Cryptomus for RU Money Laundering. What: The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.. When: 2026-10-14T14:22:49+00:00. How: sanctions on Cryptomus are important because Canada’s fine against the platform was ultimately unenforceable and uncollectible. Action: See Arabic action below.",
+    "summary_ar": "من: U.K. Sanctions Cryptomus for RU Money Laundering. ماذا: The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.. متى: 2026-10-14T14:22:49+00:00. كيف: sanctions on Cryptomus are important because Canada’s fine against the platform was ultimately unenforceable and uncollectible.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Data Breach",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -145789,206 +145843,6 @@
     "image": "https://www.zdnet.com/a/img/resize/b15a145beadd5fd662b2131c44a48969cfefe2e4/2026/03/18/b97a1e85-aab0-4f1e-a066-439915f0ba9a/dsc09856.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/free-ways-to-remove-your-data-without-a-service/"
-    ]
-  },
-  {
-    "id": "27e1d9c3f2f86b8bf1b19148",
-    "title": "Microsoft releases Windows Server update fix to fix its April update fixes",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/microsoft_releases_a_windows_server_update_fix/",
-    "published": "2026-04-20T13:15:06+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.… Microsoft releases Windows Server update fix to fix its April update fixes. What: Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.… Microsoft releases Windows Server update fix to fix its April update fixes. When: 2026-04-20T13:15:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.… Microsoft releases Windows Server update fix to fix its April update fixes. ماذا: Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.… Microsoft releases Windows Server update fix to fix its April update fixes. متى: 2026-04-20T13:15:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/05/04/shutterstock_angry_hands.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/20/microsoft_releases_a_windows_server_update_fix/"
-    ]
-  },
-  {
-    "id": "4a84df079691c7d24b7b50b5",
-    "title": "Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet",
-    "link": "https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/",
-    "published": "2026-04-20T13:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet. What: Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet. When: 2026-04-20T13:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet. ماذا: Attackers Exploit DVR Command Injection Flaw to Deploy  Mirai-Based Botnet. متى: 2026-04-20T13:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2024-3721"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/de76351c-3c91-4edb-a476-7d728316865c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/mirai-variant-dvr-flaw-iot-botnet/"
-    ]
-  },
-  {
-    "id": "b8333d54c659e186dd934066",
-    "title": "I've tested every major phone release in 2026 so far - and my buying advice is changing this year",
-    "link": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
-    "published": "2026-04-20T12:40:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Testing the latest Google, Samsung, and Motorola phones has only made me appreciate last year's models more.. What: I've tested every major phone release in 2026 so far - and my buying advice is changing this year. When: 2026-04-20T12:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Testing the latest Google, Samsung, and Motorola phones has only made me appreciate last year's models more.. ماذا: I've tested every major phone release in 2026 so far - and my buying advice is changing this year. متى: 2026-04-20T12:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/08fcd833a8be44a21855847b15efd4ec7a77c449/2025/08/07/723da07c-6d19-444a-a444-f1b754971639/img-20250807-222546.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/"
-    ]
-  },
-  {
-    "id": "315f102a5afe3d5de26b570f",
-    "title": "British Scattered Spider Hacker Pleads Guilty in the US",
-    "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
-    "published": "2026-04-20T12:21:16+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: British Scattered Spider Hacker Pleads Guilty in the US. What: British Scattered Spider Hacker Pleads Guilty in the US. When: 2026-04-20T12:21:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: British Scattered Spider Hacker Pleads Guilty in the US. ماذا: British Scattered Spider Hacker Pleads Guilty in the US. متى: 2026-04-20T12:21:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/"
-    ]
-  },
-  {
-    "id": "bda578827de71fafbc3a6521",
-    "title": "Microsoft tests Windows Explorer speed, performance improvements",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
-    "published": "2026-04-20T12:04:02+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance.. What: Microsoft tests Windows Explorer speed, performance improvements. When: 2026-04-20T12:04:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance.. ماذا: Microsoft tests Windows Explorer speed, performance improvements. متى: 2026-04-20T12:04:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/"
-    ]
-  },
-  {
-    "id": "2260c1e1848afa16667626ef",
-    "title": "Hackers Abuse QEMU for Defense Evasion",
-    "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
-    "published": "2026-04-20T11:35:29+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Hackers Abuse QEMU for Defense Evasion. What: Hackers Abuse QEMU for Defense Evasion. When: 2026-04-20T11:35:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Abuse QEMU for Defense Evasion. ماذا: Hackers Abuse QEMU for Defense Evasion. متى: 2026-04-20T11:35:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/"
-    ]
-  },
-  {
-    "id": "14deeb2aae25859409f5bc41",
-    "title": "Why Most AI Deployments Stall After the Demo",
-    "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-    "published": "2026-04-20T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Why Most AI Deployments Stall After the Demo. What: Why Most AI Deployments Stall After the Demo. When: 2026-04-20T11:30:00+00:00. How: But most AI initiatives don't fail because of bad technology. Action: See Arabic action below.",
-    "summary_ar": "من: Why Most AI Deployments Stall After the Demo. ماذا: Why Most AI Deployments Stall After the Demo. متى: 2026-04-20T11:30:00+00:00. كيف: But most AI initiatives don't fail because of bad technology.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html"
-    ]
-  },
-  {
-    "id": "b13fb58f8a14287e4fb32955",
-    "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
-    "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
-    "published": "2026-04-20T11:06:59+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Bluesky Disrupted by Sophisticated DDoS Attack. What: Bluesky Disrupted by Sophisticated DDoS Attack. When: 2026-04-20T11:06:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bluesky Disrupted by Sophisticated DDoS Attack. ماذا: Bluesky Disrupted by Sophisticated DDoS Attack. متى: 2026-04-20T11:06:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/"
-    ]
-  },
-  {
-    "id": "e07a51a691d38fa32e77193e",
-    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-    "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-    "published": "2026-04-20T10:42:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain. What: Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain. When: 2026-04-20T10:42:00+00:00. How: \"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain. ماذا: Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain. متى: 2026-04-20T10:42:00+00:00. كيف: \"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html"
-    ]
-  },
-  {
-    "id": "6e862ac71f601b498f767265",
-    "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
-    "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
-    "published": "2026-04-20T10:32:13+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House. What: Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House. When: 2026-04-20T10:32:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House. ماذا: Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House. متى: 2026-04-20T10:32:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/"
-    ]
-  },
-  {
-    "id": "413db37e23b7f1cdc0fecb81",
-    "title": "Fracturing Software Security With Frontier AI Models",
-    "link": "https://unit42.paloaltonetworks.com/ai-software-security-risks/",
-    "published": "2026-04-20T10:00:14+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Fracturing Software Security With Frontier AI Models. What: Fracturing Software Security With Frontier AI Models. When: 2026-04-20T10:00:14+00:00. How: They enable autonomous zero-day discovery and faster N-day patching. Action: See Arabic action below.",
-    "summary_ar": "من: Fracturing Software Security With Frontier AI Models. ماذا: Fracturing Software Security With Frontier AI Models. متى: 2026-04-20T10:00:14+00:00. كيف: They enable autonomous zero-day discovery and faster N-day patching.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/06_General_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/ai-software-security-risks/"
     ]
   }
 ]
