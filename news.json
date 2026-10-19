@@ -36,6 +36,26 @@
     ]
   },
   {
+    "id": "fb0d1859261d6b6fc066c70f",
+    "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+    "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+    "published": "2026-10-19T00:33:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Tsirkin in the Linux kernel stable tree, ‘If a packet with bad checksum metadata gets into the ipv4 stack, skb_checksum_help can corrupt the network header and cause a bunch of mischief.” Analysis from threat-finding firm SOC Prime details the mischief.. What: Paulos Yibelo, the researcher who in early October claimed to have found a guest-host escape flaw in Linux KVM, the hypervisor used by most hyperscale clouds, has named the flaw PwnEscape and warned it might represent a new way to attack Linux – on top of being a 9.3-rated critical nasty in its own right.. When: 2026-10-19T00:33:00+00:00. How: It is a scary bug because it makes a guest-host escape possible with a few malformed IPv4 packets. Action: See Arabic action below.",
+    "summary_ar": "من: Tsirkin in the Linux kernel stable tree, ‘If a packet with bad checksum metadata gets into the ipv4 stack, skb_checksum_help can corrupt the network header and cause a bunch of mischief.” Analysis from threat-finding firm SOC Prime details the mischief.. ماذا: Paulos Yibelo, the researcher who in early October claimed to have found a guest-host escape flaw in Linux KVM, the hypervisor used by most hyperscale clouds, has named the flaw PwnEscape and warned it might represent a new way to attack Linux – on top of being a 9.3-rated critical nasty in its own right.. متى: 2026-10-19T00:33:00+00:00. كيف: It is a scary bug because it makes a guest-host escape possible with a few malformed IPv4 packets.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-99999"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5265166.jpg?imageId=5265166&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+    ]
+  },
+  {
     "id": "74ff0a30f9fe582b5b178bec",
     "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
@@ -144231,60 +144251,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8bd81a51c226935b630aeec193af41d65a030317/2026/04/03/6a94b5f4-8a21-48d6-a016-a3d31f7aa52d/lg-g6-oled-vs-lg-g5-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/lg-g6-vs-lg-g5/"
-    ]
-  },
-  {
-    "id": "7760d8be3e3959904ce9a0c4",
-    "title": "Why TVs look bright and vibrant in stores, but dull in your living room - and how to fix it",
-    "link": "https://www.zdnet.com/article/how-to-disable-tv-store-mode/",
-    "published": "2026-04-22T01:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why TVs look bright and vibrant in stores, but dull in your living room - and how to fix it. What: Why TVs look bright and vibrant in stores, but dull in your living room - and how to fix it. When: 2026-04-22T01:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why TVs look bright and vibrant in stores, but dull in your living room - and how to fix it. ماذا: Why TVs look bright and vibrant in stores, but dull in your living room - and how to fix it. متى: 2026-04-22T01:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a007e445d77cfdc352b30d2281eaf7f4b68b5b18/2026/01/07/bae4d1cb-1e03-4863-8308-e793eee1e702/dsc09226.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-disable-tv-store-mode/"
-    ]
-  },
-  {
-    "id": "360cdbdd520f391fe748e47f",
-    "title": "I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too",
-    "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
-    "published": "2026-04-22T00:30:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too. What: I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too. When: 2026-04-22T00:30:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too. ماذا: I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too. متى: 2026-04-22T00:30:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6aa06d08c9adc1563efb4c82ead8a52fa3f01c2c/2026/04/21/b72fd4e8-6611-47fc-bf74-b25418e2d35e/fw13-productfamily-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/"
-    ]
-  },
-  {
-    "id": "ebb9a4a82d63020776d7ff3c",
-    "title": "I'm putting Motorola above Samsung when it comes to flip phones - and won't think twice",
-    "link": "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-heres-why/",
-    "published": "2026-04-22T00:00:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Here's why Motorola owns half the US foldable market, despite competition from Samsung and Google.. What: I'm putting Motorola above Samsung when it comes to flip phones - and won't think twice. When: 2026-04-22T00:00:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Here's why Motorola owns half the US foldable market, despite competition from Samsung and Google.. ماذا: I'm putting Motorola above Samsung when it comes to flip phones - and won't think twice. متى: 2026-04-22T00:00:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8d2a798f6ddb5c95af74d282f2f3a6ef50076906/2024/07/08/60e5211c-f6ea-4d29-97af-904a55de7de0/dsc01259.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-heres-why/"
     ]
   }
 ]
