@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "746693f60fe62165b001e08b",
+    "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+    "link": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+    "published": "2026-10-19T04:31:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cloud Backup is one of those tools and does what it says on the tin for data stored on-prem, in the cloud, or in SaaS services like M365 and Google Workspace.. What: ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU. When: 2026-10-19T04:31:00+00:00. How: On October 16, the company published an advisory revealing that on the 15th it “identified unauthorized access to application identities within the ConnectWise Cloud Backup environment.” “The service interruption affects partners and customers using Cloud Backup, formerly known as SkyKick. Action: See Arabic action below.",
+    "summary_ar": "من: Cloud Backup is one of those tools and does what it says on the tin for data stored on-prem, in the cloud, or in SaaS services like M365 and Google Workspace.. ماذا: ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU. متى: 2026-10-19T04:31:00+00:00. كيف: On October 16, the company published an advisory revealing that on the 15th it “identified unauthorized access to application identities within the ConnectWise Cloud Backup environment.” “The service interruption affects partners and customers using Cloud Backup, formerly known as SkyKick.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/262396.jpg?imageId=262396&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758"
+    ]
+  },
+  {
     "id": "fb0d1859261d6b6fc066c70f",
     "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
     "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
@@ -144179,78 +144197,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/"
-    ]
-  },
-  {
-    "id": "ecac81be3946aff79642aea0",
-    "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/",
-    "published": "2026-04-22T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud. What: CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud. When: 2026-04-22T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud. ماذا: CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud. متى: 2026-04-22T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/"
-    ]
-  },
-  {
-    "id": "9899e3ab057f4acb5cb8da39",
-    "title": "CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/",
-    "published": "2026-04-22T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection. What: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection. When: 2026-04-22T05:00:00+00:00. How: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection. ماذا: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection. متى: 2026-04-22T05:00:00+00:00. كيف: CrowdStrike Falcon Cloud Security Delivered 264% ROI Through Unified Cloud Protection. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-cloud-security-delivers-264-percent-roi-through-unified-cloud-protection/"
-    ]
-  },
-  {
-    "id": "bccb17403e389586fc7898ac",
-    "title": "Mythos found 271 Firefox flaws – but none a human couldn’t spot",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/",
-    "published": "2026-04-22T04:32:11+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Mozilla CTO says AI means developers finally have a chance to get on top of security The Mozilla has revealed it tested Anthropic’s bug-finding “Mythos” AI model and feels the results it experienced represent a watershed moment for software defenders.… Mythos found 271 Firefox flaws – but none a human couldn’t spot. What: Mythos found 271 Firefox flaws – but none a human couldn’t spot. When: 2026-04-22T04:32:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Mozilla CTO says AI means developers finally have a chance to get on top of security The Mozilla has revealed it tested Anthropic’s bug-finding “Mythos” AI model and feels the results it experienced represent a watershed moment for software defenders.… Mythos found 271 Firefox flaws – but none a human couldn’t spot. ماذا: Mythos found 271 Firefox flaws – but none a human couldn’t spot. متى: 2026-04-22T04:32:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/22/shutterstock_light_at_the_end_of_the_tunnel.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/"
-    ]
-  },
-  {
-    "id": "a5f4f2e5959f5e3acbe10f7b",
-    "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
-    "link": "https://www.zdnet.com/article/lg-g6-vs-lg-g5/",
-    "published": "2026-04-22T02:00:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice. What: LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice. When: 2026-04-22T02:00:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice. ماذا: LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice. متى: 2026-04-22T02:00:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8bd81a51c226935b630aeec193af41d65a030317/2026/04/03/6a94b5f4-8a21-48d6-a016-a3d31f7aa52d/lg-g6-oled-vs-lg-g5-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lg-g6-vs-lg-g5/"
     ]
   }
 ]
