@@ -36,6 +36,171 @@
     ]
   },
   {
+    "id": "6bd6585835c425692b6a5223",
+    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
+    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "published": "2026-10-19T22:35:42+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). What: We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.. When: 2026-10-19T22:35:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). ماذا: We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.. متى: 2026-10-19T22:35:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0257",
+      "cve-2026-0257"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+    ]
+  },
+  {
+    "id": "5a8d0413be6f3aca628650df",
+    "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+    "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+    "published": "2026-10-19T21:49:48+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Nikkei discloses third data breach in a month, 1.8M records exposed. What: disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records.. When: 2026-10-19T21:49:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nikkei discloses third data breach in a month, 1.8M records exposed. ماذا: disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records.. متى: 2026-10-19T21:49:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/19/nikkei.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/"
+    ]
+  },
+  {
+    "id": "a4cd23325612accf24618e05",
+    "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+    "published": "2026-10-19T21:24:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: WordPress SEO plugin Rank Math compromised to backdoor websites. What: WordPress SEO plugin Rank Math compromised to backdoor websites. When: 2026-10-19T21:24:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WordPress SEO plugin Rank Math compromised to backdoor websites. ماذا: WordPress SEO plugin Rank Math compromised to backdoor websites. متى: 2026-10-19T21:24:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/"
+    ]
+  },
+  {
+    "id": "cd2448e33b82aa7d0f98c524",
+    "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+    "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+    "published": "2026-10-19T21:13:41+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.. What: Researchers Infiltrate Microsoft Tech Support Scam Operation. When: 2026-10-19T21:13:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.. ماذا: Researchers Infiltrate Microsoft Tech Support Scam Operation. متى: 2026-10-19T21:13:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation"
+    ]
+  },
+  {
+    "id": "8c0757d8205e262e888c198c",
+    "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+    "link": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+    "published": "2026-10-19T20:26:21+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline. What: The multinational chain originally disclosed the incident on October 12.. When: 2026-10-19T20:26:21+00:00. How: Belgian e-commerce is fully operational, and e-commerce services at Ahold Delhaize’s American brands (Food Lion, Giant Food, Martin’s, Hannaford, and Stop & Shop) are expected to work “in the coming days.” The Etos and Gall & Gall websites are also up and running, along with the “majority of websites and apps” across brands serving central and southeastern Europe. Action: See Arabic action below.",
+    "summary_ar": "من: Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline. ماذا: The multinational chain originally disclosed the incident on October 12.. متى: 2026-10-19T20:26:21+00:00. كيف: Belgian e-commerce is fully operational, and e-commerce services at Ahold Delhaize’s American brands (Food Lion, Giant Food, Martin’s, Hannaford, and Stop & Shop) are expected to work “in the coming days.” The Etos and Gall & Gall websites are also up and running, along with the “majority of websites and apps” across brands serving central and southeastern Europe.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/249284.jpg?imageId=249284&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970"
+    ]
+  },
+  {
+    "id": "553c25ef77944fe278ee6760",
+    "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+    "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+    "published": "2026-10-19T19:55:01+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery. What: 'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery. When: 2026-10-19T19:55:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery. ماذا: 'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery. متى: 2026-10-19T19:55:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery"
+    ]
+  },
+  {
+    "id": "ff25b976bdfa1d9ff1dad11e",
+    "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+    "published": "2026-10-19T19:40:58+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers hijack AOMEI update servers to secretly spread malware. What: Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...] Hackers hijack AOMEI update servers to secretly spread malware. When: 2026-10-19T19:40:58+00:00. How: Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...] Hackers hijack AOMEI update servers to secretly spread malware Action: See Arabic action below.",
+    "summary_ar": "من: Hackers hijack AOMEI update servers to secretly spread malware. ماذا: Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...] Hackers hijack AOMEI update servers to secretly spread malware. متى: 2026-10-19T19:40:58+00:00. كيف: Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...] Hackers hijack AOMEI update servers to secretly spread malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/19/backupper-supply-chain-attack.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/"
+    ]
+  },
+  {
+    "id": "de7b0df69eea7ab9f7f7b069",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "published": "2026-10-19T19:39:19+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: PSA: Patch your Plex media server before someone hacks it. What: Recently fixed vulnerabilities in the Plex Media Server are under active exploitation in attacks that, when successful, install malware, including cryptominers and residential proxy apps, a researcher said.. When: 2026-10-19T19:39:19+00:00. How: The other payload is residential proxy software, which allows people to anonymize their Internet activity (much of it illegal) by connecting to the infected box and then using it to send the user’s traffic to a final destination. Action: See Arabic action below.",
+    "summary_ar": "من: PSA: Patch your Plex media server before someone hacks it. ماذا: Recently fixed vulnerabilities in the Plex Media Server are under active exploitation in attacks that, when successful, install malware, including cryptominers and residential proxy apps, a researcher said.. متى: 2026-10-19T19:39:19+00:00. كيف: The other payload is residential proxy software, which allows people to anonymize their Internet activity (much of it illegal) by connecting to the infected box and then using it to send the user’s traffic to a final destination.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
+    ]
+  },
+  {
+    "id": "3e1278093e934b6a8a83ff1d",
+    "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+    "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+    "published": "2026-10-19T19:19:33+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.. What: ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs. When: 2026-10-19T19:19:33+00:00. How: Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.. ماذا: ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs. متى: 2026-10-19T19:19:33+00:00. كيف: Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps"
+    ]
+  },
+  {
     "id": "06accfcb31a1d0808596eb41",
     "title": "Bullhorn takes staffing platform offline to contain cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
@@ -104488,27 +104653,6 @@
     ]
   },
   {
-    "id": "6bd6585835c425692b6a5223",
-    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
-    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-    "published": "2026-06-09T14:05:42+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257. What: We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.. When: 2026-06-09T14:05:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257. ماذا: We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257.. متى: 2026-06-09T14:05:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-0257",
-      "cve-2026-0257"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
-    ]
-  },
-  {
     "id": "4e009186064b7614708d6660",
     "title": "Critical phpBB Flaw Lets Attackers Hijack Any Account with One Request",
     "link": "https://www.infosecurity-magazine.com/news/phpbb-authentication-bypass/",
@@ -143651,172 +143795,6 @@
     "image": "https://www.zdnet.com/a/img/resize/dbb7c512f92466d039959895b1d4ce87b875e819/2026/03/04/bd78d2c1-4806-4ea4-95d8-24e00f613314/dsc09684.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/macbook-neo-for-back-to-school-buy-now/"
-    ]
-  },
-  {
-    "id": "b6c910018e9e36ef9da24905",
-    "title": "Another npm supply chain worm is tearing through dev environments",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/another_npm_supply_chain_attack/",
-    "published": "2026-04-22T22:34:59+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Another npm supply chain worm is tearing through dev environments. What: Another npm supply chain worm is tearing through dev environments. When: 2026-04-22T22:34:59+00:00. How: Plus, the payload references 'TeamPCP/LiteLLM method' Yet another npm supply-chain attack is worming its way through compromised packages, stealing secrets and sensitive data as it moves through developers' environments, and it shares significant overlap with the open source infections attributed to TeamPCP last month.… Another npm supply chain worm is tearing through dev environments Action: See Arabic action below.",
-    "summary_ar": "من: Another npm supply chain worm is tearing through dev environments. ماذا: Another npm supply chain worm is tearing through dev environments. متى: 2026-04-22T22:34:59+00:00. كيف: Plus, the payload references 'TeamPCP/LiteLLM method' Yet another npm supply-chain attack is worming its way through compromised packages, stealing secrets and sensitive data as it moves through developers' environments, and it shares significant overlap with the open source infections attributed to TeamPCP last month.… Another npm supply chain worm is tearing through dev environments. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/07/14/heretics_of_dune.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/22/another_npm_supply_chain_attack/"
-    ]
-  },
-  {
-    "id": "c76a31b509695f00822fd6f1",
-    "title": "Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage",
-    "link": "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/",
-    "published": "2026-04-22T22:07:54+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage. What: Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage. When: 2026-04-22T22:07:54+00:00. How: That may be particularly confusing for shipping companies because of how Iran has asserted control over the Strait of Hormuz—a vital shipping channel and maritime chokepoint that normally allows Persian Gulf countries to provide one-fifth of the world’s oil and liquefied natural gas supply. Action: See Arabic action below.",
-    "summary_ar": "من: Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage. ماذا: Crypto scam lures ships into Strait of Hormuz, falsely promising safe passage. متى: 2026-04-22T22:07:54+00:00. كيف: That may be particularly confusing for shipping companies because of how Iran has asserted control over the Strait of Hormuz—a vital shipping channel and maritime chokepoint that normally allows Persian Gulf countries to provide one-fifth of the world’s oil and liquefied natural gas supply.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Tanker-Strait-of-Hormuz-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/crypto-scam-lures-ships-into-strait-of-hormuz-falsely-promising-safe-passage/"
-    ]
-  },
-  {
-    "id": "ca33a352be0b9df6fb469919",
-    "title": "Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/",
-    "published": "2026-04-22T21:39:44+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger. What: Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger. When: 2026-04-22T21:39:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger. ماذا: Anthropic's super-scary bug hunting model Mythos is shaping up to be a nothingburger. متى: 2026-04-22T21:39:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/22/nothingburger.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/22/anthropic_mythos_hype_nothingburger/"
-    ]
-  },
-  {
-    "id": "80e8f79de37ec8eb2ee457ab",
-    "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-    "published": "2026-04-22T20:58:58+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. What: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. When: 2026-04-22T20:58:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. ماذا: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. متى: 2026-04-22T20:58:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/10/apple-iphone.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/"
-    ]
-  },
-  {
-    "id": "80e8f79de37ec8eb2ee457ab",
-    "title": "Apple fixes iOS bug that retained deleted notification data",
-    "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-    "published": "2026-04-22T20:58:58+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. What: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. When: 2026-04-22T20:58:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. ماذا: Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device.. متى: 2026-04-22T20:58:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/06/10/apple-iphone.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/"
-    ]
-  },
-  {
-    "id": "7b6b50ea38ccef06e9422d1c",
-    "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
-    "link": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
-    "published": "2026-04-22T20:51:55+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'The Gentlemen' Rapidly Rises to Ransomware Prominence. What: 'The Gentlemen' Rapidly Rises to Ransomware Prominence. When: 2026-04-22T20:51:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'The Gentlemen' Rapidly Rises to Ransomware Prominence. ماذا: 'The Gentlemen' Rapidly Rises to Ransomware Prominence. متى: 2026-04-22T20:51:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dfe08179358f99d/69e92147a425f3fc877c3bd4/Gentlemen_Sign_David_Morphew_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware"
-    ]
-  },
-  {
-    "id": "8b7fcf90a3d5d44fbc46f9a5",
-    "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-    "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-    "published": "2026-04-22T20:04:46+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New Mirai campaign exploits RCE flaw in EoL D-Link routers. What: New Mirai campaign exploits RCE flaw in EoL D-Link routers. When: 2026-04-22T20:04:46+00:00. How: [...] New Mirai campaign exploits RCE flaw in EoL D-Link routers Action: See Arabic action below.",
-    "summary_ar": "من: New Mirai campaign exploits RCE flaw in EoL D-Link routers. ماذا: New Mirai campaign exploits RCE flaw in EoL D-Link routers. متى: 2026-04-22T20:04:46+00:00. كيف: [...] New Mirai campaign exploits RCE flaw in EoL D-Link routers. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-29635"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/22/D-Link.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/"
-    ]
-  },
-  {
-    "id": "c63b7c79e4f1ce5701b9fef0",
-    "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
-    "link": "https://www.zdnet.com/article/bloom-card-review/",
-    "published": "2026-04-22T19:38:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time. What: Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time. When: 2026-04-22T19:38:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time. ماذا: Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time. متى: 2026-04-22T19:38:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3ec63c60550c8fa0317035f7cb4b864daa5dc8f6/2026/04/22/b0b1e52f-500a-4e11-a852-ebc07a73cb1c/bloom-vs-brick.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bloom-card-review/"
-    ]
-  },
-  {
-    "id": "040e47e3b1344165c2bebf4e",
-    "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-    "link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
-    "published": "2026-04-22T19:32:56+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Microsoft released an emergency patch for its ASP.NET Core to fix a high-severity vulnerability that allows unauthenticated attackers to gain SYSTEM privileges on devices that use the Web development framework to run Linux or macOS apps.. What: Microsoft released an emergency patch for its ASP.NET Core to fix a high-severity vulnerability that allows unauthenticated attackers to gain SYSTEM privileges on devices that use the Web development framework to run Linux or macOS apps.. When: 2026-04-22T19:32:56+00:00. How: The software maker said Tuesday evening that the vulnerability, tracked as CVE-2026-40372, affects versions 10.0.0 through 10.0.6 of the Microsoft.AspNetCore.DataProtection NuGet, a package that’s part of the framework. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft released an emergency patch for its ASP.NET Core to fix a high-severity vulnerability that allows unauthenticated attackers to gain SYSTEM privileges on devices that use the Web development framework to run Linux or macOS apps.. ماذا: Microsoft released an emergency patch for its ASP.NET Core to fix a high-severity vulnerability that allows unauthenticated attackers to gain SYSTEM privileges on devices that use the Web development framework to run Linux or macOS apps.. متى: 2026-04-22T19:32:56+00:00. كيف: The software maker said Tuesday evening that the vulnerability, tracked as CVE-2026-40372, affects versions 10.0.0 through 10.0.6 of the Microsoft.AspNetCore.DataProtection NuGet, a package that’s part of the framework.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-40372"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
     ]
   }
 ]
