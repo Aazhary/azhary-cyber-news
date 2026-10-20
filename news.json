@@ -36,6 +36,117 @@
     ]
   },
   {
+    "id": "cd17d628776a5ae24b35358f",
+    "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+    "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+    "published": "2026-10-20T19:47:35+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: The Internet goes on high alert after discovery of 8 compromised TLS certs. What: The Internet goes on high alert after discovery of 8 compromised TLS certs. When: 2026-10-20T19:47:35+00:00. How: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet-of-things devices. Action: See Arabic action below.",
+    "summary_ar": "من: The Internet goes on high alert after discovery of 8 compromised TLS certs. ماذا: The Internet goes on high alert after discovery of 8 compromised TLS certs. متى: 2026-10-20T19:47:35+00:00. كيف: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet-of-things devices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+    ]
+  },
+  {
+    "id": "aa2f36ffa3be9ae9d81801f5",
+    "title": "Zeabur shutting down after second security breach in two months",
+    "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+    "published": "2026-10-20T19:33:02+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Zeabur shutting down after second security breach in two months. What: Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts.. When: 2026-10-20T19:33:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Zeabur shutting down after second security breach in two months. ماذا: Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts.. متى: 2026-10-20T19:33:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/zeabur.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/"
+    ]
+  },
+  {
+    "id": "2364e99b6bb5e93b126cdb2f",
+    "title": "Ex-OpenAI Engineer Held Over Secret Recorder, Saudi Ties",
+    "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+    "published": "2026-10-20T19:16:49+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.. What: A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.. When: 2026-10-20T19:16:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.. ماذا: A judge ordered that Abdulrahman Alfozan be detained after he was arrested earlier this month for allegedly bugging an OpenAI conference room.. متى: 2026-10-20T19:16:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_Śmigla-GettyImages-1338436529.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties"
+    ]
+  },
+  {
+    "id": "2bcaf37a740b174ea5714202",
+    "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+    "published": "2026-10-20T18:11:03+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages.. What: OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code. When: 2026-10-20T18:11:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages.. ماذا: OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code. متى: 2026-10-20T18:11:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/13/openai-listening-device.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/"
+    ]
+  },
+  {
+    "id": "7e6b42f8e84a6022d9d56f09",
+    "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+    "published": "2026-10-20T17:33:26+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Multiple ransomware groups, including Qilin and Inc, have been exploiting a high-severity authentication bypass bug in Palo Alto Networks' PAN-OS, with Unit 42 investigating attacks since early June across numerous industries, such as finance, healthcare, and manufacturing.. What: The security vendor first disclosed and patched the bug on May 13 and initially assigned it a medium-severity rating, saying it was aware of attempts to exploit it but had not observed any malicious exploitation.. When: 2026-10-20T17:33:26+00:00. How: After gaining initial access, the criminals move laterally across the networks using Remote Desktop Protocol and Server Message Block (SMB), dropping additional malware for credential harvesting and data theft before ultimately deploying ransomware, Piazza warned. Action: See Arabic action below.",
+    "summary_ar": "من: Multiple ransomware groups, including Qilin and Inc, have been exploiting a high-severity authentication bypass bug in Palo Alto Networks' PAN-OS, with Unit 42 investigating attacks since early June across numerous industries, such as finance, healthcare, and manufacturing.. ماذا: The security vendor first disclosed and patched the bug on May 13 and initially assigned it a medium-severity rating, saying it was aware of attempts to exploit it but had not observed any malicious exploitation.. متى: 2026-10-20T17:33:26+00:00. كيف: After gaining initial access, the criminals move laterally across the networks using Remote Desktop Protocol and Server Message Block (SMB), dropping additional malware for credential harvesting and data theft before ultimately deploying ransomware, Piazza warned.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2023-27532",
+      "CVE-2026-0257"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304250.jpg?imageId=5304250&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226"
+    ]
+  },
+  {
+    "id": "1530955429aa55bf5dca7f0e",
+    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+    "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+    "published": "2026-10-20T17:09:53+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.. What: A researcher reported the Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software. When: 2026-10-20T17:09:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.. ماذا: A researcher reported the Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software. متى: 2026-10-20T17:09:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
+    ]
+  },
+  {
     "id": "4f1699f96a5adad2e5b45da0",
     "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
     "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
@@ -387,8 +498,8 @@
     "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "published": "2026-10-20T12:33:13+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. What: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. When: 2026-10-20T12:33:13+00:00. How: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday. Action: See Arabic action below.",
-    "summary_ar": "من: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. ماذا: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. متى: 2026-10-20T12:33:13+00:00. كيف: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday.. What: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday.. When: 2026-10-20T12:33:13+00:00. How: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday. Action: See Arabic action below.",
+    "summary_ar": "من: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday.. ماذا: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday.. متى: 2026-10-20T12:33:13+00:00. كيف: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -834,6 +945,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"
+    ]
+  },
+  {
+    "id": "a57f0ebaa66a1a9747f28b4a",
+    "title": "CrowdStrike Achieves NCSC CIR Enhanced Level Assurance",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/",
+    "published": "2026-10-20T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Achieves NCSC CIR Enhanced Level Assurance. What: CrowdStrike Achieves NCSC CIR Enhanced Level Assurance. When: 2026-10-20T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Achieves NCSC CIR Enhanced Level Assurance. ماذا: CrowdStrike Achieves NCSC CIR Enhanced Level Assurance. متى: 2026-10-20T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-achieves-uk-ncsc-cir-enhanced-level-assurance/"
     ]
   },
   {
@@ -6032,24 +6161,6 @@
     ]
   },
   {
-    "id": "b79fbc206a1a3030a9bf5bc4",
-    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
-    "published": "2026-10-13T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. What: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. When: 2026-10-13T05:00:00+00:00. How: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Action: See Arabic action below.",
-    "summary_ar": "من: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. ماذا: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. متى: 2026-10-13T05:00:00+00:00. كيف: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
-    ]
-  },
-  {
     "id": "15f1ad45be3bfe100624c886",
     "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
     "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
@@ -6065,6 +6176,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
+    ]
+  },
+  {
+    "id": "b79fbc206a1a3030a9bf5bc4",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. What: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. When: 2026-10-13T05:00:00+00:00. How: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Action: See Arabic action below.",
+    "summary_ar": "من: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. ماذا: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. متى: 2026-10-13T05:00:00+00:00. كيف: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
     ]
   },
   {
@@ -143584,78 +143713,6 @@
     "image": "https://www.zdnet.com/a/img/resize/cb90ae748d6a4986ecde22a882ae761a20b38f2f/2024/05/01/ac604bec-7d0f-4cd2-b2c8-2e4287ebecdb/screenshot-2024-05-01-at-1-26-41pm.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/renpho-eye-massager-deal/"
-    ]
-  },
-  {
-    "id": "58a34b5f4d6b032f34050f29",
-    "title": "Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/china_covert_networks/",
-    "published": "2026-04-23T19:25:11+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn. What: Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn. When: 2026-04-23T19:25:11+00:00. How: All the Typhoons, everywhere, all at once A majority of China-linked threat actors are using compromised routers and IoT devices worldwide, turning this gear into proxy networks to carry out further intrusions, steal sensitive data, and disrupt victim organizations’ operations, according to a joint 10-country advisory.… Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn Action: See Arabic action below.",
-    "summary_ar": "من: Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn. ماذا: Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn. متى: 2026-04-23T19:25:11+00:00. كيف: All the Typhoons, everywhere, all at once A majority of China-linked threat actors are using compromised routers and IoT devices worldwide, turning this gear into proxy networks to carry out further intrusions, steal sensitive data, and disrupt victim organizations’ operations, according to a joint 10-country advisory.… Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/03/22/china_data_shutterstock.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/china_covert_networks/"
-    ]
-  },
-  {
-    "id": "eae8a2bd9482ae2436ec1ac2",
-    "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-    "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-    "published": "2026-04-23T18:59:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Trigona ransomware attacks use custom exfiltration tool to steal data. What: Trigona ransomware attacks use custom exfiltration tool to steal data. When: 2026-04-23T18:59:39+00:00. How: Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. Action: See Arabic action below.",
-    "summary_ar": "من: Trigona ransomware attacks use custom exfiltration tool to steal data. ماذا: Trigona ransomware attacks use custom exfiltration tool to steal data. متى: 2026-04-23T18:59:39+00:00. كيف: Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/11/29/trigona-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/"
-    ]
-  },
-  {
-    "id": "28630c22de5482e445742f3d",
-    "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-    "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-    "published": "2026-04-23T18:16:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.. What: UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware. When: 2026-04-23T18:16:00+00:00. How: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. Action: See Arabic action below.",
-    "summary_ar": "من: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.. ماذا: UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware. متى: 2026-04-23T18:16:00+00:00. كيف: A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html"
-    ]
-  },
-  {
-    "id": "130d4c3baca3931559b9ae39",
-    "title": "Watch out, Whoop: I'd switch to Google's new Fitbit tracker if these features are true",
-    "link": "https://www.zdnet.com/article/google-rumored-fitbit-air-whoop-dupe-wishlist/",
-    "published": "2026-04-23T18:04:49+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Watch out, Whoop: I'd switch to Google's new Fitbit tracker if these features are true. What: Watch out, Whoop: I'd switch to Google's new Fitbit tracker if these features are true. When: 2026-04-23T18:04:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Watch out, Whoop: I'd switch to Google's new Fitbit tracker if these features are true. ماذا: Watch out, Whoop: I'd switch to Google's new Fitbit tracker if these features are true. متى: 2026-04-23T18:04:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e7d3094f0aa2c80639159efc8b45453b175d45a8/2025/06/23/c1b073ab-3a3a-490e-b11e-6347a0c4b6c9/dsc03784.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-rumored-fitbit-air-whoop-dupe-wishlist/"
     ]
   }
 ]
