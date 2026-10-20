@@ -36,13 +36,124 @@
     ]
   },
   {
+    "id": "5a3c7b1661d3653e0d736870",
+    "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
+    "link": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+    "published": "2026-10-20T22:57:44+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “These keys could allow attackers to issue fraudulent HTTPS certificates for websites they do not control.” Or as Cloudflare put it, “an attacker can create a forged certificate for any domain and use it to impersonate servers to intercept or modify traffic.” Jackson has since elaborated on the incident and the response, which has thankfully seen Mozilla, Chrome, and Apple remediate the issue so their browsers won’t rely on the certificates – at least after users install an update.. What: Tragically simple private keys used by a certification authority based in India have been compromised, meaning the 60-million-plus certs it has issued can’t be trusted and necessitating a massive clean-up job.. When: 2026-10-20T22:57:44+00:00. How: “These keys could allow attackers to issue fraudulent HTTPS certificates for websites they do not control.” Or as Cloudflare put it, “an attacker can create a forged certificate for any domain and use it to impersonate servers to intercept or modify traffic.” Jackson has since elaborated on the incident and the response, which has thankfully seen Mozilla, Chrome, and Apple remediate the issue so their browsers won’t rely on the certificates – at least after users install an update. Action: See Arabic action below.",
+    "summary_ar": "من: “These keys could allow attackers to issue fraudulent HTTPS certificates for websites they do not control.” Or as Cloudflare put it, “an attacker can create a forged certificate for any domain and use it to impersonate servers to intercept or modify traffic.” Jackson has since elaborated on the incident and the response, which has thankfully seen Mozilla, Chrome, and Apple remediate the issue so their browsers won’t rely on the certificates – at least after users install an update.. ماذا: Tragically simple private keys used by a certification authority based in India have been compromised, meaning the 60-million-plus certs it has issued can’t be trusted and necessitating a massive clean-up job.. متى: 2026-10-20T22:57:44+00:00. كيف: “These keys could allow attackers to issue fraudulent HTTPS certificates for websites they do not control.” Or as Cloudflare put it, “an attacker can create a forged certificate for any domain and use it to impersonate servers to intercept or modify traffic.” Jackson has since elaborated on the incident and the response, which has thankfully seen Mozilla, Chrome, and Apple remediate the issue so their browsers won’t rely on the certificates – at least after users install an update.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304329.jpg?imageId=5304329&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
+    ]
+  },
+  {
+    "id": "f10b70c93d5ae817dd89fc69",
+    "title": "Auto tech startup claims it traced hack attempt back to rival's IP address",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+    "published": "2026-10-20T22:00:46+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Schäfer uses that username on GitHub.. What: Auto tech startup claims it traced hack attempt back to rival's IP address. When: 2026-10-20T22:00:46+00:00. How: They put it in that channel because the model requires the use of Comma.ai's camera hardware, which is built for self-driving vehicles. Action: See Arabic action below.",
+    "summary_ar": "من: Schäfer uses that username on GitHub.. ماذا: Auto tech startup claims it traced hack attempt back to rival's IP address. متى: 2026-10-20T22:00:46+00:00. كيف: They put it in that channel because the model requires the use of Comma.ai's camera hardware, which is built for self-driving vehicles.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304292.jpg?imageId=5304292&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281"
+    ]
+  },
+  {
+    "id": "532771c4fc27cc06fe7d657e",
+    "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+    "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+    "published": "2026-10-20T21:45:47+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.. What: Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys. When: 2026-10-20T21:45:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.. ماذا: Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys. متى: 2026-10-20T21:45:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9204db2f2ffca6fe/6ad7d457e5c2f8b0773c4a30/ca_Inkoly_shutterstock.jpf.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys"
+    ]
+  },
+  {
+    "id": "05dd90fd0f45aeea58e41e32",
+    "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+    "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+    "published": "2026-10-20T20:56:43+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.. What: The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.. When: 2026-10-20T20:56:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.. ماذا: The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.. متى: 2026-10-20T20:56:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+    ]
+  },
+  {
+    "id": "6bd6585835c425692b6a5223",
+    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+    "published": "2026-10-20T20:30:42+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). What: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). When: 2026-10-20T20:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). ماذا: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). متى: 2026-10-20T20:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0257",
+      "cve-2026-0257"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+    ]
+  },
+  {
+    "id": "d1773e8d99054e8c7625ec33",
+    "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+    "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+    "published": "2026-10-20T20:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.. What: Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly). When: 2026-10-20T20:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.. ماذا: Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly). متى: 2026-10-20T20:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg",
+    "sources": [
+      "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/"
+    ]
+  },
+  {
     "id": "cd17d628776a5ae24b35358f",
     "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
     "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
     "published": "2026-10-20T19:47:35+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: The Internet goes on high alert after discovery of 8 compromised TLS certs. What: The Internet goes on high alert after discovery of 8 compromised TLS certs. When: 2026-10-20T19:47:35+00:00. How: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet-of-things devices. Action: See Arabic action below.",
-    "summary_ar": "من: The Internet goes on high alert after discovery of 8 compromised TLS certs. ماذا: The Internet goes on high alert after discovery of 8 compromised TLS certs. متى: 2026-10-20T19:47:35+00:00. كيف: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet-of-things devices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: The Internet goes on high alert after discovery of 8 compromised TLS certs. What: The Internet goes on high alert after discovery of 8 compromised TLS certs. When: 2026-10-20T19:47:35+00:00. How: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet of Things devices. Action: See Arabic action below.",
+    "summary_ar": "من: The Internet goes on high alert after discovery of 8 compromised TLS certs. ماذا: The Internet goes on high alert after discovery of 8 compromised TLS certs. متى: 2026-10-20T19:47:35+00:00. كيف: The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet of Things devices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -69,6 +180,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/zeabur.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/"
+    ]
+  },
+  {
+    "id": "2364e99b6bb5e93b126cdb2f",
+    "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+    "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+    "published": "2026-10-20T19:16:49+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.. What: Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ. When: 2026-10-20T19:16:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.. ماذا: Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ. متى: 2026-10-20T19:16:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_Śmigla-GettyImages-1338436529.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties"
     ]
   },
   {
@@ -1017,27 +1146,6 @@
     "image": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010"
-    ]
-  },
-  {
-    "id": "6bd6585835c425692b6a5223",
-    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
-    "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-    "published": "2026-10-19T22:35:42+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). What: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). When: 2026-10-19T22:35:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). ماذا: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19). متى: 2026-10-19T22:35:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-0257",
-      "cve-2026-0257"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
     ]
   },
   {
@@ -143551,168 +143659,6 @@
     "image": "https://www.zdnet.com/a/img/resize/8bdc6becdd3f139506514ea2d26aac13af89677c/2026/04/23/4af5add2-e2d5-43a3-b7cc-e858b01d7202/gettyimages-1376579671.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-indirect-prompt-injection-attacks-on-ai-work-and-6-ways-to-shut-them-down/"
-    ]
-  },
-  {
-    "id": "c471aafd6e6831acbd7b346e",
-    "title": "DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint",
-    "link": "https://www.zdnet.com/article/delete-me-review/",
-    "published": "2026-04-23T23:00:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint. What: DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint. When: 2026-04-23T23:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint. ماذا: DeleteMe review: A (mostly) hands-off service for cleaning up your digital footprint. متى: 2026-04-23T23:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/889f65a98213b4dbd32f79c505e83b9d08318c6c/2026/03/18/bdfd0709-c65f-4fed-ae3b-ba7693009f3f/dsc09852.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/delete-me-review/"
-    ]
-  },
-  {
-    "id": "9746a622aa3954c63cf3af35",
-    "title": "Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/",
-    "published": "2026-04-23T21:38:27+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'. What: Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'. When: 2026-04-23T21:38:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'. ماذا: Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'. متى: 2026-04-23T21:38:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/16/confused_developer.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/"
-    ]
-  },
-  {
-    "id": "0d148f71e399e436d586097b",
-    "title": "AI threats in the wild: The current state of prompt injections on the web",
-    "link": "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html",
-    "published": "2026-04-23T21:38:00.001000+00:00",
-    "source": "googleblog.com",
-    "summary_en": "Who: Posted by Thomas Brunner, Yu-Han Liu, Moni Pande At Google, our Threat Intelligence teams are dedicated to staying ahead of real-world adversarial activity, proactively monitoring emerging threats before they can impact users.. What: AI threats in the wild: The current state of prompt injections on the web. When: 2026-04-23T21:38:00.001000+00:00. How: Proactive monitoring at Google The landscape of IPI on the web There are many channels through which attackers might try to send prompt injections. Action: See Arabic action below.",
-    "summary_ar": "من: Posted by Thomas Brunner, Yu-Han Liu, Moni Pande At Google, our Threat Intelligence teams are dedicated to staying ahead of real-world adversarial activity, proactively monitoring emerging threats before they can impact users.. ماذا: AI threats in the wild: The current state of prompt injections on the web. متى: 2026-04-23T21:38:00.001000+00:00. كيف: Proactive monitoring at Google The landscape of IPI on the web There are many channels through which attackers might try to send prompt injections.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20261009-1701",
-    "sources": [
-      "http://security.googleblog.com/2026/04/ai-threats-in-wild-current-state-of.html"
-    ]
-  },
-  {
-    "id": "72edd3cce26e1aaf2594d012",
-    "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-    "published": "2026-04-23T21:33:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploit file upload bug in Breeze Cache WordPress plugin. What: Hackers exploit file upload bug in Breeze Cache WordPress plugin. When: 2026-04-23T21:33:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploit file upload bug in Breeze Cache WordPress plugin. ماذا: Hackers exploit file upload bug in Breeze Cache WordPress plugin. متى: 2026-04-23T21:33:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/"
-    ]
-  },
-  {
-    "id": "90036058153addec1a7470ee",
-    "title": "China-Backed Hackers Are Industrializing Botnets",
-    "link": "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets",
-    "published": "2026-04-23T20:52:24+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: China-Backed Hackers Are Industrializing Botnets. What: China-Backed Hackers Are Industrializing Botnets. When: 2026-04-23T20:52:24+00:00. How: China's state-backed groups are now using covert networks of compromised devices to execute attacks in a low-cost, low-risk, and deniable way. Action: See Arabic action below.",
-    "summary_ar": "من: China-Backed Hackers Are Industrializing Botnets. ماذا: China-Backed Hackers Are Industrializing Botnets. متى: 2026-04-23T20:52:24+00:00. كيف: China's state-backed groups are now using covert networks of compromised devices to execute attacks in a low-cost, low-risk, and deniable way.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt015e58f9d5bdd548/69ea8696be3c0328a992e3db/china_GagoDesign_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets"
-    ]
-  },
-  {
-    "id": "af885421b9abec114542601e",
-    "title": "Frontier AI and the Future of Defense: Your Top Questions Answered",
-    "link": "https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/",
-    "published": "2026-04-23T20:45:50+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Frontier AI and the Future of Defense: Your Top Questions Answered. What: Frontier AI and the Future of Defense: Your Top Questions Answered. When: 2026-04-23T20:45:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Frontier AI and the Future of Defense: Your Top Questions Answered. ماذا: Frontier AI and the Future of Defense: Your Top Questions Answered. متى: 2026-04-23T20:45:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/03_Listicle_Overview_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/"
-    ]
-  },
-  {
-    "id": "9aea20e6b7e4e30c2a260a15",
-    "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-    "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-    "published": "2026-04-23T20:41:23+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: In a first, a ransomware family is confirmed to be quantum-safe. What: In a first, a ransomware family is confirmed to be quantum-safe. When: 2026-04-23T20:41:23+00:00. How: A relatively new ransomware family is using a novel approach to hype the strength of the encryption used to scramble files—making, or at least claiming, that it is protected against attacks by quantum computers. Action: See Arabic action below.",
-    "summary_ar": "من: In a first, a ransomware family is confirmed to be quantum-safe. ماذا: In a first, a ransomware family is confirmed to be quantum-safe. متى: 2026-04-23T20:41:23+00:00. كيف: A relatively new ransomware family is using a novel approach to hype the strength of the encryption used to scramble files—making, or at least claiming, that it is protected against attacks by quantum computers.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
-    ]
-  },
-  {
-    "id": "9aea20e6b7e4e30c2a260a15",
-    "title": "Now, even ransomware is using post-quantum cryptography",
-    "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
-    "published": "2026-04-23T20:41:23+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Now, even ransomware is using post-quantum cryptography. What: Now, even ransomware is using post-quantum cryptography. When: 2026-04-23T20:41:23+00:00. How: A relatively new ransomware family is using a novel approach to hype the strength of the encryption used to scramble files—making, or at least claiming, that it is protected against attacks by quantum computers. Action: See Arabic action below.",
-    "summary_ar": "من: Now, even ransomware is using post-quantum cryptography. ماذا: Now, even ransomware is using post-quantum cryptography. متى: 2026-04-23T20:41:23+00:00. كيف: A relatively new ransomware family is using a novel approach to hype the strength of the encryption used to scramble files—making, or at least claiming, that it is protected against attacks by quantum computers.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-1952157610-1152x648-1753386930.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
-    ]
-  },
-  {
-    "id": "32711945e818b6827f4258b4",
-    "title": "This high-tech eye massager makes a great Mother's Day gift - and it's on sale",
-    "link": "https://www.zdnet.com/article/renpho-eye-massager-deal/",
-    "published": "2026-04-23T20:19:30+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This high-tech eye massager makes a great Mother's Day gift - and it's on sale. What: This high-tech eye massager makes a great Mother's Day gift - and it's on sale. When: 2026-04-23T20:19:30+00:00. How: The Renpho Eye Massager can help alleviate piercing headaches and migraines - and it's 23% off at Amazon right now. Action: See Arabic action below.",
-    "summary_ar": "من: This high-tech eye massager makes a great Mother's Day gift - and it's on sale. ماذا: This high-tech eye massager makes a great Mother's Day gift - and it's on sale. متى: 2026-04-23T20:19:30+00:00. كيف: The Renpho Eye Massager can help alleviate piercing headaches and migraines - and it's 23% off at Amazon right now.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cb90ae748d6a4986ecde22a882ae761a20b38f2f/2024/05/01/ac604bec-7d0f-4cd2-b2c8-2e4287ebecdb/screenshot-2024-05-01-at-1-26-41pm.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/renpho-eye-massager-deal/"
     ]
   }
 ]
