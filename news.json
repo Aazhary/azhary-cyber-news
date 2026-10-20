@@ -36,6 +36,496 @@
     ]
   },
   {
+    "id": "4f1699f96a5adad2e5b45da0",
+    "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
+    "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+    "published": "2026-10-20T16:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: An \"avalanche of vulnerability reports\" is forcing curl to move lower-severity cases into public view, reserving private handling for high and critical flaws.. What: We aim to not drown.\" Public handling would let more people assess reports, develop fixes, write advisories, and check for related problems before releases ship, Stenberg said.. When: 2026-10-20T16:30:00+00:00. How: From October 26, low and medium-severity reports should be filed in the open source data transfer tool's public GitHub repository, maintainer Daniel Stenberg said. Action: See Arabic action below.",
+    "summary_ar": "من: An \"avalanche of vulnerability reports\" is forcing curl to move lower-severity cases into public view, reserving private handling for high and critical flaws.. ماذا: We aim to not drown.\" Public handling would let more people assess reports, develop fixes, write advisories, and check for related problems before releases ship, Stenberg said.. متى: 2026-10-20T16:30:00+00:00. كيف: From October 26, low and medium-severity reports should be filed in the open source data transfer tool's public GitHub repository, maintainer Daniel Stenberg said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/258345.jpg?imageId=258345&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198"
+    ]
+  },
+  {
+    "id": "f7a865abe770edc48bf80470",
+    "title": "US Agencies Detail Incident Response Practices for Rogue AI Agents",
+    "link": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+    "published": "2026-10-20T15:45:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.. What: US Agencies Detail Incident Response Practices for Rogue AI Agents. When: 2026-10-20T15:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NIST, CISA and NSA share ten voluntary practices for preparing for, detecting, responding to, recovering from, and reporting rogue AI agent incidents.. ماذا: US Agencies Detail Incident Response Practices for Rogue AI Agents. متى: 2026-10-20T15:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-model-frontier.webp",
+    "sources": [
+      "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/"
+    ]
+  },
+  {
+    "id": "53ddecf9f5b1add8506d5ea4",
+    "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+    "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+    "published": "2026-10-20T15:38:52+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.. What: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.. When: 2026-10-20T15:38:52+00:00. How: The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.. ماذا: Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.. متى: 2026-10-20T15:38:52+00:00. كيف: The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-106173"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html"
+    ]
+  },
+  {
+    "id": "dff178c340ad524b58d0024a",
+    "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+    "link": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+    "published": "2026-10-20T15:35:45+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Close Identity Gaps in Software Development Before Unleashing AI. What: Close Identity Gaps in Software Development Before Unleashing AI. When: 2026-10-20T15:35:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Close Identity Gaps in Software Development Before Unleashing AI. ماذا: Close Identity Gaps in Software Development Before Unleashing AI. متى: 2026-10-20T15:35:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai"
+    ]
+  },
+  {
+    "id": "0d304799e6217321369b64bc",
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+    "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+    "published": "2026-10-20T15:32:27+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.. What: Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.. When: 2026-10-20T15:32:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.. ماذا: Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.. متى: 2026-10-20T15:32:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-0257"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
+    ]
+  },
+  {
+    "id": "d8f99e10fef6ca0d2fdf1dc1",
+    "title": "Head of AI Security Roles Surge in Large Organizations",
+    "link": "https://www.infosecurity-magazine.com/news/head-ai-security-roles/",
+    "published": "2026-10-20T14:40:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Head of AI Security Roles Surge in Large Organizations. What: Head of AI Security Roles Surge in Large Organizations. When: 2026-10-20T14:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Head of AI Security Roles Surge in Large Organizations. ماذا: Head of AI Security Roles Surge in Large Organizations. متى: 2026-10-20T14:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/55ef5e12-5301-43a2-b05e-68a8f8d3ece7.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/head-ai-security-roles/"
+    ]
+  },
+  {
+    "id": "91169d0210955495c0f8087b",
+    "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+    "published": "2026-10-20T14:36:05+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree. What: Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree. When: 2026-10-20T14:36:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree. ماذا: Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree. متى: 2026-10-20T14:36:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn"
+    ]
+  },
+  {
+    "id": "be1d19f008e468e5fc3b9611",
+    "title": "Latest Windows update disables key security setting – but there’s a workaround",
+    "link": "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/",
+    "published": "2026-10-20T14:26:05+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps.. What: A Registry hack fixes the glitch.. When: 2026-10-20T14:26:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A bug in Microsoft’s October Windows update prevents you from turning on a security setting that blocks malicious or suspicious apps.. ماذا: A Registry hack fixes the glitch.. متى: 2026-10-20T14:26:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/mshq2GettyImages-1408775753.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/microsoft-october-windows-update-disables-security-setting-workaround/"
+    ]
+  },
+  {
+    "id": "4162cca6289cbc1dd289ae42",
+    "title": "DHS bans DeepSeek products across US federal civilian agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+    "published": "2026-10-20T14:19:05+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: DHS bans DeepSeek products across US federal civilian agencies. What: DHS bans DeepSeek products across US federal civilian agencies. When: 2026-10-20T14:19:05+00:00. How: Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. Action: See Arabic action below.",
+    "summary_ar": "من: DHS bans DeepSeek products across US federal civilian agencies. ماذا: DHS bans DeepSeek products across US federal civilian agencies. متى: 2026-10-20T14:19:05+00:00. كيف: Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/robot-china.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/"
+    ]
+  },
+  {
+    "id": "0dfa738d1635fedf0b2c5e39",
+    "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+    "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+    "published": "2026-10-20T14:07:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites. What: Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites. When: 2026-10-20T14:07:17+00:00. How: A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites. ماذا: Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites. متى: 2026-10-20T14:07:17+00:00. كيف: A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s1600/bot-attack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html"
+    ]
+  },
+  {
+    "id": "4ffed07b69ad9f90d134bbd6",
+    "title": "Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk",
+    "link": "https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/",
+    "published": "2026-10-20T13:55:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk. What: OpenCode silently patched a critical RCE flaw, leaving vulnerable users unaware of the security risk, researchers at Pillar Security warned Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk. When: 2026-10-20T13:55:00+00:00. How: OpenCode silently patched a critical RCE flaw, leaving vulnerable users unaware of the security risk, researchers at Pillar Security warned Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk Action: See Arabic action below.",
+    "summary_ar": "من: Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk. ماذا: OpenCode silently patched a critical RCE flaw, leaving vulnerable users unaware of the security risk, researchers at Pillar Security warned Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk. متى: 2026-10-20T13:55:00+00:00. كيف: OpenCode silently patched a critical RCE flaw, leaving vulnerable users unaware of the security risk, researchers at Pillar Security warned Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/ebdb7baf-8973-4446-8fdd-7293eb4e24d2.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/"
+    ]
+  },
+  {
+    "id": "0db72c8bc26332c03158c3b8",
+    "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
+    "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
+    "published": "2026-10-20T13:51:01+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign. What: AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign. When: 2026-10-20T13:51:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign. ماذا: AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign. متى: 2026-10-20T13:51:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Supply-Chain-Software-Attack.jpg",
+    "sources": [
+      "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/"
+    ]
+  },
+  {
+    "id": "54e589c7063e95af2e0e5211",
+    "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+    "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+    "published": "2026-10-20T13:51:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CJIS v6.1 Compliance: 5 Practical Priorities for Agencies. What: CJIS v6.1 Compliance: 5 Practical Priorities for Agencies. When: 2026-10-20T13:51:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CJIS v6.1 Compliance: 5 Practical Priorities for Agencies. ماذا: CJIS v6.1 Compliance: 5 Practical Priorities for Agencies. متى: 2026-10-20T13:51:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/10/12/specops-legal-hammer.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/"
+    ]
+  },
+  {
+    "id": "61ae40293dee867ba96e330d",
+    "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+    "published": "2026-10-20T13:35:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: 'Password1' and a forgotten test account land Welsh outfits in hot water. What: The Information Commission's Office (ICO) issued reprimands rather than fines to Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, also known as Data Cymru.. When: 2026-10-20T13:35:00+00:00. How: This meant these accounts remained active, regardless of whether they were used, and continued to use the same default passwords set at the time of their creation in January 2012, as part of ONL's initial project with Data Cymru, for more than 12.5 years.\" The data watchdog reprimanded ONL under Article 32 of the UK GDPR because it failed to put in place \"appropriate technical and organisational measures\" to ensure processing systems and services were safe, and it didn't regularly assess or evaluate those measures. Action: See Arabic action below.",
+    "summary_ar": "من: 'Password1' and a forgotten test account land Welsh outfits in hot water. ماذا: The Information Commission's Office (ICO) issued reprimands rather than fines to Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, also known as Data Cymru.. متى: 2026-10-20T13:35:00+00:00. كيف: This meant these accounts remained active, regardless of whether they were used, and continued to use the same default passwords set at the time of their creation in January 2012, as part of ONL's initial project with Data Cymru, for more than 12.5 years.\" The data watchdog reprimanded ONL under Article 32 of the UK GDPR because it failed to put in place \"appropriate technical and organisational measures\" to ensure processing systems and services were safe, and it didn't regularly assess or evaluate those measures.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5294336.jpg?imageId=5294336&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139"
+    ]
+  },
+  {
+    "id": "4791d60cd7f67dbeafc7547e",
+    "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
+    "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
+    "published": "2026-10-20T13:34:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The Key to AI Software Security Isn’t Speed, It’s Maturity. What: The Key to AI Software Security Isn’t Speed, It’s Maturity. When: 2026-10-20T13:34:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Key to AI Software Security Isn’t Speed, It’s Maturity. ماذا: The Key to AI Software Security Isn’t Speed, It’s Maturity. متى: 2026-10-20T13:34:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/AI-artificial-intelligence-training.jpeg",
+    "sources": [
+      "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/"
+    ]
+  },
+  {
+    "id": "b8cb67bf0a57ef0eebd49228",
+    "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+    "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+    "published": "2026-10-20T13:18:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hacker gets 8 years for stealing $3.3 million from taxpayers. What: Hacker gets 8 years for stealing $3.3 million from taxpayers. When: 2026-10-20T13:18:36+00:00. How: A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. Action: See Arabic action below.",
+    "summary_ar": "من: Hacker gets 8 years for stealing $3.3 million from taxpayers. ماذا: Hacker gets 8 years for stealing $3.3 million from taxpayers. متى: 2026-10-20T13:18:36+00:00. كيف: A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/08/Hacker_prison.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/"
+    ]
+  },
+  {
+    "id": "cf21e83d251e9c5d7b63fa3c",
+    "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
+    "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
+    "published": "2026-10-20T13:02:18+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Ahold Delhaize Restoring Services Disrupted by Cyberattack. What: Ahold Delhaize Restoring Services Disrupted by Cyberattack. When: 2026-10-20T13:02:18+00:00. How: The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. Action: See Arabic action below.",
+    "summary_ar": "من: Ahold Delhaize Restoring Services Disrupted by Cyberattack. ماذا: Ahold Delhaize Restoring Services Disrupted by Cyberattack. متى: 2026-10-20T13:02:18+00:00. كيف: The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/11/Ahold-Delhaize-cyberattack.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/"
+    ]
+  },
+  {
+    "id": "2f7a0f9a2ffb40116ec7f986",
+    "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+    "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+    "published": "2026-10-20T12:59:44+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election. What: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election. When: 2026-10-20T12:59:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election. ماذا: Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election. متى: 2026-10-20T12:59:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s1600/iphone-spyware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html"
+    ]
+  },
+  {
+    "id": "d02f2b9b0912b72baee826de",
+    "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
+    "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
+    "published": "2026-10-20T12:47:22+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: AI Platform Cairn Abused to Hack Over 100 Organizations. What: AI Platform Cairn Abused to Hack Over 100 Organizations. When: 2026-10-20T12:47:22+00:00. How: At least three threat actors have been abusing Cairn for persistent access and financial theft. Action: See Arabic action below.",
+    "summary_ar": "من: AI Platform Cairn Abused to Hack Over 100 Organizations. ماذا: AI Platform Cairn Abused to Hack Over 100 Organizations. متى: 2026-10-20T12:47:22+00:00. كيف: At least three threat actors have been abusing Cairn for persistent access and financial theft.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/AI-assistant-chatbot-artificial-intelligence.jpg",
+    "sources": [
+      "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/"
+    ]
+  },
+  {
+    "id": "fb9936745ef93e7f82c7a68e",
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+    "published": "2026-10-20T12:33:13+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. What: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. When: 2026-10-20T12:33:13+00:00. How: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday. Action: See Arabic action below.",
+    "summary_ar": "من: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. ماذا: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. متى: 2026-10-20T12:33:13+00:00. كيف: Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through Web links, researchers reported Monday.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+    ]
+  },
+  {
+    "id": "b44079bd0a647e1865ed48d7",
+    "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
+    "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
+    "published": "2026-10-20T12:33:12+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek .. What: Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say. When: 2026-10-20T12:33:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared first on SecurityWeek .. ماذا: Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say. متى: 2026-10-20T12:33:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/"
+    ]
+  },
+  {
+    "id": "4f28949e9098cbe79ac69571",
+    "title": "Windows Server 2025 gets support for quick machine recovery",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+    "published": "2026-10-20T12:16:32+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update.. What: Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update.. When: 2026-10-20T12:16:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update.. ماذا: Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update.. متى: 2026-10-20T12:16:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/0_Windows_Server.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/"
+    ]
+  },
+  {
+    "id": "f7168b88b82dd9e86038745c",
+    "title": "Bullhorn sees red after cyberattack knocks recruitment platform offline",
+    "link": "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
+    "published": "2026-10-20T12:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: We have temporarily disabled access to our systems in order to contain the activity while we investigate further,\" the company said, noting that it had roped in cybersecurity specialists from CrowdStrike to help investigate the attack and restore its services.. What: \"We have detected a cyber incident on the Bullhorn Platform.. When: 2026-10-20T12:15:00+00:00. How: For recruitment agencies using Bullhorn, the outage meant losing access to candidate records, job applications, placements and, in some cases, the systems used to get people paid. Action: See Arabic action below.",
+    "summary_ar": "من: We have temporarily disabled access to our systems in order to contain the activity while we investigate further,\" the company said, noting that it had roped in cybersecurity specialists from CrowdStrike to help investigate the attack and restore its services.. ماذا: \"We have detected a cyber incident on the Bullhorn Platform.. متى: 2026-10-20T12:15:00+00:00. كيف: For recruitment agencies using Bullhorn, the outage meant losing access to candidate records, job applications, placements and, in some cases, the systems used to get people paid.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5265729.jpg?imageId=5265729&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114"
+    ]
+  },
+  {
+    "id": "9986f8accc5c937c9f956abf",
+    "title": "AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds",
+    "link": "https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/",
+    "published": "2026-10-20T12:05:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds. What: AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds. When: 2026-10-20T12:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds. ماذا: AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds. متى: 2026-10-20T12:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/94b12020-a991-4e31-8cfd-1d98ea8ece1b.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/"
+    ]
+  },
+  {
+    "id": "467c211f344f872044abfbc4",
+    "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+    "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+    "published": "2026-10-20T11:41:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators. What: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators. When: 2026-10-20T11:41:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators. ماذا: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators. متى: 2026-10-20T11:41:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
+    ]
+  },
+  {
+    "id": "df48f73ea919677fe0159dac",
+    "title": "What Security Teams Can Do To Tame Wild Code",
+    "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+    "published": "2026-10-20T11:33:04+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: What Security Teams Can Do To Tame Wild Code. What: What Security Teams Can Do To Tame Wild Code. When: 2026-10-20T11:33:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: What Security Teams Can Do To Tame Wild Code. ماذا: What Security Teams Can Do To Tame Wild Code. متى: 2026-10-20T11:33:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html"
+    ]
+  },
+  {
+    "id": "f0509be43eab3850dae38a74",
+    "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+    "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+    "published": "2026-10-20T11:32:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns. What: Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.. When: 2026-10-20T11:32:59+00:00. How: Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys. Action: See Arabic action below.",
+    "summary_ar": "من: Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns. ماذا: Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.. متى: 2026-10-20T11:32:59+00:00. كيف: Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html"
+    ]
+  },
+  {
     "id": "4ee7cda6f2dce8650213ee25",
     "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
     "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
@@ -90,21 +580,57 @@
     ]
   },
   {
+    "id": "41525c1156aec1d320f2ae59",
+    "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+    "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+    "published": "2026-10-20T11:06:25+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader. What: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader. When: 2026-10-20T11:06:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader. ماذا: Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader. متى: 2026-10-20T11:06:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s1600/russia-nato.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html"
+    ]
+  },
+  {
     "id": "014c44256f55a6825593edd2",
-    "title": "TechPulse puts ZDNET and 5 other tech sites in one feed – for free",
+    "title": "TechPulse puts ZDNET and 4 other tech sites in one feed – for free",
     "link": "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/",
     "published": "2026-10-20T11:00:00+00:00",
     "source": "zdnet.com",
-    "summary_en": "Who: TechPulse puts ZDNET and 5 other tech sites in one feed – for free. What: TechPulse puts ZDNET and 5 other tech sites in one feed – for free. When: 2026-10-20T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TechPulse puts ZDNET and 5 other tech sites in one feed – for free. ماذا: TechPulse puts ZDNET and 5 other tech sites in one feed – for free. متى: 2026-10-20T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: TechPulse puts ZDNET and 4 other tech sites in one feed – for free. What: TechPulse puts ZDNET and 4 other tech sites in one feed – for free. When: 2026-10-20T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: TechPulse puts ZDNET and 4 other tech sites in one feed – for free. ماذا: TechPulse puts ZDNET and 4 other tech sites in one feed – for free. متى: 2026-10-20T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TP-PromoImage.jpg",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TechPulse-app.jpg",
     "sources": [
       "https://www.zdnet.com/tech/techpulse-free-tech-news-app-zdnet/"
+    ]
+  },
+  {
+    "id": "13881c9b43294fd5f31afe73",
+    "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+    "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+    "published": "2026-10-20T10:56:08+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident. What: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident. When: 2026-10-20T10:56:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident. ماذا: ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident. متى: 2026-10-20T10:56:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html"
     ]
   },
   {
@@ -126,6 +652,24 @@
     ]
   },
   {
+    "id": "46e6030ce5b42c7aa09a7e9e",
+    "title": "Whitehall shuts the front door on digital ID but leaves the back open",
+    "link": "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
+    "published": "2026-10-20T10:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Whitehall shuts the front door on digital ID but leaves the back open. What: \"We already had One Login and the Gov Wallet,\" he told MPs, adding that work on the digital identity trust framework was also underway before the national scheme was announced.. When: 2026-10-20T10:45:00+00:00. How: This would let people use digital driving licenses to prove their age in pubs, collect parcels, or verify their identity online. Action: See Arabic action below.",
+    "summary_ar": "من: Whitehall shuts the front door on digital ID but leaves the back open. ماذا: \"We already had One Login and the Gov Wallet,\" he told MPs, adding that work on the digital identity trust framework was also underway before the national scheme was announced.. متى: 2026-10-20T10:45:00+00:00. كيف: This would let people use digital driving licenses to prove their age in pubs, collect parcels, or verify their identity online.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5235229.jpg?imageId=5235229&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100"
+    ]
+  },
+  {
     "id": "3493ad24d01d3adf57dee30e",
     "title": "Hackers Steal 1.8 Million Records From Nikkei",
     "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
@@ -141,6 +685,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/02/news-newspaper-cyberattack.jpeg",
     "sources": [
       "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/"
+    ]
+  },
+  {
+    "id": "257bb4c245739ce8e517d6ca",
+    "title": "UK finance watchdog wants firms to report AI failures and close calls",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+    "published": "2026-10-20T09:57:08+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: UK finance watchdog wants firms to report AI failures and close calls. What: UK finance watchdog wants firms to report AI failures and close calls. When: 2026-10-20T09:57:08+00:00. How: The sector contributed £223.6 billion to the UK economy in 2025, or 8 percent of national output. Action: See Arabic action below.",
+    "summary_ar": "من: UK finance watchdog wants firms to report AI failures and close calls. ماذا: UK finance watchdog wants firms to report AI failures and close calls. متى: 2026-10-20T09:57:08+00:00. كيف: The sector contributed £223.6 billion to the UK economy in 2025, or 8 percent of national output.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078"
     ]
   },
   {
@@ -195,6 +757,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html"
+    ]
+  },
+  {
+    "id": "19d73113a247b89d34e6e46f",
+    "title": "Why cyber resilience is now a boardroom priority for UK public services",
+    "link": "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601",
+    "published": "2026-10-20T08:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Why cyber resilience is now a boardroom priority for UK public services. What: A new Prime Minister has taken office, and significant machinery-of-government changes have already been announced, including the scrapping of DSIT, the department that had become the center of government digital, technology and cyber policy.. When: 2026-10-20T08:00:00+00:00. How: Together, these forces mean cyber resilience can no longer sit below board level. Action: See Arabic action below.",
+    "summary_ar": "من: Why cyber resilience is now a boardroom priority for UK public services. ماذا: A new Prime Minister has taken office, and significant machinery-of-government changes have already been announced, including the scrapping of DSIT, the department that had become the center of government digital, technology and cyber policy.. متى: 2026-10-20T08:00:00+00:00. كيف: Together, these forces mean cyber resilience can no longer sit below board level.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5301606.jpg?imageId=5301606&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601"
     ]
   },
   {
@@ -143076,492 +143656,6 @@
     "image": "https://www.zdnet.com/a/img/resize/e7d3094f0aa2c80639159efc8b45453b175d45a8/2025/06/23/c1b073ab-3a3a-490e-b11e-6347a0c4b6c9/dsc03784.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/google-rumored-fitbit-air-whoop-dupe-wishlist/"
-    ]
-  },
-  {
-    "id": "305cb99c50b63c122829f3b1",
-    "title": "Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only",
-    "link": "https://www.zdnet.com/article/stuff-your-kindle-day-2026-free-ebook-sale/",
-    "published": "2026-04-23T16:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only. What: Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only. When: 2026-04-23T16:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only. ماذا: Want free e-books? Stuff Your Kindle Day has 150+ titles discounted - today only. متى: 2026-04-23T16:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a2bf9f7058d4ed9824f601e3cd11b81ebc82840f/2024/11/04/31cfa340-5477-4fc5-9d2f-9abfed9bc366/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/stuff-your-kindle-day-2026-free-ebook-sale/"
-    ]
-  },
-  {
-    "id": "3bbe4e3d7b0e70bf90056b0d",
-    "title": "Why I recommend this $450 Samsung phone over competing models by Google and OnePlus",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
-    "published": "2026-04-23T16:56:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why I recommend this $450 Samsung phone over competing models by Google and OnePlus. What: Why I recommend this $450 Samsung phone over competing models by Google and OnePlus. When: 2026-04-23T16:56:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why I recommend this $450 Samsung phone over competing models by Google and OnePlus. ماذا: Why I recommend this $450 Samsung phone over competing models by Google and OnePlus. متى: 2026-04-23T16:56:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e30cfc88586d90b5ea8d89c2c440702d26655cf4/2026/04/20/150fbd02-7b1e-4ad6-a847-bfa98ad617d9/galaxy-a37-image-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-a37-review/"
-    ]
-  },
-  {
-    "id": "c92796b8598103641ad41245",
-    "title": "Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI",
-    "link": "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/",
-    "published": "2026-04-23T16:40:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI. What: Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI. When: 2026-04-23T16:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google Cloud’s COO advocated for combining general-purpose frontier large language models with task-specific AI agents Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI. ماذا: Google Favors General-Purpose Gemini Models Over Cybersecurity‑Specific AI. متى: 2026-04-23T16:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/24eb4291-e777-434e-88e5-0b1db29403b5.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/google-gemini-over-cyber-specific/"
-    ]
-  },
-  {
-    "id": "52f8a0554a0ef359c3a7010a",
-    "title": "Apple just fixed an iOS flaw exploited by the FBI - here's what happened",
-    "link": "https://www.zdnet.com/article/apple-just-fixed-an-ios-flaw-exploited-by-the-fbi-heres-what-happened/",
-    "published": "2026-04-23T16:29:19+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple just fixed an iOS flaw exploited by the FBI - here's what happened. What: Apple just fixed an iOS flaw exploited by the FBI - here's what happened. When: 2026-04-23T16:29:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple just fixed an iOS flaw exploited by the FBI - here's what happened. ماذا: Apple just fixed an iOS flaw exploited by the FBI - here's what happened. متى: 2026-04-23T16:29:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8bdaa81fdd7b7f2ae98e252298261d4ae7b35976/2026/04/23/af28af63-5b0a-4ede-a9cb-84f5d48233fc/apple-iphone-ios-2642.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-just-fixed-an-ios-flaw-exploited-by-the-fbi-heres-what-happened/"
-    ]
-  },
-  {
-    "id": "44b86a2ca3c65b27cb1ed0b7",
-    "title": "Age checks could turn internet into an ID checkpoint, complains Proton CEO",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/proton_ceo_age_checks_id_checkpoint/",
-    "published": "2026-04-23T16:20:07+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Push to protect minors risks hitting everyone online Proton's boss has waded into the age verification fight with a warning that sounds less like child safety and more like an identity checkpoint for the entire internet.… Age checks could turn internet into an ID checkpoint, complains Proton CEO. What: Age checks could turn internet into an ID checkpoint, complains Proton CEO. When: 2026-04-23T16:20:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Push to protect minors risks hitting everyone online Proton's boss has waded into the age verification fight with a warning that sounds less like child safety and more like an identity checkpoint for the entire internet.… Age checks could turn internet into an ID checkpoint, complains Proton CEO. ماذا: Age checks could turn internet into an ID checkpoint, complains Proton CEO. متى: 2026-04-23T16:20:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/22/shutterstock_2716409083.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/proton_ceo_age_checks_id_checkpoint/"
-    ]
-  },
-  {
-    "id": "a9fafa033c08a07e403b61bd",
-    "title": "How to easily encrypt your files on an Android phone - for free",
-    "link": "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/",
-    "published": "2026-04-23T16:14:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to easily encrypt your files on an Android phone - for free. What: How to easily encrypt your files on an Android phone - for free. When: 2026-04-23T16:14:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to easily encrypt your files on an Android phone - for free. ماذا: How to easily encrypt your files on an Android phone - for free. متى: 2026-04-23T16:14:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4d8d1f6aa7ceb588100074429575fa66b90618e1/2026/04/20/26d231dd-87b2-40d7-ae11-8e4c3140ace1/openkeychainhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-easily-encrypt-files-on-android-with-openkeychain/"
-    ]
-  },
-  {
-    "id": "58ce4bc931216676faa7eecc",
-    "title": "My favorite MagSafe car charger easily handles bumpy roads (and it's on sale)",
-    "link": "https://www.zdnet.com/article/scosche-magicmount-charge-pro-in-car-charger-review/",
-    "published": "2026-04-23T16:08:21+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite MagSafe car charger easily handles bumpy roads (and it's on sale). What: My favorite MagSafe car charger easily handles bumpy roads (and it's on sale). When: 2026-04-23T16:08:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite MagSafe car charger easily handles bumpy roads (and it's on sale). ماذا: My favorite MagSafe car charger easily handles bumpy roads (and it's on sale). متى: 2026-04-23T16:08:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/13109d382547004624617be43d4f37456df1eafe/2026/02/15/ae71eee2-41ca-4023-a0bf-8530a4c1d161/img-2268.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/scosche-magicmount-charge-pro-in-car-charger-review/"
-    ]
-  },
-  {
-    "id": "769908908c3a7325b8014ae3",
-    "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
-    "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-    "published": "2026-04-23T16:05:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New Checkmarx supply-chain breach affects KICS analysis tool. What: New Checkmarx supply-chain breach affects KICS analysis tool. When: 2026-04-23T16:05:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Checkmarx supply-chain breach affects KICS analysis tool. ماذا: New Checkmarx supply-chain breach affects KICS analysis tool. متى: 2026-04-23T16:05:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/hacker.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/"
-    ]
-  },
-  {
-    "id": "d6a096b41ce226a69cec8672",
-    "title": "5 easy ways you wouldn't think to automate your home - but you really should",
-    "link": "https://www.zdnet.com/article/easy-ways-to-automate-home-you-didnt-think-about/",
-    "published": "2026-04-23T15:21:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 easy ways you wouldn't think to automate your home - but you really should. What: 5 easy ways you wouldn't think to automate your home - but you really should. When: 2026-04-23T15:21:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 easy ways you wouldn't think to automate your home - but you really should. ماذا: 5 easy ways you wouldn't think to automate your home - but you really should. متى: 2026-04-23T15:21:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6c068faed73d60805530228ee798379d456eb0bc/2025/09/04/6b3000eb-66cb-426d-9632-e288624ccc55/7.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/easy-ways-to-automate-home-you-didnt-think-about/"
-    ]
-  },
-  {
-    "id": "2902addd92440e5d33231282",
-    "title": "Cloudsmith Raises $72 Million in Series C Funding",
-    "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
-    "published": "2026-04-23T15:03:59+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Cloudsmith Raises $72 Million in Series C Funding. What: Cloudsmith Raises $72 Million in Series C Funding. When: 2026-04-23T15:03:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cloudsmith Raises $72 Million in Series C Funding. ماذا: Cloudsmith Raises $72 Million in Series C Funding. متى: 2026-04-23T15:03:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg",
-    "sources": [
-      "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/"
-    ]
-  },
-  {
-    "id": "5a5868f179d5ac31c942f53b",
-    "title": "Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones",
-    "link": "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/",
-    "published": "2026-04-23T14:58:18+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones. What: Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones. When: 2026-04-23T14:58:18+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones. ماذا: Sony WH-1000XM6 vs. Bowers & Wilkins Px8 S2: How I'd justify spending $300 more for headphones. متى: 2026-04-23T14:58:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d6a8f58bd90f03b39c4659b50131bcc3c7b99189/2026/04/22/7274eebc-66f1-4c51-b412-128442e12e1f/xm6vspx8.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-wh-1000xm6-vs-bowers-wilkins-px8-s2/"
-    ]
-  },
-  {
-    "id": "47a86d5c12715d38d31b9f64",
-    "title": "Bad Memories Still Haunt AI Agents",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
-    "published": "2026-04-23T14:30:31+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.. What: Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.. When: 2026-04-23T14:30:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.. ماذا: Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.. متى: 2026-04-23T14:30:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0abdbe2d875193af/69de52650bc850de57243ab8/digital-brain-Billion_Photos-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents"
-    ]
-  },
-  {
-    "id": "7ec1b6a26facc2c58c83bb65",
-    "title": "Built for a hostile internet: Canonical VP of Engineering on Ubuntu 26.04 LTS",
-    "link": "https://www.zdnet.com/article/built-for-a-hostile-internet-canonical-vp-of-engineering-on-ubuntu-26-04-lts/",
-    "published": "2026-04-23T14:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Built for a hostile internet: Canonical VP of Engineering on Ubuntu 26.04 LTS. What: Built for a hostile internet: Canonical VP of Engineering on Ubuntu 26.04 LTS. When: 2026-04-23T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Built for a hostile internet: Canonical VP of Engineering on Ubuntu 26.04 LTS. ماذا: Built for a hostile internet: Canonical VP of Engineering on Ubuntu 26.04 LTS. متى: 2026-04-23T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f5754a3dc1ee2e27e3e2caba4814da07365615b1/2026/04/23/044eaa0c-183c-4555-96a6-f1b8ed6f24d5/canonical.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/built-for-a-hostile-internet-canonical-vp-of-engineering-on-ubuntu-26-04-lts/"
-    ]
-  },
-  {
-    "id": "dd6347df3610decba64d99da",
-    "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-    "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-    "published": "2026-04-23T14:16:21+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cosmetics giant Rituals discloses data breach affecting customers. What: Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database.. When: 2026-04-23T14:16:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cosmetics giant Rituals discloses data breach affecting customers. ماذا: Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database.. متى: 2026-04-23T14:16:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/Rituals-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/"
-    ]
-  },
-  {
-    "id": "f9d00f8e0737fd6c47bec3f8",
-    "title": "Regular Password Resets Aren’t as Safe as You Think",
-    "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-    "published": "2026-04-23T14:10:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Regular Password Resets Aren’t as Safe as You Think. What: Regular Password Resets Aren’t as Safe as You Think. When: 2026-04-23T14:10:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Regular Password Resets Aren’t as Safe as You Think. ماذا: Regular Password Resets Aren’t as Safe as You Think. متى: 2026-04-23T14:10:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/04/17/regular-password-resets-arent-as-safe-as-you-think.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/"
-    ]
-  },
-  {
-    "id": "2f81beed76feeb6fff60f2a5",
-    "title": "I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance",
-    "link": "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/",
-    "published": "2026-04-23T14:02:29+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance. What: I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance. When: 2026-04-23T14:02:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance. ماذا: I paired headphones to my streaming stick for the first time - and fixed a big TV annoyance. متى: 2026-04-23T14:02:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b35d9d5553839d12b86e652df6c1ec753a9edcee/2025/06/05/72a5489d-e98b-4187-aed5-1971bce66706/ace-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/"
-    ]
-  },
-  {
-    "id": "6efd8aabaa2d293aac535b0d",
-    "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-    "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-    "published": "2026-04-23T13:42:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign. What: Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.. When: 2026-04-23T13:42:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign. ماذا: Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.. متى: 2026-04-23T13:42:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html"
-    ]
-  },
-  {
-    "id": "37843ea5d40abd40648a3afd",
-    "title": "American farms have a new steward for their safety net, disaster programs... Palantir",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/palantir_wins_us_department_of_agriculture_contract/",
-    "published": "2026-04-23T13:26:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: American farms have a new steward for their safety net, disaster programs... Palantir. What: American farms have a new steward for their safety net, disaster programs... Palantir. When: 2026-04-23T13:26:10+00:00. How: Wins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things Palantir has won a $300 million contract from the US Department of Agriculture (USDA) to support the National Farm Security Action Plan (NFSAP) and modernize how USDA delivers services to America's farmers.… American farms have a new steward for their safety net, disaster programs... Action: See Arabic action below.",
-    "summary_ar": "من: American farms have a new steward for their safety net, disaster programs... Palantir. ماذا: American farms have a new steward for their safety net, disaster programs... Palantir. متى: 2026-04-23T13:26:10+00:00. كيف: Wins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things Palantir has won a $300 million contract from the US Department of Agriculture (USDA) to support the National Farm Security Action Plan (NFSAP) and modernize how USDA delivers services to America's farmers.… American farms have a new steward for their safety net, disaster programs.... الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/05/04/shutterstock_tractor_farm.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/palantir_wins_us_department_of_agriculture_contract/"
-    ]
-  },
-  {
-    "id": "a47d241e5dbaaab04590d38c",
-    "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
-    "published": "2026-04-23T13:18:10+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings.. What: Microsoft: Some Teams users can’t join meetings after Edge update. When: 2026-04-23T13:18:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings.. ماذا: Microsoft: Some Teams users can’t join meetings after Edge update. متى: 2026-04-23T13:18:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/08/19/Microsoft-Teams.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/"
-    ]
-  },
-  {
-    "id": "87768c2b55d851d8bbcea226",
-    "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-    "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-    "published": "2026-04-23T13:17:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories. What: You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes.. When: 2026-04-23T13:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories. ماذا: You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes.. متى: 2026-04-23T13:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html"
-    ]
-  },
-  {
-    "id": "4476e9ff94540dabed80f9fa",
-    "title": "98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere",
-    "link": "https://www.zdnet.com/article/suse-bets-its-future-on-digital-sovereignty/",
-    "published": "2026-04-23T13:15:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere. What: 98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere. When: 2026-04-23T13:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere. ماذا: 98% of IT leaders want digital sovereignty: Now SUSE is operationalizing it for companies everywhere. متى: 2026-04-23T13:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/47fb79c228e361f42b569cac61bfb63e82d37762/2026/04/23/7b4e6258-2cf4-4f6a-bf11-839d5a295a61/suse-bets-its-future-on-digital-sovereignty.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/suse-bets-its-future-on-digital-sovereignty/"
-    ]
-  },
-  {
-    "id": "136eafdc1a80f76d56da34f2",
-    "title": "Apple Fixes iOS Notification Bug Exposing Deleted Messages",
-    "link": "https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/",
-    "published": "2026-04-23T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Apple patches iOS flaw that retained deleted notifications, exposing message data Apple Fixes iOS Notification Bug Exposing Deleted Messages. What: Apple patches iOS flaw that retained deleted notifications, exposing message data Apple Fixes iOS Notification Bug Exposing Deleted Messages. When: 2026-04-23T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple patches iOS flaw that retained deleted notifications, exposing message data Apple Fixes iOS Notification Bug Exposing Deleted Messages. ماذا: Apple patches iOS flaw that retained deleted notifications, exposing message data Apple Fixes iOS Notification Bug Exposing Deleted Messages. متى: 2026-04-23T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/97c37a04-ab7d-4761-8112-62bea72fbf06.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/apple-ios-notification-bug-deleted/"
-    ]
-  },
-  {
-    "id": "fb87b5d4868d2e769c25ddc5",
-    "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
-    "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
-    "published": "2026-04-23T12:36:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos. What: Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos. When: 2026-04-23T12:36:45+00:00. How: 360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest. Action: See Arabic action below.",
-    "summary_ar": "من: Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos. ماذا: Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos. متى: 2026-04-23T12:36:45+00:00. كيف: 360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/China-APT-AI-artificial-intelligence.jpeg",
-    "sources": [
-      "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/"
-    ]
-  },
-  {
-    "id": "eab3f678843b55a8a7d5d8f0",
-    "title": "Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/500k_biobank_volunteers_data_listed/",
-    "published": "2026-04-23T12:34:49+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals. What: Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals. When: 2026-04-23T12:34:49+00:00. How: World's largest biomedical dataset lifted and shifted on Chinese mega marketplace Updated Details of volunteers of UK-based Biobank, which describes itself as the custodian of the world's most comprehensive biomedical dataset, are for sale on Chinese ecommerce site Alibaba.… Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals Action: See Arabic action below.",
-    "summary_ar": "من: Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals. ماذا: Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals. متى: 2026-04-23T12:34:49+00:00. كيف: World's largest biomedical dataset lifted and shifted on Chinese mega marketplace Updated Details of volunteers of UK-based Biobank, which describes itself as the custodian of the world's most comprehensive biomedical dataset, are for sale on Chinese ecommerce site Alibaba.… Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2015/11/16/syringe_98374525675675.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/500k_biobank_volunteers_data_listed/"
-    ]
-  },
-  {
-    "id": "d3d3f937799319cfa14925f9",
-    "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-    "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-    "published": "2026-04-23T12:28:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: UK warns of Chinese hackers using proxy networks to evade detection. What: The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity.. When: 2026-04-23T12:28:39+00:00. How: The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. Action: See Arabic action below.",
-    "summary_ar": "من: UK warns of Chinese hackers using proxy networks to evade detection. ماذا: The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity.. متى: 2026-04-23T12:28:39+00:00. كيف: The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/30/Panda_Bear_Storm.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/"
-    ]
-  },
-  {
-    "id": "fa0fa0321ff0b9c176021f8a",
-    "title": "Hybrid clouds have two attack surfaces and you’re not paying enough attention to either",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/wac_flaws_hybrid_cloud_security/",
-    "published": "2026-04-23T12:15:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Windows Admin Center flaws mean on-prem can attack cloud, and vice-versa Black Hat Asia Israeli researchers found a series of flaws in Microsoft's Windows Admin Center (WAC) and suggest this shows hybrid cloud management tools are a two-way attack surface that users don't spend enough time worrying about.… Hybrid clouds have two attack surfaces and you’re not paying enough attention to either. What: Hybrid clouds have two attack surfaces and you’re not paying enough attention to either. When: 2026-04-23T12:15:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Windows Admin Center flaws mean on-prem can attack cloud, and vice-versa Black Hat Asia Israeli researchers found a series of flaws in Microsoft's Windows Admin Center (WAC) and suggest this shows hybrid cloud management tools are a two-way attack surface that users don't spend enough time worrying about.… Hybrid clouds have two attack surfaces and you’re not paying enough attention to either. ماذا: Hybrid clouds have two attack surfaces and you’re not paying enough attention to either. متى: 2026-04-23T12:15:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2024/07/21/shutterstock_double_trouble.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/23/wac_flaws_hybrid_cloud_security/"
-    ]
-  },
-  {
-    "id": "3bbe4e3d7b0e70bf90056b0d",
-    "title": "I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-a37-review/",
-    "published": "2026-04-23T12:11:04+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it. What: I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it. When: 2026-04-23T12:11:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it. ماذا: I switched to Samsung's $450 Galaxy phone from my OnePlus, and didn't regret it. متى: 2026-04-23T12:11:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e30cfc88586d90b5ea8d89c2c440702d26655cf4/2026/04/20/150fbd02-7b1e-4ad6-a847-bfa98ad617d9/galaxy-a37-image-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-a37-review/"
     ]
   }
 ]
