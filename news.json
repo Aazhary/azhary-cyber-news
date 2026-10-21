@@ -36,6 +36,96 @@
     ]
   },
   {
+    "id": "f543d8c6a88138e6626313e1",
+    "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+    "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+    "published": "2026-10-21T06:02:27+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI. What: Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI. When: 2026-10-21T06:02:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI. ماذا: Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI. متى: 2026-10-21T06:02:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg",
+    "sources": [
+      "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/"
+    ]
+  },
+  {
+    "id": "705a2aee0bf394a3935bc1a5",
+    "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+    "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+    "published": "2026-10-21T04:57:50+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Security researchers at watchTowr say the two flaws allow remote code execution.. What: Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.. When: 2026-10-21T04:57:50+00:00. How: Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far. Action: See Arabic action below.",
+    "summary_ar": "من: Security researchers at watchTowr say the two flaws allow remote code execution.. ماذا: Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.. متى: 2026-10-21T04:57:50+00:00. كيف: Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+    ]
+  },
+  {
+    "id": "b374ef599927824b5e6949b4",
+    "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+    "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+    "published": "2026-10-21T04:22:11+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities. What: Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities. When: 2026-10-21T04:22:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities. ماذا: Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities. متى: 2026-10-21T04:22:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/OT-industrial-ICS.jpeg",
+    "sources": [
+      "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/"
+    ]
+  },
+  {
+    "id": "cd066e93db9f74501b06e963",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "published": "2026-10-21T02:12:18+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: PHP warns it plans to release 2 emergency patches imminently. What: Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere.. When: 2026-10-21T02:12:18+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PHP warns it plans to release 2 emergency patches imminently. ماذا: Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere.. متى: 2026-10-21T02:12:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+    ]
+  },
+  {
+    "id": "a72ec2f2944e7e53436239c7",
+    "title": "Operation FlashHole: Lazarus breaks security, defies control",
+    "link": "https://securelist.com/lazarus-operation-flashhole/121541/",
+    "published": "2026-10-21T02:07:29+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Initial infection vector Although we could not precisely determine what triggered the infection chain, our analysis uncovered a suspicious website hosted on GitHub Pages that is associated with the GitHub account used as the C2 channel.. What: In this new operation, the group employed an updated malware chain that included both their old and new malware, which we disclosed in full, and used another mandatory South Korean security software program as a part of infection chain using a watering‑hole strategy.. When: 2026-10-21T02:07:29+00:00. How: In this new operation, the group employed an updated malware chain that included both their old and new malware, which we disclosed in full, and used another mandatory South Korean security software program as a part of infection chain using a watering‑hole strategy. Action: See Arabic action below.",
+    "summary_ar": "من: Initial infection vector Although we could not precisely determine what triggered the infection chain, our analysis uncovered a suspicious website hosted on GitHub Pages that is associated with the GitHub account used as the C2 channel.. ماذا: In this new operation, the group employed an updated malware chain that included both their old and new malware, which we disclosed in full, and used another mandatory South Korean security software program as a part of infection chain using a watering‑hole strategy.. متى: 2026-10-21T02:07:29+00:00. كيف: In this new operation, the group employed an updated malware chain that included both their old and new malware, which we disclosed in full, and used another mandatory South Korean security software program as a part of infection chain using a watering‑hole strategy.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/20205657/sas-lazarus-3_securelist-featured_1200x600.jpg",
+    "sources": [
+      "https://securelist.com/lazarus-operation-flashhole/121541/"
+    ]
+  },
+  {
     "id": "0f04a6f0fbacdd052dce6566",
     "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
     "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
@@ -6305,24 +6395,6 @@
     ]
   },
   {
-    "id": "b79fbc206a1a3030a9bf5bc4",
-    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
-    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
-    "published": "2026-10-13T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. What: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. When: 2026-10-13T05:00:00+00:00. How: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Action: See Arabic action below.",
-    "summary_ar": "من: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. ماذا: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. متى: 2026-10-13T05:00:00+00:00. كيف: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
-    ]
-  },
-  {
     "id": "15f1ad45be3bfe100624c886",
     "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
     "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
@@ -6338,6 +6410,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
+    ]
+  },
+  {
+    "id": "b79fbc206a1a3030a9bf5bc4",
+    "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
+    "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. What: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. When: 2026-10-13T05:00:00+00:00. How: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities Action: See Arabic action below.",
+    "summary_ar": "من: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. ماذا: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. متى: 2026-10-13T05:00:00+00:00. كيف: October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
     ]
   },
   {
@@ -143567,62 +143657,6 @@
     "sources": [
       "https://www.theregister.com/security/2026/04/24/researchers-find-sabotage-malware-that-may-predate-stuxnet/5221340",
       "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/"
-    ]
-  },
-  {
-    "id": "49cc9862d214ca515f1bab24",
-    "title": "Weak security means attackers could disable all of a city's public EV chargers",
-    "link": "https://www.theregister.com/security/2026/04/24/attackers-could-disable-all-of-a-citys-public-ev-chargers/5222307",
-    "published": "2026-04-24T04:10:33+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: He’s created a tool called “IDScope” that makes it possible to exploit many of the flaws he found and during his talk demonstrated it by running the iOS app for a Chinese provider of public electric vehicle charging stations.. What: The researcher conducted his probes with permission, and disclosed the results ethically – for which we should all be thankful because he discovered that some rentable devices include either a debugging port or a UART connector that makes examining their operations an uncomplicated task for an educated attacker.. When: 2026-04-24T04:10:33+00:00. How: The researcher conducted his probes with permission, and disclosed the results ethically – for which we should all be thankful because he discovered that some rentable devices include either a debugging port or a UART connector that makes examining their operations an uncomplicated task for an educated attacker. Action: See Arabic action below.",
-    "summary_ar": "من: He’s created a tool called “IDScope” that makes it possible to exploit many of the flaws he found and during his talk demonstrated it by running the iOS app for a Chinese provider of public electric vehicle charging stations.. ماذا: The researcher conducted his probes with permission, and disclosed the results ethically – for which we should all be thankful because he discovered that some rentable devices include either a debugging port or a UART connector that makes examining their operations an uncomplicated task for an educated attacker.. متى: 2026-04-24T04:10:33+00:00. كيف: The researcher conducted his probes with permission, and disclosed the results ethically – for which we should all be thankful because he discovered that some rentable devices include either a debugging port or a UART connector that makes examining their operations an uncomplicated task for an educated attacker.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/256552.jpg?imageId=256552&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/24/attackers-could-disable-all-of-a-citys-public-ev-chargers/5222307",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/"
-    ]
-  },
-  {
-    "id": "55600ec3936cd375b928180c",
-    "title": "After using this HP laptop, I get why its 'boring' design is preferred by business users",
-    "link": "https://www.zdnet.com/article/hp-zbook-8-g1i-review/",
-    "published": "2026-04-24T02:01:07+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After using this HP laptop, I get why its 'boring' design is preferred by business users. What: After using this HP laptop, I get why its 'boring' design is preferred by business users. When: 2026-04-24T02:01:07+00:00. How: After using this HP laptop, I get why its 'boring' design is preferred by business users Action: See Arabic action below.",
-    "summary_ar": "من: After using this HP laptop, I get why its 'boring' design is preferred by business users. ماذا: After using this HP laptop, I get why its 'boring' design is preferred by business users. متى: 2026-04-24T02:01:07+00:00. كيف: After using this HP laptop, I get why its 'boring' design is preferred by business users. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9f862efb1b87711f87806252b277dce5f50b1726/2026/04/14/09f8f27b-8198-4fe4-9501-f6b3a264ac99/dsc05062.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hp-zbook-8-g1i-review/"
-    ]
-  },
-  {
-    "id": "b043d4d4964801dabfd9cf86",
-    "title": "I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked",
-    "link": "https://www.zdnet.com/article/winhance-free-optimize-customize-windows/",
-    "published": "2026-04-24T02:00:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked. What: I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked. When: 2026-04-24T02:00:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked. ماذا: I tried this free Windows cleanup tool to see if it'd speed up my PC - and it worked. متى: 2026-04-24T02:00:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d6569d7388e43e47fe686ce4fa6da814d6ff9796/2026/04/23/33e4b2d8-6a40-422f-b28f-e2fcd6ac6862/i-used-this-free-utility-to-optimize-and-customize-windows-heres-how-it-fared.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/winhance-free-optimize-customize-windows/",
-      "https://www.zdnet.com/article/microsoft-pc-manager-free-windows-cleanup-tool-test/"
     ]
   }
 ]
