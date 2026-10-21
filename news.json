@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": "0f04a6f0fbacdd052dce6566",
+    "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+    "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+    "published": "2026-10-21T01:01:50+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Stolen UpdraftCentral keys used to backdoor WordPress sites. What: Stolen UpdraftCentral keys used to backdoor WordPress sites. When: 2026-10-21T01:01:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Stolen UpdraftCentral keys used to backdoor WordPress sites. ماذا: Stolen UpdraftCentral keys used to backdoor WordPress sites. متى: 2026-10-21T01:01:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/03/wordpress.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/"
+    ]
+  },
+  {
+    "id": "7a020fdc3830831946dc20f7",
+    "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+    "published": "2026-10-21T00:46:42+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Mozilla, Google, Apple block compromised eMudhra CA certificates. What: Mozilla, Google, Apple block compromised eMudhra CA certificates. When: 2026-10-21T00:46:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Mozilla, Google, Apple block compromised eMudhra CA certificates. ماذا: Mozilla, Google, Apple block compromised eMudhra CA certificates. متى: 2026-10-21T00:46:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/20/certificate.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/"
+    ]
+  },
+  {
     "id": "5a3c7b1661d3653e0d736870",
     "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
     "link": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
@@ -6269,24 +6305,6 @@
     ]
   },
   {
-    "id": "15f1ad45be3bfe100624c886",
-    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
-    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
-    "published": "2026-10-13T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. What: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. When: 2026-10-13T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. ماذا: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. متى: 2026-10-13T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
-    ]
-  },
-  {
     "id": "b79fbc206a1a3030a9bf5bc4",
     "title": "October 2026 Patch Tuesday: 1,413 CVEs Include Three Zero-Days and 75 Critical Vulnerabilities",
     "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/",
@@ -6302,6 +6320,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-october-2026/"
+    ]
+  },
+  {
+    "id": "15f1ad45be3bfe100624c886",
+    "title": "U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance",
+    "link": "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/",
+    "published": "2026-10-13T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. What: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. When: 2026-10-13T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. ماذا: U.S. Government Disrupts FAMOUS CHOLLIMA Operation with CrowdStrike Assistance. متى: 2026-10-13T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/fbi-disrupts-famous-chollima-operation-with-crowdstrike-assistance/"
     ]
   },
   {
@@ -143587,78 +143623,6 @@
     "sources": [
       "https://www.zdnet.com/article/winhance-free-optimize-customize-windows/",
       "https://www.zdnet.com/article/microsoft-pc-manager-free-windows-cleanup-tool-test/"
-    ]
-  },
-  {
-    "id": "2f81beed76feeb6fff60f2a5",
-    "title": "I finally tried pairing headphones to my TV streaming stick, and I'm not going back",
-    "link": "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/",
-    "published": "2026-04-24T01:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I finally tried pairing headphones to my TV streaming stick, and I'm not going back. What: I finally tried pairing headphones to my TV streaming stick, and I'm not going back. When: 2026-04-24T01:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I finally tried pairing headphones to my TV streaming stick, and I'm not going back. ماذا: I finally tried pairing headphones to my TV streaming stick, and I'm not going back. متى: 2026-04-24T01:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/52ffb4347ee55218a722a2636b71433c07a9110d/2025/11/20/e444026b-c59d-4dcf-8c19-0c548bf4a678/1000002106.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-connect-headphones-to-a-streaming-stick/"
-    ]
-  },
-  {
-    "id": "d09bdee91de136c2af776606",
-    "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
-    "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
-    "published": "2026-04-24T01:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets. What: Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets. When: 2026-04-24T01:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets. ماذا: Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets. متى: 2026-04-24T01:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets"
-    ]
-  },
-  {
-    "id": "323154552b436717d6377549",
-    "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
-    "published": "2026-04-24T01:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.. What: Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia. When: 2026-04-24T01:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.. ماذا: Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia. متى: 2026-04-24T01:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia"
-    ]
-  },
-  {
-    "id": "8121b5d85fd7755fde41c64c",
-    "title": "How indirect prompt injection attacks on AI work - and 6 ways to shut them down",
-    "link": "https://www.zdnet.com/article/how-indirect-prompt-injection-attacks-on-ai-work-and-6-ways-to-shut-them-down/",
-    "published": "2026-04-24T00:00:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How indirect prompt injection attacks on AI work - and 6 ways to shut them down. What: How indirect prompt injection attacks on AI work - and 6 ways to shut them down. When: 2026-04-24T00:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How indirect prompt injection attacks on AI work - and 6 ways to shut them down. ماذا: How indirect prompt injection attacks on AI work - and 6 ways to shut them down. متى: 2026-04-24T00:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8bdc6becdd3f139506514ea2d26aac13af89677c/2026/04/23/4af5add2-e2d5-43a3-b7cc-e858b01d7202/gettyimages-1376579671.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-indirect-prompt-injection-attacks-on-ai-work-and-6-ways-to-shut-them-down/"
     ]
   }
 ]
