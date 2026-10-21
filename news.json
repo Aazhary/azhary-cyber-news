@@ -36,6 +36,81 @@
     ]
   },
   {
+    "id": "d8f28661293c445270dcffd4",
+    "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+    "link": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+    "published": "2026-10-21T23:02:57+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: They credited researchers at Calif, OpenAI, and Wiz with finding the security holes between August and September.. What: On Wednesday, just hours after releasing emergency patches for the two bugs collectively called PHP2shell, PHP maintainers published a blog about how the vulnerabilities were found and fixed.. When: 2026-10-21T23:02:57+00:00. How: PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure. Action: See Arabic action below.",
+    "summary_ar": "من: They credited researchers at Calif, OpenAI, and Wiz with finding the security holes between August and September.. ماذا: On Wednesday, just hours after releasing emergency patches for the two bugs collectively called PHP2shell, PHP maintainers published a blog about how the vulnerabilities were found and fixed.. متى: 2026-10-21T23:02:57+00:00. كيف: PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304620.jpg?imageId=5304620&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611"
+    ]
+  },
+  {
+    "id": "832124389031586a740a37ae",
+    "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+    "published": "2026-10-21T22:16:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks. What: Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks.. When: 2026-10-21T22:16:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: [...] Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks. ماذا: Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks.. متى: 2026-10-21T22:16:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/chrome.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/"
+    ]
+  },
+  {
+    "id": "e9fd60a700e2a4db544786cc",
+    "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+    "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+    "published": "2026-10-21T21:43:27+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected. What: Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected. When: 2026-10-21T21:43:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected. ماذا: Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected. متى: 2026-10-21T21:43:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/cloud-servers.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/"
+    ]
+  },
+  {
+    "id": "7bcbd743c3f71fbeb2e5c215",
+    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+    "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+    "published": "2026-10-21T21:15:39+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: TiDB Breach Exposes Flawed Cloud Security Assumptions. What: TiDB Breach Exposes Flawed Cloud Security Assumptions. When: 2026-10-21T21:15:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: TiDB Breach Exposes Flawed Cloud Security Assumptions. ماذا: TiDB Breach Exposes Flawed Cloud Security Assumptions. متى: 2026-10-21T21:15:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security"
+    ]
+  },
+  {
     "id": "3371acd3dcb3c1699d1142a0",
     "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
     "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
@@ -143879,24 +143954,6 @@
     "sources": [
       "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
       "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html"
-    ]
-  },
-  {
-    "id": "8bdcc983bcc1f31420a6b305",
-    "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
-    "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
-    "published": "2026-04-24T22:34:13+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Helping Romance Scam Victims Requires a Proactive, Empathic Approach. What: Helping Romance Scam Victims Requires a Proactive, Empathic Approach. When: 2026-04-24T22:34:13+00:00. How: Experts want law enforcement, financial, and government institutions to work together and protect them. Action: See Arabic action below.",
-    "summary_ar": "من: Helping Romance Scam Victims Requires a Proactive, Empathic Approach. ماذا: Helping Romance Scam Victims Requires a Proactive, Empathic Approach. متى: 2026-04-24T22:34:13+00:00. كيف: Experts want law enforcement, financial, and government institutions to work together and protect them.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt699701584743837c/64f17958cc9d3b15583a72fd/scam_keyboard_Chih-Chung_Johnny_Chang_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims"
     ]
   }
 ]
