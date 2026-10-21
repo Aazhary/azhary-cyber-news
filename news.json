@@ -36,6 +36,549 @@
     ]
   },
   {
+    "id": "3cd0deedd7470fa8bedc4f27",
+    "title": "Signal bug could keep your mic - and camera - on after hangup",
+    "link": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+    "published": "2026-10-21T17:00:58+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The vulnerability is classified as CWE-754, or improper checking for unusual or exceptional conditions, according to a report posted to GitHub.. What: The attack complexity is considered low according to the CVE, and while CISA’s known exploited vulnerabilities catalog doesn’t indicate this has been spotted in the wild, Signal users ought to ensure they’ve updated their apps - mobile and desktop - to the latest versions to ensure they don’t end up being caught on a hot mic without any notice.. When: 2026-10-21T17:00:58+00:00. How: The vulnerability, CVE-2026-113380, was published by MITRE on Tuesday and given a CVSS score of 9.3, marking it as a critical issue in Signal’s open-source RingRTC library in every single version before 2.72.0. Action: See Arabic action below.",
+    "summary_ar": "من: The vulnerability is classified as CWE-754, or improper checking for unusual or exceptional conditions, according to a report posted to GitHub.. ماذا: The attack complexity is considered low according to the CVE, and while CISA’s known exploited vulnerabilities catalog doesn’t indicate this has been spotted in the wild, Signal users ought to ensure they’ve updated their apps - mobile and desktop - to the latest versions to ensure they don’t end up being caught on a hot mic without any notice.. متى: 2026-10-21T17:00:58+00:00. كيف: The vulnerability, CVE-2026-113380, was published by MITRE on Tuesday and given a CVSS score of 9.3, marking it as a critical issue in Signal’s open-source RingRTC library in every single version before 2.72.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-113380"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304543.jpg?imageId=5304543&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528"
+    ]
+  },
+  {
+    "id": "6397dd9bb23f42617181a624",
+    "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
+    "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
+    "published": "2026-10-21T17:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .. What: The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .. When: 2026-10-21T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .. ماذا: The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek .. متى: 2026-10-21T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
+    "sources": [
+      "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/"
+    ]
+  },
+  {
+    "id": "661e0d2a54c94546e9ed8a0b",
+    "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+    "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
+    "published": "2026-10-21T16:50:40+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. What: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. When: 2026-10-21T16:50:40+00:00. How: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications. Action: See Arabic action below.",
+    "summary_ar": "من: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. ماذا: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. متى: 2026-10-21T16:50:40+00:00. كيف: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/php-exploit-code.webp",
+    "sources": [
+      "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/"
+    ]
+  },
+  {
+    "id": "a124b567afcf174d2fec3325",
+    "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
+    "published": "2026-10-21T16:50:15+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.. What: OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors. When: 2026-10-21T16:50:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.. ماذا: OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors. متى: 2026-10-21T16:50:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors"
+    ]
+  },
+  {
+    "id": "43c55ecea3bfa62ed189a2d8",
+    "title": "Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection",
+    "link": "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/",
+    "published": "2026-10-21T16:43:12+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Google’s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.. What: Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection. When: 2026-10-21T16:43:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google’s browser will flash two types of warnings based on whether the site is deemed dangerous or just suspicious.. ماذا: Chrome warns you about suspicious websites now – how to turn on Google’s new scam protection. متى: 2026-10-21T16:43:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Chrome-Enhance-protection-in-Safe-Browsing-mode.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/chrome-browser-warns-suspicious-websites-scam-protection/"
+    ]
+  },
+  {
+    "id": "2cd8b2bd53ed9bc37e2bb70e",
+    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+    "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+    "published": "2026-10-21T16:33:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.. What: OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So. When: 2026-10-21T16:33:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.. ماذا: OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So. متى: 2026-10-21T16:33:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html"
+    ]
+  },
+  {
+    "id": "2810027585c5f3b558764b60",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
+    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "published": "2026-10-21T16:30:34+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619. What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619. When: 2026-10-21T16:30:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619. ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619. متى: 2026-10-21T16:30:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "cve-2026-109618",
+      "cve-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+    ]
+  },
+  {
+    "id": "288893f636793d08fd7bcc5e",
+    "title": "OpenAI agents disabled safety monitoring, one lied about it",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+    "published": "2026-10-21T16:26:53+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so.. What: OpenAI agents disabled safety monitoring, one lied about it. When: 2026-10-21T16:26:53+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so.. ماذا: OpenAI agents disabled safety monitoring, one lied about it. متى: 2026-10-21T16:26:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/robot.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/"
+    ]
+  },
+  {
+    "id": "b716aa6739b48d77a3d8369c",
+    "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
+    "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
+    "published": "2026-10-21T15:44:48+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Optiv Launches CyberBOT Cybersecurity Awareness Training Program. What: Optiv Launches CyberBOT Cybersecurity Awareness Training Program. When: 2026-10-21T15:44:48+00:00. How: Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities. Action: See Arabic action below.",
+    "summary_ar": "من: Optiv Launches CyberBOT Cybersecurity Awareness Training Program. ماذا: Optiv Launches CyberBOT Cybersecurity Awareness Training Program. متى: 2026-10-21T15:44:48+00:00. كيف: Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program"
+    ]
+  },
+  {
+    "id": "ce8b3bbcd62b97940af9c800",
+    "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
+    "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
+    "published": "2026-10-21T15:29:09+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk. What: Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk. When: 2026-10-21T15:29:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk. ماذا: Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk. متى: 2026-10-21T15:29:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable"
+    ]
+  },
+  {
+    "id": "24755a352d3db0870291b019",
+    "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
+    "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
+    "published": "2026-10-21T15:26:07+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.. What: Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers.. When: 2026-10-21T15:26:07+00:00. How: Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Action: See Arabic action below.",
+    "summary_ar": "من: Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.. ماذا: Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers.. متى: 2026-10-21T15:26:07+00:00. كيف: Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "cve-2026-109618",
+      "cve-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/"
+    ]
+  },
+  {
+    "id": "bb6dba2465a6fa419babc51c",
+    "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
+    "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
+    "published": "2026-10-21T15:18:04+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: This means that the flaws cannot be patched via application code, and the only possible fix is to update PHP on the server.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
+    "summary_ar": "من: This means that the flaws cannot be patched via application code, and the only possible fix is to update PHP on the server.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/21122913/php2shell-featured-image.jpg",
+    "sources": [
+      "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/"
+    ]
+  },
+  {
+    "id": "e65691ba63a784d625d8c39f",
+    "title": "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched",
+    "link": "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+    "published": "2026-10-21T15:08:51+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched. What: PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline.. When: 2026-10-21T15:08:51+00:00. How: All PHP installations serving web requests are potentially affected, including deployments using PHP-FPM, Apache's mod_php, php-cgi, FrankenPHP, and LiteSpeed, the developers said. Action: See Arabic action below.",
+    "summary_ar": "من: PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched. ماذا: PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline.. متى: 2026-10-21T15:08:51+00:00. كيف: All PHP installations serving web requests are potentially affected, including deployments using PHP-FPM, Apache's mod_php, php-cgi, FrankenPHP, and LiteSpeed, the developers said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/263315.jpg?imageId=263315&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519"
+    ]
+  },
+  {
+    "id": "a45dacf80c102b58903777ab",
+    "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+    "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+    "published": "2026-10-21T15:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. What: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. When: 2026-10-21T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. ماذا: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. متى: 2026-10-21T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/APT-threat-actor.jpg",
+    "sources": [
+      "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/"
+    ]
+  },
+  {
+    "id": "39c22ce6b5e8da340e722079",
+    "title": "New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity",
+    "link": "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/",
+    "published": "2026-10-21T15:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity. What: New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity. When: 2026-10-21T15:00:00+00:00. How: Researchers have uncovered Athena StealthRoute, a phishing-as-a-service platform featuring an AI Studio that generates phishing lures and decoy content designed to conceal attacks New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity Action: See Arabic action below.",
+    "summary_ar": "من: New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity. ماذا: New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity. متى: 2026-10-21T15:00:00+00:00. كيف: Researchers have uncovered Athena StealthRoute, a phishing-as-a-service platform featuring an AI Studio that generates phishing lures and decoy content designed to conceal attacks New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/0b81a1c4-5d4b-470a-9ad8-aac04313a2a1.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/"
+    ]
+  },
+  {
+    "id": "67c1ab51681c6295a549fab3",
+    "title": "High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7",
+    "link": "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/",
+    "published": "2026-10-21T14:45:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.. What: Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.. When: 2026-10-21T14:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.. ماذا: Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents.. متى: 2026-10-21T14:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/Threat-Intelligence-sharing.jpg",
+    "sources": [
+      "https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/"
+    ]
+  },
+  {
+    "id": "a5afc0aef8988cce9c8d7893",
+    "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+    "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+    "published": "2026-10-21T14:07:05+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: [...] PHP ships emergency patches for critical PHP2Shell flaws. What: The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell.. When: 2026-10-21T14:07:05+00:00. How: The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. Action: See Arabic action below.",
+    "summary_ar": "من: [...] PHP ships emergency patches for critical PHP2Shell flaws. ماذا: The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell.. متى: 2026-10-21T14:07:05+00:00. كيف: The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/PHP.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+    ]
+  },
+  {
+    "id": "82f2f30c73ef570210a33d5a",
+    "title": "Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye",
+    "link": "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/",
+    "published": "2026-10-21T14:01:31+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye. What: Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye. When: 2026-10-21T14:01:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye. ماذا: Amazon unveiled 5 new Blink cameras, including a 4K model that caught my eye. متى: 2026-10-21T14:01:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Blink-Frontier-XR_BLK_1600x900-copy.jpg",
+    "sources": [
+      "https://www.zdnet.com/home-and-office/new-amazon-blink-cameras-worth-the-upgrade/"
+    ]
+  },
+  {
+    "id": "b96c0a11c50af1f6bd011590",
+    "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
+    "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
+    "published": "2026-10-21T14:00:24+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities. What: “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities. When: 2026-10-21T14:00:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities. ماذا: “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities. متى: 2026-10-21T14:00:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/AdobeStock_1246251272-2-1.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/"
+    ]
+  },
+  {
+    "id": "bc6b0429e7ca2d4b0bbae852",
+    "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+    "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+    "published": "2026-10-21T14:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ClickFix has never been bigger, and AI tools are its most convincing lure yet. What: ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware.. When: 2026-10-21T14:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ClickFix has never been bigger, and AI tools are its most convincing lure yet. ماذا: ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware.. متى: 2026-10-21T14:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/10/20/push-clickfix-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/"
+    ]
+  },
+  {
+    "id": "6478f5844cef708f6269febd",
+    "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+    "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+    "published": "2026-10-21T14:00:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server.. What: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server.. When: 2026-10-21T14:00:00+00:00. How: The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge Action: See Arabic action below.",
+    "summary_ar": "من: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server.. ماذا: PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server.. متى: 2026-10-21T14:00:00+00:00. كيف: The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif",
+    "sources": [
+      "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
+    ]
+  },
+  {
+    "id": "2414dca819ad256636e29373",
+    "title": "Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks",
+    "link": "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/",
+    "published": "2026-10-21T14:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks. What: Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks. When: 2026-10-21T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks. ماذا: Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks. متى: 2026-10-21T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/2f22fc70-5d79-4169-a307-0caddfa3b478.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/symantec-ai-agent-llmjacking/"
+    ]
+  },
+  {
+    "id": "71ae2abe129649061cbba95f",
+    "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
+    "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
+    "published": "2026-10-21T13:17:35+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security. What: Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security. When: 2026-10-21T13:17:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security. ماذا: Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security. متى: 2026-10-21T13:17:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/funding-round.jpeg",
+    "sources": [
+      "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/"
+    ]
+  },
+  {
+    "id": "f29fd7d40b5fbe920ec351d1",
+    "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+    "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+    "published": "2026-10-21T13:15:09+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.. What: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.. When: 2026-10-21T13:15:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.. ماذا: Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.. متى: 2026-10-21T13:15:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
+    ]
+  },
+  {
+    "id": "13820dacd5f3c8a8022ff261",
+    "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
+    "published": "2026-10-21T13:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. What: Decades-Old Windows Utility Powers Modern ClickFix Attack. When: 2026-10-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. ماذا: Decades-Old Windows Utility Powers Modern ClickFix Attack. متى: 2026-10-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfaf93bd096fd735c/6a45559d327edd13ed6ac140/clickfix-tumsasedgars-Getty-2234293893.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack"
+    ]
+  },
+  {
+    "id": "9fa3f970853e8bb616564d6a",
+    "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
+    "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+    "published": "2026-10-21T12:57:47+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.. What: The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.. When: 2026-10-21T12:57:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.. ماذا: The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities.. متى: 2026-10-21T12:57:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Chrome.jpeg",
+    "sources": [
+      "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/"
+    ]
+  },
+  {
+    "id": "2616dfa7252a09b546c684c6",
+    "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+    "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+    "published": "2026-10-21T12:34:22+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first on SecurityWeek .. What: OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor. When: 2026-10-21T12:34:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first on SecurityWeek .. ماذا: OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor. متى: 2026-10-21T12:34:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/AI_Kill-Humanity.jpg",
+    "sources": [
+      "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/"
+    ]
+  },
+  {
+    "id": "ba8deb36fe9d954ac1b5d9e6",
+    "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+    "published": "2026-10-21T12:20:34+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements.. What: Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements.. When: 2026-10-21T12:20:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements.. ماذا: Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements.. متى: 2026-10-21T12:20:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/microsoft-powertoys_mouse_pointer.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/"
+    ]
+  },
+  {
+    "id": "c7a020f274e08e161cf0a926",
+    "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+    "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+    "published": "2026-10-21T12:05:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors. What: Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.. When: 2026-10-21T12:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors. ماذا: Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.. متى: 2026-10-21T12:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png",
+    "sources": [
+      "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html"
+    ]
+  },
+  {
     "id": "c24ca7c42eb6b473dd24d2bc",
     "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
     "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
@@ -72,6 +615,24 @@
     ]
   },
   {
+    "id": "b81260804ad329892cc99a5c",
+    "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+    "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+    "published": "2026-10-21T11:53:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports. What: Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports. When: 2026-10-21T11:53:34+00:00. How: Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Action: See Arabic action below.",
+    "summary_ar": "من: Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports. ماذا: Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports. متى: 2026-10-21T11:53:34+00:00. كيف: Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html"
+    ]
+  },
+  {
     "id": "531851bbfcaff478d426903d",
     "title": "Nvidia picks OpenShell to tame AI gents",
     "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
@@ -91,12 +652,12 @@
   },
   {
     "id": "90348f559293d0a2afc66fec",
-    "title": "Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+    "title": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
     "link": "https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/",
     "published": "2026-10-21T11:30:00+00:00",
     "source": "zdnet.com",
-    "summary_en": "Who: Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. What: Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. When: 2026-10-21T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. ماذا: Exclusive: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. متى: 2026-10-21T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. What: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. When: 2026-10-21T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. ماذا: ServiceNow and Nvidia launch Arc, a new AI agent for enterprise. متى: 2026-10-21T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -293,8 +854,8 @@
     "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
     "published": "2026-10-21T09:05:17+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. What: Once the release is out, the affected and fixed versions below are confirmed by the official advisory.. When: 2026-10-21T09:05:17+00:00. How: PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert Action: See Arabic action below.",
-    "summary_ar": "من: PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. ماذا: Once the release is out, the affected and fixed versions below are confirmed by the official advisory.. متى: 2026-10-21T09:05:17+00:00. كيف: PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: ⚡ PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. What: Once the release is out, the affected and fixed versions below are confirmed by the official advisory.. When: 2026-10-21T09:05:17+00:00. How: ⚡ PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert Action: See Arabic action below.",
+    "summary_ar": "من: ⚡ PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. ماذا: Once the release is out, the affected and fixed versions below are confirmed by the official advisory.. متى: 2026-10-21T09:05:17+00:00. كيف: ⚡ PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -471,6 +1032,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg",
     "sources": [
       "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/"
+    ]
+  },
+  {
+    "id": "acaa113a0748b20f93577d6f",
+    "title": "CrowdStrike Uncovers New Agentic AI Campaigns",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/",
+    "published": "2026-10-21T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Uncovers New Agentic AI Campaigns. What: CrowdStrike Uncovers New Agentic AI Campaigns. When: 2026-10-21T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Uncovers New Agentic AI Campaigns. ماذا: CrowdStrike Uncovers New Agentic AI Campaigns. متى: 2026-10-21T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/"
     ]
   },
   {
@@ -143256,408 +143835,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/06/18/Linux_tux.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/"
-    ]
-  },
-  {
-    "id": "b737cac7f7c80863f2949159",
-    "title": "How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free",
-    "link": "https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/",
-    "published": "2026-04-24T17:22:25+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free. What: How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free. When: 2026-04-24T17:22:25+00:00. How: Using Claude's interactive connections to third-party services such as TripAdvisor and AllTrails, I mapped a summer hiking trip, including trails, hotels, tours, and even a playlist to accompany us. Action: See Arabic action below.",
-    "summary_ar": "من: How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free. ماذا: How I used Claude AI to plan an entire hiking trip to the Adirondacks in 30 minutes - for free. متى: 2026-04-24T17:22:25+00:00. كيف: Using Claude's interactive connections to third-party services such as TripAdvisor and AllTrails, I mapped a summer hiking trip, including trails, hotels, tours, and even a playlist to accompany us.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/f4d69c176c88b648da5d2b330fdd0f3353026c58/2026/04/24/a0f8c640-c5b2-4972-8cb6-5365c99bb9e6/i-used-claude-ai-to-plan-a-hiking-trip-for-the-summer-heres-how-it-helped.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/claude-ai-connectors-hands-on-planning-a-trip/"
-    ]
-  },
-  {
-    "id": "fac946ad110cbc4aa57d45f3",
-    "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-    "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-    "published": "2026-04-24T17:06:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER.. What: FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches. When: 2026-04-24T17:06:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER.. ماذا: FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches. متى: 2026-04-24T17:06:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html"
-    ]
-  },
-  {
-    "id": "5d7dce80d268c27ec04f5f4b",
-    "title": "The 4 streaming services I swear by - and my bill is just $40 a month",
-    "link": "https://www.zdnet.com/article/streaming-services-i-swear-by-to-keep-monthly-bill-low/",
-    "published": "2026-04-24T16:52:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The 4 streaming services I swear by - and my bill is just $40 a month. What: The 4 streaming services I swear by - and my bill is just $40 a month. When: 2026-04-24T16:52:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The 4 streaming services I swear by - and my bill is just $40 a month. ماذا: The 4 streaming services I swear by - and my bill is just $40 a month. متى: 2026-04-24T16:52:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cbe4927277e830d94e9a33d56a3d72b49fc75508/2026/03/31/ea621da8-a3f3-4efd-84f2-2baa5990f4e5/prompplay-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/streaming-services-i-swear-by-to-keep-monthly-bill-low/"
-    ]
-  },
-  {
-    "id": "4452a2c400ebae1706df9489",
-    "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
-    "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
-    "published": "2026-04-24T16:48:04+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: US Busts Myanmar Ring Targeting US Citizens in Financial Fraud. What: US Busts Myanmar Ring Targeting US Citizens in Financial Fraud. When: 2026-04-24T16:48:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US Busts Myanmar Ring Targeting US Citizens in Financial Fraud. ماذا: US Busts Myanmar Ring Targeting US Citizens in Financial Fraud. متى: 2026-04-24T16:48:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt798fb98cb0e72278/69eba133172e119ab194fef8/SE_Asia-slegers_hans-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud"
-    ]
-  },
-  {
-    "id": "92da7f4240154249ee99ec51",
-    "title": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/",
-    "published": "2026-04-24T16:03:14+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit. What: US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit. When: 2026-04-24T16:03:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit. ماذا: US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit. متى: 2026-04-24T16:03:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2021/09/28/shutterstock_router.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/"
-    ]
-  },
-  {
-    "id": "cca24f2720b35a0a01ba6c0a",
-    "title": "ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface",
-    "link": "https://www.theregister.com/security/2026/04/24/shinyhunters-claim-they-have-cruise-giant-carnivals-booty/5224615",
-    "published": "2026-04-24T15:35:52+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface. What: ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface. When: 2026-04-24T15:35:52+00:00. How: It said the \"data contained fields indicating it related to the Mariner Society loyalty program run by Holland America.\" The exposed data includes names, dates of birth, genders, and membership status details – the kind of personal data attackers can easily repurpose for fraud or phishing. Action: See Arabic action below.",
-    "summary_ar": "من: ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface. ماذا: ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface. متى: 2026-04-24T15:35:52+00:00. كيف: It said the \"data contained fields indicating it related to the Mariner Society loyalty program run by Holland America.\" The exposed data includes names, dates of birth, genders, and membership status details – the kind of personal data attackers can easily repurpose for fraud or phishing.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5225143.jpg?imageId=5225143&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/24/shinyhunters-claim-they-have-cruise-giant-carnivals-booty/5224615",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/"
-    ]
-  },
-  {
-    "id": "49fde301cceb95f6bd834fdd",
-    "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
-    "published": "2026-04-24T15:04:29+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Glasswing Secured the Code. The Rest of Your Stack Is Still on You. What: Glasswing Secured the Code. The Rest of Your Stack Is Still on You. When: 2026-04-24T15:04:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Glasswing Secured the Code. The Rest of Your Stack Is Still on You. ماذا: Glasswing Secured the Code. The Rest of Your Stack Is Still on You. متى: 2026-04-24T15:04:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fceb678bad33d92/69eace49fd15051754836a22/Glasswing_Casimiro_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you"
-    ]
-  },
-  {
-    "id": "3487d33570a4c0c35cec43c6",
-    "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
-    "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
-    "published": "2026-04-24T14:57:18+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions. What: Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions. When: 2026-04-24T14:57:18+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions. ماذا: Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions. متى: 2026-04-24T14:57:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/Iran-Cyber-attacks.jpg",
-    "sources": [
-      "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/"
-    ]
-  },
-  {
-    "id": "eed5912ad9cd9c9a502eb503",
-    "title": "The Microsoft Surface Pro is nearly 40% off at Best Buy - and we highly recommend it",
-    "link": "https://www.zdnet.com/article/microsoft-surface-pro-best-buy-deal/",
-    "published": "2026-04-24T14:50:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Microsoft Surface Pro is a powerful 2-in-1 laptop, and right now at Best Buy, you can save $800 on the 13-inch version.. What: The Microsoft Surface Pro is nearly 40% off at Best Buy - and we highly recommend it. When: 2026-04-24T14:50:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Microsoft Surface Pro is a powerful 2-in-1 laptop, and right now at Best Buy, you can save $800 on the 13-inch version.. ماذا: The Microsoft Surface Pro is nearly 40% off at Best Buy - and we highly recommend it. متى: 2026-04-24T14:50:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/61e40a65a2ce7164dd8936f95463f12fa427f1a4/2025/05/12/68a4a33f-6404-437c-9d43-5dd9e754beeb/img-2005-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-surface-pro-best-buy-deal/"
-    ]
-  },
-  {
-    "id": "b379cb94cec357736cd6d011",
-    "title": "Governments on high alert after CISA snuffs out Firestarter backdoor on fed network",
-    "link": "https://www.theregister.com/security/2026/04/24/cisa-ncsc-issue-firestarter-backdoor-warning/5221148",
-    "published": "2026-04-24T14:46:07+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency's name.. What: A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency's name.. When: 2026-04-24T14:46:07+00:00. How: Despite the perceived focus on government and critical national infrastructure, all organizations in the US and UK are advised to take preventative measures. Action: See Arabic action below.",
-    "summary_ar": "من: A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency's name.. ماذا: A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts – neither of which disclosed the agency's name.. متى: 2026-04-24T14:46:07+00:00. كيف: Despite the perceived focus on government and critical national infrastructure, all organizations in the US and UK are advised to take preventative measures.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2025-20333",
-      "CVE-2025-20362"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5221547.jpg?imageId=5221547&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/24/cisa-ncsc-issue-firestarter-backdoor-warning/5221148",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/"
-    ]
-  },
-  {
-    "id": "f921ea7cc3023754da06e8df",
-    "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
-    "link": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
-    "published": "2026-04-24T14:31:51+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security.. What: In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device. When: 2026-04-24T14:31:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security.. ماذا: In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device. متى: 2026-04-24T14:31:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
-    "sources": [
-      "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/"
-    ]
-  },
-  {
-    "id": "b420a0d4cbb64ae0a932db12",
-    "title": "More ancient Linux device support faces the chop",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/",
-    "published": "2026-04-24T14:15:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: More ancient Linux device support faces the chop. What: More ancient Linux device support faces the chop. When: 2026-04-24T14:15:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: More ancient Linux device support faces the chop. ماذا: More ancient Linux device support faces the chop. متى: 2026-04-24T14:15:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2026/04/23/shutterstock_2751078647.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/"
-    ]
-  },
-  {
-    "id": "ecd94658e690285c4613e93f",
-    "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-    "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-    "published": "2026-04-24T14:13:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws.. What: NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software. When: 2026-04-24T14:13:00+00:00. How: researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws. Action: See Arabic action below.",
-    "summary_ar": "من: researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws.. ماذا: NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software. متى: 2026-04-24T14:13:00+00:00. كيف: researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAuHNFOxvs6UDl3EnaRiFcpN6xXjeqMCeudHBwRKzbIoUCdno0MHlfe2ijlnYU7D5k0vi4nlhv9j_hkR4zeaHTq2xewCOVza2_qYZZxpy_Qy1V_IQu5nO5lDyGzeG3P_B5kSbGT5W01Ic0E_FuSlWat1zsWYCDHhYbqQ_S5Q8p1WO14UStW8EJ4PIkKuX/s1600/WANTED.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html"
-    ]
-  },
-  {
-    "id": "4a1aba9d866deac4e6bf4e15",
-    "title": "DORA and operational resilience: Credential management as a financial risk control",
-    "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-    "published": "2026-04-24T14:10:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: DORA and operational resilience: Credential management as a financial risk control. What: DORA and operational resilience: Credential management as a financial risk control. When: 2026-04-24T14:10:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: DORA and operational resilience: Credential management as a financial risk control. ماذا: DORA and operational resilience: Credential management as a financial risk control. متى: 2026-04-24T14:10:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/04/23/passwork-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/"
-    ]
-  },
-  {
-    "id": "7e79df0d9238a6f8242a0280",
-    "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
-    "published": "2026-04-24T13:35:33+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks. What: Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks. When: 2026-04-24T13:35:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks. ماذا: Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks. متى: 2026-04-24T13:35:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/24/Zimbra.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
-    ]
-  },
-  {
-    "id": "df4c1327746cc96dc5acfcd4",
-    "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
-    "link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
-    "published": "2026-04-24T13:30:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: AI Phishing Is No. 1 With a Bullet for Cyberattackers. What: AI Phishing Is No. 1 With a Bullet for Cyberattackers. When: 2026-04-24T13:30:00+00:00. How: In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks. Action: See Arabic action below.",
-    "summary_ar": "من: AI Phishing Is No. 1 With a Bullet for Cyberattackers. ماذا: AI Phishing Is No. 1 With a Bullet for Cyberattackers. متى: 2026-04-24T13:30:00+00:00. كيف: In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers"
-    ]
-  },
-  {
-    "id": "0d7d352eb7972b5fc6611fcb",
-    "title": "UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China",
-    "link": "https://www.infosecurity-magazine.com/news/uk-biobank-data-beach-health-data/",
-    "published": "2026-04-24T13:25:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China. What: UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China. When: 2026-04-24T13:25:00+00:00. How: UK government Minister confirms that breached health records of UK Biobank volunteers were up for sale on Chinese ecommerce platforms before being removed UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China Action: See Arabic action below.",
-    "summary_ar": "من: UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China. ماذا: UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China. متى: 2026-04-24T13:25:00+00:00. كيف: UK government Minister confirms that breached health records of UK Biobank volunteers were up for sale on Chinese ecommerce platforms before being removed UK Biobank Data Breach: Health Data of 500,000 Listed for Sale in China. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/0c51c0a1-ef1a-406e-8598-2b993504584d.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/uk-biobank-data-beach-health-data/"
-    ]
-  },
-  {
-    "id": "b7acfb7dcdbde084099d54ed",
-    "title": "I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work",
-    "link": "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/",
-    "published": "2026-04-24T13:19:02+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work. What: I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work. When: 2026-04-24T13:19:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work. ماذا: I tried ChatGPT Images 2.0: A fun, huge leap - and surprisingly useful for real work. متى: 2026-04-24T13:19:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8fcb62e4cc9663ab492bc3c8760256de778fffb0/2026/04/24/c453df52-cdd0-4636-bff4-2f4f934db934/gpt-images-2-0.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpt-images-2-0-hands-on-test-fun-huge-useful-leap/"
-    ]
-  },
-  {
-    "id": "8147ca4b29a9feea9305ce12",
-    "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
-    "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
-    "published": "2026-04-24T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: North Korea's Lazarus Targets macOS Users via ClickFix. What: Lazarus continues leveraging ClickFix for initial access and data theft: in this case, against Mac-centric organizations and their high-value leaders.. When: 2026-04-24T13:00:00+00:00. How: North Korea's Lazarus Targets macOS Users via ClickFix Action: See Arabic action below.",
-    "summary_ar": "من: North Korea's Lazarus Targets macOS Users via ClickFix. ماذا: Lazarus continues leveraging ClickFix for initial access and data theft: in this case, against Mac-centric organizations and their high-value leaders.. متى: 2026-04-24T13:00:00+00:00. كيف: North Korea's Lazarus Targets macOS Users via ClickFix. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt955244a1688ad92a/69ea733c149efc64d46724f4/Mouse_click_Alexey_Stiop_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix"
-    ]
-  },
-  {
-    "id": "4db17b747b87d2efe70c61df",
-    "title": "Intel bets the farm on AI inference to drag CPU back to the top table",
-    "link": "https://www.theregister.com/security/2026/04/24/intel-expects-ai-inference-to-drive-demand-for-its-cpus/5227642",
-    "published": "2026-04-24T12:50:36+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Lip-Bu also referenced a recent long-term deal with Google for co-development of infrastructure processing units (IPUs) to offload networking and other tasks, saying: \"This is a good example of how we win in AI infrastructure build-out.. What: Zinsner reported Q1 revenue of $13.6 billion, beating expectations, with AI-driven business lines accounting for 60 percent of that figure, up 40 percent year-on-year.. When: 2026-04-24T12:50:36+00:00. How: Zinsner reported Q1 revenue of $13.6 billion, beating expectations, with AI-driven business lines accounting for 60 percent of that figure, up 40 percent year-on-year. Action: See Arabic action below.",
-    "summary_ar": "من: Lip-Bu also referenced a recent long-term deal with Google for co-development of infrastructure processing units (IPUs) to offload networking and other tasks, saying: \"This is a good example of how we win in AI infrastructure build-out.. ماذا: Zinsner reported Q1 revenue of $13.6 billion, beating expectations, with AI-driven business lines accounting for 60 percent of that figure, up 40 percent year-on-year.. متى: 2026-04-24T12:50:36+00:00. كيف: Zinsner reported Q1 revenue of $13.6 billion, beating expectations, with AI-driven business lines accounting for 60 percent of that figure, up 40 percent year-on-year.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/241611.jpg?imageId=241611&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/24/intel-expects-ai-inference-to-drive-demand-for-its-cpus/5227642",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/"
-    ]
-  },
-  {
-    "id": "06ac0b7acdb858561a63243e",
-    "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
-    "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
-    "published": "2026-04-24T12:34:53+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents. What: Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents. When: 2026-04-24T12:34:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents. ماذا: Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents. متى: 2026-04-24T12:34:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/Agentic-AI-Security.jpg",
-    "sources": [
-      "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/"
-    ]
-  },
-  {
-    "id": "07f1d2ed9bddc814c725e5bb",
-    "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
-    "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
-    "published": "2026-04-24T12:32:08+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise. What: Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise. When: 2026-04-24T12:32:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise. ماذا: Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise. متى: 2026-04-24T12:32:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/NATO-Locked-Shields.jpg",
-    "sources": [
-      "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/"
     ]
   }
 ]
