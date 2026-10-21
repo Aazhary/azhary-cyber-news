@@ -36,6 +36,209 @@
     ]
   },
   {
+    "id": "3371acd3dcb3c1699d1142a0",
+    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+    "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+    "published": "2026-10-21T20:31:48+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Lazarus hackers use post-quantum cryptography for malware delivery. What: Lazarus hackers use post-quantum cryptography for malware delivery. When: 2026-10-21T20:31:48+00:00. How: North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. Action: See Arabic action below.",
+    "summary_ar": "من: Lazarus hackers use post-quantum cryptography for malware delivery. ماذا: Lazarus hackers use post-quantum cryptography for malware delivery. متى: 2026-10-21T20:31:48+00:00. كيف: North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/"
+    ]
+  },
+  {
+    "id": "f6f763b9dab26a6f2319545a",
+    "title": "Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security",
+    "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+    "published": "2026-10-21T20:14:42+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security. What: Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security. When: 2026-10-21T20:14:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security. ماذا: Marvell, Microsoft &amp; Oracle Work to Standardize Data Center Hardware Security. متى: 2026-10-21T20:14:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security"
+    ]
+  },
+  {
+    "id": "04b5c5ae915016214223ca0f",
+    "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+    "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+    "published": "2026-10-21T20:03:14+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens. What: Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens. When: 2026-10-21T20:03:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens. ماذا: Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens. متى: 2026-10-21T20:03:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss"
+    ]
+  },
+  {
+    "id": "07c655d5754241a03e6452ee",
+    "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
+    "link": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
+    "published": "2026-10-21T19:21:11+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: The two flaws are known together as PHP2Shell.. What: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. When: 2026-10-21T19:21:11+00:00. How: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM. Action: See Arabic action below.",
+    "summary_ar": "من: The two flaws are known together as PHP2Shell.. ماذا: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. متى: 2026-10-21T19:21:11+00:00. كيف: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "cve-2026-109618",
+      "cve-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/"
+    ]
+  },
+  {
+    "id": "5f2ddb413304d4e77ab47fbf",
+    "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+    "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+    "published": "2026-10-21T19:19:17+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: 'PHP2Shell' Bugs Signal Red Alert for Security Industry. What: 'PHP2Shell' Bugs Signal Red Alert for Security Industry. When: 2026-10-21T19:19:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 'PHP2Shell' Bugs Signal Red Alert for Security Industry. ماذا: 'PHP2Shell' Bugs Signal Red Alert for Security Industry. متى: 2026-10-21T19:19:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry"
+    ]
+  },
+  {
+    "id": "a9726704f0fa70f01cf48b7b",
+    "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+    "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+    "published": "2026-10-21T18:57:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases. What: GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.. When: 2026-10-21T18:57:34+00:00. How: The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases Action: See Arabic action below.",
+    "summary_ar": "من: Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases. ماذا: GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.. متى: 2026-10-21T18:57:34+00:00. كيف: The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
+    ]
+  },
+  {
+    "id": "02e867512e8a9cc7d4defe63",
+    "title": "Hold onto your old HomePod – an upgrade is on the way",
+    "link": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+    "published": "2026-10-21T18:37:07+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Hold onto your old HomePod – an upgrade is on the way. What: Hold onto your old HomePod – an upgrade is on the way. When: 2026-10-21T18:37:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hold onto your old HomePod – an upgrade is on the way. ماذا: Hold onto your old HomePod – an upgrade is on the way. متى: 2026-10-21T18:37:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/F269D9F0-A35B-45D4-A3A1-082DA9E58CF0_1_105_c.jpeg",
+    "sources": [
+      "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/"
+    ]
+  },
+  {
+    "id": "71f0485320c6db1dca7cf069",
+    "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+    "published": "2026-10-21T18:34:42+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server.. What: CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers. When: 2026-10-21T18:34:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server.. ماذا: CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers. متى: 2026-10-21T18:34:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/CISA.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+    ]
+  },
+  {
+    "id": "ed453db3f24caab797435e07",
+    "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+    "link": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+    "published": "2026-10-21T18:22:20+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Aikido, Google’s Wiz cloud security biz, and supply-chain security provider Socket have all published extensive threat-hunting and mitigation instructions for LiteLLM users and security teams, so give those a read stat.. What: Aikido, Google’s Wiz cloud security biz, and supply-chain security provider Socket have all published extensive threat-hunting and mitigation instructions for LiteLLM users and security teams, so give those a read stat.. When: 2026-10-21T18:22:20+00:00. How: Unknown crims compromised LiteLLM's release process on Wednesday, distributing a malicious version (1.107.0) containing malware designed to steal cloud and AI credentials and a remote access trojan (RAT) capable of executing arbitrary code on infected machines through PyPI and Docker registries. Action: See Arabic action below.",
+    "summary_ar": "من: Aikido, Google’s Wiz cloud security biz, and supply-chain security provider Socket have all published extensive threat-hunting and mitigation instructions for LiteLLM users and security teams, so give those a read stat.. ماذا: Aikido, Google’s Wiz cloud security biz, and supply-chain security provider Socket have all published extensive threat-hunting and mitigation instructions for LiteLLM users and security teams, so give those a read stat.. متى: 2026-10-21T18:22:20+00:00. كيف: Unknown crims compromised LiteLLM's release process on Wednesday, distributing a malicious version (1.107.0) containing malware designed to steal cloud and AI credentials and a remote access trojan (RAT) capable of executing arbitrary code on infected machines through PyPI and Docker registries.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/244835.jpg?imageId=244835&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548"
+    ]
+  },
+  {
+    "id": "da412802b058b0f5241cf2df",
+    "title": "OpenAI’s most powerful AI models turned off safety monitoring – then lied about it",
+    "link": "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/",
+    "published": "2026-10-21T18:15:19+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: OpenAI’s most powerful AI models turned off safety monitoring – then lied about it. What: OpenAI’s most powerful AI models turned off safety monitoring – then lied about it. When: 2026-10-21T18:15:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI’s most powerful AI models turned off safety monitoring – then lied about it. ماذا: OpenAI’s most powerful AI models turned off safety monitoring – then lied about it. متى: 2026-10-21T18:15:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purpleblob-GettyImages-2287018600.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/openai-astra-sol-models-disable-safety-monitoring/"
+    ]
+  },
+  {
+    "id": "f5335e20393badc9e60785d5",
+    "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+    "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+    "published": "2026-10-21T18:01:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor. What: LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor. When: 2026-10-21T18:01:57+00:00. How: The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. Action: See Arabic action below.",
+    "summary_ar": "من: LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor. ماذا: LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor. متى: 2026-10-21T18:01:57+00:00. كيف: The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html"
+    ]
+  },
+  {
     "id": "3cd0deedd7470fa8bedc4f27",
     "title": "Signal bug could keep your mic - and camera - on after hangup",
     "link": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
@@ -79,11 +282,14 @@
     "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
     "published": "2026-10-21T16:50:40+00:00",
     "source": "securityweek.com",
-    "summary_en": "Who: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. What: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. When: 2026-10-21T16:50:40+00:00. How: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications. Action: See Arabic action below.",
-    "summary_ar": "من: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. ماذا: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. متى: 2026-10-21T16:50:40+00:00. كيف: The two RCE bugs can be exploited against WordPress, Drupal, Joomla, and other popular applications.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. What: Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.. When: 2026-10-21T16:50:40+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors. ماذا: Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches.. متى: 2026-10-21T16:50:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
     "cvss": [],
     "impacted": [],
     "image": "https://www.securityweek.com/wp-content/uploads/2026/10/php-exploit-code.webp",
@@ -494,8 +700,8 @@
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
     "published": "2026-10-21T13:00:00+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. What: Decades-Old Windows Utility Powers Modern ClickFix Attack. When: 2026-10-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The attack uses malicious Google search results related to Amazon and leverages the 'finger' utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. ماذا: Decades-Old Windows Utility Powers Modern ClickFix Attack. متى: 2026-10-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "summary_en": "Who: The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. What: Decades-Old Windows Utility Powers Modern ClickFix Attack. When: 2026-10-21T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.. ماذا: Decades-Old Windows Utility Powers Modern ClickFix Attack. متى: 2026-10-21T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "category": "Threat/Attack",
     "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "cves": [],
@@ -1050,6 +1256,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-uncovers-new-agentic-ai-campaigns/"
+    ]
+  },
+  {
+    "id": "ccc5d3547a5c4dacfafb501e",
+    "title": "CrowdStrike Protects Customers from Threats Delivered via PHP2Shell",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/",
+    "published": "2026-10-21T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell. What: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell. When: 2026-10-21T05:00:00+00:00. How: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell. ماذا: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell. متى: 2026-10-21T05:00:00+00:00. كيف: CrowdStrike Protects Customers from Threats Delivered via PHP2Shell. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-protects-customers-from-php-rce-zero-days/"
     ]
   },
   {
@@ -143673,168 +143897,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt699701584743837c/64f17958cc9d3b15583a72fd/scam_keyboard_Chih-Chung_Johnny_Chang_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims"
-    ]
-  },
-  {
-    "id": "cedcfa4c59c8b4efba0c8a7b",
-    "title": "Firestarter malware survives Cisco firewall updates, security patches",
-    "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-    "published": "2026-04-24T20:34:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software.. What: Firestarter malware survives Cisco firewall updates, security patches. When: 2026-04-24T20:34:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software.. ماذا: Firestarter malware survives Cisco firewall updates, security patches. متى: 2026-04-24T20:34:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/24/Cisco.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/"
-    ]
-  },
-  {
-    "id": "8646d4bf0a1c9a9eaac530a2",
-    "title": "TGR-STA-1030: New Activity in Central and South America",
-    "link": "https://unit42.paloaltonetworks.com/new-activity-central-south-america/",
-    "published": "2026-04-24T20:30:19+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: TGR-STA-1030: New Activity in Central and South America. What: TGR-STA-1030: New Activity in Central and South America. When: 2026-04-24T20:30:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TGR-STA-1030: New Activity in Central and South America. ماذا: TGR-STA-1030: New Activity in Central and South America. متى: 2026-04-24T20:30:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/01_Nation-State-cyberattacks_1505x922.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/new-activity-central-south-america/"
-    ]
-  },
-  {
-    "id": "64a99fde1bbb7332efeb4e83",
-    "title": "Windows Update gets new controls to reduce forced restarts",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
-    "published": "2026-04-24T20:08:26+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts.. What: Windows Update gets new controls to reduce forced restarts. When: 2026-04-24T20:08:26+00:00. How: [...] Windows Update gets new controls to reduce forced restarts Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts.. ماذا: Windows Update gets new controls to reduce forced restarts. متى: 2026-04-24T20:08:26+00:00. كيف: [...] Windows Update gets new controls to reduce forced restarts. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/04/02/Windows-11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/"
-    ]
-  },
-  {
-    "id": "08cec2384963928a62098665",
-    "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
-    "link": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/",
-    "published": "2026-04-24T19:00:39+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Search results returned by Google list thousands of hijacked pages.. What: Websites for some of the world’s most prestigious universities are serving explicit porn and malicious content after scammers exploited the shoddy record-keeping of the site administrators, a researcher found recently.. When: 2026-04-24T19:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Search results returned by Google list thousands of hijacked pages.. ماذا: Websites for some of the world’s most prestigious universities are serving explicit porn and malicious content after scammers exploited the shoddy record-keeping of the site administrators, a researcher found recently.. متى: 2026-04-24T19:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/GettyImages-1137650996-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
-    ]
-  },
-  {
-    "id": "8488851845a90627f5e8ca77",
-    "title": "New BlackFile extortion group linked to surge of vishing attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
-    "published": "2026-04-24T18:26:27+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New BlackFile extortion group linked to surge of vishing attacks. What: New BlackFile extortion group linked to surge of vishing attacks. When: 2026-04-24T18:26:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New BlackFile extortion group linked to surge of vishing attacks. ماذا: New BlackFile extortion group linked to surge of vishing attacks. متى: 2026-04-24T18:26:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/24/Hackers.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/"
-    ]
-  },
-  {
-    "id": "26694166b1defb02f014c16a",
-    "title": "FCC's router ban expands to portable hotspots - 4 things this means for you",
-    "link": "https://www.zdnet.com/article/fccs-router-ban-expands-to-portable-hotspots-4-things-this-means-for-you/",
-    "published": "2026-04-24T18:17:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: FCC's router ban expands to portable hotspots - 4 things this means for you. What: FCC's router ban expands to portable hotspots - 4 things this means for you. When: 2026-04-24T18:17:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FCC's router ban expands to portable hotspots - 4 things this means for you. ماذا: FCC's router ban expands to portable hotspots - 4 things this means for you. متى: 2026-04-24T18:17:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9f904c2e14686a485da1e8e72368dd62a54b3857/2026/03/25/95bf13d2-d7f1-4e81-b8c0-b7a13501268c/tp-link-roam-7-mobile-router-image-2.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/fccs-router-ban-expands-to-portable-hotspots-4-things-this-means-for-you/"
-    ]
-  },
-  {
-    "id": "1a68ae47c68df4954edd9f63",
-    "title": "Microsoft to roll out Entra passkeys on Windows in late April",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
-    "published": "2026-04-24T18:13:55+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April.. What: Microsoft to roll out Entra passkeys on Windows in late April. When: 2026-04-24T18:13:55+00:00. How: Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April.. ماذا: Microsoft to roll out Entra passkeys on Windows in late April. متى: 2026-04-24T18:13:55+00:00. كيف: Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/Hacking_login.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/"
-    ]
-  },
-  {
-    "id": "b0e0982724f3fa03507097c3",
-    "title": "I'm automating these 5 unexpected home devices - and life has been so much easier",
-    "link": "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/",
-    "published": "2026-04-24T17:32:30+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm automating these 5 unexpected home devices - and life has been so much easier. What: I'm automating these 5 unexpected home devices - and life has been so much easier. When: 2026-04-24T17:32:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm automating these 5 unexpected home devices - and life has been so much easier. ماذا: I'm automating these 5 unexpected home devices - and life has been so much easier. متى: 2026-04-24T17:32:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6c068faed73d60805530228ee798379d456eb0bc/2025/09/04/6b3000eb-66cb-426d-9632-e288624ccc55/7.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/"
-    ]
-  },
-  {
-    "id": "9e0b3556c2c9cada547f738b",
-    "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
-    "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-    "published": "2026-04-24T17:28:46+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New ‘Pack2TheRoot’ flaw gives hackers root Linux access. What: A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions.. When: 2026-04-24T17:28:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New ‘Pack2TheRoot’ flaw gives hackers root Linux access. ماذا: A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions.. متى: 2026-04-24T17:28:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/06/18/Linux_tux.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/"
     ]
   }
 ]
