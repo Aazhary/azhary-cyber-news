@@ -36,6 +36,373 @@
     ]
   },
   {
+    "id": "0f075004a55aa8407ce597e1",
+    "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
+    "link": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
+    "published": "2026-10-22T17:36:30+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Max-severity GitLab bug allows remote code execution over 12 years of releases. What: GitLab on Wednesday patched a maximum-severity flaw that could allow unauthenticated attackers to execute arbitrary code on self-managed servers under certain conditions.. When: 2026-10-22T17:36:30+00:00. How: The flaw, “under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression,” the vendor said in its release notes. Action: See Arabic action below.",
+    "summary_ar": "من: Max-severity GitLab bug allows remote code execution over 12 years of releases. ماذا: GitLab on Wednesday patched a maximum-severity flaw that could allow unauthenticated attackers to execute arbitrary code on self-managed servers under certain conditions.. متى: 2026-10-22T17:36:30+00:00. كيف: The flaw, “under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression,” the vendor said in its release notes.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-110264"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1683365.jpg?imageId=1683365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854"
+    ]
+  },
+  {
+    "id": "5d4f96d6acc675d55ed0ac3b",
+    "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+    "published": "2026-10-22T17:18:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Arista patches new VeloCloud Orchestrator zero-day exploited in attacks. What: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments.. When: 2026-10-22T17:18:22+00:00. How: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. Action: See Arabic action below.",
+    "summary_ar": "من: Arista patches new VeloCloud Orchestrator zero-day exploited in attacks. ماذا: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments.. متى: 2026-10-22T17:18:22+00:00. كيف: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Arista.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "101af1ca8d1b00b2de05fe47",
+    "title": "EMudhra Intermediate CA Certificates Compromised",
+    "link": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
+    "published": "2026-10-22T17:15:32+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: EMudhra Intermediate CA Certificates Compromised. What: EMudhra Intermediate CA Certificates Compromised. When: 2026-10-22T17:15:32+00:00. How: Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Action: See Arabic action below.",
+    "summary_ar": "من: EMudhra Intermediate CA Certificates Compromised. ماذا: EMudhra Intermediate CA Certificates Compromised. متى: 2026-10-22T17:15:32+00:00. كيف: Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/07_Security-Technology_Category_1920x900-1.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/"
+    ]
+  },
+  {
+    "id": "ca5fc9dc16b17ee4d2a386e1",
+    "title": "The Current Landscape of OAuth Attacks",
+    "link": "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/",
+    "published": "2026-10-22T17:00:25+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: The Current Landscape of OAuth Attacks. What: The Current Landscape of OAuth Attacks. When: 2026-10-22T17:00:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Current Landscape of OAuth Attacks. ماذا: The Current Landscape of OAuth Attacks. متى: 2026-10-22T17:00:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/08/03_Resize_Myth-Busting_Overview_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/current-landscape-oauth-attacks/"
+    ]
+  },
+  {
+    "id": "c00a1c6f5b8cc5f7845ea1a1",
+    "title": "Disgraced Indian cert issuer leaves the cert issuing business",
+    "link": "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
+    "published": "2026-10-22T16:58:25+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Disgraced Indian cert issuer leaves the cert issuing business. What: eMudhra announced Thursday that it was abandoning that arm of its business.. When: 2026-10-22T16:58:25+00:00. How: “Global SSL/TLS is a small part of eMudhra’s business contributing to about 1 percent of the global revenue,” the company explained, noting that free SSL/TLS cert issuance from large firms and increased compliance and data sovereignty requirements have made it a minor part of the firm’s operation, and one that doesn’t merit so much bad press. Action: See Arabic action below.",
+    "summary_ar": "من: Disgraced Indian cert issuer leaves the cert issuing business. ماذا: eMudhra announced Thursday that it was abandoning that arm of its business.. متى: 2026-10-22T16:58:25+00:00. كيف: “Global SSL/TLS is a small part of eMudhra’s business contributing to about 1 percent of the global revenue,” the company explained, noting that free SSL/TLS cert issuance from large firms and increased compliance and data sovereignty requirements have made it a minor part of the firm’s operation, and one that doesn’t merit so much bad press.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/235298.jpg?imageId=235298&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848"
+    ]
+  },
+  {
+    "id": "6b7369ef168a122f8a3d337a",
+    "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+    "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+    "published": "2026-10-22T16:12:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.. What: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.. When: 2026-10-22T16:12:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.. ماذا: Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.. متى: 2026-10-22T16:12:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html"
+    ]
+  },
+  {
+    "id": "65cab38538865f9c7539ae6f",
+    "title": "PHP2Shell puts dozens of UK government services out of service",
+    "link": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
+    "published": "2026-10-22T16:05:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP.. What: The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP.. When: 2026-10-22T16:05:53+00:00. How: The PHP2Shell security fiasco has forced 32 UK government services offline and left another four partially unavailable as Whitehall scrambles to patch the critical vulnerabilities wreaking havoc across the web. Action: See Arabic action below.",
+    "summary_ar": "من: The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP.. ماذا: The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP.. متى: 2026-10-22T16:05:53+00:00. كيف: The PHP2Shell security fiasco has forced 32 UK government services offline and left another four partially unavailable as Whitehall scrambles to patch the critical vulnerabilities wreaking havoc across the web.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/229174.jpg?imageId=229174&x=0&y=3.94&cropw=100&croph=63.55&panox=0&panoy=3.94&panow=100&panoh=63.55&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840"
+    ]
+  },
+  {
+    "id": "2406dcb299163c3482a9a829",
+    "title": "Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks",
+    "link": "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/",
+    "published": "2026-10-22T15:55:55+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks. What: Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks. When: 2026-10-22T15:55:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks. ماذا: Amazon’s Kindle Unlimited is now Kindle+, and the 2 big changes include AI audiobooks. متى: 2026-10-22T15:55:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/f81cca78-3254-44e3-870c-cbfa2d83af91.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/"
+    ]
+  },
+  {
+    "id": "0563a66ccd63345d6ba6473a",
+    "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+    "published": "2026-10-22T15:49:32+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working.. What: Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working.. When: 2026-10-22T15:49:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working.. ماذا: Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working.. متى: 2026-10-22T15:49:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/Exchange_Online.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/"
+    ]
+  },
+  {
+    "id": "c625905b3719c2e1bf919163",
+    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+    "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "published": "2026-10-22T15:25:02+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Amazon added the flaws were “now being broadly exploited in the wild.” Read full article Comments Hackers got a four-day head start on epic PHP2Shell vulnerability. What: Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems.. When: 2026-10-22T15:25:02+00:00. How: Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon added the flaws were “now being broadly exploited in the wild.” Read full article Comments Hackers got a four-day head start on epic PHP2Shell vulnerability. ماذا: Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems.. متى: 2026-10-22T15:25:02+00:00. كيف: Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+    ]
+  },
+  {
+    "id": "18ac8acf35383b2647bde9f9",
+    "title": "The latest PowerToys gives your mouse 2 new tricks for free – how to use them",
+    "link": "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/",
+    "published": "2026-10-22T15:17:56+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The latest PowerToys gives your mouse 2 new tricks for free – how to use them. What: The latest PowerToys gives your mouse 2 new tricks for free – how to use them. When: 2026-10-22T15:17:56+00:00. How: Here’s what’s new for mousing. Action: See Arabic action below.",
+    "summary_ar": "من: The latest PowerToys gives your mouse 2 new tricks for free – how to use them. ماذا: The latest PowerToys gives your mouse 2 new tricks for free – how to use them. متى: 2026-10-22T15:17:56+00:00. كيف: Here’s what’s new for mousing.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PowerToys-Mouse-Button-Lock-in-action.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/powertoys-102-windows-mouse-control/"
+    ]
+  },
+  {
+    "id": "19b3e407c4ec9163f24ca35e",
+    "title": "When the attacker becomes the user: Rethinking account takeover",
+    "link": "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
+    "published": "2026-10-22T15:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: When the attacker becomes the user: Rethinking account takeover. What: When the attacker becomes the user: Rethinking account takeover. When: 2026-10-22T15:00:00+00:00. How: The typical account takeover lifecycle starts with the bad guys obtaining credentials, usually through the medium of phishing. Action: See Arabic action below.",
+    "summary_ar": "من: When the attacker becomes the user: Rethinking account takeover. ماذا: When the attacker becomes the user: Rethinking account takeover. متى: 2026-10-22T15:00:00+00:00. كيف: The typical account takeover lifecycle starts with the bad guys obtaining credentials, usually through the medium of phishing.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5303915.jpg?imageId=5303915&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913"
+    ]
+  },
+  {
+    "id": "dcda11bca2255036990b6c95",
+    "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+    "link": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+    "published": "2026-10-22T14:31:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hacker Conversations: Corey Thuen and the Evil Bit. What: Hacker Conversations: Corey Thuen and the Evil Bit. When: 2026-10-22T14:31:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hacker Conversations: Corey Thuen and the Evil Bit. ماذا: Hacker Conversations: Corey Thuen and the Evil Bit. متى: 2026-10-22T14:31:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Hacker-Conversations-Corey-Thuen.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/"
+    ]
+  },
+  {
+    "id": "92b876190d73445477955c65",
+    "title": "Machine speed attacks require machine speed detection and response",
+    "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+    "published": "2026-10-22T14:02:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.. What: Machine speed attacks require machine speed detection and response. When: 2026-10-22T14:02:12+00:00. How: Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. Action: See Arabic action below.",
+    "summary_ar": "من: Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.. ماذا: Machine speed attacks require machine speed detection and response. متى: 2026-10-22T14:02:12+00:00. كيف: Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/10/20/exaforce-header-iamge.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/"
+    ]
+  },
+  {
+    "id": "0a53f7a5823463d34911bd49",
+    "title": "EU Regulators to Investigate Booking.com Over Scam Risks",
+    "link": "https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/",
+    "published": "2026-10-22T14:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: EU Regulators to Investigate Booking.com Over Scam Risks. What: EU Regulators to Investigate Booking.com Over Scam Risks. When: 2026-10-22T14:00:00+00:00. How: The EU Commission will assess whether Booking.com has adequately protected customers from phishing attacks EU Regulators to Investigate Booking.com Over Scam Risks Action: See Arabic action below.",
+    "summary_ar": "من: EU Regulators to Investigate Booking.com Over Scam Risks. ماذا: EU Regulators to Investigate Booking.com Over Scam Risks. متى: 2026-10-22T14:00:00+00:00. كيف: The EU Commission will assess whether Booking.com has adequately protected customers from phishing attacks EU Regulators to Investigate Booking.com Over Scam Risks. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/dfd946d4-63c0-454a-b013-412103f0869e.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/"
+    ]
+  },
+  {
+    "id": "c145f24074c2801f80bc8628",
+    "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+    "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+    "published": "2026-10-22T13:38:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown. What: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.. When: 2026-10-22T13:38:22+00:00. How: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. Action: See Arabic action below.",
+    "summary_ar": "من: INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown. ماذا: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.. متى: 2026-10-22T13:38:22+00:00. كيف: INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html"
+    ]
+  },
+  {
+    "id": "c78f9791369d56c3a76766c1",
+    "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+    "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+    "published": "2026-10-22T13:09:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday.. What: Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday.. When: 2026-10-22T13:09:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday.. ماذا: Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday.. متى: 2026-10-22T13:09:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/PHP-attack.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/"
+    ]
+  },
+  {
+    "id": "eb67fd6aa2c870d85893b65f",
+    "title": "Iranian Hacking Group Found Hosting C2 Infrastructure in the US",
+    "link": "https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/",
+    "published": "2026-10-22T13:05:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Iranian Hacking Group Found Hosting C2 Infrastructure in the US. What: Iranian Hacking Group Found Hosting C2 Infrastructure in the US. When: 2026-10-22T13:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Iranian Hacking Group Found Hosting C2 Infrastructure in the US. ماذا: Iranian Hacking Group Found Hosting C2 Infrastructure in the US. متى: 2026-10-22T13:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/b92850ba-e579-49e6-8508-1e699a555609.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/"
+    ]
+  },
+  {
+    "id": "6a8ba679d4e13781edca76a9",
+    "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+    "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+    "published": "2026-10-22T13:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform. What: Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform. When: 2026-10-22T13:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform. ماذا: Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform. متى: 2026-10-22T13:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/"
+    ]
+  },
+  {
+    "id": "2bd447638fb1ac1c708f11cb",
+    "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+    "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+    "published": "2026-10-22T12:34:31+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Signal Vulnerability Lets Malicious Callers Block Hang-Ups. What: Signal Vulnerability Lets Malicious Callers Block Hang-Ups. When: 2026-10-22T12:34:31+00:00. How: Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. Action: See Arabic action below.",
+    "summary_ar": "من: Signal Vulnerability Lets Malicious Callers Block Hang-Ups. ماذا: Signal Vulnerability Lets Malicious Callers Block Hang-Ups. متى: 2026-10-22T12:34:31+00:00. كيف: Affecting the open source calling library RingRTC, the bug prevented calls from ending properly.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Signal-telegram-messaging.jpeg",
+    "sources": [
+      "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/"
+    ]
+  },
+  {
     "id": "ec99b1cdf496c7cbd08ab88e",
     "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
     "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
@@ -72,6 +439,24 @@
     "image": "https://image.theregister.com/5255785.jpg?imageId=5255785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+    ]
+  },
+  {
+    "id": "d76b50dba1625800adec75c5",
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "published": "2026-10-22T11:45:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. What: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. When: 2026-10-22T11:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. ماذا: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. متى: 2026-10-22T11:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
     ]
   },
   {
@@ -1024,8 +1409,8 @@
     "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
     "published": "2026-10-21T15:18:04+00:00",
     "source": "securelist.com",
-    "summary_en": "Who: UPD 22.10.2026 : added a description of how Kaspersky Vulnerability Management detects vulnerable versions of PHP.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
-    "summary_ar": "من: UPD 22.10.2026 : added a description of how Kaspersky Vulnerability Management detects vulnerable versions of PHP.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: UPD 22.10.2026 : added a description of how the Kaspersky Managed Detection and Response service detects the described malicious activity.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
+    "summary_ar": "من: UPD 22.10.2026 : added a description of how the Kaspersky Managed Detection and Response service detects the described malicious activity.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -1061,24 +1446,6 @@
     ]
   },
   {
-    "id": "a45dacf80c102b58903777ab",
-    "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-    "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-    "published": "2026-10-21T15:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. What: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. When: 2026-10-21T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. ماذا: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. متى: 2026-10-21T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/APT-threat-actor.jpg",
-    "sources": [
-      "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/"
-    ]
-  },
-  {
     "id": "39c22ce6b5e8da340e722079",
     "title": "New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity",
     "link": "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/",
@@ -1094,6 +1461,24 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/0b81a1c4-5d4b-470a-9ad8-aac04313a2a1.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/"
+    ]
+  },
+  {
+    "id": "a45dacf80c102b58903777ab",
+    "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+    "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+    "published": "2026-10-21T15:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. What: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. When: 2026-10-21T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. ماذا: ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets. متى: 2026-10-21T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/APT-threat-actor.jpg",
+    "sources": [
+      "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/"
     ]
   },
   {
@@ -21267,25 +21652,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2196418214.jpg",
     "sources": [
       "https://www.zdnet.com/innovation/workera-study-ai-skills-upskilling-2026/"
-    ]
-  },
-  {
-    "id": "a3577436412272a3ea225013",
-    "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-    "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-    "published": "2026-09-23T12:29:53+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Arista patches actively exploited VeloCloud Orchestrator zero-day. What: Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments.. When: 2026-09-23T12:29:53+00:00. How: Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. Action: See Arabic action below.",
-    "summary_ar": "من: Arista patches actively exploited VeloCloud Orchestrator zero-day. ماذا: Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments.. متى: 2026-09-23T12:29:53+00:00. كيف: Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/23/Arista-logo.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/"
     ]
   },
   {
@@ -144225,78 +144591,6 @@
     "image": "https://www.zdnet.com/a/img/resize/836411809479cc1508014cf9bba100cdeb4d21fe/2025/05/12/9eab5f12-69a7-4954-9984-f71f08751eb6/xm6-4.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-sony-headphones-settings/"
-    ]
-  },
-  {
-    "id": "6c24d9a66e40865abd9320c6",
-    "title": "Microsoft rolls out revamped Windows Insider Program",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-    "published": "2026-04-25T17:07:13+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11.. What: Microsoft rolls out revamped Windows Insider Program. When: 2026-04-25T17:07:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11.. ماذا: Microsoft rolls out revamped Windows Insider Program. متى: 2026-04-25T17:07:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/Windows_11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/"
-    ]
-  },
-  {
-    "id": "da6f5d5eab3d3b7ee24e15a7",
-    "title": "I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this",
-    "link": "https://www.zdnet.com/article/dji-osmo-nano-review/",
-    "published": "2026-04-25T16:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this. What: I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this. When: 2026-04-25T16:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this. ماذا: I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this. متى: 2026-04-25T16:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4a95c9e797138823145355c3a0f299d4012609ee/2026/04/20/f1c3f791-7a25-4528-8dbf-7c515681ff42/img-3873.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dji-osmo-nano-review/"
-    ]
-  },
-  {
-    "id": "11d806acbd140e0a96c8ec25",
-    "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-    "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-    "published": "2026-04-25T15:07:44+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] Threat actor uses Microsoft Teams to deploy new “Snow” malware. What: Threat actor uses Microsoft Teams to deploy new “Snow” malware. When: 2026-04-25T15:07:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: [...] Threat actor uses Microsoft Teams to deploy new “Snow” malware. ماذا: Threat actor uses Microsoft Teams to deploy new “Snow” malware. متى: 2026-04-25T15:07:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/24/snow.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/"
-    ]
-  },
-  {
-    "id": "360cdbdd520f391fe748e47f",
-    "title": "I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat",
-    "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
-    "published": "2026-04-25T13:00:46+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat. What: I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat. When: 2026-04-25T13:00:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat. ماذا: I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat. متى: 2026-04-25T13:00:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/aebf901442c708b00c01cddc4c866ba12b28b435/2026/04/23/c8d979fc-f9ae-439e-ae62-6f458a5a89d4/fw13-pro-battery-75wh-installation.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/"
     ]
   }
 ]
