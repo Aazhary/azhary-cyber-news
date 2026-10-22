@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": "6af5f5a84e31744d5f8a3558",
+    "title": "Railway warns devs to rotate secrets after potential breach",
+    "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+    "published": "2026-10-22T21:25:31+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Railway warns devs to rotate secrets after potential breach. What: Railway warns devs to rotate secrets after potential breach. When: 2026-10-22T21:25:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Railway warns devs to rotate secrets after potential breach. ماذا: Railway warns devs to rotate secrets after potential breach. متى: 2026-10-22T21:25:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/railway.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/"
+    ]
+  },
+  {
+    "id": "778da97616c17390ac502b12",
+    "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+    "published": "2026-10-22T20:42:17+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. What: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. When: 2026-10-22T20:42:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. ماذا: Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack. متى: 2026-10-22T20:42:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack"
+    ]
+  },
+  {
     "id": "f2b6d976076c898250381e1a",
     "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
     "link": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
@@ -54,6 +90,24 @@
     "image": "https://image.theregister.com/5304901.jpg?imageId=5304901&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+    ]
+  },
+  {
+    "id": "0a62902654cebc5f7e6febf7",
+    "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+    "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+    "published": "2026-10-22T20:33:10+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: What We Missed: Feds Lasso Texas Laptop Farms. What: What We Missed: Feds Lasso Texas Laptop Farms. When: 2026-10-22T20:33:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: What We Missed: Feds Lasso Texas Laptop Farms. ماذا: What We Missed: Feds Lasso Texas Laptop Farms. متى: 2026-10-22T20:33:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers"
     ]
   },
   {
@@ -81,8 +135,8 @@
     "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
     "published": "2026-10-22T20:17:52+00:00",
     "source": "arstechnica.com",
-    "summary_en": "Who: Disgraced eMudhra drops out of TLS business after using cert private key of 4. What: eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. When: 2026-10-22T20:17:52+00:00. How: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. Action: See Arabic action below.",
-    "summary_ar": "من: Disgraced eMudhra drops out of TLS business after using cert private key of 4. ماذا: eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. متى: 2026-10-22T20:17:52+00:00. كيف: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Disgraced eMudhra drops out of TLS business after using cert private key of 4. What: eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. When: 2026-10-22T20:17:52+00:00. How: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. Action: See Arabic action below.",
+    "summary_ar": "من: Disgraced eMudhra drops out of TLS business after using cert private key of 4. ماذا: eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. متى: 2026-10-22T20:17:52+00:00. كيف: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
