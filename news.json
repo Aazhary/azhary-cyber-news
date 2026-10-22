@@ -36,6 +36,172 @@
     ]
   },
   {
+    "id": "f2b6d976076c898250381e1a",
+    "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+    "link": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+    "published": "2026-10-22T20:37:52+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The PHP2Shell mess grew even bigger on Thursday amid reports of attackers abusing the security flaws days before they were disclosed and UK government websites proactively going dark.. What: VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack.. When: 2026-10-22T20:37:52+00:00. How: VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack. Action: See Arabic action below.",
+    "summary_ar": "من: The PHP2Shell mess grew even bigger on Thursday amid reports of attackers abusing the security flaws days before they were disclosed and UK government websites proactively going dark.. ماذا: VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack.. متى: 2026-10-22T20:37:52+00:00. كيف: VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304901.jpg?imageId=5304901&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883"
+    ]
+  },
+  {
+    "id": "177124c993da18451bf24c17",
+    "title": "Capcom confirms data breach affecting 11.7 million accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+    "published": "2026-10-22T20:22:45+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Capcom confirms data breach affecting 11.7 million accounts. What: Capcom confirms data breach affecting 11.7 million accounts. When: 2026-10-22T20:22:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Capcom confirms data breach affecting 11.7 million accounts. ماذا: Capcom confirms data breach affecting 11.7 million accounts. متى: 2026-10-22T20:22:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/capcom.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/"
+    ]
+  },
+  {
+    "id": "49672d89136f62eb1b5f5689",
+    "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+    "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "published": "2026-10-22T20:17:52+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Disgraced eMudhra drops out of TLS business after using cert private key of 4. What: eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. When: 2026-10-22T20:17:52+00:00. How: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. Action: See Arabic action below.",
+    "summary_ar": "من: Disgraced eMudhra drops out of TLS business after using cert private key of 4. ماذا: eMudra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business.. متى: 2026-10-22T20:17:52+00:00. كيف: Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
+    ]
+  },
+  {
+    "id": "a0b44de98d51fea9ba0eba4b",
+    "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+    "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+    "published": "2026-10-22T19:30:20+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour. What: Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour. When: 2026-10-22T19:30:20+00:00. How: Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation. Action: See Arabic action below.",
+    "summary_ar": "من: Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour. ماذا: Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour. متى: 2026-10-22T19:30:20+00:00. كيف: Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french"
+    ]
+  },
+  {
+    "id": "0151e8522bf78e30ffb398c4",
+    "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+    "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+    "published": "2026-10-22T19:12:51+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: LiteLLM release pipeline hacked to distribute info-stealer malware. What: LiteLLM release pipeline hacked to distribute info-stealer malware. When: 2026-10-22T19:12:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: LiteLLM release pipeline hacked to distribute info-stealer malware. ماذا: LiteLLM release pipeline hacked to distribute info-stealer malware. متى: 2026-10-22T19:12:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/LiteLLM.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/"
+    ]
+  },
+  {
+    "id": "d76b50dba1625800adec75c5",
+    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+    "published": "2026-10-22T19:05:35+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. What: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. When: 2026-10-22T19:05:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. ماذا: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. متى: 2026-10-22T19:05:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
+    ]
+  },
+  {
+    "id": "23872cb1986e28aeaa26cd58",
+    "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+    "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+    "published": "2026-10-22T19:05:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks. What: For Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks. When: 2026-10-22T19:05:17+00:00. How: Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22. Action: See Arabic action below.",
+    "summary_ar": "من: Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks. ماذا: For Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks. متى: 2026-10-22T19:05:17+00:00. كيف: Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&nbsp;central management system&nbsp;for VeloCloud SD-WAN networks, the company said in an&nbsp;advisory&nbsp;on October 22.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html"
+    ]
+  },
+  {
+    "id": "f74ce17a74d9601f64ad9e36",
+    "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+    "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+    "published": "2026-10-22T18:12:43+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable. What: The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of its intermediate CA certificates.. When: 2026-10-22T18:12:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable. ماذا: The decision came five days after a researcher&nbsp;reported recovering the private keys&nbsp;of eight of its intermediate CA certificates.. متى: 2026-10-22T18:12:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5DGeZCzWnHOoA87UbpfzGUlpU9xBK1x5tJsYlWOoKtyEkTRjaN4cW_lMOKdtiSXVPhVMd6JhOMRhvFOxvn853LcLaCBSNK-_m4CDIDGt048SdHQQqu63ZSZ09Ymc3UhqD_TZoLaCM6eIJL6TSYbBVINceAi4paPvjxJ4i9uN3CKZQ2s5bT4Dc_jAcv8I/s1600/ssl.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html"
+    ]
+  },
+  {
+    "id": "a45e553ca30bdb4a7d8164bd",
+    "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+    "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+    "published": "2026-10-22T17:45:44+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays.. What: ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More. When: 2026-10-22T17:45:44+00:00. How: Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. Action: See Arabic action below.",
+    "summary_ar": "من: Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays.. ماذا: ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More. متى: 2026-10-22T17:45:44+00:00. كيف: Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html"
+    ]
+  },
+  {
     "id": "0f075004a55aa8407ce597e1",
     "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
     "link": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
@@ -91,6 +257,24 @@
     "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/07_Security-Technology_Category_1920x900-1.jpg",
     "sources": [
       "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/"
+    ]
+  },
+  {
+    "id": "eebdb3f4f6ae3ff939e7e178",
+    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+    "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+    "published": "2026-10-22T17:01:53+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.. What: Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.. When: 2026-10-22T17:01:53+00:00. How: The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes Action: See Arabic action below.",
+    "summary_ar": "من: Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.. ماذا: Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.. متى: 2026-10-22T17:01:53+00:00. كيف: The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html"
     ]
   },
   {
@@ -442,24 +626,6 @@
     ]
   },
   {
-    "id": "d76b50dba1625800adec75c5",
-    "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-    "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-    "published": "2026-10-22T11:45:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. What: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. When: 2026-10-22T11:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. ماذا: The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat. متى: 2026-10-22T11:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html"
-    ]
-  },
-  {
     "id": "0f812922fb34579df9f51a12",
     "title": "GitLab warns of new max severity code execution vulnerability",
     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
@@ -808,8 +974,8 @@
     "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
     "published": "2026-10-22T06:34:10+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. What: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. When: 2026-10-22T06:34:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. ماذا: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. متى: 2026-10-22T06:34:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. What: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. When: 2026-10-22T06:34:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. ماذا: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. متى: 2026-10-22T06:34:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -2392,12 +2558,12 @@
   },
   {
     "id": "6bd6585835c425692b6a5223",
-    "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+    "title": "Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
     "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
     "published": "2026-10-20T20:30:42+00:00",
     "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). What: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). When: 2026-10-20T20:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). ماذا: Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20). متى: 2026-10-20T20:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20). What: Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20). When: 2026-10-20T20:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20). ماذا: Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20). متى: 2026-10-20T20:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -18072,24 +18238,6 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/ios-2701.jpg",
     "sources": [
       "https://www.zdnet.com/tech/iphone-18-pro-freeze-restart-ios-27-0-1-fix/"
-    ]
-  },
-  {
-    "id": "f6437873fa8f0b79d91eb370",
-    "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-    "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-    "published": "2026-09-28T20:31:16+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Times Car confirms data breach affecting 6.6 million user accounts. What: Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week.. When: 2026-09-28T20:31:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Times Car confirms data breach affecting 6.6 million user accounts. ماذا: Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week.. متى: 2026-09-28T20:31:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/28/timescar.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/"
     ]
   },
   {
