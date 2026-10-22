@@ -36,6 +36,370 @@
     ]
   },
   {
+    "id": "ec99b1cdf496c7cbd08ab88e",
+    "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+    "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+    "published": "2026-10-22T12:20:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Tech and Security Companies Respond to PHP2Shell Vulnerabilities. What: Tech and Security Companies Respond to PHP2Shell Vulnerabilities. When: 2026-10-22T12:20:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Tech and Security Companies Respond to PHP2Shell Vulnerabilities. ماذا: Tech and Security Companies Respond to PHP2Shell Vulnerabilities. متى: 2026-10-22T12:20:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/05/firewall.jpeg",
+    "sources": [
+      "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "267a1adf581ab01f8a44154e",
+    "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+    "published": "2026-10-22T12:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Attackers are hammering servers with millions of attempts to exploit the critical PHP2Shell vulnerabilities, with Amazon revealing that someone was already going after the flaws four days before they were publicly disclosed.. What: Attackers are hammering servers with millions of attempts to exploit the critical PHP2Shell vulnerabilities, with Amazon revealing that someone was already going after the flaws four days before they were publicly disclosed.. When: 2026-10-22T12:15:00+00:00. How: Cloudflare said it has seen miscreants tweaking their payloads in an attempt to sneak past its web application firewall (WAF) protections, apparently using feedback from blocked requests to work out what might get through. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are hammering servers with millions of attempts to exploit the critical PHP2Shell vulnerabilities, with Amazon revealing that someone was already going after the flaws four days before they were publicly disclosed.. ماذا: Attackers are hammering servers with millions of attempts to exploit the critical PHP2Shell vulnerabilities, with Amazon revealing that someone was already going after the flaws four days before they were publicly disclosed.. متى: 2026-10-22T12:15:00+00:00. كيف: Cloudflare said it has seen miscreants tweaking their payloads in an attempt to sneak past its web application firewall (WAF) protections, apparently using feedback from blocked requests to work out what might get through.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5255785.jpg?imageId=5255785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+    ]
+  },
+  {
+    "id": "0f812922fb34579df9f51a12",
+    "title": "GitLab warns of new max severity code execution vulnerability",
+    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+    "published": "2026-10-22T11:41:48+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: GitLab warns of new max severity code execution vulnerability. What: GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers.. When: 2026-10-22T11:41:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GitLab warns of new max severity code execution vulnerability. ماذا: GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers.. متى: 2026-10-22T11:41:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/GitLab-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
+    ]
+  },
+  {
+    "id": "2f1ed42ebe24824a411ecae0",
+    "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+    "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+    "published": "2026-10-22T11:30:33+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: 333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email. What: Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday.. When: 2026-10-22T11:30:33+00:00. How: Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday. Action: See Arabic action below.",
+    "summary_ar": "من: 333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email. ماذا: Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday.. متى: 2026-10-22T11:30:33+00:00. كيف: Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1237260150-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
+    ]
+  },
+  {
+    "id": "17b550f6862a53c1d38ad86f",
+    "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
+    "link": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+    "published": "2026-10-22T11:28:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: China-aligned attackers used AI agents and compromised ConnectWise application credentials to target more than 2,250 Microsoft 365 tenants, Microsoft says.. What: It hasn't disclosed how many customers were compromised or whether any data was stolen, cautioning that a successful login doesn't necessarily mean information was accessed.. When: 2026-10-22T11:28:00+00:00. How: The Windows giant revealed this week that the attackers, tracked as Storm-0940, used an open source AI penetration-testing tool called ARTEX to automate attacks against Microsoft 365 environments. Action: See Arabic action below.",
+    "summary_ar": "من: China-aligned attackers used AI agents and compromised ConnectWise application credentials to target more than 2,250 Microsoft 365 tenants, Microsoft says.. ماذا: It hasn't disclosed how many customers were compromised or whether any data was stolen, cautioning that a successful login doesn't necessarily mean information was accessed.. متى: 2026-10-22T11:28:00+00:00. كيف: The Windows giant revealed this week that the attackers, tracked as Storm-0940, used an open source AI penetration-testing tool called ARTEX to automate attacks against Microsoft 365 environments.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304691.jpg?imageId=5304691&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687"
+    ]
+  },
+  {
+    "id": "76b18c2dc5a90e0a7f1a1efd",
+    "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+    "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+    "published": "2026-10-22T11:15:42+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation. What: Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.. When: 2026-10-22T11:15:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation. ماذا: Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.. متى: 2026-10-22T11:15:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html"
+    ]
+  },
+  {
+    "id": "87127edd320ddcd622f1f960",
+    "title": "Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants",
+    "link": "https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/",
+    "published": "2026-10-22T11:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Microsoft said it has observed threat actor activity in multiple ConnectWise customer environments, with the attackers leveraging the ARTEX agentic AI platform Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants. What: Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants. When: 2026-10-22T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft said it has observed threat actor activity in multiple ConnectWise customer environments, with the attackers leveraging the ARTEX agentic AI platform Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants. ماذا: Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants. متى: 2026-10-22T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/27fb637a-d719-4df2-a4ab-7117d846b3bd.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/"
+    ]
+  },
+  {
+    "id": "eb08dcb4a958ad76444d1d2f",
+    "title": "Splunk, SolarWinds Release Fresh Security Updates",
+    "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+    "published": "2026-10-22T10:45:24+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Splunk, SolarWinds Release Fresh Security Updates. What: Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.. When: 2026-10-22T10:45:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Splunk, SolarWinds Release Fresh Security Updates. ماذا: Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information.. متى: 2026-10-22T10:45:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg",
+    "sources": [
+      "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/"
+    ]
+  },
+  {
+    "id": "1d3516a0d0a60e24863ee6ca",
+    "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+    "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+    "published": "2026-10-22T10:44:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL. What: Anomaly, the company behind OpenCode, fixed the flaw in&nbsp;version 1.18.33&nbsp;on September OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL. When: 2026-10-22T10:44:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL. ماذا: Anomaly, the company behind OpenCode, fixed the flaw in&nbsp;version 1.18.33&nbsp;on September OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL. متى: 2026-10-22T10:44:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html"
+    ]
+  },
+  {
+    "id": "bbcc8b755f8a7d6036ec236c",
+    "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
+    "link": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
+    "published": "2026-10-22T10:10:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure. What: Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure. When: 2026-10-22T10:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure. ماذا: Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure. متى: 2026-10-22T10:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/a5c34397-4fd9-4ec8-9203-4c7fec91b2fa.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/"
+    ]
+  },
+  {
+    "id": "34f12a1f7c34dc2652f0b8c3",
+    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+    "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+    "published": "2026-10-22T10:05:21+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .. What: Cisco Patches 34 Vulnerabilities Across Multiple Products. When: 2026-10-22T10:05:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .. ماذا: Cisco Patches 34 Vulnerabilities Across Multiple Products. متى: 2026-10-22T10:05:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Cisco-company-logo.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/"
+    ]
+  },
+  {
+    "id": "d73a5cf491bb00224ef5cb53",
+    "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
+    "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+    "published": "2026-10-22T10:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: This part will add its enable password, which is the term Cisco uses for administrator.. What: So he marked the password failure down as a “high find,” a bad type of vuln that needs to be fixed right away.. When: 2026-10-22T10:00:00+00:00. How: If someone connected to that firewall, either via SSH or through an exploit, and got normal user privileges, they could then elevate those privileges to admin and do something like shut off all traffic from the intranet to the outside world. Action: See Arabic action below.",
+    "summary_ar": "من: This part will add its enable password, which is the term Cisco uses for administrator.. ماذا: So he marked the password failure down as a “high find,” a bad type of vuln that needs to be fixed right away.. متى: 2026-10-22T10:00:00+00:00. كيف: If someone connected to that firewall, either via SSH or through an exploit, and got normal user privileges, they could then elevate those privileges to admin and do something like shut off all traffic from the intranet to the outside world.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304595.jpg?imageId=5304595&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592"
+    ]
+  },
+  {
+    "id": "01e27be4feb4551c46ef9108",
+    "title": "PHP2Shell Exploitation Started Days Before Patches",
+    "link": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+    "published": "2026-10-22T09:48:58+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: PHP2Shell Exploitation Started Days Before Patches. What: Initial attempts were observed on October 17, and mass activity began shortly after patches were released.. When: 2026-10-22T09:48:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PHP2Shell Exploitation Started Days Before Patches. ماذا: Initial attempts were observed on October 17, and mass activity began shortly after patches were released.. متى: 2026-10-22T09:48:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg",
+    "sources": [
+      "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/"
+    ]
+  },
+  {
+    "id": "a9227db3dd338122abe71d3d",
+    "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+    "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+    "published": "2026-10-22T08:28:48+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release. What: LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.. When: 2026-10-22T08:28:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release. ماذا: LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.. متى: 2026-10-22T08:28:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html"
+    ]
+  },
+  {
+    "id": "df0211e45e19bb26eeb88fb8",
+    "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+    "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+    "published": "2026-10-22T08:27:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Authorities disrupt nearly 11,000 cybercrime networks in Africa. What: Authorities disrupt nearly 11,000 cybercrime networks in Africa. When: 2026-10-22T08:27:11+00:00. How: Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. Action: See Arabic action below.",
+    "summary_ar": "من: Authorities disrupt nearly 11,000 cybercrime networks in Africa. ماذا: Authorities disrupt nearly 11,000 cybercrime networks in Africa. متى: 2026-10-22T08:27:11+00:00. كيف: Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/INTERPOL.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/"
+    ]
+  },
+  {
+    "id": "118eddf189096471b1e11462",
+    "title": "Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns",
+    "link": "https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/",
+    "published": "2026-10-22T08:20:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns. What: Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns. When: 2026-10-22T08:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns. ماذا: Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns. متى: 2026-10-22T08:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/06010ab6-7a67-44c0-8938-beb0790be0fe.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/"
+    ]
+  },
+  {
+    "id": "29143f2ae20d3391f056687d",
+    "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+    "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+    "published": "2026-10-22T07:47:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws.. What: Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws.. When: 2026-10-22T07:47:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws.. ماذا: Node.js released&nbsp;security updates&nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws.. متى: 2026-10-22T07:47:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html"
+    ]
+  },
+  {
+    "id": "a5298e0f95bcaf983cd6abef",
+    "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+    "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+    "published": "2026-10-22T07:38:14+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .. What: Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU. When: 2026-10-22T07:38:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .. ماذا: Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU. متى: 2026-10-22T07:38:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Oracle.jpeg",
+    "sources": [
+      "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/"
+    ]
+  },
+  {
+    "id": "dd2c177462a4a925c3879c8a",
+    "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+    "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+    "published": "2026-10-22T07:26:54+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .. What: The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .. When: 2026-10-22T07:26:54+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .. ماذا: The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek .. متى: 2026-10-22T07:26:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/01/instagram-facebook-meta-threads-social-media.jpeg",
+    "sources": [
+      "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/"
+    ]
+  },
+  {
+    "id": "eff3ebf7d52ffb89e574d0e3",
+    "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+    "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+    "published": "2026-10-22T06:38:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification. What: A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.. When: 2026-10-22T06:38:31+00:00. How: By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification Action: See Arabic action below.",
+    "summary_ar": "من: By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification. ماذا: A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&nbsp;disclosed, releasing working proof-of-concept code.. متى: 2026-10-22T06:38:31+00:00. كيف: By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html"
+    ]
+  },
+  {
     "id": "659ed8527f5282facdae3a2c",
     "title": "Certification authority eMudhra defends its laughably weak private keys",
     "link": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
@@ -51,6 +415,24 @@
     "image": "https://image.theregister.com/188286.jpg?imageId=188286&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647"
+    ]
+  },
+  {
+    "id": "3d29fe5d9f8955b49ed41a56",
+    "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+    "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+    "published": "2026-10-22T06:34:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. What: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. When: 2026-10-22T06:34:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. ماذا: Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches.. متى: 2026-10-22T06:34:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html"
     ]
   },
   {
@@ -97,8 +479,8 @@
     "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
     "published": "2026-10-22T04:21:26+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. What: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. When: 2026-10-22T04:21:26+00:00. How: During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. ماذا: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. متى: 2026-10-22T04:21:26+00:00. كيف: During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. What: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. When: 2026-10-22T04:21:26+00:00. How: During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. ماذا: Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.. متى: 2026-10-22T04:21:26+00:00. كيف: During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Vulnerability",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -642,8 +1024,8 @@
     "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
     "published": "2026-10-21T15:18:04+00:00",
     "source": "securelist.com",
-    "summary_en": "Who: This means that the flaws cannot be patched via application code, and the only possible fix is to update PHP on the server.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
-    "summary_ar": "من: This means that the flaws cannot be patched via application code, and the only possible fix is to update PHP on the server.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: UPD 22.10.2026 : added a description of how Kaspersky Vulnerability Management detects vulnerable versions of PHP.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
+    "summary_ar": "من: UPD 22.10.2026 : added a description of how Kaspersky Vulnerability Management detects vulnerable versions of PHP.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -8126,24 +8508,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg",
     "sources": [
       "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/"
-    ]
-  },
-  {
-    "id": "175a7df5c5ccb15a1c29c521",
-    "title": "GitLab warns of max severity code execution vulnerability",
-    "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-    "published": "2026-10-12T13:09:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: GitLab warns of max severity code execution vulnerability. What: GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances.. When: 2026-10-12T13:09:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GitLab warns of max severity code execution vulnerability. ماذا: GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances.. متى: 2026-10-12T13:09:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/"
     ]
   },
   {
@@ -143933,115 +144297,6 @@
     "image": "https://www.zdnet.com/a/img/resize/aebf901442c708b00c01cddc4c866ba12b28b435/2026/04/23/c8d979fc-f9ae-439e-ae62-6f458a5a89d4/fw13-pro-battery-75wh-installation.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/"
-    ]
-  },
-  {
-    "id": "ad4b903b75ae31cce7e91304",
-    "title": "I drove a bulldozer over this SSD enclosure so you don't have to - here's the result",
-    "link": "https://www.zdnet.com/article/terramaster-d1-ssd-enclosure-review/",
-    "published": "2026-04-25T12:15:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I drove a bulldozer over this SSD enclosure so you don't have to - here's the result. What: I drove a bulldozer over this SSD enclosure so you don't have to - here's the result. When: 2026-04-25T12:15:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I drove a bulldozer over this SSD enclosure so you don't have to - here's the result. ماذا: I drove a bulldozer over this SSD enclosure so you don't have to - here's the result. متى: 2026-04-25T12:15:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d8acb9d93f7da76b76bfed03f595d9ffebfefea9/2026/04/21/294e4c34-e3e2-4d1c-9afe-7eb7f2d8da7d/img-3914.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/terramaster-d1-ssd-enclosure-review/"
-    ]
-  },
-  {
-    "id": "470ee0729d3d00b7ad3860a3",
-    "title": "The Apple Music student discount saves you $5/month and gives you free Apple TV - here's how",
-    "link": "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/",
-    "published": "2026-04-25T11:00:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Students can save big on an Apple Music subscription.. What: The Apple Music student discount saves you $5/month and gives you free Apple TV - here's how. When: 2026-04-25T11:00:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Students can save big on an Apple Music subscription.. ماذا: The Apple Music student discount saves you $5/month and gives you free Apple TV - here's how. متى: 2026-04-25T11:00:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/dad005630727d8d196bb80eb52c456733474da0e/2024/09/30/de8ea73c-be96-4285-a9f6-d95fd0eea555/airpods4-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/"
-    ]
-  },
-  {
-    "id": "9baf9bc923e3b30ba4d425bb",
-    "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-    "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-    "published": "2026-04-25T10:50:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks. What: China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks. When: 2026-04-25T10:50:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks. ماذا: China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks. متى: 2026-04-25T10:50:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/12/China-Volt-Typhoon-hackers.jpg",
-    "sources": [
-      "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/"
-    ]
-  },
-  {
-    "id": "af3671b24b70f966e9353f7d",
-    "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
-    "link": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
-    "published": "2026-04-25T10:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best. What: Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best. When: 2026-04-25T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best. ماذا: Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best. متى: 2026-04-25T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/462a829c1f6c49e144530ef3a574a131796aa53a/2026/04/22/889ed53b-b97a-4ccf-ba21-fae17e0daada/solushero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/"
-    ]
-  },
-  {
-    "id": "09fa50e15422774f3b85ebb9",
-    "title": "Crime crew impersonates help desk, abuses Microsoft Teams to steal your data",
-    "link": "https://www.theregister.com/security/2026/04/25/crime-crew-impersonates-help-desk-abuses-teams-chats/5221505",
-    "published": "2026-04-25T09:28:13+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google's Threat Intelligence Group.. What: Crime crew impersonates help desk, abuses Microsoft Teams to steal your data. When: 2026-04-25T09:28:13+00:00. How: A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google's Threat Intelligence Group. Action: See Arabic action below.",
-    "summary_ar": "من: A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google's Threat Intelligence Group.. ماذا: Crime crew impersonates help desk, abuses Microsoft Teams to steal your data. متى: 2026-04-25T09:28:13+00:00. كيف: A previously unknown threat group using tried-and-tested social engineering tactics - Microsoft Teams chat invitations and helpdesk staff impersonation - is also using custom malware in its data-stealing attacks, according to Google's Threat Intelligence Group.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/252006.jpg?imageId=252006&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/25/crime-crew-impersonates-help-desk-abuses-teams-chats/5221505",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/"
-    ]
-  },
-  {
-    "id": "1e317cff77bca66422c57d40",
-    "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
-    "published": "2026-04-25T09:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software. What: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software. When: 2026-04-25T09:26:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software. ماذا: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software. متى: 2026-04-25T09:26:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_g3Pi3X0KEIbHkq8WujTF9X1RE6Fu_p8CiWmZrjsBj0MK-OTgAj5Dn8hz_8-n_3KmkNhFYDHeKUxeAnJv3nWdqwu5XlKsUEC0yq-uOESR7HkzKLJ1-FdrJtyBy05M0NZ4HkrXZ_eCvCSEX3Y4jauh6A4loJ_gY-F5aOT39ZMn4noffniWz8VgIv1zA2/s1600/fast16-exploit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html"
     ]
   }
 ]
