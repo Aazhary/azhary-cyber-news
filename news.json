@@ -144380,42 +144380,5 @@
     "sources": [
       "https://www.zdnet.com/article/it-managers-say-ai-agents-are-out-of-control/"
     ]
-  },
-  {
-    "id": "3a140da26ba1a2260c6d22a1",
-    "title": "Ongoing supply-chain attack 'explicitly targeting' security, dev tools",
-    "link": "https://www.theregister.com/security/2026/04/28/ongoing-supply-chain-attack-targets-security-dev-tools/5226665",
-    "published": "2026-04-27T23:33:51+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data.. What: Ongoing supply-chain attack 'explicitly targeting' security, dev tools. When: 2026-04-27T23:33:51+00:00. How: The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data. Action: See Arabic action below.",
-    "summary_ar": "من: The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data.. ماذا: Ongoing supply-chain attack 'explicitly targeting' security, dev tools. متى: 2026-04-27T23:33:51+00:00. كيف: The biz said data posted online appears to have come from one of its GitHub repositories after the Lapsus$ extortion crew claimed to have dumped the company’s source code, secrets, and other sensitive data.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/233128.jpg?imageId=233128&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/28/ongoing-supply-chain-attack-targets-security-dev-tools/5226665",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/27/supply_chain_campaign_targets_security/"
-    ]
-  },
-  {
-    "id": "065fa392b0a26d42f27eda69",
-    "title": "Robinhood account creation flaw abused to send phishing emails",
-    "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
-    "published": "2026-04-27T23:11:01+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Robinhood account creation flaw abused to send phishing emails. What: Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity.. When: 2026-04-27T23:11:01+00:00. How: Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. Action: See Arabic action below.",
-    "summary_ar": "من: Robinhood account creation flaw abused to send phishing emails. ماذا: Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity.. متى: 2026-04-27T23:11:01+00:00. كيف: Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2021/11/08/robinhood-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/"
-    ]
   }
 ]
