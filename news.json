@@ -36,6 +36,64 @@
     ]
   },
   {
+    "id": "94d51fe2d20419a92c2865ea",
+    "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+    "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+    "published": "2026-10-24T09:04:24+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet. What: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet. When: 2026-10-24T09:04:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet. ماذا: Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet. متى: 2026-10-24T09:04:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
+    ]
+  },
+  {
+    "id": "a0a9e49aec28c38a8ac0f4d1",
+    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+    "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+    "published": "2026-10-24T08:45:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.. What: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software. When: 2026-10-24T08:45:56+00:00. How: Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software Action: See Arabic action below.",
+    "summary_ar": "من: A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&nbsp;Brotli&nbsp;and&nbsp;brotlicffi&nbsp;packages, and Envoy proxies set up to decompress Brotli.. ماذا: Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software. متى: 2026-10-24T08:45:56+00:00. كيف: Tracked as&nbsp;CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+    ]
+  },
+  {
+    "id": "838b4b1ce2538127348458a5",
+    "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+    "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+    "published": "2026-10-24T06:25:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.. When: 2026-10-24T06:25:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.. متى: 2026-10-24T06:25:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-110447"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+    ]
+  },
+  {
     "id": "78e6b44f5a3d5bff48e7d5be",
     "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
     "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
@@ -145065,297 +145123,6 @@
     "sources": [
       "https://www.theregister.com/security/2026/04/27/burglar-alarm-biz-gets-burgled-shinyhunters-pursues-ransom/5226645",
       "https://go.theregister.com/feed/www.theregister.com/2026/04/27/home_security_giant_adt_gets/"
-    ]
-  },
-  {
-    "id": "5178a9d8910c161397bddfaf",
-    "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-    "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-    "published": "2026-04-27T11:23:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.. What: Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware. When: 2026-04-27T11:23:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.. ماذا: Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware. متى: 2026-04-27T11:23:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html"
-    ]
-  },
-  {
-    "id": "0f78a6d8021c595fa17b0839",
-    "title": "Microsoft updates the Windows Update Experience: You can hit pause now",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsoft_updates_the_windows_update/",
-    "published": "2026-04-27T11:19:25+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Keep the patches away for as long as you like Microsoft has devised a solution to the problem of Windows Updates that break customer devices – users are now able to pause them for as long as they like.… Microsoft updates the Windows Update Experience: You can hit pause now. What: Microsoft updates the Windows Update Experience: You can hit pause now. When: 2026-04-27T11:19:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Keep the patches away for as long as you like Microsoft has devised a solution to the problem of Windows Updates that break customer devices – users are now able to pause them for as long as they like.… Microsoft updates the Windows Update Experience: You can hit pause now. ماذا: Microsoft updates the Windows Update Experience: You can hit pause now. متى: 2026-04-27T11:19:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2018/05/15/shutterstock_pause_8bit_glitch_teaser.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/27/microsoft_updates_the_windows_update/"
-    ]
-  },
-  {
-    "id": "2459f0f6c56810539bd362b6",
-    "title": "Energy and Water Management Firm Itron Hacked",
-    "link": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-    "published": "2026-04-27T11:18:59+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Energy and Water Management Firm Itron Hacked. What: Energy and Water Management Firm Itron Hacked. When: 2026-04-27T11:18:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Energy and Water Management Firm Itron Hacked. ماذا: Energy and Water Management Firm Itron Hacked. متى: 2026-04-27T11:18:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Itron.jpeg",
-    "sources": [
-      "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/"
-    ]
-  },
-  {
-    "id": "df0453858645d6e22836c8cc",
-    "title": "You can still get a free Samsung Galaxy Watch 8 deal at T-Mobile - here's how to qualify",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-watch-8-tmobile-deal/",
-    "published": "2026-04-27T11:05:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can get a Samsung Galaxy Watch 8 at T-Mobile when you add a new watch line to your mobile plan - or save $300 on the Apple Watch Series 11.. What: You can still get a free Samsung Galaxy Watch 8 deal at T-Mobile - here's how to qualify. When: 2026-04-27T11:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can get a Samsung Galaxy Watch 8 at T-Mobile when you add a new watch line to your mobile plan - or save $300 on the Apple Watch Series 11.. ماذا: You can still get a free Samsung Galaxy Watch 8 deal at T-Mobile - here's how to qualify. متى: 2026-04-27T11:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9dbeef71c7f81360ea4215b04513a641d1df72b3/2025/07/23/73dd1820-c9b7-4b31-b0a6-eb06831eb754/img-7748.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-watch-8-tmobile-deal/"
-    ]
-  },
-  {
-    "id": "2e78e196129aacc53d7b6831",
-    "title": "This bestselling gaming device is not a Nintendo or a PlayStation - and I highly recommend it",
-    "link": "https://www.zdnet.com/article/nex-playground-deal/",
-    "published": "2026-04-27T11:00:56+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This bestselling gaming device is not a Nintendo or a PlayStation - and I highly recommend it. What: This bestselling gaming device is not a Nintendo or a PlayStation - and I highly recommend it. When: 2026-04-27T11:00:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This bestselling gaming device is not a Nintendo or a PlayStation - and I highly recommend it. ماذا: This bestselling gaming device is not a Nintendo or a PlayStation - and I highly recommend it. متى: 2026-04-27T11:00:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fe9cccd470a86a596789e779d1ccca6761785445/2026/04/23/e345b90a-d463-4445-b138-4e28fcfa6222/img-1758.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/nex-playground-deal/"
-    ]
-  },
-  {
-    "id": "88fc5226df655ac188df2496",
-    "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware",
-    "link": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-    "published": "2026-04-27T10:44:55+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware. What: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware. When: 2026-04-27T10:44:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware. ماذا: UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware. متى: 2026-04-27T10:44:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/11/email-hack-scaled-e1744198677924.jpeg",
-    "sources": [
-      "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/"
-    ]
-  },
-  {
-    "id": "7b673f61880f6475a08a3a4c",
-    "title": "Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access",
-    "link": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-    "published": "2026-04-27T10:10:14+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access. What: Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access. When: 2026-04-27T10:10:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access. ماذا: Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access. متى: 2026-04-27T10:10:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Linux-malware.jpeg",
-    "sources": [
-      "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/"
-    ]
-  },
-  {
-    "id": "ad4b903b75ae31cce7e91304",
-    "title": "I stress-tested this SSD enclosure with a bulldozer - here's how it held up",
-    "link": "https://www.zdnet.com/article/terramaster-d1-ssd-enclosure-review/",
-    "published": "2026-04-27T10:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I stress-tested this SSD enclosure with a bulldozer - here's how it held up. What: I stress-tested this SSD enclosure with a bulldozer - here's how it held up. When: 2026-04-27T10:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I stress-tested this SSD enclosure with a bulldozer - here's how it held up. ماذا: I stress-tested this SSD enclosure with a bulldozer - here's how it held up. متى: 2026-04-27T10:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d8acb9d93f7da76b76bfed03f595d9ffebfefea9/2026/04/21/294e4c34-e3e2-4d1c-9afe-7eb7f2d8da7d/img-3914.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/terramaster-d1-ssd-enclosure-review/"
-    ]
-  },
-  {
-    "id": "1430844d97760f348b36fcab",
-    "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
-    "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
-    "published": "2026-04-27T09:39:33+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator. What: US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator. When: 2026-04-27T09:39:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator. ماذا: US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator. متى: 2026-04-27T09:39:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/03/scam-fraud.jpeg",
-    "sources": [
-      "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/"
-    ]
-  },
-  {
-    "id": "c17874d2f3ac60adbbe6eda9",
-    "title": "ICO chief John Edwards steps back as workplace probe quietly unfolds",
-    "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ico_chief_john_edwards_steps/",
-    "published": "2026-04-27T09:35:08+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: ICO chief John Edwards steps back as workplace probe quietly unfolds. What: ICO chief John Edwards steps back as workplace probe quietly unfolds. When: 2026-04-27T09:35:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ICO chief John Edwards steps back as workplace probe quietly unfolds. ماذا: ICO chief John Edwards steps back as workplace probe quietly unfolds. متى: 2026-04-27T09:35:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://regmedia.co.uk/2017/06/12/empty-conference-room.jpg",
-    "sources": [
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/27/ico_chief_john_edwards_steps/"
-    ]
-  },
-  {
-    "id": "b488ec7ddef82ddb77a48b48",
-    "title": "Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet",
-    "link": "https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/",
-    "published": "2026-04-27T09:10:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet. What: Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet. When: 2026-04-27T09:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet. ماذا: Researchers Identify Fast16 Sabotage Malware That Pre-Dates Stuxnet. متى: 2026-04-27T09:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/dc00f59c-fb2c-41d8-8940-3b8ee642cc5e.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/fast16-sabotage-malware-winds/"
-    ]
-  },
-  {
-    "id": "9aef6cf4cc0907287f8e55ec",
-    "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-    "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-    "published": "2026-04-27T08:39:28+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Firefox Vulnerability Allows Tor User Fingerprinting. What: The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.. When: 2026-04-27T08:39:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Firefox Vulnerability Allows Tor User Fingerprinting. ماذا: The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.. متى: 2026-04-27T08:39:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-6770"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Tor-Network-1.jpeg",
-    "sources": [
-      "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/"
-    ]
-  },
-  {
-    "id": "3318e627d4deb6ebca18a751",
-    "title": "Anthropic's magic code-sniffer: More Swiss cheese than cheddar, for now",
-    "link": "https://www.theregister.com/security/2026/04/27/mythos-sniffs-out-your-bugs-cant-fix-your-bloody-idiots/5228719",
-    "published": "2026-04-27T08:30:15+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: One is that the effectiveness of tools like Mythos will continue to evolve, exposing more and more structural and individual code flaws.. What: Just fixing code vulnerabilities doesn’t fix security, in the same way that knowing how to make and fly exquisitely safe aircraft stops fuel contamination, flocks of geese, or foolish humans from creasing the things.. When: 2026-04-27T08:30:15+00:00. How: Project Glasswing, limiting early use to trusted partners with a real need, is probably a responsible approach to using its powers for good, but other unrestricted models are quite good at this too. Action: See Arabic action below.",
-    "summary_ar": "من: One is that the effectiveness of tools like Mythos will continue to evolve, exposing more and more structural and individual code flaws.. ماذا: Just fixing code vulnerabilities doesn’t fix security, in the same way that knowing how to make and fly exquisitely safe aircraft stops fuel contamination, flocks of geese, or foolish humans from creasing the things.. متى: 2026-04-27T08:30:15+00:00. كيف: Project Glasswing, limiting early use to trusted partners with a real need, is probably a responsible approach to using its powers for good, but other unrestricted models are quite good at this too.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/229349.jpg?imageId=229349&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/27/mythos-sniffs-out-your-bugs-cant-fix-your-bloody-idiots/5228719",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/27/anthropics_magic_codesniffer_more_swiss/"
-    ]
-  },
-  {
-    "id": "3e5d9bcfae5a12d7533c1397",
-    "title": "BlackFile Group Targets Retail and Hospitality with Vishing Attacks",
-    "link": "https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/",
-    "published": "2026-04-27T08:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: BlackFile Group Targets Retail and Hospitality with Vishing Attacks. What: BlackFile Group Targets Retail and Hospitality with Vishing Attacks. When: 2026-04-27T08:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: BlackFile Group Targets Retail and Hospitality with Vishing Attacks. ماذا: BlackFile Group Targets Retail and Hospitality with Vishing Attacks. متى: 2026-04-27T08:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/8f1542b2-a0eb-4b50-b2c1-5f7720d720c4.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/blackfile-group-targets-retail/"
-    ]
-  },
-  {
-    "id": "c616bebb98ec0d7bc087fa1d",
-    "title": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/",
-    "published": "2026-04-27T07:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms. What: CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms. When: 2026-04-27T07:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms. ماذا: CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms. متى: 2026-04-27T07:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-frost-sullivan-radar-cnapp/"
-    ]
-  },
-  {
-    "id": "86b430883ddc05b2ebb34414",
-    "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-    "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-    "published": "2026-04-27T06:33:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud. What: Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers.. When: 2026-04-27T06:33:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud. ماذا: Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers.. متى: 2026-04-27T06:33:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html"
     ]
   }
 ]
