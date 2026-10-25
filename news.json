@@ -36,6 +36,45 @@
     ]
   },
   {
+    "id": "4a8154151413dd37b9bdf51d",
+    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+    "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "published": "2026-10-25T17:44:09+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. What: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. When: 2026-10-25T17:44:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. ماذا: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. متى: 2026-10-25T17:44:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    ]
+  },
+  {
+    "id": "3eda0d6ae7e393224e1958f6",
+    "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "published": "2026-10-25T17:19:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking. What: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking. When: 2026-10-25T17:19:46+00:00. How: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. Action: See Arabic action below.",
+    "summary_ar": "من: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking. ماذا: PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking. متى: 2026-10-25T17:19:46+00:00. كيف: Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+    ]
+  },
+  {
     "id": "9e8f060397f4d2d14e58b812",
     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
     "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
@@ -143468,225 +143507,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbccf743048a8212d/69f10b44d85d6ebcc789c1d4/Hackers_hacking_hackers_Sergio_Azenha_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data"
-    ]
-  },
-  {
-    "id": "6c7f0357827cd8f85bfb1fb4",
-    "title": "Over 80% of US government agencies already use AI agents - and it's only the beginning",
-    "link": "https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/",
-    "published": "2026-04-28T19:12:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Over 80% of US government agencies already use AI agents - and it's only the beginning. What: Over 80% of US government agencies already use AI agents - and it's only the beginning. When: 2026-04-28T19:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Over 80% of US government agencies already use AI agents - and it's only the beginning. ماذا: Over 80% of US government agencies already use AI agents - and it's only the beginning. متى: 2026-04-28T19:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b9fd9d529bff5346d0dcdc7da3404ff076e4d60f/2026/04/28/d3abf26a-0916-4d29-be70-3d0427727949/gettyimages-2248121848.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/government-adoption-of-ai-agents-may-outpace-the-private-sector/"
-    ]
-  },
-  {
-    "id": "de571a1258098ae61f92cff8",
-    "title": "Vidar Rises to Top of Chaotic Infostealer Market",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
-    "published": "2026-04-28T19:07:16+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Vidar Rises to Top of Chaotic Infostealer Market. What: Vidar Rises to Top of Chaotic Infostealer Market. When: 2026-04-28T19:07:16+00:00. How: The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys. Action: See Arabic action below.",
-    "summary_ar": "من: Vidar Rises to Top of Chaotic Infostealer Market. ماذا: Vidar Rises to Top of Chaotic Infostealer Market. متى: 2026-04-28T19:07:16+00:00. كيف: The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a291e1dc97034df/69efcf5bd9eb8a77ca3cb9e9/infostealer_Bits_And_Splits_shutterstok.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market"
-    ]
-  },
-  {
-    "id": "0901b1c4701c52e865882eac",
-    "title": "Video service Vimeo confirms Anodot breach exposed user data",
-    "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-    "published": "2026-04-28T19:04:22+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Video service Vimeo confirms Anodot breach exposed user data. What: Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company.. When: 2026-04-28T19:04:22+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Video service Vimeo confirms Anodot breach exposed user data. ماذا: Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company.. متى: 2026-04-28T19:04:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/Vimeo.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/"
-    ]
-  },
-  {
-    "id": "abd3263740eeae5c7b7c8e5e",
-    "title": "Microsoft finally open sources DOS 1.0 - and it's so much more than the code",
-    "link": "https://www.zdnet.com/article/microsoft-open-sources-dos-1-0-much-more-than-the-code/",
-    "published": "2026-04-28T18:45:10+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft just open-sourced its very first operating system, offering a rare insight into the PC's earliest days.. What: Microsoft finally open sources DOS 1.0 - and it's so much more than the code. When: 2026-04-28T18:45:10+00:00. How: Microsoft just open-sourced its very first operating system, offering a rare insight into the PC's earliest days. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft just open-sourced its very first operating system, offering a rare insight into the PC's earliest days.. ماذا: Microsoft finally open sources DOS 1.0 - and it's so much more than the code. متى: 2026-04-28T18:45:10+00:00. كيف: Microsoft just open-sourced its very first operating system, offering a rare insight into the PC's earliest days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/421d413bff3d911ad05d1c966ea002ac112e2a6f/2024/04/26/da42efe7-0b43-4f98-a19c-c4aa2ebfde65/ms-dos-4-23.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-open-sources-dos-1-0-much-more-than-the-code/"
-    ]
-  },
-  {
-    "id": "94982cf3aa6040cec9025c7c",
-    "title": "Don't pay Vect a ransom - your data's likely already wiped out",
-    "link": "https://www.theregister.com/security/2026/04/28/dont-pay-vect-a-ransom-your-big-files-are-likely-gone/5227697",
-    "published": "2026-04-28T18:36:31+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Don't pay Vect a ransom - your data's likely already wiped out. What: After initially compromising the security and developer tools, infecting them with self-propagating credential-stealing malware, TeamPCP and Vect announced their new partnership on BreachForums, bragging: \"we will pull off even bigger supply chain operations.. When: 2026-04-28T18:36:31+00:00. How: That's because the ransomware Vect uses isn't actually ransomware at all, but a wiper that destroys any file larger than 128KB. Action: See Arabic action below.",
-    "summary_ar": "من: Don't pay Vect a ransom - your data's likely already wiped out. ماذا: After initially compromising the security and developer tools, infecting them with self-propagating credential-stealing malware, TeamPCP and Vect announced their new partnership on BreachForums, bragging: \"we will pull off even bigger supply chain operations.. متى: 2026-04-28T18:36:31+00:00. كيف: That's because the ransomware Vect uses isn't actually ransomware at all, but a wiper that destroys any file larger than 128KB.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/231079.jpg?imageId=231079&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/28/dont-pay-vect-a-ransom-your-big-files-are-likely-gone/5227697",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/"
-    ]
-  },
-  {
-    "id": "2ac70e269d9f3a8b741e5a67",
-    "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
-    "link": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
-    "published": "2026-04-28T18:32:11+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Cyber Insurance Data Gives CISOs New Ammo for Budget Talks. What: Cyber Insurance Data Gives CISOs New Ammo for Budget Talks. When: 2026-04-28T18:32:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cyber Insurance Data Gives CISOs New Ammo for Budget Talks. ماذا: Cyber Insurance Data Gives CISOs New Ammo for Budget Talks. متى: 2026-04-28T18:32:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/03/Cyber-Insurance.jpg",
-    "sources": [
-      "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/"
-    ]
-  },
-  {
-    "id": "46c1be78b8ee725719a13398",
-    "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-    "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
-    "published": "2026-04-28T18:19:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.. What: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.. When: 2026-04-28T18:19:00+00:00. How: The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.. ماذا: Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.. متى: 2026-04-28T18:19:00+00:00. كيف: The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-3854"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
-    ]
-  },
-  {
-    "id": "bc571a755cb958f347479879",
-    "title": "I was not expecting a Razer keyboard to enhance my office productivity - here's how it did",
-    "link": "https://www.zdnet.com/article/razer-pro-type-ergo-keyboard-review/",
-    "published": "2026-04-28T18:14:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I was not expecting a Razer keyboard to enhance my office productivity - here's how it did. What: I was not expecting a Razer keyboard to enhance my office productivity - here's how it did. When: 2026-04-28T18:14:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I was not expecting a Razer keyboard to enhance my office productivity - here's how it did. ماذا: I was not expecting a Razer keyboard to enhance my office productivity - here's how it did. متى: 2026-04-28T18:14:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2fafff73a8c333a08018ec96df12602a2b1301dd/2026/04/27/5247846d-bf3d-419c-8a18-0a8ce1b92d87/dsc05072.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/razer-pro-type-ergo-keyboard-review/"
-    ]
-  },
-  {
-    "id": "b03eff37b8e87ee9b75e229f",
-    "title": "User interfaces as we know them are dead - 4 ways to prep for 'disposable' UIs",
-    "link": "https://www.zdnet.com/article/user-interfaces-as-we-know-them-are-dead-4-ways-to-prep-for-disposable-uis/",
-    "published": "2026-04-28T17:43:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: User interfaces as we know them are dead - 4 ways to prep for 'disposable' UIs. What: UIs are evolving from the fixed, static screens we've viewed for decades to generated 'just-in-time' projection layers that appear as simple text boxes.. When: 2026-04-28T17:43:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: User interfaces as we know them are dead - 4 ways to prep for 'disposable' UIs. ماذا: UIs are evolving from the fixed, static screens we've viewed for decades to generated 'just-in-time' projection layers that appear as simple text boxes.. متى: 2026-04-28T17:43:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3af9252b1c45bbb9a0c0d2aa06d0c28c9bec3907/2026/04/28/377f6a3f-dfa3-4ace-9211-d5539c2ba0ab/nomoreui-screenshot-2026-04-28-131937.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/user-interfaces-as-we-know-them-are-dead-4-ways-to-prep-for-disposable-uis/"
-    ]
-  },
-  {
-    "id": "cf6223895a14337227269fe3",
-    "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-    "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-    "published": "2026-04-28T17:39:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign. What: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign. When: 2026-04-28T17:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign. ماذا: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign. متى: 2026-04-28T17:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html"
-    ]
-  },
-  {
-    "id": "e1979007f3f52a43bbdccd59",
-    "title": "Vimeo Confirms User and Customer Data Breach",
-    "link": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
-    "published": "2026-04-28T17:11:55+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Vimeo Confirms User and Customer Data Breach. What: Vimeo Confirms User and Customer Data Breach. When: 2026-04-28T17:11:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Vimeo Confirms User and Customer Data Breach. ماذا: Vimeo Confirms User and Customer Data Breach. متى: 2026-04-28T17:11:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Vimeo.jpeg",
-    "sources": [
-      "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/"
-    ]
-  },
-  {
-    "id": "f90f49b7fc1aae1d6d876712",
-    "title": "Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today",
-    "link": "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/",
-    "published": "2026-04-28T16:59:33+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The Apple Watch SE 3 is the latest refresh of Apple's entry-level smartwatch, and you can get one for free with a new smartwatch line on your T-Mobile plan.. What: Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today. When: 2026-04-28T16:59:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The Apple Watch SE 3 is the latest refresh of Apple's entry-level smartwatch, and you can get one for free with a new smartwatch line on your T-Mobile plan.. ماذا: Want a free Apple Watch? T-Mobile will give you the SE 3 - how to get yours today. متى: 2026-04-28T16:59:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0c5bebfb55d0af649681d9967d884690ed5a01f3/2025/09/17/38f09117-088e-41c9-9194-5388c1f8a0f8/img-0047.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-watch-se-3-tmobile-deal/"
     ]
   }
 ]
