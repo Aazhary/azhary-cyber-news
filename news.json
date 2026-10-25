@@ -354,12 +354,12 @@
   },
   {
     "id": "2810027585c5f3b558764b60",
-    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
     "published": "2026-10-23T19:00:34+00:00",
     "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23). When: 2026-10-23T19:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23). متى: 2026-10-23T19:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). When: 2026-10-23T19:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). متى: 2026-10-23T19:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -143415,98 +143415,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg",
     "sources": [
       "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
-    ]
-  },
-  {
-    "id": "ba1e03be512d1152c38522b7",
-    "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
-    "published": "2026-04-28T21:38:39+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures. What: BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures. When: 2026-04-28T21:38:39+00:00. How: The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives. Action: See Arabic action below.",
-    "summary_ar": "من: BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures. ماذا: BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures. متى: 2026-04-28T21:38:39+00:00. كيف: The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0143cb21f34c0ad9/69f11ed6518c911d5067bb51/deepfake_Smile_Studio_AP_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures"
-    ]
-  },
-  {
-    "id": "33e4227753077cf270976fc7",
-    "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-    "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-    "published": "2026-04-28T21:25:57+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Broken VECT 2.0 ransomware acts as a data wiper for large files. What: Broken VECT 2.0 ransomware acts as a data wiper for large files. When: 2026-04-28T21:25:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Broken VECT 2.0 ransomware acts as a data wiper for large files. ماذا: Broken VECT 2.0 ransomware acts as a data wiper for large files. متى: 2026-04-28T21:25:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
-    ]
-  },
-  {
-    "id": "1fd4db1a24099c690445300a",
-    "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-    "published": "2026-04-28T21:07:23+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw. What: Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw. When: 2026-04-28T21:07:23+00:00. How: Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw. ماذا: Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw. متى: 2026-04-28T21:07:23+00:00. كيف: Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-42208"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/litellm.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/"
-    ]
-  },
-  {
-    "id": "e6f3b52d06de507218c63cba",
-    "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
-    "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
-    "published": "2026-04-28T20:38:59+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later. What: NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later. When: 2026-04-28T20:38:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later. ماذا: NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later. متى: 2026-04-28T20:38:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later"
-    ]
-  },
-  {
-    "id": "24130f84f3dc5d05e20bb399",
-    "title": "Feuding Ransomware Groups Leak Each Other's Data",
-    "link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
-    "published": "2026-04-28T20:13:30+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Feuding Ransomware Groups Leak Each Other's Data. What: Feuding Ransomware Groups Leak Each Other's Data. When: 2026-04-28T20:13:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Feuding Ransomware Groups Leak Each Other's Data. ماذا: Feuding Ransomware Groups Leak Each Other's Data. متى: 2026-04-28T20:13:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbccf743048a8212d/69f10b44d85d6ebcc789c1d4/Hackers_hacking_hackers_Sergio_Azenha_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data"
     ]
   }
 ]
