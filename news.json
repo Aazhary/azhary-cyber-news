@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "93aa3d65932234760c8e54a0",
+    "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+    "link": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+    "published": "2026-10-26T04:08:23+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Work to protect DNS from quantum decryption attacks is speeding up. What: Work to protect DNS from quantum decryption attacks is speeding up. When: 2026-10-26T04:08:23+00:00. How: Internet registry reform nears At ICANN’s Bali conference, The Register also met Jia-Rong Low, in his capacity as chair of the Number Resource Organization, the peak body for the world’s five regional internet registries (RIRs), AFRINIC, APNIC, ARIN, LACNIC, and RIPE NCC. Action: See Arabic action below.",
+    "summary_ar": "من: Work to protect DNS from quantum decryption attacks is speeding up. ماذا: Work to protect DNS from quantum decryption attacks is speeding up. متى: 2026-10-26T04:08:23+00:00. كيف: Internet registry reform nears At ICANN’s Bali conference, The Register also met Jia-Rong Low, in his capacity as chair of the Number Resource Organization, the peak body for the world’s five regional internet registries (RIRs), AFRINIC, APNIC, ARIN, LACNIC, and RIPE NCC.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/238312.jpg?imageId=238312&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274"
+    ]
+  },
+  {
     "id": "4a8154151413dd37b9bdf51d",
     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
@@ -51,6 +69,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    ]
+  },
+  {
+    "id": "3eda0d6ae7e393224e1958f6",
+    "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+    "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+    "published": "2026-10-25T17:19:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.. What: PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity. When: 2026-10-25T17:19:46+00:00. How: \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via PHP2Shell Exploitation Attempts Continue Amid Suspected N. Action: See Arabic action below.",
+    "summary_ar": "من: In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.. ماذا: PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity. متى: 2026-10-25T17:19:46+00:00. كيف: \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via PHP2Shell Exploitation Attempts Continue Amid Suspected N.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
     ]
   },
   {
@@ -1180,24 +1216,6 @@
     ]
   },
   {
-    "id": "5962d844433936273404b7eb",
-    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-    "published": "2026-10-23T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Why Organizations Secure AI Agents with Falcon Guardian. What: Why Organizations Secure AI Agents with Falcon Guardian. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Organizations Secure AI Agents with Falcon Guardian. ماذا: Why Organizations Secure AI Agents with Falcon Guardian. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
-    ]
-  },
-  {
     "id": "d96bed8f956667e3d2b3d860",
     "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
     "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
@@ -1213,6 +1231,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
+    ]
+  },
+  {
+    "id": "5962d844433936273404b7eb",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+    "published": "2026-10-23T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Why Organizations Secure AI Agents with Falcon Guardian. What: Why Organizations Secure AI Agents with Falcon Guardian. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why Organizations Secure AI Agents with Falcon Guardian. ماذا: Why Organizations Secure AI Agents with Falcon Guardian. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
     ]
   },
   {
@@ -143356,65 +143392,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/08/19/Microsoft-Teams.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/"
-    ]
-  },
-  {
-    "id": "9a431b68287ce0ef1d47c9b3",
-    "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
-    "link": "https://www.theregister.com/security/2026/04/29/30-clawhub-skills-secretly-turn-ai-agents-into-crypto-swarm/5226209",
-    "published": "2026-04-29T06:32:14+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Sharma told The Register that this campaign – he calls it “ClawSwarm” – differs from past efforts to distribute malicious ClawHub code because it doesn’t use malware or target humans.. What: 30 ClawHub skills secretly turn AI agents into a crypto swarm. When: 2026-04-29T06:32:14+00:00. How: Sharma told The Register that this campaign – he calls it “ClawSwarm” – differs from past efforts to distribute malicious ClawHub code because it doesn’t use malware or target humans. Action: See Arabic action below.",
-    "summary_ar": "من: Sharma told The Register that this campaign – he calls it “ClawSwarm” – differs from past efforts to distribute malicious ClawHub code because it doesn’t use malware or target humans.. ماذا: 30 ClawHub skills secretly turn AI agents into a crypto swarm. متى: 2026-04-29T06:32:14+00:00. كيف: Sharma told The Register that this campaign – he calls it “ClawSwarm” – differs from past efforts to distribute malicious ClawHub code because it doesn’t use malware or target humans.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5226539.jpg?imageId=5226539&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/29/30-clawhub-skills-secretly-turn-ai-agents-into-crypto-swarm/5226209",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/"
-    ]
-  },
-  {
-    "id": "f8890c682f2ae343463a2c71",
-    "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-    "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-    "published": "2026-04-29T06:27:49+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.. What: Critical GitHub Vulnerability Exposed Millions of Repositories. When: 2026-04-29T06:27:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.. ماذا: Critical GitHub Vulnerability Exposed Millions of Repositories. متى: 2026-04-29T06:27:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-3854"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/03/GitHub.jpeg",
-    "sources": [
-      "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/"
-    ]
-  },
-  {
-    "id": "51329e7e899083999f222445",
-    "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
-    "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
-    "published": "2026-04-29T05:34:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure. What: In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.. When: 2026-04-29T05:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure. ماذا: In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge.. متى: 2026-04-29T05:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-42208"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgev8o8oELGzruYVoLF6t_fn8gZnmWpTXq4Xgoq5n4Tc1H4qmyLdYJ53-8pGelRL4BrBtZqpCCsSgo_He2ItCULVwwPIgOHuN6S6zn5s9RYFASTpWxIoX8vlPmigRngBNb0ucFElbHxiz8uPWa2OkasjaBTQAG8hqeHqi_llW4WMI_gIZHjx23jm-O3ccQx/s1600/lite.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html"
     ]
   }
 ]
