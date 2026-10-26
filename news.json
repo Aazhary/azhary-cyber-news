@@ -36,6 +36,188 @@
     ]
   },
   {
+    "id": "a3e6628ceeb10e86c0546b1e",
+    "title": "Worm armed 42 GitHub repos by hiding a payload too big to fail",
+    "link": "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+    "published": "2026-10-26T22:29:01+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A new Miasma-family npm worm, originally believed to be just a test with no victims, secretly armed 42 real GitHub repositories from 11 owners, hijacking accounts as early as July and using a stealthy payload built to stay hidden from GitHub and automated scanners, according to JFrog researchers.. What: CISA added it to its Known Exploited Vulnerabilities catalog in April, and cPanel has since published patched versions.. When: 2026-10-26T22:29:01+00:00. How: A new Miasma-family npm worm, originally believed to be just a test with no victims, secretly armed 42 real GitHub repositories from 11 owners, hijacking accounts as early as July and using a stealthy payload built to stay hidden from GitHub and automated scanners, according to JFrog researchers. Action: See Arabic action below.",
+    "summary_ar": "من: A new Miasma-family npm worm, originally believed to be just a test with no victims, secretly armed 42 real GitHub repositories from 11 owners, hijacking accounts as early as July and using a stealthy payload built to stay hidden from GitHub and automated scanners, according to JFrog researchers.. ماذا: CISA added it to its Known Exploited Vulnerabilities catalog in April, and cPanel has since published patched versions.. متى: 2026-10-26T22:29:01+00:00. كيف: A new Miasma-family npm worm, originally believed to be just a test with no victims, secretly armed 42 real GitHub repositories from 11 owners, hijacking accounts as early as July and using a stealthy payload built to stay hidden from GitHub and automated scanners, according to JFrog researchers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-41940"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5242669.jpg?imageId=5242669&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
+    ]
+  },
+  {
+    "id": "627cc70bbf65badd845db4b3",
+    "title": "University of Copenhagen data breach exposes data of 525,000 people",
+    "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+    "published": "2026-10-26T22:20:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: University of Copenhagen data breach exposes data of 525,000 people. What: University of Copenhagen data breach exposes data of 525,000 people. When: 2026-10-26T22:20:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: University of Copenhagen data breach exposes data of 525,000 people. ماذا: University of Copenhagen data breach exposes data of 525,000 people. متى: 2026-10-26T22:20:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/26/copenhagen.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/"
+    ]
+  },
+  {
+    "id": "5d6c647af36336afaa3fef82",
+    "title": "Risks &amp; Rewards: How AI Is Redefining the CISO's Role",
+    "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+    "published": "2026-10-26T21:44:33+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Risks &amp; Rewards: How AI Is Redefining the CISO's Role. What: Risks &amp; Rewards: How AI Is Redefining the CISO's Role. When: 2026-10-26T21:44:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Risks &amp; Rewards: How AI Is Redefining the CISO's Role. ماذا: Risks &amp; Rewards: How AI Is Redefining the CISO's Role. متى: 2026-10-26T21:44:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739dd94533bc1a1c/6adfbdf0c68e80623ff507bb/ciso_Dave_Hoeek_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role"
+    ]
+  },
+  {
+    "id": "ca6faf2faa2116ebdc4b01a8",
+    "title": "Alibaba's Qwen AI caught trying to contact server in China",
+    "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+    "published": "2026-10-26T21:27:37+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cohere was running the model through CTI-REALM, Microsoft's security analyst benchmark, and gave Qwen the task of writing a detection rule to look for malicious file downloading and execution by watching for invocations of curl processing bash scripts to the /tmp directory that were accompanied by bash execution.. What: Nonetheless, the model issued a curl command to an Alibaba Cloud (aliyuncs.com) server.. When: 2026-10-26T21:27:37+00:00. How: Cohere was running the model through CTI-REALM, Microsoft's security analyst benchmark, and gave Qwen the task of writing a detection rule to look for malicious file downloading and execution by watching for invocations of curl processing bash scripts to the /tmp directory that were accompanied by bash execution. Action: See Arabic action below.",
+    "summary_ar": "من: Cohere was running the model through CTI-REALM, Microsoft's security analyst benchmark, and gave Qwen the task of writing a detection rule to look for malicious file downloading and execution by watching for invocations of curl processing bash scripts to the /tmp directory that were accompanied by bash execution.. ماذا: Nonetheless, the model issued a curl command to an Alibaba Cloud (aliyuncs.com) server.. متى: 2026-10-26T21:27:37+00:00. كيف: Cohere was running the model through CTI-REALM, Microsoft's security analyst benchmark, and gave Qwen the task of writing a detection rule to look for malicious file downloading and execution by watching for invocations of curl processing bash scripts to the /tmp directory that were accompanied by bash execution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561"
+    ]
+  },
+  {
+    "id": "9b6153963ef54ed66eb9c4cb",
+    "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+    "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+    "published": "2026-10-26T21:08:28+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Former pentester used ARTEX AI to steal 8.2 million data records. What: Former pentester used ARTEX AI to steal 8.2 million data records. When: 2026-10-26T21:08:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Former pentester used ARTEX AI to steal 8.2 million data records. ماذا: Former pentester used ARTEX AI to steal 8.2 million data records. متى: 2026-10-26T21:08:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Arrest.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/"
+    ]
+  },
+  {
+    "id": "c25a5812afa3a3ffebd36a57",
+    "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+    "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+    "published": "2026-10-26T20:59:26+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: In-the-Wild Attack Abuses AI Agents' Trust in Markdown. What: In-the-Wild Attack Abuses AI Agents' Trust in Markdown. When: 2026-10-26T20:59:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In-the-Wild Attack Abuses AI Agents' Trust in Markdown. ماذا: In-the-Wild Attack Abuses AI Agents' Trust in Markdown. متى: 2026-10-26T20:59:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8e8c1bff2695425/6adfab77ad59c66918c6c335/laptop_and_folder-ipuwadol-GettyImages-1402436756.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown"
+    ]
+  },
+  {
+    "id": "f0ec528663fd0b6a7ebf9a35",
+    "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+    "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+    "published": "2026-10-26T20:52:35+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime. What: Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime. When: 2026-10-26T20:52:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime. ماذا: Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime. متى: 2026-10-26T20:52:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
+    "sources": [
+      "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/"
+    ]
+  },
+  {
+    "id": "154f68998af199082cfa0f9c",
+    "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+    "published": "2026-10-26T20:46:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models.. What: OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing. When: 2026-10-26T20:46:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models.. ماذا: OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing. متى: 2026-10-26T20:46:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/09/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+    ]
+  },
+  {
+    "id": "1a47a5dbcb816a0edbc83d70",
+    "title": "LiteLLM supply chain attack started with an exposed master key",
+    "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+    "published": "2026-10-26T20:30:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May.. What: LiteLLM supply chain attack started with an exposed master key. When: 2026-10-26T20:30:53+00:00. How: The cloud and AI model secret-stealing part of the incident began when someone uploaded a poisoned version (1.107.0) of the popular open source AI gateway to PyPI and its container registries last Wednesday. Action: See Arabic action below.",
+    "summary_ar": "من: LiteLLM has traced last week’s supply chain attack to a master key it accidentally committed to a public GitHub repository in May.. ماذا: LiteLLM supply chain attack started with an exposed master key. متى: 2026-10-26T20:30:53+00:00. كيف: The cloud and AI model secret-stealing part of the incident began when someone uploaded a poisoned version (1.107.0) of the popular open source AI gateway to PyPI and its container registries last Wednesday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5263597.jpg?imageId=5263597&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544"
+    ]
+  },
+  {
+    "id": "89547e1892b345535033cd54",
+    "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+    "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+    "published": "2026-10-26T20:20:56+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI. What: Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI. When: 2026-10-26T20:20:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI. ماذا: Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI. متى: 2026-10-26T20:20:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg",
+    "sources": [
+      "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/"
+    ]
+  },
+  {
     "id": "d84dc99ca60fd7bbb48b119c",
     "title": "DreamHost forces password resets in ongoing \"incident\"",
     "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
@@ -2021,24 +2203,6 @@
     ]
   },
   {
-    "id": "d96bed8f956667e3d2b3d860",
-    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
-    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
-    "published": "2026-10-23T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. What: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. ماذا: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
-    ]
-  },
-  {
     "id": "5962d844433936273404b7eb",
     "title": "Why Organizations Secure AI Agents with Falcon Guardian",
     "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
@@ -2054,6 +2218,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
+    ]
+  },
+  {
+    "id": "d96bed8f956667e3d2b3d860",
+    "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
+    "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
+    "published": "2026-10-23T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. What: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. ماذا: Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
     ]
   },
   {
@@ -143297,79 +143479,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12df424bcfca2d2e/69f25c31d96b17efbb20a411/Claude_Mythos-GK_Images-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector"
-    ]
-  },
-  {
-    "id": "6853a58b1b86c97aa9f74145",
-    "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-    "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-    "published": "2026-04-29T22:13:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Popular WordPress redirect plugin hid dormant backdoor for years. What: Popular WordPress redirect plugin hid dormant backdoor for years. When: 2026-04-29T22:13:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Popular WordPress redirect plugin hid dormant backdoor for years. ماذا: Popular WordPress redirect plugin hid dormant backdoor for years. متى: 2026-04-29T22:13:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/"
-    ]
-  },
-  {
-    "id": "fba106b9d6b92268a3b84077",
-    "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-    "published": "2026-04-29T20:50:35+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining. What: Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining. When: 2026-04-29T20:50:35+00:00. How: Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. Action: See Arabic action below.",
-    "summary_ar": "من: [...] Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining. ماذا: Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining. متى: 2026-04-29T20:50:35+00:00. كيف: Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/31/cryptocurrency.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
-    ]
-  },
-  {
-    "id": "f3aa630ac648badae1997656",
-    "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
-    "link": "https://www.theregister.com/security/2026/04/29/ornl-builds-more-sensitive-gps-interference-detector/5223865",
-    "published": "2026-04-29T20:11:05+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Researchers move in the right direction, develop powerful GPS interference alarm. What: GPS spam: Not just a problem for planes We've reported plenty on GPS spoofing and jamming at The Register, but most of our writing on the topic has focused on aviation, with issues like GPS spoofing rampant at multiple airports in India, disrupting a flight carrying European Commission President Ursula von der Leyen, and generally rising to the level of being a serious flight safety concern for aviators around the world.. When: 2026-04-29T20:11:05+00:00. How: \"Trucking needs a solution that works without special conditions or dependence on a trusted reference source,\" Albright said of the new device in ORNL's writeup. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers move in the right direction, develop powerful GPS interference alarm. ماذا: GPS spam: Not just a problem for planes We've reported plenty on GPS spoofing and jamming at The Register, but most of our writing on the topic has focused on aviation, with issues like GPS spoofing rampant at multiple airports in India, disrupting a flight carrying European Commission President Ursula von der Leyen, and generally rising to the level of being a serious flight safety concern for aviators around the world.. متى: 2026-04-29T20:11:05+00:00. كيف: \"Trucking needs a solution that works without special conditions or dependence on a trusted reference source,\" Albright said of the new device in ORNL's writeup.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/230810.jpg?imageId=230810&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/29/ornl-builds-more-sensitive-gps-interference-detector/5223865",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/29/boffins_new_gps_interference_alarm/"
-    ]
-  },
-  {
-    "id": "a9bc716ca27a6987cce1cafc",
-    "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
-    "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
-    "published": "2026-04-29T20:08:17+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Reverse Engineering With AI Unearths High-Severity GitHub Bug. What: Reverse Engineering With AI Unearths High-Severity GitHub Bug. When: 2026-04-29T20:08:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Reverse Engineering With AI Unearths High-Severity GitHub Bug. ماذا: Reverse Engineering With AI Unearths High-Severity GitHub Bug. متى: 2026-04-29T20:08:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0f7f3cdef8476589/69f258736bebffd429af87fc/Android_Code_Klaus_Ohlenschlaeger_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug"
     ]
   }
 ]
