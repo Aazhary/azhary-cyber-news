@@ -36,6 +36,62 @@
     ]
   },
   {
+    "id": "46ee8b886dbe8aca9c09b5b7",
+    "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
+    "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
+    "published": "2026-10-27T07:14:27+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems. What: Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems. When: 2026-10-27T07:14:27+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems. ماذا: Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems. متى: 2026-10-27T07:14:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Maritime-cybersecurity.jpg",
+    "sources": [
+      "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/"
+    ]
+  },
+  {
+    "id": "ad878331961700a5010a1975",
+    "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+    "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+    "published": "2026-10-27T06:34:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses. What: The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.. When: 2026-10-27T06:34:47+00:00. How: \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP) Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses. ماذا: The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.. متى: 2026-10-27T06:34:47+00:00. كيف: \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP) Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html"
+    ]
+  },
+  {
+    "id": "968629f0ead301ae39363638",
+    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+    "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "published": "2026-10-27T04:37:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.. When: 2026-10-27T04:37:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.. متى: 2026-10-27T04:37:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+    ]
+  },
+  {
     "id": "7f986c278117538169f3b208",
     "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
     "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
@@ -143367,79 +143423,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/10/bank-finance-lender-credit-union-hack.jpeg",
     "sources": [
       "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/"
-    ]
-  },
-  {
-    "id": "5c9c841a9d2274e8298693af",
-    "title": "Finance company stores DB credentials in helpfully labeled spreadsheet",
-    "link": "https://www.theregister.com/security/2026/04/30/finance-company-stored-their-db-credentials-in-spreadsheet/5224248",
-    "published": "2026-04-30T08:00:12+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: To \"temporarily\" solve this disagreement, they dumped the root DB credentials and master AWS IAM keys into this spreadsheet, which had existed for a whopping eight months at the time our hero found it.. What: Finance company stores DB credentials in helpfully labeled spreadsheet. When: 2026-04-30T08:00:12+00:00. How: However, it shows that disagreements over how to secure resources can lead to dangerous compromises. Action: See Arabic action below.",
-    "summary_ar": "من: To \"temporarily\" solve this disagreement, they dumped the root DB credentials and master AWS IAM keys into this spreadsheet, which had existed for a whopping eight months at the time our hero found it.. ماذا: Finance company stores DB credentials in helpfully labeled spreadsheet. متى: 2026-04-30T08:00:12+00:00. كيف: However, it shows that disagreements over how to secure resources can lead to dangerous compromises.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5224619.jpg?imageId=5224619&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/04/30/finance-company-stored-their-db-credentials-in-spreadsheet/5224248",
-      "https://go.theregister.com/feed/www.theregister.com/2026/04/30/finance_company_stored_their_db_pwned_column/"
-    ]
-  },
-  {
-    "id": "15a54f0c111de7f3a4dcb6fb",
-    "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-    "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-    "published": "2026-04-30T07:07:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.. What: \"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\" Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution. When: 2026-04-30T07:07:00+00:00. How: \"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\" Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution Action: See Arabic action below.",
-    "summary_ar": "من: Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.. ماذا: \"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\" Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution. متى: 2026-04-30T07:07:00+00:00. كيف: \"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\" Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html"
-    ]
-  },
-  {
-    "id": "b61074fc39f5bfc22aeb522d",
-    "title": "Silver Fox uses the new ABCDoor backdoor to target organizations in Russia and India",
-    "link": "https://securelist.com/silver-fox-tax-notification-campaign/119575/",
-    "published": "2026-04-30T07:00:19+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: RustSL loader The attackers utilized a modified version of a Rust-based loader called RustSL, whose source code is publicly available on GitHub with a description in Chinese: Screenshot of the description from the RustSL loader GitHub project The description also refers to RustSL as an antivirus bypass framework, as it features a builder with extensive customization options: Eight payload encryption methods Thirteen memory allocation methods Twelve sandbox and virtual machine detection techniques Thirteen payload execution methods Five payload encoding methods Furthermore, the original version of RustSL encrypts all strings by default and inserts junk instructions to complicate analysis.. What: In December 2025, we detected a wave of malicious emails designed to look like official correspondence from the Indian tax service.. When: 2026-04-30T07:00:19+00:00. How: Both waves followed a nearly identical structure: phishing emails were styled as official notices regarding tax audits or prompted users to download an archive containing a “list of tax violations”. Action: See Arabic action below.",
-    "summary_ar": "من: RustSL loader The attackers utilized a modified version of a Rust-based loader called RustSL, whose source code is publicly available on GitHub with a description in Chinese: Screenshot of the description from the RustSL loader GitHub project The description also refers to RustSL as an antivirus bypass framework, as it features a builder with extensive customization options: Eight payload encryption methods Thirteen memory allocation methods Twelve sandbox and virtual machine detection techniques Thirteen payload execution methods Five payload encoding methods Furthermore, the original version of RustSL encrypts all strings by default and inserts junk instructions to complicate analysis.. ماذا: In December 2025, we detected a wave of malicious emails designed to look like official correspondence from the Indian tax service.. متى: 2026-04-30T07:00:19+00:00. كيف: Both waves followed a nearly identical structure: phishing emails were styled as official notices regarding tax audits or prompted users to download an archive containing a “list of tax violations”.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/04/29144353/SL-Silver-Fox-tax-campaign-featured.jpg",
-    "sources": [
-      "https://securelist.com/silver-fox-tax-notification-campaign/119575/"
-    ]
-  },
-  {
-    "id": "f61013b92a502c7cb71eb092",
-    "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
-    "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
-    "published": "2026-04-30T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield. What: Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield. When: 2026-04-30T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield. ماذا: Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield. متى: 2026-04-30T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/"
     ]
   }
 ]
