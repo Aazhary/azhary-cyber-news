@@ -36,6 +36,101 @@
     ]
   },
   {
+    "id": "697aeb2243e0ec4ed6636c80",
+    "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+    "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+    "published": "2026-10-28T07:13:21+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach. What: Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach. When: 2026-10-28T07:13:21+00:00. How: Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. Action: See Arabic action below.",
+    "summary_ar": "من: Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach. ماذا: Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach. متى: 2026-10-28T07:13:21+00:00. كيف: Japan's GMO Internet Group is&nbsp;offering up to $1 million in total&nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDDZZalFBPLgf4YxDU_9FK46XXVkU3x0GKHeZHFd2WTdJ0cK5n1KCWDEOIvSgzHP4R14xmwLygLnnmyuBEVcHRVO7b9nIUZVcp5ehxIgFGrPyXZ3hZGwNa2bg8k4e_kkSHa2tyo05yPortQqRR_9g3yr-T0k0Tga9_26Pr0rs_MNIU8RndHMeq9r5Rr0/s1600/gmo.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html"
+    ]
+  },
+  {
+    "id": "345dc53c49102d11dd833f78",
+    "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+    "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+    "published": "2026-10-28T06:20:37+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.. What: Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.. When: 2026-10-28T06:20:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.. ماذا: Tailscale has released&nbsp;version 1.104.4&nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&nbsp;root&nbsp;user should be able to touch.. متى: 2026-10-28T06:20:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4t7YUY-idhgGJFpEuulM5zELQR4QNB-UKmsh7cyB5cdMH4AU_zumf3K27WBWgAw6ra28TvALm5fFeLrV_1wHJXeYy3azE1TcblP-1JSCPLF3mq-WKjUOXy3K-pfjhHtiwGkCoYhxfEMZGielHz2Bit6mLoNlnElmauP0RNcbXelNkAHIWI4s92qrymUQ/s1600/tailscale-patches.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+    ]
+  },
+  {
+    "id": "f01e6eed4371d339f46204cd",
+    "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+    "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+    "published": "2026-10-28T06:04:58+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.. What: The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.. When: 2026-10-28T06:04:58+00:00. How: Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws Action: See Arabic action below.",
+    "summary_ar": "من: The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.. ماذا: The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.. متى: 2026-10-28T06:04:58+00:00. كيف: Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-35273"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s1600/sh.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
+    ]
+  },
+  {
+    "id": "271b83601f0c5aec1828bb6b",
+    "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+    "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+    "published": "2026-10-28T06:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature. What: Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature. When: 2026-10-28T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature. ماذا: Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature. متى: 2026-10-28T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature"
+    ]
+  },
+  {
+    "id": "dc166c047f5713599b21ae74",
+    "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+    "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+    "published": "2026-10-28T05:42:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. When: 2026-10-28T05:42:26+00:00. How: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. متى: 2026-10-28T05:42:26+00:00. كيف: Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-111497"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+    ]
+  },
+  {
     "id": "5246b1272668680ecbbde73b",
     "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
     "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
@@ -2158,24 +2253,6 @@
     "image": "https://image.theregister.com/238312.jpg?imageId=238312&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274"
-    ]
-  },
-  {
-    "id": "4a8154151413dd37b9bdf51d",
-    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-    "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-    "published": "2026-10-25T17:44:09+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. What: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. When: 2026-10-25T17:44:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. ماذا: The findings were Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers. متى: 2026-10-25T17:44:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
     ]
   },
   {
@@ -143292,78 +143369,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/05/truck-cargo-theft.jpeg",
     "sources": [
       "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/"
-    ]
-  },
-  {
-    "id": "cdd42963fb909aa6cdfe94b3",
-    "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-    "published": "2026-05-01T07:47:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: US ransomware negotiators get 4 years in prison over BlackCat attacks. What: US ransomware negotiators get 4 years in prison over BlackCat attacks. When: 2026-05-01T07:47:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US ransomware negotiators get 4 years in prison over BlackCat attacks. ماذا: US ransomware negotiators get 4 years in prison over BlackCat attacks. متى: 2026-05-01T07:47:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/BlackCat.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/"
-    ]
-  },
-  {
-    "id": "065a12935adad15bc741c09c",
-    "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-    "link": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-    "published": "2026-05-01T07:33:40+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom. What: 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom. When: 2026-05-01T07:33:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom. ماذا: 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom. متى: 2026-05-01T07:33:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg",
-    "sources": [
-      "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/"
-    ]
-  },
-  {
-    "id": "4759fb884c258e9c86cfae96",
-    "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
-    "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
-    "published": "2026-05-01T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Tune In: The Future of AI-Powered Vulnerability Discovery. What: Tune In: The Future of AI-Powered Vulnerability Discovery. When: 2026-05-01T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Tune In: The Future of AI-Powered Vulnerability Discovery. ماذا: Tune In: The Future of AI-Powered Vulnerability Discovery. متى: 2026-05-01T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/"
-    ]
-  },
-  {
-    "id": "f01b7214658e26e1b78f7991",
-    "title": "Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality",
-    "link": "https://www.zdnet.com/article/how-to-fix-tv-audio-sound/",
-    "published": "2026-05-01T02:01:10+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality. What: Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality. When: 2026-05-01T02:01:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality. ماذا: Your TV can sound a lot better: 7 easy but unexpected ways to improve audio quality. متى: 2026-05-01T02:01:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9e6452205d84e2383c862b8049e8e76abd497caf/2026/01/06/8e070366-900f-4fff-bacc-554a95ad030a/dsc08927.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-fix-tv-audio-sound/"
     ]
   }
 ]
