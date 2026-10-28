@@ -36,6 +36,449 @@
     ]
   },
   {
+    "id": "60ccb0bbd830e1a242e590ca",
+    "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+    "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+    "published": "2026-10-28T14:00:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk.. What: [...] InfraTrust report warns of exploited flaws in critical network infrastructure. When: 2026-10-28T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk.. ماذا: [...] InfraTrust report warns of exploited flaws in critical network infrastructure. متى: 2026-10-28T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/21/infratrust.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/"
+    ]
+  },
+  {
+    "id": "943e231b105b7cd36ebff9c5",
+    "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+    "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+    "published": "2026-10-28T13:56:50+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Upwind Security Raises $400 Million at $3.8 Billion Valuation. What: Upwind Security Raises $400 Million at $3.8 Billion Valuation. When: 2026-10-28T13:56:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Upwind Security Raises $400 Million at $3.8 Billion Valuation. ماذا: Upwind Security Raises $400 Million at $3.8 Billion Valuation. متى: 2026-10-28T13:56:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/"
+    ]
+  },
+  {
+    "id": "219f99ac76bfe58137b465cc",
+    "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+    "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+    "published": "2026-10-28T13:50:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Even after PHP2Shell, blast radius matters more than a CVSS score. What: Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach.. When: 2026-10-28T13:50:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Even after PHP2Shell, blast radius matters more than a CVSS score. ماذا: Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach.. متى: 2026-10-28T13:50:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/10/27/green-pumpkin.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/"
+    ]
+  },
+  {
+    "id": "04dad7bd605d46ca79dd821c",
+    "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+    "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+    "published": "2026-10-28T13:39:35+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Chrome and Firefox Updates Patch Over 200 Vulnerabilities. What: The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.. When: 2026-10-28T13:39:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chrome and Firefox Updates Patch Over 200 Vulnerabilities. ماذا: The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches.. متى: 2026-10-28T13:39:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg",
+    "sources": [
+      "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+      "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
+      "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "84fd85017893251248b6187d",
+    "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
+    "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+    "published": "2026-10-28T13:10:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .. What: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.. When: 2026-10-28T13:10:34+00:00. How: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. Action: See Arabic action below.",
+    "summary_ar": "من: The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .. ماذا: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.. متى: 2026-10-28T13:10:34+00:00. كيف: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/internet-routing-bgp.jpeg",
+    "sources": [
+      "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/"
+    ]
+  },
+  {
+    "id": "29d08fa787d95cda98bc924c",
+    "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+    "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+    "published": "2026-10-28T12:48:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.. What: Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.. When: 2026-10-28T12:48:03+00:00. How: Security researchers Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.. ماذا: Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.. متى: 2026-10-28T12:48:03+00:00. كيف: Security researchers Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-101767"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"
+    ]
+  },
+  {
+    "id": "7c22489c81a536a6565a6cbc",
+    "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+    "published": "2026-10-28T12:19:57+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability.. What: Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability.. When: 2026-10-28T12:19:57+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability.. ماذا: Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability.. متى: 2026-10-28T12:19:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/Oracle-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/"
+    ]
+  },
+  {
+    "id": "0d8d39d2f11bfaafee370051",
+    "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+    "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+    "published": "2026-10-28T12:00:59+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: China-Linked Hackers Exploit PHP2Shell to Root Firewalls. What: China-Linked Hackers Exploit PHP2Shell to Root Firewalls. When: 2026-10-28T12:00:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: China-Linked Hackers Exploit PHP2Shell to Root Firewalls. ماذا: China-Linked Hackers Exploit PHP2Shell to Root Firewalls. متى: 2026-10-28T12:00:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/04/Chinese-Technology-Cyberwar.jpg",
+    "sources": [
+      "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/"
+    ]
+  },
+  {
+    "id": "d1d6e819b34189c04bc4fb19",
+    "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+    "link": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+    "published": "2026-10-28T12:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse.. What: Cisco open sources tool for detecting AI agents on hacking sprees. When: 2026-10-28T12:00:00+00:00. How: Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse.. ماذا: Cisco open sources tool for detecting AI agents on hacking sprees. متى: 2026-10-28T12:00:00+00:00. كيف: Cisco has open sourced a behavior detection engine that watches AI agents, to help security teams prevent rogue agents from going off the rails like they did with the Hugging Face hack – or worse.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5259466.jpg?imageId=5259466&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867"
+    ]
+  },
+  {
+    "id": "eb93de238d98745b06baf772",
+    "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+    "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "published": "2026-10-28T11:50:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers. What: Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers. When: 2026-10-28T11:50:00+00:00. How: A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. Action: See Arabic action below.",
+    "summary_ar": "من: Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers. ماذا: Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers. متى: 2026-10-28T11:50:00+00:00. كيف: A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVVx2e6mg8LPbhDYmtubHewVD_9BI7UcctCMSwwG-h4SuOyZJOvIyTre_g9Ggo6sLw6Bjrse_1FsqKKThyiIvc5CbuYqq4caYCtUciHGg33wReFQgOjJuTX5FrnSS3OZTd_yjXt03l_kxwIX-NshU9A8wpANSdQwOWkDKzy31QdXkCD6UP21dOpfbjhg/s1600/server-bios.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+    ]
+  },
+  {
+    "id": "dda9773dd3c9647ba417b1e6",
+    "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+    "link": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+    "published": "2026-10-28T11:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: \"In addition, on October 7, 2026, CrowdStrike published CSA-261162, describing an unknown, likely Chinese-speaking actor that targeted several South Korean financial organizations starting in late September 2026, which is the same period during which we were attacked.. What: \"That actor used ARTEX, an open-source Chinese-developed agentic penetration-testing tool released in July 2026, which was also observed to be used in the attack that targeted us.\" The GoDaddy-owned registrar reported the attack to law enforcement agencies, brought in outside cybersecurity support, and notified the FTC, as well as the data protection authorities in the UK and EU.. When: 2026-10-28T11:45:00+00:00. How: \"Our investigation further identified AI cyberattack 'skills' hosted on Chinese infrastructure, including copies of skills open sourced by Anthropic and several other AI exploitation frameworks and scripts.\" They went on to say that many of the artefacts left behind led 123 Reg to suspect that a Chinese state-sponsored group, known for abusing Claude Code in attacks against at least 30 organizations, could be behind the break-in. Action: See Arabic action below.",
+    "summary_ar": "من: \"In addition, on October 7, 2026, CrowdStrike published CSA-261162, describing an unknown, likely Chinese-speaking actor that targeted several South Korean financial organizations starting in late September 2026, which is the same period during which we were attacked.. ماذا: \"That actor used ARTEX, an open-source Chinese-developed agentic penetration-testing tool released in July 2026, which was also observed to be used in the attack that targeted us.\" The GoDaddy-owned registrar reported the attack to law enforcement agencies, brought in outside cybersecurity support, and notified the FTC, as well as the data protection authorities in the UK and EU.. متى: 2026-10-28T11:45:00+00:00. كيف: \"Our investigation further identified AI cyberattack 'skills' hosted on Chinese infrastructure, including copies of skills open sourced by Anthropic and several other AI exploitation frameworks and scripts.\" They went on to say that many of the artefacts left behind led 123 Reg to suspect that a Chinese state-sponsored group, known for abusing Claude Code in attacks against at least 30 organizations, could be behind the break-in.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/242423.jpg?imageId=242423&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
+    ]
+  },
+  {
+    "id": "ce5fe177d9dacc31b20ff6ea",
+    "title": "Wazuh and AI for Enhanced SOC Workflows",
+    "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+    "published": "2026-10-28T11:30:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Wazuh and AI for Enhanced SOC Workflows. What: Wazuh and AI for Enhanced SOC Workflows. When: 2026-10-28T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Wazuh and AI for Enhanced SOC Workflows. ماذا: Wazuh and AI for Enhanced SOC Workflows. متى: 2026-10-28T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo5_lgjV0zvHt5XW8CcCjQnBc_cvxOxrGxsrliXv3s9c6RD-Aw7eXOlNrp78QHxSnVO5yBgphx7KqCjkjje3YbwCFUtXUdLN4xA-sW_zVoFsK7au37XZxUPyoDRlhCIGsxc2at70I_FexwVKgdyub-XuuvwIZCy1o6hoCU50o7lhHWDSgktrcsrXkN9p8/s1600/wazuh.png",
+    "sources": [
+      "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
+    ]
+  },
+  {
+    "id": "42a9e60af11b1055146357a8",
+    "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+    "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+    "published": "2026-10-28T11:15:51+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.. What: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.. When: 2026-10-28T11:15:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.. ماذا: Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation.. متى: 2026-10-28T11:15:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-104351"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s1600/adobe-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+    ]
+  },
+  {
+    "id": "9ebc7f16e54c35c4f33c7b18",
+    "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+    "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+    "published": "2026-10-28T10:48:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.. What: The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .. When: 2026-10-28T10:48:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs.. ماذا: The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .. متى: 2026-10-28T10:48:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/research-laboratory-physics-laser.jpeg",
+    "sources": [
+      "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/"
+    ]
+  },
+  {
+    "id": "aa5619127529a8874a748934",
+    "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+    "published": "2026-10-28T10:46:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell.. What: CISA warns of hackers now exploiting critical Node2Shell flaw. When: 2026-10-28T10:46:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell.. ماذا: CISA warns of hackers now exploiting critical Node2Shell flaw. متى: 2026-10-28T10:46:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/"
+    ]
+  },
+  {
+    "id": "169a3a02ba4a388f28013d3b",
+    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+    "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+    "published": "2026-10-28T10:30:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed. What: American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed. When: 2026-10-28T10:30:00+00:00. How: Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Action: See Arabic action below.",
+    "summary_ar": "من: American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed. ماذا: American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed. متى: 2026-10-28T10:30:00+00:00. كيف: Modern phishing campaigns can compromise American businesses without relying on traditional credential theft.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2g4rsWnZ5eQP03cr-4e99MQStvJmuaTTi91WESG3ua1ddAW73T6X22gyaspj2SirqH-1bSAU9VkOg2F1Kh9TLmPc4jYsNAlD72S2XzCeTTRHSiN3B7is7roWwIMcIm__yRu8SkUBbyeWxAEBo5Fe-bbACZWRuoxZqv_pysQ9iMsZRHPCD_clJZsNIDs/s1600/anyrun-main.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+    ]
+  },
+  {
+    "id": "085573e20d778f07e10ed7da",
+    "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+    "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+    "published": "2026-10-28T10:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Nobody Trusts the Security Questionnaire. We Rely on It Anyway.. What: Nobody Trusts the Security Questionnaire. We Rely on It Anyway.. When: 2026-10-28T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nobody Trusts the Security Questionnaire. We Rely on It Anyway.. ماذا: Nobody Trusts the Security Questionnaire. We Rely on It Anyway.. متى: 2026-10-28T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/AI_Trust-Governance.jpg",
+    "sources": [
+      "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/"
+    ]
+  },
+  {
+    "id": "c05a0e78d955d0ca072d9440",
+    "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+    "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+    "published": "2026-10-28T10:00:18+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Millions of security cameras at risk: DoS vulnerability in Intelbras devices. What: We reported the issue to Intelbras, monitored the remediation process, validated the fix in the new firmware, and will now demonstrate the exploitation procedure step-by-step.. When: 2026-10-28T10:00:18+00:00. How: While users can manually install these updates via an SD card, the cameras also natively support firmware upgrades over the local network via their web interface and mobile app. Action: See Arabic action below.",
+    "summary_ar": "من: Millions of security cameras at risk: DoS vulnerability in Intelbras devices. ماذا: We reported the issue to Intelbras, monitored the remediation process, validated the fix in the new firmware, and will now demonstrate the exploitation procedure step-by-step.. متى: 2026-10-28T10:00:18+00:00. كيف: While users can manually install these updates via an SD card, the cameras also natively support firmware upgrades over the local network via their web interface and mobile app.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/13144449/IP-cameras-vulner-Intelbras-scaled.jpg",
+    "sources": [
+      "https://securelist.com/intelbras-camera-vulnerability/121131/"
+    ]
+  },
+  {
+    "id": "56f1c438e2949bf1a45fa34b",
+    "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+    "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+    "published": "2026-10-28T09:48:24+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise. What: Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise. When: 2026-10-28T09:48:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise. ماذا: Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise. متى: 2026-10-28T09:48:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/funding-round.jpeg",
+    "sources": [
+      "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/"
+    ]
+  },
+  {
+    "id": "965a65e0d8497477a1780d5d",
+    "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+    "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+    "published": "2026-10-28T09:43:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Nefilim and Hive ransomware affiliate gets 70 months in prison. What: Nefilim and Hive ransomware affiliate gets 70 months in prison. When: 2026-10-28T09:43:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nefilim and Hive ransomware affiliate gets 70 months in prison. ماذا: Nefilim and Hive ransomware affiliate gets 70 months in prison. متى: 2026-10-28T09:43:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/08/Hacker_prison.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/"
+    ]
+  },
+  {
+    "id": "3f9c6dce420c2b7ae74fc145",
+    "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+    "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+    "published": "2026-10-28T09:14:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .. What: CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.. When: 2026-10-28T09:14:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .. ماذا: CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution.. متى: 2026-10-28T09:14:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-101767"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle-E-Business-Suite.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/"
+    ]
+  },
+  {
+    "id": "21dec5f03b5818ad9b5833b3",
+    "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+    "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+    "published": "2026-10-28T08:37:24+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.. What: CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts. When: 2026-10-28T08:37:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit.. ماذا: CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts. متى: 2026-10-28T08:37:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/cyberattack-vulnerability-exploited.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/"
+    ]
+  },
+  {
+    "id": "d75560f4cad5dfa199d3079a",
+    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+    "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+    "published": "2026-10-28T08:15:07+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.. What: An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.. When: 2026-10-28T08:15:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.. ماذا: An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.. متى: 2026-10-28T08:15:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html"
+    ]
+  },
+  {
+    "id": "6fcf621f852d0783b5e6d41f",
+    "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+    "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+    "published": "2026-10-28T07:37:50+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering. What: Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.. When: 2026-10-28T07:37:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering. ماذا: Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.. متى: 2026-10-28T07:37:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAdfKblTUCEDUoHzYpHPcEPzHO6qKTr01uG2-x7YyIT5t_-xeFc27zuZ3yOK76rkhz-J8y_Z4MqmydEQUtiCEvry_2H43qaSJXDrWRbM1gs8wDVTBgi_NzxIXsGBMoX8zlzISFlvcJ8NdNSyeMIZh8z-aHkXCyBDPJ2l195Ji1XgnVu_A0Yhh3H2QvEyiA/s1600/servers.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html"
+    ]
+  },
+  {
     "id": "697aeb2243e0ec4ed6636c80",
     "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
     "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
@@ -420,7 +863,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-Insider-build-internet-speed-test.jpg",
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-speed-test.jpg",
     "sources": [
       "https://www.zdnet.com/tech/microsoft-is-finally-adding-an-integrated-network-speed-test-tool-to-windows-how-to-try-it/"
     ]
@@ -775,24 +1218,6 @@
     ]
   },
   {
-    "id": "04758badbb9d8b091eee60c5",
-    "title": "Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes",
-    "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
-    "published": "2026-10-27T12:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. What: Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. When: 2026-10-27T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. ماذا: Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. متى: 2026-10-27T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/940165cd-15a0-4223-97af-39ec949bea94.jpeg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/"
-    ]
-  },
-  {
     "id": "e0a16a2e2ffa5c2ee3e1f033",
     "title": "Microsoft releases out-of-band Windows fixes with certificate updates",
     "link": "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
@@ -808,6 +1233,24 @@
     "image": "https://image.theregister.com/5302230.jpg?imageId=5302230&x=0&y=5.75&cropw=100&croph=49.43&panox=0&panoy=5.75&panow=100&panoh=49.43&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637"
+    ]
+  },
+  {
+    "id": "04758badbb9d8b091eee60c5",
+    "title": "Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes",
+    "link": "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/",
+    "published": "2026-10-27T12:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. What: Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. When: 2026-10-27T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. ماذا: Arctic Wolf warned that the function enables highly effective social engineering attacks, which lead to incidents such as ransomware Attackers Exploit Teams External Chat to Breach Organizations in Under 15 Minutes. متى: 2026-10-27T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/940165cd-15a0-4223-97af-39ec949bea94.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/exploit-teams-chat-breach/"
     ]
   },
   {
@@ -5024,8 +5467,8 @@
     "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
     "published": "2026-10-21T15:18:04+00:00",
     "source": "securelist.com",
-    "summary_en": "Who: UPD 23.10.2026 : added rules for Kaspersky SIEM and events for developing custom detection rules or conducting threat hunting.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
-    "summary_ar": "من: UPD 23.10.2026 : added rules for Kaspersky SIEM and events for developing custom detection rules or conducting threat hunting.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: UPD 23.10.2026 : added Kaspersky SIEM rules and events for developing custom detection rules or conducting threat hunting.. What: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. When: 2026-10-21T15:18:04+00:00. How: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0. Action: See Arabic action below.",
+    "summary_ar": "من: UPD 23.10.2026 : added Kaspersky SIEM rules and events for developing custom detection rules or conducting threat hunting.. ماذا: The patches were released on Wednesday, October 21, 2026, at 14:00 UTC.. متى: 2026-10-21T15:18:04+00:00. كيف: In a post on Hacker News, a user reported two RCE vulnerabilities in PHP, allegedly affecting all versions starting with PHP 5.4.0.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -5352,24 +5795,6 @@
     ]
   },
   {
-    "id": "c24ca7c42eb6b473dd24d2bc",
-    "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
-    "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
-    "published": "2026-10-21T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. What: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. When: 2026-10-21T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. ماذا: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. متى: 2026-10-21T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/4e5ec292-d932-4cb2-b65b-06e2132552da.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/"
-    ]
-  },
-  {
     "id": "ff80870018fbf885ff93d61a",
     "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
     "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
@@ -5385,6 +5810,24 @@
     "image": "https://image.theregister.com/259070.jpg?imageId=259070&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297"
+    ]
+  },
+  {
+    "id": "c24ca7c42eb6b473dd24d2bc",
+    "title": "Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy",
+    "link": "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/",
+    "published": "2026-10-21T12:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. What: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. When: 2026-10-21T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. ماذا: Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy. متى: 2026-10-21T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/4e5ec292-d932-4cb2-b65b-06e2132552da.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/"
     ]
   },
   {
@@ -6772,24 +7215,6 @@
     ]
   },
   {
-    "id": "687247e9e8b57e89720e61e2",
-    "title": "Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw",
-    "link": "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/",
-    "published": "2026-10-20T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. What: Siemens identified the activity to be from the Romulus multi-platform ClickFix campaign, with Siemens Software Center users urged to apply an update Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. When: 2026-10-20T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. ماذا: Siemens identified the activity to be from the Romulus multi-platform ClickFix campaign, with Siemens Software Center users urged to apply an update Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. متى: 2026-10-20T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/ec433aba-adcd-49b4-9bf5-48b89af59869.jpeg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/"
-    ]
-  },
-  {
     "id": "46e6030ce5b42c7aa09a7e9e",
     "title": "Whitehall shuts the front door on digital ID but leaves the back open",
     "link": "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
@@ -6805,6 +7230,24 @@
     "image": "https://image.theregister.com/5235229.jpg?imageId=5235229&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100"
+    ]
+  },
+  {
+    "id": "687247e9e8b57e89720e61e2",
+    "title": "Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw",
+    "link": "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/",
+    "published": "2026-10-20T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. What: Siemens identified the activity to be from the Romulus multi-platform ClickFix campaign, with Siemens Software Center users urged to apply an update Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. When: 2026-10-20T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. ماذا: Siemens identified the activity to be from the Romulus multi-platform ClickFix campaign, with Siemens Software Center users urged to apply an update Siemens Customers Targeted by ClickFix Attackers Exploiting DLL Side-Loading Flaw. متى: 2026-10-20T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/ec433aba-adcd-49b4-9bf5-48b89af59869.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/siemens-clickfix-exploiting-side/"
     ]
   },
   {
@@ -20050,27 +20493,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/09/30/TeamViewer_red.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/"
-    ]
-  },
-  {
-    "id": "91a78076836f2c7084d66b13",
-    "title": "Chrome, Firefox Updates Patch Over 100 Vulnerabilities",
-    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-    "published": "2026-09-30T12:16:52+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.. What: Chrome, Firefox Updates Patch Over 100 Vulnerabilities. When: 2026-09-30T12:16:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Some of the flaws could allow remote attackers to execute arbitrary code or escape the browser sandbox.. ماذا: Chrome, Firefox Updates Patch Over 100 Vulnerabilities. متى: 2026-09-30T12:16:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg",
-    "sources": [
-      "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
-      "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-      "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/"
     ]
   },
   {
@@ -47847,24 +48269,6 @@
     "image": "https://www.zdnet.com/a/img/resize/f8adcccc90faca5d4fd6f311a34ebff1e0a459e0/2026/08/21/c7707487-1b9c-44e6-86dd-353735c200df/gettyimages-1372144198.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/ai-deepfakes-passwords-defense/"
-    ]
-  },
-  {
-    "id": "d5bcf1fd07be0fb3b40aef64",
-    "title": "Wazuh and AI For Enhanced SOC Workflows",
-    "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-    "published": "2026-08-21T11:21:39+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Wazuh and AI For Enhanced SOC Workflows. What: Wazuh and AI For Enhanced SOC Workflows. When: 2026-08-21T11:21:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Wazuh and AI For Enhanced SOC Workflows. ماذا: Wazuh and AI For Enhanced SOC Workflows. متى: 2026-08-21T11:21:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
     ]
   },
   {
@@ -142803,572 +143207,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf39bbd62b1f2473/69f3a68381ac09c28dfa5350/binary_match_Brain_light_alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases"
-    ]
-  },
-  {
-    "id": "685e387fa3a285cfd19bee46",
-    "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
-    "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
-    "published": "2026-05-01T14:26:14+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge appeared first on SecurityWeek .. What: Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge. When: 2026-05-01T14:26:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge appeared first on SecurityWeek .. ماذا: Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge. متى: 2026-05-01T14:26:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Google.jpeg",
-    "sources": [
-      "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/"
-    ]
-  },
-  {
-    "id": "40a5d9dea62a5d9983cc8856",
-    "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-    "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-    "published": "2026-05-01T14:26:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks. What: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks. When: 2026-05-01T14:26:00+00:00. How: The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks Action: See Arabic action below.",
-    "summary_ar": "من: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks. ماذا: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks. متى: 2026-05-01T14:26:00+00:00. كيف: The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html"
-    ]
-  },
-  {
-    "id": "be7d3ab928d78c9cbe4dd33c",
-    "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-    "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-    "published": "2026-05-01T14:02:12+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations. What: Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations. When: 2026-05-01T14:02:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations. ماذا: Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations. متى: 2026-05-01T14:02:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/04/28/threatq-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/"
-    ]
-  },
-  {
-    "id": "5807671cf89d10f7290510c0",
-    "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-    "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-    "published": "2026-05-01T14:02:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Trend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053.. What: Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.. When: 2026-05-01T14:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Trend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053.. ماذا: Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.. متى: 2026-05-01T14:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html"
-    ]
-  },
-  {
-    "id": "e482a6508bd620a78fc7966a",
-    "title": "Eero Signal keeps your business online during internet outages",
-    "link": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
-    "published": "2026-05-01T13:35:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Eero Signal keeps your business online during internet outages. What: Eero Signal keeps your business online during internet outages. When: 2026-05-01T13:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Eero Signal keeps your business online during internet outages. ماذا: Eero Signal keeps your business online during internet outages. متى: 2026-05-01T13:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/81ca967e564b1591799b68a590f39a8b859e96ca/2026/04/22/7db777a0-003e-4b97-98d1-685daab07517/eero-signal.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/"
-    ]
-  },
-  {
-    "id": "5898ea215f2d0ae9c1fa1747",
-    "title": "After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice",
-    "link": "https://www.zdnet.com/article/motorola-razr-fold-hands-on/",
-    "published": "2026-05-01T13:30:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice. What: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice. When: 2026-05-01T13:30:45+00:00. How: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice Action: See Arabic action below.",
-    "summary_ar": "من: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice. ماذا: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice. متى: 2026-05-01T13:30:45+00:00. كيف: After using the $1,900 Motorola Razr Fold again, I'm doubling down on my buying advice. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5813c279b7bb1260b60517880ed8cd9b5deeea0e/2026/04/30/f42dbe8f-7175-41a9-9f6d-a749e6f2b3f3/img-8680.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/motorola-razr-fold-hands-on/"
-    ]
-  },
-  {
-    "id": "581cddd7e2e515baf3f6588b",
-    "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
-    "link": "https://www.theregister.com/security/2026/05/01/critical-cpanel-exploited-millions-of-sites-could-be-hit/5225588",
-    "published": "2026-05-01T13:10:15+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.. What: CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.. When: 2026-05-01T13:10:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.. ماذا: CISA has added a critical cPanel bug to its known-exploited list, confirming that attackers are already poking holes in one of the internet's most widely used hosting stacks.. متى: 2026-05-01T13:10:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-41940"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/254673.jpg?imageId=254673&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/01/critical-cpanel-exploited-millions-of-sites-could-be-hit/5225588",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/"
-    ]
-  },
-  {
-    "id": "5e7b0d6fa3b79ebc70aeb7fc",
-    "title": "How I scan documents with my Android phone and turn them into PDFs for free - it's easy",
-    "link": "https://www.zdnet.com/article/how-to-scan-documents-and-turn-into-pdfs-on-android/",
-    "published": "2026-05-01T13:09:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You can use Google's free tool to scan and create documents in seconds.. What: How I scan documents with my Android phone and turn them into PDFs for free - it's easy. When: 2026-05-01T13:09:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: You can use Google's free tool to scan and create documents in seconds.. ماذا: How I scan documents with my Android phone and turn them into PDFs for free - it's easy. متى: 2026-05-01T13:09:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c5d4b401cfacd84e1c23bf205177352255729e2e/2026/04/29/9c2174d6-4b16-481a-b563-cdc03e58c0ef/pdfscanhero2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-scan-documents-and-turn-into-pdfs-on-android/"
-    ]
-  },
-  {
-    "id": "6d18e665a4f96bf9682f6d97",
-    "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-    "published": "2026-05-01T12:46:48+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files.. What: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files.. When: 2026-05-01T12:46:48+00:00. How: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files.. ماذا: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files.. متى: 2026-05-01T12:46:48+00:00. كيف: Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/03/28/Windows_headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/"
-    ]
-  },
-  {
-    "id": "30ffd38d77bb02053486f846",
-    "title": "I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic",
-    "link": "https://www.zdnet.com/article/adobe-photoshop-new-3d-object-rotation-tool-hands-on/",
-    "published": "2026-05-01T12:41:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic. What: I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic. When: 2026-05-01T12:41:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic. ماذا: I used Photoshop's new AI tool to rotate objects in 3D, and it's pure magic. متى: 2026-05-01T12:41:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9cd519860c99dc6078a473c0f80670a9d1432707/2026/05/01/747e6e3a-47fb-478e-8913-d7fce64c8549/i-used-photoshops-new-ai-tool-to-rotate-objects-in-3d-and-its-pure-magic.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/adobe-photoshop-new-3d-object-rotation-tool-hands-on/"
-    ]
-  },
-  {
-    "id": "dcf0eb00bc221319138c10ec",
-    "title": "I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it",
-    "link": "https://www.zdnet.com/article/dell-24-inch-aio-2026-review/",
-    "published": "2026-05-01T12:01:06+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it. What: I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it. When: 2026-05-01T12:01:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it. ماذا: I replaced my dad's aging Lenovo desktop with this Dell model - and don't regret it. متى: 2026-05-01T12:01:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/440efee2742fc78f56e8c36cca99bc92d2e4d283/2026/04/29/c4e97bf7-0662-4e6e-bb41-1051f813a5e5/dell-24-aio-pc-2026-image-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dell-24-inch-aio-2026-review/"
-    ]
-  },
-  {
-    "id": "40c8f88b096764e4f19822b9",
-    "title": "Anthropic Rolls Out Claude Security for AI Vulnerability Scanning",
-    "link": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
-    "published": "2026-05-01T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Anthropic Rolls Out Claude Security for AI Vulnerability Scanning. What: Anthropic Rolls Out Claude Security for AI Vulnerability Scanning. When: 2026-05-01T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic Rolls Out Claude Security for AI Vulnerability Scanning. ماذا: Anthropic Rolls Out Claude Security for AI Vulnerability Scanning. متى: 2026-05-01T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/8183e380-733f-4b0a-85b4-2b9d2f389e75.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
-      "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html"
-    ]
-  },
-  {
-    "id": "4f4b0d3908d98af3e7b791d0",
-    "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
-    "link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
-    "published": "2026-05-01T12:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage. What: 20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage. When: 2026-05-01T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage. ماذا: 20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage. متى: 2026-05-01T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa15fad832804f71/69f25b673c5d474c908e45aa/KJHCol_DR20.jpeg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage"
-    ]
-  },
-  {
-    "id": "8a73161f582e01e88a9cd4a4",
-    "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
-    "link": "https://www.theregister.com/security/2026/05/01/openai-locks-gpt-55-cyber-behind-velvet-rope/5219691",
-    "published": "2026-05-01T11:42:01+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.. What: As reported by TechCrunch, he took aim at what he framed as exclusivity dressed up as caution during an appearance on the Core Memory podcast.. When: 2026-05-01T11:42:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.. ماذا: As reported by TechCrunch, he took aim at what he framed as exclusivity dressed up as caution during an appearance on the Core Memory podcast.. متى: 2026-05-01T11:42:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5220120.jpg?imageId=5220120&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/01/openai-locks-gpt-55-cyber-behind-velvet-rope/5219691",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/"
-    ]
-  },
-  {
-    "id": "da58eefaa7e8690277d5a184",
-    "title": "My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked",
-    "link": "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/",
-    "published": "2026-05-01T11:30:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked. What: My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked. When: 2026-05-01T11:30:41+00:00. How: I struggled with Wi-Fi dead spots throughout my home for years. Action: See Arabic action below.",
-    "summary_ar": "من: My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked. ماذا: My home Wi-Fi was full of dead zones - here are 6 solutions that actually worked. متى: 2026-05-01T11:30:41+00:00. كيف: I struggled with Wi-Fi dead spots throughout my home for years.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/62cd9870613b8242af42c9f5b73ec6a87771e799/2025/03/14/35677ea2-a8ba-4f3d-bacb-73c5f25ef362/7.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-i-fix-home-wifi-dead-zones/"
-    ]
-  },
-  {
-    "id": "53f33941aea69f3debc50aae",
-    "title": "Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks",
-    "link": "https://www.infosecurity-magazine.com/news/cybersecurity-workers-jailed/",
-    "published": "2026-05-01T11:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks. What: Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks. When: 2026-05-01T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks. ماذا: Two American Cybersecurity Workers Jailed for BlackCat Ransomware Attacks. متى: 2026-05-01T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/60f82989-1992-4bbb-b3a0-fc7b32b35810.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/cybersecurity-workers-jailed/"
-    ]
-  },
-  {
-    "id": "4d32c916863adb1347114c31",
-    "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-    "published": "2026-05-01T11:10:07+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall.. What: Microsoft now lets admins choose pre-installed Store apps to uninstall. When: 2026-05-01T11:10:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall.. ماذا: Microsoft now lets admins choose pre-installed Store apps to uninstall. متى: 2026-05-01T11:10:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/09/09/Windows_11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/"
-    ]
-  },
-  {
-    "id": "66837690b36e48a9ed3e6063",
-    "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
-    "link": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
-    "published": "2026-05-01T11:08:50+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Sophisticated Deep#Door Backdoor Enables Espionage, Disruption. What: Sophisticated Deep#Door Backdoor Enables Espionage, Disruption. When: 2026-05-01T11:08:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sophisticated Deep#Door Backdoor Enables Espionage, Disruption. ماذا: Sophisticated Deep#Door Backdoor Enables Espionage, Disruption. متى: 2026-05-01T11:08:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/malware.jpeg",
-    "sources": [
-      "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/"
-    ]
-  },
-  {
-    "id": "33c6bab527495935b8d8834a",
-    "title": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down",
-    "link": "https://www.theregister.com/security/2026/05/01/pro-iran-group-turns-ubuntu-ddos-into-shakedown/5224575",
-    "published": "2026-05-01T11:05:59+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down. What: Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down. When: 2026-05-01T11:05:59+00:00. How: Canonical says its web infrastructure is under attack after a pro-Iran hacktivist group instructed its members to target the open source giant. Action: See Arabic action below.",
-    "summary_ar": "من: Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down. ماذا: Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down. متى: 2026-05-01T11:05:59+00:00. كيف: Canonical says its web infrastructure is under attack after a pro-Iran hacktivist group instructed its members to target the open source giant.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5224613.jpg?imageId=5224613&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/01/pro-iran-group-turns-ubuntu-ddos-into-shakedown/5224575",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/"
-    ]
-  },
-  {
-    "id": "95df806da3e16a7579e1b88f",
-    "title": "Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher",
-    "link": "https://www.infosecurity-magazine.com/news/zero-day-2017-linux-kernel/",
-    "published": "2026-05-01T10:45:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher. What: Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher. When: 2026-05-01T10:45:00+00:00. How: A researcher from offensive security firm Theori has found a nine-year-old flaw in the Linux kernel with the help of AI Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher Action: See Arabic action below.",
-    "summary_ar": "من: Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher. ماذا: Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher. متى: 2026-05-01T10:45:00+00:00. كيف: A researcher from offensive security firm Theori has found a nine-year-old flaw in the Linux kernel with the help of AI Nine-Year-Old Zero-Day Flaw in Linux Kernel Discovered by AI-Equipped Security Researcher. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/714a9e81-2320-440b-81ef-533866751d44.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/zero-day-2017-linux-kernel/"
-    ]
-  },
-  {
-    "id": "401cd2654c4438432d136cbf",
-    "title": "I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson",
-    "link": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
-    "published": "2026-05-01T10:30:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson. What: I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson. When: 2026-05-01T10:30:38+00:00. How: Here are a few other devices I've been using to funnel my creative juices. Action: See Arabic action below.",
-    "summary_ar": "من: I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson. ماذا: I ditched my laptop for XR headsets, tablets, and phones - and learned an important lesson. متى: 2026-05-01T10:30:38+00:00. كيف: Here are a few other devices I've been using to funnel my creative juices.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/678976be56cc259c4937f87983b10eecd297d73b/2026/04/29/506ed46a-34c6-4e76-9b5a-c325bc6f11a4/img-5114.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/"
-    ]
-  },
-  {
-    "id": "b9da97533179761a70ec591d",
-    "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-    "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-    "published": "2026-05-01T10:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Top Five Sales Challenges Costing MSPs Cybersecurity Revenue. What: Top Five Sales Challenges Costing MSPs Cybersecurity Revenue. When: 2026-05-01T10:30:00+00:00. How: Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs. Action: See Arabic action below.",
-    "summary_ar": "من: Top Five Sales Challenges Costing MSPs Cybersecurity Revenue. ماذا: Top Five Sales Challenges Costing MSPs Cybersecurity Revenue. متى: 2026-05-01T10:30:00+00:00. كيف: Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s16000/cynomi.png",
-    "sources": [
-      "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html"
-    ]
-  },
-  {
-    "id": "62b1d6ada8a4618834bc1f19",
-    "title": "Cisco Releases Open Source Tool for AI Model Provenance",
-    "link": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
-    "published": "2026-05-01T10:18:39+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Cisco Releases Open Source Tool for AI Model Provenance appeared first on SecurityWeek .. What: Cisco Releases Open Source Tool for AI Model Provenance. When: 2026-05-01T10:18:39+00:00. How: The post Cisco Releases Open Source Tool for AI Model Provenance appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: The post Cisco Releases Open Source Tool for AI Model Provenance appeared first on SecurityWeek .. ماذا: Cisco Releases Open Source Tool for AI Model Provenance. متى: 2026-05-01T10:18:39+00:00. كيف: The post Cisco Releases Open Source Tool for AI Model Provenance appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Artificial-Intelligence-vs-AI.jpeg",
-    "sources": [
-      "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/"
-    ]
-  },
-  {
-    "id": "d2a4ba2f5764a6a3c2b5cb28",
-    "title": "Moving from AI pilots to business-wide value requires a superhighway - how to ramp up",
-    "link": "https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/",
-    "published": "2026-05-01T10:00:45+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Moving from AI pilots to business-wide value requires a superhighway - how to ramp up. What: Moving from AI pilots to business-wide value requires a superhighway - how to ramp up. When: 2026-05-01T10:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Moving from AI pilots to business-wide value requires a superhighway - how to ramp up. ماذا: Moving from AI pilots to business-wide value requires a superhighway - how to ramp up. متى: 2026-05-01T10:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8870d26be2a5841312ab51055229e0a026be505d/2026/04/27/f8db15c0-5dd3-43e7-8587-947f43c0d87b/colortunnel-gettyimages-2207609146.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/moving-from-ai-pilots-to-business-wide-value-accenture-research/"
-    ]
-  },
-  {
-    "id": "27199cef802e9442c9ce49c2",
-    "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-    "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-    "published": "2026-05-01T09:56:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks. What: Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.. When: 2026-05-01T09:56:00+00:00. How: Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. Action: See Arabic action below.",
-    "summary_ar": "من: Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks. ماذا: Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.. متى: 2026-05-01T09:56:00+00:00. كيف: Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html"
-    ]
-  },
-  {
-    "id": "07a7968ae70aee2937d3c0e3",
-    "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-    "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-    "published": "2026-05-01T09:43:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.. What: Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft. When: 2026-05-01T09:43:00+00:00. How: A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. Action: See Arabic action below.",
-    "summary_ar": "من: A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.. ماذا: Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft. متى: 2026-05-01T09:43:00+00:00. كيف: A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html"
-    ]
-  },
-  {
-    "id": "f9f2e4811054f584cb8e8f63",
-    "title": "Passport to £££: Home Office adds £216M to travel doc contract before a single bid's been placed",
-    "link": "https://www.theregister.com/security/2026/05/01/home-office-adds-216m-to-travel-doc-contract-before-bids/5227219",
-    "published": "2026-05-01T09:15:06+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Passport to £££: Home Office adds £216M to travel doc contract before a single bid's been placed. What: The Home Office disclosed that it will pay IBM £5.88 million including VAT for software licenses and support services to operate and maintain its biometric systems between 1 May 2026 and 30 April 2028.. When: 2026-05-01T09:15:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Passport to £££: Home Office adds £216M to travel doc contract before a single bid's been placed. ماذا: The Home Office disclosed that it will pay IBM £5.88 million including VAT for software licenses and support services to operate and maintain its biometric systems between 1 May 2026 and 30 April 2028.. متى: 2026-05-01T09:15:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/230552.jpg?imageId=230552&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/01/home-office-adds-216m-to-travel-doc-contract-before-bids/5227219",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/01/passport_to_home_office_adds/"
-    ]
-  },
-  {
-    "id": "e6ff8ceab0877c55c0f963b4",
-    "title": "4 interior designers told us what smart tech you should actually buy",
-    "link": "https://www.zdnet.com/article/4-interior-designers-told-us-what-smart-tech-you-should-actually-buy/",
-    "published": "2026-05-01T09:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 4 interior designers told us what smart tech you should actually buy. What: 4 interior designers told us what smart tech you should actually buy. When: 2026-05-01T09:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 4 interior designers told us what smart tech you should actually buy. ماذا: 4 interior designers told us what smart tech you should actually buy. متى: 2026-05-01T09:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6c068faed73d60805530228ee798379d456eb0bc/2025/09/04/6b3000eb-66cb-426d-9632-e288624ccc55/7.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/4-interior-designers-told-us-what-smart-tech-you-should-actually-buy/"
-    ]
-  },
-  {
-    "id": "6b59b6adcb5a495ef566ec46",
-    "title": "Forget productivity: Here are 5 strategic shifts that drive real AI value",
-    "link": "https://www.zdnet.com/article/strategic-shifts-drive-real-ai-value/",
-    "published": "2026-05-01T09:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Forget productivity: Here are 5 strategic shifts that drive real AI value. What: Forget productivity: Here are 5 strategic shifts that drive real AI value. When: 2026-05-01T09:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Forget productivity: Here are 5 strategic shifts that drive real AI value. ماذا: Forget productivity: Here are 5 strategic shifts that drive real AI value. متى: 2026-05-01T09:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/db5e2bbb15f37fa4e3ecc5af9d2db1ac2dec886f/2026/04/30/436e9ef7-87a1-4642-bc0a-d6e0fc2b361a/value1gettyimages-2242259704.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/strategic-shifts-drive-real-ai-value/"
-    ]
-  },
-  {
-    "id": "44d4bca874755390e05cc61f",
-    "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-    "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-    "published": "2026-05-01T08:41:57+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Hugging Face, ClawHub Abused for Malware Distribution. What: Hugging Face, ClawHub Abused for Malware Distribution. When: 2026-05-01T08:41:57+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hugging Face, ClawHub Abused for Malware Distribution. ماذا: Hugging Face, ClawHub Abused for Malware Distribution. متى: 2026-05-01T08:41:57+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Hugging-Face.jpeg",
-    "sources": [
-      "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/"
-    ]
-  },
-  {
-    "id": "c92ae758886fcf662c37c2dc",
-    "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
-    "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
-    "published": "2026-05-01T08:11:20+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: FBI Warns of Surge in Hacker-Enabled Cargo Theft. What: FBI Warns of Surge in Hacker-Enabled Cargo Theft. When: 2026-05-01T08:11:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FBI Warns of Surge in Hacker-Enabled Cargo Theft. ماذا: FBI Warns of Surge in Hacker-Enabled Cargo Theft. متى: 2026-05-01T08:11:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/truck-cargo-theft.jpeg",
-    "sources": [
-      "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/"
     ]
   }
 ]
