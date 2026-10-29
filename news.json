@@ -36,6 +36,136 @@
     ]
   },
   {
+    "id": "b3306983de0025efdaf0da03",
+    "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+    "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+    "published": "2026-10-29T08:27:16+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million. What: HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million. When: 2026-10-29T08:27:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million. ماذا: HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million. متى: 2026-10-29T08:27:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/iRhythm.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/"
+    ]
+  },
+  {
+    "id": "aabd8e14b2705c022ec38720",
+    "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+    "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+    "published": "2026-10-29T08:24:22+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.. What: Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.. When: 2026-10-29T08:24:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.. ماذا: Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.. متى: 2026-10-29T08:24:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html"
+    ]
+  },
+  {
+    "id": "ef44306c2f44aa10e474356f",
+    "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+    "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+    "published": "2026-10-29T08:01:05+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day. What: Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day. When: 2026-10-29T08:01:05+00:00. How: The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day. ماذا: Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day. متى: 2026-10-29T08:01:05+00:00. كيف: The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-41709"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2022/08/VMWare.jpg",
+    "sources": [
+      "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/"
+    ]
+  },
+  {
+    "id": "7db6fdf963feec19c82b1493",
+    "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia",
+    "link": "https://securelist.com/netamloader/121676/",
+    "published": "2026-10-29T08:00:15+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies.. What: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies.. When: 2026-10-29T08:00:15+00:00. How: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies. Action: See Arabic action below.",
+    "summary_ar": "من: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies.. ماذا: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies.. متى: 2026-10-29T08:00:15+00:00. كيف: The sample came to light in the first half of 2026, when Kaspersky Security Network (KSN) issued a malware detection alert for a .config file using AppDomainManager injection to load arbitrary .NET assemblies.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/28210649/SL-SAS-NetamLoader-featured.jpg",
+    "sources": [
+      "https://securelist.com/netamloader/121676/"
+    ]
+  },
+  {
+    "id": "75699bb6148a5fef90888f58",
+    "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+    "published": "2026-10-29T08:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Cyber Vulnerabilities Besiege Italy, Absent Clear Cause. What: Cyber Vulnerabilities Besiege Italy, Absent Clear Cause. When: 2026-10-29T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cyber Vulnerabilities Besiege Italy, Absent Clear Cause. ماذا: Cyber Vulnerabilities Besiege Italy, Absent Clear Cause. متى: 2026-10-29T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy"
+    ]
+  },
+  {
+    "id": "e91f33b06ca8a97a1f9adc4b",
+    "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+    "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "published": "2026-10-29T06:22:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.. When: 2026-10-29T06:22:33+00:00. How: The vulnerability in question is CVE-2026-41709 (CVSS score: China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.. متى: 2026-10-29T06:22:33+00:00. كيف: The vulnerability in question is CVE-2026-41709 (CVSS score: China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-41709"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr5vMvEpNtC6AAPL85NwoZLwafJYuuIYKlofAez4dmACEH-0VI-icaKusP2b9HgxcJC2AMyZkdGNfVOyXQCWqjK-_vIvw1OjptUH_maUL82An7MRxEnZQ62JZqPqwuTp6QQ8TWq4y0SRqUb6KhdXLYRJMyUHg2cQBzez3g-0G8jh2ujIgx-6FqQdWBuFr/s1600/esx-audit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+    ]
+  },
+  {
+    "id": "f4eff089be53135d55f7b411",
+    "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+    "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+    "published": "2026-10-29T05:50:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.. What: Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.. When: 2026-10-29T05:50:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.. ماذا: Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.. متى: 2026-10-29T05:50:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html"
+    ]
+  },
+  {
     "id": "6369b7f8877cd3df2456ce16",
     "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
     "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -143364,25 +143494,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2025/11/AI-phishing.jpeg",
     "sources": [
       "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/"
-    ]
-  },
-  {
-    "id": "5b8f71d8cd90881985ba859a",
-    "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
-    "link": "https://www.theregister.com/security/2026/05/02/ai-digs-up-decades-of-code-debt-patch-up/5219734",
-    "published": "2026-05-02T08:30:09+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Britain's cyber agency is warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up.. What: In a blog post on Friday, Ollie Whitehouse, CTO of the UK's National Cyber Security Center, said organizations should brace for a looming \"patch wave,\" driven by a backlog of weaknesses now being exposed faster than many teams can realistically fix them.. When: 2026-05-02T08:30:09+00:00. How: The result, according to NCSC, is likely to be a \"forced correction\" as those weaknesses are uncovered and addressed in bulk. Action: See Arabic action below.",
-    "summary_ar": "من: Britain's cyber agency is warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up.. ماذا: In a blog post on Friday, Ollie Whitehouse, CTO of the UK's National Cyber Security Center, said organizations should brace for a looming \"patch wave,\" driven by a backlog of weaknesses now being exposed faster than many teams can realistically fix them.. متى: 2026-05-02T08:30:09+00:00. كيف: The result, according to NCSC, is likely to be a \"forced correction\" as those weaknesses are uncovered and addressed in bulk.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/227324.jpg?imageId=227324&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/02/ai-digs-up-decades-of-code-debt-patch-up/5219734",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/"
     ]
   }
 ]
