@@ -36,6 +36,271 @@
     ]
   },
   {
+    "id": "e692538b686ec012b41f7dd0",
+    "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+    "published": "2026-10-29T19:23:41+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets.. What: Fake crypto app on Apple App Store linked to $23K wallet theft. When: 2026-10-29T19:23:41+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets.. ماذا: Fake crypto app on Apple App Store linked to $23K wallet theft. متى: 2026-10-29T19:23:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_cryptocurrency_red.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/"
+    ]
+  },
+  {
+    "id": "7325900e53d9990520b8e77f",
+    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+    "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+    "published": "2026-10-29T19:11:58+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Others are leaving their ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories. What: Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.. When: 2026-10-29T19:11:58+00:00. How: Some are using AI to speed things up. Action: See Arabic action below.",
+    "summary_ar": "من: Others are leaving their ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories. ماذا: Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.. متى: 2026-10-29T19:11:58+00:00. كيف: Some are using AI to speed things up.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html"
+    ]
+  },
+  {
+    "id": "50e8cd6d193c992701de7871",
+    "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
+    "link": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+    "published": "2026-10-29T19:05:17+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Suspected Chinese attackers chained PHP2Shell with a Linux kernel privilege-escalation exploit to root 25 servers, including Palo Alto Networks firewalls linked to US government-affiliated organizations, according to Dream researchers.. What: They successfully exploited the second firewall a day later, on October 24.. When: 2026-10-29T19:05:17+00:00. How: “Within hours of compromising a US government-affiliated firewall, they had tunneled into the internal network, compromised a third server using the same PHP2Shell exploit, and launched a full Active Directory attack campaign - all through a chain that started with a single unauthenticated HTTPS request to a management interface that should never have been exposed to the internet,” the Israeli AI cybersecurity startup said in a report. Action: See Arabic action below.",
+    "summary_ar": "من: Suspected Chinese attackers chained PHP2Shell with a Linux kernel privilege-escalation exploit to root 25 servers, including Palo Alto Networks firewalls linked to US government-affiliated organizations, according to Dream researchers.. ماذا: They successfully exploited the second firewall a day later, on October 24.. متى: 2026-10-29T19:05:17+00:00. كيف: “Within hours of compromising a US government-affiliated firewall, they had tunneled into the internal network, compromised a third server using the same PHP2Shell exploit, and launched a full Active Directory attack campaign - all through a chain that started with a single unauthenticated HTTPS request to a management interface that should never have been exposed to the internet,” the Israeli AI cybersecurity startup said in a report.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-46300"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5304691.jpg?imageId=5304691&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456"
+    ]
+  },
+  {
+    "id": "7c2b70bd7e3e786d7885b46c",
+    "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+    "published": "2026-10-29T18:38:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift.. What: Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware. When: 2026-10-29T18:38:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift.. ماذا: Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware. متى: 2026-10-29T18:38:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-20127"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Cisco.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
+    ]
+  },
+  {
+    "id": "2c3bc9054593866dde8eacbe",
+    "title": "Claude Model Builds Exploits Across Major Browsers &amp; OSes",
+    "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+    "published": "2026-10-29T18:15:59+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Claude Model Builds Exploits Across Major Browsers &amp; OSes. What: An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.. When: 2026-10-29T18:15:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Claude Model Builds Exploits Across Major Browsers &amp; OSes. ماذا: An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.. متى: 2026-10-29T18:15:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses"
+    ]
+  },
+  {
+    "id": "2810027585c5f3b558764b60",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+    "published": "2026-10-29T18:00:34+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). When: 2026-10-29T18:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). متى: 2026-10-29T18:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "cve-2026-109618",
+      "cve-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+    ]
+  },
+  {
+    "id": "9cf980b77ca5d2cbafadc1fe",
+    "title": "Your headphones have hidden LE Audio features you’ll want to know about",
+    "link": "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/",
+    "published": "2026-10-29T17:45:05+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Your headphones have hidden LE Audio features you’ll want to know about. What: Your headphones have hidden LE Audio features you’ll want to know about. When: 2026-10-29T17:45:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Your headphones have hidden LE Audio features you’ll want to know about. ماذا: Your headphones have hidden LE Audio features you’ll want to know about. متى: 2026-10-29T17:45:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/9e735a6c-10a9-41cb-b9a1-8764ebcc13a3.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/bluetooth-headphones-hidden-le-audio-features-jbl-sony-bose/"
+    ]
+  },
+  {
+    "id": "e8d4d4041ef63fb7ab5a6acd",
+    "title": "Firefox and Chrome patch 200+ security flaws combined – update both ASAP",
+    "link": "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/",
+    "published": "2026-10-29T16:30:28+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.. What: The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.. When: 2026-10-29T16:30:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.. ماذا: The latest version of Firefox fixes 167 security vulnerabilities, most of which are of high severity, while the newest version of Chrome patches 52 flaws, four of which are critical.. متى: 2026-10-29T16:30:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Firefox-159-with-passwords-sidebar-and-website-change-monitoring.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/firefox-chrome-browsers-patch-200-security-flaws-update-asap/"
+    ]
+  },
+  {
+    "id": "39a633755f1e27f72c9ccbda",
+    "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+    "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+    "published": "2026-10-29T16:30:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis. What: When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis. When: 2026-10-29T16:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis. ماذا: When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis. متى: 2026-10-29T16:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/"
+    ]
+  },
+  {
+    "id": "a556f2a13255d1872178d288",
+    "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+    "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+    "published": "2026-10-29T16:10:31+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Chrome extensions with 13.4 million installs caught hijacking searches. What: A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo.. When: 2026-10-29T16:10:31+00:00. How: A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. Action: See Arabic action below.",
+    "summary_ar": "من: Chrome extensions with 13.4 million installs caught hijacking searches. ماذا: A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo.. متى: 2026-10-29T16:10:31+00:00. كيف: A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Chrome.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/"
+    ]
+  },
+  {
+    "id": "649ecf4a57aab371a5154e70",
+    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+    "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "published": "2026-10-29T15:57:05+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions. What: Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions. When: 2026-10-29T15:57:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions. ماذا: Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions. متى: 2026-10-29T15:57:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-98432"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
+    ]
+  },
+  {
+    "id": "efbb1c68eb20dd3a98bd4010",
+    "title": "Threat Modeling With 4 Simple Questions on a White Board",
+    "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+    "published": "2026-10-29T15:44:04+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Threat Modeling With 4 Simple Questions on a White Board. What: Threat Modeling With 4 Simple Questions on a White Board. When: 2026-10-29T15:44:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Modeling With 4 Simple Questions on a White Board. ماذا: Threat Modeling With 4 Simple Questions on a White Board. متى: 2026-10-29T15:44:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions"
+    ]
+  },
+  {
+    "id": "60a25e1585a036e31e21b960",
+    "title": "Stop sharing your passwords with AI agents, Bank of America warns customers",
+    "link": "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/",
+    "published": "2026-10-29T15:36:26+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Stop sharing your passwords with AI agents, Bank of America warns customers. What: Stop sharing your passwords with AI agents, Bank of America warns customers. When: 2026-10-29T15:36:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Stop sharing your passwords with AI agents, Bank of America warns customers. ماذا: Stop sharing your passwords with AI agents, Bank of America warns customers. متى: 2026-10-29T15:36:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/boapowerGettyImages-1554399408_667584.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/bank-of-america-customers-no-sharing-passwords-ai-agents/"
+    ]
+  },
+  {
+    "id": "8cc04215eff5794daadf9065",
+    "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+    "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+    "published": "2026-10-29T15:20:29+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.. What: Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners. When: 2026-10-29T15:20:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.. ماذا: Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners. متى: 2026-10-29T15:20:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html"
+    ]
+  },
+  {
     "id": "f5faf77d964126369a5b99d3",
     "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
     "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
@@ -388,8 +653,8 @@
     "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
     "published": "2026-10-29T11:39:18+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls. What: Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.. When: 2026-10-29T11:39:18+00:00. How: A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. Action: See Arabic action below.",
-    "summary_ar": "من: Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls. ماذا: Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.. متى: 2026-10-29T11:39:18+00:00. كيف: A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls. What: Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.. When: 2026-10-29T11:39:18+00:00. How: A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. Action: See Arabic action below.",
+    "summary_ar": "من: Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls. ماذا: Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec&nbsp;disclosed it on October 29.. متى: 2026-10-29T11:39:18+00:00. كيف: A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -806,6 +1071,24 @@
     ]
   },
   {
+    "id": "e4cd27c3f55bd93806601bfd",
+    "title": "New Prompt Injection Techniques Cover Agent-Planning Attacks",
+    "link": "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/",
+    "published": "2026-10-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: New Prompt Injection Techniques Cover Agent-Planning Attacks. What: New Prompt Injection Techniques Cover Agent-Planning Attacks. When: 2026-10-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Prompt Injection Techniques Cover Agent-Planning Attacks. ماذا: New Prompt Injection Techniques Cover Agent-Planning Attacks. متى: 2026-10-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/"
+    ]
+  },
+  {
     "id": "6369b7f8877cd3df2456ce16",
     "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
     "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -864,12 +1147,12 @@
   },
   {
     "id": "89379326868d89690b65de58",
-    "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+    "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
     "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
     "published": "2026-10-28T19:39:00+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub. What: GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub. When: 2026-10-28T19:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub. ماذا: GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub. متى: 2026-10-28T19:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "summary_en": "Who: GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub. What: GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub. When: 2026-10-28T19:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub. ماذا: GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub. متى: 2026-10-28T19:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "category": "Threat/Attack",
     "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
     "cves": [],
@@ -1888,24 +2171,6 @@
     ]
   },
   {
-    "id": "f87ec6e8be1b03241d3c5cbc",
-    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
-    "published": "2026-10-28T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. What: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. When: 2026-10-28T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. ماذا: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. متى: 2026-10-28T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/"
-    ]
-  },
-  {
     "id": "a82de8dc19f5002f5f879f83",
     "title": "When AI Guardrails Expose Vulnerabilities",
     "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
@@ -1921,6 +2186,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "f87ec6e8be1b03241d3c5cbc",
+    "title": "CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/",
+    "published": "2026-10-28T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. What: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. When: 2026-10-28T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. ماذا: CrowdStrike 2026 Legal Threat Landscape Report: eCrime Leads Attacks, China Activity Intensifies. متى: 2026-10-28T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-legal-threat-landscape-report/"
     ]
   },
   {
@@ -3045,12 +3328,12 @@
   },
   {
     "id": "837fe1cef585dc8b5cb29855",
-    "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+    "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
     "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
     "published": "2026-10-27T00:26:50+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: So Many AI Security Benchmarks, But None Tell the Whole Story. What: So Many AI Security Benchmarks, But None Tell the Whole Story. When: 2026-10-27T00:26:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: So Many AI Security Benchmarks, But None Tell the Whole Story. ماذا: So Many AI Security Benchmarks, But None Tell the Whole Story. متى: 2026-10-27T00:26:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: So Many AI Security Benchmarks, but None Tell the Whole Story. What: So Many AI Security Benchmarks, but None Tell the Whole Story. When: 2026-10-27T00:26:50+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: So Many AI Security Benchmarks, but None Tell the Whole Story. ماذا: So Many AI Security Benchmarks, but None Tell the Whole Story. متى: 2026-10-27T00:26:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -4366,29 +4649,6 @@
     ]
   },
   {
-    "id": "2810027585c5f3b558764b60",
-    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
-    "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-    "published": "2026-10-23T19:00:34+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). When: 2026-10-23T19:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25). متى: 2026-10-23T19:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-109618",
-      "CVE-2026-109619",
-      "cve-2026-109618",
-      "cve-2026-109619"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/03_Vulnerabilities_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
-    ]
-  },
-  {
     "id": "e62f85ca100be1faf860aee6",
     "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
@@ -5193,24 +5453,6 @@
     ]
   },
   {
-    "id": "5962d844433936273404b7eb",
-    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
-    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
-    "published": "2026-10-23T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: Why Organizations Secure AI Agents with Falcon Guardian. What: Why Organizations Secure AI Agents with Falcon Guardian. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Organizations Secure AI Agents with Falcon Guardian. ماذا: Why Organizations Secure AI Agents with Falcon Guardian. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
-    ]
-  },
-  {
     "id": "d96bed8f956667e3d2b3d860",
     "title": "Obstacles to Weaponizing PHP2Shell Likely Constrain Immediate Widespread Exploitation",
     "link": "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/",
@@ -5226,6 +5468,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/obstacles-to-weaponizing-php2shell-likely-constrain-exploitation/"
+    ]
+  },
+  {
+    "id": "5962d844433936273404b7eb",
+    "title": "Why Organizations Secure AI Agents with Falcon Guardian",
+    "link": "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/",
+    "published": "2026-10-23T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Why Organizations Secure AI Agents with Falcon Guardian. What: Why Organizations Secure AI Agents with Falcon Guardian. When: 2026-10-23T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why Organizations Secure AI Agents with Falcon Guardian. ماذا: Why Organizations Secure AI Agents with Falcon Guardian. متى: 2026-10-23T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/why-organizations-secure-ai-agents-with-falcon-guardian/"
     ]
   },
   {
