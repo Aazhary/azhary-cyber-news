@@ -36,6 +36,150 @@
     ]
   },
   {
+    "id": "7363e725b55af5641f334538",
+    "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+    "published": "2026-10-29T23:35:52+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent.. What: OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut. When: 2026-10-29T23:35:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent.. ماذا: OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut. متى: 2026-10-29T23:35:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/"
+    ]
+  },
+  {
+    "id": "eee28578f735a273be8f2257",
+    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+    "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+    "published": "2026-10-29T23:12:26+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Researchers say flaws in OpenAI's Codex and Microsoft's VS Code remain unpatched, potentially putting developers who use affected configurations at risk.. What: Researchers say flaws in OpenAI's Codex and Microsoft's VS Code remain unpatched, potentially putting developers who use affected configurations at risk.. When: 2026-10-29T23:12:26+00:00. How: Cursor: arbitrary code execution Typical web pages can’t run commands on the host computer because a web page’s JavaScript cannot talk to local apps. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers say flaws in OpenAI's Codex and Microsoft's VS Code remain unpatched, potentially putting developers who use affected configurations at risk.. ماذا: Researchers say flaws in OpenAI's Codex and Microsoft's VS Code remain unpatched, potentially putting developers who use affected configurations at risk.. متى: 2026-10-29T23:12:26+00:00. كيف: Cursor: arbitrary code execution Typical web pages can’t run commands on the host computer because a web page’s JavaScript cannot talk to local apps.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5306527.jpg?imageId=5306527&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508"
+    ]
+  },
+  {
+    "id": "7d9fa054e5fe62d6ce53c536",
+    "title": "Binance probes potential $5.8 billion crypto-theft hack",
+    "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+    "published": "2026-10-29T22:45:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Binance probes potential $5.8 billion crypto-theft hack. What: Binance probes potential $5.8 billion crypto-theft hack. When: 2026-10-29T22:45:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Binance probes potential $5.8 billion crypto-theft hack. ماذا: Binance probes potential $5.8 billion crypto-theft hack. متى: 2026-10-29T22:45:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/13/back.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+    ]
+  },
+  {
+    "id": "a6d0e88b749ca24bbcc6e89c",
+    "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+    "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+    "published": "2026-10-29T22:09:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT.. What: Hugging Face malware campaign returns to hijack GPUs for crypto mining. When: 2026-10-29T22:09:24+00:00. How: A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Action: See Arabic action below.",
+    "summary_ar": "من: Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT.. ماذا: Hugging Face malware campaign returns to hijack GPUs for crypto mining. متى: 2026-10-29T22:09:24+00:00. كيف: A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/Hugging-Face.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/"
+    ]
+  },
+  {
+    "id": "17e71a11c730f03f9955f036",
+    "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+    "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+    "published": "2026-10-29T22:08:04+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Japan Airlines suffers third-party data breach exposing passenger info. What: Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers.. When: 2026-10-29T22:08:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Japan Airlines suffers third-party data breach exposing passenger info. ماذا: Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers.. متى: 2026-10-29T22:08:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/aircraft.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/"
+    ]
+  },
+  {
+    "id": "fe7730fa406879f5265b15de",
+    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+    "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+    "published": "2026-10-29T21:47:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Polymarket halts trading after crypto-draining script breach, $2.5M traced. What: Polymarket halts trading after crypto-draining script breach, $2.5M traced. When: 2026-10-29T21:47:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Polymarket halts trading after crypto-draining script breach, $2.5M traced. ماذا: Polymarket halts trading after crypto-draining script breach, $2.5M traced. متى: 2026-10-29T21:47:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/polymarket-crypto.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/"
+    ]
+  },
+  {
+    "id": "cbcc5cbaf6f622fa2458905d",
+    "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+    "published": "2026-10-29T21:21:56+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Anthropic-Themed Phishing Emails Bypass Top Security Tools. What: Anthropic-Themed Phishing Emails Bypass Top Security Tools. When: 2026-10-29T21:21:56+00:00. How: Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic-Themed Phishing Emails Bypass Top Security Tools. ماذا: Anthropic-Themed Phishing Emails Bypass Top Security Tools. متى: 2026-10-29T21:21:56+00:00. كيف: Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools"
+    ]
+  },
+  {
+    "id": "68f0757a3373fe6a45e0a96c",
+    "title": "Rethinking Cybersecurity Awareness in the AI Era",
+    "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+    "published": "2026-10-29T20:15:37+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Rethinking Cybersecurity Awareness in the AI Era. What: Rethinking Cybersecurity Awareness in the AI Era. When: 2026-10-29T20:15:37+00:00. How: This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats. Action: See Arabic action below.",
+    "summary_ar": "من: Rethinking Cybersecurity Awareness in the AI Era. ماذا: Rethinking Cybersecurity Awareness in the AI Era. متى: 2026-10-29T20:15:37+00:00. كيف: This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging threats.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era"
+    ]
+  },
+  {
     "id": "e692538b686ec012b41f7dd0",
     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
     "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
@@ -1086,6 +1230,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/new-prompt-injection-techniques-cover-agent-planning-attacks/"
+    ]
+  },
+  {
+    "id": "8891476791df62aa1d36425c",
+    "title": "VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign",
+    "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+    "published": "2026-10-29T05:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign. What: VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign. When: 2026-10-29T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign. ماذا: VAPOR PANDA Uses AI-Driven ARTEX to Scale a Global Espionage Campaign. متى: 2026-10-29T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/"
     ]
   },
   {
@@ -144281,26 +144443,6 @@
     "image": "https://www.zdnet.com/a/img/resize/1a801d18b834194b59b1eb18cd418db8acc31f86/2026/04/28/cc6b7622-d7ae-4572-beb6-1aea9fea7f48/save-mobile-data-and-control-usage-with-these-two-android-features.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-and-why/"
-    ]
-  },
-  {
-    "id": "b102df01b8af9d4c5435da4c",
-    "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-    "published": "2026-05-02T21:54:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks. What: A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks.. When: 2026-05-02T21:54:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks. ماذا: A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks.. متى: 2026-05-02T21:54:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-41940"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/02/cpanel-datacenter.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
     ]
   }
 ]
