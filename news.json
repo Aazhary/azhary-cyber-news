@@ -36,6 +36,44 @@
     ]
   },
   {
+    "id": "845cf24b8961170f2c028543",
+    "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+    "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+    "published": "2026-10-31T15:35:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: New Android SMS of Death exploit can remotely crash unpatched phones. What: A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message.. When: 2026-10-31T15:35:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Android SMS of Death exploit can remotely crash unpatched phones. ماذا: A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message.. متى: 2026-10-31T15:35:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-58882"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+    ]
+  },
+  {
+    "id": "b35f9e575d4ba90396d180a1",
+    "title": "Reddit to lock content behind logins to fight scrapers",
+    "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+    "published": "2026-10-31T14:05:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Reddit to lock content behind logins to fight scrapers. What: Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts.. When: 2026-10-31T14:05:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Reddit to lock content behind logins to fight scrapers. ماذا: Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts.. متى: 2026-10-31T14:05:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/30/reddit.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/"
+    ]
+  },
+  {
     "id": "4e3b797fd4a7ce3d9640e65c",
     "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
     "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
@@ -43,7 +81,7 @@
     "source": "bleepingcomputer.com",
     "summary_en": "Who: From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.. What: From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.. When: 2026-10-31T13:10:19+00:00. How: Details in the source. Action: See Arabic action below.",
     "summary_ar": "من: From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.. ماذا: From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.. متى: 2026-10-31T13:10:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
+    "category": "Vulnerability",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
     "cvss": [],
@@ -144523,314 +144561,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg",
     "sources": [
       "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html"
-    ]
-  },
-  {
-    "id": "48c4e4f902a41ed0bf08b523",
-    "title": "MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet",
-    "link": "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/",
-    "published": "2026-05-04T17:57:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy?. What: MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet. When: 2026-05-04T17:57:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's latest MacBook Neo costs the same as the 11-inch iPad Air M4, so which one should you buy?. ماذا: MacBook Neo vs. iPad Air: How I'm choosing between Apple's $599 laptop and tablet. متى: 2026-05-04T17:57:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1cc80fe947ec90b1ba74625c2e7c0a6a65e037c3/2026/05/04/cc3eaaba-dac8-419a-82e4-2fae9cbfc30c/ipad-air-m4-vs-macbook-neo.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macbook-neo-vs-ipad-air-m4/"
-    ]
-  },
-  {
-    "id": "0c35682bd3f1c01c06df65d5",
-    "title": "Your ChatGPT account just got more secure, but you have to opt in - here's how",
-    "link": "https://www.zdnet.com/article/chatgpt-advanced-account-security/",
-    "published": "2026-05-04T17:38:28+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.. What: Your ChatGPT account just got more secure, but you have to opt in - here's how. When: 2026-05-04T17:38:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI adds a feature called Advanced Account Security with four opt-in settings designed to safeguard your account and personal data.. ماذا: Your ChatGPT account just got more secure, but you have to opt in - here's how. متى: 2026-05-04T17:38:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4cd8078951035a65537c1083fb3d0abfa1acc9c2/2026/05/04/7836744f-1385-436a-9f81-0c9d67ff2acf/4locks-gettyimages-2211893962.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/chatgpt-advanced-account-security/"
-    ]
-  },
-  {
-    "id": "e3e81a216573cad95f242fbf",
-    "title": "Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why",
-    "link": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
-    "published": "2026-05-04T17:32:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why. What: Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why. When: 2026-05-04T17:32:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why. ماذا: Whatever you do, don't buy cheap DisplayPort cables for your PC - here's why. متى: 2026-05-04T17:32:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a3d4bdf5a2f4c43addb15d0cbb28f6f9a0eaf84b/2025/11/08/5c551575-61d2-4a3f-9e28-b2f99c810cd9/img-0528.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/"
-    ]
-  },
-  {
-    "id": "c8a55392f6da17a46a6af3b7",
-    "title": "Miss Windows XP or 7? Then I have a free, open-source alternative for you",
-    "link": "https://www.zdnet.com/article/reactos-will-soon-be-much-easier-to-install/",
-    "published": "2026-05-04T17:28:10+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Miss Windows XP or 7? Then I have a free, open-source alternative for you. What: Miss Windows XP or 7? Then I have a free, open-source alternative for you. When: 2026-05-04T17:28:10+00:00. How: If you're looking for a Windows alternative, but aren't ready for Linux, the open-source ReactOS is now as easy to install as Windows. Action: See Arabic action below.",
-    "summary_ar": "من: Miss Windows XP or 7? Then I have a free, open-source alternative for you. ماذا: Miss Windows XP or 7? Then I have a free, open-source alternative for you. متى: 2026-05-04T17:28:10+00:00. كيف: If you're looking for a Windows alternative, but aren't ready for Linux, the open-source ReactOS is now as easy to install as Windows.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b9868623253bf2ce800c1feca8f3ebc62935fa9c/2026/04/27/c2c261a7-cb30-49ae-9586-c9fe64010a1c/reactos.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/reactos-will-soon-be-much-easier-to-install/"
-    ]
-  },
-  {
-    "id": "79d2877debb66ef356b8c786",
-    "title": "Trellix Source Code Repository Breached",
-    "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
-    "published": "2026-05-04T17:23:54+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Trellix Source Code Repository Breached. What: Trellix Source Code Repository Breached. When: 2026-05-04T17:23:54+00:00. How: The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. Action: See Arabic action below.",
-    "summary_ar": "من: Trellix Source Code Repository Breached. ماذا: Trellix Source Code Repository Breached. متى: 2026-05-04T17:23:54+00:00. كيف: The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Cybersecurity-security-companies-firms.jpeg",
-    "sources": [
-      "https://www.securityweek.com/trellix-source-code-repository-breached/",
-      "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
-    ]
-  },
-  {
-    "id": "5cbff7bea3fa10c35c79acb9",
-    "title": "Backdoored PyTorch Lightning package drops credential stealer",
-    "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-    "published": "2026-05-04T17:15:27+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Backdoored PyTorch Lightning package drops credential stealer. What: Backdoored PyTorch Lightning package drops credential stealer. When: 2026-05-04T17:15:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Backdoored PyTorch Lightning package drops credential stealer. ماذا: Backdoored PyTorch Lightning package drops credential stealer. متى: 2026-05-04T17:15:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/PyPI.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/"
-    ]
-  },
-  {
-    "id": "d33afbce4afe92ae39d16331",
-    "title": "5 MacOS command line tools I swear by over their GUI counterparts",
-    "link": "https://www.zdnet.com/article/macos-command-line-utilities-that-are-far-more-useful-than-you-think/",
-    "published": "2026-05-04T16:47:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 MacOS command line tools I swear by over their GUI counterparts. What: 5 MacOS command line tools I swear by over their GUI counterparts. When: 2026-05-04T16:47:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 MacOS command line tools I swear by over their GUI counterparts. ماذا: 5 MacOS command line tools I swear by over their GUI counterparts. متى: 2026-05-04T16:47:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cc350cf4eae142a63227874a33c0ff29a6771c95/2026/03/18/6a3c35b8-98f9-45ff-98a1-e041ad9c0dc1/img-6106.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/macos-command-line-utilities-that-are-far-more-useful-than-you-think/"
-    ]
-  },
-  {
-    "id": "2f4f35446dc4963babf596bf",
-    "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-    "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-    "published": "2026-05-04T16:34:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.. What: Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.. When: 2026-05-04T16:34:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.. ماذا: Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.. متى: 2026-05-04T16:34:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html"
-    ]
-  },
-  {
-    "id": "3db9958278d757d9ef094b9e",
-    "title": "Trellix discloses data breach after source code repository hack",
-    "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-    "published": "2026-05-04T16:25:07+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Trellix discloses data breach after source code repository hack. What: Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository.. When: 2026-05-04T16:25:07+00:00. How: Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. Action: See Arabic action below.",
-    "summary_ar": "من: Trellix discloses data breach after source code repository hack. ماذا: Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository.. متى: 2026-05-04T16:25:07+00:00. كيف: Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/04/trellix.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/"
-    ]
-  },
-  {
-    "id": "7877a7c7d5db11ad585470fb",
-    "title": "Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple)",
-    "link": "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/",
-    "published": "2026-05-04T16:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple). What: Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple). When: 2026-05-04T16:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple). ماذا: Hundreds of readers bought these headphones this year (and they're not from Bose, Sony, or Apple). متى: 2026-05-04T16:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4a8cc696a62321facb32695dd089029439733f45/2025/09/15/766943a8-0f64-4da5-916a-f8f7b8714285/airpods-pro-3-competition.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/most-popular-headphones-from-our-readers-2026/"
-    ]
-  },
-  {
-    "id": "607398904dbeca09fbb72ecd",
-    "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
-    "link": "https://www.theregister.com/security/2026/05/04/ai-boms-replace-sboms-as-way-to-track-ai-agents-and-bots/5221716",
-    "published": "2026-05-04T15:04:20+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: \"Imagine if AI is a birthday cake in the middle of this room, but you don't know how it got there,\" Ian Swanson, VP of AI security at Palo Alto Networks said in an interview with The Register.. What: Scam mode starts with a single model and matches it against a database to determine the closest lineage candidates - and to help with this mode, Cisco also released a model fingerprint database covering about 150 base models across more than 45 families and over 20 publishers.. When: 2026-05-04T15:04:20+00:00. How: A tool like the AI bill of materials is one of those first places that you can start to get a better understanding of what exists.\" Up next: model provenance Cisco previously open sourced its AI-BOM, making it free for anyone to scan codebases, container images, and cloud environments to produce this bill of materials. Action: See Arabic action below.",
-    "summary_ar": "من: \"Imagine if AI is a birthday cake in the middle of this room, but you don't know how it got there,\" Ian Swanson, VP of AI security at Palo Alto Networks said in an interview with The Register.. ماذا: Scam mode starts with a single model and matches it against a database to determine the closest lineage candidates - and to help with this mode, Cisco also released a model fingerprint database covering about 150 base models across more than 45 families and over 20 publishers.. متى: 2026-05-04T15:04:20+00:00. كيف: A tool like the AI bill of materials is one of those first places that you can start to get a better understanding of what exists.\" Up next: model provenance Cisco previously open sourced its AI-BOM, making it free for anyone to scan codebases, container images, and cloud environments to produce this bill of materials.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/258525.jpg?imageId=258525&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/04/ai-boms-replace-sboms-as-way-to-track-ai-agents-and-bots/5221716",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/"
-    ]
-  },
-  {
-    "id": "1084384f7509f4f88e9189f0",
-    "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
-    "link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
-    "published": "2026-05-04T14:39:26+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia. What: Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia. When: 2026-05-04T14:39:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia. ماذا: Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia. متى: 2026-05-04T14:39:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta82565fb6653cd0e/69f88e988135d0869c215e99/silver-fox-closeup-ambquinn-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia"
-    ]
-  },
-  {
-    "id": "4885450a3111e0c4e99425a3",
-    "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-    "published": "2026-05-04T14:23:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: They’re living inside SaaS sessions, pushing code with trusted commits, and scaling ⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More. What: ⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More. When: 2026-05-04T14:23:00+00:00. How: While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. Action: See Arabic action below.",
-    "summary_ar": "من: They’re living inside SaaS sessions, pushing code with trusted commits, and scaling ⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More. ماذا: ⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More. متى: 2026-05-04T14:23:00+00:00. كيف: While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html"
-    ]
-  },
-  {
-    "id": "2a19bbf273cdfccce2045844",
-    "title": "How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business",
-    "link": "https://www.zdnet.com/article/ai-rollout-playbook-for-businesses-to-drive-user-satisfaction/",
-    "published": "2026-05-04T14:12:27+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business. What: How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business. When: 2026-05-04T14:12:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business. ماذا: How this travel company's AI rollout drove a 73% satisfaction boost: A 5-step playbook for your business. متى: 2026-05-04T14:12:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4c831b618b53e80748fae59945cd5e6ecec0301b/2026/04/30/e1741918-a0eb-441d-89d4-5abb93c809ea/5-ways-to-turn-your-agentic-ai-pilots-into-brilliant-production-services-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ai-rollout-playbook-for-businesses-to-drive-user-satisfaction/"
-    ]
-  },
-  {
-    "id": "95bc981f6ec0df46a2f63706",
-    "title": "Building an agentic AI strategy that pays off - without risking business failure",
-    "link": "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/",
-    "published": "2026-05-04T14:10:52+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Building an agentic AI strategy that pays off - without risking business failure. What: Building an agentic AI strategy that pays off - without risking business failure. When: 2026-05-04T14:10:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Building an agentic AI strategy that pays off - without risking business failure. ماذا: Building an agentic AI strategy that pays off - without risking business failure. متى: 2026-05-04T14:10:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8483dc62e26d08514ac4b04eb5fa229d1614d2b1/2026/04/30/359c6d48-711c-4ac5-b542-633744f8c1a8/building-an-agentic-ai-strategy-that-pays-off-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/building-an-agentic-ai-strategy-that-pays-off/"
-    ]
-  },
-  {
-    "id": "3aab417efcc87b243f4ea453",
-    "title": "The rise and risks of agent management platforms",
-    "link": "https://www.zdnet.com/article/the-rise-and-risks-of-agent-management-platforms/",
-    "published": "2026-05-04T14:09:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The rise and risks of agent management platforms. What: The rise and risks of agent management platforms. When: 2026-05-04T14:09:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The rise and risks of agent management platforms. ماذا: The rise and risks of agent management platforms. متى: 2026-05-04T14:09:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/020098699681e2c30f4b3e9bd4546bdc741d1016/2026/04/30/a6eea400-cfe6-4286-aa40-f29d6dd30499/the-rise-and-risks-of-agent-management-platforms-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-rise-and-risks-of-agent-management-platforms/"
-    ]
-  },
-  {
-    "id": "50662b218eb6e08d34fe58a0",
-    "title": "Give your 'human-level agents' a proper head start with these 3 best practices",
-    "link": "https://www.zdnet.com/article/doing-these-three-things-at-the-beginning-of-agentic-ai-will-make-everything-smoother/",
-    "published": "2026-05-04T14:08:18+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Give your 'human-level agents' a proper head start with these 3 best practices. What: Give your 'human-level agents' a proper head start with these 3 best practices. When: 2026-05-04T14:08:18+00:00. How: Focusing on governance, evaluation, and starting small can increase your AI agents' prospects for making it into production Give your 'human-level agents' a proper head start with these 3 best practices Action: See Arabic action below.",
-    "summary_ar": "من: Give your 'human-level agents' a proper head start with these 3 best practices. ماذا: Give your 'human-level agents' a proper head start with these 3 best practices. متى: 2026-05-04T14:08:18+00:00. كيف: Focusing on governance, evaluation, and starting small can increase your AI agents' prospects for making it into production Give your 'human-level agents' a proper head start with these 3 best practices. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/85a84595470b2fdb158b9232d24c7fafa8b0e6b0/2026/05/04/054c8c5b-6a2a-4e0d-bfa6-407bd97490f4/for-a-smoother-deployment-of-agentic-ai-do-these-3-things-first-v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/doing-these-three-things-at-the-beginning-of-agentic-ai-will-make-everything-smoother/"
     ]
   }
 ]
