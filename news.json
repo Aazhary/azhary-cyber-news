@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "ba55b05e53eaee48de7b6384",
+    "title": "Northflank security breach leads to abuse of customers' AI API keys",
+    "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+    "published": "2026-10-31T18:01:12+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Northflank security breach leads to abuse of customers' AI API keys. What: Northflank security breach leads to abuse of customers' AI API keys. When: 2026-10-31T18:01:12+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Northflank security breach leads to abuse of customers' AI API keys. ماذا: Northflank security breach leads to abuse of customers' AI API keys. متى: 2026-10-31T18:01:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/31/northflank-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/"
+    ]
+  },
+  {
     "id": "845cf24b8961170f2c028543",
     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
@@ -144379,188 +144397,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a20a00c4a995c76/69f91543b4185b753bc41213/cargo-trucks-with-containers-Siwakorn1933-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals"
-    ]
-  },
-  {
-    "id": "5062b8648fc2df56a37c9530",
-    "title": "RMM Tools Fuel Stealthy Phishing Campaign",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
-    "published": "2026-05-04T20:56:34+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: RMM Tools Fuel Stealthy Phishing Campaign. What: RMM Tools Fuel Stealthy Phishing Campaign. When: 2026-05-04T20:56:34+00:00. How: Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far. Action: See Arabic action below.",
-    "summary_ar": "من: RMM Tools Fuel Stealthy Phishing Campaign. ماذا: RMM Tools Fuel Stealthy Phishing Campaign. متى: 2026-05-04T20:56:34+00:00. كيف: Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf46275f28f98b091/69f8f7d214132e1bc74be18d/rmm_Digitala_World_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign"
-    ]
-  },
-  {
-    "id": "16533740f4a720aa1ac7d2f6",
-    "title": "Kids say they can beat age checks by drawing on a fake mustache",
-    "link": "https://www.theregister.com/security/2026/05/04/kids-can-bypass-some-age-checks-with-a-drawn-on-mustache/5224601",
-    "published": "2026-05-04T20:50:10+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Kids say they can beat age checks by drawing on a fake mustache. What: In some cases, even drawing on a mustache has been reported as enough to fool age detection software.. When: 2026-05-04T20:50:10+00:00. How: A full 46 percent of children even said that age checks were easy to bypass, while just 17 percent said that they were difficult to fool. Action: See Arabic action below.",
-    "summary_ar": "من: Kids say they can beat age checks by drawing on a fake mustache. ماذا: In some cases, even drawing on a mustache has been reported as enough to fool age detection software.. متى: 2026-05-04T20:50:10+00:00. كيف: A full 46 percent of children even said that age checks were easy to bypass, while just 17 percent said that they were difficult to fool.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5224997.jpg?imageId=5224997&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/04/kids-can-bypass-some-age-checks-with-a-drawn-on-mustache/5224601",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/"
-    ]
-  },
-  {
-    "id": "4b9b3d2753a28a9025f86c57",
-    "title": "This wearable gadget effectively soothes my migraines and headaches, and it's under $50",
-    "link": "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/",
-    "published": "2026-05-04T20:44:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This wearable gadget effectively soothes my migraines and headaches, and it's under $50. What: This wearable gadget effectively soothes my migraines and headaches, and it's under $50. When: 2026-05-04T20:44:58+00:00. How: The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too. Action: See Arabic action below.",
-    "summary_ar": "من: This wearable gadget effectively soothes my migraines and headaches, and it's under $50. ماذا: This wearable gadget effectively soothes my migraines and headaches, and it's under $50. متى: 2026-05-04T20:44:58+00:00. كيف: The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/897c6717af1ddf19844eb39056fddf617020f780/2025/10/30/fbe70965-645d-433c-8d36-69df24c67fdd/img-2858.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/renpho-eyeris-2-massager-testimonial/"
-    ]
-  },
-  {
-    "id": "0facb529f3475ae2e2238b79",
-    "title": "This e-reader lets you view in color, and it's $60 cheaper now",
-    "link": "https://www.zdnet.com/article/kindle-colorsoft-deal/",
-    "published": "2026-05-04T20:16:30+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This e-reader lets you view in color, and it's $60 cheaper now. What: This e-reader lets you view in color, and it's $60 cheaper now. When: 2026-05-04T20:16:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This e-reader lets you view in color, and it's $60 cheaper now. ماذا: This e-reader lets you view in color, and it's $60 cheaper now. متى: 2026-05-04T20:16:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ca9965b2237fa0b9d023b2e9474f09285aa2c522/2024/10/28/e91b5155-2c14-4141-a71b-9ba10c55c6aa/colorsoft-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/kindle-colorsoft-deal/"
-    ]
-  },
-  {
-    "id": "62426c779662ac9d91f85443",
-    "title": "Researchers report Amazon SES abused in phishing to evade detection",
-    "link": "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-    "published": "2026-05-04T20:03:28+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective.. What: Researchers report Amazon SES abused in phishing to evade detection. When: 2026-05-04T20:03:28+00:00. How: Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective.. ماذا: Researchers report Amazon SES abused in phishing to evade detection. متى: 2026-05-04T20:03:28+00:00. كيف: Cybersecurity firm Kaspersky reports that the Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/04/AWS.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/researchers-report-amazon-ses-abused-in-phishing-to-evade-detection/",
-      "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/"
-    ]
-  },
-  {
-    "id": "e57c509292a0df0dc0c7526a",
-    "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
-    "link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
-    "published": "2026-05-04T19:14:14+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability. What: Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.. When: 2026-05-04T19:14:14+00:00. How: Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month. Action: See Arabic action below.",
-    "summary_ar": "من: Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability. ماذا: Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.. متى: 2026-05-04T19:14:14+00:00. كيف: Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd788cf590f1679de/69f8f0d8468cc9ebbfe375b3/cpanel_IBPhotography_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability"
-    ]
-  },
-  {
-    "id": "46c2ab5e8359f64ea998dc87",
-    "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
-    "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
-    "published": "2026-05-04T19:00:26+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access.. What: Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks. When: 2026-05-04T19:00:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access.. ماذا: Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks. متى: 2026-05-04T19:00:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/"
-    ]
-  },
-  {
-    "id": "13d985356cdce987e6ff5541",
-    "title": "The future of IT service delivery is built on AI and automation",
-    "link": "https://www.zdnet.com/article/the-future-of-it-service-delivery-is-built-on-ai-and-automation/",
-    "published": "2026-05-04T18:39:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The future of IT service delivery is built on AI and automation. What: The future of IT service delivery is built on AI and automation. When: 2026-05-04T18:39:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The future of IT service delivery is built on AI and automation. ماذا: The future of IT service delivery is built on AI and automation. متى: 2026-05-04T18:39:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9997c207c572c2c1e74a1427b0a4c79ff23a6f75/2026/05/01/6e0fb652-d1b2-4667-9a74-21001afaa34e/cnet-lead-image.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-future-of-it-service-delivery-is-built-on-ai-and-automation/"
-    ]
-  },
-  {
-    "id": "c305b90ef931fab757c335f8",
-    "title": "I found an AirTag alternative that's twice as durable and works with Android phones",
-    "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
-    "published": "2026-05-04T18:30:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I found an AirTag alternative that's twice as durable and works with Android phones. What: I found an AirTag alternative that's twice as durable and works with Android phones. When: 2026-05-04T18:30:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I found an AirTag alternative that's twice as durable and works with Android phones. ماذا: I found an AirTag alternative that's twice as durable and works with Android phones. متى: 2026-05-04T18:30:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5cfbb80c48307a1abf8eaafe107592896670f761/2026/03/31/8c929bb9-e548-400a-9a4a-1ef6ebf4e436/img-3353.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/"
-    ]
-  },
-  {
-    "id": "423da35cd9d46b1ac89dd99d",
-    "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-    "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-    "published": "2026-05-04T18:06:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools. What: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools. When: 2026-05-04T18:06:00+00:00. How: An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. Action: See Arabic action below.",
-    "summary_ar": "من: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools. ماذا: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools. متى: 2026-05-04T18:06:00+00:00. كيف: An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html"
     ]
   }
 ]
