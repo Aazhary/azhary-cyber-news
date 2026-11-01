@@ -286,7 +286,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down"
     ]
@@ -144286,79 +144286,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg",
     "sources": [
       "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html"
-    ]
-  },
-  {
-    "id": "c013e43d208af338ca1cd07c",
-    "title": "CrowdStrike Launches Falcon OverWatch for Defender",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/",
-    "published": "2026-05-05T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Launches Falcon OverWatch for Defender. What: CrowdStrike Launches Falcon OverWatch for Defender. When: 2026-05-05T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Launches Falcon OverWatch for Defender. ماذا: CrowdStrike Launches Falcon OverWatch for Defender. متى: 2026-05-05T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/"
-    ]
-  },
-  {
-    "id": "a990be4aa8eb5b915e507c58",
-    "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
-    "link": "https://www.theregister.com/security/2026/05/05/singapore-boffins-get-diverse-siems-singing-in-harmony/5220619",
-    "published": "2026-05-05T02:12:16+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: While some vendors provide translation tools, they don’t offer support for many SIEMs: the authors say Microsoft’s tool shifts Splunk rules into Redmond’s Sentinel SIEM but can’t handle others.. What: “These shortcomings call for a scalable, vendor-neutral, and reliable SIEM-rule conversion framework that retains existing rule value and eases SOC workloads,” the paper states, before explaining how ARuleCon gets the job done with an \"agentic RAG [retrieval augmented generation] pipeline that retrieves authoritative official vendor documentation to address the convention/schema mismatches, and Python-based consistency check that running both source and target rules in controlled test environments to mitigate subtle semantic drifts.\" Long story short, the researchers developed agentic tech capable of translating SIEM rules created using Splunk, Microsoft Sentinel, IBM QRadar, Google Chronicle and RSA NetWitness.. When: 2026-05-05T02:12:16+00:00. How: SIEMs collect log files from many sources and allow users to set rules that trigger alerts that a security operations center (SOC) considers in case they represent security incidents. Action: See Arabic action below.",
-    "summary_ar": "من: While some vendors provide translation tools, they don’t offer support for many SIEMs: the authors say Microsoft’s tool shifts Splunk rules into Redmond’s Sentinel SIEM but can’t handle others.. ماذا: “These shortcomings call for a scalable, vendor-neutral, and reliable SIEM-rule conversion framework that retains existing rule value and eases SOC workloads,” the paper states, before explaining how ARuleCon gets the job done with an \"agentic RAG [retrieval augmented generation] pipeline that retrieves authoritative official vendor documentation to address the convention/schema mismatches, and Python-based consistency check that running both source and target rules in controlled test environments to mitigate subtle semantic drifts.\" Long story short, the researchers developed agentic tech capable of translating SIEM rules created using Splunk, Microsoft Sentinel, IBM QRadar, Google Chronicle and RSA NetWitness.. متى: 2026-05-05T02:12:16+00:00. كيف: SIEMs collect log files from many sources and allow users to set rules that trigger alerts that a security operations center (SOC) considers in case they represent security incidents.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/261362.jpg?imageId=261362&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/05/singapore-boffins-get-diverse-siems-singing-in-harmony/5220619",
-      "https://go.theregister.com/feed/www.theregister.com/2026/05/05/arulecon_siem_rule_conversion/"
-    ]
-  },
-  {
-    "id": "79d8fd2b848c8fd8e0c4a0ca",
-    "title": "Forget the soundbar: How I upgraded my TV audio with spare Bluetooth speakers",
-    "link": "https://www.zdnet.com/article/5-ways-to-upgrade-bluetooth-speakers-instead-of-replacing-them/",
-    "published": "2026-05-05T01:00:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Forget the soundbar: How I upgraded my TV audio with spare Bluetooth speakers. What: Forget the soundbar: How I upgraded my TV audio with spare Bluetooth speakers. When: 2026-05-05T01:00:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Forget the soundbar: How I upgraded my TV audio with spare Bluetooth speakers. ماذا: Forget the soundbar: How I upgraded my TV audio with spare Bluetooth speakers. متى: 2026-05-05T01:00:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a139366b1848fd088ca13860fe22605678256622/2025/06/25/2970ad8b-8bc9-4817-8030-13bd53c174a2/slplus-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-ways-to-upgrade-bluetooth-speakers-instead-of-replacing-them/"
-    ]
-  },
-  {
-    "id": "197a8dd8e989909d092f0b01",
-    "title": "Android phone slow? I changed 2 developer settings for an instant speed boost",
-    "link": "https://www.zdnet.com/article/android-phone-slow-change-2-developer-settings-for-speed-boost/",
-    "published": "2026-05-05T01:00:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Android phone slow? I changed 2 developer settings for an instant speed boost. What: Android phone slow? I changed 2 developer settings for an instant speed boost. When: 2026-05-05T01:00:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Android phone slow? I changed 2 developer settings for an instant speed boost. ماذا: Android phone slow? I changed 2 developer settings for an instant speed boost. متى: 2026-05-05T01:00:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5274086c1e8d64c9a510033cb7a3e7b3994373cc/2026/05/04/371484f1-3aac-456a-b934-877072faf6c1/perfhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-phone-slow-change-2-developer-settings-for-speed-boost/"
     ]
   }
 ]
