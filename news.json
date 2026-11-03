@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "3b6a51103bfae25be68d30f2",
+    "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+    "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+    "published": "2026-11-03T02:24:31+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. What: In October 2026, Oxylabs was relaunched under a new brand called Source , after receiving $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. When: 2026-11-03T02:24:31+00:00. How: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects. Action: See Arabic action below.",
+    "summary_ar": "من: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. ماذا: In October 2026, Oxylabs was relaunched under a new brand called Source , after receiving $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. متى: 2026-11-03T02:24:31+00:00. كيف: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/"
+    ]
+  },
+  {
     "id": "c033741926089d1aa9a1764a",
     "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
     "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
@@ -87,7 +105,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths"
     ]
@@ -123,7 +141,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/247072.jpg?imageId=247072&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045"
     ]
@@ -441,7 +459,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt569484121108a889/6ae4e02ada596cc80722963c/AI-Saksit_Sangtong-Getty-2225595754.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss"
     ]
@@ -2760,7 +2778,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions"
     ]
@@ -143065,78 +143083,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Water-Utility-Cyberattack.jpg",
     "sources": [
       "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/"
-    ]
-  },
-  {
-    "id": "24225351069b87eaa206a914",
-    "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-    "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-    "published": "2026-05-07T04:15:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution. What: A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.. When: 2026-05-07T04:15:00+00:00. How: vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution Action: See Arabic action below.",
-    "summary_ar": "من: vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution. ماذا: A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.. متى: 2026-05-07T04:15:00+00:00. كيف: vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html"
-    ]
-  },
-  {
-    "id": "99a5d2fd7d8553db11f4a1b7",
-    "title": "I've fully converted to adaptive chargers from fast ones and already feel safer",
-    "link": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
-    "published": "2026-05-07T01:00:51+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've fully converted to adaptive chargers from fast ones and already feel safer. What: I've fully converted to adaptive chargers from fast ones and already feel safer. When: 2026-05-07T01:00:51+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've fully converted to adaptive chargers from fast ones and already feel safer. ماذا: I've fully converted to adaptive chargers from fast ones and already feel safer. متى: 2026-05-07T01:00:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ab7d38c5ac4af31bb4506bdf2eb8e79b971325bc/2023/09/22/4117cf65-90cd-4d96-82f9-377ff2fe6198/iphone-15-optimized-charging-screen.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/"
-    ]
-  },
-  {
-    "id": "12aad5d61520289a138c459b",
-    "title": "How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods",
-    "link": "https://www.zdnet.com/article/how-to-improve-sonos-soundbar-quality/",
-    "published": "2026-05-07T01:00:50+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods. What: How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods. When: 2026-05-07T01:00:50+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods. ماذا: How I upgraded my Sonos soundbar's audio quality - 3 easy and free methods. متى: 2026-05-07T01:00:50+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/81a27731e1ad29353f4c751337519f5d59cb233a/2025/07/29/c471f834-7188-4a22-b67d-e4d9d96b1180/arc-ultra-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-improve-sonos-soundbar-quality/"
-    ]
-  },
-  {
-    "id": "1648e87f34459a623cef6b7a",
-    "title": "I've tested several ReMarkable tablets, but its new cheap E Ink tablet had me fooled",
-    "link": "https://www.zdnet.com/article/remarkable-paper-pure-review/",
-    "published": "2026-05-07T01:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've tested several ReMarkable tablets, but its new cheap E Ink tablet had me fooled. What: I've tested several ReMarkable tablets, but its new cheap E Ink tablet had me fooled. When: 2026-05-07T01:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've tested several ReMarkable tablets, but its new cheap E Ink tablet had me fooled. ماذا: I've tested several ReMarkable tablets, but its new cheap E Ink tablet had me fooled. متى: 2026-05-07T01:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/453337dca0ccc181cef1a6c5ce65ec548a0bb36b/2026/05/05/519e15e5-31ce-4b1d-9afd-68013f458ef3/img-6922.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/remarkable-paper-pure-review/"
     ]
   }
 ]
