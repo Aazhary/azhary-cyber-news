@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "ed421e39d30bdf9723363a36",
+    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+    "published": "2026-11-04T02:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach. What: Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach. When: 2026-11-04T02:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach. ماذا: Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach. متى: 2026-11-04T02:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach"
+    ]
+  },
+  {
     "id": "b0a8ea5b69867de6d8deaaf5",
     "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -3774,7 +3792,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt472af09911ab1135/6ae48844fd7d52aaa11129c2/ctf-gilaxia-getty-1781744928.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever"
     ]
@@ -143265,98 +143283,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Chrome.jpeg",
     "sources": [
       "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/"
-    ]
-  },
-  {
-    "id": "6306faaad2c146b4b8007a00",
-    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-    "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-    "published": "2026-05-08T05:12:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions. What: Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.. When: 2026-05-08T05:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions. ماذا: Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.. متى: 2026-05-08T05:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-31431"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif",
-    "sources": [
-      "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html"
-    ]
-  },
-  {
-    "id": "9403440277d33caf3d2679e4",
-    "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-    "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-    "published": "2026-05-08T02:58:46+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: Canvas Breach Disrupts Schools & Colleges Nationwide. What: In a blog post today, Mann noted that in September 2025, ShinyHunters released thousands of internal University of Pennsylvania files — donor records, internal memos, and other confidential materials — through what the Daily Pennsylvanian and other outlets later determined was, in part, a Canvas/Instructure-mediated access path.. When: 2026-05-08T02:58:46+00:00. How: “Instead of contacting us to resolve it they ignored us and did some ‘security patches.'” A source close to the investigation who was not authorized to speak to the press told KrebsOnSecurity that a number of universities have already approached the cybercrime group about paying. Action: See Arabic action below.",
-    "summary_ar": "من: Canvas Breach Disrupts Schools & Colleges Nationwide. ماذا: In a blog post today, Mann noted that in September 2025, ShinyHunters released thousands of internal University of Pennsylvania files — donor records, internal memos, and other confidential materials — through what the Daily Pennsylvanian and other outlets later determined was, in part, a Canvas/Instructure-mediated access path.. متى: 2026-05-08T02:58:46+00:00. كيف: “Instead of contacting us to resolve it they ignored us and did some ‘security patches.'” A source close to the investigation who was not authorized to speak to the press told KrebsOnSecurity that a number of universities have already approached the cybercrime group about paying.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/"
-    ]
-  },
-  {
-    "id": "0968e8fb69ca714bf0ec1ce7",
-    "title": "After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again",
-    "link": "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/",
-    "published": "2026-05-08T01:01:01+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again. What: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again. When: 2026-05-08T01:01:01+00:00. How: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again Action: See Arabic action below.",
-    "summary_ar": "من: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again. ماذا: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again. متى: 2026-05-08T01:01:01+00:00. كيف: After using Lenovo's $2,600 Yoga, I'm taking premium Windows laptops seriously again. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/53062263f4e63b957aac8c51f5b4c6fd830c3275/2026/05/06/5a473c8b-a3c0-4a6c-a187-29e24ea79194/lenovo-pro-9i-aura-edition-image-6.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/lenovo-pro-9i-aura-edition-review/"
-    ]
-  },
-  {
-    "id": "f127c6c2e1b161903ab2c424",
-    "title": "Roku apps loading slow? 9 quick fixes I try before blaming my Wi-Fi",
-    "link": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
-    "published": "2026-05-08T01:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Roku apps loading slow? 9 quick fixes I try before blaming my Wi-Fi. What: Here's what I do to fix performance.. When: 2026-05-08T01:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Roku apps loading slow? 9 quick fixes I try before blaming my Wi-Fi. ماذا: Here's what I do to fix performance.. متى: 2026-05-08T01:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4e50d62b971d2c2deda6703a9d7873797226458c/2026/05/07/7bb63247-1162-4643-a5f1-a1655b186ea8/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/"
-    ]
-  },
-  {
-    "id": "cb68454437eda0633802f293",
-    "title": "Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick",
-    "link": "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/",
-    "published": "2026-05-08T00:43:04+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple Maps has improved over the years, but how does it compare to Google Maps today?. What: Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick. When: 2026-05-08T00:43:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple Maps has improved over the years, but how does it compare to Google Maps today?. ماذا: Google Maps vs. Apple Maps: I compared two of the best navigation apps - here's my pick. متى: 2026-05-08T00:43:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/93e41c7359fe13154cb4a714bcfccadc413c179a/2026/05/04/bc124274-1f48-4d8a-bfab-859396726dc0/google-maps-vs-apple-maps.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-maps-vs-apple-maps-2026/"
     ]
   }
 ]
