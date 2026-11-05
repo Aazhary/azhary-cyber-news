@@ -36,6 +36,913 @@
     ]
   },
   {
+    "id": "886e9406677fab2131fcdb8e",
+    "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+    "published": "2026-11-05T21:30:30+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.. What: Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts. When: 2026-11-05T21:30:30+00:00. How: Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.. ماذا: Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts. متى: 2026-11-05T21:30:30+00:00. كيف: Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/08/23/phishing-hook.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    ]
+  },
+  {
+    "id": "6ae54b5becb8074a2a75212e",
+    "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+    "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+    "published": "2026-11-05T21:00:47+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: What We Missed: Knicks Phishing Test Goes Out of Bounds. What: What We Missed: Knicks Phishing Test Goes Out of Bounds. When: 2026-11-05T21:00:47+00:00. How: In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency. Action: See Arabic action below.",
+    "summary_ar": "من: What We Missed: Knicks Phishing Test Goes Out of Bounds. ماذا: What We Missed: Knicks Phishing Test Goes Out of Bounds. متى: 2026-11-05T21:00:47+00:00. كيف: In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds"
+    ]
+  },
+  {
+    "id": "431a63bf22695cc75fbee66e",
+    "title": "The White House is apparently a popular residential proxy exit spot",
+    "link": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+    "published": "2026-11-05T20:50:57+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The White House is apparently a popular residential proxy exit spot. What: News of the security snafu comes from security firm Layer3 Intel, which reported this week that it discovered the likely illicit activity thanks to its recently launched Residential Proxy Observatory.. When: 2026-11-05T20:50:57+00:00. How: Whether through malware or other means, devices associated with the White House network appear to be serving as residential proxy exit nodes, potentially posing security risks to one of the world's most sensitive networks. Action: See Arabic action below.",
+    "summary_ar": "من: The White House is apparently a popular residential proxy exit spot. ماذا: News of the security snafu comes from security firm Layer3 Intel, which reported this week that it discovered the likely illicit activity thanks to its recently launched Residential Proxy Observatory.. متى: 2026-11-05T20:50:57+00:00. كيف: Whether through malware or other means, devices associated with the White House network appear to be serving as residential proxy exit nodes, potentially posing security risks to one of the world's most sensitive networks.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/226251.jpg?imageId=226251&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
+    ]
+  },
+  {
+    "id": "58f4053a1bb932db08fe7735",
+    "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+    "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+    "published": "2026-11-05T20:15:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Nearly 1.5 million exposed secrets targeted in new revocation program. What: Nearly 1.5 million exposed secrets targeted in new revocation program. When: 2026-11-05T20:15:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nearly 1.5 million exposed secrets targeted in new revocation program. ماذا: Nearly 1.5 million exposed secrets targeted in new revocation program. متى: 2026-11-05T20:15:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/05/keus.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/"
+    ]
+  },
+  {
+    "id": "8c41ea53568673e3afb8de89",
+    "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+    "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+    "published": "2026-11-05T20:05:39+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: APT29's Watering Holes Target Thousands of Mobile Users. What: APT29's Watering Holes Target Thousands of Mobile Users. When: 2026-11-05T20:05:39+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: APT29's Watering Holes Target Thousands of Mobile Users. ماذا: APT29's Watering Holes Target Thousands of Mobile Users. متى: 2026-11-05T20:05:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users"
+    ]
+  },
+  {
+    "id": "7e637a2f9fd70ec85951e26d",
+    "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+    "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+    "published": "2026-11-05T19:24:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research.. What: OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research.. When: 2026-11-05T19:24:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research.. ماذا: OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research.. متى: 2026-11-05T19:24:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/09/17/OpenAI.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/"
+    ]
+  },
+  {
+    "id": "aea66fd90b9982247bcc1367",
+    "title": "HR thinks you can learn AI skills – so why is your company hiring elsewhere?",
+    "link": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
+    "published": "2026-11-05T18:44:47+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: HR thinks you can learn AI skills – so why is your company hiring elsewhere?. What: HR thinks you can learn AI skills – so why is your company hiring elsewhere?. When: 2026-11-05T18:44:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: HR thinks you can learn AI skills – so why is your company hiring elsewhere?. ماذا: HR thinks you can learn AI skills – so why is your company hiring elsewhere?. متى: 2026-11-05T18:44:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/purplepeople-GettyImages-2227030316-1.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/"
+    ]
+  },
+  {
+    "id": "2a3856813d54ce94400ed20b",
+    "title": "Get root on a musl Linux system by slamming it with an overly long password",
+    "link": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+    "published": "2026-11-05T18:29:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: More critically than that, it's also the standard C library for Alpine Linux, which provides official cloud images for both AWS and Azure.. What: The vulnerability, dubbed *sshole by Wakefield researcher Özgün Kültekin, who discovered it, can only be exploited in very specific conditions.. When: 2026-11-05T18:29:00+00:00. How: The flaw affects certain Linux systems using musl libc instead of the traditional GNU C library, and even then only those running OpenSSH's secure shell daemon without Pluggable Authentication Modules (PAM) and with password authentication enabled. Action: See Arabic action below.",
+    "summary_ar": "من: More critically than that, it's also the standard C library for Alpine Linux, which provides official cloud images for both AWS and Azure.. ماذا: The vulnerability, dubbed *sshole by Wakefield researcher Özgün Kültekin, who discovered it, can only be exploited in very specific conditions.. متى: 2026-11-05T18:29:00+00:00. كيف: The flaw affects certain Linux systems using musl libc instead of the traditional GNU C library, and even then only those running OpenSSH's secure shell daemon without Pluggable Authentication Modules (PAM) and with password authentication enabled.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/258580.jpg?imageId=258580&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910"
+    ]
+  },
+  {
+    "id": "42b5e03517b687680a82f845",
+    "title": "6 default Pixel 11 settings I changed that made a big difference – and why",
+    "link": "https://www.zdnet.com/tech/pixel-11-settings-to-change/",
+    "published": "2026-11-05T18:18:16+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 6 default Pixel 11 settings I changed that made a big difference – and why. What: 6 default Pixel 11 settings I changed that made a big difference – and why. When: 2026-11-05T18:18:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 6 default Pixel 11 settings I changed that made a big difference – and why. ماذا: 6 default Pixel 11 settings I changed that made a big difference – and why. متى: 2026-11-05T18:18:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/PXL_20261105_154231218.PORTRAIT.ORIGINAL.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/pixel-11-settings-to-change/"
+    ]
+  },
+  {
+    "id": "4c85354b1ef93ef001977e28",
+    "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+    "published": "2026-11-05T18:03:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: October crypto-tracker hack: Access cracked, law enforcement tokens packed. What: In previous updates, which Chainalysis has issued regularly since it detected the intrusion on October 30, it confirmed that user IDs, full names, email addresses, and organizational role labels were exposed.. When: 2026-11-05T18:03:00+00:00. How: In addition to the exposed data, Chainalysis also detected \"abnormal activity\" on its transaction screening products, and has taken services down while \"our team completes critical work.\" These include, but are not limited to, the Reactor blockchain investigation platform used by international law enforcement customers, the Data Solutions threat intelligence platform, and the KYT (know your transaction) anti-money laundering solution's user interface and login page. Action: See Arabic action below.",
+    "summary_ar": "من: October crypto-tracker hack: Access cracked, law enforcement tokens packed. ماذا: In previous updates, which Chainalysis has issued regularly since it detected the intrusion on October 30, it confirmed that user IDs, full names, email addresses, and organizational role labels were exposed.. متى: 2026-11-05T18:03:00+00:00. كيف: In addition to the exposed data, Chainalysis also detected \"abnormal activity\" on its transaction screening products, and has taken services down while \"our team completes critical work.\" These include, but are not limited to, the Reactor blockchain investigation platform used by international law enforcement customers, the Data Solutions threat intelligence platform, and the KYT (know your transaction) anti-money laundering solution's user interface and login page.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+    ]
+  },
+  {
+    "id": "c29370db196c1cb53177d8eb",
+    "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
+    "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
+    "published": "2026-11-05T18:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course. What: Anthropic has released what appears to be its answer to ChatGPT Finances.. When: 2026-11-05T18:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course. ماذا: Anthropic has released what appears to be its answer to ChatGPT Finances.. متى: 2026-11-05T18:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1451754709.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/"
+    ]
+  },
+  {
+    "id": "ef8ec7ea32e900e5d4c68aad",
+    "title": "3 ways Bluetooth 7 upgrades your devices beyond lossless audio",
+    "link": "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/",
+    "published": "2026-11-05T17:46:35+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 3 ways Bluetooth 7 upgrades your devices beyond lossless audio. What: 3 ways Bluetooth 7 upgrades your devices beyond lossless audio. When: 2026-11-05T17:46:35+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 3 ways Bluetooth 7 upgrades your devices beyond lossless audio. ماذا: 3 ways Bluetooth 7 upgrades your devices beyond lossless audio. متى: 2026-11-05T17:46:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/blu.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/bluetooth-7-features-headphones-smart-home-lossless-audio/"
+    ]
+  },
+  {
+    "id": "671b07a9ce2d4371b8d5c091",
+    "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+    "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+    "published": "2026-11-05T17:45:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenSSH flaw lets attackers log into password-disabled Linux accounts. What: A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.. When: 2026-11-05T17:45:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenSSH flaw lets attackers log into password-disabled Linux accounts. ماذا: A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password.. متى: 2026-11-05T17:45:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/05/ssh-header-image.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
+    ]
+  },
+  {
+    "id": "3347a00667c5092144458eb0",
+    "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+    "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+    "published": "2026-11-05T17:32:37+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.. What: An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.. When: 2026-11-05T17:32:37+00:00. How: The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.. ماذا: An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million.. متى: 2026-11-05T17:32:37+00:00. كيف: The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/"
+    ]
+  },
+  {
+    "id": "7796ff759e0b6432a916da1f",
+    "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+    "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+    "published": "2026-11-05T17:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: OpenAI, on Thursday, released its latest cybersecurity-tuned model, GPT-6 Cyber, which the House of Altman says combines \"stronger cybersecurity capabilities with better adherence to researchers’ rules of engagement.\" The new model, we’re told, is much better at finding and exploiting vulnerabilities, compared to GPT-5.6 and GPT-6 Astra.. What: OpenAI, on Thursday, released its latest cybersecurity-tuned model, GPT-6 Cyber, which the House of Altman says combines \"stronger cybersecurity capabilities with better adherence to researchers’ rules of engagement.\" The new model, we’re told, is much better at finding and exploiting vulnerabilities, compared to GPT-5.6 and GPT-6 Astra.. When: 2026-11-05T17:00:00+00:00. How: The model maker said the latest cyber model was \"trained to stay within authorized scope, respect restrictions and report results accurately.\" In OpenAI's ExploitGym training evaluation, GPT-6 Cyber scored 48.5 percent. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI, on Thursday, released its latest cybersecurity-tuned model, GPT-6 Cyber, which the House of Altman says combines \"stronger cybersecurity capabilities with better adherence to researchers’ rules of engagement.\" The new model, we’re told, is much better at finding and exploiting vulnerabilities, compared to GPT-5.6 and GPT-6 Astra.. ماذا: OpenAI, on Thursday, released its latest cybersecurity-tuned model, GPT-6 Cyber, which the House of Altman says combines \"stronger cybersecurity capabilities with better adherence to researchers’ rules of engagement.\" The new model, we’re told, is much better at finding and exploiting vulnerabilities, compared to GPT-5.6 and GPT-6 Astra.. متى: 2026-11-05T17:00:00+00:00. كيف: The model maker said the latest cyber model was \"trained to stay within authorized scope, respect restrictions and report results accurately.\" In OpenAI's ExploitGym training evaluation, GPT-6 Cyber scored 48.5 percent.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
+    ]
+  },
+  {
+    "id": "d5adbe76452f97590a213953",
+    "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+    "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+    "published": "2026-11-05T16:48:36+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era. What: SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era. When: 2026-11-05T16:48:36+00:00. How: The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations. Action: See Arabic action below.",
+    "summary_ar": "من: SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era. ماذا: SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era. متى: 2026-11-05T16:48:36+00:00. كيف: The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era"
+    ]
+  },
+  {
+    "id": "3fe484f436f5a81567267175",
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+    "published": "2026-11-05T16:42:46+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux. What: OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it.. When: 2026-11-05T16:42:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux. ماذا: OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it.. متى: 2026-11-05T16:42:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+    ]
+  },
+  {
+    "id": "306be99284dc169ea81dbd24",
+    "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+    "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+    "published": "2026-11-05T16:42:32+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.. What: Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.. When: 2026-11-05T16:42:32+00:00. How: \"The flaw could enable silent chat data theft, phishing, Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.. ماذا: Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.. متى: 2026-11-05T16:42:32+00:00. كيف: \"The flaw could enable silent chat data theft, phishing, Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif",
+    "sources": [
+      "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
+    ]
+  },
+  {
+    "id": "5263a8e99f87686bcc994961",
+    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+    "published": "2026-11-05T16:24:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers backdoor Linux servers using trojanized CWP web server. What: Hackers backdoor Linux servers using trojanized CWP web server. When: 2026-11-05T16:24:26+00:00. How: A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers backdoor Linux servers using trojanized CWP web server. ماذا: Hackers backdoor Linux servers using trojanized CWP web server. متى: 2026-11-05T16:24:26+00:00. كيف: A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/29/Linux.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/"
+    ]
+  },
+  {
+    "id": "6b1d9cd5a096d5743ed77eeb",
+    "title": "DigiCert data breach exposes customer information, identity documents",
+    "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+    "published": "2026-11-05T16:12:46+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: DigiCert data breach exposes customer information, identity documents. What: DigiCert data breach exposes customer information, identity documents. When: 2026-11-05T16:12:46+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: DigiCert data breach exposes customer information, identity documents. ماذا: DigiCert data breach exposes customer information, identity documents. متى: 2026-11-05T16:12:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/05/digicert-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/"
+    ]
+  },
+  {
+    "id": "2cbf6acca69f3cf9bc6c3164",
+    "title": "The Siri AI waitlist is gone in iOS 27: How to try the beta today",
+    "link": "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+    "published": "2026-11-05T16:08:49+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Siri AI waitlist is gone in iOS 27: How to try the beta today. What: The Siri AI waitlist is gone in iOS 27: How to try the beta today. When: 2026-11-05T16:08:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Siri AI waitlist is gone in iOS 27: How to try the beta today. ماذا: The Siri AI waitlist is gone in iOS 27: How to try the beta today. متى: 2026-11-05T16:08:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/1_9958c8.jpg",
+    "sources": [
+      "https://www.zdnet.com/business/siri-ai-beta-waitlist-ends-ios-27/",
+      "https://www.zdnet.com/article/how-to-get-siri-ai-early-join-the-waitlist-today/"
+    ]
+  },
+  {
+    "id": "a7e1d0b0e1baf096731cb6b4",
+    "title": "Tobacco company got smoked by leaving secret recipes on a file share",
+    "link": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+    "published": "2026-11-05T16:02:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Assigned to find flaws in the network of a tobacco company, Schloss stumbled onto some very poorly protected trade secrets.. What: Tobacco company got smoked by leaving secret recipes on a file share. When: 2026-11-05T16:02:00+00:00. How: Schloss started by probing the network with tools like Metasploit, a popular open-source pen testing app. Action: See Arabic action below.",
+    "summary_ar": "من: Assigned to find flaws in the network of a tobacco company, Schloss stumbled onto some very poorly protected trade secrets.. ماذا: Tobacco company got smoked by leaving secret recipes on a file share. متى: 2026-11-05T16:02:00+00:00. كيف: Schloss started by probing the network with tools like Metasploit, a popular open-source pen testing app.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704"
+    ]
+  },
+  {
+    "id": "cfc00366aeb76f201bd907c0",
+    "title": "Residential Proxy Traffic Traced to White House Network",
+    "link": "https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/",
+    "published": "2026-11-05T16:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Residential Proxy Traffic Traced to White House Network. What: Residential Proxy Traffic Traced to White House Network. When: 2026-11-05T16:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Residential Proxy Traffic Traced to White House Network. ماذا: Residential Proxy Traffic Traced to White House Network. متى: 2026-11-05T16:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/230b3c7a-3fb3-440e-b921-81823179b727.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/"
+    ]
+  },
+  {
+    "id": "20620af337f7e546d9c324ac",
+    "title": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
+    "link": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
+    "published": "2026-11-05T15:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Zyxel Switch Patch Missed Flaw Behind Wave of Attacks. What: Zyxel Switch Patch Missed Flaw Behind Wave of Attacks. When: 2026-11-05T15:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Zyxel Switch Patch Missed Flaw Behind Wave of Attacks. ماذا: Zyxel Switch Patch Missed Flaw Behind Wave of Attacks. متى: 2026-11-05T15:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/fcbcf385-e065-4981-9748-503ca34a921e.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/"
+    ]
+  },
+  {
+    "id": "dad53d7e3ed5032929f65277",
+    "title": "Closing the Identity Gap at the Service Desk",
+    "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+    "published": "2026-11-05T15:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Closing the Identity Gap at the Service Desk. What: Closing the Identity Gap at the Service Desk. When: 2026-11-05T15:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Closing the Identity Gap at the Service Desk. ماذا: Closing the Identity Gap at the Service Desk. متى: 2026-11-05T15:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/11/02/specops-lockscreen.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/"
+    ]
+  },
+  {
+    "id": "59043a85553579c0d87280ca",
+    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+    "published": "2026-11-05T14:41:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories. What: And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched.. When: 2026-11-05T14:41:10+00:00. How: Not exactly a ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories Action: See Arabic action below.",
+    "summary_ar": "من: ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories. ماذا: And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched.. متى: 2026-11-05T14:41:10+00:00. كيف: Not exactly a ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html"
+    ]
+  },
+  {
+    "id": "5695018c06fbce4a576fff9e",
+    "title": "India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses",
+    "link": "https://www.infosecurity-magazine.com/news/india-warns-ai-cyberattacks/",
+    "published": "2026-11-05T14:25:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses. What: India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses. When: 2026-11-05T14:25:00+00:00. How: The Indian CERT said a new cyber malicious group tracked as ‘Crafty Flacon’ is using Chinese-made AI tools to attack fintech and crypto organizations India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses Action: See Arabic action below.",
+    "summary_ar": "من: India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses. ماذا: India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses. متى: 2026-11-05T14:25:00+00:00. كيف: The Indian CERT said a new cyber malicious group tracked as ‘Crafty Flacon’ is using Chinese-made AI tools to attack fintech and crypto organizations India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/a3181fe0-99a3-4737-bb71-ca0f8ef3654d.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/india-warns-ai-cyberattacks/"
+    ]
+  },
+  {
+    "id": "2dacffdc48c87d16f6dcc339",
+    "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+    "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+    "published": "2026-11-05T13:22:12+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns. What: Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns. When: 2026-11-05T13:22:12+00:00. How: More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. Action: See Arabic action below.",
+    "summary_ar": "من: Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns. ماذا: Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns. متى: 2026-11-05T13:22:12+00:00. كيف: More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/07/corporate-bank-fraud.jpeg",
+    "sources": [
+      "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/"
+    ]
+  },
+  {
+    "id": "c29bbce4a31ed04c1137c63a",
+    "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+    "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+    "published": "2026-11-05T13:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries. What: Weizman found and disclosed the Claude Dispatch flaw, dubbed ThisBash, to Anthropic, and shared his research exclusively with The Register.. When: 2026-11-05T13:00:00+00:00. How: Because now Claude has access to the files in the operating system, it can run code on the operating system and compromise the machine completely,” said Weizman. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries. ماذا: Weizman found and disclosed the Claude Dispatch flaw, dubbed ThisBash, to Anthropic, and shared his research exclusively with The Register.. متى: 2026-11-05T13:00:00+00:00. كيف: Because now Claude has access to the files in the operating system, it can run code on the operating system and compromise the machine completely,” said Weizman.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684"
+    ]
+  },
+  {
+    "id": "8384bfde04a0d7fee57b8957",
+    "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+    "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+    "published": "2026-11-05T12:58:32+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised. What: The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked.. When: 2026-11-05T12:58:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised. ماذا: The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked.. متى: 2026-11-05T12:58:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/blood.jpeg",
+    "sources": [
+      "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/"
+    ]
+  },
+  {
+    "id": "1779cfdf014111872734acfb",
+    "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+    "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+    "published": "2026-11-05T12:33:49+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.. What: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.. When: 2026-11-05T12:33:49+00:00. How: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.. ماذا: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.. متى: 2026-11-05T12:33:49+00:00. كيف: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg",
+    "sources": [
+      "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/"
+    ]
+  },
+  {
+    "id": "5d4d032693916d5df771deb1",
+    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+    "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+    "published": "2026-11-05T12:25:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out. What: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out. When: 2026-11-05T12:25:00+00:00. How: A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue. Action: See Arabic action below.",
+    "summary_ar": "من: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out. ماذا: Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out. متى: 2026-11-05T12:25:00+00:00. كيف: A critical finding can move through several security tools and still leave the organization exposed.&nbsp; The vulnerability has a severity score, and a ticket has reached the queue.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png",
+    "sources": [
+      "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"
+    ]
+  },
+  {
+    "id": "27b7a41e0397dbec44559d0b",
+    "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+    "published": "2026-11-05T12:10:15+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark. What: (Since 2021, In October 2021, QPL, Brooklyn Public Library, and New York Public Library - in an effort to help lower income users from being put off borrowing - permanently killed daily late fines on books and circulating materials.) Each of the library system's 66 locations remains open, including the central library in the Jamaica neighborhood in Queens, but QPL warned: \"it will take some time before the library's network and systems are restored.\" QPL said \"certain virtual and in-person programs may be impacted,\" advising visitors to check availability with their local branch via phone, and check the library's social media channels for official updates.. When: 2026-11-05T12:10:15+00:00. How: New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly. Action: See Arabic action below.",
+    "summary_ar": "من: New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark. ماذا: (Since 2021, In October 2021, QPL, Brooklyn Public Library, and New York Public Library - in an effort to help lower income users from being put off borrowing - permanently killed daily late fines on books and circulating materials.) Each of the library system's 66 locations remains open, including the central library in the Jamaica neighborhood in Queens, but QPL warned: \"it will take some time before the library's network and systems are restored.\" QPL said \"certain virtual and in-person programs may be impacted,\" advising visitors to check availability with their local branch via phone, and check the library's social media channels for official updates.. متى: 2026-11-05T12:10:15+00:00. كيف: New York City's Queens Public Library (QPL) is battling a ransomware attack, it confirmed on Wednesday evening via social media and to patrons directly.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796"
+    ]
+  },
+  {
+    "id": "25c3eda20cfedcbc9b6b0c09",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+    "published": "2026-11-05T12:08:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.. What: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run. When: 2026-11-05T12:08:54+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.. ماذا: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run. متى: 2026-11-05T12:08:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
+    ]
+  },
+  {
+    "id": "017857ede41446c26e0a09f6",
+    "title": "Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026",
+    "link": "https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/",
+    "published": "2026-11-05T11:40:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026. What: Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026. When: 2026-11-05T11:40:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026. ماذا: Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026. متى: 2026-11-05T11:40:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/1b9921c3-f165-46bc-a31f-eaf2b1e1d490.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/"
+    ]
+  },
+  {
+    "id": "7cabac9649662d58676d1077",
+    "title": "Norway's aid agency pwned and all users' data is stolen",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
+    "published": "2026-11-05T11:19:16+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Norway's aid agency pwned and all users' data is stolen. What: The agency said the intrusion was detected on October 30, but did not offer any indication as to how long the attackers retained access to the grant portal.. When: 2026-11-05T11:19:16+00:00. How: \"They will give us a detailed description of what information those who attacked the solution have gained access to.\" Kjeldstad added that \"it should be safe\" to continue using Norad's services while it continues to probe what happened, and who was behind it. Action: See Arabic action below.",
+    "summary_ar": "من: Norway's aid agency pwned and all users' data is stolen. ماذا: The agency said the intrusion was detected on October 30, but did not offer any indication as to how long the attackers retained access to the grant portal.. متى: 2026-11-05T11:19:16+00:00. كيف: \"They will give us a detailed description of what information those who attacked the solution have gained access to.\" Kjeldstad added that \"it should be safe\" to continue using Norad's services while it continues to probe what happened, and who was behind it.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/260104.jpg?imageId=260104&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765"
+    ]
+  },
+  {
+    "id": "bcd0f8e51ff42e7cb7e4bd51",
+    "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+    "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+    "published": "2026-11-05T11:15:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The Agent Smith Dilemma: Governing Agentic Identities. What: The Agent Smith Dilemma: Governing Agentic Identities. When: 2026-11-05T11:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Agent Smith Dilemma: Governing Agentic Identities. ماذا: The Agent Smith Dilemma: Governing Agentic Identities. متى: 2026-11-05T11:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/"
+    ]
+  },
+  {
+    "id": "a190c692796eb0827a06a89f",
+    "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+    "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+    "published": "2026-11-05T11:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality. What: CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality. When: 2026-11-05T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality. ماذا: CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality. متى: 2026-11-05T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/CISO-Ryan-Davis.jpeg",
+    "sources": [
+      "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/"
+    ]
+  },
+  {
+    "id": "806a92e4d68ba1a653fb3df2",
+    "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+    "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+    "published": "2026-11-05T10:56:41+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day. What: The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .. When: 2026-11-05T10:56:41+00:00. How: Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. Action: See Arabic action below.",
+    "summary_ar": "من: Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day. ماذا: The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .. متى: 2026-11-05T10:56:41+00:00. كيف: Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-107441"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/09/switch-router.webp",
+    "sources": [
+      "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/"
+    ]
+  },
+  {
+    "id": "68af6446b07c38b0740af9a9",
+    "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+    "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+    "published": "2026-11-05T10:37:13+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes. What: Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes. When: 2026-11-05T10:37:13+00:00. How: The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes. ماذا: Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes. متى: 2026-11-05T10:37:13+00:00. كيف: The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Midnight-Blizzard-Russia-1024x576.png",
+    "sources": [
+      "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/"
+    ]
+  },
+  {
+    "id": "5c5efd627a9393fb780a45c4",
+    "title": "GhostMap Bug Leaves Android Phones Stuck in Reboot Loop",
+    "link": "https://www.infosecurity-magazine.com/news/ghostmap-bug-android-phones-stuck/",
+    "published": "2026-11-05T10:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: GhostMap Bug Leaves Android Phones Stuck in Reboot Loop. What: Bitdefender warns that unfixed GhostMap bug could force users to factory reset their device GhostMap Bug Leaves Android Phones Stuck in Reboot Loop. When: 2026-11-05T10:15:00+00:00. How: Bitdefender warns that unfixed GhostMap bug could force users to factory reset their device GhostMap Bug Leaves Android Phones Stuck in Reboot Loop Action: See Arabic action below.",
+    "summary_ar": "من: GhostMap Bug Leaves Android Phones Stuck in Reboot Loop. ماذا: Bitdefender warns that unfixed GhostMap bug could force users to factory reset their device GhostMap Bug Leaves Android Phones Stuck in Reboot Loop. متى: 2026-11-05T10:15:00+00:00. كيف: Bitdefender warns that unfixed GhostMap bug could force users to factory reset their device GhostMap Bug Leaves Android Phones Stuck in Reboot Loop. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/1bb5dd51-8164-4428-805e-0d5e8c3e16f1.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ghostmap-bug-android-phones-stuck/"
+    ]
+  },
+  {
+    "id": "1981b067cd839e7153892b66",
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+    "published": "2026-11-05T10:06:19+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026. What: 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026. When: 2026-11-05T10:06:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026. ماذا: 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026. متى: 2026-11-05T10:06:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html"
+    ]
+  },
+  {
+    "id": "89af0224359d594bbb39bcd7",
+    "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+    "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+    "published": "2026-11-05T10:02:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.. What: OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks. When: 2026-11-05T10:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.. ماذا: OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks. متى: 2026-11-05T10:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg",
+    "sources": [
+      "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/"
+    ]
+  },
+  {
+    "id": "9ad258b4d177e9059b89055b",
+    "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",
+    "link": "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/",
+    "published": "2026-11-05T10:00:11+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests.. What: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests.. When: 2026-11-05T10:00:11+00:00. How: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests. Action: See Arabic action below.",
+    "summary_ar": "من: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests.. ماذا: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests.. متى: 2026-11-05T10:00:11+00:00. كيف: Executive summary In 2025, several threat actors exploited CVE-2025-53770 and CVE-2025-53771 (ToolShell vulnerabilities) in on-premises Microsoft SharePoint to achieve remote code execution through crafted HTTP requests.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2025-53770",
+      "CVE-2025-53771",
+      "CVE-2025-6264"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/14165524/SL-Storm-2603-featured-scaled.jpg",
+    "sources": [
+      "https://securelist.com/storm-2603-fileless-toolshell-attack/121467/"
+    ]
+  },
+  {
+    "id": "f61ea71b3c46a1c4f3559c97",
+    "title": "NATS Air Traffic Control Failure Cost UK Economy £33m",
+    "link": "https://www.infosecurity-magazine.com/news/nats-air-traffic-control-fail-cost/",
+    "published": "2026-11-05T09:25:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: NATS Air Traffic Control Failure Cost UK Economy £33m. What: NATS Air Traffic Control Failure Cost UK Economy £33m. When: 2026-11-05T09:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NATS Air Traffic Control Failure Cost UK Economy £33m. ماذا: NATS Air Traffic Control Failure Cost UK Economy £33m. متى: 2026-11-05T09:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/12190193-36ce-41f0-bd16-80038004012d.jpeg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/nats-air-traffic-control-fail-cost/"
+    ]
+  },
+  {
+    "id": "da77af0f435fbc61488c270f",
+    "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+    "published": "2026-11-05T09:18:29+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: GhostMap Android flaw lets malicious app trigger persistent boot loop. What: GhostMap Android flaw lets malicious app trigger persistent boot loop. When: 2026-11-05T09:18:29+00:00. How: Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. Action: See Arabic action below.",
+    "summary_ar": "من: GhostMap Android flaw lets malicious app trigger persistent boot loop. ماذا: GhostMap Android flaw lets malicious app trigger persistent boot loop. متى: 2026-11-05T09:18:29+00:00. كيف: Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/android.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/"
+    ]
+  },
+  {
+    "id": "96a1ace9f58c677e42dd4220",
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+    "published": "2026-11-05T09:13:28+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.. What: Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content. When: 2026-11-05T09:13:28+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.. ماذا: Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content. متى: 2026-11-05T09:13:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCN85K3W5zv5BioRQjCRpIAYT4K8MjZxx0bP0wNETp_eeBQ8Rj_iScHZ0PVnak7dJnJB_tZs06nxCn3YB70aQrULSZVbcn_gLqAsRoN08bSj__9UGZ38PzHTeSqe1IdqZEvdY8fogrjg3xPvg4Kohb2lFGdIveD4jIZQYKugtN5dIc0nTDjlVZJeQBzASx/s1600/icloud.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html"
+    ]
+  },
+  {
+    "id": "4f9bb7c1ff8e1d8ddfc09f17",
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+    "published": "2026-11-05T08:42:03+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access. What: The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.. When: 2026-11-05T08:42:03+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access. ماذا: The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country.. متى: 2026-11-05T08:42:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html"
+    ]
+  },
+  {
+    "id": "a665869d02d25a6a4a99d5d3",
+    "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+    "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+    "published": "2026-11-05T07:06:33+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution. What: Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.. When: 2026-11-05T07:06:33+00:00. How: The earlier fix is the 2.90 Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution Action: See Arabic action below.",
+    "summary_ar": "من: Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution. ماذا: Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.. متى: 2026-11-05T07:06:33+00:00. كيف: The earlier fix is the 2.90 Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html"
+    ]
+  },
+  {
+    "id": "f3ef8a4b5dc168c1e6e28887",
+    "title": "How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders",
+    "link": "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/",
+    "published": "2026-11-05T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders. What: How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders. When: 2026-11-05T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders. ماذا: How Adversaries Are Turning the Vulnerability Ecosystem Against Defenders. متى: 2026-11-05T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/adversaries-turn-vulnerability-ecosystem-against-defenders/"
+    ]
+  },
+  {
     "id": "2a5b7d5a686a585dee3d6eaf",
     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
     "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
@@ -71,24 +978,6 @@
     "image": "",
     "sources": [
       "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/"
-    ]
-  },
-  {
-    "id": "25c3eda20cfedcbc9b6b0c09",
-    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-    "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-    "published": "2026-11-05T04:31:16+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.. What: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run. When: 2026-11-05T04:31:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.. ماذا: OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run. متى: 2026-11-05T04:31:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
     ]
   },
   {
@@ -2354,8 +3243,8 @@
     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
     "published": "2026-11-03T02:24:31+00:00",
     "source": "krebsonsecurity.com",
-    "summary_en": "Who: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. What: In October 2026, Oxylabs was relaunched under a new brand called Source , after receiving $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. When: 2026-11-03T02:24:31+00:00. How: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects. Action: See Arabic action below.",
-    "summary_ar": "من: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. ماذا: In October 2026, Oxylabs was relaunched under a new brand called Source , after receiving $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. متى: 2026-11-03T02:24:31+00:00. كيف: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. What: In October 2026, Oxylabs and Honeygain were reorganized as independent platforms under an umbrella entity called Source , which received $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. When: 2026-11-03T02:24:31+00:00. How: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects. Action: See Arabic action below.",
+    "summary_ar": "من: Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and conducts advertising fraud.. ماذا: In October 2026, Oxylabs and Honeygain were reorganized as independent platforms under an umbrella entity called Source , which received $130 million in funding from private equity firm Warburg Pincus that reportedly valued the business at $3.6 billion.. متى: 2026-11-03T02:24:31+00:00. كيف: As detailed in several stories here over the past year , residential proxy services are a major source of unwanted and often malicious traffic, including account takeover activity, advertising fraud, and mass content scraping for AI projects.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
@@ -116353,24 +117242,6 @@
     ]
   },
   {
-    "id": "e51abac5af17faa1a3911de8",
-    "title": "How to try the new Siri AI - join the waitlist today",
-    "link": "https://www.zdnet.com/article/how-to-get-siri-ai-early-join-the-waitlist-today/",
-    "published": "2026-06-10T18:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Here's how to join the waitlist and try Apple's next-gen assistant early.. What: How to try the new Siri AI - join the waitlist today. When: 2026-06-10T18:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Here's how to join the waitlist and try Apple's next-gen assistant early.. ماذا: How to try the new Siri AI - join the waitlist today. متى: 2026-06-10T18:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ff991a0798008f31169afe19a445c9a7389fb0f7/2026/06/10/799f2c84-1c41-48ba-8161-472dfbf4c254/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-get-siri-ai-early-join-the-waitlist-today/"
-    ]
-  },
-  {
     "id": "1a5064a6f3beae8da47201f5",
     "title": "The best early Amazon Prime Day deals: I found editor-approved tech already on sale",
     "link": "https://www.zdnet.com/article/best-early-amazon-prime-day-deals-2026/",
@@ -143664,78 +144535,6 @@
     "image": "https://www.zdnet.com/a/img/resize/4e50d62b971d2c2deda6703a9d7873797226458c/2026/05/07/7bb63247-1162-4643-a5f1-a1655b186ea8/1.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/"
-    ]
-  },
-  {
-    "id": "60a7c6fdc027c8568f59f5b6",
-    "title": "JDownloader site hacked to replace installers with Python RAT malware",
-    "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-    "published": "2026-05-09T19:27:58+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: JDownloader site hacked to replace installers with Python RAT malware. What: JDownloader site hacked to replace installers with Python RAT malware. When: 2026-05-09T19:27:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: JDownloader site hacked to replace installers with Python RAT malware. ماذا: JDownloader site hacked to replace installers with Python RAT malware. متى: 2026-05-09T19:27:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/09/jdownloader-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/"
-    ]
-  },
-  {
-    "id": "d5d38f3d7b7aa54fccee4a53",
-    "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-    "published": "2026-05-09T14:26:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users.. What: Fake OpenAI repository on Hugging Face pushes infostealer malware. When: 2026-05-09T14:26:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users.. ماذا: Fake OpenAI repository on Hugging Face pushes infostealer malware. متى: 2026-05-09T14:26:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/hacker_box.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/"
-    ]
-  },
-  {
-    "id": "c2e76f6b64bed5e232e0f986",
-    "title": "Samsung watches can predict if you're about to faint - but there are big caveats",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-watch-faintng-detection-study-caveats/",
-    "published": "2026-05-09T10:00:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung watches can predict if you're about to faint - but there are big caveats. What: Samsung watches can predict if you're about to faint - but there are big caveats. When: 2026-05-09T10:00:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung watches can predict if you're about to faint - but there are big caveats. ماذا: Samsung watches can predict if you're about to faint - but there are big caveats. متى: 2026-05-09T10:00:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3f8e7fcefb9a1771bf031440ff5d512628e72953/2023/08/06/92109beb-2783-47db-81cf-0383b0ebcbe8/samsung-galaxy-watch-6-classic-rotating-bezel.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-watch-faintng-detection-study-caveats/"
-    ]
-  },
-  {
-    "id": "9cfd968e0360238e43015821",
-    "title": "I lost my Roku remotes constantly until I found this simple fix",
-    "link": "https://www.zdnet.com/article/how-to-find-lost-roku-remote/",
-    "published": "2026-05-09T09:00:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I lost my Roku remotes constantly until I found this simple fix. What: I lost my Roku remotes constantly until I found this simple fix. When: 2026-05-09T09:00:43+00:00. How: From simply asking to using the app to secret buttons, there are several ways to find a lost remote. Action: See Arabic action below.",
-    "summary_ar": "من: I lost my Roku remotes constantly until I found this simple fix. ماذا: I lost my Roku remotes constantly until I found this simple fix. متى: 2026-05-09T09:00:43+00:00. كيف: From simply asking to using the app to secret buttons, there are several ways to find a lost remote.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b7765320fcf161d8bd82b7c2fdf6739535da0f66/2022/12/09/5844bdc8-d02c-48c8-bc12-4d9612d76840/roku-remote.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-find-lost-roku-remote/"
     ]
   }
 ]
