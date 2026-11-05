@@ -36,6 +36,78 @@
     ]
   },
   {
+    "id": "bc594cd9fbf90549030c9440",
+    "title": "Hackers exploited iOS and Android flaws to infect phones",
+    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+    "published": "2026-11-04T22:26:49+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of American independence, researchers said Wednesday.. What: Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of American independence, researchers said Wednesday.. When: 2026-11-04T22:26:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of American independence, researchers said Wednesday.. ماذا: Hackers possibly linked to the Kremlin exploited previously patched iOS and Android flaws in an attempt to hack visitors of multiple websites, including one celebrating the 250th anniversary of American independence, researchers said Wednesday.. متى: 2026-11-04T22:26:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+    ]
+  },
+  {
+    "id": "bf3dcb66945ff7851e87f769",
+    "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
+    "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
+    "published": "2026-11-04T21:49:38+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday.. What: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday.. When: 2026-11-04T21:49:38+00:00. How: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday. Action: See Arabic action below.",
+    "summary_ar": "من: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday.. ماذا: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday.. متى: 2026-11-04T21:49:38+00:00. كيف: If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud share links in version 27.3 of iOS, iPadOS, macOS, and visionOS on a support page published on Tuesday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5307696.jpg?imageId=5307696&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681"
+    ]
+  },
+  {
+    "id": "1b4641ca37283c440ea45067",
+    "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+    "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+    "published": "2026-11-04T21:48:18+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Critical Rails Bug Threatens to Derail Vulnerable Servers. What: Critical Rails Bug Threatens to Derail Vulnerable Servers. When: 2026-11-04T21:48:18+00:00. How: An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Rails Bug Threatens to Derail Vulnerable Servers. ماذا: Critical Rails Bug Threatens to Derail Vulnerable Servers. متى: 2026-11-04T21:48:18+00:00. كيف: An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers"
+    ]
+  },
+  {
+    "id": "de7887560061326923876253",
+    "title": "Vercel rolls out new protection against stolen session cookie attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+    "published": "2026-11-04T21:31:18+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Vercel rolls out new protection against stolen session cookie attacks. What: Vercel rolls out new protection against stolen session cookie attacks. When: 2026-11-04T21:31:18+00:00. How: Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. Action: See Arabic action below.",
+    "summary_ar": "من: Vercel rolls out new protection against stolen session cookie attacks. ماذا: Vercel rolls out new protection against stolen session cookie attacks. متى: 2026-11-04T21:31:18+00:00. كيف: Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/04/vercel.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/"
+    ]
+  },
+  {
     "id": "0fd87eaf33b4e0853d20340e",
     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
     "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -320,7 +392,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/261844.jpg?imageId=261844&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595"
     ]
@@ -891,24 +963,6 @@
     ]
   },
   {
-    "id": "a4af9871b7ba054bc76daad4",
-    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-    "published": "2026-11-04T06:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. What: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. ماذا: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/"
-    ]
-  },
-  {
     "id": "4be5b1b33e187ea6bb0fc2b0",
     "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
@@ -924,6 +978,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/"
+    ]
+  },
+  {
+    "id": "a4af9871b7ba054bc76daad4",
+    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+    "published": "2026-11-04T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. What: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. ماذا: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/"
     ]
   },
   {
@@ -4703,7 +4775,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfbdba6806da96431/6ae3993ee7e856faec896a9e/Mask-beast01-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools"
     ]
