@@ -36,6 +36,96 @@
     ]
   },
   {
+    "id": "63adad31a1b5f8c448b8cabb",
+    "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+    "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+    "published": "2026-11-06T01:17:40+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Threat actor targets Indian fintechs on weekends when defenders aren’t watching. What: India’s Computer Emergency Response Team has warned the nation’s financial services industry of a “significant escalation” in attacks by what it describes as an “AI-assisted financial threat actor” that has re-targeted victims after they flubbed remediation efforts.. When: 2026-11-06T01:17:40+00:00. How: Even if victims suspect an attack, they have a lot to cope with because CERT-IN says CRAFTY FALCON creates many “functionally identical variants refined in rapid succession; a pattern consistent with AI-generated code and iterative AI-assisted development.” The crew also quickly exploits newly discovered vulnerabilities to keep its attacks fresh. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actor targets Indian fintechs on weekends when defenders aren’t watching. ماذا: India’s Computer Emergency Response Team has warned the nation’s financial services industry of a “significant escalation” in attacks by what it describes as an “AI-assisted financial threat actor” that has re-targeted victims after they flubbed remediation efforts.. متى: 2026-11-06T01:17:40+00:00. كيف: Even if victims suspect an attack, they have a lot to cope with because CERT-IN says CRAFTY FALCON creates many “functionally identical variants refined in rapid succession; a pattern consistent with AI-generated code and iterative AI-assisted development.” The crew also quickly exploits newly discovered vulnerabilities to keep its attacks fresh.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5308010.jpg?imageId=5308010&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000"
+    ]
+  },
+  {
+    "id": "97d7db0e7e4a0b1edcf035f9",
+    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+    "published": "2026-11-06T00:56:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.. What: FBI, CISA warn of cyberattacks targeting refrigeration systems. When: 2026-11-06T00:56:44+00:00. How: The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. Action: See Arabic action below.",
+    "summary_ar": "من: The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.. ماذا: FBI, CISA warn of cyberattacks targeting refrigeration systems. متى: 2026-11-06T00:56:44+00:00. كيف: The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/05/refrigeration-hot.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+    ]
+  },
+  {
+    "id": "9ed3b44bda29df9736cb4442",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "published": "2026-11-05T23:09:36+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Meet *sshole, the vulnerability that lets hackers SSH into Linux devices. What: Meet *sshole, the vulnerability that lets hackers SSH into Linux devices. When: 2026-11-05T23:09:36+00:00. How: Further, OpenSSH using musl (pronounced muscle) must not use PAM (pluggable authentication modules), a framework that handles user authentication and account-access checks. Action: See Arabic action below.",
+    "summary_ar": "من: Meet *sshole, the vulnerability that lets hackers SSH into Linux devices. ماذا: Meet *sshole, the vulnerability that lets hackers SSH into Linux devices. متى: 2026-11-05T23:09:36+00:00. كيف: Further, OpenSSH using musl (pronounced muscle) must not use PAM (pluggable authentication modules), a framework that handles user authentication and account-access checks.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+    ]
+  },
+  {
+    "id": "4cb0518ea7cfe3ddef6692b1",
+    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+    "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+    "published": "2026-11-05T22:37:06+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: In a Thursday advisory, the US FBI, Cybersecurity and Infrastructure Security Agency (CISA), Health and Human Services, and departments of Agriculture and Transportation warned organizations about the ongoing cyber threats facing operators of industrial refrigeration and cold-chain monitoring systems.. What: The Pentagon is also reportedly treating a series of freezer malfunctions that spoiled food at military bases across the US in August as a suspected cyberattack, according to Reuters, which cited four officials familiar with the matter.. When: 2026-11-05T22:37:06+00:00. How: “The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards,” the agencies said. Action: See Arabic action below.",
+    "summary_ar": "من: In a Thursday advisory, the US FBI, Cybersecurity and Infrastructure Security Agency (CISA), Health and Human Services, and departments of Agriculture and Transportation warned organizations about the ongoing cyber threats facing operators of industrial refrigeration and cold-chain monitoring systems.. ماذا: The Pentagon is also reportedly treating a series of freezer malfunctions that spoiled food at military bases across the US in August as a suspected cyberattack, according to Reuters, which cited four officials familiar with the matter.. متى: 2026-11-05T22:37:06+00:00. كيف: “The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating and defrost cycles, which can cause widespread inventory loss and equipment hazards,” the agencies said.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5303687.jpg?imageId=5303687&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978"
+    ]
+  },
+  {
+    "id": "c5d8bcb2d0573a49a5adb571",
+    "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+    "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+    "published": "2026-11-05T21:35:05+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: US Government Email Systems Open to Abuse Thanks to Typos. What: US Government Email Systems Open to Abuse Thanks to Typos. When: 2026-11-05T21:35:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US Government Email Systems Open to Abuse Thanks to Typos. ماذا: US Government Email Systems Open to Abuse Thanks to Typos. متى: 2026-11-05T21:35:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos"
+    ]
+  },
+  {
     "id": "886e9406677fab2131fcdb8e",
     "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
     "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
@@ -210,7 +300,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/227153.jpg?imageId=227153&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
     ]
@@ -300,7 +390,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/262189.jpg?imageId=262189&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855"
     ]
@@ -427,7 +517,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5307708.jpg?imageId=5307708&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704"
     ]
@@ -553,7 +643,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5307922.jpg?imageId=5307922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684"
     ]
@@ -625,7 +715,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/1684482.jpg?imageId=1684482&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796"
     ]
@@ -144517,24 +144607,6 @@
     "image": "https://www.zdnet.com/a/img/resize/46249ebb29b021205f86039a3b894023d80354e1/2026/05/08/2cc611a8-41f6-498b-a453-7710a0f0cce4/untitled-design-2026-05-08t144259-818.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/how-to-get-microsoft-365-free/"
-    ]
-  },
-  {
-    "id": "f127c6c2e1b161903ab2c424",
-    "title": "My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi",
-    "link": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
-    "published": "2026-05-10T01:00:55+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi. What: My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi. When: 2026-05-10T01:00:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi. ماذا: My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi. متى: 2026-05-10T01:00:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4e50d62b971d2c2deda6703a9d7873797226458c/2026/05/07/7bb63247-1162-4643-a5f1-a1655b186ea8/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/"
     ]
   }
 ]
