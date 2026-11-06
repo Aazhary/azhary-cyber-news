@@ -36,6 +36,98 @@
     ]
   },
   {
+    "id": "dc955d2a85c483583da2de59",
+    "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
+    "link": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
+    "published": "2026-11-06T06:31:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: He escalated his protests, telling his boss that indulging this doctor was unprofessional, likely exposed the hospital to lawsuits, wasted IT department resources, and was just wrong.. What: \"Get this thing going and deliver it to Doctor Pervert,\" Mason's boss ordered.. When: 2026-11-06T06:31:00+00:00. How: During the cleanup, Mason's colleagues found logs that showed the doctor's PC was the source of the infection, and that he had been indulging in his online hobby at the time the worm arrived. Action: See Arabic action below.",
+    "summary_ar": "من: He escalated his protests, telling his boss that indulging this doctor was unprofessional, likely exposed the hospital to lawsuits, wasted IT department resources, and was just wrong.. ماذا: \"Get this thing going and deliver it to Doctor Pervert,\" Mason's boss ordered.. متى: 2026-11-06T06:31:00+00:00. كيف: During the cleanup, Mason's colleagues found logs that showed the doctor's PC was the source of the infection, and that he had been indulging in his online hobby at the time the worm arrived.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/222391.jpg?imageId=222391&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750"
+    ]
+  },
+  {
+    "id": "ed60ea7fa41262b4be8e64f1",
+    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+    "published": "2026-11-06T05:58:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs. What: Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs. When: 2026-11-06T05:58:54+00:00. How: The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs. ماذا: Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs. متى: 2026-11-06T05:58:54+00:00. كيف: The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
+    ]
+  },
+  {
+    "id": "a382c3d13c65e93110c39b89",
+    "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+    "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+    "published": "2026-11-06T05:39:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.. What: The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.. When: 2026-11-06T05:39:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.. ماذا: The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.. متى: 2026-11-06T05:39:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-116606"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html"
+    ]
+  },
+  {
+    "id": "4720393fd82f906b9ab37585",
+    "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
+    "link": "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+    "published": "2026-11-06T04:25:14+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Nation-state actors and criminals likely exploited the PHP2SHELL vulnerability before its disclosure, according to Cloudflare CEO Matthew Prince.. What: Nation-state actors and criminals likely exploited the PHP2SHELL vulnerability before its disclosure, according to Cloudflare CEO Matthew Prince.. When: 2026-11-06T04:25:14+00:00. How: “We're going back through our logs looking for any evidence that hackers or nation-state actors or others had been using them in the past. Action: See Arabic action below.",
+    "summary_ar": "من: Nation-state actors and criminals likely exploited the PHP2SHELL vulnerability before its disclosure, according to Cloudflare CEO Matthew Prince.. ماذا: Nation-state actors and criminals likely exploited the PHP2SHELL vulnerability before its disclosure, according to Cloudflare CEO Matthew Prince.. متى: 2026-11-06T04:25:14+00:00. كيف: “We're going back through our logs looking for any evidence that hackers or nation-state actors or others had been using them in the past.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/239494.jpg?imageId=239494&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022"
+    ]
+  },
+  {
+    "id": "5d7c1511e0dda8d0429213b6",
+    "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+    "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+    "published": "2026-11-06T03:03:29+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million. What: 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million. When: 2026-11-06T03:03:29+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million. ماذا: 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million. متى: 2026-11-06T03:03:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/"
+    ]
+  },
+  {
     "id": "63adad31a1b5f8c448b8cabb",
     "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
     "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
@@ -144589,24 +144681,6 @@
     "image": "https://www.zdnet.com/a/img/resize/0859e0e9963b52a236f75a41034b1c6a9897314c/2026/05/06/003c0960-1797-412d-ac64-07b2ee5700fc/85.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/netflix-codes-how-to-find-hidden-movies-free/"
-    ]
-  },
-  {
-    "id": "dfebce967ac1154195e3b4b5",
-    "title": "Yes, you can get Microsoft 365 free - here's how",
-    "link": "https://www.zdnet.com/article/how-to-get-microsoft-365-free/",
-    "published": "2026-05-10T08:00:36+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.. What: Yes, you can get Microsoft 365 free - here's how. When: 2026-05-10T08:00:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.. ماذا: Yes, you can get Microsoft 365 free - here's how. متى: 2026-05-10T08:00:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/46249ebb29b021205f86039a3b894023d80354e1/2026/05/08/2cc611a8-41f6-498b-a453-7710a0f0cce4/untitled-design-2026-05-08t144259-818.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-get-microsoft-365-free/"
     ]
   }
 ]
