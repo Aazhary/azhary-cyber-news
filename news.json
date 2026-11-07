@@ -36,6 +36,80 @@
     ]
   },
   {
+    "id": "130145bcfb89b24c0d87af1b",
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+    "published": "2026-11-07T11:00:34+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: British soldier ignored order to pull his SIM card, then got blackmailed. What: Eventually, Barton-Kennedy was court-martialed for disobeying a lawful command, pled guilty, was reduced in rank, and ordered to serve 10 months in detention.. When: 2026-11-07T11:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: British soldier ignored order to pull his SIM card, then got blackmailed. ماذا: Eventually, Barton-Kennedy was court-martialed for disobeying a lawful command, pled guilty, was reduced in rank, and ordered to serve 10 months in detention.. متى: 2026-11-07T11:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+    ]
+  },
+  {
+    "id": "d155a865c64c4002cc1b6ab4",
+    "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+    "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+    "published": "2026-11-07T10:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: NHS breach helpline left staff carrying a 'significant emotional burden'. What: The report [PDF] comes almost exactly a year after the Royal Cornwall Hospitals NHS Trust disclosed a data breach affecting 8,003 people, including current and former trust staff and non-trust workers.. When: 2026-11-07T10:30:00+00:00. How: An Excel workbook published in response to a Freedom of Information request in February 2023 retained underlying sickness absence records that users could reveal through its pivot tables. Action: See Arabic action below.",
+    "summary_ar": "من: NHS breach helpline left staff carrying a 'significant emotional burden'. ماذا: The report [PDF] comes almost exactly a year after the Royal Cornwall Hospitals NHS Trust disclosed a data breach affecting 8,003 people, including current and former trust staff and non-trust workers.. متى: 2026-11-07T10:30:00+00:00. كيف: An Excel workbook published in response to a Freedom of Information request in February 2023 retained underlying sickness absence records that users could reveal through its pivot tables.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5240357.jpg?imageId=5240357&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201"
+    ]
+  },
+  {
+    "id": "986edfc864db12c69169ad76",
+    "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+    "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+    "published": "2026-11-07T10:16:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins. What: The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .. When: 2026-11-07T10:16:23+00:00. How: CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. Action: See Arabic action below.",
+    "summary_ar": "من: SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins. ماذا: The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .. متى: 2026-11-07T10:16:23+00:00. كيف: CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-19868"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/SonicWall.jpg",
+    "sources": [
+      "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+    ]
+  },
+  {
+    "id": "804a43c3361e780767d4dc23",
+    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "published": "2026-11-07T06:44:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.. What: Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub. When: 2026-11-07T06:44:17+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.. ماذا: Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub. متى: 2026-11-07T06:44:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+    ]
+  },
+  {
     "id": "ca1a9396bb6596eafd419884",
     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -144796,513 +144870,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/d71ab0de-43ec-40ef-8dae-5ab5151c7241.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/fake-claude-code-installer/"
-    ]
-  },
-  {
-    "id": "abd7c8b8541dbf971c9b379a",
-    "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-    "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-    "published": "2026-05-11T13:53:56+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Why Changing Passwords Doesn’t End an Active Directory Breach. What: Why Changing Passwords Doesn’t End an Active Directory Breach. When: 2026-05-11T13:53:56+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Changing Passwords Doesn’t End an Active Directory Breach. ماذا: Why Changing Passwords Doesn’t End an Active Directory Breach. متى: 2026-05-11T13:53:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/05/04/why-changing-passwords-doesnt-end-an-active-directory-breach.png",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/"
-    ]
-  },
-  {
-    "id": "b0e0982724f3fa03507097c3",
-    "title": "I automated my home's most unexpected electronics - here are 5 ingenious results",
-    "link": "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/",
-    "published": "2026-05-11T13:30:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I automated my home's most unexpected electronics - here are 5 ingenious results. What: I automated my home's most unexpected electronics - here are 5 ingenious results. When: 2026-05-11T13:30:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I automated my home's most unexpected electronics - here are 5 ingenious results. ماذا: I automated my home's most unexpected electronics - here are 5 ingenious results. متى: 2026-05-11T13:30:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/8c89dcd1f9cbd0a11bb1639cd58efa1c7462208f/2024/12/05/45e6a9cf-e49e-492b-ac93-03c671707c67/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-home-objects-appliances-to-automate/"
-    ]
-  },
-  {
-    "id": "ae1e63aa9226b7a7cdfde03a",
-    "title": "I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life",
-    "link": "https://www.zdnet.com/article/how-i-jailbroke-my-old-kindle-2026/",
-    "published": "2026-05-11T13:24:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life. What: I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life. When: 2026-05-11T13:24:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life. ماذا: I jailbroke my old Kindle to install KOReader - but there's a better way to extend its life. متى: 2026-05-11T13:24:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/481c9b4cbe70cc4a7d2194da2a82b84dc2201fa8/2026/05/08/fc272452-e501-47b9-8197-bfb7df4cb2e4/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-i-jailbroke-my-old-kindle-2026/"
-    ]
-  },
-  {
-    "id": "96291d08d2cbcda0676863db",
-    "title": "Google Detects First AI-Generated Zero-Day Exploit",
-    "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
-    "published": "2026-05-11T13:04:21+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek .. What: Google Detects First AI-Generated Zero-Day Exploit. When: 2026-05-11T13:04:21+00:00. How: The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group. Action: See Arabic action below.",
-    "summary_ar": "من: The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek .. ماذا: Google Detects First AI-Generated Zero-Day Exploit. متى: 2026-05-11T13:04:21+00:00. كيف: The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/10/Zero-Day-Exploit.jpg",
-    "sources": [
-      "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/"
-    ]
-  },
-  {
-    "id": "a8a4df0e71a438b6d05e50f7",
-    "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-    "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-    "published": "2026-05-11T13:02:30+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI.. What: Google: Hackers used AI to develop zero-day exploit for web admin tool. When: 2026-05-11T13:02:30+00:00. How: Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. Action: See Arabic action below.",
-    "summary_ar": "من: Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI.. ماذا: Google: Hackers used AI to develop zero-day exploit for web admin tool. متى: 2026-05-11T13:02:30+00:00. كيف: Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/11/ai.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/"
-    ]
-  },
-  {
-    "id": "42c404c67153cf36a7945b58",
-    "title": "Hackers Observed Using AI to Develop Zero-Day for the First Time",
-    "link": "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/",
-    "published": "2026-05-11T13:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source software Hackers Observed Using AI to Develop Zero-Day for the First Time. What: Hackers Observed Using AI to Develop Zero-Day for the First Time. When: 2026-05-11T13:00:00+00:00. How: Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source software Hackers Observed Using AI to Develop Zero-Day for the First Time Action: See Arabic action below.",
-    "summary_ar": "من: Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source software Hackers Observed Using AI to Develop Zero-Day for the First Time. ماذا: Hackers Observed Using AI to Develop Zero-Day for the First Time. متى: 2026-05-11T13:00:00+00:00. كيف: Google Threat Intelligence Group details how cybercriminals attempted to launch a campaign based around an AI-developed Zero-Day targeting open-source software Hackers Observed Using AI to Develop Zero-Day for the First Time. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/f2d4a3c6-feab-4dcf-afad-a24e57d0c112.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/hackers-using-ai-zero-day-first/"
-    ]
-  },
-  {
-    "id": "2aee864b5fd8fa00050e999c",
-    "title": "Hackers Use AI for Exploit Development, Attack Automation",
-    "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-    "published": "2026-05-11T13:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Hackers Use AI for Exploit Development, Attack Automation. What: Hackers Use AI for Exploit Development, Attack Automation. When: 2026-05-11T13:00:00+00:00. How: Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Use AI for Exploit Development, Attack Automation. ماذا: Hackers Use AI for Exploit Development, Attack Automation. متى: 2026-05-11T13:00:00+00:00. كيف: Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation"
-    ]
-  },
-  {
-    "id": "3ad458cc0ea281702e95f867",
-    "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-    "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-    "published": "2026-05-11T12:36:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More. What: ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More. When: 2026-05-11T12:36:00+00:00. How: Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. Action: See Arabic action below.",
-    "summary_ar": "من: ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More. ماذا: ⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More. متى: 2026-05-11T12:36:00+00:00. كيف: Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html"
-    ]
-  },
-  {
-    "id": "b4f6ef12106695c6c984f626",
-    "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-    "published": "2026-05-11T12:30:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Webinar this week: Prevention alone is not enough against modern attacks. What: Webinar this week: Prevention alone is not enough against modern attacks. When: 2026-05-11T12:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Webinar this week: Prevention alone is not enough against modern attacks. ماذا: Webinar this week: Prevention alone is not enough against modern attacks. متى: 2026-05-11T12:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/27/datacenter-under-attack.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/"
-    ]
-  },
-  {
-    "id": "b36213e8bc9986dcc4665117",
-    "title": "Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged",
-    "link": "https://www.theregister.com/devops/2026/05/11/checkmarx-tackles-another-teampcp-intrusion-as-jenkins-plugin-sabotaged/5237780",
-    "published": "2026-05-11T12:11:21+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The crew behind the early supply chain attack affecting Checkmarx in April, TeamPCP, defaced the company’s GitHub and published six packages, each with a description alluding to the Shai-Hulud wormable malware.. What: Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged. When: 2026-05-11T12:11:21+00:00. How: It updated customers on Saturday, May 9, after discovering a version of its AST Scanner, which is used for security scans in Jenkins CI pipelines, was made available via the Jenkins Marketplace. Action: See Arabic action below.",
-    "summary_ar": "من: The crew behind the early supply chain attack affecting Checkmarx in April, TeamPCP, defaced the company’s GitHub and published six packages, each with a description alluding to the Shai-Hulud wormable malware.. ماذا: Checkmarx tackles another TeamPCP intrusion as Jenkins plugin sabotaged. متى: 2026-05-11T12:11:21+00:00. كيف: It updated customers on Saturday, May 9, after discovering a version of its AST Scanner, which is used for security scans in Jenkins CI pipelines, was made available via the Jenkins Marketplace.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5237931.jpg?imageId=5237931&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/devops/2026/05/11/checkmarx-tackles-another-teampcp-intrusion-as-jenkins-plugin-sabotaged/5237780"
-    ]
-  },
-  {
-    "id": "d1d9dec828c721eebea97da3",
-    "title": "Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick",
-    "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
-    "published": "2026-05-11T12:00:36+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick. What: Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick. When: 2026-05-11T12:00:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick. ماذا: Samsung Galaxy Z Flip 7 vs. Motorola Razr Ultra: I've used both, and this phone is my pick. متى: 2026-05-11T12:00:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ff557d3676f57d258e7f4e96e7e59e40166524b2/2026/04/28/84d77ff1-8d3f-43e9-be51-7458919d5a65/galaxy-z-flip-7-vs-2026-razr-ultra-comparison-hero-image-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/"
-    ]
-  },
-  {
-    "id": "0e359ee6ab871ac2237a0c83",
-    "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
-    "published": "2026-05-11T12:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Cyber Espionage Group Targets Aviation Firms to Steal Map Data. What: Cyber Espionage Group Targets Aviation Firms to Steal Map Data. When: 2026-05-11T12:00:00+00:00. How: Cyber Espionage Group Targets Aviation Firms to Steal Map Data Action: See Arabic action below.",
-    "summary_ar": "من: Cyber Espionage Group Targets Aviation Firms to Steal Map Data. ماذا: Cyber Espionage Group Targets Aviation Firms to Steal Map Data. متى: 2026-05-11T12:00:00+00:00. كيف: Cyber Espionage Group Targets Aviation Firms to Steal Map Data. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcdb68c050b92d44f/69fe24d5757b4d3f64b57d8a/drone-mapping-system-DC_Studio-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data"
-    ]
-  },
-  {
-    "id": "84d9d3c16d509716cf22eed0",
-    "title": "Skoda Data Breach Hits Online Shop Customers",
-    "link": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
-    "published": "2026-05-11T11:54:27+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Skoda Data Breach Hits Online Shop Customers. What: Skoda Data Breach Hits Online Shop Customers. When: 2026-05-11T11:54:27+00:00. How: Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers. Action: See Arabic action below.",
-    "summary_ar": "من: Skoda Data Breach Hits Online Shop Customers. ماذا: Skoda Data Breach Hits Online Shop Customers. متى: 2026-05-11T11:54:27+00:00. كيف: Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/cars.jpeg",
-    "sources": [
-      "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/"
-    ]
-  },
-  {
-    "id": "e263f1884dc8b1006bea3f80",
-    "title": "Windows rivals to MacBook Neo are here - but I'm more excited for Google's response",
-    "link": "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-google-chromebook-response/",
-    "published": "2026-05-11T11:30:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: But Google's computing line could have a leg up.. What: Windows rivals to MacBook Neo are here - but I'm more excited for Google's response. When: 2026-05-11T11:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: But Google's computing line could have a leg up.. ماذا: Windows rivals to MacBook Neo are here - but I'm more excited for Google's response. متى: 2026-05-11T11:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c1c0758f61817069d8ac473042021f8e44956d71/2026/03/04/9fb921f4-3a31-4f88-9b9b-45625774df77/dsc09761.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/windows-rivals-to-macbook-neo-google-chromebook-response/"
-    ]
-  },
-  {
-    "id": "bd4b69338e564d2de3c5eee2",
-    "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-    "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-    "published": "2026-05-11T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room. What: Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room. When: 2026-05-11T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room. ماذا: Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room. متى: 2026-05-11T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html"
-    ]
-  },
-  {
-    "id": "8c569456085580df0e1a2049",
-    "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
-    "link": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
-    "published": "2026-05-11T11:25:02+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring appeared first on SecurityWeek .. What: Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring. When: 2026-05-11T11:25:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring appeared first on SecurityWeek .. ماذا: Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring. متى: 2026-05-11T11:25:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity-Layoffs.jpg",
-    "sources": [
-      "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/"
-    ]
-  },
-  {
-    "id": "27c1b848c117afd98bc73681",
-    "title": "US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates",
-    "link": "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/",
-    "published": "2026-05-11T11:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates. What: US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates. When: 2026-05-11T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates. ماذا: US: FCC Relaxes Foreign-Made Router Ban to Allow for Security Updates. متى: 2026-05-11T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a7394d0b-6a29-4081-8570-e134ed699745.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/us-fcc-relaxes-foreign-router-ban/"
-    ]
-  },
-  {
-    "id": "e5b1250b8f15575fe48f8707",
-    "title": "SailPoint Discloses GitHub Repository Hack",
-    "link": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
-    "published": "2026-05-11T10:52:23+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post SailPoint Discloses GitHub Repository Hack appeared first on SecurityWeek .. What: SailPoint Discloses GitHub Repository Hack. When: 2026-05-11T10:52:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post SailPoint Discloses GitHub Repository Hack appeared first on SecurityWeek .. ماذا: SailPoint Discloses GitHub Repository Hack. متى: 2026-05-11T10:52:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg",
-    "sources": [
-      "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/"
-    ]
-  },
-  {
-    "id": "2b32d553785beb388c2efd41",
-    "title": "Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best",
-    "link": "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/",
-    "published": "2026-05-11T10:49:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Taking on Whoop, Google has unveiled the Fitbit Air.. What: Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best. When: 2026-05-11T10:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Taking on Whoop, Google has unveiled the Fitbit Air.. ماذا: Fitbit Air vs. Whoop: I compared Google's screenless fitness tracker to the industry best. متى: 2026-05-11T10:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/2ca53cb515ddcb2e83a0cf9ca7dc0ed2a35486bc/2026/05/05/a7b927a7-57c1-41b2-899e-9a7f7ae729a6/comparison-image-template.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/whoop-vs-fitbit-air-google/"
-    ]
-  },
-  {
-    "id": "ffa2113439743e337fec0cec",
-    "title": "ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign",
-    "link": "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/",
-    "published": "2026-05-11T10:05:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign. What: ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign. When: 2026-05-11T10:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign. ماذا: ShinyHunters Escalates Canvas Extortion with School by School Ransom Campaign. متى: 2026-05-11T10:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/ebb34ece-f135-4339-862c-fe80a6e1de00.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/shinyhunters-escalates-canvas/"
-    ]
-  },
-  {
-    "id": "ba87463f84a2ba07c8b4a8d5",
-    "title": "How I tweaked my Sonos speakers to upgrade their audio performance - easy and free",
-    "link": "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/",
-    "published": "2026-05-11T10:00:37+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I tweaked my Sonos speakers to upgrade their audio performance - easy and free. What: How I tweaked my Sonos speakers to upgrade their audio performance - easy and free. When: 2026-05-11T10:00:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I tweaked my Sonos speakers to upgrade their audio performance - easy and free. ماذا: How I tweaked my Sonos speakers to upgrade their audio performance - easy and free. متى: 2026-05-11T10:00:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a3b23908cde01ff016a83c9c52a881e4d15f4aae/2023/04/03/ffce231a-d3eb-442a-8a2e-615a155c1ab6/sonos2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/"
-    ]
-  },
-  {
-    "id": "5b75b7f11ebb738374af0fe5",
-    "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-    "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-    "published": "2026-05-11T09:03:02+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: TrickMo Android banker adopts TON blockchain for covert comms. What: TrickMo Android banker adopts TON blockchain for covert comms. When: 2026-05-11T09:03:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: TrickMo Android banker adopts TON blockchain for covert comms. ماذا: TrickMo Android banker adopts TON blockchain for covert comms. متى: 2026-05-11T09:03:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/"
-    ]
-  },
-  {
-    "id": "1a68565df02f381dc5e86e74",
-    "title": "Zara Data Breach Impacts Nearly 200,000 Customers",
-    "link": "https://www.infosecurity-magazine.com/news/zara-data-breach-impacts-200000/",
-    "published": "2026-05-11T09:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Zara Data Breach Impacts Nearly 200,000 Customers. What: Zara Data Breach Impacts Nearly 200,000 Customers. When: 2026-05-11T09:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Zara Data Breach Impacts Nearly 200,000 Customers. ماذا: Zara Data Breach Impacts Nearly 200,000 Customers. متى: 2026-05-11T09:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/325b36df-4cdb-4196-a6ba-d1753f8ef909.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/zara-data-breach-impacts-200000/"
-    ]
-  },
-  {
-    "id": "d16d791ca061237ab9c1a64c",
-    "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-    "link": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-    "published": "2026-05-11T08:35:13+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools. What: Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools. When: 2026-05-11T08:35:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools. ماذا: Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools. متى: 2026-05-11T08:35:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/university.jpg",
-    "sources": [
-      "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/"
-    ]
-  },
-  {
-    "id": "31a3470bdc9ff150c31f2cd6",
-    "title": "Taiwan's train cyber-trauma reveals a global system that's coming off the tracks",
-    "link": "https://www.theregister.com/security/2026/05/11/taiwans-train-cyber-trauma-reveals-a-global-system-thats-coming-off-the-tracks/5237248",
-    "published": "2026-05-11T08:30:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Also, thieves are notably indifferent to laws.. What: The information released by the Taiwanese authorities is scant on details, but enough to be pretty sure what actually happened.. When: 2026-05-11T08:30:00+00:00. How: It got even worse when that attacker turned out not to be the implacable and hyper-resourced state actor over the Taiwan Strait, but a university student with a yen for radio and some kit he bought online. Action: See Arabic action below.",
-    "summary_ar": "من: Also, thieves are notably indifferent to laws.. ماذا: The information released by the Taiwanese authorities is scant on details, but enough to be pretty sure what actually happened.. متى: 2026-05-11T08:30:00+00:00. كيف: It got even worse when that attacker turned out not to be the implacable and hyper-resourced state actor over the Taiwan Strait, but a university student with a yen for radio and some kit he bought online.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5237307.jpg?imageId=5237307&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/11/taiwans-train-cyber-trauma-reveals-a-global-system-thats-coming-off-the-tracks/5237248"
-    ]
-  },
-  {
-    "id": "fd3abbaea53076e594ca4ab0",
-    "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-    "link": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-    "published": "2026-05-11T08:15:28+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks. What: Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released.. When: 2026-05-11T08:15:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks. ماذا: Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released.. متى: 2026-05-11T08:15:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-43284",
-      "CVE-2026-43500"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Linux.jpeg",
-    "sources": [
-      "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/"
-    ]
-  },
-  {
-    "id": "046b9cfb116a090c9237a504",
-    "title": "Police Shut Relaunched Crimenetwork Dark Web Marketplace",
-    "link": "https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/",
-    "published": "2026-05-11T08:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Police Shut Relaunched Crimenetwork Dark Web Marketplace. What: Police Shut Relaunched Crimenetwork Dark Web Marketplace. When: 2026-05-11T08:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Police Shut Relaunched Crimenetwork Dark Web Marketplace. ماذا: Police Shut Relaunched Crimenetwork Dark Web Marketplace. متى: 2026-05-11T08:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/a03efe17-3479-46e1-bcaf-5c1d44b2373c.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/police-shut-crimenetwork-may-2025/"
-    ]
-  },
-  {
-    "id": "08a57c9b8fe80ce3c7816f67",
-    "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
-    "link": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
-    "published": "2026-05-11T07:25:12+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested. What: Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested. When: 2026-05-11T07:25:12+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested. ماذا: Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested. متى: 2026-05-11T07:25:12+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/12/dark-web-marketplace.png",
-    "sources": [
-      "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/"
     ]
   }
 ]
