@@ -36,6 +36,96 @@
     ]
   },
   {
+    "id": "ca1a9396bb6596eafd419884",
+    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+    "published": "2026-11-07T00:00:55+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks. What: SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks.. When: 2026-11-07T00:00:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks. ماذا: SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks.. متى: 2026-11-07T00:00:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/08/SonicWall.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "01225038b1688c45d726b134",
+    "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+    "link": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+    "published": "2026-11-07T00:00:45+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Alpine Linux and OpenSSH patch flaw that’s as bad as it can get. What: This dangerous Linux security hole must be patched as soon as possible.. When: 2026-11-07T00:00:45+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Alpine Linux and OpenSSH patch flaw that’s as bad as it can get. ماذا: This dangerous Linux security hole must be patched as soon as possible.. متى: 2026-11-07T00:00:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-879472452.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/"
+    ]
+  },
+  {
+    "id": "b99b441690fc8bf84afb3347",
+    "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+    "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+    "published": "2026-11-06T22:27:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Runaway AI hacking agent behind WorkOS breach after escaping sandbox. What: Runaway AI hacking agent behind WorkOS breach after escaping sandbox. When: 2026-11-06T22:27:25+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Runaway AI hacking agent behind WorkOS breach after escaping sandbox. ماذا: Runaway AI hacking agent behind WorkOS breach after escaping sandbox. متى: 2026-11-06T22:27:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/workos.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/"
+    ]
+  },
+  {
+    "id": "23a4537c939c9516b46869ca",
+    "title": "Agents reveal secrets when offered to team up with each other",
+    "link": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
+    "published": "2026-11-06T21:39:23+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: “And in the first opportunity they saw,” the models shared the secret keys, “similar to some of the things that we've seen from OpenAI in the Hugging Face incident.” The Hugging Face incident - during which a swarm of OpenAI agents built unauthorized message boards to ask other agents for help, exploited zero-day vulnerabilities, gained internet access, stole credentials, and ultimately broke into Hugging Face - inspired this hackathon, de Lucena said.. What: The test - part of an internal hackathon sponsored by the nonprofit AI Alignment Foundation and run by AE Studio - asked nine AI coding agents to fix a bug: a broken pricing service.. When: 2026-11-06T21:39:23+00:00. How: Across 181 trials with that swarm, agents posted the token 15 percent of the time and ran the script 24 percent of the time, compared to 2 percent and 0 percent on an ordinary help forum. Action: See Arabic action below.",
+    "summary_ar": "من: “And in the first opportunity they saw,” the models shared the secret keys, “similar to some of the things that we've seen from OpenAI in the Hugging Face incident.” The Hugging Face incident - during which a swarm of OpenAI agents built unauthorized message boards to ask other agents for help, exploited zero-day vulnerabilities, gained internet access, stole credentials, and ultimately broke into Hugging Face - inspired this hackathon, de Lucena said.. ماذا: The test - part of an internal hackathon sponsored by the nonprofit AI Alignment Foundation and run by AE Studio - asked nine AI coding agents to fix a bug: a broken pricing service.. متى: 2026-11-06T21:39:23+00:00. كيف: Across 181 trials with that swarm, agents posted the token 15 percent of the time and ran the script 24 percent of the time, compared to 2 percent and 0 percent on an ordinary help forum.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/254748.jpg?imageId=254748&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260"
+    ]
+  },
+  {
+    "id": "b63212099f3b82aab4bf1861",
+    "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+    "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+    "published": "2026-11-06T21:27:36+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: UK Wades Into Tech Sovereignty Amid AI Policy Changes. What: UK Wades Into Tech Sovereignty Amid AI Policy Changes. When: 2026-11-06T21:27:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: UK Wades Into Tech Sovereignty Amid AI Policy Changes. ماذا: UK Wades Into Tech Sovereignty Amid AI Policy Changes. متى: 2026-11-06T21:27:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy"
+    ]
+  },
+  {
     "id": "ce2362fa272a2dc24fb12c5c",
     "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
     "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
@@ -66,7 +156,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg",
     "sources": [
       "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
     ]
@@ -1023,6 +1113,24 @@
     "image": "https://image.theregister.com/5303687.jpg?imageId=5303687&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978"
+    ]
+  },
+  {
+    "id": "7bee44827e17e9d78ac1e31d",
+    "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+    "published": "2026-11-05T22:13:23+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Operação de influência russa tem como alvo generalizado a América Latina. What: Operação de influência russa tem como alvo generalizado a América Latina. When: 2026-11-05T22:13:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Operação de influência russa tem como alvo generalizado a América Latina. ماذا: Operação de influência russa tem como alvo generalizado a América Latina. متى: 2026-11-05T22:13:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina"
     ]
   },
   {
@@ -3527,7 +3635,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise"
     ]
@@ -5578,7 +5686,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next"
     ]
