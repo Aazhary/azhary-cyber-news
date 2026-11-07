@@ -36,6 +36,42 @@
     ]
   },
   {
+    "id": "ded94754be202b299b594e98",
+    "title": "Hackers pull off $133 million French bank heist via service provider",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+    "published": "2026-11-07T15:25:35+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers pull off $133 million French bank heist via service provider. What: Hackers pull off $133 million French bank heist via service provider. When: 2026-11-07T15:25:35+00:00. How: French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...] Hackers pull off $133 million French bank heist via service provider Action: See Arabic action below.",
+    "summary_ar": "من: Hackers pull off $133 million French bank heist via service provider. ماذا: Hackers pull off $133 million French bank heist via service provider. متى: 2026-11-07T15:25:35+00:00. كيف: French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...] Hackers pull off $133 million French bank heist via service provider. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/financial-theft.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/"
+    ]
+  },
+  {
+    "id": "5a765cf499c2e69479ee53af",
+    "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+    "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+    "published": "2026-11-07T14:10:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands. What: CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands. When: 2026-11-07T14:10:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands. ماذا: CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands. متى: 2026-11-07T14:10:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/11/06/ctm360-gift-card-scam.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/"
+    ]
+  },
+  {
     "id": "130145bcfb89b24c0d87af1b",
     "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
     "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
@@ -144526,350 +144562,6 @@
     "sources": [
       "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
       "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "b6f54173009ed076a8d6dea0",
-    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-    "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-    "published": "2026-05-11T17:54:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor. What: A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.. When: 2026-05-11T17:54:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor. ماذا: A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.. متى: 2026-05-11T17:54:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-41940"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html"
-    ]
-  },
-  {
-    "id": "7f488d35a2535e3d7310e5c6",
-    "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
-    "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
-    "published": "2026-05-11T17:17:37+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Frame Security Emerges From Stealth With $50M for Awareness and Training Platform. What: Frame Security Emerges From Stealth With $50M for Awareness and Training Platform. When: 2026-05-11T17:17:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Frame Security Emerges From Stealth With $50M for Awareness and Training Platform. ماذا: Frame Security Emerges From Stealth With $50M for Awareness and Training Platform. متى: 2026-05-11T17:17:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-2.jpeg",
-    "sources": [
-      "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/"
-    ]
-  },
-  {
-    "id": "5d2755e0aa31f8a5d993c8af",
-    "title": "Anthropic’s bug-hunting Mythos was greatest marketing stunt ever, says cURL creator",
-    "link": "https://www.theregister.com/security/2026/05/11/anthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator/5238111",
-    "published": "2026-05-11T16:30:53+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: “These tools and the analyses they have done have triggered somewhere between two and three hundred bugfixes merged in curl through-out the recent 8-10 months or so,” Stenberg said of tools like AISLE, Zeropath, and OpenAI Codex Security that’ve tested cURL code.. What: “The flaw is not going to make anyone grasp for breath.” That said, Mythos did find several other non-security bugs that Stenberg said the team is working on fixing, and he notes that their description and explanation were well done.. When: 2026-05-11T16:30:53+00:00. How: cURL developer Daniel Stenberg has seen Anthropic’s Mythos, a model the AI biz has suggested is too capable at finding security holes to release publicly, scan his popular open source project. Action: See Arabic action below.",
-    "summary_ar": "من: “These tools and the analyses they have done have triggered somewhere between two and three hundred bugfixes merged in curl through-out the recent 8-10 months or so,” Stenberg said of tools like AISLE, Zeropath, and OpenAI Codex Security that’ve tested cURL code.. ماذا: “The flaw is not going to make anyone grasp for breath.” That said, Mythos did find several other non-security bugs that Stenberg said the team is working on fixing, and he notes that their description and explanation were well done.. متى: 2026-05-11T16:30:53+00:00. كيف: cURL developer Daniel Stenberg has seen Anthropic’s Mythos, a model the AI biz has suggested is too capable at finding security holes to release publicly, scan his popular open source project.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5238164.jpg?imageId=5238164&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/11/anthropics-bug-hunting-mythos-was-greatest-marketing-stunt-ever-says-curl-creator/5238111"
-    ]
-  },
-  {
-    "id": "496ac833697d8bf35399df9f",
-    "title": "How to prepare for brutal summer blackouts - and figure out your power needs now",
-    "link": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
-    "published": "2026-05-11T16:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to prepare for brutal summer blackouts - and figure out your power needs now. What: How to prepare for brutal summer blackouts - and figure out your power needs now. When: 2026-05-11T16:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to prepare for brutal summer blackouts - and figure out your power needs now. ماذا: How to prepare for brutal summer blackouts - and figure out your power needs now. متى: 2026-05-11T16:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/77801582665df5b2564ea83b85ac12d530c7b9bb/2025/07/10/ebbf0d96-8951-43d5-a1a3-4f5d1dbc42f9/img-4412.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/"
-    ]
-  },
-  {
-    "id": "ae1e63aa9226b7a7cdfde03a",
-    "title": "I jailbroke my old Kindle, but I found a safer way to add books - for free",
-    "link": "https://www.zdnet.com/article/how-i-jailbroke-my-old-kindle-2026/",
-    "published": "2026-05-11T16:07:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I jailbroke my old Kindle, but I found a safer way to add books - for free. What: I jailbroke my old Kindle, but I found a safer way to add books - for free. When: 2026-05-11T16:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I jailbroke my old Kindle, but I found a safer way to add books - for free. ماذا: I jailbroke my old Kindle, but I found a safer way to add books - for free. متى: 2026-05-11T16:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/81b62eba08c267bec9663d01e1c1b315db23ca8c/2026/05/08/bcb60049-8111-46ab-a028-58dc2651c968/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-i-jailbroke-my-old-kindle-2026/"
-    ]
-  },
-  {
-    "id": "47e72bd39a0ebabe28448d25",
-    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-    "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-    "published": "2026-05-11T15:45:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.. What: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.. When: 2026-05-11T15:45:00+00:00. How: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. Action: See Arabic action below.",
-    "summary_ar": "من: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.. ماذا: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.. متى: 2026-05-11T15:45:00+00:00. كيف: Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s16000/ai-hacker.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html"
-    ]
-  },
-  {
-    "id": "dbc6051855873d0b31e5899f",
-    "title": "I use Sonos Voice Control every day in my home - here are my 5 favorite commands",
-    "link": "https://www.zdnet.com/article/my-favorite-sonos-voice-control-commands/",
-    "published": "2026-05-11T15:37:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I use Sonos Voice Control every day in my home - here are my 5 favorite commands. What: I use Sonos Voice Control every day in my home - here are my 5 favorite commands. When: 2026-05-11T15:37:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I use Sonos Voice Control every day in my home - here are my 5 favorite commands. ماذا: I use Sonos Voice Control every day in my home - here are my 5 favorite commands. متى: 2026-05-11T15:37:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0f98db2760af8c13ebe09dd0393ab2606b3470cb/2025/06/05/0655a72d-a660-4b30-b6a1-729ebee69897/ace-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/my-favorite-sonos-voice-control-commands/"
-    ]
-  },
-  {
-    "id": "4aa76adc5b795b0d76ea86a6",
-    "title": "The patching treadmill: Why traditional application security is no longer enough",
-    "link": "https://www.zdnet.com/article/the-patching-treadmill-why-traditional-application-security-is-no-longer-enough/",
-    "published": "2026-05-11T15:29:53+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The patching treadmill: Why traditional application security is no longer enough. What: Find-and-fix security once made sense, but AI-assisted development, continuous deployment, and exploding vulnerability backlogs are changing the rules.. When: 2026-05-11T15:29:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The patching treadmill: Why traditional application security is no longer enough. ماذا: Find-and-fix security once made sense, but AI-assisted development, continuous deployment, and exploding vulnerability backlogs are changing the rules.. متى: 2026-05-11T15:29:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/fa3796e9df411cb45f72768e2fb46293192c82eb/2026/05/11/26f0a7cf-d9e0-4ff5-9799-f6c7bdd32d02/gettyimages-1345559764.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/the-patching-treadmill-why-traditional-application-security-is-no-longer-enough/"
-    ]
-  },
-  {
-    "id": "461c997313ca8e1acdd8cb79",
-    "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-    "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-    "published": "2026-05-11T15:26:26+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Instructure confirms hackers used Canvas flaw to deface portals. What: Instructure confirms hackers used Canvas flaw to deface portals. When: 2026-05-11T15:26:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Instructure confirms hackers used Canvas flaw to deface portals. ماذا: Instructure confirms hackers used Canvas flaw to deface portals. متى: 2026-05-11T15:26:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/01/instructure-header2.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/"
-    ]
-  },
-  {
-    "id": "12fc3802c33a4810d48dea88",
-    "title": "Beyond the cleanup job: Redefining application security for the modern enterprise",
-    "link": "https://www.zdnet.com/article/beyond-the-cleanup-job-redefining-application-security-for-the-modern-enterprise/",
-    "published": "2026-05-11T15:24:47+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Beyond the cleanup job: Redefining application security for the modern enterprise. What: Beyond the cleanup job: Redefining application security for the modern enterprise. When: 2026-05-11T15:24:47+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Beyond the cleanup job: Redefining application security for the modern enterprise. ماذا: Beyond the cleanup job: Redefining application security for the modern enterprise. متى: 2026-05-11T15:24:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/25c20ee2279907913322ef73bf2ad0fffb568fcb/2026/05/11/78ba7f39-9042-45c3-93e1-415121f8dd98/gettyimages-1133924836.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/beyond-the-cleanup-job-redefining-application-security-for-the-modern-enterprise/"
-    ]
-  },
-  {
-    "id": "105450ee805d7540c260d108",
-    "title": "Stopping bugs before they ship: The shift to preventative security",
-    "link": "https://www.zdnet.com/article/stopping-bugs-before-they-ship-the-shift-to-preventative-security/",
-    "published": "2026-05-11T15:17:07+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Stopping bugs before they ship: The shift to preventative security. What: Stopping bugs before they ship: The shift to preventative security. When: 2026-05-11T15:17:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Stopping bugs before they ship: The shift to preventative security. ماذا: Stopping bugs before they ship: The shift to preventative security. متى: 2026-05-11T15:17:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e99ed092f4e5755c7a505025d2a73d023af7ea5e/2026/05/11/d304b084-1f1c-4fbd-b418-5e6f7ab3eabc/gettyimages-2029917834.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/stopping-bugs-before-they-ship-the-shift-to-preventative-security/"
-    ]
-  },
-  {
-    "id": "5360519dab262f1614ec0ff8",
-    "title": "TrickMo Variant Routes Android Trojan Traffic Through TON",
-    "link": "https://www.infosecurity-magazine.com/news/trickmo-c-ton-network-android/",
-    "published": "2026-05-11T15:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: TrickMo Variant Routes Android Trojan Traffic Through TON. What: TrickMo Variant Routes Android Trojan Traffic Through TON. When: 2026-05-11T15:15:00+00:00. How: ThreatFabric finds new TrickMo Android banking trojan variant routing C2 through The Open Network TrickMo Variant Routes Android Trojan Traffic Through TON Action: See Arabic action below.",
-    "summary_ar": "من: TrickMo Variant Routes Android Trojan Traffic Through TON. ماذا: TrickMo Variant Routes Android Trojan Traffic Through TON. متى: 2026-05-11T15:15:00+00:00. كيف: ThreatFabric finds new TrickMo Android banking trojan variant routing C2 through The Open Network TrickMo Variant Routes Android Trojan Traffic Through TON. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/adcc953a-6399-4da6-bdb2-59fc793b8873.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/trickmo-c-ton-network-android/"
-    ]
-  },
-  {
-    "id": "9f047edb3bac99ba71de4c3d",
-    "title": "Dirty Frag is a new Linux bug putting your system at risk  - and there's no easy fix yet",
-    "link": "https://www.zdnet.com/article/dirty-frag-new-linux-bug-system-at-risk-no-easy-fix/",
-    "published": "2026-05-11T15:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Dirty Frag is a new Linux bug putting your system at risk  - and there's no easy fix yet. What: Dirty Frag is a new Linux bug putting your system at risk - and there's no easy fix yet. When: 2026-05-11T15:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dirty Frag is a new Linux bug putting your system at risk  - and there's no easy fix yet. ماذا: Dirty Frag is a new Linux bug putting your system at risk - and there's no easy fix yet. متى: 2026-05-11T15:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a240691937edc2ef06b96667378efeeb6440d4e1/2026/05/10/663999ca-2e9e-47b8-aed2-c2e8177a2d8e/redlock-gettyimages-1333105479.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/dirty-frag-new-linux-bug-system-at-risk-no-easy-fix/"
-    ]
-  },
-  {
-    "id": "b6fa5b1a7e446da2d865e75b",
-    "title": "Linux is getting a security wake-up call - why it was inevitable and I'm not worried",
-    "link": "https://www.zdnet.com/article/linux-security-wake-up-call-copy-fail-dirty-frag-why-inevitable/",
-    "published": "2026-05-11T15:12:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Linux is getting a security wake-up call - why it was inevitable and I'm not worried. What: Linux is getting a security wake-up call - why it was inevitable and I'm not worried. When: 2026-05-11T15:12:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Linux is getting a security wake-up call - why it was inevitable and I'm not worried. ماذا: Linux is getting a security wake-up call - why it was inevitable and I'm not worried. متى: 2026-05-11T15:12:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d073e4751d7e129838790164faf3f0fa655cee10/2026/05/11/87b39cd6-c20e-40de-b25f-d905104f07e7/linux.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/linux-security-wake-up-call-copy-fail-dirty-frag-why-inevitable/"
-    ]
-  },
-  {
-    "id": "19db0f14286e75a15cda3127",
-    "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
-    "published": "2026-05-11T15:05:45+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.. What: 'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros. When: 2026-05-11T15:05:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.. ماذا: 'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros. متى: 2026-05-11T15:05:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6294394cb13e6ebe/6a01bfb65f98bb6fdefc0215/bombs-Valeriy_Kachaev-Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros"
-    ]
-  },
-  {
-    "id": "88f4cee57d2704c17260f990",
-    "title": "BWH Hotels guests warned after reservation data checks out with cybercrooks",
-    "link": "https://www.theregister.com/security/2026/05/11/best-western-hotels-confirms-web-app-data-breach/5238020",
-    "published": "2026-05-11T14:34:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: BWH Hotels guests warned after reservation data checks out with cybercrooks. What: The Register asked BWH Hotels whether the intrusion began in October and went undetected until April, or whether a later breach exposed data dating back to October.. When: 2026-05-11T14:34:00+00:00. How: We also asked if this was related to information we were sent in March about BWH Hotel customer booking data being stolen and used for phishing campaigns. Action: See Arabic action below.",
-    "summary_ar": "من: BWH Hotels guests warned after reservation data checks out with cybercrooks. ماذا: The Register asked BWH Hotels whether the intrusion began in October and went undetected until April, or whether a later breach exposed data dating back to October.. متى: 2026-05-11T14:34:00+00:00. كيف: We also asked if this was related to information we were sent in March about BWH Hotel customer booking data being stolen and used for phishing campaigns.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5238042.jpg?imageId=5238042&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/11/best-western-hotels-confirms-web-app-data-breach/5238020"
-    ]
-  },
-  {
-    "id": "abc689966226545b3d04f9ad",
-    "title": "Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities",
-    "link": "https://www.infosecurity-magazine.com/news/dirty-frag-linux-kernel/",
-    "published": "2026-05-11T14:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities. What: Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities. When: 2026-05-11T14:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities. ماذا: Rushed Patches Follow Broken Embargo on New Linux Kernel Vulnerabilities. متى: 2026-05-11T14:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/0e1f0bbc-bca8-4f51-9109-0099264ae67a.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/dirty-frag-linux-kernel/"
-    ]
-  },
-  {
-    "id": "aa6709e5684d9921c6ae0035",
-    "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
-    "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
-    "published": "2026-05-11T14:06:01+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Build Application Firewalls Aim to Stop the Next Supply Chain Attack. What: Build Application Firewalls Aim to Stop the Next Supply Chain Attack. When: 2026-05-11T14:06:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Build Application Firewalls Aim to Stop the Next Supply Chain Attack. ماذا: Build Application Firewalls Aim to Stop the Next Supply Chain Attack. متى: 2026-05-11T14:06:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg",
-    "sources": [
-      "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "280818d6a31a8d407a0546c9",
-    "title": "Fake Claude Code Page Pushes PowerShell Stealer at Devs",
-    "link": "https://www.infosecurity-magazine.com/news/fake-claude-code-installer/",
-    "published": "2026-05-11T14:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Fake Claude Code Page Pushes PowerShell Stealer at Devs. What: Fake Claude Code Page Pushes PowerShell Stealer at Devs. When: 2026-05-11T14:00:00+00:00. How: Ontinue uncovers fake Claude Code installer pushing PowerShell stealer abusing Chrome's IElevator2 Fake Claude Code Page Pushes PowerShell Stealer at Devs Action: See Arabic action below.",
-    "summary_ar": "من: Fake Claude Code Page Pushes PowerShell Stealer at Devs. ماذا: Fake Claude Code Page Pushes PowerShell Stealer at Devs. متى: 2026-05-11T14:00:00+00:00. كيف: Ontinue uncovers fake Claude Code installer pushing PowerShell stealer abusing Chrome's IElevator2 Fake Claude Code Page Pushes PowerShell Stealer at Devs. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/d71ab0de-43ec-40ef-8dae-5ab5151c7241.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/fake-claude-code-installer/"
     ]
   }
 ]
