@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "840fc9184c6833271c476a59",
+    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+    "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+    "published": "2026-11-08T15:43:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Iris Ohyama data cloud breach exposes info of 7.7 million customers. What: Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used.. When: 2026-11-08T15:43:08+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Iris Ohyama data cloud breach exposes info of 7.7 million customers. ماذا: Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used.. متى: 2026-11-08T15:43:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/iris.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/"
+    ]
+  },
+  {
     "id": "9c037607d0d59f318ad6e912",
     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
     "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
@@ -2546,7 +2564,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"
     ]
@@ -8359,7 +8377,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt27f5645084863935/6ae21761f2adb985c612d4c7/GettyImages-1415423396.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes"
     ]
@@ -143318,368 +143336,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/"
-    ]
-  },
-  {
-    "id": "9cfd968e0360238e43015821",
-    "title": "I kept losing my Roku TV remotes - until I discovered 3 easy and cost-effective fixes",
-    "link": "https://www.zdnet.com/article/how-to-find-lost-roku-remote/",
-    "published": "2026-05-12T19:00:01+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I kept losing my Roku TV remotes - until I discovered 3 easy and cost-effective fixes. What: I kept losing my Roku TV remotes - until I discovered 3 easy and cost-effective fixes. When: 2026-05-12T19:00:01+00:00. How: From simply asking to using the app to secret buttons, there are several ways to find a lost remote. Action: See Arabic action below.",
-    "summary_ar": "من: I kept losing my Roku TV remotes - until I discovered 3 easy and cost-effective fixes. ماذا: I kept losing my Roku TV remotes - until I discovered 3 easy and cost-effective fixes. متى: 2026-05-12T19:00:01+00:00. كيف: From simply asking to using the app to secret buttons, there are several ways to find a lost remote.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0fd2d96b0351bbd31abb288659e1073199d68bac/2024/10/25/66abb68f-576f-4b51-afbe-72cd526cfa3d/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-find-lost-roku-remote/"
-    ]
-  },
-  {
-    "id": "be6e701efc217b4c2bbddf48",
-    "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-    "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-    "published": "2026-05-12T18:23:09+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code.. What: Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code.. When: 2026-05-12T18:23:09+00:00. How: [...] Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator Action: See Arabic action below.",
-    "summary_ar": "من: Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code.. ماذا: Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code.. متى: 2026-05-12T18:23:09+00:00. كيف: [...] Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/"
-    ]
-  },
-  {
-    "id": "4ae94e8f64a34d73a44ee245",
-    "title": "I'm a lawn expert, and here's my favorite trick for finding your perfect robot mower",
-    "link": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
-    "published": "2026-05-12T18:00:35+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm a lawn expert, and here's my favorite trick for finding your perfect robot mower. What: I'm a lawn expert, and here's my favorite trick for finding your perfect robot mower. When: 2026-05-12T18:00:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm a lawn expert, and here's my favorite trick for finding your perfect robot mower. ماذا: I'm a lawn expert, and here's my favorite trick for finding your perfect robot mower. متى: 2026-05-12T18:00:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4570b6346495a9ca5ac47b2b5ea18041e7246063/2026/05/12/d15d463e-1384-4c74-ac62-c0ac58807265/robot-mowers1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/"
-    ]
-  },
-  {
-    "id": "adecc461a05ebdbf6f4a10d9",
-    "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
-    "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
-    "published": "2026-05-12T17:23:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Exaforce Raises $125 Million for Agentic SOC Platform. What: Exaforce Raises $125 Million for Agentic SOC Platform. When: 2026-05-12T17:23:00+00:00. How: Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. Action: See Arabic action below.",
-    "summary_ar": "من: Exaforce Raises $125 Million for Agentic SOC Platform. ماذا: Exaforce Raises $125 Million for Agentic SOC Platform. متى: 2026-05-12T17:23:00+00:00. كيف: Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg",
-    "sources": [
-      "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/"
-    ]
-  },
-  {
-    "id": "339d959fb1305cd4ca4bc580",
-    "title": "Škoda warns of customer data breach after online shop hack",
-    "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-    "published": "2026-05-12T17:07:01+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Škoda warns of customer data breach after online shop hack. What: Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers.. When: 2026-05-12T17:07:01+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Škoda warns of customer data breach after online shop hack. ماذا: Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers.. متى: 2026-05-12T17:07:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/12/Skoda.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/"
-    ]
-  },
-  {
-    "id": "556be68231383b59df03ef97",
-    "title": "Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when",
-    "link": "https://www.zdnet.com/article/how-gemini-intelligence-makes-android-agentic/",
-    "published": "2026-05-12T17:01:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when. What: Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when. When: 2026-05-12T17:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when. ماذا: Your Android phone is getting agentic powers with Gemini Intelligence - here's how and when. متى: 2026-05-12T17:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d0918c6dc9393a4920d5e3b09ecc3a520f6efcb8/2026/05/12/8772f00a-d1b1-4c86-8318-390496afe77b/gemini-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-gemini-intelligence-makes-android-agentic/"
-    ]
-  },
-  {
-    "id": "1ce0c1afe01aba977a516e69",
-    "title": "Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist",
-    "link": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/",
-    "published": "2026-05-12T17:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.. What: Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist. When: 2026-05-12T17:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google is going all-in on it's new product line while assuring users Chromebooks aren't being phased out.. ماذا: Googlebook vs. Chromebook: Why I'm hopeful that both laptop brands can coexist. متى: 2026-05-12T17:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6fd28b9b2e28af5af8ee16c8544d400d350db0bd/2026/05/12/e3690059-3cf1-472b-a984-83bf1e812ae7/googlebook-vs-chromebook.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/googlebook-vs-chromebook-differences-news/"
-    ]
-  },
-  {
-    "id": "41c819c92499f79c3031f51b",
-    "title": "Google will let you watch YouTube videos on Android Auto now - is your car supported?",
-    "link": "https://www.zdnet.com/article/android-auto-lets-you-watch-youtube-videos-now/",
-    "published": "2026-05-12T17:00:23+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google will let you watch YouTube videos on Android Auto now - is your car supported?. What: Google will let you watch YouTube videos on Android Auto now - is your car supported?. When: 2026-05-12T17:00:23+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google will let you watch YouTube videos on Android Auto now - is your car supported?. ماذا: Google will let you watch YouTube videos on Android Auto now - is your car supported?. متى: 2026-05-12T17:00:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/695a110ab69e4161aa22261f8e16f32518743289/2026/03/26/a269ff2b-2bcf-47de-9834-2eab6c81cd4c/youtube-is-the-only-streaming-service-i-pay-to-skip-ads-heres-why.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/android-auto-lets-you-watch-youtube-videos-now/"
-    ]
-  },
-  {
-    "id": "30e474b65eabf937977e87d8",
-    "title": "I'm a devoted iPhone user but Android 17 is tempting me with its new video and social features",
-    "link": "https://www.zdnet.com/article/google-android-17-tempts-an-iphone-user/",
-    "published": "2026-05-12T17:00:17+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm a devoted iPhone user but Android 17 is tempting me with its new video and social features. What: I'm a devoted iPhone user but Android 17 is tempting me with its new video and social features. When: 2026-05-12T17:00:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm a devoted iPhone user but Android 17 is tempting me with its new video and social features. ماذا: I'm a devoted iPhone user but Android 17 is tempting me with its new video and social features. متى: 2026-05-12T17:00:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/cd026f34a73ad04f25c46c870d80849a0ebbaca1/2026/05/11/a122a99c-c14f-4352-8cb3-c7767ab86d75/1000055824.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-android-17-tempts-an-iphone-user/"
-    ]
-  },
-  {
-    "id": "9f78deb9c99ba854804ac76f",
-    "title": "Android will hang up on banking scammers for you - how its new anti-spoofing feature works",
-    "link": "https://www.zdnet.com/article/google-security-android-banking-scam-calls/",
-    "published": "2026-05-12T17:00:09+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Android will hang up on banking scammers for you - how its new anti-spoofing feature works. What: Android will hang up on banking scammers for you - how its new anti-spoofing feature works. When: 2026-05-12T17:00:09+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Android will hang up on banking scammers for you - how its new anti-spoofing feature works. ماذا: Android will hang up on banking scammers for you - how its new anti-spoofing feature works. متى: 2026-05-12T17:00:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/93cd6fdbd00cc478cc3dfcb6f9c6f513e31b31ca/2026/05/12/f45e30e5-0e1e-4093-91b7-ec4a45ce5c31/android-scam-calls.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-security-android-banking-scam-calls/"
-    ]
-  },
-  {
-    "id": "eb2ec4694903b83ce35e1da7",
-    "title": "First look at Googlebook: A premium Chromebook alternative for Android users",
-    "link": "https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/",
-    "published": "2026-05-12T17:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Googlebooks use an all-new OS that merges Android and ChromeOS with more premium hardware.. What: First look at Googlebook: A premium Chromebook alternative for Android users. When: 2026-05-12T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Googlebooks use an all-new OS that merges Android and ChromeOS with more premium hardware.. ماذا: First look at Googlebook: A premium Chromebook alternative for Android users. متى: 2026-05-12T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/794c9395fa3edee0ec59f2363aa5151e798b89a1/2026/05/12/97d55272-ada5-477a-a30d-46972cfca006/googlebook.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/"
-    ]
-  },
-  {
-    "id": "31d47b0667a6e03f215ea59f",
-    "title": "Android 17 to expand banking scam call and privacy protections",
-    "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-    "published": "2026-05-12T17:00:00+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Android 17 to expand banking scam call and privacy protections. What: Android 17 to expand banking scam call and privacy protections. When: 2026-05-12T17:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Android 17 to expand banking scam call and privacy protections. ماذا: Android 17 to expand banking scam call and privacy protections. متى: 2026-05-12T17:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/12/0_Android-Shield.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/"
-    ]
-  },
-  {
-    "id": "5fb6512a0aacb7a4a323d5ed",
-    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-    "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-    "published": "2026-05-12T16:44:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution. What: Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.. When: 2026-05-12T16:44:00+00:00. How: Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. Action: See Arabic action below.",
-    "summary_ar": "من: New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution. ماذا: Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.. متى: 2026-05-12T16:44:00+00:00. كيف: Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-45185"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html"
-    ]
-  },
-  {
-    "id": "1bb100d40238997c01e6ecfe",
-    "title": "White Circle Raises $11 Million for AI Control Platform",
-    "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
-    "published": "2026-05-12T15:40:21+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: White Circle Raises $11 Million for AI Control Platform. What: White Circle Raises $11 Million for AI Control Platform. When: 2026-05-12T15:40:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: White Circle Raises $11 Million for AI Control Platform. ماذا: White Circle Raises $11 Million for AI Control Platform. متى: 2026-05-12T15:40:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg",
-    "sources": [
-      "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/"
-    ]
-  },
-  {
-    "id": "317687906b39b2fa7a9a3d0a",
-    "title": "I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it",
-    "link": "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/",
-    "published": "2026-05-12T15:31:02+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it. What: I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it. When: 2026-05-12T15:31:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it. ماذا: I overlooked this Sony headphone feature for years - Apple and Bose have nothing like it. متى: 2026-05-12T15:31:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/aa46f021e9f0ade63f19ecc7911e8aa3d21ce93c/2026/02/12/e0d366ea-da24-4fb9-bc46-77412216680b/xm6-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/i-overlooked-sony-headphone-feature-apple-and-bose-have-nothing-like-it/"
-    ]
-  },
-  {
-    "id": "761cdf2ec4ba5725fbc3c9ab",
-    "title": "How to get Amazon Prime for 50% off: The two ways to qualify in 2026",
-    "link": "https://www.zdnet.com/article/who-qualifies-for-discounted-amazon-prime-faq/",
-    "published": "2026-05-12T15:22:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How to get Amazon Prime for 50% off: The two ways to qualify in 2026. What: How to get Amazon Prime for 50% off: The two ways to qualify in 2026. When: 2026-05-12T15:22:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to get Amazon Prime for 50% off: The two ways to qualify in 2026. ماذا: How to get Amazon Prime for 50% off: The two ways to qualify in 2026. متى: 2026-05-12T15:22:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/90af18b5c29cf8d6cb9c00f74f816d72f9c3235e/2023/06/22/3020194c-d0d2-4e8f-80e8-32a14de2877b/invitation.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/who-qualifies-for-discounted-amazon-prime-faq/"
-    ]
-  },
-  {
-    "id": "5e25d518ad0502c9d180df55",
-    "title": "OpenAI Launches 'Daybreak' to Help Build Secure By Design Software",
-    "link": "https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/",
-    "published": "2026-05-12T15:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: With Daybreak, OpenAI wants its frontier AI models to be used to deploy secure by design software from the ground up OpenAI Launches 'Daybreak' to Help Build Secure By Design Software. What: OpenAI Launches 'Daybreak' to Help Build Secure By Design Software. When: 2026-05-12T15:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: With Daybreak, OpenAI wants its frontier AI models to be used to deploy secure by design software from the ground up OpenAI Launches 'Daybreak' to Help Build Secure By Design Software. ماذا: OpenAI Launches 'Daybreak' to Help Build Secure By Design Software. متى: 2026-05-12T15:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/66e17d05-00d4-4c34-a9d7-1bdc6ac04f40.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/openai-daybreak-secure-by-design/"
-    ]
-  },
-  {
-    "id": "62d6874a21e3b8cb21d2974a",
-    "title": "Your iPhone RCS chats with Android are encrypted in iOS 26.5: How to verify E2E is enabled",
-    "link": "https://www.zdnet.com/article/apple-ios-26-5-encrypts-rcs-text-messages-ios-and-android/",
-    "published": "2026-05-12T15:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: With the latest 26.5 updates, RCS messages are also encrypted with the iPad, Mac, Apple Watch, and even the Vision Pro.. What: Your iPhone RCS chats with Android are encrypted in iOS 26.5: How to verify E2E is enabled. When: 2026-05-12T15:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: With the latest 26.5 updates, RCS messages are also encrypted with the iPad, Mac, Apple Watch, and even the Vision Pro.. ماذا: Your iPhone RCS chats with Android are encrypted in iOS 26.5: How to verify E2E is enabled. متى: 2026-05-12T15:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/3d7525cfc1687d38e15dc4c622fc5791105f28aa/2026/05/12/268ce5b2-43f2-4e0f-bb1d-689f127cab6b/encrypted-rcs-text-messaging-on-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/apple-ios-26-5-encrypts-rcs-text-messages-ios-and-android/"
-    ]
-  },
-  {
-    "id": "186b9301c29fb9f04527e613",
-    "title": "US bank reports itself after slinging customer data at 'unauthorized AI app'",
-    "link": "https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787",
-    "published": "2026-05-12T14:50:26+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: However, the disclosure of data such as SSNs, which in the US are generally categorized among the most sensitive types of data that organizations can store on behalf of customers, is protected under several federal and state laws.. What: US bank reports itself after slinging customer data at 'unauthorized AI app'. When: 2026-05-12T14:50:26+00:00. How: It felt compelled to submit the filing \"due to the volume and sensitive nature of the non-public information.\" This included customer names, dates of birth, and Social Security numbers, but the filing provided no further detail about the incident. Action: See Arabic action below.",
-    "summary_ar": "من: However, the disclosure of data such as SSNs, which in the US are generally categorized among the most sensitive types of data that organizations can store on behalf of customers, is protected under several federal and state laws.. ماذا: US bank reports itself after slinging customer data at 'unauthorized AI app'. متى: 2026-05-12T14:50:26+00:00. كيف: It felt compelled to submit the filing \"due to the volume and sensitive nature of the non-public information.\" This included customer names, dates of birth, and Social Security numbers, but the filing provided no further detail about the incident.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5238826.jpg?imageId=5238826&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/12/us-bank-reports-itself-after-ai-customer-data-mishap/5238787"
-    ]
-  },
-  {
-    "id": "6bced755ddba6291731ab6c8",
-    "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-    "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-    "published": "2026-05-12T14:47:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded. What: RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded. When: 2026-05-12T14:47:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded. ماذا: RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded. متى: 2026-05-12T14:47:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html"
     ]
   }
 ]
