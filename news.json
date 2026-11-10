@@ -36,6 +36,455 @@
     ]
   },
   {
+    "id": "16367edd00b63500b4b986e4",
+    "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+    "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+    "published": "2026-11-10T22:20:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Railway breach leads to $740,000 in fraudulent AI charges. What: Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces.. When: 2026-11-10T22:20:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Railway breach leads to $740,000 in fraudulent AI charges. ماذا: Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces.. متى: 2026-11-10T22:20:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/22/railway.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/"
+    ]
+  },
+  {
+    "id": "9364f9baac682a403f1c9747",
+    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+    "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+    "published": "2026-11-10T21:55:03+00:00",
+    "source": "krebsonsecurity.com",
+    "summary_en": "Who: Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.. What: Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.. When: 2026-11-10T21:55:03+00:00. How: This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla . Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.. ماذا: Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software.. متى: 2026-11-10T21:55:03+00:00. كيف: This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates from other software makers, including Adobe , Apple , Google and Mozilla .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-124194",
+      "CVE-2026-125350"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "cd42927ef69a79ec8cd837b8",
+    "title": "Ring robots ready to patrol paranoids’ pads",
+    "link": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+    "published": "2026-11-10T21:45:45+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Another Ring feature, Familiar Faces, which uses AI-powered facial recognition to identify people captured by compatible cameras, prompted a proposed class-action lawsuit filed in June.. What: The house of Bezos announced the launch of Ring Robotics on Tuesday along with its first two products: a drone designed for indoor home security, and a wheeled robot with a telescoping camera mast for automated after-hours business patrols.. When: 2026-11-10T21:45:45+00:00. How: “Carry Ring Drone through your space or let Ring Rover autonomously explore, and it turns what it sees into a floor plan,” the company explains of the setup process. Action: See Arabic action below.",
+    "summary_ar": "من: Another Ring feature, Familiar Faces, which uses AI-powered facial recognition to identify people captured by compatible cameras, prompted a proposed class-action lawsuit filed in June.. ماذا: The house of Bezos announced the launch of Ring Robotics on Tuesday along with its first two products: a drone designed for indoor home security, and a wheeled robot with a telescoping camera mast for automated after-hours business patrols.. متى: 2026-11-10T21:45:45+00:00. كيف: “Carry Ring Drone through your space or let Ring Rover autonomously explore, and it turns what it sees into a floor plan,” the company explains of the setup process.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5308936.jpg?imageId=5308936&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932"
+    ]
+  },
+  {
+    "id": "b686da68349e5f787adebb36",
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "published": "2026-11-10T21:12:59+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI. What: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI. When: 2026-11-10T21:12:59+00:00. How: The information is revealed through links allowing Grok Build users to share their apps with others. Action: See Arabic action below.",
+    "summary_ar": "من: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI. ماذا: Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI. متى: 2026-11-10T21:12:59+00:00. كيف: The information is revealed through links allowing Grok Build users to share their apps with others.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    ]
+  },
+  {
+    "id": "c9d200a425c209932be345ac",
+    "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+    "published": "2026-11-10T21:01:14+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon. What: Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon. When: 2026-11-10T21:01:14+00:00. How: Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries. Action: See Arabic action below.",
+    "summary_ar": "من: Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon. ماذا: Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon. متى: 2026-11-10T21:01:14+00:00. كيف: Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
+    ]
+  },
+  {
+    "id": "3d913a90d15051292e417c87",
+    "title": "New Windows 11 update fixes File Explorer menu mess – and patches an exploited flaw",
+    "link": "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/",
+    "published": "2026-11-10T21:00:31+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: It fixes 1,094 security flaws, too.. What: It fixes 1,094 security flaws, too.. When: 2026-11-10T21:00:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: It fixes 1,094 security flaws, too.. ماذا: It fixes 1,094 security flaws, too.. متى: 2026-11-10T21:00:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-context-sensitive-customizable-right-click-menu.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/november-windows-11-update-customizable-right-click-menu/"
+    ]
+  },
+  {
+    "id": "230bcad0faf39354ff7aa668",
+    "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+    "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+    "published": "2026-11-10T20:54:55+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Japanese furniture giant Nitori says hackers stole 37.6M customer records. What: Japanese furniture giant Nitori says hackers stole 37.6M customer records. When: 2026-11-10T20:54:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Japanese furniture giant Nitori says hackers stole 37.6M customer records. ماذا: Japanese furniture giant Nitori says hackers stole 37.6M customer records. متى: 2026-11-10T20:54:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/10/nitori.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/"
+    ]
+  },
+  {
+    "id": "6922144e7a8d86cdb96b040e",
+    "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+    "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+    "published": "2026-11-10T20:41:45+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them. What: F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them. When: 2026-11-10T20:41:45+00:00. How: New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene. Action: See Arabic action below.",
+    "summary_ar": "من: F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them. ماذا: F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them. متى: 2026-11-10T20:41:45+00:00. كيف: New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them"
+    ]
+  },
+  {
+    "id": "6f941c733c9be2cfef86f68c",
+    "title": "Need more AI in Creator Studio? Apple may charge you for it",
+    "link": "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/",
+    "published": "2026-11-10T20:38:54+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.. What: Need more AI in Creator Studio? Apple may charge you for it. When: 2026-11-10T20:38:54+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: With its new $50 AI usage packes, Apple is the latest company to introduce paid model for AI access.. ماذا: Need more AI in Creator Studio? Apple may charge you for it. متى: 2026-11-10T20:38:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/b8127718-8775-4c05-9d18-89836e0dbde2.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/ai-creator-studio-apple-usage-packs-fee/"
+    ]
+  },
+  {
+    "id": "8ec6ef10a10ae8e738875de7",
+    "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+    "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+    "published": "2026-11-10T20:35:34+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer. What: Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer. When: 2026-11-10T20:35:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer. ماذا: Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer. متى: 2026-11-10T20:35:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer"
+    ]
+  },
+  {
+    "id": "d6fe2bb7d3316c8fd4bf912f",
+    "title": "How to Assess OT Incident Response Preparedness",
+    "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+    "published": "2026-11-10T20:18:43+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: How to Assess OT Incident Response Preparedness. What: How to Assess OT Incident Response Preparedness. When: 2026-11-10T20:18:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How to Assess OT Incident Response Preparedness. ماذا: How to Assess OT Incident Response Preparedness. متى: 2026-11-10T20:18:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness"
+    ]
+  },
+  {
+    "id": "9814f0299437ed94f9684446",
+    "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+    "published": "2026-11-10T20:04:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.. What: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.. When: 2026-11-10T20:04:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.. ماذا: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes.. متى: 2026-11-10T20:04:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/"
+    ]
+  },
+  {
+    "id": "09de80ae0aa44cee575a5933",
+    "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+    "published": "2026-11-10T19:31:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments.. What: Hackers exploit trusted AWS access to breach multiple cloud environments. When: 2026-11-10T19:31:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments.. ماذا: Hackers exploit trusted AWS access to breach multiple cloud environments. متى: 2026-11-10T19:31:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/08/21/awskey.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+    ]
+  },
+  {
+    "id": "b86930e18372a4deefde767b",
+    "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+    "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+    "published": "2026-11-10T19:23:10+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones. What: The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.. When: 2026-11-10T19:23:10+00:00. How: The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. Action: See Arabic action below.",
+    "summary_ar": "من: Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones. ماذا: The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.. متى: 2026-11-10T19:23:10+00:00. كيف: The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-111760"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipoPlLYj_xfJ8bsfRTONwa3estE9I2un_9OBx2fVuxEp-zoiADgipn-gGOeU4TqqyjqjrCpoGXC4jmuF7o1e_PUMbr-QoHDdPZEDWavb4VbjtWbOxMfmz-E9fIPT2DHEXYCN53l2jtiJGVfEFjHsR8gaHeyF59Yii0oTnP73vaslLWPzuideEGxTy6S9U/s1600/gits.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
+    ]
+  },
+  {
+    "id": "008f66d06450b9b0ac27aab6",
+    "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+    "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+    "published": "2026-11-10T19:19:46+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation.. What: The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .. When: 2026-11-10T19:19:46+00:00. How: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. Action: See Arabic action below.",
+    "summary_ar": "من: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation.. ماذا: The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .. متى: 2026-11-10T19:19:46+00:00. كيف: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-124194"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/03/Microsoft-Outlook-CVE-2023-23397.jpg",
+    "sources": [
+      "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/"
+    ]
+  },
+  {
+    "id": "b958c227209529b5aa9fb013",
+    "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+    "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+    "published": "2026-11-10T19:19:39+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users. What: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.. When: 2026-11-10T19:19:39+00:00. How: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. Action: See Arabic action below.",
+    "summary_ar": "من: SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users. ماذا: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.. متى: 2026-11-10T19:19:39+00:00. كيف: An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s1600/nearai.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
+    ]
+  },
+  {
+    "id": "50eb1dccf495275b1cbc7b33",
+    "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+    "published": "2026-11-10T19:07:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.. What: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.. When: 2026-11-10T19:07:36+00:00. How: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. Action: See Arabic action below.",
+    "summary_ar": "من: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.. ماذا: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.. متى: 2026-11-10T19:07:36+00:00. كيف: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    ]
+  },
+  {
+    "id": "12fdc093b1073eb3000de8e4",
+    "title": "Barracuda’s email security gateways bitten by make-me-root vulns",
+    "link": "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
+    "published": "2026-11-10T18:51:35+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: According to Mandiant, 27 percent of identified affected organizations were government entities.. What: Barracuda acted promptly to remediate the vulnerabilities, releasing patches for affected products.” The vendor disclosed and fixed the vulnerabilities, CVE-2026-116606 and CVE-2026-111560, last week.. When: 2026-11-10T18:51:35+00:00. How: According to Mandiant, 27 percent of identified affected organizations were government entities. Action: See Arabic action below.",
+    "summary_ar": "من: According to Mandiant, 27 percent of identified affected organizations were government entities.. ماذا: Barracuda acted promptly to remediate the vulnerabilities, releasing patches for affected products.” The vendor disclosed and fixed the vulnerabilities, CVE-2026-116606 and CVE-2026-111560, last week.. متى: 2026-11-10T18:51:35+00:00. كيف: According to Mandiant, 27 percent of identified affected organizations were government entities.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-111560",
+      "CVE-2026-116606"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/233273.jpg?imageId=233273&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883"
+    ]
+  },
+  {
+    "id": "80496ac2144fe73b12393964",
+    "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+    "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+    "published": "2026-11-10T18:46:22+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AI Coding Agents Leak Thousands of Secrets to GitHub. What: AI Coding Agents Leak Thousands of Secrets to GitHub. When: 2026-11-10T18:46:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI Coding Agents Leak Thousands of Secrets to GitHub. ماذا: AI Coding Agents Leak Thousands of Secrets to GitHub. متى: 2026-11-10T18:46:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github"
+    ]
+  },
+  {
+    "id": "33bc3cf0f92e3e703e61a372",
+    "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+    "published": "2026-11-10T18:33:26+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. What: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. When: 2026-11-10T18:33:26+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. ماذا: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. متى: 2026-11-10T18:33:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
+      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/"
+    ]
+  },
+  {
+    "id": "9398616ade4dc7e103d9205c",
+    "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+    "published": "2026-11-10T18:12:21+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access. What: French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.. When: 2026-11-10T18:12:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access. ماذا: French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.. متى: 2026-11-10T18:12:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    ]
+  },
+  {
+    "id": "4893b7f6453d5166b2e8cb76",
+    "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+    "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+    "published": "2026-11-10T18:11:54+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Adobe Patches 110 Vulnerabilities Across 9 Products. What: Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder.. When: 2026-11-10T18:11:54+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Adobe Patches 110 Vulnerabilities Across 9 Products. ماذا: Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder.. متى: 2026-11-10T18:11:54+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg",
+    "sources": [
+      "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+      "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/"
+    ]
+  },
+  {
+    "id": "3ac35ff647369fb991a4dc18",
+    "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+    "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+    "published": "2026-11-10T17:43:23+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem. What: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem. When: 2026-11-10T17:43:23+00:00. How: Check Point Research is tracking the clusters under the names SilentDelivery, Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem Action: See Arabic action below.",
+    "summary_ar": "من: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem. ماذا: Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem. متى: 2026-11-10T17:43:23+00:00. كيف: Check Point Research is tracking the clusters under the names SilentDelivery, Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzh3KQXtsNe_Hb53sMmMSiGIRHL-ybly73FQY1F-RNeFR181cAeiYkvBDi80Upvlea0WqHLNW6ydto2DhfeD3PlISviNhaTUtVBdQMziXOtKybeWLKj7O3UmmeKP0vGX5ufVBkf1dbShyphenhyphenXgawm2sMttXPfbTTDtmYxbXo7Lw0jkGXtt-E-X7W7PtNxfD-/s1600/chinese-telecom.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html"
+    ]
+  },
+  {
     "id": "3b50d488c78e7b6866f0635d",
     "title": "I found a hidden Android tool that solves all my tiny text troubles",
     "link": "https://www.zdnet.com/tech/android-display-help-magnification/",
@@ -252,6 +701,24 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/fitbit-versa-2-3_287f7c.jpg",
     "sources": [
       "https://www.zdnet.com/tech/fitbit-versa-sense-smartwatches-third-party-apps/"
+    ]
+  },
+  {
+    "id": "7646e96e2e7b54961a00337e",
+    "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
+    "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+    "published": "2026-11-10T15:33:59+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats. What: Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats. When: 2026-11-10T15:33:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats. ماذا: Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats. متى: 2026-11-10T15:33:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-mBJN_E4CjW3MXyjYYdeCGcyR052aVnG3uUWjaEfafvPAdatcJhn9LbtngqXBb5JsVwJVoorc8i41nTbYR9UcwVrwWNzU-WAfVk2yL32hYW1elVMJtwauW53nhRG37EwbovnFCW8InensI8tKoR9pqcWnZx54t6xOU_HsjjR9KWTLwVr_MBcknFeGShZU/s1600/fire.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html"
     ]
   },
   {
@@ -1116,6 +1583,24 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/11/09/vanderbilt-skyline.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/"
+    ]
+  },
+  {
+    "id": "ccc69e15df6f54a033b99832",
+    "title": "People Are Getting Weird About AI",
+    "link": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+    "published": "2026-11-09T23:06:22+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: People Are Getting Weird About AI. What: People Are Getting Weird About AI. When: 2026-11-09T23:06:22+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: People Are Getting Weird About AI. ماذا: People Are Getting Weird About AI. متى: 2026-11-09T23:06:22+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai"
     ]
   },
   {
@@ -15204,24 +15689,6 @@
     ]
   },
   {
-    "id": "34f12a1f7c34dc2652f0b8c3",
-    "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-    "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-    "published": "2026-10-22T10:05:21+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .. What: Cisco Patches 34 Vulnerabilities Across Multiple Products. When: 2026-10-22T10:05:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .. ماذا: Cisco Patches 34 Vulnerabilities Across Multiple Products. متى: 2026-10-22T10:05:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Cisco-company-logo.jpeg",
-    "sources": [
-      "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/"
-    ]
-  },
-  {
     "id": "d73a5cf491bb00224ef5cb53",
     "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
     "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
@@ -21972,35 +22439,6 @@
     ]
   },
   {
-    "id": "04ab1973266f34142dc8331c",
-    "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-    "published": "2026-10-13T19:47:30+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes.. What: Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes.. When: 2026-10-13T19:47:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes.. ماذا: Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes.. متى: 2026-10-13T19:47:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5082200-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5078885-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5075912-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5071546-extended-security-update/",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-kb5068781-the-first-windows-10-extended-security-update/"
-    ]
-  },
-  {
     "id": "07ca9e611f68c32769d76c79",
     "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
@@ -22093,33 +22531,6 @@
     ]
   },
   {
-    "id": "30c48aec6fa791e331300a9d",
-    "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-    "published": "2026-10-13T17:49:38+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. What: Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. When: 2026-10-13T17:49:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. ماذا: Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features.. متى: 2026-10-13T17:49:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5083769-and-kb5082052-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5079473-and-kb5078883-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-and-kb5075941-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/",
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/"
-    ]
-  },
-  {
     "id": "fb99d329a170ccdf90361b40",
     "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
     "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
@@ -22189,24 +22600,6 @@
     "image": "https://image.theregister.com/229902.jpg?imageId=229902&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842"
-    ]
-  },
-  {
-    "id": "21816e632b645b53511a9a1b",
-    "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
-    "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-    "published": "2026-10-13T17:14:42+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.. What: Adobe Patches 176 Vulnerabilities Across 11 Products. When: 2026-10-13T17:14:42+00:00. How: The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. Action: See Arabic action below.",
-    "summary_ar": "من: The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.. ماذا: Adobe Patches 176 Vulnerabilities Across 11 Products. متى: 2026-10-13T17:14:42+00:00. كيف: The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg",
-    "sources": [
-      "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/"
     ]
   },
   {
@@ -49773,24 +50166,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg",
     "sources": [
       "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html"
-    ]
-  },
-  {
-    "id": "a1e697cc00212c30add88980",
-    "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-    "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-    "published": "2026-09-02T12:39:07+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products. What: The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.. When: 2026-09-02T12:39:07+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products. ماذا: The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.. متى: 2026-09-02T12:39:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/05/Rockwell-Automation-e1738149646812.jpg",
-    "sources": [
-      "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/"
     ]
   },
   {
@@ -142919,150 +143294,6 @@
     "image": "https://image.theregister.com/5240833.jpg?imageId=5240833&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799"
-    ]
-  },
-  {
-    "id": "991d43795e3e630f3003e8cf",
-    "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-    "published": "2026-05-14T21:07:17+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin. What: Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin. When: 2026-05-14T21:07:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin. ماذا: Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin. متى: 2026-05-14T21:07:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/WordPress.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/"
-    ]
-  },
-  {
-    "id": "eaaedcc5225a4904cddff01f",
-    "title": "This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last",
-    "link": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
-    "published": "2026-05-14T21:02:17+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last. What: This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last. When: 2026-05-14T21:02:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last. ماذا: This 4TB WD Black SSD is almost $1,200 off at Best Buy - and I don't expect it to last. متى: 2026-05-14T21:02:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/068d096d401a7485a1a240a0275f36360a0b18fa/2026/05/13/3c23b532-44f2-4e8f-b6af-bd135258f9de/untitled-design-2026-05-13t144317-408.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/"
-    ]
-  },
-  {
-    "id": "cfcb3f30ff8e670295fc68b4",
-    "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
-    "link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
-    "published": "2026-05-14T20:57:27+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: SecurityScorecard Snags Driftnet to Level Up Threat Intelligence. What: SecurityScorecard Snags Driftnet to Level Up Threat Intelligence. When: 2026-05-14T20:57:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: SecurityScorecard Snags Driftnet to Level Up Threat Intelligence. ماذا: SecurityScorecard Snags Driftnet to Level Up Threat Intelligence. متى: 2026-05-14T20:57:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfcc8475497281343/67e40db954e011810a508de7/threat_intelligence_(1800)_Futuristic_overlay_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence"
-    ]
-  },
-  {
-    "id": "025a89493d5fb1b5f74c7073",
-    "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
-    "published": "2026-05-14T20:25:31+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.. What: Maximum Severity Cisco SD-WAN Bug Exploited in the Wild. When: 2026-05-14T20:25:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.. ماذا: Maximum Severity Cisco SD-WAN Bug Exploited in the Wild. متى: 2026-05-14T20:25:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited"
-    ]
-  },
-  {
-    "id": "fa78e907f2679a7be22e9684",
-    "title": "You can buy Meta smart glasses for up to 25% off right now - Ray-Bans included",
-    "link": "https://www.zdnet.com/article/meta-ray-ban-gen-2-smart-glasses-deal/",
-    "published": "2026-05-14T19:43:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The second-gen smart glasses are 15% off, while the Oakley Meta HSTN glasses are 20% off - perfect gifts for dad.. What: You can buy Meta smart glasses for up to 25% off right now - Ray-Bans included. When: 2026-05-14T19:43:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The second-gen smart glasses are 15% off, while the Oakley Meta HSTN glasses are 20% off - perfect gifts for dad.. ماذا: You can buy Meta smart glasses for up to 25% off right now - Ray-Bans included. متى: 2026-05-14T19:43:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/678405dec8967e8173de88f1fe554f3afb1856ac/2023/09/26/f4117f74-bbfb-4a2a-831e-bca1a6ac2084/ray-ban-smart-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/meta-ray-ban-gen-2-smart-glasses-deal/"
-    ]
-  },
-  {
-    "id": "3b58f1c8bfe2a4cd8b5de901",
-    "title": "OpenAI confirms security breach in TanStack supply chain attack",
-    "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-    "published": "2026-05-14T19:07:24+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution.. What: OpenAI confirms security breach in TanStack supply chain attack. When: 2026-05-14T19:07:24+00:00. How: OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. Action: See Arabic action below.",
-    "summary_ar": "من: OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution.. ماذا: OpenAI confirms security breach in TanStack supply chain attack. متى: 2026-05-14T19:07:24+00:00. كيف: OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2023/04/11/OpenAI_headpic.jpeg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/"
-    ]
-  },
-  {
-    "id": "2ba8c6099c01aa12259c679c",
-    "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-    "published": "2026-05-14T18:53:50+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: [...] Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026. What: Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026. When: 2026-05-14T18:53:50+00:00. How: On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. Action: See Arabic action below.",
-    "summary_ar": "من: [...] Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026. ماذا: Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026. متى: 2026-05-14T18:53:50+00:00. كيف: On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/15/Pwn2Own_Berin.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/"
-    ]
-  },
-  {
-    "id": "a4ff4bc7bf51f618797d4586",
-    "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
-    "link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
-    "published": "2026-05-14T18:32:01+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM).. What: Zero-day exploit completely defeats default Windows 11 BitLocker protections. When: 2026-05-14T18:32:01+00:00. How: A zero-day exploit circulating online allows people with physical access to a Windows 11 system to bypass default BitLocker protections and gain complete access to an encrypted drive within seconds. Action: See Arabic action below.",
-    "summary_ar": "من: It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM).. ماذا: Zero-day exploit completely defeats default Windows 11 BitLocker protections. متى: 2026-05-14T18:32:01+00:00. كيف: A zero-day exploit circulating online allows people with physical access to a Windows 11 system to bypass default BitLocker protections and gain complete access to an encrypted drive within seconds.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/"
     ]
   }
 ]
