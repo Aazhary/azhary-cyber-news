@@ -36,6 +36,485 @@
     ]
   },
   {
+    "id": "00c8c05e542b9aad4775cfa8",
+    "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+    "published": "2026-11-12T12:11:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.. What: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.. When: 2026-11-12T12:11:11+00:00. How: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.. ماذا: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.. متى: 2026-11-12T12:11:11+00:00. كيف: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/Windows_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/"
+    ]
+  },
+  {
+    "id": "5af74d5ce665225df419dc5f",
+    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+    "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+    "published": "2026-11-12T12:09:14+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.. What: The company has already applied mitigations against attacks between VMs, and between VMs and the host.. When: 2026-11-12T12:09:14+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.. ماذا: The company has already applied mitigations against attacks between VMs, and between VMs and the host.. متى: 2026-11-12T12:09:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html"
+    ]
+  },
+  {
+    "id": "950205e16691a5151adc449f",
+    "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+    "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+    "published": "2026-11-12T12:02:51+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them. What: Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them. When: 2026-11-12T12:02:51+00:00. How: Or an AI agent might be accessing sensitive systems using permissions nobody Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them Action: See Arabic action below.",
+    "summary_ar": "من: Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them. ماذا: Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them. متى: 2026-11-12T12:02:51+00:00. كيف: Or an AI agent might be accessing sensitive systems using permissions nobody Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
+    ]
+  },
+  {
+    "id": "4fb3f4a554eb775bf656ee60",
+    "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+    "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+    "published": "2026-11-12T11:51:43+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access. What: \"Legacy API is New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access. When: 2026-11-12T11:51:43+00:00. How: \"Legacy API is New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access Action: See Arabic action below.",
+    "summary_ar": "من: New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access. ماذا: \"Legacy API is New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access. متى: 2026-11-12T11:51:43+00:00. كيف: \"Legacy API is New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html"
+    ]
+  },
+  {
+    "id": "f7cf57082e209fd8cd090c52",
+    "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+    "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+    "published": "2026-11-12T11:51:31+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users.. What: Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign. When: 2026-11-12T11:51:31+00:00. How: Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Action: See Arabic action below.",
+    "summary_ar": "من: Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users.. ماذا: Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign. متى: 2026-11-12T11:51:31+00:00. كيف: Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf8YVgw9hIWEYN0_qgaD6MVIZad0fOCu_J5Z4Cn2CDuMzcV7HOQ9Xt4E08l1nOo7uMjAyYqYP-bUy5zHisRW8cfeSVmJcCKYgCTI2y1MpRUwsM1I2cs0MsuoAy7VSGLyTPzonhKITzWPU1hTADZnFt5VTZhlt4eJohVas2tzhl47AOV3Cp53LC_uhlpVY/s1600/mt.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html"
+    ]
+  },
+  {
+    "id": "988b46d175c69a81b5f06266",
+    "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+    "published": "2026-11-12T11:33:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution. What: PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.. When: 2026-11-12T11:33:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution. ماذا: PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.. متى: 2026-11-12T11:33:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-126325"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi01pvi78xYUtyxbtWQ4L5ddMr1yT2-WBSbAnp3wKXa-bpagXqtyQdxPqA43I1NxJGNLk4He30PS-GYUcd1sOaErtMAtNWL-qQUGfD0Y7wSxAzeYJXRf2lA5yFuznu8m2zRgf2llXMiR3w1H6YOOte5qs_DvRxcv0aPeOxWeIDybl1n58VlpuZPUJ0icWDL/s1600/ptc-flaw.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
+    ]
+  },
+  {
+    "id": "2b2cd93c5406c33cbc1d30d3",
+    "title": "European tech buyers add digital sovereignty to cyber shopping list",
+    "link": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+    "published": "2026-11-12T11:31:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Someone should tell Microsoft and Anthropic.. What: Data released yesterday by the Institute for Public Policy Research showed just £1 in every £6 spent by government with the biggest technology suppliers goes to Brit businesses.. When: 2026-11-12T11:31:00+00:00. How: According to sales figures compiled by Context, distributor sales in EMEA of cybersecurity products from EU-headquartered vendors jumped 35 percent in the two years to calendar Q3 2026. Action: See Arabic action below.",
+    "summary_ar": "من: Someone should tell Microsoft and Anthropic.. ماذا: Data released yesterday by the Institute for Public Policy Research showed just £1 in every £6 spent by government with the biggest technology suppliers goes to Brit businesses.. متى: 2026-11-12T11:31:00+00:00. كيف: According to sales figures compiled by Context, distributor sales in EMEA of cybersecurity products from EU-headquartered vendors jumped 35 percent in the two years to calendar Q3 2026.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5223019.jpg?imageId=5223019&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216"
+    ]
+  },
+  {
+    "id": "0fd5862fb594858be619481b",
+    "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+    "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+    "published": "2026-11-12T11:08:52+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Notion Customer Data Compromised in Fireworks AI Hack. What: Notion Customer Data Compromised in Fireworks AI Hack. When: 2026-11-12T11:08:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Notion Customer Data Compromised in Fireworks AI Hack. ماذا: Notion Customer Data Compromised in Fireworks AI Hack. متى: 2026-11-12T11:08:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/bank-finance-lender-credit-union-hack.jpeg",
+    "sources": [
+      "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/"
+    ]
+  },
+  {
+    "id": "9b952a7f4c5dc210ef649816",
+    "title": "Inside an AI Attack Against a US Retailer",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+    "published": "2026-11-12T11:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Inside an AI Attack Against a US Retailer. What: Inside an AI Attack Against a US Retailer. When: 2026-11-12T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Inside an AI Attack Against a US Retailer. ماذا: Inside an AI Attack Against a US Retailer. متى: 2026-11-12T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
+    ]
+  },
+  {
+    "id": "f3162633487959d5031e2efe",
+    "title": "Security Teams Must Shift from Patching to Mitigation in the AI Era",
+    "link": "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/",
+    "published": "2026-11-12T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Security Teams Must Shift from Patching to Mitigation in the AI Era. What: Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset Security Teams Must Shift from Patching to Mitigation in the AI Era. When: 2026-11-12T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Security Teams Must Shift from Patching to Mitigation in the AI Era. ماذا: Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset Security Teams Must Shift from Patching to Mitigation in the AI Era. متى: 2026-11-12T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/711e323f-df47-4a4a-a457-14f66ed6adbf.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/"
+    ]
+  },
+  {
+    "id": "b8a4eb8ff314e2c4f6d7c222",
+    "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+    "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+    "published": "2026-11-12T10:39:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hackers Deploy Malware in Fresh ScreenConnect Campaign. What: The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication.. When: 2026-11-12T10:39:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Deploy Malware in Fresh ScreenConnect Campaign. ماذا: The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication.. متى: 2026-11-12T10:39:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Vulnerability",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/02/ConnectWise.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/"
+    ]
+  },
+  {
+    "id": "a3551b4d40496c873a87a75b",
+    "title": "Microsoft confirms Windows security updates installation issues",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+    "published": "2026-11-12T10:24:07+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.. What: Microsoft confirms Windows security updates installation issues. When: 2026-11-12T10:24:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.. ماذا: Microsoft confirms Windows security updates installation issues. متى: 2026-11-12T10:24:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+    ]
+  },
+  {
+    "id": "efdcd7b00458ccae9869c510",
+    "title": "Transcending the trust boundaries: how a cloud pentest works",
+    "link": "https://securelist.com/how-a-cloud-pentest-works/121921/",
+    "published": "2026-11-12T10:00:53+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Transcending the trust boundaries: how a cloud pentest works. What: Transcending the trust boundaries: how a cloud pentest works. When: 2026-11-12T10:00:53+00:00. How: Does compromising a runtime environment lead to the attack spreading to other resources and services? Action: See Arabic action below.",
+    "summary_ar": "من: Transcending the trust boundaries: how a cloud pentest works. ماذا: Transcending the trust boundaries: how a cloud pentest works. متى: 2026-11-12T10:00:53+00:00. كيف: Does compromising a runtime environment lead to the attack spreading to other resources and services?. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-19478",
+      "CVE-2026-43284",
+      "cve-2026-19478",
+      "cve-2026-43284"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12092808/cloud1_securelist-featured_1200x600.jpg",
+    "sources": [
+      "https://securelist.com/how-a-cloud-pentest-works/121921/"
+    ]
+  },
+  {
+    "id": "916754a0e478718fc734a306",
+    "title": "NCSC Launches Cyber Adversary Testing to Boost Resilience",
+    "link": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/",
+    "published": "2026-11-12T10:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: NCSC Launches Cyber Adversary Testing to Boost Resilience. What: NCSC Launches Cyber Adversary Testing to Boost Resilience. When: 2026-11-12T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NCSC Launches Cyber Adversary Testing to Boost Resilience. ماذا: NCSC Launches Cyber Adversary Testing to Boost Resilience. متى: 2026-11-12T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/5899faf9-e2a8-4c42-9452-1c42f1dbb782.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/"
+    ]
+  },
+  {
+    "id": "2bb5c2ca8fb9db3d31b0c923",
+    "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+    "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+    "published": "2026-11-12T09:39:55+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Hackers Target N-central Zero-Days as N-able Rushes Patches. What: N-able patched the unauthenticated ones.. When: 2026-11-12T09:39:55+00:00. How: The malicious activity started shortly after a researcher dropped over 30 zero-days. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Target N-central Zero-Days as N-able Rushes Patches. ماذا: N-able patched the unauthenticated ones.. متى: 2026-11-12T09:39:55+00:00. كيف: The malicious activity started shortly after a researcher dropped over 30 zero-days.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/08/N-Able.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/"
+    ]
+  },
+  {
+    "id": "3ca0085eba4f5e008c5f67a4",
+    "title": "Hackers plant GSocket on Linux servers for persistent access",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+    "published": "2026-11-12T09:38:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers plant GSocket on Linux servers for persistent access. What: Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access.. When: 2026-11-12T09:38:00+00:00. How: Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers plant GSocket on Linux servers for persistent access. ماذا: Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access.. متى: 2026-11-12T09:38:00+00:00. كيف: Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/03/05/hand.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/"
+    ]
+  },
+  {
+    "id": "3d418711a11cfaf3d2d1e543",
+    "title": "London hotel put admin login for booking website on whiteboard behind the front desk",
+    "link": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
+    "published": "2026-11-12T09:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: London hotel put admin login for booking website on whiteboard behind the front desk. What: London hotel put admin login for booking website on whiteboard behind the front desk. When: 2026-11-12T09:30:00+00:00. How: As he was passing through the lobby, Tepavicharov noticed that the door behind the front desk was open and, inside that back room, there was a whiteboard. Action: See Arabic action below.",
+    "summary_ar": "من: London hotel put admin login for booking website on whiteboard behind the front desk. ماذا: London hotel put admin login for booking website on whiteboard behind the front desk. متى: 2026-11-12T09:30:00+00:00. كيف: As he was passing through the lobby, Tepavicharov noticed that the door behind the front desk was open and, inside that back room, there was a whiteboard.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5308894.jpg?imageId=5308894&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889"
+    ]
+  },
+  {
+    "id": "26d811aac83d69688556f9e5",
+    "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+    "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+    "published": "2026-11-12T09:25:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover. What: MongoDB, the company that makes the database, released fixed versions earlier this week.. When: 2026-11-12T09:25:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover. ماذا: MongoDB, the company that makes the database, released fixed versions earlier this week.. متى: 2026-11-12T09:25:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-118383"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RJLDSM13MwenwxG4xnZ-Td2_zmnya-Y39FLHlNk-7P3hZ5w1qGjG3XFqT-4gaeZIxSepWWNM53bKTIkZBNA-X_tVKsrgWbw8u81mjLzL6dXvTtvKfKeT-FkwSz4CsdMoHNza2NRFy0PJzzmaMROCr3D7e6AKT5UR3Lh4zFb_1w9HMmXXKKvATVWHU-E/s1600/mongo-poc.gif",
+    "sources": [
+      "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html"
+    ]
+  },
+  {
+    "id": "3773dc5512fb9df911479dfe",
+    "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+    "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+    "published": "2026-11-12T09:23:21+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical Red Hat Quay Vulnerability Could Expose Private Container Images. What: Critical Red Hat Quay Vulnerability Could Expose Private Container Images. When: 2026-11-12T09:23:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Red Hat Quay Vulnerability Could Expose Private Container Images. ماذا: Critical Red Hat Quay Vulnerability Could Expose Private Container Images. متى: 2026-11-12T09:23:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Red-Hat.jpeg",
+    "sources": [
+      "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/"
+    ]
+  },
+  {
+    "id": "3cbd0d270797abb78c20b7f0",
+    "title": "Maersk Reveals Data Breach as Extortion Group Demands $5m",
+    "link": "https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/",
+    "published": "2026-11-12T08:49:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Maersk Reveals Data Breach as Extortion Group Demands $5m. What: Maersk Reveals Data Breach as Extortion Group Demands $5m. When: 2026-11-12T08:49:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Maersk Reveals Data Breach as Extortion Group Demands $5m. ماذا: Maersk Reveals Data Breach as Extortion Group Demands $5m. متى: 2026-11-12T08:49:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/0fab566c-d687-4039-a456-631027aa4b79.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/"
+    ]
+  },
+  {
+    "id": "2f643c57e2d5a8eb76825808",
+    "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+    "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+    "published": "2026-11-12T08:38:47+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Maersk Confirms Data Theft Amid $5 Million Extortion Attempt. What: Maersk Confirms Data Theft Amid $5 Million Extortion Attempt. When: 2026-11-12T08:38:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Maersk Confirms Data Theft Amid $5 Million Extortion Attempt. ماذا: Maersk Confirms Data Theft Amid $5 Million Extortion Attempt. متى: 2026-11-12T08:38:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Maersk.jpeg",
+    "sources": [
+      "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/"
+    ]
+  },
+  {
+    "id": "c2d283cd7530758cef5e1b0f",
+    "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+    "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+    "published": "2026-11-12T08:20:37+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The crash Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data. What: A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines.. When: 2026-11-12T08:20:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The crash Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data. ماذا: A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines.. متى: 2026-11-12T08:20:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD-9bYYTxb5WmvOmftwsTAe5hDcHyjm12YlQj320OhT6WqICBOe0D6nQf-PPslE-I0c0r8xvZdTAXfyPwGQxHWRiQ5HSIPEZGEiNrE15ygDNZCRzzVvGugdRlIq6IARQf38iJG-MN-uo7MvdXXcA0wXIGDm0-olouPSw_SbBm2-2CYGHb4uHgtREv2ycI/s1600/nodeks.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html"
+    ]
+  },
+  {
+    "id": "417b99b8248b9848ddd65700",
+    "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+    "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+    "published": "2026-11-12T06:42:47+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.. What: Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories. When: 2026-11-12T06:42:47+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.. ماذا: Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories. متى: 2026-11-12T06:42:47+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html"
+    ]
+  },
+  {
+    "id": "8b748363b7cc622cd7fd66e9",
+    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+    "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+    "published": "2026-11-12T05:12:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely. What: Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday.. When: 2026-11-12T05:12:26+00:00. How: Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely. ماذا: Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday.. متى: 2026-11-12T05:12:26+00:00. كيف: Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-119618"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpi_uN6PmG2Gn1agNMsOrsCp324eH-utKkDl_SPe32ggjcWFPjxZSyeA1KvAtvI9SQ4VAN_zssvdJLJ59IXE8_-MatPOyFXY-FcwtL7HtfKyW3MtsKwglIe2X62WBOcUkPMv-klM1h8T2EBMWFOWyPG89bfbAHS5byyfXATXN_lUUJWmUGWChekyWxTQ/s1600/apache-http.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html"
+    ]
+  },
+  {
+    "id": "f1a5b4bff7b509d2118091bc",
+    "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+    "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+    "published": "2026-11-12T04:39:48+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients. What: ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients. When: 2026-11-12T04:39:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients. ماذا: ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients. متى: 2026-11-12T04:39:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1600/screenconnect-hack.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html"
+    ]
+  },
+  {
+    "id": "d14bdfc62ea5799a21ac576c",
+    "title": "Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates",
+    "link": "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244",
+    "published": "2026-11-12T04:22:18+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates. What: Former certification authority eMudhra has claimed a buggy Python script is the main reason it issued laughably insecure digital certificates.. When: 2026-11-12T04:22:18+00:00. How: The company posted its account of the matter on Bugzilla where a user with the handle “Naveen Kumar ML” wrote “During a single key‑generation ceremony on 30 April 2025, sixteen subordinate (issuing) CA key pairs in eMudhra’s ‘B’ and ‘C’ series were generated correctly on a hardware security module and then processed through an approved wrap/unwrap round‑trip using a custom python key‑handling script.” eMudhra aimed to create eight ECDSA P-384 private keys which should have been 48 bytes long. Action: See Arabic action below.",
+    "summary_ar": "من: Disgraced former CA eMudhra blames buggy script for hopelessly weak certificates. ماذا: Former certification authority eMudhra has claimed a buggy Python script is the main reason it issued laughably insecure digital certificates.. متى: 2026-11-12T04:22:18+00:00. كيف: The company posted its account of the matter on Bugzilla where a user with the handle “Naveen Kumar ML” wrote “During a single key‑generation ceremony on 30 April 2025, sixteen subordinate (issuing) CA key pairs in eMudhra’s ‘B’ and ‘C’ series were generated correctly on a hardware security module and then processed through an approved wrap/unwrap round‑trip using a custom python key‑handling script.” eMudhra aimed to create eight ECDSA P-384 private keys which should have been 48 bytes long.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/229817.jpg?imageId=229817&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/12/disgraced-former-ca-emudhra-blames-buggy-script-for-hopelessly-weak-certificates/5309244"
+    ]
+  },
+  {
     "id": "d9fc7bca781a0c5021389c6b",
     "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
     "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
@@ -6902,24 +7381,6 @@
     ]
   },
   {
-    "id": "c398452d61b2b595faebbf47",
-    "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
-    "published": "2026-11-04T06:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. What: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. ماذا: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/"
-    ]
-  },
-  {
     "id": "a4af9871b7ba054bc76daad4",
     "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
@@ -6953,6 +7414,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/"
+    ]
+  },
+  {
+    "id": "c398452d61b2b595faebbf47",
+    "title": "CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/",
+    "published": "2026-11-04T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. What: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. ماذا: CrowdStrike Introduces Agentic Adversary Emulation to Counter AI-Enabled Adversaries. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-agentic-adversary-emulation-counters-ai-enabled-adversaries/"
     ]
   },
   {
@@ -8030,6 +8509,24 @@
     ]
   },
   {
+    "id": "710937bcc980018a994d4c4a",
+    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
+    "published": "2026-11-03T08:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. What: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. When: 2026-11-03T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. ماذا: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. متى: 2026-11-03T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/"
+    ]
+  },
+  {
     "id": "914eba08ce82050c1c0f6538",
     "title": "Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/",
@@ -8081,24 +8578,6 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/"
-    ]
-  },
-  {
-    "id": "710937bcc980018a994d4c4a",
-    "title": "CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/",
-    "published": "2026-11-03T08:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. What: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. When: 2026-11-03T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. ماذا: CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability. متى: 2026-11-03T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/"
     ]
   },
   {
@@ -143436,42 +143915,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/Russia.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/"
-    ]
-  },
-  {
-    "id": "bb696aebeeffaf4899a1349e",
-    "title": "I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this",
-    "link": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
-    "published": "2026-05-16T11:00:53+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this. What: I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this. When: 2026-05-16T11:00:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this. ماذا: I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this. متى: 2026-05-16T11:00:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d543894e91f07f6b655e291689f233ca79e13177/2026/05/14/2c1da756-7465-4392-a0cb-c1619bd62938/luspeaker-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/"
-    ]
-  },
-  {
-    "id": "3e79b7f41b5aa581e161e5a1",
-    "title": "Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick",
-    "link": "https://www.zdnet.com/article/google-fitbit-air-deal/",
-    "published": "2026-05-16T10:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick. What: Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick. When: 2026-05-16T10:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick. ماذا: Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick. متى: 2026-05-16T10:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/aa521761a72db1683355d1b8dfe00588c1349d78/2026/05/15/8d02c1cc-02c3-462c-8c3c-fbb1ea8d3a6b/screenshot-2026-05-15-at-4-06-29-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-fitbit-air-deal/"
     ]
   }
 ]
