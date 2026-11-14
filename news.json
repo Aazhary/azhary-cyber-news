@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "403e4bdfaeb6831be7959814",
+    "title": "Cursor confirms security breach led to malicious Claude Code extension",
+    "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "published": "2026-11-14T17:27:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Cursor confirms security breach led to malicious Claude Code extension. What: Cursor confirms security breach led to malicious Claude Code extension. When: 2026-11-14T17:27:25+00:00. How: Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. Action: See Arabic action below.",
+    "summary_ar": "من: Cursor confirms security breach led to malicious Claude Code extension. ماذا: Cursor confirms security breach led to malicious Claude Code extension. متى: 2026-11-14T17:27:25+00:00. كيف: Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/07/13/cursor-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+    ]
+  },
+  {
+    "id": "e253199b5be0045675eed657",
+    "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+    "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+    "published": "2026-11-14T15:15:49+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: US disrupts North Korean campaign behind $400 million crypto theft. What: US disrupts North Korean campaign behind $400 million crypto theft. When: 2026-11-14T15:15:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: US disrupts North Korean campaign behind $400 million crypto theft. ماذا: US disrupts North Korean campaign behind $400 million crypto theft. متى: 2026-11-14T15:15:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
+    ]
+  },
+  {
     "id": "3772cdf174b05671ca994ccb",
     "title": "Is AI Making Us Worse at Cybersecurity?",
     "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
@@ -144441,155 +144477,6 @@
     "sources": [
       "https://www.zdnet.com/article/5-ways-to-fortify-your-network-against-ai-attacks/",
       "https://www.zdnet.com/article/cyberattackers-getting-faster-and-smarter-how-to-fight-back/"
-    ]
-  },
-  {
-    "id": "9b5d8311bdfc14152d1e9013",
-    "title": "Shai-Hulud Worm Clones Spread After Code Release",
-    "link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
-    "published": "2026-05-18T19:53:05+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Shai-Hulud Worm Clones Spread After Code Release. What: Shai-Hulud Worm Clones Spread After Code Release. When: 2026-05-18T19:53:05+00:00. How: The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale. Action: See Arabic action below.",
-    "summary_ar": "من: Shai-Hulud Worm Clones Spread After Code Release. ماذا: Shai-Hulud Worm Clones Spread After Code Release. متى: 2026-05-18T19:53:05+00:00. كيف: The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a4214dc2b88ddc4/6a0b5b14fe7bf093eb769187/sandworms_FlixPix_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release"
-    ]
-  },
-  {
-    "id": "42791cb761652cc85661f994",
-    "title": "How to upgrade your 'incompatible' Windows 10 PC to Windows 11 - for free",
-    "link": "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11/",
-    "published": "2026-05-18T19:11:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Microsoft really doesn't want customers to upgrade older PCs to Windows 11, but there are workarounds for all but the oldest devices.. What: How to upgrade your 'incompatible' Windows 10 PC to Windows 11 - for free. When: 2026-05-18T19:11:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft really doesn't want customers to upgrade older PCs to Windows 11, but there are workarounds for all but the oldest devices.. ماذا: How to upgrade your 'incompatible' Windows 10 PC to Windows 11 - for free. متى: 2026-05-18T19:11:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9774e5a3ffc7985269739154bdfe438721f80f22/2026/05/18/509240eb-b905-4f64-8aa9-2df80a897ea0/gettyimages-1705802879.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11/",
-      "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11-for-free-today/",
-      "https://www.zdnet.com/article/upgrade-your-incompatible-windows-10-pc-to-windows-11-for-free-heres-how/",
-      "https://www.zdnet.com/article/how-to-upgrade-your-incompatible-windows-10-pc-to-windows-11-for-free/"
-    ]
-  },
-  {
-    "id": "d8f78b4633321b8d4ed8d31c",
-    "title": "Why Wave is my new go-to terminal app - how I use this powerful tool",
-    "link": "https://www.zdnet.com/article/why-wave-just-became-my-go-to-terminal-app/",
-    "published": "2026-05-18T18:30:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Why Wave is my new go-to terminal app - how I use this powerful tool. What: Why Wave is my new go-to terminal app - how I use this powerful tool. When: 2026-05-18T18:30:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Why Wave is my new go-to terminal app - how I use this powerful tool. ماذا: Why Wave is my new go-to terminal app - how I use this powerful tool. متى: 2026-05-18T18:30:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/462fe891bffb45e1212a8a8e00616dc51f23ad7f/2026/05/18/a31186a9-d3cf-4851-b500-83eddca48d9d/wavetermhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-wave-just-became-my-go-to-terminal-app/"
-    ]
-  },
-  {
-    "id": "782d470738808e5df52c6a74",
-    "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-    "published": "2026-05-18T17:28:02+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Leaked Shai-Hulud malware fuels new npm infostealer campaign. What: Leaked Shai-Hulud malware fuels new npm infostealer campaign. When: 2026-05-18T17:28:02+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Leaked Shai-Hulud malware fuels new npm infostealer campaign. ماذا: Leaked Shai-Hulud malware fuels new npm infostealer campaign. متى: 2026-05-18T17:28:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/NPM-worms.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/"
-    ]
-  },
-  {
-    "id": "470c626ab990ec449ed4c4e9",
-    "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
-    "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
-    "published": "2026-05-18T17:21:18+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests. What: INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests. When: 2026-05-18T17:21:18+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests. ماذا: INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests. متى: 2026-05-18T17:21:18+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s16000/hackers.png",
-    "sources": [
-      "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html"
-    ]
-  },
-  {
-    "id": "00a0d4d392a3c6de20da5009",
-    "title": "Linux kernel flaw opens root-only files to unprivileged users",
-    "link": "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950",
-    "published": "2026-05-18T16:20:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: What FOSS analytics vendor Metabase memorably dubbed the strip-mining era of open source security continues.. What: The bug affects multiple LTS kernel lines from 5.10 upward, although a fix has already landed – and there is now a proposal for reducing the odds of similar surprises in future.. When: 2026-05-18T16:20:00+00:00. How: What FOSS analytics vendor Metabase memorably dubbed the strip-mining era of open source security continues. Action: See Arabic action below.",
-    "summary_ar": "من: What FOSS analytics vendor Metabase memorably dubbed the strip-mining era of open source security continues.. ماذا: The bug affects multiple LTS kernel lines from 5.10 upward, although a fix has already landed – and there is now a proposal for reducing the odds of similar surprises in future.. متى: 2026-05-18T16:20:00+00:00. كيف: What FOSS analytics vendor Metabase memorably dubbed the strip-mining era of open source security continues.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-46333"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/1683625.jpg?imageId=1683625&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/18/linux-kernel-flaw-opens-root-only-files-to-unprivileged-users/5241950"
-    ]
-  },
-  {
-    "id": "9eb455a06f4225e61cfff8bf",
-    "title": "I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware",
-    "link": "https://www.zdnet.com/article/codex-to-customize-my-hyprland-desktop/",
-    "published": "2026-05-18T16:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware. What: I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware. When: 2026-05-18T16:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware. ماذا: I asked Codex AI to customize my Hyprland desktop - it worked, but beginners beware. متى: 2026-05-18T16:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/70e8d1619cf7489d19e4bc7d0e1a80913b8e50c1/2026/05/18/71a400c1-49d1-4030-8c1f-51a5dafbd2ce/hyperlandhero-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/codex-to-customize-my-hyprland-desktop/"
-    ]
-  },
-  {
-    "id": "1210216b143f849f8b08d428",
-    "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
-    "published": "2026-05-18T15:41:55+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive. What: Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.. When: 2026-05-18T15:41:55+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive. ماذا: Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.. متى: 2026-05-18T15:41:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f692ec12934e4c2/6a0af74e239afa81b3940d8e/iran1800_Hakan_Gider_alamy.png?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive"
     ]
   }
 ]
