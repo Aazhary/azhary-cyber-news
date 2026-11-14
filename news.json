@@ -1453,6 +1453,24 @@
   },
   {
     "id": "acbc5dbe2a6e0d47bb711ca2",
+    "title": "I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours",
+    "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
+    "published": "2026-11-12T17:58:52+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours. What: I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours. When: 2026-11-12T17:58:52+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours. ماذا: I checked Gemini’s new Memory summary to see what it knew about me – how to see and edit yours. متى: 2026-11-12T17:58:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Gemini-memory-summary.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/"
+    ]
+  },
+  {
+    "id": "acbc5dbe2a6e0d47bb711ca2",
     "title": "You can force Gemini to forget about you now – how to edit its Memory",
     "link": "https://www.zdnet.com/innovation/google-gemini-memory-summary-user-control/",
     "published": "2026-11-12T17:58:52+00:00",
@@ -144276,207 +144294,6 @@
     "image": "https://www.zdnet.com/a/img/resize/4441e18b0fde99627ad960ac786c433f3929baee/2026/04/28/4c04642d-1b48-4c3c-82a2-e1ef480f364d/img-4074.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/cable-cords-and-adapters-i-never-throw-away/"
-    ]
-  },
-  {
-    "id": "96d406c942e56873f6b31daf",
-    "title": "Do fear the Reaper - stealer swipes macOS users' passwords, wallets, then backdoors them",
-    "link": "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258",
-    "published": "2026-05-18T23:32:48+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A new infostealer variant targets macOS users by spoofing Apple, Microsoft, and Google and then then gets to work searching for victims’ password managers so it can steal all of their credentials and access cryptocurrency wallets such as MetaMask and Phantom.. What: But unlike earlier SHub versions and similar macOS stealer campaigns that rely on ClickFix social engineering tactics to trick the user into pasting a ScriptEditor command into Apple’s Terminal command-line interface, Reaper bypasses Terminal altogether and therefore defeats defenses Apple added to Tahoe 26.4.. When: 2026-05-18T23:32:48+00:00. How: Assuming that the machine is located elsewhere and the user clicks on the fake tool installer, they open Apple’s Script Editor app via a sneaky link that’s heavily padded with ASCII art and fake terms to push the malicious command far below the visible portion of the window when it loads. Action: See Arabic action below.",
-    "summary_ar": "من: A new infostealer variant targets macOS users by spoofing Apple, Microsoft, and Google and then then gets to work searching for victims’ password managers so it can steal all of their credentials and access cryptocurrency wallets such as MetaMask and Phantom.. ماذا: But unlike earlier SHub versions and similar macOS stealer campaigns that rely on ClickFix social engineering tactics to trick the user into pasting a ScriptEditor command into Apple’s Terminal command-line interface, Reaper bypasses Terminal altogether and therefore defeats defenses Apple added to Tahoe 26.4.. متى: 2026-05-18T23:32:48+00:00. كيف: Assuming that the machine is located elsewhere and the user clicks on the fake tool installer, they open Apple’s Script Editor app via a sneaky link that’s heavily padded with ASCII art and fake terms to push the malicious command far below the visible portion of the window when it loads.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5242280.jpg?imageId=5242280&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/19/do-fear-the-reaper-stealer-swipes-macos-users-passwords-wallets-then-backdoors-them/5242258"
-    ]
-  },
-  {
-    "id": "908615b2c1597cf1af42190c",
-    "title": "Microsoft surprises with its first server Linux distribution: Azure Linux 4.0",
-    "link": "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/",
-    "published": "2026-05-18T22:53:57+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux.. What: Microsoft surprises with its first server Linux distribution: Azure Linux 4.0. When: 2026-05-18T22:53:57+00:00. How: You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux. Action: See Arabic action below.",
-    "summary_ar": "من: You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux.. ماذا: Microsoft surprises with its first server Linux distribution: Azure Linux 4.0. متى: 2026-05-18T22:53:57+00:00. كيف: You'll be able to run this Linux distro on both Azure and your desktop using Windows Subsystem for Linux.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/da64984375a52a5289ade7d6557d4a098af4c89c/2026/05/18/083e67b0-75a2-4d37-8280-cad445fd054a/gettyimages-2265761835.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/"
-    ]
-  },
-  {
-    "id": "7b98db42668af38fe226af10",
-    "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-    "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-    "published": "2026-05-18T22:15:30+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers. What: INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers. When: 2026-05-18T22:15:30+00:00. How: [...] INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers Action: See Arabic action below.",
-    "summary_ar": "من: INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers. ماذا: INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers. متى: 2026-05-18T22:15:30+00:00. كيف: [...] INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/INTERPOL.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/"
-    ]
-  },
-  {
-    "id": "71a5902838d9a0b12ae86322",
-    "title": "Shai-Hulud copycat worm infects yet another npm package",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180",
-    "published": "2026-05-18T22:07:59+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: It now contains a clone of Shai-Hulud, which TeamPCP published last week on GitHub after poisoning more than 170 npm packages with the credential-stealing malware as part of the ongoing supply chain attacks targeting open source dev tools.. What: A Shai-Hulud copycat has turned up in yet another npm package just five days after TeamPCP open sourced the worm and announced a supply-chain attack competition on BreachForums.. When: 2026-05-18T22:07:59+00:00. How: A Shai-Hulud copycat has turned up in yet another npm package just five days after TeamPCP open sourced the worm and announced a supply-chain attack competition on BreachForums. Action: See Arabic action below.",
-    "summary_ar": "من: It now contains a clone of Shai-Hulud, which TeamPCP published last week on GitHub after poisoning more than 170 npm packages with the credential-stealing malware as part of the ongoing supply chain attacks targeting open source dev tools.. ماذا: A Shai-Hulud copycat has turned up in yet another npm package just five days after TeamPCP open sourced the worm and announced a supply-chain attack competition on BreachForums.. متى: 2026-05-18T22:07:59+00:00. كيف: A Shai-Hulud copycat has turned up in yet another npm package just five days after TeamPCP open sourced the worm and announced a supply-chain attack competition on BreachForums.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5242247.jpg?imageId=5242247&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/cyber-crime/2026/05/18/shai-hulud-copycat-hits-another-npm-package/5242180"
-    ]
-  },
-  {
-    "id": "3685c727a55881ace236f6df",
-    "title": "Is 2026 the Year AI Bills of Materials Get Real?",
-    "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
-    "published": "2026-05-18T21:44:53+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Is 2026 the Year AI Bills of Materials Get Real?. What: Is 2026 the Year AI Bills of Materials Get Real?. When: 2026-05-18T21:44:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Is 2026 the Year AI Bills of Materials Get Real?. ماذا: Is 2026 the Year AI Bills of Materials Get Real?. متى: 2026-05-18T21:44:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39910294ff00e951/65e245da27df54040a108e7f/time-robot-Kirsty-Pargeter-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real"
-    ]
-  },
-  {
-    "id": "4fcc4f4004dceef65e17d9a1",
-    "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
-    "published": "2026-05-18T21:43:51+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Microsoft Exchange Zero-Day Under Attack, No Patch Available. What: Microsoft Exchange Zero-Day Under Attack, No Patch Available. When: 2026-05-18T21:43:51+00:00. How: Microsoft Exchange Zero-Day Under Attack, No Patch Available Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft Exchange Zero-Day Under Attack, No Patch Available. ماذا: Microsoft Exchange Zero-Day Under Attack, No Patch Available. متى: 2026-05-18T21:43:51+00:00. كيف: Microsoft Exchange Zero-Day Under Attack, No Patch Available. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-42897"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a4b55f47bd9ed66/6a0b619572bcb61757c995eb/exchange_Piotr_Swat_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch"
-    ]
-  },
-  {
-    "id": "ed3e7e0655ebd76576218c86",
-    "title": "SHub macOS infostealer variant spoofs Apple security updates",
-    "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-    "published": "2026-05-18T21:42:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor.. What: SHub macOS infostealer variant spoofs Apple security updates. When: 2026-05-18T21:42:20+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor.. ماذا: SHub macOS infostealer variant spoofs Apple security updates. متى: 2026-05-18T21:42:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/Apple.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/"
-    ]
-  },
-  {
-    "id": "c91ca8474c2c62f63f4cafe1",
-    "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
-    "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
-    "published": "2026-05-18T21:24:59+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: 'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments. What: The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.. When: 2026-05-18T21:24:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments. ماذا: The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.. متى: 2026-05-18T21:24:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf136884c4aa5baab/6a0b76008388efee0d946879/openclaw_jackpress_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw"
-    ]
-  },
-  {
-    "id": "94138721a3a5194919ce144a",
-    "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-    "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-    "published": "2026-05-18T20:48:21+00:00",
-    "source": "krebsonsecurity.com",
-    "summary_en": "Who: Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems.. What: “Backdoor in some software packages, and every time they build something new they deploy your backdoor left and right.” In response to questions, a spokesperson for CISA said the agency is aware of the reported exposure and is continuing to investigate the situation.. When: 2026-05-18T20:48:21+00:00. How: Valadon said he reached out because the owner in this case wasn’t responding and the information exposed was highly sensitive. Action: See Arabic action below.",
-    "summary_ar": "من: Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems.. ماذا: “Backdoor in some software packages, and every time they build something new they deploy your backdoor left and right.” In response to questions, a spokesperson for CISA said the agency is aware of the reported exposure and is continuing to investigate the situation.. متى: 2026-05-18T20:48:21+00:00. كيف: Valadon said he reached out because the owner in this case wasn’t responding and the information exposed was highly sensitive.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "",
-    "sources": [
-      "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
-    ]
-  },
-  {
-    "id": "91a592bdbc9998f4199ba45b",
-    "title": "Cloud attacks are getting faster and deadlier - 4 ways to secure your business",
-    "link": "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/",
-    "published": "2026-05-18T20:13:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to prepare defenses.. What: Cloud attacks are getting faster and deadlier - 4 ways to secure your business. When: 2026-05-18T20:13:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google's latest threat report warns that third-party tools are now prime targets for attackers - and businesses have only days to prepare defenses.. ماذا: Cloud attacks are getting faster and deadlier - 4 ways to secure your business. متى: 2026-05-18T20:13:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c27d3ffb413bca7a42caf5c530321ed3c586f3aa/2026/05/18/04c23401-716e-49b4-9695-ce309efb9e50/image-2.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-cloud-threat-report-third-party-software-ai-attacks/"
-    ]
-  },
-  {
-    "id": "ae80d6c206102912e21dc333",
-    "title": "5 ways to fortify your network against the new speed of AI attacks",
-    "link": "https://www.zdnet.com/article/5-ways-to-fortify-your-network-against-ai-attacks/",
-    "published": "2026-05-18T20:07:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 5 ways to fortify your network against the new speed of AI attacks. What: 5 ways to fortify your network against the new speed of AI attacks. When: 2026-05-18T20:07:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 5 ways to fortify your network against the new speed of AI attacks. ماذا: 5 ways to fortify your network against the new speed of AI attacks. متى: 2026-05-18T20:07:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/33342b51916d3f8eb6ef7d3a07cb155f088cee53/2026/05/18/f6ffa6ea-df99-4e58-beb4-437da9049ff9/image-1.png?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/5-ways-to-fortify-your-network-against-ai-attacks/",
-      "https://www.zdnet.com/article/cyberattackers-getting-faster-and-smarter-how-to-fight-back/"
     ]
   }
 ]
