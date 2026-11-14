@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "43803d3c2ee64417485c1abc",
+    "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+    "link": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+    "published": "2026-11-14T08:18:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters.. What: She said that more needs to be done from the tech side to ensure different parties in the chain of publication are detected early and downranked or blocked accordingly.. When: 2026-11-14T08:18:00+00:00. How: \"I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable. Action: See Arabic action below.",
+    "summary_ar": "من: A panel of online safety pros assembled before Parliament's Communications and Digital Committee on Tuesday, taking aim at the likes of Google, Microsoft, Meta, and ByteDance for failing to act on important matters.. ماذا: She said that more needs to be done from the tech side to ensure different parties in the chain of publication are detected early and downranked or blocked accordingly.. متى: 2026-11-14T08:18:00+00:00. كيف: \"I would downrank 'unwilling' and 'unwanted,' and I would downrank 'asleep porn' as well… because it just means that it's easily findable.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5254826.jpg?imageId=5254826&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302"
+    ]
+  },
+  {
     "id": "21f8826ba46febd6cc57ecca",
     "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
     "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
@@ -942,6 +960,24 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/06/vulnerability-software-bug.webp",
     "sources": [
       "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+    ]
+  },
+  {
+    "id": "74c03507cc4ed031b05f81b0",
+    "title": "Inside Falcon AI Gateway: One Control Point for AI Traffic",
+    "link": "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/",
+    "published": "2026-11-13T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Inside Falcon AI Gateway: One Control Point for AI Traffic. What: Inside Falcon AI Gateway: One Control Point for AI Traffic. When: 2026-11-13T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Inside Falcon AI Gateway: One Control Point for AI Traffic. ماذا: Inside Falcon AI Gateway: One Control Point for AI Traffic. متى: 2026-11-13T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/falcon-ai-gateway-one-control-point-for-ai-traffic/"
     ]
   },
   {
@@ -9019,24 +9055,6 @@
     ]
   },
   {
-    "id": "a4af9871b7ba054bc76daad4",
-    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
-    "published": "2026-11-04T06:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. What: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. ماذا: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/"
-    ]
-  },
-  {
     "id": "4be5b1b33e187ea6bb0fc2b0",
     "title": "CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/",
@@ -9088,6 +9106,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-innovations-secure-cloud-ai-runs-on/"
+    ]
+  },
+  {
+    "id": "a4af9871b7ba054bc76daad4",
+    "title": "CrowdStrike Brings Enterprise Browser Security to the Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/",
+    "published": "2026-11-04T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. What: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. When: 2026-11-04T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. ماذا: CrowdStrike Brings Enterprise Browser Security to the Falcon Platform. متى: 2026-11-04T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-enterprise-browser-security-to-falcon-platform/"
     ]
   },
   {
@@ -145096,114 +145132,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Grafana.jpeg",
     "sources": [
       "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/"
-    ]
-  },
-  {
-    "id": "22499c573008f84681d3b6a1",
-    "title": "Exploitation of Critical NGINX Vulnerability Begins",
-    "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
-    "published": "2026-05-18T07:27:42+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Exploitation of Critical NGINX Vulnerability Begins. What: Exploitation of Critical NGINX Vulnerability Begins. When: 2026-05-18T07:27:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Exploitation of Critical NGINX Vulnerability Begins. ماذا: Exploitation of Critical NGINX Vulnerability Begins. متى: 2026-05-18T07:27:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Nginx.jpeg",
-    "sources": [
-      "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/"
-    ]
-  },
-  {
-    "id": "64de174d576ca6c55abb6087",
-    "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-    "published": "2026-05-18T07:18:33+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Exploit available for new DirtyDecrypt Linux root escalation flaw. What: A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems.. When: 2026-05-18T07:18:33+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Exploit available for new DirtyDecrypt Linux root escalation flaw. ماذا: A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems.. متى: 2026-05-18T07:18:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/"
-    ]
-  },
-  {
-    "id": "28ea519925d08b254afa891a",
-    "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-    "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-    "published": "2026-05-18T06:46:37+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations. What: Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations. When: 2026-05-18T06:46:37+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations. ماذا: Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations. متى: 2026-05-18T06:46:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html"
-    ]
-  },
-  {
-    "id": "97c19592df05a1eb7aaf07f1",
-    "title": "Grafana Labs admits all its codebase are belong to someone who popped its GitHub account",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/18/grafana-labs-admits-attackers-downloaded-its-codebase-from-github/5241686",
-    "published": "2026-05-18T05:46:31+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Observability outfit Grafana Labs has revealed that an attacker accessed its GitHub repository and stole its codebase.. What: Grafana Labs admits all its codebase are belong to someone who popped its GitHub account. When: 2026-05-18T05:46:31+00:00. How: The company thinks it has identified the source of the credential leak, and therefore “invalidated the compromised credentials and implemented additional security measures to further secure our environment against unauthorized access.” But that didn’t stop the attacker from threatening to release the company’s code unless Grafana paid a ransom. Action: See Arabic action below.",
-    "summary_ar": "من: Observability outfit Grafana Labs has revealed that an attacker accessed its GitHub repository and stole its codebase.. ماذا: Grafana Labs admits all its codebase are belong to someone who popped its GitHub account. متى: 2026-05-18T05:46:31+00:00. كيف: The company thinks it has identified the source of the credential leak, and therefore “invalidated the compromised credentials and implemented additional security measures to further secure our environment against unauthorized access.” But that didn’t stop the attacker from threatening to release the company’s code unless Grafana paid a ransom.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/224087.jpg?imageId=224087&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/cyber-crime/2026/05/18/grafana-labs-admits-attackers-downloaded-its-codebase-from-github/5241686"
-    ]
-  },
-  {
-    "id": "07ab3290f108f90dffcf9c04",
-    "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-    "published": "2026-05-18T05:33:20+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws.. What: Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026. When: 2026-05-18T05:33:20+00:00. How: The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. Action: See Arabic action below.",
-    "summary_ar": "من: The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws.. ماذا: Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026. متى: 2026-05-18T05:33:20+00:00. كيف: The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/19/Pwn2Own_Berlin.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/"
-    ]
-  },
-  {
-    "id": "34d2008b4a1fc00e3b2f6e52",
-    "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
-    "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
-    "published": "2026-05-18T04:05:21+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Hackers Earn $1.3 Million at Pwn2Own Berlin 2026. What: Hackers Earn $1.3 Million at Pwn2Own Berlin 2026. When: 2026-05-18T04:05:21+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers Earn $1.3 Million at Pwn2Own Berlin 2026. ماذا: Hackers Earn $1.3 Million at Pwn2Own Berlin 2026. متى: 2026-05-18T04:05:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/08/Pwn2Own-hackers-hacking-competition.jpeg",
-    "sources": [
-      "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/"
     ]
   }
 ]
