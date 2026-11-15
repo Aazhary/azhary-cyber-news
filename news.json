@@ -18,6 +18,24 @@
     ]
   },
   {
+    "id": "4201db3ac6828cb2ec2138c0",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "published": "2026-11-15T18:29:53+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.. What: FBI warns ARTEX AI hacking tool is powering global cyberattacks. When: 2026-11-15T18:29:53+00:00. How: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. Action: See Arabic action below.",
+    "summary_ar": "من: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.. ماذا: FBI warns ARTEX AI hacking tool is powering global cyberattacks. متى: 2026-11-15T18:29:53+00:00. كيف: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/"
+    ]
+  },
+  {
     "id": "bbb8a672708564611ffdc40b",
     "title": "TSMC employee data breach linked to cloud provider",
     "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
@@ -3848,7 +3866,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer"
     ]
@@ -143369,313 +143387,6 @@
     "image": "https://www.zdnet.com/a/img/resize/a51153c4d1a4e53d2da41218afebe9489ca556ce/2026/05/08/b82b10eb-f9ab-468e-b9f1-27bb60e7cb8f/google-io-zdnet-02.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/"
-    ]
-  },
-  {
-    "id": "0b1b22b560356ef257ed9e61",
-    "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
-    "link": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
-    "published": "2026-05-19T21:56:18+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Microsoft seized websites and took down hundreds of virtual machines running a cybercrime service that allegedly sold code-signing certificates to ransomware gangs, thus making their malware look like legitimate software – and allowing criminals to infect thousands of machines in the US, including at least 12 owned and operated by the Windows giant.. What: Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware. When: 2026-05-19T21:56:18+00:00. How: In a subsequent blog post, Microsoft Digital Crimes Unit attorney Steven Masada said the tech company's investigation “further linked Fox Tempest to various additional ransomware affiliates and families, including INC, Qilin, Akira, and others.” Between February and March, the Digital Crimes Unit (DCU), working with “a cooperating source,” anonymously bought and tested the code signing service from John Doe 2, aka SamCodeSign. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft seized websites and took down hundreds of virtual machines running a cybercrime service that allegedly sold code-signing certificates to ransomware gangs, thus making their malware look like legitimate software – and allowing criminals to infect thousands of machines in the US, including at least 12 owned and operated by the Windows giant.. ماذا: Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware. متى: 2026-05-19T21:56:18+00:00. كيف: In a subsequent blog post, Microsoft Digital Crimes Unit attorney Steven Masada said the tech company's investigation “further linked Fox Tempest to various additional ransomware affiliates and families, including INC, Qilin, Akira, and others.” Between February and March, the Digital Crimes Unit (DCU), working with “a cooperating source,” anonymously bought and tested the code signing service from John Doe 2, aka SamCodeSign.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5243050.jpg?imageId=5243050&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013"
-    ]
-  },
-  {
-    "id": "885fcee6e1741ab0ecd53c43",
-    "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
-    "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
-    "published": "2026-05-19T21:55:35+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut. What: Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut. When: 2026-05-19T21:55:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut. ماذا: Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut. متى: 2026-05-19T21:55:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut"
-    ]
-  },
-  {
-    "id": "ff58ee6f405dae26a8e7e5c4",
-    "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-    "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-    "published": "2026-05-19T21:47:31+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals.. What: Cybercrime service disrupted for abusing Microsoft platform to sign malware. When: 2026-05-19T21:47:31+00:00. How: [...] Cybercrime service disrupted for abusing Microsoft platform to sign malware Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals.. ماذا: Cybercrime service disrupted for abusing Microsoft platform to sign malware. متى: 2026-05-19T21:47:31+00:00. كيف: [...] Cybercrime service disrupted for abusing Microsoft platform to sign malware. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/"
-    ]
-  },
-  {
-    "id": "e78adca5ac1939def8fe9163",
-    "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
-    "published": "2026-05-19T21:06:54+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Windows Zero-Day Barrage Continues After Patch Tuesday. What: YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.. When: 2026-05-19T21:06:54+00:00. How: Windows Zero-Day Barrage Continues After Patch Tuesday Action: See Arabic action below.",
-    "summary_ar": "من: Windows Zero-Day Barrage Continues After Patch Tuesday. ماذا: YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.. متى: 2026-05-19T21:06:54+00:00. كيف: Windows Zero-Day Barrage Continues After Patch Tuesday. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94e5c85a811ff21b/6a0cc864ccb12f62a67122e5/zeroday_JLStock_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday"
-    ]
-  },
-  {
-    "id": "32f1afa827407bc60e7d7b71",
-    "title": "Discord rolls out end-to-end encryption on voice, video calls",
-    "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-    "published": "2026-05-19T20:37:45+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Discord rolls out end-to-end encryption on voice, video calls. What: Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE).. When: 2026-05-19T20:37:45+00:00. How: Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). Action: See Arabic action below.",
-    "summary_ar": "من: Discord rolls out end-to-end encryption on voice, video calls. ماذا: Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE).. متى: 2026-05-19T20:37:45+00:00. كيف: Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE).. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Discord.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/"
-    ]
-  },
-  {
-    "id": "992d66a3b3ad7c7354268ba0",
-    "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
-    "link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
-    "published": "2026-05-19T19:49:53+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: The agency's GitHub repository, publicly available since November 2025, was ironically named &quot;Private-CISA.&quot; CISA Exposes Secrets, Credentials in 'Private' Repo. What: CISA Exposes Secrets, Credentials in 'Private' Repo. When: 2026-05-19T19:49:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The agency's GitHub repository, publicly available since November 2025, was ironically named &quot;Private-CISA.&quot; CISA Exposes Secrets, Credentials in 'Private' Repo. ماذا: CISA Exposes Secrets, Credentials in 'Private' Repo. متى: 2026-05-19T19:49:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt188d6215ae555513/6a0cb49ac7403d88c6336bf7/github_PJ_McDonnell_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo"
-    ]
-  },
-  {
-    "id": "3326fc124d8f5c66e14e2751",
-    "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS",
-    "link": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
-    "published": "2026-05-19T19:49:40+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.. What: The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.. When: 2026-05-19T19:49:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.. ماذا: The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.. متى: 2026-05-19T19:49:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92862d21865d67ee/6a0c49b0d929ba87161f7f33/macOS_AfricaStudio_AlamyStockPhoto.png?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos"
-    ]
-  },
-  {
-    "id": "5177123073677dad72d42424",
-    "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-    "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-    "published": "2026-05-19T19:45:39+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: FBI: Americans lost over $388 million to scams using crypto ATMs in 2025. What: FBI: Americans lost over $388 million to scams using crypto ATMs in 2025. When: 2026-05-19T19:45:39+00:00. How: The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. Action: See Arabic action below.",
-    "summary_ar": "من: FBI: Americans lost over $388 million to scams using crypto ATMs in 2025. ماذا: FBI: Americans lost over $388 million to scams using crypto ATMs in 2025. متى: 2026-05-19T19:45:39+00:00. كيف: The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Cryptocurrency-bitcoin.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/"
-    ]
-  },
-  {
-    "id": "0a603bb1377c0f49392968e7",
-    "title": "Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?",
-    "link": "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/",
-    "published": "2026-05-19T19:38:26+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?. What: Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?. When: 2026-05-19T19:38:26+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?. ماذا: Kubuntu vs. Fedora KDE: Which KDE Plasma distro is right for you?. متى: 2026-05-19T19:38:26+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/36cc1da8dee955eb89188bad1036609627d0f361/2026/05/19/b23cd40a-928b-47a3-b09e-fd13a4902955/fedorakdelaptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/kubuntu-vs-fedora-kde-which-kde-plasma-distro-is-right-for-you/"
-    ]
-  },
-  {
-    "id": "775d4df7d7366ba4ccdd9a26",
-    "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-    "published": "2026-05-19T19:35:32+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features.. What: Microsoft Self-Service Password Reset abused in Azure data theft attacks. When: 2026-05-19T19:35:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features.. ماذا: Microsoft Self-Service Password Reset abused in Azure data theft attacks. متى: 2026-05-19T19:35:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/"
-    ]
-  },
-  {
-    "id": "a022cdf1cfbdda6d2a64587a",
-    "title": "6 reasons why Firefox is the better browser for most users",
-    "link": "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/",
-    "published": "2026-05-19T19:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 6 reasons why Firefox is the better browser for most users. What: 6 reasons why Firefox is the better browser for most users. When: 2026-05-19T19:00:48+00:00. How: Still using Chrome, Edge, or Safari? Action: See Arabic action below.",
-    "summary_ar": "من: 6 reasons why Firefox is the better browser for most users. ماذا: 6 reasons why Firefox is the better browser for most users. متى: 2026-05-19T19:00:48+00:00. كيف: Still using Chrome, Edge, or Safari?. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/120048c93119ee08fd752ef06fc5803bdb091e2a/2026/05/19/acf3d6b3-5897-4e85-b18e-227d3cf6a4dd/firefoxlaptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/6-reasons-why-firefox-is-the-better-browser-for-most-users/"
-    ]
-  },
-  {
-    "id": "2a2d068031f7d643d4a514ee",
-    "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
-    "link": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
-    "published": "2026-05-19T18:27:08+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Security researcher Brian Krebs brings us the news that America's Cybersecurity & Infrastructure Agency (CISA) has had a large store of plaintext passwords, SSH private keys, tokens, and \"other sensitive CISA assets\" exposed in a public GitHub repo since at least November 2025.. What: In stunning display of stupid, secret CISA credentials found in public GitHub repo. When: 2026-05-19T18:27:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Security researcher Brian Krebs brings us the news that America's Cybersecurity & Infrastructure Agency (CISA) has had a large store of plaintext passwords, SSH private keys, tokens, and \"other sensitive CISA assets\" exposed in a public GitHub repo since at least November 2025.. ماذا: In stunning display of stupid, secret CISA credentials found in public GitHub repo. متى: 2026-05-19T18:27:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1303783356-1152x648.jpg",
-    "sources": [
-      "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/"
-    ]
-  },
-  {
-    "id": "3b402c86360f74956a2a07b4",
-    "title": "America's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens – and incredibly obvious filenames",
-    "link": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
-    "published": "2026-05-19T17:49:17+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The US Cybersecurity and Infrastructure Security Agency (CISA) left open a GitHub repository named “Private-CISA” containing plain-text passwords, private keys, tokens, and secrets – with obvious file names like “external-secret-repo-creds.yaml” and “AWS-Workspace-Firefox-Passwords.csv” – for six months.. What: GitGuardian reported the leaky repository to CISA on May 14, and the agency took it down a day later.. When: 2026-05-19T17:49:17+00:00. How: After initially reporting the leak through the CERT/CC portal, and only receiving an auto-acknowledgement as of the morning of May 15 – a Friday – Valadon alerted security journalist Brian Krebs about the publicly exposed secrets, which seemed to speed up CISA’s processes. Action: See Arabic action below.",
-    "summary_ar": "من: The US Cybersecurity and Infrastructure Security Agency (CISA) left open a GitHub repository named “Private-CISA” containing plain-text passwords, private keys, tokens, and secrets – with obvious file names like “external-secret-repo-creds.yaml” and “AWS-Workspace-Firefox-Passwords.csv” – for six months.. ماذا: GitGuardian reported the leaky repository to CISA on May 14, and the agency took it down a day later.. متى: 2026-05-19T17:49:17+00:00. كيف: After initially reporting the leak through the CERT/CC portal, and only receiving an auto-acknowledgement as of the morning of May 15 – a Friday – Valadon alerted security journalist Brian Krebs about the publicly exposed secrets, which seemed to speed up CISA’s processes.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5242949.jpg?imageId=5242949&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
-      "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915"
-    ]
-  },
-  {
-    "id": "33184e02464b8caed97108e9",
-    "title": "OpenAI's new image watermarks make it easier to spot AI fakes - here's how",
-    "link": "https://www.zdnet.com/article/openai-image-watermarks-help-spot-ai-fakes/",
-    "published": "2026-05-19T17:45:36+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Older metadata could be stripped out.. What: OpenAI's new image watermarks make it easier to spot AI fakes - here's how. When: 2026-05-19T17:45:36+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Older metadata could be stripped out.. ماذا: OpenAI's new image watermarks make it easier to spot AI fakes - here's how. متى: 2026-05-19T17:45:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/402a71cc8521dc706fee555a58b2448f3263f925/2026/05/19/b73a5b7e-0da9-4e3c-acb3-65d7bc71b971/openais-new-image-watermarks-could-make-ai-fakes-harder-to-hide.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/openai-image-watermarks-help-spot-ai-fakes/"
-    ]
-  },
-  {
-    "id": "560f14a68eed922cba51f9b3",
-    "title": "Google's new AI Search box is here - along with agents and 5 more upgrades",
-    "link": "https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/",
-    "published": "2026-05-19T17:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google now has information agents that work in the background and agentic coding tools that let you build apps directly in Search.. What: Google's new AI Search box is here - along with agents and 5 more upgrades. When: 2026-05-19T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google now has information agents that work in the background and agentic coding tools that let you build apps directly in Search.. ماذا: Google's new AI Search box is here - along with agents and 5 more upgrades. متى: 2026-05-19T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/71b7aba85146bfab96de765a538e6ddb76529cdd/2026/05/19/23cffb58-ca9f-4ecf-ac74-54d3d8c93db7/google-search-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-ai-search-box-with-agents-more-upgrades/"
-    ]
-  },
-  {
-    "id": "703dc29ebb73673cb001a8fc",
-    "title": "Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned)",
-    "link": "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/",
-    "published": "2026-05-19T17:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing into one ambitious tool.. What: Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned). When: 2026-05-19T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google Gemini Omni aims to do for AI video what Nano Banana did for images - combining realism, style control, avatars, and natural-language editing into one ambitious tool.. ماذا: Google's new Omni AI tool will let you video clone yourself - I'm intrigued (and concerned). متى: 2026-05-19T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5c22577884bd17c938e098db6d118633b8346a50/2026/05/08/f5a46996-2190-43b1-bb81-443c69f9a18d/google-io-zdnet-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-omni-ai-tool-video-gemini/"
-    ]
-  },
-  {
-    "id": "22e7027e04d90607f62610be",
-    "title": "Google overhauls its AI plans - which one should you now choose?",
-    "link": "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/",
-    "published": "2026-05-19T17:45:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google overhauls its AI plans - which one should you now choose?. What: Google overhauls its AI plans - which one should you now choose?. When: 2026-05-19T17:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Google overhauls its AI plans - which one should you now choose?. ماذا: Google overhauls its AI plans - which one should you now choose?. متى: 2026-05-19T17:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/4e877c135feb81bae83b9f72f8f702eb9d80773f/2026/05/19/f26ec963-116c-4b8a-b570-a0102f6c5618/google-gemini-ai.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-new-ai-plans-which-should-you-choose-2026/"
     ]
   }
 ]
