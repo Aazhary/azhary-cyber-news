@@ -18,6 +18,78 @@
     ]
   },
   {
+    "id": "47ca43e224a0c950114a1b13",
+    "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+    "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+    "published": "2026-11-16T08:15:12+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.. What: Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign. When: 2026-11-16T08:15:12+00:00. How: Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. Action: See Arabic action below.",
+    "summary_ar": "من: Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.. ماذا: Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign. متى: 2026-11-16T08:15:12+00:00. كيف: Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/AI-phishing.jpeg",
+    "sources": [
+      "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/"
+    ]
+  },
+  {
+    "id": "f159cf23a7b20d4c61ef2119",
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "published": "2026-11-16T07:34:21+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys. What: Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys. When: 2026-11-16T07:34:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys. ماذا: Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys. متى: 2026-11-16T07:34:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
+    ]
+  },
+  {
+    "id": "eb9de4818ae16063f495bff8",
+    "title": "A USB worm’s second life: Retadup spreading CoffeeLoader",
+    "link": "https://securelist.com/retadup-delivers-coffeeloader/121908/",
+    "published": "2026-11-16T07:00:37+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: C:\\ProgramData\\b79faace\\b79faace.dll C:\\Users\\[username]\\AppData\\Local\\b79faace\\b79faace.dll Software\\Microsoft\\Windows\\CurrentVersion\\Run 'b79faace.dll' = 'rundll32.exe \"C:\\ProgramData\\b79faace\\b79faace.dll\",SetCodecs' To protect itself, the downloader creates a registry key that prevents the user from disabling autorun through Task Manager.. What: In August 2026, we detected a new variant of the CoffeeLoader malware in the wild.. When: 2026-11-16T07:00:37+00:00. How: On launch, the NSIS-based installer executable dropped a file named 7z.dll into a temporary directory and ran it through rundll32.exe. Action: See Arabic action below.",
+    "summary_ar": "من: C:\\ProgramData\\b79faace\\b79faace.dll C:\\Users\\[username]\\AppData\\Local\\b79faace\\b79faace.dll Software\\Microsoft\\Windows\\CurrentVersion\\Run 'b79faace.dll' = 'rundll32.exe \"C:\\ProgramData\\b79faace\\b79faace.dll\",SetCodecs' To protect itself, the downloader creates a registry key that prevents the user from disabling autorun through Task Manager.. ماذا: In August 2026, we detected a new variant of the CoffeeLoader malware in the wild.. متى: 2026-11-16T07:00:37+00:00. كيف: On launch, the NSIS-based installer executable dropped a file named 7z.dll into a temporary directory and ran it through rundll32.exe.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12144618/retadup-1_securelist-featured_1200x600_x2.jpg",
+    "sources": [
+      "https://securelist.com/retadup-delivers-coffeeloader/121908/"
+    ]
+  },
+  {
+    "id": "1a13d7025b37d20c5a5e1f67",
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "published": "2026-11-16T06:53:34+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena, BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server. What: BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server. When: 2026-11-16T06:53:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena, BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server. ماذا: BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server. متى: 2026-11-16T06:53:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html"
+    ]
+  },
+  {
     "id": "4201db3ac6828cb2ec2138c0",
     "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
@@ -143117,186 +143189,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png",
     "sources": [
       "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html"
-    ]
-  },
-  {
-    "id": "94d055413f9203fc5741a3a8",
-    "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-    "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-    "published": "2026-05-20T08:14:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension.. What: GitHub confirms breach of 3,800 repos via malicious VSCode extension. When: 2026-05-20T08:14:08+00:00. How: [...] GitHub confirms breach of 3,800 repos via malicious VSCode extension Action: See Arabic action below.",
-    "summary_ar": "من: GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension.. ماذا: GitHub confirms breach of 3,800 repos via malicious VSCode extension. متى: 2026-05-20T08:14:08+00:00. كيف: [...] GitHub confirms breach of 3,800 repos via malicious VSCode extension. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/GitHub.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"
-    ]
-  },
-  {
-    "id": "f1f441104a05591c7cf75678",
-    "title": "4 Android Auto settings I always turn on for a safer ride",
-    "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
-    "published": "2026-05-20T08:00:35+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 4 Android Auto settings I always turn on for a safer ride. What: 4 Android Auto settings I always turn on for a safer ride. When: 2026-05-20T08:00:35+00:00. How: Using Android Auto can be as dangerous as using your phone while driving. Action: See Arabic action below.",
-    "summary_ar": "من: 4 Android Auto settings I always turn on for a safer ride. ماذا: 4 Android Auto settings I always turn on for a safer ride. متى: 2026-05-20T08:00:35+00:00. كيف: Using Android Auto can be as dangerous as using your phone while driving.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ae5c289f34beb94e234704892594ea3b3179545e/2026/05/19/fdd41e54-875c-46b5-a958-f82c3f77f26e/pxl-20260519-161508605.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/"
-    ]
-  },
-  {
-    "id": "c6682ea2f67554756f19d132",
-    "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-    "published": "2026-05-20T07:31:15+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives.. What: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives.. When: 2026-05-20T07:31:15+00:00. How: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives.. ماذا: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives.. متى: 2026-05-20T07:31:15+00:00. كيف: Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/05/28/Windows-headpic.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/"
-    ]
-  },
-  {
-    "id": "4e6cfbf34e6e1451cf6b102c",
-    "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
-    "link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
-    "published": "2026-05-20T07:00:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East. What: Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East. When: 2026-05-20T07:00:00+00:00. How: While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date. Action: See Arabic action below.",
-    "summary_ar": "من: Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East. ماذا: Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East. متى: 2026-05-20T07:00:00+00:00. كيف: While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0be6af563749ef53/6a0cb6c6fc6d781d0eb34f55/rams-at-luxor-in-Egypt-Yuliia24-shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east"
-    ]
-  },
-  {
-    "id": "626029a8c597fffe8aedf12b",
-    "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-    "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-    "published": "2026-05-20T05:12:06+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.. What: Grafana GitHub Breach Exposes Source Code via TanStack npm Attack. When: 2026-05-20T05:12:06+00:00. How: It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories. Action: See Arabic action below.",
-    "summary_ar": "من: It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.. ماذا: Grafana GitHub Breach Exposes Source Code via TanStack npm Attack. متى: 2026-05-20T05:12:06+00:00. كيف: It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html"
-    ]
-  },
-  {
-    "id": "f5ce61b26c4e006f93cf86aa",
-    "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-    "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-    "published": "2026-05-20T05:08:42+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code.. What: GitHub investigates internal repositories breach claimed by TeamPCP. When: 2026-05-20T05:08:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code.. ماذا: GitHub investigates internal repositories breach claimed by TeamPCP. متى: 2026-05-20T05:08:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/GitHub.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/"
-    ]
-  },
-  {
-    "id": "a9f3ef680f5247123f551212",
-    "title": "Everything we saw at Google I/O: Gemini 3.5, Android XR glasses, Spark, and more",
-    "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
-    "published": "2026-05-20T05:05:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Here's everything we saw in Mountain View at Google's annual developer conference.. What: Everything we saw at Google I/O: Gemini 3.5, Android XR glasses, Spark, and more. When: 2026-05-20T05:05:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Here's everything we saw in Mountain View at Google's annual developer conference.. ماذا: Everything we saw at Google I/O: Gemini 3.5, Android XR glasses, Spark, and more. متى: 2026-05-20T05:05:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/a51153c4d1a4e53d2da41218afebe9489ca556ce/2026/05/08/b82b10eb-f9ab-468e-b9f1-27bb60e7cb8f/google-io-zdnet-02.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/"
-    ]
-  },
-  {
-    "id": "53461e8f52d69f98998f5bf4",
-    "title": "How to Protect Identities and Sessions from Infostealers",
-    "link": "https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/",
-    "published": "2026-05-20T05:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: How to Protect Identities and Sessions from Infostealers. What: How to Protect Identities and Sessions from Infostealers. When: 2026-05-20T05:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How to Protect Identities and Sessions from Infostealers. ماذا: How to Protect Identities and Sessions from Infostealers. متى: 2026-05-20T05:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/"
-    ]
-  },
-  {
-    "id": "c507821067d487798275110b",
-    "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
-    "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-    "published": "2026-05-20T04:01:15+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.. What: GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories. When: 2026-05-20T04:01:15+00:00. How: GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. Action: See Arabic action below.",
-    "summary_ar": "من: GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.. ماذا: GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories. متى: 2026-05-20T04:01:15+00:00. كيف: GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html"
-    ]
-  },
-  {
-    "id": "e4270fb691a78d66671910ca",
-    "title": "What It'll Take to Make AI BOMs Usable in a Modern Security Program",
-    "link": "https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program",
-    "published": "2026-05-20T03:44:40+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: What It'll Take to Make AI BOMs Usable in a Modern Security Program. What: What It'll Take to Make AI BOMs Usable in a Modern Security Program. When: 2026-05-20T03:44:40+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: What It'll Take to Make AI BOMs Usable in a Modern Security Program. ماذا: What It'll Take to Make AI BOMs Usable in a Modern Security Program. متى: 2026-05-20T03:44:40+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt430d36ffa6e389ff/6a0dabba72bcb6d3b2c99b01/robotwork-_nastassia-AdobeStock_195826507.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program"
     ]
   }
 ]
