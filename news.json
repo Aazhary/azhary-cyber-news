@@ -18,6 +18,195 @@
     ]
   },
   {
+    "id": "b326b8531a9216c76adcac34",
+    "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+    "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+    "published": "2026-11-18T23:08:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms. What: Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms. When: 2026-11-18T23:08:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms. ماذا: Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms. متى: 2026-11-18T23:08:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/03/15/Ukraine-hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/"
+    ]
+  },
+  {
+    "id": "80197199f808637ca827c7d3",
+    "title": "Get ready for another critical PHP security release to drop",
+    "link": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911",
+    "published": "2026-11-18T22:38:12+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: While we don’t have many details about the latest vulnerabilities – these haven’t been leaked like last month’s critical PHP2Shell flaws – a Wednesday advisory said the highest-severity bugs in the upcoming release are rated critical.. What: In October, the PHP Foundation told The Register that it had reserved this CVE identifier for another RCE bug, but added it would not get an emergency fix like the earlier two PHP2Shell vulnerabilities because the third one doesn't pose the same risk.. When: 2026-11-18T22:38:12+00:00. How: “The issues rated critical require either non-default configuration or uncommon setups,” the foundation said, urging PHP users to “prepare to upgrade promptly once the releases become available.” We do know that one of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560. Action: See Arabic action below.",
+    "summary_ar": "من: While we don’t have many details about the latest vulnerabilities – these haven’t been leaked like last month’s critical PHP2Shell flaws – a Wednesday advisory said the highest-severity bugs in the upcoming release are rated critical.. ماذا: In October, the PHP Foundation told The Register that it had reserved this CVE identifier for another RCE bug, but added it would not get an emergency fix like the earlier two PHP2Shell vulnerabilities because the third one doesn't pose the same risk.. متى: 2026-11-18T22:38:12+00:00. كيف: “The issues rated critical require either non-default configuration or uncommon setups,” the foundation said, urging PHP users to “prepare to upgrade promptly once the releases become available.” We do know that one of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-115560"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5310922.jpg?imageId=5310922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911"
+    ]
+  },
+  {
+    "id": "84415312a0a78762e9cb6c81",
+    "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+    "published": "2026-11-18T21:59:46+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Russia's Cold Relic APT Turns One Cloud Breach Into Another. What: Russia's Cold Relic APT Turns One Cloud Breach Into Another. When: 2026-11-18T21:59:46+00:00. How: The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Russia's Cold Relic APT Turns One Cloud Breach Into Another. ماذا: Russia's Cold Relic APT Turns One Cloud Breach Into Another. متى: 2026-11-18T21:59:46+00:00. كيف: The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another"
+    ]
+  },
+  {
+    "id": "341390730f1c688353c782ea",
+    "title": "AI found more critical bugs in another widely used technology running 225M websites",
+    "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+    "published": "2026-11-18T21:11:04+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: These include critical remote code execution flaws that let attackers hijack NGINX servers with HTTP/2 enabled, as well as the millions of websites running NGINX, to steal sensitive data and disrupt services.. What: Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX.. When: 2026-11-18T21:11:04+00:00. How: Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX. Action: See Arabic action below.",
+    "summary_ar": "من: These include critical remote code execution flaws that let attackers hijack NGINX servers with HTTP/2 enabled, as well as the millions of websites running NGINX, to steal sensitive data and disrupt services.. ماذا: Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX.. متى: 2026-11-18T21:11:04+00:00. كيف: Hot on the heels of serious vulnerabilities in seemingly every other widely used software powering the entire internet, F5 today released emergency patches for 10 bugs in open source NGINX.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-123007",
+      "CVE-2026-123633"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/228044.jpg?imageId=228044&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
+    ]
+  },
+  {
+    "id": "ede0adf4c578028e1b2d03a0",
+    "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+    "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+    "published": "2026-11-18T20:49:32+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam. What: Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam. When: 2026-11-18T20:49:32+00:00. How: Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. Action: See Arabic action below.",
+    "summary_ar": "من: Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam. ماذا: Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam. متى: 2026-11-18T20:49:32+00:00. كيف: Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/22/elon-musk-space-bright.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/"
+    ]
+  },
+  {
+    "id": "cebfa689962e40ae4aa673bb",
+    "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+    "link": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+    "published": "2026-11-18T20:45:49+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool. What: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool. When: 2026-11-18T20:45:49+00:00. How: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool Action: See Arabic action below.",
+    "summary_ar": "من: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool. ماذا: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool. متى: 2026-11-18T20:45:49+00:00. كيف: Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool"
+    ]
+  },
+  {
+    "id": "27e5f548c7a1914c936edd9d",
+    "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+    "link": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+    "published": "2026-11-18T20:38:42+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks. What: AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks. When: 2026-11-18T20:38:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks. ماذا: AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks. متى: 2026-11-18T20:38:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups"
+    ]
+  },
+  {
+    "id": "9f639cd35360f88958ae8766",
+    "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+    "published": "2026-11-18T19:39:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Data breach impacts 40 Irish credit unions in reported IT provider hack. What: A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland.. When: 2026-11-18T19:39:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Data breach impacts 40 Irish credit unions in reported IT provider hack. ماذا: A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland.. متى: 2026-11-18T19:39:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/18/ireland.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+    ]
+  },
+  {
+    "id": "fb8b318a049ee574dbf15c8b",
+    "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+    "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+    "published": "2026-11-18T18:31:17+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers. What: The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.. When: 2026-11-18T18:31:17+00:00. How: The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Action: See Arabic action below.",
+    "summary_ar": "من: 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers. ماذا: The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.. متى: 2026-11-18T18:31:17+00:00. كيف: The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-123007"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+    ]
+  },
+  {
+    "id": "11aa6bef2bfb9ae2dfd5cd0b",
+    "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+    "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+    "published": "2026-11-18T18:15:39+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE. What: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE. When: 2026-11-18T18:15:39+00:00. How: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE Action: See Arabic action below.",
+    "summary_ar": "من: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE. ماذا: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE. متى: 2026-11-18T18:15:39+00:00. كيف: F5, which makes BIG-IP, disclosed the flaws today and says they F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png",
+    "sources": [
+      "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+    ]
+  },
+  {
     "id": "fd132605e70e02b5ab060589",
     "title": "Google Wallet comes to your iPhone – but without this feature",
     "link": "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/",
@@ -33,6 +222,24 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg",
     "sources": [
       "https://www.zdnet.com/tech/google-wallet-iphone-ios-no-tap-to-pay/"
+    ]
+  },
+  {
+    "id": "96c197c09bf2bb7b6f941e20",
+    "title": "5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies",
+    "link": "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/",
+    "published": "2026-11-18T18:00:48+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Apple’s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.. What: 5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies. When: 2026-11-18T18:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Apple’s redesigned Health app arrives in December with some major upgrades, but not every iPhone will get the full experience.. ماذا: 5 new Apple Health features you should try in iOS 27.3 – if your phone qualifies. متى: 2026-11-18T18:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Figure-Top-5-new-AI-features-in-Apples-Health-app.jpg",
+    "sources": [
+      "https://www.zdnet.com/health/apple-health-ios-27-3-ai-features-compatible-iphones/"
     ]
   },
   {
@@ -105,6 +312,26 @@
     "image": "https://www.zdnet.com/wp-content/uploads/sites/3/chattaskScreenshot-2026-11-18-115205.jpg",
     "sources": [
       "https://www.zdnet.com/innovation/gemini-spark-tasks-free-personal-agent/"
+    ]
+  },
+  {
+    "id": "9c40ff9a7698a5e7e93c6448",
+    "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+    "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+    "published": "2026-11-18T17:10:45+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required. What: Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required. When: 2026-11-18T17:10:45+00:00. How: A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required. ماذا: Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required. متى: 2026-11-18T17:10:45+00:00. كيف: A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-129448"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
     ]
   },
   {
@@ -228,7 +455,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
     "sources": [
       "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/"
     ]
@@ -889,6 +1116,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/"
+    ]
+  },
+  {
+    "id": "f0ed0fdc40d96a21935d416c",
+    "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+    "published": "2026-11-18T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. What: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. When: 2026-11-18T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. ماذا: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. متى: 2026-11-18T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/"
     ]
   },
   {
@@ -143347,78 +143592,6 @@
     "image": "https://www.zdnet.com/a/img/resize/5f144041bbfcaffdd211a39e15606952fbf4d797/2026/05/22/7916a4be-85b3-4ae0-8dba-a9805dcfd03d/corsair-ex400u.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-buy-corsair-ssd-deal-memorial-day-2026/"
-    ]
-  },
-  {
-    "id": "7917d76c06ceebfd2ea6c3f7",
-    "title": "A Russian speaker and jailbroken Gemini went on a hacking spree and emptied at least one MAGA victim's crypto wallets",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390",
-    "published": "2026-05-22T21:18:53+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A solo Russian-speaking threat actor used a jailbroken Google Gemini in a fraud and credential-theft campaign targeting hardcore Trump supporters and conspiracy theorists.. What: So he opened another session to fix it.. When: 2026-05-22T21:18:53+00:00. How: Between September 2025 and May 2026, the “low-skilled” scumbag using the handle bandcampro partnered with the LLM to impersonate an American veteran, run a Telegram channel (@americanpatriotus), hack admin credentials, and steal cryptocurrency, according to a threat report from TrendAI. Action: See Arabic action below.",
-    "summary_ar": "من: A solo Russian-speaking threat actor used a jailbroken Google Gemini in a fraud and credential-theft campaign targeting hardcore Trump supporters and conspiracy theorists.. ماذا: So he opened another session to fix it.. متى: 2026-05-22T21:18:53+00:00. كيف: Between September 2025 and May 2026, the “low-skilled” scumbag using the handle bandcampro partnered with the LLM to impersonate an American veteran, run a Telegram channel (@americanpatriotus), hack admin credentials, and steal cryptocurrency, according to a threat report from TrendAI.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/229879.jpg?imageId=229879&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/cyber-crime/2026/05/22/jailbroken-gemini-helped-russian-speaking-fraudster-target-maga-crypto-users/5245390"
-    ]
-  },
-  {
-    "id": "31537539e4d6fa7655c222f9",
-    "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
-    "link": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
-    "published": "2026-05-22T18:57:14+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A malware-spreading scumbag swimming through GitHub pushed malicious commits to more than 5,500 repositories on Monday as part of an automated campaign called Megalodon.. What: Megalodon chums the waters in 5.5K+ GitHub repo poisonings. When: 2026-05-22T18:57:14+00:00. How: A malware-spreading scumbag swimming through GitHub pushed malicious commits to more than 5,500 repositories on Monday as part of an automated campaign called Megalodon. Action: See Arabic action below.",
-    "summary_ar": "من: A malware-spreading scumbag swimming through GitHub pushed malicious commits to more than 5,500 repositories on Monday as part of an automated campaign called Megalodon.. ماذا: Megalodon chums the waters in 5.5K+ GitHub repo poisonings. متى: 2026-05-22T18:57:14+00:00. كيف: A malware-spreading scumbag swimming through GitHub pushed malicious commits to more than 5,500 repositories on Monday as part of an automated campaign called Megalodon.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/227881.jpg?imageId=227881&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342"
-    ]
-  },
-  {
-    "id": "4f34d98a3a22dd285ad26f48",
-    "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-    "link": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-    "published": "2026-05-22T18:43:54+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: Police boast of hacking VPN where criminals \"believed themselves to be safe\". What: Europol announced yesterday the results of the operation against the service, First VPN.. When: 2026-05-22T18:43:54+00:00. How: European law enforcement say they hacked into a VPN (virtual private network) service used for ransomware attacks and other crimes, and identified thousands of users before shutting the VPN down and arresting its administrator. Action: See Arabic action below.",
-    "summary_ar": "من: Police boast of hacking VPN where criminals \"believed themselves to be safe\". ماذا: Europol announced yesterday the results of the operation against the service, First VPN.. متى: 2026-05-22T18:43:54+00:00. كيف: European law enforcement say they hacked into a VPN (virtual private network) service used for ransomware attacks and other crimes, and identified thousands of users before shutting the VPN down and arresting its administrator.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/first-vpn-1152x648-1779474790.jpg",
-    "sources": [
-      "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/"
-    ]
-  },
-  {
-    "id": "77921dcc2c0603e901e61210",
-    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-    "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-    "published": "2026-05-22T18:13:05+00:00",
-    "source": "arstechnica.com",
-    "summary_en": "Who: The Texas Attorney General has sued Meta over allegations that the company’s WhatsApp messenger, used by more than 3 billion people, doesn’t provide the end-to-end encryption (E2EE) it has long claimed.. What: Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption. When: 2026-05-22T18:13:05+00:00. How: In sworn testimony before two US Senate committees in 2018, CEO Mark Zuckerberg said Meta does “not see any of the content in WhatsApp; it is fully encrypted” and that “Facebook systems do not see the content of messages being transferred over WhatsApp.” The engine for this E2EE is the Signal protocol, an open source code base that multiple third-party experts have said lives up to its promises. Action: See Arabic action below.",
-    "summary_ar": "من: The Texas Attorney General has sued Meta over allegations that the company’s WhatsApp messenger, used by more than 3 billion people, doesn’t provide the end-to-end encryption (E2EE) it has long claimed.. ماذا: Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption. متى: 2026-05-22T18:13:05+00:00. كيف: In sworn testimony before two US Senate committees in 2018, CEO Mark Zuckerberg said Meta does “not see any of the content in WhatsApp; it is fully encrypted” and that “Facebook systems do not see the content of messages being transferred over WhatsApp.” The engine for this E2EE is the Signal protocol, an open source code base that multiple third-party experts have said lives up to its promises.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/whatsapp-1024x648.jpg",
-    "sources": [
-      "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/"
     ]
   }
 ]
