@@ -18,6 +18,296 @@
     ]
   },
   {
+    "id": "5e65458c080e91267d0d5359",
+    "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+    "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+    "published": "2026-11-19T22:40:03+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering. What: Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering. When: 2026-11-19T22:40:03+00:00. How: Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions. Action: See Arabic action below.",
+    "summary_ar": "من: Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering. ماذا: Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering. متى: 2026-11-19T22:40:03+00:00. كيف: Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering"
+    ]
+  },
+  {
+    "id": "df29d71aedcbd867e50bcbcf",
+    "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+    "published": "2026-11-19T22:25:42+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers steal data of 1.6 million SBC Medical Group customers. What: SBC Medical Group has warned in a filing with the U.S.. When: 2026-11-19T22:25:42+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers steal data of 1.6 million SBC Medical Group customers. ماذا: SBC Medical Group has warned in a filing with the U.S.. متى: 2026-11-19T22:25:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/08/22/healthcare-cyber.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+    ]
+  },
+  {
+    "id": "3797ecb529a51da92fc229b3",
+    "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+    "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+    "published": "2026-11-19T21:15:59+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ASUS warns of critical hard-coded key flaw in Control Center Express. What: ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages.. When: 2026-11-19T21:15:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ASUS warns of critical hard-coded key flaw in Control Center Express. ماذا: ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages.. متى: 2026-11-19T21:15:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2025/11/26/Asus.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/"
+    ]
+  },
+  {
+    "id": "07547d58b9a1af12e16f067c",
+    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+    "link": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+    "published": "2026-11-19T21:12:33+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info. What: Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info. When: 2026-11-19T21:12:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info. ماذا: Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info. متى: 2026-11-19T21:12:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311179.jpg?imageId=5311179&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
+    ]
+  },
+  {
+    "id": "545852a9591f5a6b0690a8ca",
+    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+    "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "published": "2026-11-19T20:29:46+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Igor D’iu, 25, allegedly photographed the employees and their computer screens as they worked at a coffee shop located near the company’s Palo Alto office, federal prosecutors said Wednesday .. What: Near SFPD Mission Station, FEMP1 flagged an SFPD patrol vehicle and reported the incident.. When: 2026-11-19T20:29:46+00:00. How: “D’IU followed FEMP1 through U-turns, illegal left turns, and ran a red light to stay with FEMP1 for nearly thirty miles. Action: See Arabic action below.",
+    "summary_ar": "من: Igor D’iu, 25, allegedly photographed the employees and their computer screens as they worked at a coffee shop located near the company’s Palo Alto office, federal prosecutors said Wednesday .. ماذا: Near SFPD Mission Station, FEMP1 flagged an SFPD patrol vehicle and reported the incident.. متى: 2026-11-19T20:29:46+00:00. كيف: “D’IU followed FEMP1 through U-turns, illegal left turns, and ran a red light to stay with FEMP1 for nearly thirty miles.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+    ]
+  },
+  {
+    "id": "150f8fb5544609cd323c005a",
+    "title": "Second Norwegian Energy Company Breached in Two Days",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+    "published": "2026-11-19T20:14:15+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Second Norwegian Energy Company Breached in Two Days. What: Second Norwegian Energy Company Breached in Two Days. When: 2026-11-19T20:14:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Second Norwegian Energy Company Breached in Two Days. ماذا: Second Norwegian Energy Company Breached in Two Days. متى: 2026-11-19T20:14:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached"
+    ]
+  },
+  {
+    "id": "7cf301393d67c6299da148c7",
+    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+    "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+    "published": "2026-11-19T19:57:31+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. What: Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style. When: 2026-11-19T19:57:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. ماذا: Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style. متى: 2026-11-19T19:57:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell"
+    ]
+  },
+  {
+    "id": "dfb731a444878dea4944aa46",
+    "title": "Navigating Vulnerability Hysteria in the AI Era",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+    "published": "2026-11-19T19:46:44+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Navigating Vulnerability Hysteria in the AI Era. What: Navigating Vulnerability Hysteria in the AI Era. When: 2026-11-19T19:46:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Navigating Vulnerability Hysteria in the AI Era. ماذا: Navigating Vulnerability Hysteria in the AI Era. متى: 2026-11-19T19:46:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era"
+    ]
+  },
+  {
+    "id": "bd2996802132899d0a2f39a8",
+    "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+    "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+    "published": "2026-11-19T19:21:06+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.. What: Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.. When: 2026-11-19T19:21:06+00:00. How: The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.. ماذا: Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch.. متى: 2026-11-19T19:21:06+00:00. كيف: The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2022/08/VMWare.jpg",
+    "sources": [
+      "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    ]
+  },
+  {
+    "id": "2269ea7d3413edeec97499cf",
+    "title": "Nvidia adds possible hack to list of very bad things under investigation",
+    "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+    "published": "2026-11-19T18:52:53+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Nvidia adds possible hack to list of very bad things under investigation. What: Nvidia adds possible hack to list of very bad things under investigation. When: 2026-11-19T18:52:53+00:00. How: According to an operational technology (OT) threat report from Trellix published on Wednesday, industrial ransomware claims jumped nearly 51 percent - to about 1,500 posts- compared to last quarter, and The Gentlemen’s affiliates were the most prolific claim posters during this time period. Action: See Arabic action below.",
+    "summary_ar": "من: Nvidia adds possible hack to list of very bad things under investigation. ماذا: Nvidia adds possible hack to list of very bad things under investigation. متى: 2026-11-19T18:52:53+00:00. كيف: According to an operational technology (OT) threat report from Trellix published on Wednesday, industrial ransomware claims jumped nearly 51 percent - to about 1,500 posts- compared to last quarter, and The Gentlemen’s affiliates were the most prolific claim posters during this time period.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311157.jpg?imageId=5311157&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
+    ]
+  },
+  {
+    "id": "53e4a59238e8a8ae63ea2a95",
+    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+    "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+    "published": "2026-11-19T18:47:58+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: AI is making some attacks easier ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories. What: ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories. When: 2026-11-19T18:47:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI is making some attacks easier ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories. ماذا: ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories. متى: 2026-11-19T18:47:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Threat/Attack",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+    ]
+  },
+  {
+    "id": "1977168802e4655023574f20",
+    "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+    "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+    "published": "2026-11-19T18:20:01+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Transport for London breach exposes 265,000 Oyster card users' data. What: Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.. When: 2026-11-19T18:20:01+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Transport for London breach exposes 265,000 Oyster card users' data. ماذا: Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach.. متى: 2026-11-19T18:20:01+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/transportforlondon.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
+    ]
+  },
+  {
+    "id": "9c23bb128209fb02fcc7a347",
+    "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
+    "link": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
+    "published": "2026-11-19T18:11:20+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions.. What: Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions.. When: 2026-11-19T18:11:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions.. ماذا: Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions.. متى: 2026-11-19T18:11:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/"
+    ]
+  },
+  {
+    "id": "d87632b8c004d231dc3a34c9",
+    "title": "I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why",
+    "link": "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/",
+    "published": "2026-11-19T17:30:38+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why. What: I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why. When: 2026-11-19T17:30:38+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why. ماذا: I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why. متى: 2026-11-19T17:30:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/pondhero.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/pond-distro-arch-linux-unique-ui/"
+    ]
+  },
+  {
+    "id": "2158c1df379a1a18466bceee",
+    "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
+    "link": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+    "published": "2026-11-19T17:12:31+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.. What: Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how. When: 2026-11-19T17:12:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.. ماذا: Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how. متى: 2026-11-19T17:12:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Google-AI-Mode-temporary-thread.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/"
+    ]
+  },
+  {
+    "id": "648f4746253c461cc0c54826",
+    "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+    "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+    "published": "2026-11-19T16:59:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution. What: Today's PHP releases fix the flaw, called phpAfterShell.. When: 2026-11-19T16:59:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution. ماذا: Today's PHP releases fix the flaw, called phpAfterShell.. متى: 2026-11-19T16:59:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-126714"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+    ]
+  },
+  {
     "id": "c5e7bc1c42387de6ab3bf4f1",
     "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
     "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
@@ -746,6 +1036,44 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PHP.jpeg",
     "sources": [
       "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+    ]
+  },
+  {
+    "id": "6efc22951138a3c2c0f69d2d",
+    "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/",
+    "published": "2026-11-19T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity. What: Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity. When: 2026-11-19T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity. ماذا: Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity. متى: 2026-11-19T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-114938"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
+    ]
+  },
+  {
+    "id": "8236f5eb74b094dff1516999",
+    "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/",
+    "published": "2026-11-19T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform. What: NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform. When: 2026-11-19T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform. ماذا: NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform. متى: 2026-11-19T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/"
     ]
   },
   {
@@ -1890,24 +2218,6 @@
     ]
   },
   {
-    "id": "f0ed0fdc40d96a21935d416c",
-    "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
-    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
-    "published": "2026-11-18T06:00:00+00:00",
-    "source": "crowdstrike.com",
-    "summary_en": "Who: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. What: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. When: 2026-11-18T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. ماذا: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. متى: 2026-11-18T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
-    "sources": [
-      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/"
-    ]
-  },
-  {
     "id": "aee65bc8ab681b4707e4511a",
     "title": "CrowdStrike Brings the Human Advantage to AI Detection and Response",
     "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/",
@@ -1923,6 +2233,24 @@
     "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
     "sources": [
       "https://www.crowdstrike.com/en-us/blog/crowdstrike-brings-human-advantage-aidr/"
+    ]
+  },
+  {
+    "id": "f0ed0fdc40d96a21935d416c",
+    "title": "CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM",
+    "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/",
+    "published": "2026-11-18T06:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. What: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. When: 2026-11-18T06:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. ماذا: CrowdStrike Is Building the Engine of the Agentic SOC with Falcon Next-Gen SIEM. متى: 2026-11-18T06:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-siem/"
     ]
   },
   {
@@ -17398,12 +17726,12 @@
   },
   {
     "id": "2810027585c5f3b558764b60",
-    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19)",
     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
     "published": "2026-10-29T18:00:34+00:00",
     "source": "paloaltonetworks.com",
-    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). When: 2026-10-29T18:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29). متى: 2026-10-29T18:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19). What: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19). When: 2026-10-29T18:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19). ماذا: Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated November 19). متى: 2026-10-29T18:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -144069,24 +144397,6 @@
     "image": "https://www.zdnet.com/a/img/resize/017e814b99e268db96491aea2cb17cefc789a9b0/2026/05/24/c902c8d6-631c-4af0-9d47-bbd3e3ae2646/samsung-odyssey-g9-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/"
-    ]
-  },
-  {
-    "id": "060cacb152050d942afdea79",
-    "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
-    "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
-    "published": "2026-05-23T20:48:23+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages.. What: Laravel Lang packages hijacked to deploy credential-stealing malware. When: 2026-05-23T20:48:23+00:00. How: A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. Action: See Arabic action below.",
-    "summary_ar": "من: A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages.. ماذا: Laravel Lang packages hijacked to deploy credential-stealing malware. متى: 2026-05-23T20:48:23+00:00. كيف: A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
     ]
   }
 ]
