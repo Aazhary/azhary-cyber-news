@@ -18,6 +18,737 @@
     ]
   },
   {
+    "id": "c5e7bc1c42387de6ab3bf4f1",
+    "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+    "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+    "published": "2026-11-19T16:28:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers.. What: The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers.. When: 2026-11-19T16:28:23+00:00. How: [...] PHP security updates fix 18 flaws, including critical RCE bugs Action: See Arabic action below.",
+    "summary_ar": "من: The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers.. ماذا: The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers.. متى: 2026-11-19T16:28:23+00:00. كيف: [...] PHP security updates fix 18 flaws, including critical RCE bugs. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/php-logo-cyber.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/"
+    ]
+  },
+  {
+    "id": "2df95cf4f563cfa39dc7ffb3",
+    "title": "Russian national accused of stalking San Francisco techie in plot against US defense-tech giant",
+    "link": "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
+    "published": "2026-11-19T16:20:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: A Russian national is being held in custody after being arrested for allegedly spying on a US defense tech company in Palo Alto, shoulder-surfing employees, and dropping remote surveillance devices at their homes.. What: Igor D'iu was indicted after FBI agents surveilled his activities between June and October 2026, which they say were issued as \"tasks\" from what is thought to be Russia’s Federal Security Service (FSB), according to an affidavit [PDF] signed by an FBI special agent.. When: 2026-11-19T16:20:00+00:00. How: D'iu was said to have followed the woman as she performed U-turns, illegal left turns, ran red lights, navigated via back and side streets, and through grocery store parking lots. Action: See Arabic action below.",
+    "summary_ar": "من: A Russian national is being held in custody after being arrested for allegedly spying on a US defense tech company in Palo Alto, shoulder-surfing employees, and dropping remote surveillance devices at their homes.. ماذا: Igor D'iu was indicted after FBI agents surveilled his activities between June and October 2026, which they say were issued as \"tasks\" from what is thought to be Russia’s Federal Security Service (FSB), according to an affidavit [PDF] signed by an FBI special agent.. متى: 2026-11-19T16:20:00+00:00. كيف: D'iu was said to have followed the woman as she performed U-turns, illegal left turns, ran red lights, navigated via back and side streets, and through grocery store parking lots.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/259265.jpg?imageId=259265&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126"
+    ]
+  },
+  {
+    "id": "3049d4149a83870d7f460dc6",
+    "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+    "link": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+    "published": "2026-11-19T15:54:20+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: PHP Patches Seven Critical RCE Vulnerabilities. What: PHP Patches Seven Critical RCE Vulnerabilities. When: 2026-11-19T15:54:20+00:00. How: The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: PHP Patches Seven Critical RCE Vulnerabilities. ماذا: PHP Patches Seven Critical RCE Vulnerabilities. متى: 2026-11-19T15:54:20+00:00. كيف: The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-73749"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/php-exploit-code.webp",
+    "sources": [
+      "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+      "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
+      "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/"
+    ]
+  },
+  {
+    "id": "235c84100afc4ae3b9ccd89a",
+    "title": "CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller",
+    "link": "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/",
+    "published": "2026-11-19T15:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller. What: Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller. When: 2026-11-19T15:30:00+00:00. How: Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller Action: See Arabic action below.",
+    "summary_ar": "من: CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller. ماذا: Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller. متى: 2026-11-19T15:30:00+00:00. كيف: Symantec found an attacker using CyberPower’s UPS software to run scripts on a domain controller CyberPower PowerPanel Exploited to Run Malicious Code on Domain Controller. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/d1123b85-ca66-448e-a350-d86e19320167.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ups-software-abused-domain/"
+    ]
+  },
+  {
+    "id": "71178773ef2a8420359c1d4d",
+    "title": "PHP Releases Patches to Fix 18 Vulnerabilities",
+    "link": "https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/",
+    "published": "2026-11-19T15:28:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling PHP Releases Patches to Fix 18 Vulnerabilities. What: PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling PHP Releases Patches to Fix 18 Vulnerabilities. When: 2026-11-19T15:28:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling PHP Releases Patches to Fix 18 Vulnerabilities. ماذا: PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling PHP Releases Patches to Fix 18 Vulnerabilities. متى: 2026-11-19T15:28:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/7046afc7-16fd-4c37-89d5-5e8cce1a9444.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/php-releases-patches-fix-18/"
+    ]
+  },
+  {
+    "id": "f92f66411a812200d7b04bd9",
+    "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "published": "2026-11-19T15:18:07+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.. What: The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.. When: 2026-11-19T15:18:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.. ماذا: The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.. متى: 2026-11-19T15:18:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-115560"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
+    ]
+  },
+  {
+    "id": "7008c485fa38b4e8777c3791",
+    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+    "published": "2026-11-19T15:11:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication. What: Fixed versions are out for all supported branches, and the company lists no workaround.. When: 2026-11-19T15:11:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication. ماذا: Fixed versions are out for all supported branches, and the company lists no workaround.. متى: 2026-11-19T15:11:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Policy/Advisory",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
+    ]
+  },
+  {
+    "id": "75044bab3e7303d3a5f852df",
+    "title": "Five warning signs of ransomware breach before encryption or data theft",
+    "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "published": "2026-11-19T15:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Five warning signs of ransomware breach before encryption or data theft. What: Five warning signs of ransomware breach before encryption or data theft. When: 2026-11-19T15:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Five warning signs of ransomware breach before encryption or data theft. ماذا: Five warning signs of ransomware breach before encryption or data theft. متى: 2026-11-19T15:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2021/12/02/system-hacked.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"
+    ]
+  },
+  {
+    "id": "7cc3b724b66a2eb45be7dfc8",
+    "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+    "published": "2026-11-19T14:57:24+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access.. What: Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers. When: 2026-11-19T14:57:24+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access.. ماذا: Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers. متى: 2026-11-19T14:57:24+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/nginx.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/"
+    ]
+  },
+  {
+    "id": "7bcb8213c83158e2286088ac",
+    "title": "European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline",
+    "link": "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/",
+    "published": "2026-11-19T14:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline. What: European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline. When: 2026-11-19T14:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline. ماذا: European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline. متى: 2026-11-19T14:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/93cba5fa-fd47-49e5-b57c-bb7f5742f65e.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/"
+    ]
+  },
+  {
+    "id": "6e1cc48f217d3df0c795cde4",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+    "published": "2026-11-19T14:33:06+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites. What: Fixed releases for all supported branches shipped yesterday.. When: 2026-11-19T14:33:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites. ماذا: Fixed releases for all supported branches shipped yesterday.. متى: 2026-11-19T14:33:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
+    ]
+  },
+  {
+    "id": "abef5657ebf43b0ef833f626",
+    "title": "Nvidia Responds to Gentlemen Ransomware Claim",
+    "link": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+    "published": "2026-11-19T14:17:32+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Nvidia Responds to Gentlemen Ransomware Claim. What: Nvidia Responds to Gentlemen Ransomware Claim. When: 2026-11-19T14:17:32+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Nvidia Responds to Gentlemen Ransomware Claim. ماذا: Nvidia Responds to Gentlemen Ransomware Claim. متى: 2026-11-19T14:17:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Nvidia.jpeg",
+    "sources": [
+      "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/"
+    ]
+  },
+  {
+    "id": "4f4f9e0dd0e068bbfd8c027f",
+    "title": "Why Holiday Security Can't Wait for Black Friday",
+    "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+    "published": "2026-11-19T14:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Why Holiday Security Can't Wait for Black Friday. What: Why Holiday Security Can't Wait for Black Friday. When: 2026-11-19T14:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Why Holiday Security Can't Wait for Black Friday. ماذا: Why Holiday Security Can't Wait for Black Friday. متى: 2026-11-19T14:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday"
+    ]
+  },
+  {
+    "id": "39b02cb8c85b48f6e04a29a8",
+    "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
+    "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
+    "published": "2026-11-19T13:28:20+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter. What: The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter. When: 2026-11-19T13:28:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter. ماذا: The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter. متى: 2026-11-19T13:28:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Flipper-One-2.jpg",
+    "sources": [
+      "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/"
+    ]
+  },
+  {
+    "id": "5e668a30271b8ef2a0febce4",
+    "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+    "link": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+    "published": "2026-11-19T13:12:20+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.. What: Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release. When: 2026-11-19T13:12:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement.. ماذا: Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release. متى: 2026-11-19T13:12:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Cisco-firewall.jpeg",
+    "sources": [
+      "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/"
+    ]
+  },
+  {
+    "id": "df5a560c1b8f6ae7b1a44c53",
+    "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "published": "2026-11-19T13:08:08+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Drupal patches critical RCE flaw, warns exploits may surface quickly. What: The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites.. When: 2026-11-19T13:08:08+00:00. How: [...] Drupal patches critical RCE flaw, warns exploits may surface quickly Action: See Arabic action below.",
+    "summary_ar": "من: Drupal patches critical RCE flaw, warns exploits may surface quickly. ماذا: The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites.. متى: 2026-11-19T13:08:08+00:00. كيف: [...] Drupal patches critical RCE flaw, warns exploits may surface quickly. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/Drupal-headpic-red.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    ]
+  },
+  {
+    "id": "b7f6d70bce9069e8780d7539",
+    "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+    "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+    "published": "2026-11-19T12:23:34+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: StepSecurity Secures $20 Million to Expand Supply Chain Protection. What: StepSecurity Secures $20 Million to Expand Supply Chain Protection. When: 2026-11-19T12:23:34+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: StepSecurity Secures $20 Million to Expand Supply Chain Protection. ماذا: StepSecurity Secures $20 Million to Expand Supply Chain Protection. متى: 2026-11-19T12:23:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
+    "sources": [
+      "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/"
+    ]
+  },
+  {
+    "id": "d02f8572d5f1ee4ddac08c41",
+    "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+    "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+    "published": "2026-11-19T12:13:24+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks. What: The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .. When: 2026-11-19T12:13:24+00:00. How: Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks. ماذا: The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .. متى: 2026-11-19T12:13:24+00:00. كيف: Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Apache-exploit-scaled-e1724835583910.jpeg",
+    "sources": [
+      "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "4fc5c33492cc135667af03db",
+    "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+    "link": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+    "published": "2026-11-19T12:00:00+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The Governance Gap in Open-Weight AI and What to Do About It. What: The Governance Gap in Open-Weight AI and What to Do About It. When: 2026-11-19T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Governance Gap in Open-Weight AI and What to Do About It. ماذا: The Governance Gap in Open-Weight AI and What to Do About It. متى: 2026-11-19T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/cyberattack-vulnerability-exploited.jpeg",
+    "sources": [
+      "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/"
+    ]
+  },
+  {
+    "id": "5bd459c4aabe40e7ea55ebac",
+    "title": "90% of employers reject resumes that look like AI – yet half use AI to interview",
+    "link": "https://www.zdnet.com/innovation/ai-applications-skipped-interview/",
+    "published": "2026-11-19T12:00:00+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: 90% of employers reject resumes that look like AI – yet half use AI to interview. What: 90% of employers reject resumes that look like AI – yet half use AI to interview. When: 2026-11-19T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 90% of employers reject resumes that look like AI – yet half use AI to interview. ماذا: 90% of employers reject resumes that look like AI – yet half use AI to interview. متى: 2026-11-19T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2241142271.jpg",
+    "sources": [
+      "https://www.zdnet.com/innovation/ai-applications-skipped-interview/"
+    ]
+  },
+  {
+    "id": "193208e89084b673f3e04580",
+    "title": "Everything Is a Web Application, Including Your Firewall",
+    "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+    "published": "2026-11-19T11:52:23+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet.. What: Everything Is a Web Application, Including Your Firewall. When: 2026-11-19T11:52:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet.. ماذا: Everything Is a Web Application, Including Your Firewall. متى: 2026-11-19T11:52:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+    ]
+  },
+  {
+    "id": "937f390d6b182cf83f7a0ed7",
+    "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+    "published": "2026-11-19T11:46:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs.. What: Microsoft tests new Edge Lockdown Mode that disables GPU APIs. When: 2026-11-19T11:46:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs.. ماذا: Microsoft tests new Edge Lockdown Mode that disables GPU APIs. متى: 2026-11-19T11:46:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/Microsoft_Edge.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/"
+    ]
+  },
+  {
+    "id": "796c0101f860286d3645861a",
+    "title": "Cyberattack on service provider exposes payee data at 40 Irish credit unions",
+    "link": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
+    "published": "2026-11-19T11:45:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cyberattack on service provider exposes payee data at 40 Irish credit unions. What: Affected credit unions said attackers exploited a vulnerability in their provider's online banking platform between October 2 and 4.. When: 2026-11-19T11:45:00+00:00. How: Canice's warned members not to transfer money in response to anyone claiming it needed to be moved to safety because of the breach. Action: See Arabic action below.",
+    "summary_ar": "من: Cyberattack on service provider exposes payee data at 40 Irish credit unions. ماذا: Affected credit unions said attackers exploited a vulnerability in their provider's online banking platform between October 2 and 4.. متى: 2026-11-19T11:45:00+00:00. كيف: Canice's warned members not to transfer money in response to anyone claiming it needed to be moved to safety because of the breach.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5298439.jpg?imageId=5298439&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
+    ]
+  },
+  {
+    "id": "3d382cf2ec8f53747a0aac1b",
+    "title": "TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed",
+    "link": "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/",
+    "published": "2026-11-19T11:35:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed. What: TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed. When: 2026-11-19T11:35:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed. ماذا: TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed. متى: 2026-11-19T11:35:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/b8ff5fe3-f41d-4bf1-9550-199781c15b31.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/"
+    ]
+  },
+  {
+    "id": "45584a3597b1228ad1f20690",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "link": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "published": "2026-11-19T11:13:01+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies , a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network’s downtime left the agency’s staff sitting at home waiting to return to their office at Fort Meade.. What: How to tell a cyberattack from a plain old outage. When: 2026-11-19T11:13:01+00:00. How: Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies , a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network’s downtime left the agency’s staff sitting at home waiting to return to their office at Fort Meade. Action: See Arabic action below.",
+    "summary_ar": "من: Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies , a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network’s downtime left the agency’s staff sitting at home waiting to return to their office at Fort Meade.. ماذا: How to tell a cyberattack from a plain old outage. متى: 2026-11-19T11:13:01+00:00. كيف: Across just four consecutive business days, a mass Microsoft exchange outage broke IT services for thousands of companies , a Federal Aviation Administration tech screw-up grounded airplanes across the country, a software problem affecting JPMorgan Chase caused another round of disruption, a United Airlines system glitch delayed flights yet again, and an NSA classified network’s downtime left the agency’s staff sitting at home waiting to return to their office at Fort Meade.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+    ]
+  },
+  {
+    "id": "bc96eaf0dd4b1af9a3d8789b",
+    "title": "TfL takes Oyster photocard website offline after attackers compromise customer accounts",
+    "link": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
+    "published": "2026-11-19T11:01:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: TfL takes Oyster photocard website offline after attackers compromise customer accounts. What: Among those whose accounts may have been compromised are holders of Zip Oyster cards – issued to children as young as five – as well as students, apprentices, care leavers, veterans, and Londoners aged 60 and over.. When: 2026-11-19T11:01:00+00:00. How: Existing photocards will still let holders through the ticket barriers, though anyone needing to renew one or check their journey history will have to contact TfL's customer services team while the website is out of action. Action: See Arabic action below.",
+    "summary_ar": "من: TfL takes Oyster photocard website offline after attackers compromise customer accounts. ماذا: Among those whose accounts may have been compromised are holders of Zip Oyster cards – issued to children as young as five – as well as students, apprentices, care leavers, veterans, and Londoners aged 60 and over.. متى: 2026-11-19T11:01:00+00:00. كيف: Existing photocards will still let holders through the ticket barriers, though anyone needing to renew one or check their journey history will have to contact TfL's customer services team while the website is out of action.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Data Breach",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/249452.jpg?imageId=249452&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985"
+    ]
+  },
+  {
+    "id": "2aa6fa29c77afd23f77f80c8",
+    "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
+    "link": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
+    "published": "2026-11-19T10:41:05+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .. What: Splunk Patches Nearly 140 Flaws Across Three Core Products. When: 2026-11-19T10:41:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .. ماذا: Splunk Patches Nearly 140 Flaws Across Three Core Products. متى: 2026-11-19T10:41:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/03/Splunk.jpeg",
+    "sources": [
+      "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/"
+    ]
+  },
+  {
+    "id": "1fc34cf6486a0e116e20907f",
+    "title": "Microsoft confirms app installation, launch issues after hotpatch",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+    "published": "2026-11-19T10:35:05+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch.. What: Microsoft confirms app installation, launch issues after hotpatch. When: 2026-11-19T10:35:05+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch.. ماذا: Microsoft confirms app installation, launch issues after hotpatch. متى: 2026-11-19T10:35:05+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/17/Windows-11_headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/"
+    ]
+  },
+  {
+    "id": "da71ce67dae968b9000b1e79",
+    "title": "A Fifth of UK Employees Share Passwords with AI",
+    "link": "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/",
+    "published": "2026-11-19T10:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: A Fifth of UK Employees Share Passwords with AI. What: A Fifth of UK Employees Share Passwords with AI. When: 2026-11-19T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A Fifth of UK Employees Share Passwords with AI. ماذا: A Fifth of UK Employees Share Passwords with AI. متى: 2026-11-19T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/a5775201-29f8-48a6-a03d-7641ed5662df.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/"
+    ]
+  },
+  {
+    "id": "e45c5124b0ac0b4043c1a469",
+    "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
+    "link": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
+    "published": "2026-11-19T10:26:51+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .. What: F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public. When: 2026-11-19T10:26:51+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .. ماذا: F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public. متى: 2026-11-19T10:26:51+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Nginx.jpeg",
+    "sources": [
+      "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/"
+    ]
+  },
+  {
+    "id": "98f0b311b20295105bbfdf91",
+    "title": "Sticky note on monitor provided keys to the company’s kingdom",
+    "link": "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
+    "published": "2026-11-19T10:15:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Sticky note on monitor provided keys to the company’s kingdom. What: Sticky note on monitor provided keys to the company’s kingdom. When: 2026-11-19T10:15:00+00:00. How: During a walkthrough of a client's office, he noticed a password written on a sticky note that was taped to an employee's monitor. Action: See Arabic action below.",
+    "summary_ar": "من: Sticky note on monitor provided keys to the company’s kingdom. ماذا: Sticky note on monitor provided keys to the company’s kingdom. متى: 2026-11-19T10:15:00+00:00. كيف: During a walkthrough of a client's office, he noticed a password written on a sticky note that was taped to an employee's monitor.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5310916.jpg?imageId=5310916&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
+    ]
+  },
+  {
+    "id": "67401cc888fc28c21cb1753d",
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+    "published": "2026-11-19T09:31:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions. What: N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.. When: 2026-11-19T09:31:26+00:00. How: N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions. ماذا: N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.. متى: 2026-11-19T09:31:26+00:00. كيف: N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+    ]
+  },
+  {
+    "id": "7aba46b2e297d42b9d6cc376",
+    "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+    "link": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+    "published": "2026-11-19T09:23:21+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: NVIDIA investigating Gentlemen ransomware breach claims. What: NVIDIA investigating Gentlemen ransomware breach claims. When: 2026-11-19T09:23:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: NVIDIA investigating Gentlemen ransomware breach claims. ماذا: NVIDIA investigating Gentlemen ransomware breach claims. متى: 2026-11-19T09:23:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/19/NVIDIA_logo.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/"
+    ]
+  },
+  {
+    "id": "c31168ebf53521e3d88c7d94",
+    "title": "Rakuten Securities Breach Could Impact 15 Million Customers",
+    "link": "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/",
+    "published": "2026-11-19T09:20:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Rakuten Securities Breach Could Impact 15 Million Customers. What: Rakuten Securities Breach Could Impact 15 Million Customers. When: 2026-11-19T09:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Rakuten Securities Breach Could Impact 15 Million Customers. ماذا: Rakuten Securities Breach Could Impact 15 Million Customers. متى: 2026-11-19T09:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/88eeb902-2f1d-4e35-a71b-27d74d0ee317.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/"
+    ]
+  },
+  {
+    "id": "ce554e89b40499730abb9e05",
+    "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
+    "link": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
+    "published": "2026-11-19T09:10:58+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.. What: Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories. When: 2026-11-19T09:10:58+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact.. ماذا: Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories. متى: 2026-11-19T09:10:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Threat/Attack",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/Java4Shell.jpg",
+    "sources": [
+      "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/"
+    ]
+  },
+  {
+    "id": "ef3cecb6fd503aee213dc1f9",
+    "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+    "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+    "published": "2026-11-19T08:42:11+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code.. What: The project released fixed versions Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE. When: 2026-11-19T08:42:11+00:00. How: The project released fixed versions Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE Action: See Arabic action below.",
+    "summary_ar": "من: Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code.. ماذا: The project released fixed versions Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE. متى: 2026-11-19T08:42:11+00:00. كيف: The project released fixed versions Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html"
+    ]
+  },
+  {
+    "id": "3d3c58459056e381a2dc130e",
+    "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+    "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+    "published": "2026-11-19T08:14:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle. What: Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle. When: 2026-11-19T08:14:00+00:00. How: The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle Action: See Arabic action below.",
+    "summary_ar": "من: The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle. ماذا: Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle. متى: 2026-11-19T08:14:00+00:00. كيف: The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html"
+    ]
+  },
+  {
+    "id": "7b2c191d75301f2a6433dee1",
+    "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+    "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+    "published": "2026-11-19T08:00:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. When: 2026-11-19T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. متى: 2026-11-19T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
+    ]
+  },
+  {
+    "id": "59d3b792db4808309500ec4b",
+    "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
+    "link": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+    "published": "2026-11-19T08:00:00+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge. What: Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge. When: 2026-11-19T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge. ماذا: Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge. متى: 2026-11-19T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge"
+    ]
+  },
+  {
+    "id": "e2e32d524f45d0987a76fab0",
+    "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+    "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
+    "published": "2026-11-19T07:45:17+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: PHP Readies Critical Security Updates to Patch Another RCE Flaw. What: Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed.. When: 2026-11-19T07:45:17+00:00. How: The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: PHP Readies Critical Security Updates to Patch Another RCE Flaw. ماذا: Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed.. متى: 2026-11-19T07:45:17+00:00. كيف: The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-115560"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PHP.jpeg",
+    "sources": [
+      "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+    ]
+  },
+  {
     "id": "d1202d3392a4ec40cc7eacff",
     "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
     "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
@@ -72,6 +803,28 @@
     ]
   },
   {
+    "id": "fae8e99e76e129e326a8fda5",
+    "title": "Another critical PHP security release has dropped",
+    "link": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911",
+    "published": "2026-11-18T22:38:12+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. What: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. When: 2026-11-18T22:38:12+00:00. How: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560. Action: See Arabic action below.",
+    "summary_ar": "من: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. ماذا: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. متى: 2026-11-18T22:38:12+00:00. كيف: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-115560"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5310922.jpg?imageId=5310922&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911"
+    ]
+  },
+  {
     "id": "80197199f808637ca827c7d3",
     "title": "Get ready for another critical PHP security release to drop",
     "link": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911",
@@ -99,8 +852,8 @@
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
     "published": "2026-11-18T21:59:46+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: Russia's Cold Relic APT Turns One Cloud Breach Into Another. What: Russia's Cold Relic APT Turns One Cloud Breach Into Another. When: 2026-11-18T21:59:46+00:00. How: The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks. Action: See Arabic action below.",
-    "summary_ar": "من: Russia's Cold Relic APT Turns One Cloud Breach Into Another. ماذا: Russia's Cold Relic APT Turns One Cloud Breach Into Another. متى: 2026-11-18T21:59:46+00:00. كيف: The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: Russia's Cold Relic APT Turns One Cloud Breach Into Another. What: Russia's Cold Relic APT Turns One Cloud Breach Into Another. When: 2026-11-18T21:59:46+00:00. How: The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks. Action: See Arabic action below.",
+    "summary_ar": "من: Russia's Cold Relic APT Turns One Cloud Breach Into Another. ماذا: Russia's Cold Relic APT Turns One Cloud Breach Into Another. متى: 2026-11-18T21:59:46+00:00. كيف: The state-sponsored threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Data Breach",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -23968,24 +24721,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html"
-    ]
-  },
-  {
-    "id": "1208df3b3557942f6d14e942",
-    "title": "Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches",
-    "link": "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/",
-    "published": "2026-10-21T10:20:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches. What: Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches. When: 2026-10-21T10:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches. ماذا: Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches. متى: 2026-10-21T10:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Patch/Update",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/25ae8a4a-1e79-434b-8264-96b509c1fa71.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/"
     ]
   },
   {
@@ -55258,26 +55993,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
     "sources": [
       "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/"
-    ]
-  },
-  {
-    "id": "8d9c04095d1f090848e421dc",
-    "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
-    "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
-    "published": "2026-09-04T16:11:06+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: HPE Patches Critical RCE Vulnerabilities in AOS-CX. What: HPE Patches Critical RCE Vulnerabilities in AOS-CX. When: 2026-09-04T16:11:06+00:00. How: The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: HPE Patches Critical RCE Vulnerabilities in AOS-CX. ماذا: HPE Patches Critical RCE Vulnerabilities in AOS-CX. متى: 2026-09-04T16:11:06+00:00. كيف: The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-73749"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/"
     ]
   },
   {
@@ -143372,224 +144087,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/"
-    ]
-  },
-  {
-    "id": "a3fd847c33e47db078397ec9",
-    "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-    "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-    "published": "2026-05-23T16:35:10+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.. What: npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks. When: 2026-05-23T16:35:10+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.. ماذا: npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks. متى: 2026-05-23T16:35:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png",
-    "sources": [
-      "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
-    ]
-  },
-  {
-    "id": "613677eac14d4a32f97637bf",
-    "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-    "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-    "published": "2026-05-23T16:07:51+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.. What: Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware. When: 2026-05-23T16:07:51+00:00. How: \"Instead, it was inserted into package.json, targeting projects that ship JavaScript Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware Action: See Arabic action below.",
-    "summary_ar": "من: A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.. ماذا: Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware. متى: 2026-05-23T16:07:51+00:00. كيف: \"Instead, it was inserted into package.json, targeting projects that ship JavaScript Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html"
-    ]
-  },
-  {
-    "id": "cfaca70a0a9819e0fbfb9a0b",
-    "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-    "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
-    "published": "2026-05-23T14:23:44+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes. What: Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes. When: 2026-05-23T14:23:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes. ماذا: Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes. متى: 2026-05-23T14:23:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/23/CINEMAGOAL.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
-    ]
-  },
-  {
-    "id": "d7ba36d1e5f99df28aba817f",
-    "title": "This rugged Windows tablet handles mud and rain - but didn't impress with the basics",
-    "link": "https://www.zdnet.com/article/getac-g14-windows-ai-tablet-review/",
-    "published": "2026-05-23T13:15:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This rugged Windows tablet handles mud and rain - but didn't impress with the basics. What: This rugged Windows tablet handles mud and rain - but didn't impress with the basics. When: 2026-05-23T13:15:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This rugged Windows tablet handles mud and rain - but didn't impress with the basics. ماذا: This rugged Windows tablet handles mud and rain - but didn't impress with the basics. متى: 2026-05-23T13:15:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e80c80b9527f913d69bd28595f9a8e674ab0ebf1/2026/05/15/4d4aa107-c054-435e-bc6c-a03a1cbdd75c/img-4304.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/getac-g14-windows-ai-tablet-review/"
-    ]
-  },
-  {
-    "id": "72d496497a9b3978d510a428",
-    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-    "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-    "published": "2026-05-23T11:55:35+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software. What: Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.. When: 2026-05-23T11:55:35+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software. ماذا: Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.. متى: 2026-05-23T11:55:35+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
-    ]
-  },
-  {
-    "id": "53f4652d1b7945c25e636de4",
-    "title": "I joyfully reunited with my first Linux distro at the Virtual OS Museum",
-    "link": "https://www.zdnet.com/article/reunited-with-my-first-linux-distro-at-the-virtual-os-museum/",
-    "published": "2026-05-23T11:00:38+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I joyfully reunited with my first Linux distro at the Virtual OS Museum. What: I joyfully reunited with my first Linux distro at the Virtual OS Museum. When: 2026-05-23T11:00:38+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I joyfully reunited with my first Linux distro at the Virtual OS Museum. ماذا: I joyfully reunited with my first Linux distro at the Virtual OS Museum. متى: 2026-05-23T11:00:38+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/bfeb6182559eac646bd980676a8ed7d4386c2cbb/2026/05/20/da7598e8-47de-4c2c-803e-9d353277ec07/caldera.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/reunited-with-my-first-linux-distro-at-the-virtual-os-museum/"
-    ]
-  },
-  {
-    "id": "9702e9600c111c25439652a1",
-    "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
-    "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
-    "published": "2026-05-23T11:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains. What: The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.. When: 2026-05-23T11:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains. ماذا: The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.. متى: 2026-05-23T11:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Underminr-DNS-vulnerability.jpg",
-    "sources": [
-      "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/"
-    ]
-  },
-  {
-    "id": "2379586949d52c9ee92ea85a",
-    "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
-    "link": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
-    "published": "2026-05-23T10:59:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The real problem, according to what the Google Threat Intelligence Group has discovered, is that the mean time to exploit (TTE) for vulnerabilities has continually decreased \"from 63 days in 2018 to -1 day in 2024 and further downward to an estimated -7 days in 2025.. What: With AI‑accelerated analysis, he recalled that \"last week, we fixed the bug; within three hours, there was a blog post about the implications of that bug fix, because security people love getting attention.\" As a result of this kind of thing, Torvalds has changed how the Linux security community will deal with AI-discovered security holes.. When: 2026-05-23T10:59:00+00:00. How: Linus Torvalds, who knows a thing or two about Linux, said at Open Source Summit North America in Minneapolis that until recently, the kernel community would quietly notify distributions about a bug and ask them to upgrade without detailing the vulnerability, and \"most of the time, nobody would figure out what happened.\" That was then. Action: See Arabic action below.",
-    "summary_ar": "من: The real problem, according to what the Google Threat Intelligence Group has discovered, is that the mean time to exploit (TTE) for vulnerabilities has continually decreased \"from 63 days in 2018 to -1 day in 2024 and further downward to an estimated -7 days in 2025.. ماذا: With AI‑accelerated analysis, he recalled that \"last week, we fixed the bug; within three hours, there was a blog post about the implications of that bug fix, because security people love getting attention.\" As a result of this kind of thing, Torvalds has changed how the Linux security community will deal with AI-discovered security holes.. متى: 2026-05-23T10:59:00+00:00. كيف: Linus Torvalds, who knows a thing or two about Linux, said at Open Source Summit North America in Minneapolis that until recently, the kernel community would quietly notify distributions about a bug and ask them to upgrade without detailing the vulnerability, and \"most of the time, nobody would figure out what happened.\" That was then.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5244793.jpg?imageId=5244793&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742"
-    ]
-  },
-  {
-    "id": "e472adcd0eaee57db6b4a5f5",
-    "title": "Dirty Frag, Copy Fail, Fragnesia: The start of a worrisome Linux security trend",
-    "link": "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742",
-    "published": "2026-05-23T10:59:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The real problem, according to what the Google Threat Intelligence Group has discovered, is that the mean time to exploit (TTE) for vulnerabilities has continually decreased \"from 63 days in 2018 to -1 day in 2024 and further downward to an estimated -7 days in 2025.. What: With AI‑accelerated analysis, he recalled that \"last week, we fixed the bug; within three hours, there was a blog post about the implications of that bug fix, because security people love getting attention.\" As a result of this kind of thing, Torvalds has changed how the Linux security community will deal with AI-discovered security holes.. When: 2026-05-23T10:59:00+00:00. How: Linus Torvalds, who knows a thing or two about Linux, said at Open Source Summit North America in Minneapolis that until recently, the kernel community would quietly notify distributions about a bug and ask them to upgrade without detailing the vulnerability, and \"most of the time, nobody would figure out what happened.\" That was then. Action: See Arabic action below.",
-    "summary_ar": "من: The real problem, according to what the Google Threat Intelligence Group has discovered, is that the mean time to exploit (TTE) for vulnerabilities has continually decreased \"from 63 days in 2018 to -1 day in 2024 and further downward to an estimated -7 days in 2025.. ماذا: With AI‑accelerated analysis, he recalled that \"last week, we fixed the bug; within three hours, there was a blog post about the implications of that bug fix, because security people love getting attention.\" As a result of this kind of thing, Torvalds has changed how the Linux security community will deal with AI-discovered security holes.. متى: 2026-05-23T10:59:00+00:00. كيف: Linus Torvalds, who knows a thing or two about Linux, said at Open Source Summit North America in Minneapolis that until recently, the kernel community would quietly notify distributions about a bug and ask them to upgrade without detailing the vulnerability, and \"most of the time, nobody would figure out what happened.\" That was then.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5244793.jpg?imageId=5244793&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/23/dirty-frag-copy-fail-fragnesia-the-start-of-a-worrisome-linux-security-trend/5244742"
-    ]
-  },
-  {
-    "id": "2182bf4a970ba8753173b9e7",
-    "title": "This QLED canvas art TV isn't made by Samsung, and it's $650 cheaper this weekend",
-    "link": "https://www.zdnet.com/article/hisense-canvas-s7-art-tv-deal-memorial-day-2026/",
-    "published": "2026-05-23T10:00:44+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This QLED canvas art TV isn't made by Samsung, and it's $650 cheaper this weekend. What: This QLED canvas art TV isn't made by Samsung, and it's $650 cheaper this weekend. When: 2026-05-23T10:00:44+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This QLED canvas art TV isn't made by Samsung, and it's $650 cheaper this weekend. ماذا: This QLED canvas art TV isn't made by Samsung, and it's $650 cheaper this weekend. متى: 2026-05-23T10:00:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/17e1c4559a05c1ce27abdf7fcc4d23591b6b2e7f/2025/03/24/612ec642-eda4-4424-a7eb-37c901621bd8/dsc05070-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/hisense-canvas-s7-art-tv-deal-memorial-day-2026/"
-    ]
-  },
-  {
-    "id": "a0b13b56f7a46d509ef2c25f",
-    "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-    "published": "2026-05-23T09:51:13+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer. What: Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer. When: 2026-05-23T09:51:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer. ماذا: Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer. متى: 2026-05-23T09:51:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
-    ]
-  },
-  {
-    "id": "5812c6571ea6c1d851d81498",
-    "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-    "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-    "published": "2026-05-23T07:35:13+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root. What: \"Any cPanel user (including an attacker or a compromised account) may LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root. When: 2026-05-23T07:35:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root. ماذا: \"Any cPanel user (including an attacker or a compromised account) may LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root. متى: 2026-05-23T07:35:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-48172"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0W1UqsbcZ-8IV_n8ov3V24MQ74VaKe3auGFWNunDUfubEBeKEGREuFjC9-i7H_fLfSwFQQ5wqe8bhVWvAUVC_8U5AQg1c1Qbe-M7bSjuWCwcjTRrc2Du7L0Tm-NKO7ErhPUTR7YS6b1vkpmbYS1VaClWUGOvGe4cxv-jHkQFZMXbSDLfBiF7FFwd7Nfe/s1600/lightspeed.png",
-    "sources": [
-      "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html"
     ]
   }
 ]
