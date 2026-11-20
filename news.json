@@ -18,6 +18,525 @@
     ]
   },
   {
+    "id": "273c692ec6e6b04d20171f7a",
+    "title": "Signal slams door on prying AI agents to protect privacy",
+    "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+    "published": "2026-11-20T20:42:04+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns.. What: \"We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy.\" Apple is also reportedly working on its own AI agent in a bid to compete with Anthropic and OpenAI.. When: 2026-11-20T20:42:04+00:00. How: Updates to Signal's iOS and Android apps now include controls that by default block Siri on iOS and Gemini and other agents on Android from taking screenshots, which AI agents process using optical character recognition to extract text. Action: See Arabic action below.",
+    "summary_ar": "من: Signal, the encrypted messaging app, has barred Google Gemini, Apple Siri, and other AI agents from accessing messages unless the user has explicitly granted permission, based on privacy concerns.. ماذا: \"We are committed to ensuring users clearly understand these risks before granting such access, so they can make informed decisions about their own data and privacy.\" Apple is also reportedly working on its own AI agent in a bid to compete with Anthropic and OpenAI.. متى: 2026-11-20T20:42:04+00:00. كيف: Updates to Signal's iOS and Android apps now include controls that by default block Siri on iOS and Gemini and other agents on Android from taking screenshots, which AI agents process using optical character recognition to extract text.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/227546.jpg?imageId=227546&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466"
+    ]
+  },
+  {
+    "id": "6c623452a14a6d231ad59fba",
+    "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+    "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+    "published": "2026-11-20T18:51:43+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Bell Canada says 'agentic' hacker stole enterprise customer data. What: Bell Canada says 'agentic' hacker stole enterprise customer data. When: 2026-11-20T18:51:43+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bell Canada says 'agentic' hacker stole enterprise customer data. ماذا: Bell Canada says 'agentic' hacker stole enterprise customer data. متى: 2026-11-20T18:51:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/20/bell-canada.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+    ]
+  },
+  {
+    "id": "95e1986b820d2a3404c1e159",
+    "title": "In Security, Words Matter as Much as Tools, Maybe More",
+    "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+    "published": "2026-11-20T18:35:40+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: In Security, Words Matter as Much as Tools, Maybe More. What: In Security, Words Matter as Much as Tools, Maybe More. When: 2026-11-20T18:35:40+00:00. How: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise. Action: See Arabic action below.",
+    "summary_ar": "من: In Security, Words Matter as Much as Tools, Maybe More. ماذا: In Security, Words Matter as Much as Tools, Maybe More. متى: 2026-11-20T18:35:40+00:00. كيف: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cybersecurity-operations/security-words-matter"
+    ]
+  },
+  {
+    "id": "6cc616c5c6e76f971a0e2bcb",
+    "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+    "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+    "published": "2026-11-20T17:57:20+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.. What: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.. When: 2026-11-20T17:57:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.. ماذا: Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.. متى: 2026-11-20T17:57:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-23871"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+    ]
+  },
+  {
+    "id": "0abe4221510a96d08be27478",
+    "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+    "published": "2026-11-20T17:30:00+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers use autonomous AI tool Cairn to find zero-day, take over server. What: Hackers use autonomous AI tool Cairn to find zero-day, take over server. When: 2026-11-20T17:30:00+00:00. How: Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers use autonomous AI tool Cairn to find zero-day, take over server. ماذا: Hackers use autonomous AI tool Cairn to find zero-day, take over server. متى: 2026-11-20T17:30:00+00:00. كيف: Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/"
+    ]
+  },
+  {
+    "id": "82b76084c3aaddba0be3cf30",
+    "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+    "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+    "published": "2026-11-20T17:30:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server. What: In this case, the agents found and exploited a zero-day MONAI Label, an open-source medical imaging AI application.. When: 2026-11-20T17:30:00+00:00. How: Suspected Chinese spies deployed AI agents which worked autonomously to find a zero-day in an open source application and then abuse the flaw to break into university networks, gaining full control of a server, according to Amazon CISO CJ Moses. Action: See Arabic action below.",
+    "summary_ar": "من: China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server. ماذا: In this case, the agents found and exploited a zero-day MONAI Label, an open-source medical imaging AI application.. متى: 2026-11-20T17:30:00+00:00. كيف: Suspected Chinese spies deployed AI agents which worked autonomously to find a zero-day in an open source application and then abuse the flaw to break into university networks, gaining full control of a server, according to Amazon CISO CJ Moses.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311400.jpg?imageId=5311400&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382"
+    ]
+  },
+  {
+    "id": "35aed7f27fbb0710a0b6e764",
+    "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+    "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+    "published": "2026-11-20T17:04:04+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.. What: What We Missed: Nvidia CEO Scandal Rocks AI Industry. When: 2026-11-20T17:04:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.. ماذا: What We Missed: Nvidia CEO Scandal Rocks AI Industry. متى: 2026-11-20T17:04:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry"
+    ]
+  },
+  {
+    "id": "be6af8d0ab8744b796a865e5",
+    "title": "Signal to restrict screenshots over AI agent concerns – again",
+    "link": "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/",
+    "published": "2026-11-20T17:03:37+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: The messaging app similarly limited screenshots because of Microsoft Recall last year.. What: Signal to restrict screenshots over AI agent concerns – again. When: 2026-11-20T17:03:37+00:00. How: The messaging app similarly limited screenshots because of Microsoft Recall last year. Action: See Arabic action below.",
+    "summary_ar": "من: The messaging app similarly limited screenshots because of Microsoft Recall last year.. ماذا: Signal to restrict screenshots over AI agent concerns – again. متى: 2026-11-20T17:03:37+00:00. كيف: The messaging app similarly limited screenshots because of Microsoft Recall last year.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/protecting-your-privacy-1.png",
+    "sources": [
+      "https://www.zdnet.com/innovation/signal-restricts-screenshots-over-ai-agent-concerns/"
+    ]
+  },
+  {
+    "id": "9dbbebdeb6a3a85df4b204a9",
+    "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+    "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+    "published": "2026-11-20T16:58:16+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control. What: Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.. When: 2026-11-20T16:58:16+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control. ماذا: Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.. متى: 2026-11-20T16:58:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+    ]
+  },
+  {
+    "id": "170cd467c630bfa77ba05953",
+    "title": "Dutch data watchdog highlights safety issues with AI glasses",
+    "link": "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+    "published": "2026-11-20T16:44:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Dutch data watchdog highlights safety issues with AI glasses. What: With the camera glasses examined, that trust cannot currently be justified.\" The warning issued this week follows the regulator's previous work on smart glasses.. When: 2026-11-20T16:44:00+00:00. How: The AP doubled down on these earlier criticisms, saying the latest tests showed that the AI functions rely on processing data using servers mostly located outside of the European Union. Action: See Arabic action below.",
+    "summary_ar": "من: Dutch data watchdog highlights safety issues with AI glasses. ماذا: With the camera glasses examined, that trust cannot currently be justified.\" The warning issued this week follows the regulator's previous work on smart glasses.. متى: 2026-11-20T16:44:00+00:00. كيف: The AP doubled down on these earlier criticisms, saying the latest tests showed that the AI functions rely on processing data using servers mostly located outside of the European Union.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5308699.jpg?imageId=5308699&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"
+    ]
+  },
+  {
+    "id": "4ebef484f948ffe8d0a74f8c",
+    "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
+    "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
+    "published": "2026-11-20T16:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. What: Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. When: 2026-11-20T16:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. ماذا: Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. متى: 2026-11-20T16:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/484c663a-2612-4fbb-98d2-7e3ce415b7c2.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/"
+    ]
+  },
+  {
+    "id": "a084fdadea1cde22d0ce3c4a",
+    "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 47 (2026)",
+    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-8",
+    "published": "2026-11-20T16:14:03+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: Rather than deploying its own machine-learning models, the framework integrates directly with commercial LLMs , including OpenAI GPT, Anthropic Claude, DeepSeek, Grok, and others.. What: The framework proves particularly effective at identifying overlooked perimeter weaknesses, such as exposed partner portals, unpatched legacy services, and misconfigured third-party application programming interfaces.. When: 2026-11-20T16:14:03+00:00. How: federal courts also sentenced 24-year-old Tyler Robert Buchanan to six years in prison for the theft of millions in cryptocurrency through multiple breaches. Action: See Arabic action below.",
+    "summary_ar": "من: Rather than deploying its own machine-learning models, the framework integrates directly with commercial LLMs , including OpenAI GPT, Anthropic Claude, DeepSeek, Grok, and others.. ماذا: The framework proves particularly effective at identifying overlooked perimeter weaknesses, such as exposed partner portals, unpatched legacy services, and misconfigured third-party application programming interfaces.. متى: 2026-11-20T16:14:03+00:00. كيف: federal courts also sentenced 24-year-old Tyler Robert Buchanan to six years in prison for the theft of millions in cryptocurrency through multiple breaches.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2022-20775",
+      "CVE-2024-55591",
+      "CVE-2025-12480",
+      "CVE-2025-14174",
+      "CVE-2025-24472",
+      "CVE-2025-31277",
+      "CVE-2025-43510",
+      "CVE-2025-43520",
+      "CVE-2025-43529",
+      "CVE-2025-55182",
+      "CVE-2025-59718",
+      "CVE-2025-59719",
+      "CVE-2025-61884",
+      "CVE-2025-66478",
+      "CVE-2025-68668",
+      "CVE-2026-0257",
+      "CVE-2026-0300",
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "CVE-2026-111497",
+      "CVE-2026-114938",
+      "CVE-2026-20127",
+      "CVE-2026-20131",
+      "CVE-2026-20230",
+      "CVE-2026-20245",
+      "CVE-2026-20700",
+      "CVE-2026-21262",
+      "CVE-2026-21509",
+      "CVE-2026-21589",
+      "CVE-2026-21858",
+      "CVE-2026-21877",
+      "CVE-2026-24858",
+      "CVE-2026-25253",
+      "CVE-2026-26127",
+      "CVE-2026-26144",
+      "CVE-2026-33032",
+      "CVE-2026-33824",
+      "CVE-2026-36425",
+      "CVE-2026-3909",
+      "CVE-2026-3910",
+      "CVE-2026-41091",
+      "CVE-2026-45498",
+      "CVE-2026-46300",
+      "CVE-2026-50656",
+      "CVE-2026-5281",
+      "cve-2021-44228",
+      "cve-2022-20775",
+      "cve-2024-55591",
+      "cve-2025-12480",
+      "cve-2025-55182",
+      "cve-2025-61884",
+      "cve-2026-0257",
+      "cve-2026-109618",
+      "cve-2026-109619",
+      "cve-2026-111497",
+      "cve-2026-114938",
+      "cve-2026-21589",
+      "cve-2026-21858",
+      "cve-2026-2441",
+      "cve-2026-36425",
+      "cve-2026-46300"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-40-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-31-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-23-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-22-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-17-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-3-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-38-8/",
+      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-8/"
+    ]
+  },
+  {
+    "id": "b3099b7219afcaab9c361fde",
+    "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+    "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+    "published": "2026-11-20T16:01:02+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign. What: The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .. When: 2026-11-20T16:01:02+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign. ماذا: The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .. متى: 2026-11-20T16:01:02+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-23871"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/06/WhatsApp-Vulnerability-attack-e1761292707809.jpg",
+    "sources": [
+      "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/"
+    ]
+  },
+  {
+    "id": "bbc19bb6f991b9cb21ec42bf",
+    "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+    "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+    "published": "2026-11-20T15:58:06+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Vendor data breach exposes Chase, Visa, Mastercard customer info. What: Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data.. When: 2026-11-20T15:58:06+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Vendor data breach exposes Chase, Visa, Mastercard customer info. ماذا: Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data.. متى: 2026-11-20T15:58:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/hand-sifting-data.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+    ]
+  },
+  {
+    "id": "19cca4f1450a3e9083b1650d",
+    "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+    "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+    "published": "2026-11-20T15:00:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Still tracking company passwords in spreadsheets? You’re flying blind.. What: Still tracking company passwords in spreadsheets? You’re flying blind.. When: 2026-11-20T15:00:10+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Still tracking company passwords in spreadsheets? You’re flying blind.. ماذا: Still tracking company passwords in spreadsheets? You’re flying blind.. متى: 2026-11-20T15:00:10+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/11/19/nordpass-header.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/"
+    ]
+  },
+  {
+    "id": "1722752aee2d029e5efa1622",
+    "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+    "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+    "published": "2026-11-20T14:56:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit. What: In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit. When: 2026-11-20T14:56:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit. ماذا: In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit. متى: 2026-11-20T14:56:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg",
+    "sources": [
+      "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/"
+    ]
+  },
+  {
+    "id": "8c71d1d140fee16bc4203df9",
+    "title": "Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds",
+    "link": "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/",
+    "published": "2026-11-20T14:15:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds. What: Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds. When: 2026-11-20T14:15:00+00:00. How: A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds Action: See Arabic action below.",
+    "summary_ar": "من: Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds. ماذا: Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds. متى: 2026-11-20T14:15:00+00:00. كيف: A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks Ransomware Recovery Takes 20 Days for the Typical Victim, Report Finds. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/fc294e07-1b2e-469a-8b1c-f5988f7b1bdb.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ransomware-recovery-20-days/"
+    ]
+  },
+  {
+    "id": "0c51355afc9c7f33fc74cd0f",
+    "title": "The New Analyst Learning Curve: Training and Retaining Talent in the Autonomous SOC",
+    "link": "https://www.sentinelone.com/blog/the-new-analyst-learning-curve-training-and-retaining-talent-in-the-autonomous-soc/",
+    "published": "2026-11-20T14:00:03+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: The New Analyst Learning Curve: Training and Retaining Talent in the Autonomous SOC. What: And AI skills now top the list of skills needs in ISC2's 2025 Cybersecurity Workforce Study , cited by 41% of respondents who reported a skills need.. When: 2026-11-20T14:00:03+00:00. How: The learning happened in rarer moments: the real hit, the escalation that became an incident, the Tier 2 analyst walking you through what you missed. Action: See Arabic action below.",
+    "summary_ar": "من: The New Analyst Learning Curve: Training and Retaining Talent in the Autonomous SOC. ماذا: And AI skills now top the list of skills needs in ISC2's 2025 Cybersecurity Workforce Study , cited by 41% of respondents who reported a skills need.. متى: 2026-11-20T14:00:03+00:00. كيف: The learning happened in rarer moments: the real hit, the escalation that became an incident, the Tier 2 analyst walking you through what you missed.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.sentinelone.com/blog/the-new-analyst-learning-curve-training-and-retaining-talent-in-the-autonomous-soc/"
+    ]
+  },
+  {
+    "id": "d9a325150570d699b071a03f",
+    "title": "N-able says recent security breach led to major service outage",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+    "published": "2026-11-20T13:18:36+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: N-able says recent security breach led to major service outage. What: N-able says recent security breach led to major service outage. When: 2026-11-20T13:18:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: N-able says recent security breach led to major service outage. ماذا: N-able says recent security breach led to major service outage. متى: 2026-11-20T13:18:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/20/N-able.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+    ]
+  },
+  {
+    "id": "5b364ed36dab94693c181993",
+    "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
+    "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+    "published": "2026-11-20T12:38:55+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday. What: Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday. When: 2026-11-20T12:38:55+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday. ماذا: Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday. متى: 2026-11-20T12:38:55+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Feedback-Friday.jpeg",
+    "sources": [
+      "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/"
+    ]
+  },
+  {
+    "id": "f80afcc4785757413a9eeca5",
+    "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+    "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+    "published": "2026-11-20T12:20:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts. What: Fixed kernels shipped Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts. When: 2026-11-20T12:20:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts. ماذا: Fixed kernels shipped Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts. متى: 2026-11-20T12:20:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-99312"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
+    ]
+  },
+  {
+    "id": "f3d31e5642221177b7956a00",
+    "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+    "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+    "published": "2026-11-20T12:18:19+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: The Investigatory Powers Tribunal (IPT) has confirmed that the UK government served Apple with a secret Technical Capability Notice (TCN), rejecting the Home Office's argument that acknowledging its existence would damage national security.. What: The order has been widely reported as demanding access to end-to-end encrypted iCloud data.. When: 2026-11-20T12:18:19+00:00. How: \"A judge can authorize access to a criminal's home, a parcel they've sent, or a car they drive. Action: See Arabic action below.",
+    "summary_ar": "من: The Investigatory Powers Tribunal (IPT) has confirmed that the UK government served Apple with a secret Technical Capability Notice (TCN), rejecting the Home Office's argument that acknowledging its existence would damage national security.. ماذا: The order has been widely reported as demanding access to end-to-end encrypted iCloud data.. متى: 2026-11-20T12:18:19+00:00. كيف: \"A judge can authorize access to a criminal's home, a parcel they've sent, or a car they drive.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5220278.jpg?imageId=5220278&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
+    ]
+  },
+  {
     "id": "63ce2dd9ff54afb68323a444",
     "title": "UK government can't keep its encryption-busting order to Apple a secret, tribunal rules",
     "link": "https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
@@ -54,6 +573,24 @@
     ]
   },
   {
+    "id": "d9e0b261f40899fbc88e9f2a",
+    "title": "The Path to AI Autonomy in the SOC",
+    "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+    "published": "2026-11-20T12:00:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The Path to AI Autonomy in the SOC. What: The Path to AI Autonomy in the SOC. When: 2026-11-20T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The Path to AI Autonomy in the SOC. ماذا: The Path to AI Autonomy in the SOC. متى: 2026-11-20T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png",
+    "sources": [
+      "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
+    ]
+  },
+  {
     "id": "82d038c6d3891970c3968660",
     "title": "Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams",
     "link": "https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/",
@@ -87,24 +624,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg",
     "sources": [
       "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/"
-    ]
-  },
-  {
-    "id": "4ebef484f948ffe8d0a74f8c",
-    "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
-    "link": "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/",
-    "published": "2026-11-20T11:15:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. What: Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. When: 2026-11-20T11:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. ماذا: Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site JPMorgan Confirms Customer Data Breach Following Third-Party Compromise. متى: 2026-11-20T11:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/484c663a-2612-4fbb-98d2-7e3ce415b7c2.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/"
     ]
   },
   {
@@ -504,12 +1023,12 @@
   },
   {
     "id": "150f8fb5544609cd323c005a",
-    "title": "Second Norwegian Energy Company Breached in Two Days",
+    "title": "Second Norwegian Energy Company Breached in 2 Days",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
     "published": "2026-11-19T20:14:15+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: Second Norwegian Energy Company Breached in Two Days. What: Second Norwegian Energy Company Breached in Two Days. When: 2026-11-19T20:14:15+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Second Norwegian Energy Company Breached in Two Days. ماذا: Second Norwegian Energy Company Breached in Two Days. متى: 2026-11-19T20:14:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "summary_en": "Who: Second Norwegian Energy Company Breached in 2 Days. What: Second Norwegian Energy Company Breached in 2 Days. When: 2026-11-19T20:14:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Second Norwegian Energy Company Breached in 2 Days. ماذا: Second Norwegian Energy Company Breached in 2 Days. متى: 2026-11-19T20:14:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "category": "Data Breach",
     "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
     "cves": [],
@@ -522,12 +1041,12 @@
   },
   {
     "id": "7cf301393d67c6299da148c7",
-    "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+    "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
     "link": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
     "published": "2026-11-19T19:57:31+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. What: Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style. When: 2026-11-19T19:57:31+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. ماذا: Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style. متى: 2026-11-19T19:57:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. What: Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style. When: 2026-11-19T19:57:31+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.. ماذا: Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style. متى: 2026-11-19T19:57:31+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -5429,138 +5948,6 @@
     ]
   },
   {
-    "id": "7adddca167c8f7432774e7c7",
-    "title": "The Good, the Bad and the Ugly in Cybersecurity - Week 46 (2026)",
-    "link": "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-8",
-    "published": "2026-11-13T17:46:55+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: The Bad | Turla Attackers Deploy Cereal Malware to Spy on Government Exchange Servers Russian state-backed threat group known as Turla is deploying a previously undocumented .NET cyberespionage framework dubbed Cereal to intercept communications on Microsoft Exchange servers across government organizations.. What: The Ugly | Threat Actors Breach Railway Infrastructure to Steal Customer AI Secrets Cloud hosting platform Railway confirmed that threat actors exploited flaws within its build infrastructure to steal decrypted customer authentication secrets, resulting in an estimated $740,000 in unauthorized AI usage charges.. When: 2026-11-13T17:46:55+00:00. How: The Good | Authorities Dismantle Crypto Scams, Ban Illicit Exchange & Seize Malware Infrastructure Ukrainian law enforcement partnered with German authorities this week to dismantle a network of cryptocurrency scammers that stole over €4.3 million from victims in Europe. Action: See Arabic action below.",
-    "summary_ar": "من: The Bad | Turla Attackers Deploy Cereal Malware to Spy on Government Exchange Servers Russian state-backed threat group known as Turla is deploying a previously undocumented .NET cyberespionage framework dubbed Cereal to intercept communications on Microsoft Exchange servers across government organizations.. ماذا: The Ugly | Threat Actors Breach Railway Infrastructure to Steal Customer AI Secrets Cloud hosting platform Railway confirmed that threat actors exploited flaws within its build infrastructure to steal decrypted customer authentication secrets, resulting in an estimated $740,000 in unauthorized AI usage charges.. متى: 2026-11-13T17:46:55+00:00. كيف: The Good | Authorities Dismantle Crypto Scams, Ban Illicit Exchange & Seize Malware Infrastructure Ukrainian law enforcement partnered with German authorities this week to dismantle a network of cryptocurrency scammers that stole over €4.3 million from victims in Europe.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2022-20775",
-      "CVE-2024-55591",
-      "CVE-2025-12480",
-      "CVE-2025-14174",
-      "CVE-2025-24472",
-      "CVE-2025-31277",
-      "CVE-2025-43510",
-      "CVE-2025-43520",
-      "CVE-2025-43529",
-      "CVE-2025-55182",
-      "CVE-2025-59718",
-      "CVE-2025-59719",
-      "CVE-2025-61884",
-      "CVE-2025-66478",
-      "CVE-2025-68668",
-      "CVE-2026-0257",
-      "CVE-2026-0300",
-      "CVE-2026-109618",
-      "CVE-2026-109619",
-      "CVE-2026-111497",
-      "CVE-2026-20127",
-      "CVE-2026-20131",
-      "CVE-2026-20230",
-      "CVE-2026-20245",
-      "CVE-2026-20700",
-      "CVE-2026-21262",
-      "CVE-2026-21509",
-      "CVE-2026-21589",
-      "CVE-2026-21858",
-      "CVE-2026-21877",
-      "CVE-2026-24858",
-      "CVE-2026-25253",
-      "CVE-2026-26127",
-      "CVE-2026-26144",
-      "CVE-2026-33032",
-      "CVE-2026-33824",
-      "CVE-2026-36425",
-      "CVE-2026-3909",
-      "CVE-2026-3910",
-      "CVE-2026-41091",
-      "CVE-2026-45498",
-      "CVE-2026-46300",
-      "CVE-2026-50656",
-      "CVE-2026-5281",
-      "cve-2021-44228",
-      "cve-2022-20775",
-      "cve-2024-55591",
-      "cve-2025-12480",
-      "cve-2025-55182",
-      "cve-2025-61884",
-      "cve-2026-0257",
-      "cve-2026-109618",
-      "cve-2026-109619",
-      "cve-2026-111497",
-      "cve-2026-21589",
-      "cve-2026-21858",
-      "cve-2026-2441",
-      "cve-2026-36425",
-      "cve-2026-46300"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-40-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-39-8",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-35-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-34-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-33-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-32-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-31-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-30-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-29-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-28-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-27-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-26-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-25-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-24-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-23-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-22-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-21-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-20-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-19-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-18-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-17-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-16-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-15-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-14-6/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-13-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-12-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-11-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-10-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-9-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-8-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-7-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-6-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-5-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-4-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-3-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-2-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-48-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-47-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-46-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-45-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-44-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-38-8/",
-      "https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-8/"
-    ]
-  },
-  {
     "id": "f6f4a6d64aa85b9c1cf97e07",
     "title": "German military drone operations disrupted by cyberattack",
     "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
@@ -7087,6 +7474,29 @@
     ]
   },
   {
+    "id": "efdcd7b00458ccae9869c510",
+    "title": "Transcending the trust boundaries: how a cloud pentest works",
+    "link": "https://securelist.com/how-a-cloud-pentest-works/121921/",
+    "published": "2026-11-12T13:00:53+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: Transcending the trust boundaries: how a cloud pentest works. What: Transcending the trust boundaries: how a cloud pentest works. When: 2026-11-12T13:00:53+00:00. How: Does compromising a runtime environment lead to the attack spreading to other resources and services? Action: See Arabic action below.",
+    "summary_ar": "من: Transcending the trust boundaries: how a cloud pentest works. ماذا: Transcending the trust boundaries: how a cloud pentest works. متى: 2026-11-12T13:00:53+00:00. كيف: Does compromising a runtime environment lead to the attack spreading to other resources and services?. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-19478",
+      "CVE-2026-43284",
+      "cve-2026-19478",
+      "cve-2026-43284"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12092808/cloud1_securelist-featured_1200x600.jpg",
+    "sources": [
+      "https://securelist.com/how-a-cloud-pentest-works/121921/"
+    ]
+  },
+  {
     "id": "00c8c05e542b9aad4775cfa8",
     "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
@@ -7284,29 +7694,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
-    ]
-  },
-  {
-    "id": "efdcd7b00458ccae9869c510",
-    "title": "Transcending the trust boundaries: how a cloud pentest works",
-    "link": "https://securelist.com/how-a-cloud-pentest-works/121921/",
-    "published": "2026-11-12T10:00:53+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: Transcending the trust boundaries: how a cloud pentest works. What: Transcending the trust boundaries: how a cloud pentest works. When: 2026-11-12T10:00:53+00:00. How: Does compromising a runtime environment lead to the attack spreading to other resources and services? Action: See Arabic action below.",
-    "summary_ar": "من: Transcending the trust boundaries: how a cloud pentest works. ماذا: Transcending the trust boundaries: how a cloud pentest works. متى: 2026-11-12T10:00:53+00:00. كيف: Does compromising a runtime environment lead to the attack spreading to other resources and services?. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-19478",
-      "CVE-2026-43284",
-      "cve-2026-19478",
-      "cve-2026-43284"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/12092808/cloud1_securelist-featured_1200x600.jpg",
-    "sources": [
-      "https://securelist.com/how-a-cloud-pentest-works/121921/"
     ]
   },
   {
@@ -21525,6 +21912,29 @@
     ]
   },
   {
+    "id": "07c655d5754241a03e6452ee",
+    "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
+    "link": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
+    "published": "2026-10-26T18:05:45+00:00",
+    "source": "sentinelone.com",
+    "summary_en": "Who: The two flaws are known together as PHP2Shell.. What: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. When: 2026-10-26T18:05:45+00:00. How: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM. Action: See Arabic action below.",
+    "summary_ar": "من: The two flaws are known together as PHP2Shell.. ماذا: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. متى: 2026-10-26T18:05:45+00:00. كيف: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-109618",
+      "CVE-2026-109619",
+      "cve-2026-109618",
+      "cve-2026-109619"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
+    "sources": [
+      "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/"
+    ]
+  },
+  {
     "id": "e6cb24183d2e85646fd330d5",
     "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
@@ -24570,29 +24980,6 @@
     "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss"
-    ]
-  },
-  {
-    "id": "07c655d5754241a03e6452ee",
-    "title": "Stopping PHP2SHELL: How SentinelOne Protects Customers From This Attack Technique",
-    "link": "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/",
-    "published": "2026-10-21T19:21:11+00:00",
-    "source": "sentinelone.com",
-    "summary_en": "Who: The two flaws are known together as PHP2Shell.. What: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. When: 2026-10-21T19:21:11+00:00. How: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM. Action: See Arabic action below.",
-    "summary_ar": "من: The two flaws are known together as PHP2Shell.. ماذا: Executive Summary On October 21, 2026, the PHP project released versions 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to fix two critical vulnerabilities, CVE-2026-109618 and CVE-2026-109619 , both rated CVSS v4.0 9.2.. متى: 2026-10-21T19:21:11+00:00. كيف: The separate memory-disclosure path runs no code on the host, so it leaves no process behavior to detect; that path is instead surfaced through web server, WAF, and CDN telemetry forwarded into AI SIEM.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-109618",
-      "CVE-2026-109619",
-      "cve-2026-109618",
-      "cve-2026-109619"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://images.contentstack.io/v3/assets/blt53c99b43892c2378/bltaf4cd26a3a9624eb/6a3429e88f704e56cfe8169c/sentinelone-logo.jpg",
-    "sources": [
-      "https://www.sentinelone.com/blog/stopping-php2shell-how-sentinelone-protects-customers-from-this-attack-technique/"
     ]
   },
   {
@@ -144732,26 +145119,6 @@
     "image": "https://www.zdnet.com/a/img/resize/7f8554959ab1aa61ece2c4f4867cc404f5939a21/2025/08/20/bac0940a-b3cc-4a13-ab4c-90f112932dc0/hp-omnibook-5-image-6.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/hp-omnibook-5-memorial-day-deal-2026/"
-    ]
-  },
-  {
-    "id": "fd84ae4913a0e916d90c6f1e",
-    "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
-    "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
-    "published": "2026-05-24T14:12:32+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign. What: A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows.. When: 2026-05-24T14:12:32+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign. ماذا: A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows.. متى: 2026-05-24T14:12:32+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-26980"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/22/GhostCMS.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"
     ]
   }
 ]
