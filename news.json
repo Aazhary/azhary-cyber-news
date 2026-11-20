@@ -18,6 +18,65 @@
     ]
   },
   {
+    "id": "1fe5c6c3b7969d24933f7d04",
+    "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+    "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+    "published": "2026-11-20T00:57:45+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: ® Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else. What: Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17th.. When: 2026-11-20T00:57:45+00:00. How: It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses. Action: See Arabic action below.",
+    "summary_ar": "من: ® Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else. ماذا: Maintainers got busy and delivered a fix to the mainline kernel on November 2, full fixes landed on the 17th.. متى: 2026-11-20T00:57:45+00:00. كيف: It’s bad news whenever someone with access to a guest VM can attack the host, because it means gaining access to a single tenant can potentially harm all the other guest VMs or peer into the memory a guest uses.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2022-3344",
+      "CVE-2026-119618",
+      "CVE-2026-123890",
+      "CVE-2026-99312"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/262623.jpg?imageId=262623&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193"
+    ]
+  },
+  {
+    "id": "c5e24a06d3952b8fed09aba5",
+    "title": "VMware patches vCenter zero-day exploited in attacks since September",
+    "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+    "published": "2026-11-20T00:26:25+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: VMware patches vCenter zero-day exploited in attacks since September. What: Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026.. When: 2026-11-20T00:26:25+00:00. How: Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. Action: See Arabic action below.",
+    "summary_ar": "من: VMware patches vCenter zero-day exploited in attacks since September. ماذا: Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026.. متى: 2026-11-20T00:26:25+00:00. كيف: Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    ]
+  },
+  {
+    "id": "9b9f66e814c29bdd06a36e34",
+    "title": "Germ Network infects Android, but in a good way",
+    "link": "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+    "published": "2026-11-20T00:06:35+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime.. What: Germ Network infects Android, but in a good way. When: 2026-11-20T00:06:35+00:00. How: \"Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first. Action: See Arabic action below.",
+    "summary_ar": "من: Co-founder Mark Xue hails from Apple, where he worked as a privacy engineer on systems like iMessage and FaceTime.. ماذا: Germ Network infects Android, but in a good way. متى: 2026-11-20T00:06:35+00:00. كيف: \"Android has been really exciting for us because not only is it 70 percent of the global mobile market, but we rolled out on iOS first.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311190.jpg?imageId=5311190&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186"
+    ]
+  },
+  {
     "id": "5e65458c080e91267d0d5359",
     "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
     "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
@@ -423,14 +482,14 @@
   },
   {
     "id": "7008c485fa38b4e8777c3791",
-    "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
     "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
     "published": "2026-11-19T15:11:06+00:00",
     "source": "thehackernews.com",
-    "summary_en": "Who: Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication. What: Fixed versions are out for all supported branches, and the company lists no workaround.. When: 2026-11-19T15:11:06+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication. ماذا: Fixed versions are out for all supported branches, and the company lists no workaround.. متى: 2026-11-19T15:11:06+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication. What: Fixed versions are out for all supported branches, and the company lists no workaround.. When: 2026-11-19T15:11:06+00:00. How: The Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication Action: See Arabic action below.",
+    "summary_ar": "من: Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication. ماذا: Fixed versions are out for all supported branches, and the company lists no workaround.. متى: 2026-11-19T15:11:06+00:00. كيف: The Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [],
     "cvss": [],
     "impacted": [],
@@ -1136,8 +1195,8 @@
     "link": "https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911",
     "published": "2026-11-18T22:38:12+00:00",
     "source": "theregister.com",
-    "summary_en": "Who: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. What: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. When: 2026-11-18T22:38:12+00:00. How: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560. Action: See Arabic action below.",
-    "summary_ar": "من: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. ماذا: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. متى: 2026-11-18T22:38:12+00:00. كيف: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” including at least one rated \"critical.\" These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "summary_en": "Who: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. What: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. When: 2026-11-18T22:38:12+00:00. How: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560. Action: See Arabic action below.",
+    "summary_ar": "من: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. ماذا: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. متى: 2026-11-18T22:38:12+00:00. كيف: The PHP Foundation has released several more patches, covering all supported versions, and including at least one rated “critical.” These fortunately were not leaked leaked like last month’s critical PHP2Shell flaws – but a Wednesday advisory warned, “The issues rated critical require either non-default configuration or uncommon setups,” urging PHP users to “prepare to upgrade promptly once the releases become available.” One of the vulnerabilities is another remote code execution (RCE) flaw, tracked as CVE-2026-115560.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "category": "Patch/Update",
     "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
     "cves": [
@@ -1662,7 +1721,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd3d76d438281428b/6afb51c99f6beb04c5e535c4/Brazil_CNH-RafaPress-Getty.jpg?disable=upscale&width=1200&height=630&fit=crop",
     "sources": [
       "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud"
     ]
@@ -144361,42 +144420,6 @@
     "image": "https://www.bleepstatic.com/content/hl-images/2026/05/22/GhostCMS.jpg",
     "sources": [
       "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"
-    ]
-  },
-  {
-    "id": "a1e37b4b0cae9a94802149d1",
-    "title": "Samsung is giving away free 32-inch Odyssey monitors - seriously",
-    "link": "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal/",
-    "published": "2026-05-24T02:06:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Samsung is giving away free 32-inch Odyssey monitors - seriously. What: Samsung is giving away free 32-inch Odyssey monitors - seriously. When: 2026-05-24T02:06:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Samsung is giving away free 32-inch Odyssey monitors - seriously. ماذا: Samsung is giving away free 32-inch Odyssey monitors - seriously. متى: 2026-05-24T02:06:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/b0f54ebc10868aa51cf408bd3c3d6f3d96c23e1b/2025/10/24/589d5bdb-183a-4099-b3ce-20dcea672eed/dsc08425.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal/"
-    ]
-  },
-  {
-    "id": "cab47b5551c8d495c3fe99c1",
-    "title": "Best Buy just discounted top gaming monitors for Memorial Day",
-    "link": "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/",
-    "published": "2026-05-24T01:55:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Best Buy just discounted top gaming monitors for Memorial Day. What: Best Buy just discounted top gaming monitors for Memorial Day. When: 2026-05-24T01:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Best Buy just discounted top gaming monitors for Memorial Day. ماذا: Best Buy just discounted top gaming monitors for Memorial Day. متى: 2026-05-24T01:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/017e814b99e268db96491aea2cb17cefc789a9b0/2026/05/24/c902c8d6-631c-4af0-9d47-bbd3e3ae2646/samsung-odyssey-g9-oled.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/"
     ]
   }
 ]
