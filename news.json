@@ -18,6 +18,221 @@
     ]
   },
   {
+    "id": "e561a4b35863f029980b0a03",
+    "title": "Cleverbridge Confirms Customers’ Payment Card Data Breached",
+    "link": "https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/",
+    "published": "2026-11-23T10:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Cleverbridge Confirms Customers’ Payment Card Data Breached. What: The stolen information reportedly includes card numbers and security codes stored by Cleverbridge, putting affected individuals at immediate risk of fraud Cleverbridge Confirms Customers’ Payment Card Data Breached. When: 2026-11-23T10:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Cleverbridge Confirms Customers’ Payment Card Data Breached. ماذا: The stolen information reportedly includes card numbers and security codes stored by Cleverbridge, putting affected individuals at immediate risk of fraud Cleverbridge Confirms Customers’ Payment Card Data Breached. متى: 2026-11-23T10:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/38af7841-95f6-4504-a97b-ebcca3e5ca9c.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/cleverbridge-payment-card-breached/"
+    ]
+  },
+  {
+    "id": "ca72045b083c31c9009f2276",
+    "title": "Black Friday, red flags: too-good-to-be-true deals hiding real threats",
+    "link": "https://securelist.com/black-friday-threat-report-2026/122061/",
+    "published": "2026-11-23T10:00:43+00:00",
+    "source": "securelist.com",
+    "summary_en": "Who: At Kaspersky, we closely follow the cybersecurity risks associated with major shopping events and seasonal spikes in online retail activity.. What: We detected more than 220,071 sales-themed spam messages in the first two weeks of November, which is 50.2% more than in 2025.. When: 2026-11-23T10:00:43+00:00. How: To find the best offers, 55% of respondents in 2026 planned to research purchases through retailer websites and 46% through brand websites. Action: See Arabic action below.",
+    "summary_ar": "من: At Kaspersky, we closely follow the cybersecurity risks associated with major shopping events and seasonal spikes in online retail activity.. ماذا: We detected more than 220,071 sales-themed spam messages in the first two weeks of November, which is 50.2% more than in 2025.. متى: 2026-11-23T10:00:43+00:00. كيف: To find the best offers, 55% of respondents in 2026 planned to research purchases through retailer websites and 46% through brand websites.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/11/23085614/black-friday2_securelist-featured_1200x600.png",
+    "sources": [
+      "https://securelist.com/black-friday-threat-report-2026/122061/"
+    ]
+  },
+  {
+    "id": "505be551115bc962f5988f4f",
+    "title": "Critical Cisco Expressway Flaw Exploited in Attacks",
+    "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/",
+    "published": "2026-11-23T10:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited Critical Cisco Expressway Flaw Exploited in Attacks. What: Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited Critical Cisco Expressway Flaw Exploited in Attacks. When: 2026-11-23T10:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited Critical Cisco Expressway Flaw Exploited in Attacks. ماذا: Researchers warn that CVE-2026-76466, with a CVSS score of 9.8, is being actively exploited Critical Cisco Expressway Flaw Exploited in Attacks. متى: 2026-11-23T10:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-104286",
+      "CVE-2026-76466"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/8b0440f7-2a61-4f57-b0f6-cab2aa960f77.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/",
+      "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
+      "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+    ]
+  },
+  {
+    "id": "c52ec4f9aa5798e1f4ac1bfd",
+    "title": "Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads",
+    "link": "https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/",
+    "published": "2026-11-23T09:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads. What: Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads. When: 2026-11-23T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads. ماذا: Badbox Returns to Spread Ad Fraud and Proxyjacking Payloads. متى: 2026-11-23T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/fcb63c99-4026-4a07-b42c-84d51a8fbf5b.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/badbox-spread-ad-fraud/"
+    ]
+  },
+  {
+    "id": "31afdc96e80bb016e0291796",
+    "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+    "published": "2026-11-23T09:11:56+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE. What: Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.. When: 2026-11-23T09:11:56+00:00. How: Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE. ماذا: Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.. متى: 2026-11-23T09:11:56+00:00. كيف: Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-131914"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
+    ]
+  },
+  {
+    "id": "d0dd2916cf583a593ab5e8f5",
+    "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+    "published": "2026-11-23T09:11:15+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch.. What: Microsoft confirms Windows printing issues affecting Forcepoint users. When: 2026-11-23T09:11:15+00:00. How: Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. Action: See Arabic action below.",
+    "summary_ar": "من: Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch.. ماذا: Microsoft confirms Windows printing issues affecting Forcepoint users. متى: 2026-11-23T09:11:15+00:00. كيف: Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/05/Windows_11.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"
+    ]
+  },
+  {
+    "id": "791422e9c3235070adeaf879",
+    "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+    "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+    "published": "2026-11-23T09:04:08+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices. What: Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.. When: 2026-11-23T09:04:08+00:00. How: The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices. ماذا: Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.. متى: 2026-11-23T09:04:08+00:00. كيف: The company identified and fixed the flaw on Friday and blocked the access the attacker used, so devices can no longer be infected through this route.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Patch/Update",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html"
+    ]
+  },
+  {
+    "id": "f8b881f88a84c2530eeec3a9",
+    "title": "When Microsoft, Apple, and the FAA can't keep it up, it's a system of a down",
+    "link": "https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363",
+    "published": "2026-11-23T08:42:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Among the many organizations to adopt Outage As A Service (OAAS) were Microsoft, Apple, the FAA, and any number of European supermarkets.. What: It's certainly deeply embedded in the public mind, with schoolchildren reportedly referring to the 19th century Irish famine as \"the potato outage.\" There's no danger of an outrage outage.. When: 2026-11-23T08:42:00+00:00. How: Microsoft's O365 meltdown was a cascading failure caused by a botched upgrade that took stuff offline and melted down as it tried to come back. Action: See Arabic action below.",
+    "summary_ar": "من: Among the many organizations to adopt Outage As A Service (OAAS) were Microsoft, Apple, the FAA, and any number of European supermarkets.. ماذا: It's certainly deeply embedded in the public mind, with schoolchildren reportedly referring to the 19th century Irish famine as \"the potato outage.\" There's no danger of an outrage outage.. متى: 2026-11-23T08:42:00+00:00. كيف: Microsoft's O365 meltdown was a cascading failure caused by a botched upgrade that took stuff offline and melted down as it tried to come back.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311379.jpg?imageId=5311379&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363"
+    ]
+  },
+  {
+    "id": "80927b607c9d99a7ab3b145b",
+    "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+    "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+    "published": "2026-11-23T08:24:15+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms. What: The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.. When: 2026-11-23T08:24:15+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms. ماذا: The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.. متى: 2026-11-23T08:24:15+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
+    ]
+  },
+  {
+    "id": "5d81d8091009c293f1abfd55",
+    "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+    "published": "2026-11-23T07:44:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.. What: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.. When: 2026-11-23T07:44:19+00:00. How: [...] CISA flags critical Cisco RCE flaw as actively exploited in attacks Action: See Arabic action below.",
+    "summary_ar": "من: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.. ماذا: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild.. متى: 2026-11-23T07:44:19+00:00. كيف: [...] CISA flags critical Cisco RCE flaw as actively exploited in attacks. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/23/Cisco.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/"
+    ]
+  },
+  {
+    "id": "b62580d0739023df859abc6f",
+    "title": "Google claims last week’s critical VMware bug was under attack in September",
+    "link": "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547",
+    "published": "2026-11-23T04:39:19+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September.. What: Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September.. When: 2026-11-23T04:39:19+00:00. How: ARMORY CASTLE also added an SSH public key to the root account’s authorized keys, and “conducted further reconnaissance and data theft on the ESXi filesystem using the root account.” Google also found evidence of BONESAW being used in July, on a server an unidentified entity had patched against CVE-2026-59309 – another authentication bypass vulnerability in vCenter. Action: See Arabic action below.",
+    "summary_ar": "من: Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September.. ماذا: Google’s Mandiant unit has claimed that the critical flaw VMware last week revealed in its vCenter product was under attack by a China-linked threat actor which knew of the bug in July and exploited it in September.. متى: 2026-11-23T04:39:19+00:00. كيف: ARMORY CASTLE also added an SSH public key to the root account’s authorized keys, and “conducted further reconnaissance and data theft on the ESXi filesystem using the root account.” Google also found evidence of BONESAW being used in July, on a server an unidentified entity had patched against CVE-2026-59309 – another authentication bypass vulnerability in vCenter.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-123890",
+      "CVE-2026-59309"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/261387.jpg?imageId=261387&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547"
+    ]
+  },
+  {
     "id": "9a79a19be2ddac33e6ade3a0",
     "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
     "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
@@ -343,6 +558,24 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg",
     "sources": [
       "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+    ]
+  },
+  {
+    "id": "a03f51601e713e60f347a233",
+    "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+    "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+    "published": "2026-11-21T01:31:23+00:00",
+    "source": "darkreading.com",
+    "summary_en": "Who: How Security Vendors Are Tackling Access-Control Challenges for AI Agents. What: How Security Vendors Are Tackling Access-Control Challenges for AI Agents. When: 2026-11-21T01:31:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: How Security Vendors Are Tackling Access-Control Challenges for AI Agents. ماذا: How Security Vendors Are Tackling Access-Control Challenges for AI Agents. متى: 2026-11-21T01:31:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "",
+    "sources": [
+      "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges"
     ]
   },
   {
@@ -5490,24 +5723,6 @@
     ]
   },
   {
-    "id": "5adf36e942dec2e1923bf20f",
-    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-    "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-    "published": "2026-11-16T14:00:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.. What: Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. When: 2026-11-16T14:00:00+00:00. How: In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs) Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches Action: See Arabic action below.",
-    "summary_ar": "من: Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.. ماذا: Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. متى: 2026-11-16T14:00:00+00:00. كيف: In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs) Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
-    ]
-  },
-  {
     "id": "7666465cea4bbfe3477018bd",
     "title": "Google: AI agent turned a security patch into a working exploit with no human help",
     "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
@@ -5523,6 +5738,24 @@
     "image": "https://image.theregister.com/5298454.jpg?imageId=5298454&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926"
+    ]
+  },
+  {
+    "id": "5adf36e942dec2e1923bf20f",
+    "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+    "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+    "published": "2026-11-16T14:00:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.. What: Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. When: 2026-11-16T14:00:00+00:00. How: In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs) Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches Action: See Arabic action below.",
+    "summary_ar": "من: Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity.. ماذا: Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. متى: 2026-11-16T14:00:00+00:00. كيف: In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs) Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html"
     ]
   },
   {
@@ -9219,30 +9452,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2023/11/ICS_Patches.jpg",
     "sources": [
       "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/"
-    ]
-  },
-  {
-    "id": "474586429e7c5c19b47f980a",
-    "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-    "published": "2026-11-11T10:12:08+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.. What: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.. When: 2026-11-11T10:12:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.. ماذا: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks.. متى: 2026-11-11T10:12:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Vulnerability",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/CISA.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/cisco-flags-more-sd-wan-flaws-as-actively-exploited-in-attacks/"
     ]
   },
   {
@@ -16010,27 +16219,6 @@
       "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
       "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
       "https://www.securityweek.com/androids-september-2026-updates-patch-180-vulnerabilities/"
-    ]
-  },
-  {
-    "id": "5c6c31b6a9d34bf455a8e5e8",
-    "title": "Critical Node-RED Flaw Exploited in Attacks",
-    "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-    "published": "2026-11-03T12:10:19+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Critical Node-RED Flaw Exploited in Attacks. What: The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .. When: 2026-11-03T12:10:19+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Node-RED Flaw Exploited in Attacks. ماذا: The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .. متى: 2026-11-03T12:10:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [
-      "CVE-2026-104286"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/industrial-AI-OT-security.jpeg",
-    "sources": [
-      "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-      "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
     ]
   },
   {
@@ -143227,297 +143415,6 @@
     "image": "https://assets.infosecurity-magazine.com/webpage/og/714d9091-0b9d-411d-afb9-dad0e43d1c28.jpg",
     "sources": [
       "https://www.infosecurity-magazine.com/news/ghost-stadium-fifa-world-cup-fraud/"
-    ]
-  },
-  {
-    "id": "b12a84fe2aaa107137b1a7fe",
-    "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
-    "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
-    "published": "2026-05-27T11:01:13+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform. What: Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform. When: 2026-05-27T11:01:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform. ماذا: Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform. متى: 2026-05-27T11:01:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cybersecurity-funding.jpeg",
-    "sources": [
-      "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/"
-    ]
-  },
-  {
-    "id": "e6426bb75e14ab920c04b05b",
-    "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
-    "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
-    "published": "2026-05-27T10:30:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: The Credential Crisis: How Stolen Credentials Defeat Modern Security. What: The Credential Crisis: How Stolen Credentials Defeat Modern Security. When: 2026-05-27T10:30:00+00:00. How: As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. Action: See Arabic action below.",
-    "summary_ar": "من: The Credential Crisis: How Stolen Credentials Defeat Modern Security. ماذا: The Credential Crisis: How Stolen Credentials Defeat Modern Security. متى: 2026-05-27T10:30:00+00:00. كيف: As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/credentials-stolen-login.jpg",
-    "sources": [
-      "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/"
-    ]
-  },
-  {
-    "id": "8a0d11600f0a0ed83e1382f1",
-    "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
-    "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
-    "published": "2026-05-27T10:15:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems. What: ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems. When: 2026-05-27T10:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems. ماذا: ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems. متى: 2026-05-27T10:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/"
-    ]
-  },
-  {
-    "id": "d4fee979e888bd3aa71d97e3",
-    "title": "GlassWorm Botnet Disrupted",
-    "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
-    "published": "2026-05-27T10:10:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: GlassWorm Botnet Disrupted. What: GlassWorm Botnet Disrupted. When: 2026-05-27T10:10:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GlassWorm Botnet Disrupted. ماذا: GlassWorm Botnet Disrupted. متى: 2026-05-27T10:10:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/09/botnet.jpeg",
-    "sources": [
-      "https://www.securityweek.com/glassworm-botnet-disrupted/"
-    ]
-  },
-  {
-    "id": "3bbf0304afe5c77fe953fda0",
-    "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-    "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-    "published": "2026-05-27T10:06:32+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Gitea Vulnerability Exposes Private Container Images without Authentication. What: Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.. When: 2026-05-27T10:06:32+00:00. How: Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. Action: See Arabic action below.",
-    "summary_ar": "من: Gitea Vulnerability Exposes Private Container Images without Authentication. ماذا: Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.. متى: 2026-05-27T10:06:32+00:00. كيف: Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-27771"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtYSLWixSGb7jW2drND6NlHzXB4eHO0QyZNOovK9iVyaHGS6fSN4eqhWkijIhevhInH56hv03c29ziWCZiH58kY5EBbfuZloLfMP9yGJuFVtIaoJqj31KVFNeImMNVnLGrRHbhcGw7IMVZ8FEH2tK-Bit50KzXfe0F9jEQAO9iy5PNprbqJzgRB2WkI-0i/s1600/gitea-main.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
-    ]
-  },
-  {
-    "id": "d2385855bca2b2d1c43c6a88",
-    "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-    "published": "2026-05-27T10:06:17+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) has given U.S.. What: federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks.. When: 2026-05-27T10:06:17+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) has given U.S.. ماذا: federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks.. متى: 2026-05-27T10:06:17+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/27/cPanel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/"
-    ]
-  },
-  {
-    "id": "949eb363211bfa5739fa4c63",
-    "title": "LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers",
-    "link": "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/",
-    "published": "2026-05-27T09:33:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers. What: LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers. When: 2026-05-27T09:33:45+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers. ماذا: LA Metro Cyberattack Linked to Iranian State-Sponsored Hackers. متى: 2026-05-27T09:33:45+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/LA-Metro.jpeg",
-    "sources": [
-      "https://www.securityweek.com/la-metro-cyberattack-linked-to-iranian-state-sponsored-hackers/"
-    ]
-  },
-  {
-    "id": "603e66d2098c465cf92046d8",
-    "title": "68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise",
-    "link": "https://www.infosecurity-magazine.com/news/uk-firms-cyber-spending-ai-risks/",
-    "published": "2026-05-27T09:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: 68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise. What: 68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise. When: 2026-05-27T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise. ماذا: 68% of UK Firms Plan to Increase Cyber Spending as AI Risks Rise. متى: 2026-05-27T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/52b96967-1f03-4d57-89e3-5688c5083233.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/uk-firms-cyber-spending-ai-risks/"
-    ]
-  },
-  {
-    "id": "9c428652a1075c5d14b1111e",
-    "title": "Dutch police arrests suspect linked to Ajax football club hack",
-    "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-    "published": "2026-05-27T09:09:03+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Dutch police arrests suspect linked to Ajax football club hack. What: Dutch police arrests suspect linked to Ajax football club hack. When: 2026-05-27T09:09:03+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Dutch police arrests suspect linked to Ajax football club hack. ماذا: Dutch police arrests suspect linked to Ajax football club hack. متى: 2026-05-27T09:09:03+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/Law_enforcement_arrest.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/"
-    ]
-  },
-  {
-    "id": "df9e12cd24652a2f47279c10",
-    "title": "Windows 11 KB5089573 update released with performance improvements",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
-    "published": "2026-05-27T08:33:46+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements.. What: Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements.. When: 2026-05-27T08:33:46+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements.. ماذا: Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements.. متى: 2026-05-27T08:33:46+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows-11.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/"
-    ]
-  },
-  {
-    "id": "6b5ba39cee6ad1c89a3ac45d",
-    "title": "FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data",
-    "link": "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/",
-    "published": "2026-05-27T08:33:34+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data. What: The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.. When: 2026-05-27T08:33:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: FBI: Hackers Sending Operatives in Person to Insert USB Drives and Steal Data. ماذا: The FBI has issued an alert warning of Silent Ransom Group attacks targeting law firms.. متى: 2026-05-27T08:33:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Policy/Advisory",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2024/04/FBI-Surveillance.jpg",
-    "sources": [
-      "https://www.securityweek.com/fbi-hackers-sending-operatives-in-person-to-insert-usb-drives-and-steal-data/"
-    ]
-  },
-  {
-    "id": "3db100d19500ab54371b59e0",
-    "title": "Does Android Auto make your phone overheat? Try these 8 ways to cool it down",
-    "link": "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/",
-    "published": "2026-05-27T08:00:59+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Does Android Auto make your phone overheat? Try these 8 ways to cool it down. What: Does Android Auto make your phone overheat? Try these 8 ways to cool it down. When: 2026-05-27T08:00:59+00:00. How: Android Auto uses a lot of resources, which can make your phone hot. Action: See Arabic action below.",
-    "summary_ar": "من: Does Android Auto make your phone overheat? Try these 8 ways to cool it down. ماذا: Does Android Auto make your phone overheat? Try these 8 ways to cool it down. متى: 2026-05-27T08:00:59+00:00. كيف: Android Auto uses a lot of resources, which can make your phone hot.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d4ccbdcdc5411bc1a3d513afde18d61bb376328c/2026/05/18/d3bdd3bb-c0d1-43c2-ab16-906bf9113ae6/pxl-20260518-200308873.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/"
-    ]
-  },
-  {
-    "id": "f1f441104a05591c7cf75678",
-    "title": "These 4 Android Auto settings made my daily commute less distracting - where to find them",
-    "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
-    "published": "2026-05-27T08:00:43+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: These 4 Android Auto settings made my daily commute less distracting - where to find them. What: These 4 Android Auto settings made my daily commute less distracting - where to find them. When: 2026-05-27T08:00:43+00:00. How: Using Android Auto can be as dangerous as using your phone while driving. Action: See Arabic action below.",
-    "summary_ar": "من: These 4 Android Auto settings made my daily commute less distracting - where to find them. ماذا: These 4 Android Auto settings made my daily commute less distracting - where to find them. متى: 2026-05-27T08:00:43+00:00. كيف: Using Android Auto can be as dangerous as using your phone while driving.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/33bfbdf92a189a8e8d3e855c054afba802f2798e/2026/04/29/46f3d011-c059-451a-b1ce-4f0a5e33f8c6/29345.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/"
-    ]
-  },
-  {
-    "id": "3e666585099e0b7ba8e84f47",
-    "title": "PureLogs Variant Steals Data via Purchase Order Lures",
-    "link": "https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/",
-    "published": "2026-05-27T08:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: PureLogs Variant Steals Data via Purchase Order Lures. What: PureLogs Variant Steals Data via Purchase Order Lures. When: 2026-05-27T08:00:00+00:00. How: FortiGuard Labs detailed a PureLogs campaign using JavaScript, PowerShell and process hollowing PureLogs Variant Steals Data via Purchase Order Lures Action: See Arabic action below.",
-    "summary_ar": "من: PureLogs Variant Steals Data via Purchase Order Lures. ماذا: PureLogs Variant Steals Data via Purchase Order Lures. متى: 2026-05-27T08:00:00+00:00. كيف: FortiGuard Labs detailed a PureLogs campaign using JavaScript, PowerShell and process hollowing PureLogs Variant Steals Data via Purchase Order Lures. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/2c5743fc-66ae-4108-b00d-2281e38b33df.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/purelogs-phishing-purchase-order/"
-    ]
-  },
-  {
-    "id": "3bb83b2573222b535b63ab3a",
-    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-    "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-    "published": "2026-05-27T07:45:52+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.. What: Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.. When: 2026-05-27T07:45:52+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.. ماذا: Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites.. متى: 2026-05-27T07:45:52+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqt5LC8yrEqRzxRxEUTh3yZSnXovvZU0R11suWWfP1FEKvC5ZOpPnLHpdDjAzUADZarX1C3XucsG5OOXN3Zj4-esPhUnz4DBnAdDxkZw3aEqdH_HHPn4N5Eu03Y-tG_kEmPOxKyMH14wpiOYs9w8jh7U6MlHjHqiS4nNxLH_NpS47oR-mRW5GfuDvX9VFo/s1600/ai-tools.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html"
-    ]
-  },
-  {
-    "id": "1c99c88b1fc047837428c8ee",
-    "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-    "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-    "published": "2026-05-27T06:43:08+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Anthropic Releases New Claude Sandbox, Security Guidance Plugin. What: Anthropic Releases New Claude Sandbox, Security Guidance Plugin. When: 2026-05-27T06:43:08+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic Releases New Claude Sandbox, Security Guidance Plugin. ماذا: Anthropic Releases New Claude Sandbox, Security Guidance Plugin. متى: 2026-05-27T06:43:08+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Anthropic-Claude.jpeg",
-    "sources": [
-      "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/"
     ]
   }
 ]
