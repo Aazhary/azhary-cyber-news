@@ -18,8 +18,723 @@
     ]
   },
   {
+    "id": "adb18ca6aea028ca5b727bf8",
+    "title": "Radware discloses breach exposing customer cloud access keys",
+    "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+    "published": "2026-11-24T17:49:05+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Radware discloses breach exposing customer cloud access keys. What: Radware discloses breach exposing customer cloud access keys. When: 2026-11-24T17:49:05+00:00. How: Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. Action: See Arabic action below.",
+    "summary_ar": "من: Radware discloses breach exposing customer cloud access keys. ماذا: Radware discloses breach exposing customer cloud access keys. متى: 2026-11-24T17:49:05+00:00. كيف: Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/Radware.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+    ]
+  },
+  {
+    "id": "f6e8b2ad0e789497c9e52ed8",
+    "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+    "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
+    "published": "2026-11-24T17:00:00+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: 'Nothing in OpenCode was built for hacking' OpenCode is an open source coding agent that lets users connect to more than 200 model providers or local models, including Anthropic’s Claude models, OpenAI’s GPTs, Google’s Gemini, DeepSeek, and Z.ai’s GLM.. What: Five minutes and 44 seconds after the first request, it gave up, and the logs haven’t detected any activity from this same intruder since then.. When: 2026-11-24T17:00:00+00:00. How: A Romanian hacker, armed with only an open source coding agent, a Chrome browser, and a Mac, tried multiple ways to break into a financial services firm, ultimately found an access key - luckily, it was a decoy - and carried out an entire (almost) attack in under six minutes. Action: See Arabic action below.",
+    "summary_ar": "من: 'Nothing in OpenCode was built for hacking' OpenCode is an open source coding agent that lets users connect to more than 200 model providers or local models, including Anthropic’s Claude models, OpenAI’s GPTs, Google’s Gemini, DeepSeek, and Z.ai’s GLM.. ماذا: Five minutes and 44 seconds after the first request, it gave up, and the logs haven’t detected any activity from this same intruder since then.. متى: 2026-11-24T17:00:00+00:00. كيف: A Romanian hacker, armed with only an open source coding agent, a Chrome browser, and a Mac, tried multiple ways to break into a financial services firm, ultimately found an access key - luckily, it was a decoy - and carried out an entire (almost) attack in under six minutes.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311939.jpg?imageId=5311939&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922"
+    ]
+  },
+  {
+    "id": "6b48789d1147d2db041ea3e7",
+    "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+    "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+    "published": "2026-11-24T16:54:07+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns. What: Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns. When: 2026-11-24T16:54:07+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns. ماذا: Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns. متى: 2026-11-24T16:54:07+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqukTcR2pkDWiTqMzORa4j7zZRB0MDUGfBly50X7gPwPHqSeBmfReQWpMR9IdPOP_NbeuQSBdYPknSgxvutDll4VAZNSoGqcwmXzhZNEez-UoE-MwTnM9i9XxjoLYRdhY0iY6tD9BK9IDB0o8RUU7sNsOex5tVNtoNwRHCCAxM9ri66c4G2wPa9AqW9saA/s1600/iran-hackers.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
+    ]
+  },
+  {
+    "id": "5e84d271f3fa49966c9e6dd2",
+    "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+    "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+    "published": "2026-11-24T16:32:56+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.. What: VMware Updates Patch Critical ESX, vCenter Vulnerabilities. When: 2026-11-24T16:32:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.. ماذا: VMware Updates Patch Critical ESX, vCenter Vulnerabilities. متى: 2026-11-24T16:32:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Patch/Update",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2022/08/VMWare.jpg",
+    "sources": [
+      "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/"
+    ]
+  },
+  {
+    "id": "63399c74702aaea244dd70d6",
+    "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+    "published": "2026-11-24T16:30:19+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof. What: ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof. When: 2026-11-24T16:30:19+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof. ماذا: ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof. متى: 2026-11-24T16:30:19+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/shinyhunters-var-2.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/"
+    ]
+  },
+  {
+    "id": "e259976f8ecc978d91fb4b03",
+    "title": "New Inception Extortion Brand Tied to SSO Vishing Campaign",
+    "link": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/",
+    "published": "2026-11-24T16:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: New Inception Extortion Brand Tied to SSO Vishing Campaign. What: New Inception Extortion Brand Tied to SSO Vishing Campaign. When: 2026-11-24T16:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: New Inception Extortion Brand Tied to SSO Vishing Campaign. ماذا: New Inception Extortion Brand Tied to SSO Vishing Campaign. متى: 2026-11-24T16:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/2bd86c25-0229-486f-af2d-02ffae45d64f.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/"
+    ]
+  },
+  {
+    "id": "cad292c7e46bbd2df97862b9",
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+    "published": "2026-11-24T16:22:44+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: European Commission confirms data theft in EU Academy breach. What: The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.. When: 2026-11-24T16:22:44+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: European Commission confirms data theft in EU Academy breach. ماذا: The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.. متى: 2026-11-24T16:22:44+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/0_European_Union_flag.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+    ]
+  },
+  {
+    "id": "5ba708d91b205e4571eeb0a9",
+    "title": "Hackers compromise Check Point Servers in 22 organizations",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+    "published": "2026-11-24T16:15:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Hackers compromise Check Point Servers in 22 organizations. What: Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations.. When: 2026-11-24T16:15:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Hackers compromise Check Point Servers in 22 organizations. ماذا: Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations.. متى: 2026-11-24T16:15:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+    ]
+  },
+  {
+    "id": "1f75de46df5160e777e2f195",
+    "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+    "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+    "published": "2026-11-24T15:10:10+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Police disrupt 57 illegal streaming services with 7.3 million visits. What: Police disrupt 57 illegal streaming services with 7.3 million visits. When: 2026-11-24T15:10:10+00:00. How: Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. Action: See Arabic action below.",
+    "summary_ar": "من: Police disrupt 57 illegal streaming services with 7.3 million visits. ماذا: Police disrupt 57 illegal streaming services with 7.3 million visits. متى: 2026-11-24T15:10:10+00:00. كيف: Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/03/Police.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/"
+    ]
+  },
+  {
+    "id": "a903b208e0b06d44368bc390",
+    "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+    "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+    "published": "2026-11-24T15:01:11+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: From Vulnerability Noise to Resilience: Rethinking Security in the AI Era. What: From Vulnerability Noise to Resilience: Rethinking Security in the AI Era. When: 2026-11-24T15:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: From Vulnerability Noise to Resilience: Rethinking Security in the AI Era. ماذا: From Vulnerability Noise to Resilience: Rethinking Security in the AI Era. متى: 2026-11-24T15:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/posts/2026/11/20/Chain_2_Hex_Mesh_Diagonal_1600x900.png",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/"
+    ]
+  },
+  {
+    "id": "bef9cf015c5cf0627b5efd1c",
+    "title": "Recent Trends and Tactics of Agentic AI Attacks",
+    "link": "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/",
+    "published": "2026-11-24T15:00:19+00:00",
+    "source": "paloaltonetworks.com",
+    "summary_en": "Who: Recent Trends and Tactics of Agentic AI Attacks. What: Recent Trends and Tactics of Agentic AI Attacks. When: 2026-11-24T15:00:19+00:00. How: We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces. Action: See Arabic action below.",
+    "summary_ar": "من: Recent Trends and Tactics of Agentic AI Attacks. ماذا: Recent Trends and Tactics of Agentic AI Attacks. متى: 2026-11-24T15:00:19+00:00. كيف: We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/11/AdobeStock_260323351-2.jpeg",
+    "sources": [
+      "https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/"
+    ]
+  },
+  {
+    "id": "d2294fb10fbbbd5e2ffdf625",
+    "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+    "link": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+    "published": "2026-11-24T14:49:59+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: European Commission Uncovers Data Breach in Cyberattack Investigation. What: Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.. When: 2026-11-24T14:49:59+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: European Commission Uncovers Data Breach in Cyberattack Investigation. ماذا: Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.. متى: 2026-11-24T14:49:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/06/EU-Europe-European-Union-.jpeg",
+    "sources": [
+      "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
+    ]
+  },
+  {
+    "id": "22bf6552c322511839026546",
+    "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+    "published": "2026-11-24T14:21:56+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Check Point Security Management Servers Hacked in AI-Assisted Campaign. What: Check Point Security Management Servers Hacked in AI-Assisted Campaign. When: 2026-11-24T14:21:56+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Check Point Security Management Servers Hacked in AI-Assisted Campaign. ماذا: Check Point Security Management Servers Hacked in AI-Assisted Campaign. متى: 2026-11-24T14:21:56+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/cyberattack-vulnerability-exploited.jpeg",
+    "sources": [
+      "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/"
+    ]
+  },
+  {
+    "id": "230a967c24e64f71daf79e36",
+    "title": "McDonald's Japan data breach exposes customer location information",
+    "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+    "published": "2026-11-24T14:09:37+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: McDonald's Japan data breach exposes customer location information. What: McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app.. When: 2026-11-24T14:09:37+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: McDonald's Japan data breach exposes customer location information. ماذا: McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app.. متى: 2026-11-24T14:09:37+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2024/03/15/mcdonalds-sign.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+    ]
+  },
+  {
+    "id": "a2c4097cf0c97ddf76163706",
+    "title": "Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it",
+    "link": "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/",
+    "published": "2026-11-24T14:02:36+00:00",
+    "source": "zdnet.com",
+    "summary_en": "Who: Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it. What: Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it. When: 2026-11-24T14:02:36+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it. ماذا: Disney+ and Hulu are 61% off for a year with this Black Friday deal – how to get it. متى: 2026-11-24T14:02:36+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/disney-plus-hulu.jpg",
+    "sources": [
+      "https://www.zdnet.com/home-and-office/disney-plus-hulu-black-friday-deal-2026/"
+    ]
+  },
+  {
+    "id": "e8e6c985877b75beb0cdb033",
+    "title": "Address AI Agent Risks or Face Action, FCA Warns Financial Firms",
+    "link": "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/",
+    "published": "2026-11-24T13:45:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Address AI Agent Risks or Face Action, FCA Warns Financial Firms. What: Address AI Agent Risks or Face Action, FCA Warns Financial Firms. When: 2026-11-24T13:45:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Address AI Agent Risks or Face Action, FCA Warns Financial Firms. ماذا: Address AI Agent Risks or Face Action, FCA Warns Financial Firms. متى: 2026-11-24T13:45:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/1458ecb6-ac95-4ca6-b1ce-0ce9877c1172.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/"
+    ]
+  },
+  {
+    "id": "e94ac3e9d5200e656b1651d0",
+    "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+    "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+    "published": "2026-11-24T13:34:23+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services.. What: [...] New Shirudo tool uses AI to shield unpatched Linux systems from exploits. When: 2026-11-24T13:34:23+00:00. How: OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services.. ماذا: [...] New Shirudo tool uses AI to shield unpatched Linux systems from exploits. متى: 2026-11-24T13:34:23+00:00. كيف: OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/24/Linux-shield.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
+    ]
+  },
+  {
+    "id": "a6ac99d677c5097594dd7c05",
+    "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+    "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+    "published": "2026-11-24T13:30:23+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Anthropic Expands Enterprise Safeguards for Detecting AI Misuse. What: Anthropic Expands Enterprise Safeguards for Detecting AI Misuse. When: 2026-11-24T13:30:23+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Anthropic Expands Enterprise Safeguards for Detecting AI Misuse. ماذا: Anthropic Expands Enterprise Safeguards for Detecting AI Misuse. متى: 2026-11-24T13:30:23+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Anthropic-Claude.jpeg",
+    "sources": [
+      "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/"
+    ]
+  },
+  {
+    "id": "db22ce6bdf49656950527d42",
+    "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "published": "2026-11-24T13:28:26+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation. What: VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation. When: 2026-11-24T13:28:26+00:00. How: \"A malicious actor with VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation Action: See Arabic action below.",
+    "summary_ar": "من: VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation. ماذا: VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation. متى: 2026-11-24T13:28:26+00:00. كيف: \"A malicious actor with VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-123903"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zpQTclLnhVQHphFdBZZ_hrxhsZvA5G50sGBz5qq1iOg2B1YLu8rE5e_HM1GZOE24SNpwexwst80NTKP7_Wwexq7EzIl-I7ykIXCtTGQjeZhBGVVuAgzxac5JwaquTQuMNRstBFo8JzMDyqgsNbM_KtxGF3wHPBIM9GfaclNu0OTPlpF5YhNvqoKKytAY/s1600/vmware-exploit.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+    ]
+  },
+  {
+    "id": "0c4445d4ccaf59f77a9be461",
+    "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+    "published": "2026-11-24T13:28:21+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site. What: Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site. When: 2026-11-24T13:28:21+00:00. How: The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site Action: See Arabic action below.",
+    "summary_ar": "من: Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site. ماذا: Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site. متى: 2026-11-24T13:28:21+00:00. كيف: The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjete6dy8Fmd7sbjqKI5GKSySXkcnz4NF__irfVMBHzgRIDUnpGHtvRIbCywZYYsoKsnMdPhvanoXcnXbYvZpMjL2lL6d_F9a4ErEaI5rH_boPedH_ru2Ush9wonb8tYhGNVM6M_01DTue1THY7uGMbuKBJKNgMbrACkxHCGJiJylHWoxkkpCXNr2Z_CIdf/s1600/leaks.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html"
+    ]
+  },
+  {
+    "id": "2f8cd8afa8069277b7b4cb2f",
+    "title": "Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test",
+    "link": "https://www.infosecurity-magazine.com/news/chinese-ai-models-top/",
+    "published": "2026-11-24T13:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test. What: Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test. When: 2026-11-24T13:00:00+00:00. How: In a vulnerability discovery test, DeepSeek outperformed five American closed-source AI models while costing far less to run Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test Action: See Arabic action below.",
+    "summary_ar": "من: Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test. ماذا: Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test. متى: 2026-11-24T13:00:00+00:00. كيف: In a vulnerability discovery test, DeepSeek outperformed five American closed-source AI models while costing far less to run Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/8d6fd1bd-f9a8-40c0-adc7-37c0daa62c73.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/chinese-ai-models-top/"
+    ]
+  },
+  {
+    "id": "6085ef54790f43b5cab5a8b2",
+    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "published": "2026-11-24T12:42:09+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks.. What: Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap. When: 2026-11-24T12:42:09+00:00. How: In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. Action: See Arabic action below.",
+    "summary_ar": "من: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks.. ماذا: Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap. متى: 2026-11-24T12:42:09+00:00. كيف: In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
+    ]
+  },
+  {
+    "id": "21c67f84759f6dc51b11827c",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "published": "2026-11-24T12:30:05+00:00",
+    "source": "arstechnica.com",
+    "summary_en": "Who: Amazon says hackers' AI agents found and exploited 0-day with little human input. What: Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.. When: 2026-11-24T12:30:05+00:00. How: Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server. Action: See Arabic action below.",
+    "summary_ar": "من: Amazon says hackers' AI agents found and exploited 0-day with little human input. ماذا: Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.. متى: 2026-11-24T12:30:05+00:00. كيف: Amazon said AI agents recently found and exploited a zero-day vulnerability with no human oversight beyond a simple instruction to get root access on an East Asian university server.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cairn-banner.jpg",
+    "sources": [
+      "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+    ]
+  },
+  {
+    "id": "ba152944e2e86ab6adee858d",
+    "title": "CrowdStrike splashes $44B on Zscaler, customers brace for the bill",
+    "link": "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877",
+    "published": "2026-11-24T12:22:17+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: CrowdStrike has agreed to buy Zscaler for $43.9 billion in what would be the biggest cybersecurity acquisition on record, and customers are already bracing for pricier renewals.. What: The all-stock deal, announced on Monday, will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price.. When: 2026-11-24T12:22:17+00:00. How: The all-stock deal, announced on Monday, will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price. Action: See Arabic action below.",
+    "summary_ar": "من: CrowdStrike has agreed to buy Zscaler for $43.9 billion in what would be the biggest cybersecurity acquisition on record, and customers are already bracing for pricier renewals.. ماذا: The all-stock deal, announced on Monday, will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price.. متى: 2026-11-24T12:22:17+00:00. كيف: The all-stock deal, announced on Monday, will see Zscaler shareholders receive 1.135 CrowdStrike shares for every share they own, representing a 34 percent premium on Friday's closing price.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/252462.jpg?imageId=252462&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/crowdstrike-splashes-44b-on-zscaler-customers-brace-for-the-bill/5311877"
+    ]
+  },
+  {
+    "id": "70ffa0cfd81dd0263f6fc1a3",
+    "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+    "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+    "published": "2026-11-24T12:20:41+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready.. What: The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .. When: 2026-11-24T12:20:41+00:00. How: The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek . Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready.. ماذا: The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .. متى: 2026-11-24T12:20:41+00:00. كيف: The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Agentic-AI-Hacking.jpg",
+    "sources": [
+      "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/"
+    ]
+  },
+  {
+    "id": "bb2efaa9d0e695bb8f95902c",
+    "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+    "published": "2026-11-24T12:02:00+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.. What: Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity. When: 2026-11-24T12:02:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.. ماذا: Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity. متى: 2026-11-24T12:02:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-87268"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiOJqhOn7t8wd3NeMCWVCg9xmusuRJmZuaePaCbKTif2XsPpPhu0fR1NwQncA4y-wAMmLOzylBZ3ebd9f4G8F6K54sUdnZ2cTn6yPq1RgAKrh4lSX3y1Ll8LIywXkDyVXItUuUGS4sy0BVUMhwXPvOZGdxhvwnd55_OvjOVnh2CfnAeURMVcmafuFgJlQ/s1600/windows.net.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+    ]
+  },
+  {
+    "id": "bb2aa84be5114ecb3ed5f09e",
+    "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+    "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+    "published": "2026-11-24T12:01:54+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk. What: 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk. When: 2026-11-24T12:01:54+00:00. How: According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. Action: See Arabic action below.",
+    "summary_ar": "من: 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk. ماذا: 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk. متى: 2026-11-24T12:01:54+00:00. كيف: According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgNbpx-KISiy12Rp8KNb5ElWQADJtyC7fLFuLFCc7WzbOjCP5CmU2dPyuwhq5kRSQP5lOuwwFhvZovILCzeMgaSes8APbVabNVpJB71EC56WrojqqLU-tjIr2MFDPK8fMHnu-dx35G-p6btlQb1xU16c8IPrY4cs0k8t1pufSHgp74Y5HtqiAVk4A1QI/s1600/2027.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html"
+    ]
+  },
+  {
+    "id": "91d4c3b285f96e6e955457ab",
+    "title": "OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems",
+    "link": "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/",
+    "published": "2026-11-24T12:00:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems. What: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems. When: 2026-11-24T12:00:00+00:00. How: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems. ماذا: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems. متى: 2026-11-24T12:00:00+00:00. كيف: OpenAI and Cisco’s Shirudo helps Linux users block exploitation of known vulnerabilities on live systems, buying time for patching without requiring a restart OpenAI and Cisco Release Open-Source Tool to Shield Unpatched Linux Systems. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/a30de779-edf2-40d2-af20-768460319b8d.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/openai-cisco-shirudo-linux-shields/"
+    ]
+  },
+  {
+    "id": "f3a43b39549fdc890f587804",
+    "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+    "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+    "published": "2026-11-24T11:50:21+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO. What: 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO. When: 2026-11-24T11:50:21+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO. ماذا: 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO. متى: 2026-11-24T11:50:21+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2023/05/COSMICENERGY-OT-Malware.jpg",
+    "sources": [
+      "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+      "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
+      "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
+      "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+      "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+      "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/"
+    ]
+  },
+  {
+    "id": "b4a9690560183d3cc2803b53",
+    "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+    "published": "2026-11-24T11:32:41+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: European Commission confirms personal data stolen in AI-assisted cyberattack. What: The European Commission has confirmed that hackers made off with personal data in the AI-assisted cyberattack disclosed last week, but has relied on a website notice rather than contacting affected users directly.. When: 2026-11-24T11:32:41+00:00. How: The notice warns users that they could find themselves on the receiving end of spearphishing attacks, impersonation attempts, and spam as a result of the breach. Action: See Arabic action below.",
+    "summary_ar": "من: European Commission confirms personal data stolen in AI-assisted cyberattack. ماذا: The European Commission has confirmed that hackers made off with personal data in the AI-assisted cyberattack disclosed last week, but has relied on a website notice rather than contacting affected users directly.. متى: 2026-11-24T11:32:41+00:00. كيف: The notice warns users that they could find themselves on the receiving end of spearphishing attacks, impersonation attempts, and spam as a result of the breach.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5311112.jpg?imageId=5311112&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+    ]
+  },
+  {
+    "id": "9436fc5b47f7d00e36294299",
+    "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+    "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+    "published": "2026-11-24T10:44:49+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.. What: Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.. When: 2026-11-24T10:44:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.. ماذا: Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.. متى: 2026-11-24T10:44:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "Vulnerability",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSM2FAnf9UEb3Do4v-r8AEBpoI8byXOrHgng-eRjEyudSf0hiKMpymmDiK_NLTxYuzXdtrWvMrBzY9qmLqDo31r3JOpVefOQxLE77gdkoOAYMkCK__-Bc-AJoWg-8nEOEVjcY6SswkzLbCfYl6kK9clg6xXw3xginWqIwnMxBUaS6wgPKVVwXZNhZA5G85/s1600/azure-ms.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
+    ]
+  },
+  {
+    "id": "15b8b568346dad030da152c6",
+    "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+    "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+    "published": "2026-11-24T10:44:44+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.. What: Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking. When: 2026-11-24T10:44:44+00:00. How: Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. Action: See Arabic action below.",
+    "summary_ar": "من: Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.. ماذا: Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking. متى: 2026-11-24T10:44:44+00:00. كيف: Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2025/11/truck-cargo-freight-hacking-transportation.jpeg",
+    "sources": [
+      "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/"
+    ]
+  },
+  {
+    "id": "20534b25c7da6bc55a734403",
+    "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+    "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+    "published": "2026-11-24T10:35:04+00:00",
+    "source": "securityweek.com",
+    "summary_en": "Who: Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine. What: Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine. When: 2026-11-24T10:35:04+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine. ماذا: Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine. متى: 2026-11-24T10:35:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.securityweek.com/wp-content/uploads/2026/11/mining.jpeg",
+    "sources": [
+      "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/"
+    ]
+  },
+  {
+    "id": "0dfc97470a3901266a5f61fc",
+    "title": "LaLiga Says Football Fans’ Personal Data Stolen",
+    "link": "https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/",
+    "published": "2026-11-24T10:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: LaLiga Says Football Fans’ Personal Data Stolen. What: LaLiga Says Football Fans’ Personal Data Stolen. When: 2026-11-24T10:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: LaLiga Says Football Fans’ Personal Data Stolen. ماذا: LaLiga Says Football Fans’ Personal Data Stolen. متى: 2026-11-24T10:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/fb36a626-4785-46c6-b6c6-0c2120bce7b3.jpg",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/"
+    ]
+  },
+  {
+    "id": "5f954aa8e8ae11b71b77adb4",
+    "title": "Researchers Find a New AI Attack Path: Agent Instructions",
+    "link": "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/",
+    "published": "2026-11-24T09:30:00+00:00",
+    "source": "infosecurity-magazine.com",
+    "summary_en": "Who: Researchers Find a New AI Attack Path: Agent Instructions. What: Researchers Find a New AI Attack Path: Agent Instructions. When: 2026-11-24T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Researchers Find a New AI Attack Path: Agent Instructions. ماذا: Researchers Find a New AI Attack Path: Agent Instructions. متى: 2026-11-24T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "category": "Threat/Attack",
+    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.infosecurity-magazine.com/webpage/og/562e1138-c40b-49bf-8bf3-a5c15b6365fa.png",
+    "sources": [
+      "https://www.infosecurity-magazine.com/news/researchers-new-ai-attack-path/"
+    ]
+  },
+  {
+    "id": "06ddd1a6880766e052b16531",
+    "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+    "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+    "published": "2026-11-24T08:34:20+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login. What: The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login. When: 2026-11-24T08:34:20+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login. ماذا: The company disclosed the SQL injection yesterday along with two other flaws that need a logged-in client, and released WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login. متى: 2026-11-24T08:34:20+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7wXAof6nH7PDC5-3qxXZJgJvZODTjQcrWFOjO8jeb9yGkK6bUkzm27MzMy5n0S_Xywsj0npu_F0FmQ4JcKxPXNEoezLrpKoSStaYK4Ww46QUuzySTeQnnzcIXs_NADunlqeyuMIl5Wm5PKWc3c0JyNmYPxfbInIWx2tfosieI_QS_e4PX-JILlLH-1U/s1600/hosting.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html"
+    ]
+  },
+  {
+    "id": "cbf383c5a42e1074bc71049a",
+    "title": "Reprioritizing Automated Leads with CrowdStrike Signal",
+    "link": "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/",
+    "published": "2026-11-24T08:00:00+00:00",
+    "source": "crowdstrike.com",
+    "summary_en": "Who: Reprioritizing Automated Leads with CrowdStrike Signal. What: Reprioritizing Automated Leads with CrowdStrike Signal. When: 2026-11-24T08:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Reprioritizing Automated Leads with CrowdStrike Signal. ماذا: Reprioritizing Automated Leads with CrowdStrike Signal. متى: 2026-11-24T08:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage",
+    "sources": [
+      "https://www.crowdstrike.com/en-us/blog/reprioritizing-automated-leads-crowdstrike-signal/"
+    ]
+  },
+  {
+    "id": "a0a25e5ec0683ad7b0296689",
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+    "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+    "published": "2026-11-24T06:02:57+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.. What: OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching. When: 2026-11-24T06:02:57+00:00. How: OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.. ماذا: OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching. متى: 2026-11-24T06:02:57+00:00. كيف: OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html"
+    ]
+  },
+  {
+    "id": "14a00d8221c42a6b143adf4e",
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+    "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+    "published": "2026-11-24T06:02:45+00:00",
+    "source": "thehackernews.com",
+    "summary_en": "Who: Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. What: Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. When: 2026-11-24T06:02:45+00:00. How: The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day Action: See Arabic action below.",
+    "summary_ar": "من: Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. ماذا: Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.. متى: 2026-11-24T06:02:45+00:00. كيف: The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Vulnerability",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-134624"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg",
+    "sources": [
+      "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
+    ]
+  },
+  {
     "id": "e3ea5f473094b75fb9d1531d",
-    "title": "Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt",
+    "title": "Orgs that leak data 'prioritize corporate interests over customers' says Have I Been Pwned’s Troy Hunt",
     "link": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
     "published": "2026-11-24T05:13:51+00:00",
     "source": "theregister.com",
@@ -1526,12 +2241,12 @@
   },
   {
     "id": "95e1986b820d2a3404c1e159",
-    "title": "In Security, Words Matter as Much as Tools, Maybe More",
+    "title": "In Security, Words Matter as Much as Tools — Maybe More",
     "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
     "published": "2026-11-20T18:35:40+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: In Security, Words Matter as Much as Tools, Maybe More. What: In Security, Words Matter as Much as Tools, Maybe More. When: 2026-11-20T18:35:40+00:00. How: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise. Action: See Arabic action below.",
-    "summary_ar": "من: In Security, Words Matter as Much as Tools, Maybe More. ماذا: In Security, Words Matter as Much as Tools, Maybe More. متى: 2026-11-20T18:35:40+00:00. كيف: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: In Security, Words Matter as Much as Tools — Maybe More. What: In Security, Words Matter as Much as Tools — Maybe More. When: 2026-11-20T18:35:40+00:00. How: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise. Action: See Arabic action below.",
+    "summary_ar": "من: In Security, Words Matter as Much as Tools — Maybe More. ماذا: In Security, Words Matter as Much as Tools — Maybe More. متى: 2026-11-20T18:35:40+00:00. كيف: From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -1939,8 +2654,8 @@
     "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
     "published": "2026-11-20T13:51:30+00:00",
     "source": "darkreading.com",
-    "summary_en": "Who: Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.. What: Microsoft Debuts Offensive, Defensive Security Tools for the AI Era. When: 2026-11-20T13:51:30+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.. ماذا: Microsoft Debuts Offensive, Defensive Security Tools for the AI Era. متى: 2026-11-20T13:51:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.. What: At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.. When: 2026-11-20T13:51:30+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.. ماذا: At its Ignite technical conference, Microsoft announced AI agent security tools and transparency standards to protect enterprise systems.. متى: 2026-11-20T13:51:30+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "General",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -5564,24 +6279,6 @@
     "image": "https://www.securityweek.com/wp-content/uploads/2026/08/N-Able.jpeg",
     "sources": [
       "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
-    ]
-  },
-  {
-    "id": "6085ef54790f43b5cab5a8b2",
-    "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-    "published": "2026-11-17T12:25:06+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks.. What: Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap. When: 2026-11-17T12:25:06+00:00. How: In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. Action: See Arabic action below.",
-    "summary_ar": "من: Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks.. ماذا: Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap. متى: 2026-11-17T12:25:06+00:00. كيف: In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
     ]
   },
   {
@@ -25026,30 +25723,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg",
     "sources": [
       "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html"
-    ]
-  },
-  {
-    "id": "962b531106f2cc02a404a01f",
-    "title": "11 Million Impacted by Capcom Data Breach",
-    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-    "published": "2026-10-23T08:34:14+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: 11 Million Impacted by Capcom Data Breach. What: 11 Million Impacted by Capcom Data Breach. When: 2026-10-23T08:34:14+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 11 Million Impacted by Capcom Data Breach. ماذا: 11 Million Impacted by Capcom Data Breach. متى: 2026-10-23T08:34:14+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Capcom.jpeg",
-    "sources": [
-      "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-      "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-      "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-      "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
-      "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-      "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/"
     ]
   },
   {
@@ -142463,891 +143136,6 @@
     "sources": [
       "https://www.zdnet.com/article/sandisk-8tb-desk-drive-ssd-best-buy-deal/",
       "https://www.zdnet.com/article/sandisk-desk-drive-ssd-best-buy-deal/"
-    ]
-  },
-  {
-    "id": "b60be15acf7209fc93041ea7",
-    "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-    "published": "2026-05-28T17:25:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Hackers exploit FortiClient EMS flaw to push infostealer malware. What: Hackers exploit FortiClient EMS flaw to push infostealer malware. When: 2026-05-28T17:25:43+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Hackers exploit FortiClient EMS flaw to push infostealer malware. ماذا: Hackers exploit FortiClient EMS flaw to push infostealer malware. متى: 2026-05-28T17:25:43+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-35616"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/12/19/Fortinet.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/"
-    ]
-  },
-  {
-    "id": "2a7ef96513b2eef78b4c7fbf",
-    "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-    "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-    "published": "2026-05-28T17:24:44+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code. What: A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.. When: 2026-05-28T17:24:44+00:00. How: A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. Action: See Arabic action below.",
-    "summary_ar": "من: Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code. ماذا: A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.. متى: 2026-05-28T17:24:44+00:00. كيف: A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
-    ]
-  },
-  {
-    "id": "7a26356b1155521b1229e585",
-    "title": "Anthropic launches Opus 4.8, with honesty as its killer feature",
-    "link": "https://www.zdnet.com/article/anthropics-launches-opus-4-8-where-honesty-is-the-killer-feature/",
-    "published": "2026-05-28T17:00:04+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Anthropic launches Opus 4.8, with honesty as its killer feature. What: Anthropic launches Opus 4.8, with honesty as its killer feature. When: 2026-05-28T17:00:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Anthropic launches Opus 4.8, with honesty as its killer feature. ماذا: Anthropic launches Opus 4.8, with honesty as its killer feature. متى: 2026-05-28T17:00:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/ed04de5439b3b01df9d20ed6903147192be4a2f8/2026/05/28/aa9d6c31-e0bb-48fb-8891-2e90100732a9/shutterstock-editorial-2758959927.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/anthropics-launches-opus-4-8-where-honesty-is-the-killer-feature/"
-    ]
-  },
-  {
-    "id": "ac8d0baa6878f8719389020f",
-    "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
-    "link": "https://www.theregister.com/os-platforms/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
-    "published": "2026-05-28T16:30:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Windows Server 2016 might be long in the tooth but that isn't about to stop Microsoft breaking stuff.. What: Microsoft tests the 15-character limit of Windows Server admins' patience. When: 2026-05-28T16:30:00+00:00. How: In the notes for the glitch, Microsoft wrote: \"When the hostname is 15 characters long, DCLocator calls (for example, using nltest /dsgetdc: /pdc) will return ERROR_INVALID_PARAMETER, preventing applications and administrative tools from locating a domain controller.\" In other words, anything that depends on a domain controller lookup might stop working. Action: See Arabic action below.",
-    "summary_ar": "من: Windows Server 2016 might be long in the tooth but that isn't about to stop Microsoft breaking stuff.. ماذا: Microsoft tests the 15-character limit of Windows Server admins' patience. متى: 2026-05-28T16:30:00+00:00. كيف: In the notes for the glitch, Microsoft wrote: \"When the hostname is 15 characters long, DCLocator calls (for example, using nltest /dsgetdc: /pdc) will return ERROR_INVALID_PARAMETER, preventing applications and administrative tools from locating a domain controller.\" In other words, anything that depends on a domain controller lookup might stop working.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5247969.jpg?imageId=5247969&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/os-platforms/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
-      "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943"
-    ]
-  },
-  {
-    "id": "4c22efea2baa56a10e97cd78",
-    "title": "How to force Google AI Overviews to prioritize your favorite news sources",
-    "link": "https://www.zdnet.com/article/how-to-force-google-ai-overviews-to-prioritize-your-favorite-news-sources/",
-    "published": "2026-05-28T16:02:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.. What: How to force Google AI Overviews to prioritize your favorite news sources. When: 2026-05-28T16:02:42+00:00. How: Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches. Action: See Arabic action below.",
-    "summary_ar": "من: Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.. ماذا: How to force Google AI Overviews to prioritize your favorite news sources. متى: 2026-05-28T16:02:42+00:00. كيف: Google's Preferred Sources feature is now available in AI Overviews and AI Mode, so you can add your favorite sites to your AI-powered searches.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/6ac72dc48bfc465b07886e925c34263bcaa652c9/2026/05/28/db55ae73-b074-40b5-b420-1c1f7ccf7122/view-a-preferred-source-in-a-google-ai-search.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-force-google-ai-overviews-to-prioritize-your-favorite-news-sources/"
-    ]
-  },
-  {
-    "id": "38970846b4b5e1ad8876b161",
-    "title": "8 Zorin OS settings I change on every new install - and why you should, too",
-    "link": "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/",
-    "published": "2026-05-28T15:41:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 8 Zorin OS settings I change on every new install - and why you should, too. What: 8 Zorin OS settings I change on every new install - and why you should, too. When: 2026-05-28T15:41:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 8 Zorin OS settings I change on every new install - and why you should, too. ماذا: 8 Zorin OS settings I change on every new install - and why you should, too. متى: 2026-05-28T15:41:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/194e4ee4ae779258c50b37a08313d7ad80ac30c2/2026/05/27/8fe00200-3111-4071-81e2-0a17a471b65a/zorincubeherolaptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/"
-    ]
-  },
-  {
-    "id": "c5972400b032b595e0515f41",
-    "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is",
-    "link": "https://www.darkreading.com/application-security/agentic-ai-risky",
-    "published": "2026-05-28T15:36:25+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Agentic AI Isn't Risky; the Way Orgs Deploy It Is. What: Agentic AI Isn't Risky; the Way Orgs Deploy It Is. When: 2026-05-28T15:36:25+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Agentic AI Isn't Risky; the Way Orgs Deploy It Is. ماذا: Agentic AI Isn't Risky; the Way Orgs Deploy It Is. متى: 2026-05-28T15:36:25+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dbefeb02aa6a89d/6a184e146efe0009ef849df5/Black_box-Rawf8-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/application-security/agentic-ai-risky"
-    ]
-  },
-  {
-    "id": "a502e1fef63f67ef9b12871e",
-    "title": "Attackers Move Past Typosquatting to Realistic Package Impersonation",
-    "link": "https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/",
-    "published": "2026-05-28T15:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Attackers Move Past Typosquatting to Realistic Package Impersonation. What: Attackers Move Past Typosquatting to Realistic Package Impersonation. When: 2026-05-28T15:30:00+00:00. How: Most malicious open source packages now mimic real code rather than rely on typosquatting Attackers Move Past Typosquatting to Realistic Package Impersonation Action: See Arabic action below.",
-    "summary_ar": "من: Attackers Move Past Typosquatting to Realistic Package Impersonation. ماذا: Attackers Move Past Typosquatting to Realistic Package Impersonation. متى: 2026-05-28T15:30:00+00:00. كيف: Most malicious open source packages now mimic real code rather than rely on typosquatting Attackers Move Past Typosquatting to Realistic Package Impersonation. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/7d578bce-d280-4eb3-bc68-de67a72f9709.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/attackers-beyond-typosquatting/"
-    ]
-  },
-  {
-    "id": "393193bdbdbf55cbd2d4819e",
-    "title": "This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale)",
-    "link": "https://www.zdnet.com/article/ecovacs-deebot-x8-pro-omni-deal-memorial-day-2026/",
-    "published": "2026-05-28T15:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale). What: This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale). When: 2026-05-28T15:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale). ماذا: This lab-tested robot vacuum picked up more dirt than any other model (and it's on sale). متى: 2026-05-28T15:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c2c953d9e104acb0564f282e5c99609836ccd178/2025/02/14/47d37e14-c5dc-4fce-8347-9d6d2d81f2fd/8.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/ecovacs-deebot-x8-pro-omni-deal-memorial-day-2026/"
-    ]
-  },
-  {
-    "id": "bf0579a55ffc1a58f3f05620",
-    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-    "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-    "published": "2026-05-28T15:26:04+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer. What: Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.. When: 2026-05-28T15:26:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer. ماذا: Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer.. متى: 2026-05-28T15:26:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
-    ]
-  },
-  {
-    "id": "496ac833697d8bf35399df9f",
-    "title": "The solar-powered backup station I trust after years of testing - and why it works so well",
-    "link": "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/",
-    "published": "2026-05-28T15:25:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: The solar-powered backup station I trust after years of testing - and why it works so well. What: The solar-powered backup station I trust after years of testing - and why it works so well. When: 2026-05-28T15:25:00+00:00. How: Here's the setup I'm relying on to get me through the season. Action: See Arabic action below.",
-    "summary_ar": "من: The solar-powered backup station I trust after years of testing - and why it works so well. ماذا: The solar-powered backup station I trust after years of testing - and why it works so well. متى: 2026-05-28T15:25:00+00:00. كيف: Here's the setup I'm relying on to get me through the season.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9eceaf70b29ca6f1ef48d6f4890557f496cc8d0d/2026/03/30/685cac09-5df4-49a9-a314-d959c985758d/img-3330.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-prepare-for-summer-blackouts-calculate-power-needs/"
-    ]
-  },
-  {
-    "id": "8664687fcbb36026852c0427",
-    "title": "Carnival Data Breach Exposed 6 Million People",
-    "link": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
-    "published": "2026-05-28T14:45:28+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Carnival Data Breach Exposed 6 Million People. What: Carnival Data Breach Exposed 6 Million People. When: 2026-05-28T14:45:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Carnival Data Breach Exposed 6 Million People. ماذا: Carnival Data Breach Exposed 6 Million People. متى: 2026-05-28T14:45:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Carnival-data-breach.jpg",
-    "sources": [
-      "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/"
-    ]
-  },
-  {
-    "id": "f05b0f57f2a755de563e1c54",
-    "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-    "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-    "published": "2026-05-28T14:25:43+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: New Gogs zero-day flaw lets hackers get remote code execution. What: An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances.. When: 2026-05-28T14:25:43+00:00. How: An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. Action: See Arabic action below.",
-    "summary_ar": "من: New Gogs zero-day flaw lets hackers get remote code execution. ماذا: An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances.. متى: 2026-05-28T14:25:43+00:00. كيف: An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2025/12/11/Gogs.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/"
-    ]
-  },
-  {
-    "id": "b46abccd9c8be1a62c41cac5",
-    "title": "When revealed data brings AI rollouts to a screeching halt - and how to manage it",
-    "link": "https://www.zdnet.com/article/proceed-cautiously-with-ai-rollouts/",
-    "published": "2026-05-28T14:16:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: When revealed data brings AI rollouts to a screeching halt - and how to manage it. What: When revealed data brings AI rollouts to a screeching halt - and how to manage it. When: 2026-05-28T14:16:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: When revealed data brings AI rollouts to a screeching halt - and how to manage it. ماذا: When revealed data brings AI rollouts to a screeching halt - and how to manage it. متى: 2026-05-28T14:16:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/866e54438e0bb5fb6d2c206eacf52060296bd731/2026/05/28/45979acb-ca29-48bd-b4d9-8b16bc30f4c2/gettyimages-2227611669.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/proceed-cautiously-with-ai-rollouts/"
-    ]
-  },
-  {
-    "id": "5d26d5b2c447f4a7a5620a03",
-    "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-    "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-    "published": "2026-05-28T14:01:11+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: How SIEM helps MSPs reduce noise and stop threats faster. What: How SIEM helps MSPs reduce noise and stop threats faster. When: 2026-05-28T14:01:11+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How SIEM helps MSPs reduce noise and stop threats faster. ماذا: How SIEM helps MSPs reduce noise and stop threats faster. متى: 2026-05-28T14:01:11+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Policy/Advisory",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/posts/2026/05/22/header-image.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/"
-    ]
-  },
-  {
-    "id": "81b37aa99a838bee9cbad0c9",
-    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-    "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-    "published": "2026-05-28T13:53:52+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.. What: Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.. When: 2026-05-28T13:53:52+00:00. How: The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.. ماذا: Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.. متى: 2026-05-28T13:53:52+00:00. كيف: The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png",
-    "sources": [
-      "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html"
-    ]
-  },
-  {
-    "id": "89fef457ce442fd583d256a9",
-    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-    "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-    "published": "2026-05-28T13:33:16+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More. What: ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More. When: 2026-05-28T13:33:16+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More. ماذا: ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More. متى: 2026-05-28T13:33:16+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html"
-    ]
-  },
-  {
-    "id": "b1938442ef6b533fb9bb6acc",
-    "title": "Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too",
-    "link": "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/",
-    "published": "2026-05-28T13:10:13+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Need AI help in Microsoft 365, but don't love Copilot?. What: Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too. When: 2026-05-28T13:10:13+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Need AI help in Microsoft 365, but don't love Copilot?. ماذا: Why I ditched Copilot for Claude in Word, Excel, and PowerPoint - and how you can, too. متى: 2026-05-28T13:10:13+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/502e95ca01481294b3f281e5ff6434d22e3e285d/2026/05/28/df2aa6b1-40b7-4ef7-80f6-4b85c61c3fb3/figure-top-i-used-claude-ai-in-microsoft-word-excel-and-powerpoint-heres-how-it-worked.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-i-ditched-copilot-for-claude-in-word-excel-powerpoint/"
-    ]
-  },
-  {
-    "id": "f05ba8050d56280e00821bf6",
-    "title": "New BTMOB Android Malware Enables Full Device Takeover",
-    "link": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
-    "published": "2026-05-28T13:05:04+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New BTMOB Android Malware Enables Full Device Takeover. What: New BTMOB Android Malware Enables Full Device Takeover. When: 2026-05-28T13:05:04+00:00. How: Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access. Action: See Arabic action below.",
-    "summary_ar": "من: New BTMOB Android Malware Enables Full Device Takeover. ماذا: New BTMOB Android Malware Enables Full Device Takeover. متى: 2026-05-28T13:05:04+00:00. كيف: Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Android-update.jpeg",
-    "sources": [
-      "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/"
-    ]
-  },
-  {
-    "id": "5ca0a01e25afbe1a02574d29",
-    "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-    "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-    "published": "2026-05-28T12:43:29+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Romanian gets 5 years in prison for hacking Oregon govt network. What: Romanian gets 5 years in prison for hacking Oregon govt network. When: 2026-05-28T12:43:29+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Romanian gets 5 years in prison for hacking Oregon govt network. ماذا: Romanian gets 5 years in prison for hacking Oregon govt network. متى: 2026-05-28T12:43:29+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Hacker_prison.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/"
-    ]
-  },
-  {
-    "id": "c8acf092f81a48dffd027239",
-    "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
-    "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
-    "published": "2026-05-28T12:41:45+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”. What: Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.. When: 2026-05-28T12:41:45+00:00. How: The post IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell” appeared first on SecurityWeek . Action: See Arabic action below.",
-    "summary_ar": "من: IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”. ماذا: Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.. متى: 2026-05-28T12:41:45+00:00. كيف: The post IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell” appeared first on SecurityWeek .. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Vulnerability",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/"
-    ]
-  },
-  {
-    "id": "3ae1a96af06eced9961578c8",
-    "title": "NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now",
-    "link": "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/",
-    "published": "2026-05-28T12:39:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now. What: NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now. When: 2026-05-28T12:39:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now. ماذا: NordVPN isn't just a VPN anymore, but a full security suite - here's what you get now. متى: 2026-05-28T12:39:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/04ca9f88a598bae2c4af9d8a2dee61a77ab889ee/2025/08/18/5338d8d7-969f-4eb3-990d-18ee93a1e578/s.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/nordvpn-combines-vpn-antivirus-in-one-app/"
-    ]
-  },
-  {
-    "id": "fd118d3807170b3af885b1af",
-    "title": "I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why",
-    "link": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
-    "published": "2026-05-28T12:31:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why. What: I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why. When: 2026-05-28T12:31:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why. ماذا: I'm an iPhone user, but Gemini with Android Auto beats Siri in the car any day - here's why. متى: 2026-05-28T12:31:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9aa1ff30e479a0ea64d9cc23070cd4007be06d0e/2026/05/28/390769f6-6904-4177-8b25-2a6a380abcc2/figure-top-google-gemini-is-my-favorite-ai-assistant-when-im-driving.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/"
-    ]
-  },
-  {
-    "id": "fa533570d4010f5535adb346",
-    "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security",
-    "link": "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security",
-    "published": "2026-05-28T12:29:58+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security. What: Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security. When: 2026-05-28T12:29:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security. ماذا: Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security. متى: 2026-05-28T12:29:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9514fbeb5a1fa18/6a168d897e488f337374002f/insuranceload-Bordeianu_Andrei-alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security"
-    ]
-  },
-  {
-    "id": "0ee8741895e82b5d009fda36",
-    "title": "Webinar: Why network incidents take too long to resolve",
-    "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-    "published": "2026-05-28T12:20:28+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Webinar: Why network incidents take too long to resolve. What: Webinar: Why network incidents take too long to resolve. When: 2026-05-28T12:20:28+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Webinar: Why network incidents take too long to resolve. ماذا: Webinar: Why network incidents take too long to resolve. متى: 2026-05-28T12:20:28+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/27/intelligent-workflow-funnel.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/"
-    ]
-  },
-  {
-    "id": "1bb45ee3314ade0e1711623c",
-    "title": "Carnival confirms ShinyHunters cruised off with 6M customer records after April breach",
-    "link": "https://www.theregister.com/cyber-crime/2026/05/28/carnival-shinyhunters-cruised-off-with-6m-customer-records/5247808",
-    "published": "2026-05-28T12:10:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: Carnival confirms ShinyHunters cruised off with 6M customer records after April breach. What: Carnival confirms ShinyHunters cruised off with 6M customer records after April breach. When: 2026-05-28T12:10:00+00:00. How: Carnival previously acknowledged the phishing attack at the time, but it did not say whether any data had been accessed or stolen. Action: See Arabic action below.",
-    "summary_ar": "من: Carnival confirms ShinyHunters cruised off with 6M customer records after April breach. ماذا: Carnival confirms ShinyHunters cruised off with 6M customer records after April breach. متى: 2026-05-28T12:10:00+00:00. كيف: Carnival previously acknowledged the phishing attack at the time, but it did not say whether any data had been accessed or stolen.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5225143.jpg?imageId=5225143&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/cyber-crime/2026/05/28/carnival-shinyhunters-cruised-off-with-6m-customer-records/5247808"
-    ]
-  },
-  {
-    "id": "dc040f131c1f09cb5dc69de8",
-    "title": "I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed",
-    "link": "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/",
-    "published": "2026-05-28T12:00:39+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed. What: I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed. When: 2026-05-28T12:00:39+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed. ماذا: I set up a router-based VPN for my TV, and it's the cheap security fix it desperately needed. متى: 2026-05-28T12:00:39+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c0cf068b87a49476011aa5c18ed5bb632d52dfcf/2025/07/29/9897fb3e-8274-462d-a52f-7ab238bce448/sony-bravia-5-98-inch-mini-led-4k-hdr-google-tv-2025-14.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-add-a-vpn-to-your-smart-tv/"
-    ]
-  },
-  {
-    "id": "18f02267ab6f959eee6f8a94",
-    "title": "Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures",
-    "link": "https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/",
-    "published": "2026-05-28T12:00:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk” Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures. What: Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk” Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures. When: 2026-05-28T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk” Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures. ماذا: Microsoft warned the disclosure of several unpatched vulnerabilities without notice has put “customers at unnecessary risk” Microsoft Condemns \"Uncoordinated\" Zero Day Disclosures. متى: 2026-05-28T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/1eb8d77a-b318-4476-8575-7379be4b9fee.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/microsoft-uncoordinated-zeroday/"
-    ]
-  },
-  {
-    "id": "37b100c0fb77aa07b5fb0e43",
-    "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-    "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-    "published": "2026-05-28T12:00:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails. What: New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails. When: 2026-05-28T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails. ماذا: New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails. متى: 2026-05-28T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg",
-    "sources": [
-      "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/"
-    ]
-  },
-  {
-    "id": "d5ce0b53c66a9c4039f71092",
-    "title": "Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close",
-    "link": "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/",
-    "published": "2026-05-28T12:00:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close. What: Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close. When: 2026-05-28T12:00:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close. ماذا: Oura Ring 5 vs. Oura Ring 4: I compared the smart rings for health tracking - and it's very close. متى: 2026-05-28T12:00:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/0333c925b562fee187deb3fbf0823ad9c9acac07/2026/05/27/a57a2837-46aa-434e-91a5-07309783566d/ring-comparison-hero-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-5-vs-oura-ring-4/"
-    ]
-  },
-  {
-    "id": "eec92e1e207bbb024e1c8804",
-    "title": "4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify",
-    "link": "https://www.zdnet.com/article/4-android-auto-apps-for-your-next-road-trip/",
-    "published": "2026-05-28T11:55:58+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: 4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify. What: 4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify. When: 2026-05-28T11:55:58+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify. ماذا: 4 Android Auto apps I highly recommend for your next road trip - beyond Maps and Spotify. متى: 2026-05-28T11:55:58+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/d5421db12b0908adbeab4ce699b26c8d0388daa7/2026/04/29/44fb6af2-c408-4980-8d93-d67ba702b8b4/29351.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/4-android-auto-apps-for-your-next-road-trip/"
-    ]
-  },
-  {
-    "id": "320c612096f3367d33d5b11b",
-    "title": "New Threat Actor Jinx-0164 Targets Crypto Developers on macOS",
-    "link": "https://www.infosecurity-magazine.com/news/jinx-0164-crypto-developers-macos/",
-    "published": "2026-05-28T11:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: New Threat Actor Jinx-0164 Targets Crypto Developers on macOS. What: New Threat Actor Jinx-0164 Targets Crypto Developers on macOS. When: 2026-05-28T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New Threat Actor Jinx-0164 Targets Crypto Developers on macOS. ماذا: New Threat Actor Jinx-0164 Targets Crypto Developers on macOS. متى: 2026-05-28T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/2e4102d3-6b13-429d-9948-4639a6146998.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/jinx-0164-crypto-developers-macos/"
-    ]
-  },
-  {
-    "id": "ed6a5498bd4ab75492f48703",
-    "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-    "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-    "published": "2026-05-28T11:30:00+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\". What: New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\". When: 2026-05-28T11:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\". ماذا: New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\". متى: 2026-05-28T11:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html"
-    ]
-  },
-  {
-    "id": "b45811b9beeaf2454582051e",
-    "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
-    "link": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
-    "published": "2026-05-28T11:24:51+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Gitea Vulnerability Exposed 30,000 Deployments to Attacks. What: Gitea Vulnerability Exposed 30,000 Deployments to Attacks. When: 2026-05-28T11:24:51+00:00. How: The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure. Action: See Arabic action below.",
-    "summary_ar": "من: Gitea Vulnerability Exposed 30,000 Deployments to Attacks. ماذا: Gitea Vulnerability Exposed 30,000 Deployments to Attacks. متى: 2026-05-28T11:24:51+00:00. كيف: The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-    "sources": [
-      "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/"
-    ]
-  },
-  {
-    "id": "c268e350d698fb9eef198cf1",
-    "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
-    "link": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
-    "published": "2026-05-28T11:15:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: Raising the Cybersecurity Stakes: Ante up for the Agentic Era. What: Raising the Cybersecurity Stakes: Ante up for the Agentic Era. When: 2026-05-28T11:15:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Raising the Cybersecurity Stakes: Ante up for the Agentic Era. ماذا: Raising the Cybersecurity Stakes: Ante up for the Agentic Era. متى: 2026-05-28T11:15:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2025/07/Agentic-AI-Security.jpg",
-    "sources": [
-      "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/"
-    ]
-  },
-  {
-    "id": "0ced90035b1984ee125e2732",
-    "title": "Why a Bluetooth upgrade for AirPods excites me more than cameras or AI",
-    "link": "https://www.zdnet.com/article/why-bluetooth-upgrade-to-airpods-excites-me-more-than-cameras-or-ai/",
-    "published": "2026-05-28T11:00:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: Apple's WWDC is around the corner, and I'm hoping for one big software update to AirPods.. What: Why a Bluetooth upgrade for AirPods excites me more than cameras or AI. When: 2026-05-28T11:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Apple's WWDC is around the corner, and I'm hoping for one big software update to AirPods.. ماذا: Why a Bluetooth upgrade for AirPods excites me more than cameras or AI. متى: 2026-05-28T11:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Patch/Update",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/5927708a8d037c71666aa847defdb620cac3f8c7/2025/06/09/c3ed9232-bd1e-4190-89b5-d1e757eedaf3/airpodsfam.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/why-bluetooth-upgrade-to-airpods-excites-me-more-than-cameras-or-ai/"
-    ]
-  },
-  {
-    "id": "7d5273950708684a8317f0be",
-    "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-    "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-    "published": "2026-05-28T10:49:27+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Carnival Cruise confirms data breach affecting nearly 6 million people. What: Carnival Cruise confirms data breach affecting nearly 6 million people. When: 2026-05-28T10:49:27+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Carnival Cruise confirms data breach affecting nearly 6 million people. ماذا: Carnival Cruise confirms data breach affecting nearly 6 million people. متى: 2026-05-28T10:49:27+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/28/Carnival_fleet.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/"
-    ]
-  },
-  {
-    "id": "fb2299acf368235283177344",
-    "title": "Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals",
-    "link": "https://www.infosecurity-magazine.com/news/infosecurity-europe-isc2/",
-    "published": "2026-05-28T10:01:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals. What: Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals. When: 2026-05-28T10:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals. ماذا: Infosecurity Europe: Cybersecurity Staff Prefer CISOs With Real Attack Response Experience, Study Reveals. متى: 2026-05-28T10:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/267b79db-7a1a-46a1-9864-b8dce29072a5.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/infosecurity-europe-isc2/"
-    ]
-  },
-  {
-    "id": "028b28f4ef04abf997baed78",
-    "title": "2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface",
-    "link": "https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/",
-    "published": "2026-05-28T10:00:53+00:00",
-    "source": "paloaltonetworks.com",
-    "summary_en": "Who: 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface. What: 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface. When: 2026-05-28T10:00:53+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface. ماذا: 2026 World Cup: Discussing The World’s Biggest Game’s Attack Surface. متى: 2026-05-28T10:00:53+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "category": "Data Breach",
-    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/06_Security-Technology_Category_1920x900.jpg",
-    "sources": [
-      "https://unit42.paloaltonetworks.com/fifa-world-cup-attack-surface/"
-    ]
-  },
-  {
-    "id": "38970846b4b5e1ad8876b161",
-    "title": "My favorite Zorin OS settings and why you'll love them too",
-    "link": "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/",
-    "published": "2026-05-28T10:00:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: My favorite Zorin OS settings and why you'll love them too. What: My favorite Zorin OS settings and why you'll love them too. When: 2026-05-28T10:00:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: My favorite Zorin OS settings and why you'll love them too. ماذا: My favorite Zorin OS settings and why you'll love them too. متى: 2026-05-28T10:00:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/194e4ee4ae779258c50b37a08313d7ad80ac30c2/2026/05/27/8fe00200-3111-4071-81e2-0a17a471b65a/zorincubeherolaptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/my-favorite-zorin-os-settings-and-why-youll-love-them-too/"
-    ]
-  },
-  {
-    "id": "4760578e9ba3d6d8f2a5efde",
-    "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
-    "link": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
-    "published": "2026-05-28T09:55:00+00:00",
-    "source": "securityweek.com",
-    "summary_en": "Who: New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.. What: Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks. When: 2026-05-28T09:55:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.. ماذا: Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks. متى: 2026-05-28T09:55:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Google-AI-Threat-Defense.jpg",
-    "sources": [
-      "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/"
-    ]
-  },
-  {
-    "id": "5073b85795009b33ac9fe6ed",
-    "title": "GCHQ Chief Urges Action as AI Reshapes Cyber Threats",
-    "link": "https://www.infosecurity-magazine.com/news/gchq-keast-butler-cyber-action-ai/",
-    "published": "2026-05-28T09:30:00+00:00",
-    "source": "infosecurity-magazine.com",
-    "summary_en": "Who: GCHQ Chief Urges Action as AI Reshapes Cyber Threats. What: GCHQ Chief Urges Action as AI Reshapes Cyber Threats. When: 2026-05-28T09:30:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: GCHQ Chief Urges Action as AI Reshapes Cyber Threats. ماذا: GCHQ Chief Urges Action as AI Reshapes Cyber Threats. متى: 2026-05-28T09:30:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://assets.infosecurity-magazine.com/webpage/og/edc82fdf-0411-4f0c-9b3d-17cfaffc7dba.jpg",
-    "sources": [
-      "https://www.infosecurity-magazine.com/news/gchq-keast-butler-cyber-action-ai/"
-    ]
-  },
-  {
-    "id": "820af45a7ca9e02c29d49527",
-    "title": "Sextortionist sentenced to 33 years for targeting 145 children",
-    "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
-    "published": "2026-05-28T09:25:59+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Sextortionist sentenced to 33 years for targeting 145 children. What: Sextortionist sentenced to 33 years for targeting 145 children. When: 2026-05-28T09:25:59+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Sextortionist sentenced to 33 years for targeting 145 children. ماذا: Sextortionist sentenced to 33 years for targeting 145 children. متى: 2026-05-28T09:25:59+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2022/05/27/Prison.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/"
-    ]
-  },
-  {
-    "id": "ec2891006281593884eabab6",
-    "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model",
-    "published": "2026-05-28T09:06:11+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model. What: BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model. When: 2026-05-28T09:06:11+00:00. How: Notably, it's delivered via an operator licensing model and features a no-code malware-development interface. Action: See Arabic action below.",
-    "summary_ar": "من: BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model. ماذا: BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model. متى: 2026-05-28T09:06:11+00:00. كيف: Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50056046e2acf85d/6a1805a808b87d2f6a04c317/androidmalware_rafapress_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model"
-    ]
-  },
-  {
-    "id": "aa5a9ef7bf42e7efd32a54b8",
-    "title": "This exec offers 4 ways to be a successful innovator in the age of agentic AI",
-    "link": "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/",
-    "published": "2026-05-28T09:00:34+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: This exec offers 4 ways to be a successful innovator in the age of agentic AI. What: This exec offers 4 ways to be a successful innovator in the age of agentic AI. When: 2026-05-28T09:00:34+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: This exec offers 4 ways to be a successful innovator in the age of agentic AI. ماذا: This exec offers 4 ways to be a successful innovator in the age of agentic AI. متى: 2026-05-28T09:00:34+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/e6f1986c80d4cb2e138fe48b22dd2a26a1756fef/2026/05/27/e645d950-2453-467e-b83e-7728f9fad751/shutterstock-555831022-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-be-a-successful-innovator-in-the-age-of-agentic-ai/"
-    ]
-  },
-  {
-    "id": "72076386f8800c122c767974",
-    "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-    "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-    "published": "2026-05-28T07:54:48+00:00",
-    "source": "thehackernews.com",
-    "summary_en": "Who: JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware. What: JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware. When: 2026-05-28T07:54:48+00:00. How: A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. Action: See Arabic action below.",
-    "summary_ar": "من: JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware. ماذا: JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware. متى: 2026-05-28T07:54:48+00:00. كيف: A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Threat/Attack",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyRUE7TEns58pfRrpwegQH6tBvGORrdclhPKKI7B7l9eNy5bMA1_ra6HAyGPUC_NKD8ZTnpVt7z88AII1Sd8QpA-sqZ7ONKZGwEVFB0u8gNvsBVRtfJuTsvWM4q6V_9MXVj7fX4ug_7mel-x1i2l7qm1GY94gVA1AbyCrvRQA8JcaDmhF1i_tM22NF_RPX/s1600/crypto-hacks.jpg",
-    "sources": [
-      "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html"
-    ]
-  },
-  {
-    "id": "171627d06d4b87956cc55d48",
-    "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
-    "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
-    "published": "2026-05-28T07:01:00+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Nordic CISOs Handle Rising Cyber Threats Remarkably Well. What: Nordic CISOs Handle Rising Cyber Threats Remarkably Well. When: 2026-05-28T07:01:00+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Nordic CISOs Handle Rising Cyber Threats Remarkably Well. ماذا: Nordic CISOs Handle Rising Cyber Threats Remarkably Well. متى: 2026-05-28T07:01:00+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c6acdf0ad722a2/6a17391e011a18831c6e30bd/Nordic_flags-Eric_D_ricochet69-Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats"
-    ]
-  },
-  {
-    "id": "f1e4f1fd606433cf6acda10b",
-    "title": "Company CEO flooded file share with smut, called for help after he deleted it",
-    "link": "https://www.theregister.com/security/2026/05/28/company-ceo-flooded-file-share-with-smut-called-for-help-after-he-deleted-it/5247502",
-    "published": "2026-05-28T07:00:00+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: The files were accessible to anyone at the organization, and Lewis searched archived copies in Google Picasa to restore them.. What: When one athletics coach quit, he was supposed to leave his school-issued iPad on his desk.. When: 2026-05-28T07:00:00+00:00. How: This week, we have a trio of tales that involve incredibly unprofessional behavior, inappropriate use of corporate resources, and outright theft, all dealt with by IT. Action: See Arabic action below.",
-    "summary_ar": "من: The files were accessible to anyone at the organization, and Lewis searched archived copies in Google Picasa to restore them.. ماذا: When one athletics coach quit, he was supposed to leave his school-issued iPad on his desk.. متى: 2026-05-28T07:00:00+00:00. كيف: This week, we have a trio of tales that involve incredibly unprofessional behavior, inappropriate use of corporate resources, and outright theft, all dealt with by IT.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Data Breach",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5247528.jpg?imageId=5247528&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/28/company-ceo-flooded-file-share-with-smut-called-for-help-after-he-deleted-it/5247502"
-    ]
-  },
-  {
-    "id": "a96a914a6bcbd593bf16dae6",
-    "title": "Pirates in the crosshairs: how one cybercrime gang has been infecting book, movie, and TV show fans for years",
-    "link": "https://securelist.com/video-books-pirates-miners-rat/119943/",
-    "published": "2026-05-28T06:55:11+00:00",
-    "source": "securelist.com",
-    "summary_en": "Who: Pirates in the crosshairs: how one cybercrime gang has been infecting book, movie, and TV show fans for years. What: In April, the total number of visits to websites where the malware described in this study was detected reached 40 million.. When: 2026-05-28T06:55:11+00:00. How: We later discovered that the malware was being distributed via illegal movie and TV show streaming sites. Action: See Arabic action below.",
-    "summary_ar": "من: Pirates in the crosshairs: how one cybercrime gang has been infecting book, movie, and TV show fans for years. ماذا: In April, the total number of visits to websites where the malware described in this study was detected reached 40 million.. متى: 2026-05-28T06:55:11+00:00. كيف: We later discovered that the malware was being distributed via illegal movie and TV show streaming sites.. الإجراء: حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "category": "Patch/Update",
-    "action": "حدّث التواقيع، احظر الـ IOCs، وفعِّل التوعية للمستخدمين.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/05/28052031/mainers-scaled-1.jpg",
-    "sources": [
-      "https://securelist.com/video-books-pirates-miners-rat/119943/"
     ]
   }
 ]
