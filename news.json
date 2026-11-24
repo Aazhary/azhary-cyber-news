@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "e3ea5f473094b75fb9d1531d",
+    "title": "Orgs that leak data ‘prioritize corporate interests over customers’ says Have I Been Pwned’s Troy Hunt",
+    "link": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
+    "published": "2026-11-24T05:13:51+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Hunt typically replies by saying it is up to the victim to decide if the incident meets the threshold that triggers mandatory disclosure requirements under local laws, but that he intends to notify HIBP users regardless.. What: Others try to play down the incident, saying it was only a website defacement or that Hunt is re-reporting a previous breach the victim has already disclosed.. When: 2026-11-24T05:13:51+00:00. How: Claude/Hunt focuses on the breach notifications that don’t go well, for example when first contact “often goes nowhere” because “many organisations have no obvious way to report a security incident.” Some organizations Hunt contacted logged his notifications as customer support requests. Action: See Arabic action below.",
+    "summary_ar": "من: Hunt typically replies by saying it is up to the victim to decide if the incident meets the threshold that triggers mandatory disclosure requirements under local laws, but that he intends to notify HIBP users regardless.. ماذا: Others try to play down the incident, saying it was only a website defacement or that Hunt is re-reporting a previous breach the victim has already disclosed.. متى: 2026-11-24T05:13:51+00:00. كيف: Claude/Hunt focuses on the breach notifications that don’t go well, for example when first contact “often goes nowhere” because “many organisations have no obvious way to report a security incident.” Some organizations Hunt contacted logged his notifications as customer support requests.. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Patch/Update",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/259203.jpg?imageId=259203&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802"
+    ]
+  },
+  {
+    "id": "a3dc1c3f9c0a28fb4aacdd87",
+    "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+    "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+    "published": "2026-11-24T01:46:56+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws.. What: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws.. When: 2026-11-24T01:46:56+00:00. How: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws. Action: See Arabic action below.",
+    "summary_ar": "من: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws.. ماذا: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws.. متى: 2026-11-24T01:46:56+00:00. كيف: Cisco and OpenAI have released an open-source tool called Shirudo to implement compensating controls in Linux, potentially improving security for users who can’t quickly patch newly discovered software flaws.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/1682068.jpg?imageId=1682068&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795"
+    ]
+  },
+  {
     "id": "6a57f5edfd55bc34c55112fc",
     "title": "Industrial Serial Gateways Broadcast That They're Insecure",
     "link": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
@@ -436,12 +472,12 @@
   },
   {
     "id": "ed11d95a721bf67df9d50a43",
-    "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+    "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
     "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
     "published": "2026-11-23T15:06:49+00:00",
     "source": "securityweek.com",
-    "summary_en": "Who: N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack. What: The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .. When: 2026-11-23T15:06:49+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack. ماذا: The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .. متى: 2026-11-23T15:06:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "summary_en": "Who: N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack. What: N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack. When: 2026-11-23T15:06:49+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack. ماذا: N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack. متى: 2026-11-23T15:06:49+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "category": "Patch/Update",
     "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
     "cves": [],
@@ -143312,60 +143348,6 @@
     "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/05/28052031/mainers-scaled-1.jpg",
     "sources": [
       "https://securelist.com/video-books-pirates-miners-rat/119943/"
-    ]
-  },
-  {
-    "id": "b71ef8a1fb2245c8c1fade86",
-    "title": "I've tested so many Linux email clients - why I'm recommending Aerion above all else",
-    "link": "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/",
-    "published": "2026-05-28T02:00:42+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I've tested so many Linux email clients - why I'm recommending Aerion above all else. What: I've tested so many Linux email clients - why I'm recommending Aerion above all else. When: 2026-05-28T02:00:42+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I've tested so many Linux email clients - why I'm recommending Aerion above all else. ماذا: I've tested so many Linux email clients - why I'm recommending Aerion above all else. متى: 2026-05-28T02:00:42+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1204ce64aec0c221613cae8a120ecd04b6760ace/2026/05/26/fa3b8336-13ee-458c-8265-26ef30f78e98/aerionhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/aerion-my-new-favorite-email-client/"
-    ]
-  },
-  {
-    "id": "9ea74c2c434bda785f192d5e",
-    "title": "I demoed Sony's new modular theater system, and the audio quality was next level",
-    "link": "https://www.zdnet.com/article/sony-bravia-trio-hands-on/",
-    "published": "2026-05-28T01:00:36+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I demoed Sony's new modular theater system, and the audio quality was next level. What: I demoed Sony's new modular theater system, and the audio quality was next level. When: 2026-05-28T01:00:36+00:00. How: The Sony Bravia Theater Trio might look unassuming, but you shouldn't judge a book by its cover. Action: See Arabic action below.",
-    "summary_ar": "من: I demoed Sony's new modular theater system, and the audio quality was next level. ماذا: I demoed Sony's new modular theater system, and the audio quality was next level. متى: 2026-05-28T01:00:36+00:00. كيف: The Sony Bravia Theater Trio might look unassuming, but you shouldn't judge a book by its cover.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/1e0c2fa712340986cc53894f392ec93d476cfb08/2026/05/21/1e19020e-f2c3-4654-bc83-3d1ed98fbdd6/dsc09940.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/sony-bravia-trio-hands-on/"
-    ]
-  },
-  {
-    "id": "1c5dfc1243fb3c09ccf8e8f1",
-    "title": "I dug deeper into my Oura Ring data using this free app - here's what I found",
-    "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/",
-    "published": "2026-05-28T00:30:00+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I dug deeper into my Oura Ring data using this free app - here's what I found. What: I dug deeper into my Oura Ring data using this free app - here's what I found. When: 2026-05-28T00:30:00+00:00. How: Here's how I've been using it. Action: See Arabic action below.",
-    "summary_ar": "من: I dug deeper into my Oura Ring data using this free app - here's what I found. ماذا: I dug deeper into my Oura Ring data using this free app - here's what I found. متى: 2026-05-28T00:30:00+00:00. كيف: Here's how I've been using it.. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/c65935fa3b3f05f9ba5de1b439859b9610df0e6e/2024/12/20/7cdf0516-356e-4e0b-b755-b8c48604edfc/6ea3789c-834b-4950-8511-451fd649f7b3-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/oura-ring-simple-wearable-report-gemini-ai-chatbot/"
     ]
   }
 ]
