@@ -18,6 +18,46 @@
     ]
   },
   {
+    "id": "50a53afadcff1570e97a2013",
+    "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+    "published": "2026-11-25T22:05:09+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet.. What: [...] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks. When: 2026-11-25T22:05:09+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet.. ماذا: [...] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks. متى: 2026-11-25T22:05:09+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [
+      "CVE-2026-0322"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/11/25/paloalto.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
+    ]
+  },
+  {
+    "id": "70f66acc3de798b1e8aebeff",
+    "title": "1Password customer data stolen after employee GitHub account breach",
+    "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+    "published": "2026-11-25T21:33:33+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.. What: 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.. When: 2026-11-25T21:33:33+00:00. How: Details in the source. Action: See Arabic action below.",
+    "summary_ar": "من: 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.. ماذا: 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.. متى: 2026-11-25T21:33:33+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "category": "Data Breach",
+    "action": "اعزل الأنظمة المتأثرة، فعِّل incident response، وأخطر الأطراف المعنية.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/10/23/1Password_binary.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    ]
+  },
+  {
     "id": "9398c1750b17f9c48394c357",
     "title": "The security of US water systems is even leakier than we thought",
     "link": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
@@ -30,7 +70,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5312249.jpg?imageId=5312249&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243"
     ]
@@ -104,7 +144,7 @@
     ],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/5244798.jpg?imageId=5244798&x=12.36&y=0&cropw=77.52&croph=100&panox=12.36&panoy=0&panow=77.52&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085"
     ]
@@ -122,7 +162,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/232475.jpg?imageId=232475&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
     ]
@@ -523,7 +563,7 @@
     "cves": [],
     "cvss": [],
     "impacted": [],
-    "image": "",
+    "image": "https://image.theregister.com/227789.jpg?imageId=227789&x=0&y=15.15&cropw=100&croph=55.84&panox=0&panoy=15.15&panow=100&panoh=55.84&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
     ]
@@ -33324,27 +33364,6 @@
     "image": "https://image.theregister.com/5303188.jpg?imageId=5303188&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
     "sources": [
       "https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184"
-    ]
-  },
-  {
-    "id": "c9a3f02d710caec5c4ab4165",
-    "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-    "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-    "published": "2026-10-14T22:56:47+00:00",
-    "source": "bleepingcomputer.com",
-    "summary_en": "Who: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. What: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. When: 2026-10-14T22:56:47+00:00. How: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. Action: See Arabic action below.",
-    "summary_ar": "من: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. ماذا: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. متى: 2026-10-14T22:56:47+00:00. كيف: Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [
-      "CVE-2026-0322"
-    ],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg",
-    "sources": [
-      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
     ]
   },
   {
@@ -142953,61 +142972,6 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg",
     "sources": [
       "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
-    ]
-  },
-  {
-    "id": "b30f2d150f630d2706e7b7c6",
-    "title": "How I get my solar generators storm-ready fast - after years of emergency prep",
-    "link": "https://www.zdnet.com/article/how-to-prep-solar-power-stations-for-weather-emergencies/",
-    "published": "2026-05-30T01:00:48+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: How I get my solar generators storm-ready fast - after years of emergency prep. What: How I get my solar generators storm-ready fast - after years of emergency prep. When: 2026-05-30T01:00:48+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: How I get my solar generators storm-ready fast - after years of emergency prep. ماذا: How I get my solar generators storm-ready fast - after years of emergency prep. متى: 2026-05-30T01:00:48+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/77801582665df5b2564ea83b85ac12d530c7b9bb/2025/07/10/ebbf0d96-8951-43d5-a1a3-4f5d1dbc42f9/img-4412.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/how-to-prep-solar-power-stations-for-weather-emergencies/"
-    ]
-  },
-  {
-    "id": "61ef3d845a892c45b0aef103",
-    "title": "Lone attacker published 14 malicious npm packages mimicking popular OpenSearch, Elasticsearch libraries",
-    "link": "https://www.theregister.com/security/2026/05/29/14-malicious-npm-packages-impersonated-opensearch-elasticsearch-libraries/5248792",
-    "published": "2026-05-29T21:46:34+00:00",
-    "source": "theregister.com",
-    "summary_en": "Who: A single npm user on Thursday published 14 malicious packages within a four-hour window, all mimicking popular OpenSearch, Elasticsearch, DevOps, and environment-configuration libraries, according to Microsoft.. What: This suggests that the attacker “likely chose a developer audience to have AWS and Elastic cloud credentials in their environments,” Microsoft warned in a Thursday blog.. When: 2026-05-29T21:46:34+00:00. How: Using a newly created maintainer alias, vpmdhaj (a39155771@gmail[.]com), the threat actor published 14 packages impersonating legitimate libraries from the @opensearch and @elastic ecosystems and targeting Amazon Web Services, HashiCorp Vault, GitHub Actions, and the npm registry itself. Action: See Arabic action below.",
-    "summary_ar": "من: A single npm user on Thursday published 14 malicious packages within a four-hour window, all mimicking popular OpenSearch, Elasticsearch, DevOps, and environment-configuration libraries, according to Microsoft.. ماذا: This suggests that the attacker “likely chose a developer audience to have AWS and Elastic cloud credentials in their environments,” Microsoft warned in a Thursday blog.. متى: 2026-05-29T21:46:34+00:00. كيف: Using a newly created maintainer alias, vpmdhaj (a39155771@gmail[.]com), the threat actor published 14 packages impersonating legitimate libraries from the @opensearch and @elastic ecosystems and targeting Amazon Web Services, HashiCorp Vault, GitHub Actions, and the npm registry itself.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "category": "Patch/Update",
-    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://image.theregister.com/5248815.jpg?imageId=5248815&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-    "sources": [
-      "https://www.theregister.com/security/2026/05/29/14-malicious-npm-packages-impersonated-opensearch-elasticsearch-libraries/5248792"
-    ]
-  },
-  {
-    "id": "88ced96d51ee18c214572ed2",
-    "title": "Name That Toon: Mark of (Cybersecurity) Progress",
-    "link": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-    "published": "2026-05-29T20:22:04+00:00",
-    "source": "darkreading.com",
-    "summary_en": "Who: Name That Toon: Mark of (Cybersecurity) Progress. What: Name That Toon: Mark of (Cybersecurity) Progress. When: 2026-05-29T20:22:04+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: Name That Toon: Mark of (Cybersecurity) Progress. ماذا: Name That Toon: Mark of (Cybersecurity) Progress. متى: 2026-05-29T20:22:04+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "Threat/Attack",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?disable=upscale&width=1200&height=630&fit=crop",
-    "sources": [
-      "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-      "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress"
     ]
   }
 ]
