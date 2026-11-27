@@ -18,6 +18,44 @@
     ]
   },
   {
+    "id": "24f736113b681609c62f22eb",
+    "title": "Free e-government platform that serves two billion people in ten countries has critical SQL injection bug",
+    "link": "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449",
+    "published": "2026-11-27T01:19:31+00:00",
+    "source": "theregister.com",
+    "summary_en": "Who: Free e-government platform that serves two billion people in ten countries has critical SQL injection bug. What: “Successful exploitation of this vulnerability could allow the attacker to execute arbitrary SQL queries, potentially resulting in unauthorized disclosure, modification or deletion of database information on the targeted system.” eGov India, which oversees work on DIGIT, has released source code for an update that fixes the problem.. When: 2026-11-27T01:19:31+00:00. How: DIGIT is therefore used by governments that serve over two billion people, some of whom are now at risk thanks to CVE-2026-136706, a 9.3-rated SQL injection flaw present in DIGIT which allows “improper neutralization of user supplied input while constructing SQL queries and execution in the affected User and Access Control Service components.” “An unauthenticated remote attacker could exploit this vulnerability by sending specially crafted input through the affected API endpoint to the targeted system,” according to CERT-IN. Action: See Arabic action below.",
+    "summary_ar": "من: Free e-government platform that serves two billion people in ten countries has critical SQL injection bug. ماذا: “Successful exploitation of this vulnerability could allow the attacker to execute arbitrary SQL queries, potentially resulting in unauthorized disclosure, modification or deletion of database information on the targeted system.” eGov India, which oversees work on DIGIT, has released source code for an update that fixes the problem.. متى: 2026-11-27T01:19:31+00:00. كيف: DIGIT is therefore used by governments that serve over two billion people, some of whom are now at risk thanks to CVE-2026-136706, a 9.3-rated SQL injection flaw present in DIGIT which allows “improper neutralization of user supplied input while constructing SQL queries and execution in the affected User and Access Control Service components.” “An unauthenticated remote attacker could exploit this vulnerability by sending specially crafted input through the affected API endpoint to the targeted system,” according to CERT-IN.. الإجراء: حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "category": "Patch/Update",
+    "action": "حدِّث الأنظمة فورًا، طبّق إرشادات المورّد، وراقب مؤشرات الاستغلال.",
+    "cves": [
+      "CVE-2026-136706"
+    ],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://image.theregister.com/5312454.jpg?imageId=5312454&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "sources": [
+      "https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449"
+    ]
+  },
+  {
+    "id": "e0bf93ab8a32087afa156c6c",
+    "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+    "published": "2026-11-26T21:06:22+00:00",
+    "source": "bleepingcomputer.com",
+    "summary_en": "Who: OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.. What: OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.. When: 2026-11-26T21:06:22+00:00. How: [...] OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug Action: See Arabic action below.",
+    "summary_ar": "من: OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.. ماذا: OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.. متى: 2026-11-26T21:06:22+00:00. كيف: [...] OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "category": "General",
+    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
+    "cves": [],
+    "cvss": [],
+    "impacted": [],
+    "image": "https://www.bleepstatic.com/content/hl-images/2023/04/11/OpenAI-headpic.jpg",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/"
+    ]
+  },
+  {
     "id": "2cde4a64c5deb9d2296574f3",
     "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
     "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
@@ -143334,24 +143372,6 @@
     "image": "https://www.zdnet.com/a/img/resize/538b13e47a1ff975ab42c86fc869b0eb3ea2e827/2026/05/28/e4a58b6a-4ca6-4b4d-90f1-a82bef18745b/pxl-20260528-170316168.jpg?auto=webp&fit=crop&height=675&width=1200",
     "sources": [
       "https://www.zdnet.com/article/best-android-auto-weather-apps/"
-    ]
-  },
-  {
-    "id": "fd118d3807170b3af885b1af",
-    "title": "I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it",
-    "link": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
-    "published": "2026-05-31T00:00:41+00:00",
-    "source": "zdnet.com",
-    "summary_en": "Who: I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it. What: I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it. When: 2026-05-31T00:00:41+00:00. How: Details in the source. Action: See Arabic action below.",
-    "summary_ar": "من: I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it. ماذا: I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it. متى: 2026-05-31T00:00:41+00:00. كيف: تفاصيل إضافية بالمصدر. الإجراء: اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "category": "General",
-    "action": "اتّبع إرشادات المصدر وطبّق أفضل الممارسات.",
-    "cves": [],
-    "cvss": [],
-    "impacted": [],
-    "image": "https://www.zdnet.com/a/img/resize/9aa1ff30e479a0ea64d9cc23070cd4007be06d0e/2026/05/28/390769f6-6904-4177-8b25-2a6a380abcc2/figure-top-google-gemini-is-my-favorite-ai-assistant-when-im-driving.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "sources": [
-      "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/"
     ]
   }
 ]
